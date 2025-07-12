@@ -21,7 +21,9 @@ class CTUFlowRAGPipeline:
     
     def __init__(self, 
                  cultural_index_path: Optional[Path] = None,
-                 output_dir: Path = Path("output")):
+                 output_dir: Path = Path("output"),
+                 tiling_window: int = 6,
+                 tiling_thresh: float = 0.15):
         """Initialize pipeline components."""
         self.output_dir = output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -33,6 +35,10 @@ class CTUFlowRAGPipeline:
         
         self.prompt_synthesizer = PromptSynthesizer()
         self.image_generator = ImageGenerator()
+
+        # Segmentation params
+        self.tiling_window = tiling_window
+        self.tiling_thresh = tiling_thresh
         
         # Pipeline results
         self.results = {
@@ -88,7 +94,7 @@ class CTUFlowRAGPipeline:
         """Segment sentences into CTUs."""
         print("📝 Segmenting into Coherent Text Units...")
         
-        ctus = segment_scheme(sentences)
+        ctus = segment_scheme(sentences, window=self.tiling_window, thresh=self.tiling_thresh)
         self.results['ctus'] = ctus
         
         print(f"✅ Identified {len(ctus)} CTUs")
@@ -266,13 +272,17 @@ def main():
     parser.add_argument("--cultural-index", help="Path to cultural index")
     parser.add_argument("--output-dir", default="output", help="Output directory")
     parser.add_argument("--no-llm", action="store_true", help="Use only SVM for role tagging")
+    parser.add_argument("--tiling-window", type=int, default=6, help="TextTiling window size (sentences)")
+    parser.add_argument("--tiling-thresh", type=float, default=0.15, help="TextTiling similarity threshold")
     
     args = parser.parse_args()
     
     # Initialize pipeline
     pipeline = CTUFlowRAGPipeline(
         cultural_index_path=Path(args.cultural_index) if args.cultural_index else None,
-        output_dir=Path(args.output_dir)
+        output_dir=Path(args.output_dir),
+        tiling_window=args.tiling_window,
+        tiling_thresh=args.tiling_thresh
     )
     
     # Run pipeline

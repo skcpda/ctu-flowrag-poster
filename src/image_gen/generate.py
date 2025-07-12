@@ -107,7 +107,18 @@ class ImageGenerator:
             Dictionary with generation results
         """
         if self.method == "dalle":
-            return self.generate_with_dalle(prompt)
+            result = self.generate_with_dalle(prompt)
+            # If caller provided desired save location, download image
+            if output_path and result.get("success") and result.get("image_url"):
+                # Coerce to Path in case a string was supplied
+                out_path = Path(output_path)
+                out_path.parent.mkdir(parents=True, exist_ok=True)
+                if download_image(result["image_url"], out_path):
+                    result["local_path"] = str(out_path)
+                else:
+                    # flag failure to save locally but keep remote URL
+                    result["save_error"] = "Failed to download image"
+            return result
         elif self.method == "stable_diffusion":
             if not output_path:
                 output_path = Path("generated_image.png")
