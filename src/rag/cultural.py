@@ -8,8 +8,8 @@ from sentence_transformers import SentenceTransformer
 import faiss
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load sentence transformer for embeddings
-EMB = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+# Load BGE sentence transformer for embeddings (better multilingual performance)
+EMB = SentenceTransformer("BAAI/bge-small-en-v1.5")
 
 class CulturalRetriever:
     """Cultural retriever using FAISS-HNSW index."""
@@ -51,7 +51,12 @@ class CulturalRetriever:
         
         # Compute embeddings
         print("Computing embeddings...")
-        self.embeddings = EMB.encode(self.snippets, batch_size=32, show_progress_bar=True)
+        self.embeddings = EMB.encode(
+            self.snippets,
+            batch_size=32,
+            show_progress_bar=True,
+            normalize_embeddings=True,
+        )
         
         # Build FAISS index (Flat inner-product for compatibility)
         print("Building FAISS Flat-IP index (cosine similarity)...")
@@ -118,7 +123,7 @@ class CulturalRetriever:
             raise ValueError("Index not loaded. Call load_index() first.")
         
         # Compute query embedding
-        query_embedding = EMB.encode([query_text])
+        query_embedding = EMB.encode([query_text], normalize_embeddings=True)
         
         # Search index
         similarities, indices = self.index.search(
@@ -176,7 +181,7 @@ class CulturalRetriever:
             raise ValueError("Index not loaded. Call load_index() first.")
         
         # Compute embeddings for all queries
-        query_embeddings = EMB.encode(queries, batch_size=32, show_progress_bar=True)
+        query_embeddings = EMB.encode(queries, batch_size=32, show_progress_bar=True, normalize_embeddings=True)
         
         # Batch search
         similarities, indices = self.index.search(

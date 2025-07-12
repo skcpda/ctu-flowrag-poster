@@ -23,7 +23,8 @@ class CTUFlowRAGPipeline:
                  cultural_index_path: Optional[Path] = None,
                  output_dir: Path = Path("output"),
                  tiling_window: int = 6,
-                 tiling_thresh: float = 0.15):
+                 tiling_thresh: float = 0.15,
+                 fallback_sentences: int = 8):
         """Initialize pipeline components."""
         self.output_dir = output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -39,6 +40,7 @@ class CTUFlowRAGPipeline:
         # Segmentation params
         self.tiling_window = tiling_window
         self.tiling_thresh = tiling_thresh
+        self.fallback_sentences = fallback_sentences
         
         # Pipeline results
         self.results = {
@@ -94,7 +96,10 @@ class CTUFlowRAGPipeline:
         """Segment sentences into CTUs."""
         print("📝 Segmenting into Coherent Text Units...")
         
-        ctus = segment_scheme(sentences, window=self.tiling_window, thresh=self.tiling_thresh)
+        ctus = segment_scheme(sentences,
+                              window=self.tiling_window,
+                              thresh=self.tiling_thresh,
+                              fallback_sentences=self.fallback_sentences)
         self.results['ctus'] = ctus
         
         print(f"✅ Identified {len(ctus)} CTUs")
@@ -274,6 +279,7 @@ def main():
     parser.add_argument("--no-llm", action="store_true", help="Use only SVM for role tagging")
     parser.add_argument("--tiling-window", type=int, default=6, help="TextTiling window size (sentences)")
     parser.add_argument("--tiling-thresh", type=float, default=0.15, help="TextTiling similarity threshold")
+    parser.add_argument("--fallback-sentences", type=int, default=8, help="Sentence count for fallback CTU splitting")
     
     args = parser.parse_args()
     
@@ -282,7 +288,8 @@ def main():
         cultural_index_path=Path(args.cultural_index) if args.cultural_index else None,
         output_dir=Path(args.output_dir),
         tiling_window=args.tiling_window,
-        tiling_thresh=args.tiling_thresh
+        tiling_thresh=args.tiling_thresh,
+        fallback_sentences=args.fallback_sentences
     )
     
     # Run pipeline

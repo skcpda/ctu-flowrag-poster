@@ -16,7 +16,7 @@ except ImportError:
 class PromptSynthesizer:
     """Synthesize prompts from templates, CTU facts, and cultural cues."""
     
-    def __init__(self, templates_file: Optional[Path] = None):
+    def __init__(self, templates_file: Optional[Path] = None, *, style_prefix: str = "Flat-icon infographic, pastel palette – ", max_prompt_len: int = 250):
         """
         Initialize prompt synthesizer.
         
@@ -28,6 +28,10 @@ class PromptSynthesizer:
             "target_pop", "eligibility", "benefits", 
             "procedure", "timeline", "contact", "misc"
         ]
+
+        # Prompt style and sanitisation
+        self.style_prefix = style_prefix.strip()
+        self.max_prompt_len = max_prompt_len
 
         # Initialise bandit agent (arms = string indices 0-9)
         if BanditAgent:
@@ -144,6 +148,19 @@ class PromptSynthesizer:
         
         return facts
     
+    def _sanitize_prompt(self, prompt: str) -> str:
+        """Clean up prompt: drop unresolved {placeholders}, trim length, strip bad chars."""
+        # Remove leftover {placeholder} patterns
+        prompt = re.sub(r"\{[^}]+\}", "", prompt)
+        # Collapse whitespace
+        prompt = re.sub(r"\s+", " ", prompt).strip()
+        # Strip markdown/HTML remnants
+        prompt = re.sub(r"[`*_>#\[\]{}]", "", prompt)
+        # Limit length
+        if len(prompt) > self.max_prompt_len:
+            prompt = prompt[: self.max_prompt_len].rstrip() + "…"
+        return prompt
+
     def generate_image_prompt(self, ctu: Dict, cultural_cues: List[Dict] = None) -> str:
         """
         Generate image prompt for a CTU.
@@ -187,10 +204,12 @@ class PromptSynthesizer:
             if cultural_context:
                 prompt += f", incorporating cultural elements: {cultural_context}"
         
-        # Ensure prompt is not too long (max 35 tokens)
-        words = prompt.split()
-        if len(words) > 35:
-            prompt = " ".join(words[:35]) + "..."
+        # Prepend style prefix
+        if self.style_prefix:
+            prompt = f"{self.style_prefix} {prompt}"
+
+        # Final sanitisation
+        prompt = self._sanitize_prompt(prompt)
         
         return prompt
     
@@ -258,6 +277,7 @@ class PromptSynthesizer:
         role_to_order = {role: i for i, role in enumerate(self.role_order)}
         sorted_ctus = sorted(ctus, key=lambda x: role_to_order.get(x.get('role', 'misc'), 999))
         
+        seen = set()
         for i, ctu in enumerate(sorted_ctus):
             # Get cultural cues if retriever available
             cultural_cues = []
@@ -269,6 +289,10 @@ class PromptSynthesizer:
             image_prompt = self.generate_image_prompt(ctu, cultural_cues)
             caption = self.generate_caption(ctu, cultural_cues)
             
+            key = (ctu.get('role', 'misc'), caption)
+            if key in seen:
+                continue
+
             poster_info = {
                 'poster_id': i + 1,
                 'ctu_id': ctu.get('ctu_id', i + 1),
@@ -281,6 +305,7 @@ class PromptSynthesizer:
             }
             
             poster_data.append(poster_info)
+            seen.add(key)
         
         return poster_data
     
