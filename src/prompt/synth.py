@@ -26,7 +26,7 @@ class PromptSynthesizer:
         self.templates = self._load_templates(templates_file)
         self.role_order = [
             "target_pop", "eligibility", "benefits", 
-            "procedure", "timeline", "contact", "misc"
+            "exclusions", "procedure", "timeline", "contact", "misc"
         ]
 
         # Prompt style and sanitisation
@@ -70,6 +70,10 @@ class PromptSynthesizer:
                 "contact": [
                     "Contact information displayed clearly with {contact_details}",
                     "Help desk or support center with {contact_details} prominently shown"
+                ],
+                "exclusions": [
+                    "Illustration highlighting who is NOT eligible: {exclusion_criteria}",
+                    "Crossed-out icons representing ineligible groups: {exclusion_criteria}"
                 ],
                 "misc": [
                     "General information about {topic} presented in accessible visual format",
@@ -143,6 +147,17 @@ class PromptSynthesizer:
                 for sent in sentences:
                     if keyword in sent.lower():
                         facts['benefits'] = sent.strip()
+                        break
+                break
+
+        # Extract exclusion criteria
+        exclusion_keywords = ['not eligible', 'excluded', 'cannot apply', 'not entitled']
+        for keyword in exclusion_keywords:
+            if keyword in ctu_text.lower():
+                sentences = ctu_text.split('.')
+                for sent in sentences:
+                    if keyword in sent.lower():
+                        facts['exclusion_criteria'] = sent.strip()
                         break
                 break
         
@@ -237,6 +252,8 @@ class PromptSynthesizer:
             caption = f"Requirements: {facts.get('eligibility_criteria', 'check criteria')}"
         elif role == "benefits":
             caption = f"Benefits: {facts.get('benefits', 'financial support')}"
+        elif role == "exclusions":
+            caption = f"Not eligible: {facts.get('exclusion_criteria', 'see details')}"
         elif role == "procedure":
             caption = f"How to apply: {facts.get('application_process', 'simple steps')}"
         elif role == "timeline":
@@ -257,6 +274,8 @@ class PromptSynthesizer:
             if cultural_hint:
                 caption += f" | {cultural_hint}"
         
+        # Sanitize caption similar to prompt
+        caption = self._sanitize_prompt(caption)
         return caption
     
     def synthesize_poster_data(self, ctus: List[Dict], 

@@ -11,6 +11,7 @@ sys.path.append(str(Path(__file__).parent.parent))
 from src.io.load_scheme import load_scheme
 from src.prep.sent_split_lid import sent_split_lid
 from src.ctu.segment import segment_scheme
+from src.prep.ctu_shrink import shrink_ctu
 from src.role.tag import tag_ctus
 from src.rag.cultural import CulturalRetriever
 from src.prompt.synth import PromptSynthesizer
@@ -100,6 +101,14 @@ class CTUFlowRAGPipeline:
                               window=self.tiling_window,
                               thresh=self.tiling_thresh,
                               fallback_sentences=self.fallback_sentences)
+
+        # Shrink overly long CTUs ( >6 sentences )
+        for ctu in ctus:
+            sent_count = ctu['end'] - ctu['start']
+            ctu['sent_count'] = sent_count
+            if sent_count > 6:
+                ctu['text'] = shrink_ctu(ctu['text'], max_sents=6)
+        
         self.results['ctus'] = ctus
         
         print(f"✅ Identified {len(ctus)} CTUs")

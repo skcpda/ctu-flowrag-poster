@@ -19,6 +19,7 @@ ROLE_LABELS = [
     "procedure",       # Application process
     "timeline",        # Important dates/deadlines
     "contact",         # Contact information
+    "exclusions",     # Who is NOT eligible / excluded
     "misc"            # Other information
 ]
 
@@ -110,6 +111,13 @@ class HybridRoleClassifier:
                 "The program is funded by the central government.",
                 "Regular monitoring ensures proper implementation.",
                 "The scheme has been extended for another year."
+            ],
+            "exclusions": [
+                "Large commercial farmers are excluded from this subsidy program.",
+                "Applicants owning more than 5 hectares of land are not eligible.",
+                "Government employees cannot apply under this scheme.",
+                "Individuals who have defaulted on bank loans are excluded.",
+                "Enterprises engaged in tobacco production are not covered."
             ]
         }
         
@@ -132,6 +140,7 @@ Available roles:
 - procedure: Application process and procedures
 - timeline: Important dates, deadlines, and time-related information
 - contact: Contact information, helpline numbers, office details
+- exclusions: Groups or entities explicitly NOT eligible
 - misc: Other information not fitting the above categories
 
 Text: "{text}"
