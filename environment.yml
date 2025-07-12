@@ -33,5 +33,5 @@ dependencies:
 
   # Anything not on conda → pip
   - pip:
-      - fasttext-wheel        # arm64 wheels via PyPI
+      - fasttext-wheel==0.9.2        # arm64 wheels via PyPI
       - spacy-langdetect
