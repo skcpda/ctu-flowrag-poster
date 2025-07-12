@@ -47,9 +47,13 @@ class BanditAgent:
         )
         return cursor.fetchone()[0]
 
-    def record(self, context: str, arm: str, reward: float):
+    def record(self, context: str, arm: str, reward: float, latency: float = 0):
         self.conn.execute(
             "INSERT INTO interactions (context, arm, reward) VALUES (?,?,?)",
             (context, arm, reward),
         )
-        self.conn.commit() 
+        self.conn.commit()
+
+    # Backwards-compat alias
+    def update(self, context: str, arm: str, reward: float, latency: float = 0):
+        self.record(context, arm, reward, latency) 

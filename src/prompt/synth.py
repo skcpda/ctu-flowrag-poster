@@ -6,6 +6,13 @@ from typing import List, Dict, Optional, Tuple
 import re
 import random
 
+# Thompson-sampling bandit for adaptive template/arm selection
+try:
+    from src.bandit.bandit_agent import BanditAgent
+except ImportError:
+    # Fallback stub in case bandit not available
+    BanditAgent = None
+
 class PromptSynthesizer:
     """Synthesize prompts from templates, CTU facts, and cultural cues."""
     
@@ -21,6 +28,12 @@ class PromptSynthesizer:
             "target_pop", "eligibility", "benefits", 
             "procedure", "timeline", "contact", "misc"
         ]
+
+        # Initialise bandit agent (arms = string indices 0-9)
+        if BanditAgent:
+            self.bandit = BanditAgent([str(i) for i in range(10)])
+        else:
+            self.bandit = None
     
     def _load_templates(self, templates_file: Optional[Path]) -> Dict:
         """Load prompt templates from YAML file."""
@@ -148,10 +161,18 @@ class PromptSynthesizer:
         # Extract facts from CTU
         facts = self.extract_facts(text)
         
-        # Get template for this role
+        # Get template list for this role
         if role in self.templates:
             templates = self.templates[role]
-            template = random.choice(templates)
+            # Bandit-driven template index
+            if self.bandit:
+                arm = self.bandit.choose_arm(role)
+                idx = int(arm) % len(templates)
+                template = templates[idx]
+                # placeholder reward = 0 (to be updated offline)
+                self.bandit.update(role, arm, reward=0.0)
+            else:
+                template = random.choice(templates)
         else:
             template = "Visual representation of {topic} in accessible format"
         
