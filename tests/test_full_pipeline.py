@@ -5,12 +5,12 @@ from pathlib import Path
 import sys
 sys.path.append(str(Path(__file__).parent.parent / "src"))
 
-from prep.sent_split_lid import sent_split_lid
-from ctu.segment import segment_scheme
-from ctu.graph_builder import build_discourse_graph
-from role.tag import hybrid_classifier
-from rag.cultural import CulturalRetriever, create_sample_snippets
-from prompt.synth import PromptSynthesizer
+from src.prep.sent_split_lid import sent_split_lid
+from src.ctu.segment import segment_scheme
+from src.ctu.graph_builder import build_discourse_graph
+from src.role.tag import hybrid_classifier
+from src.rag.cultural import CulturalRetriever, create_sample_snippets
+from src.prompt.synth import PromptSynthesizer
 
 def test_full_pipeline():
     """Test the complete CTU-FlowRAG pipeline."""
