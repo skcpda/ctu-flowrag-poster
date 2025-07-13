@@ -34,7 +34,7 @@ def segment_scheme(
     sent_records: list[dict],
     window: int = 6,
     thresh: float = 0.15,
-    fallback_sentences: int = 8,
+    fallback_sentences: int = 6,
 ) -> list[dict]:
     """Given list of {'sent','lang'} produce CTU dicts with text & lang stats."""
     sents = [rec["sent"] for rec in sent_records]

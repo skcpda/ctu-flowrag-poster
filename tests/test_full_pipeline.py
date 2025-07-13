@@ -41,6 +41,8 @@ def test_full_pipeline():
     print(f"   Identified {len(ctus)} CTUs")
     for i, ctu in enumerate(ctus):
         print(f"   CTU {i+1}: {ctu['text'][:100]}...")
+        # Assert CTU conciseness
+        assert ctu['text'].count('.') + ctu['text'].count('!') + ctu['text'].count('?') <= 6
     
     print("\n3. Discourse Graph Building")
     graph_data = build_discourse_graph(ctus)

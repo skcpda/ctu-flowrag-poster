@@ -176,7 +176,7 @@ class PromptSynthesizer:
             prompt = prompt[: self.max_prompt_len].rstrip() + "…"
         return prompt
 
-    def generate_image_prompt(self, ctu: Dict, cultural_cues: List[Dict] = None) -> str:
+    def generate_image_prompt(self, ctu: Dict, cultural_cues: List[Dict] = None, *, idx: int = None, total: int = None, prev_role: str = None) -> str:
         """
         Generate image prompt for a CTU.
         
@@ -219,8 +219,15 @@ class PromptSynthesizer:
             if cultural_context:
                 prompt += f", incorporating cultural elements: {cultural_context}"
         
-        # Prepend style prefix
-        if self.style_prefix:
+        # Build bridge/header if we have storyboard context
+        if idx is not None and total is not None:
+            bridge = f"Poster {idx}/{total} – {role.capitalize()}"
+            if prev_role:
+                bridge += f" (after {prev_role})"
+            prompt = f"{bridge}. {prompt}"
+
+        # Prepend style prefix (first prompt injects style; others will inherit via bridge text)
+        if self.style_prefix and (idx == 1 or idx is None):
             prompt = f"{self.style_prefix} {prompt}"
 
         # Final sanitisation
@@ -274,12 +281,13 @@ class PromptSynthesizer:
             if cultural_hint:
                 caption += f" | {cultural_hint}"
         
-        # Sanitize caption similar to prompt
+        # Sanitize caption and enforce <=80 chars
         caption = self._sanitize_prompt(caption)
+        if len(caption) > 80:
+            caption = caption[:77].rstrip() + "…"
         return caption
     
-    def synthesize_poster_data(self, ctus: List[Dict], 
-                              cultural_retriever=None) -> List[Dict]:
+    def synthesize_poster_data(self, ctus: List[Dict], cultural_retriever=None, storyboard_mode: bool = False) -> List[Dict]:
         """
         Synthesize complete poster data for all CTUs.
         
@@ -294,9 +302,14 @@ class PromptSynthesizer:
         
         # Sort CTUs by canonical role order
         role_to_order = {role: i for i, role in enumerate(self.role_order)}
-        sorted_ctus = sorted(ctus, key=lambda x: role_to_order.get(x.get('role', 'misc'), 999))
+        if storyboard_mode:
+            sorted_ctus = ctus  # assume already ordered via storyboard
+        else:
+            sorted_ctus = sorted(ctus, key=lambda x: role_to_order.get(x.get('role', 'misc'), 999))
         
         seen = set()
+        total = len(sorted_ctus)
+        prev_role = None
         for i, ctu in enumerate(sorted_ctus):
             # Get cultural cues if retriever available
             cultural_cues = []
@@ -305,7 +318,7 @@ class PromptSynthesizer:
                 cultural_cues = cultural_retriever.query_ctu(ctu['text'], lang_counts)
             
             # Generate prompt and caption
-            image_prompt = self.generate_image_prompt(ctu, cultural_cues)
+            image_prompt = self.generate_image_prompt(ctu, cultural_cues, idx=i+1, total=total, prev_role=prev_role)
             caption = self.generate_caption(ctu, cultural_cues)
             
             key = (ctu.get('role', 'misc'), caption)
@@ -325,6 +338,7 @@ class PromptSynthesizer:
             
             poster_data.append(poster_info)
             seen.add(key)
+            prev_role = poster_info['role']
         
         return poster_data
     

@@ -16,6 +16,7 @@ from src.role.tag import tag_ctus
 from src.rag.cultural import CulturalRetriever
 from src.prompt.synth import PromptSynthesizer
 from src.image_gen.generate import ImageGenerator
+from src.flow.storyboard import build_storyboard
 
 class CTUFlowRAGPipeline:
     """Main pipeline for CTU-FlowRAG system."""
@@ -25,7 +26,7 @@ class CTUFlowRAGPipeline:
                  output_dir: Path = Path("output"),
                  tiling_window: int = 6,
                  tiling_thresh: float = 0.15,
-                 fallback_sentences: int = 8):
+                 fallback_sentences: int = 6):
         """Initialize pipeline components."""
         self.output_dir = output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -160,7 +161,7 @@ class CTUFlowRAGPipeline:
         return cultural_contexts
     
     def synthesize_prompts(self, tagged_ctus: List[Dict[str, Any]], 
-                          cultural_contexts: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+                          cultural_contexts: List[Dict[str, Any]], storyboard: bool = False) -> List[Dict[str, Any]]:
         """Synthesize prompts for poster generation."""
         print("🎨 Synthesizing prompts...")
         
@@ -171,7 +172,7 @@ class CTUFlowRAGPipeline:
             ctu_with_context['cultural_snippets'] = context['cultural_snippets']
             
             # Generate prompt
-            prompt_data = self.prompt_synthesizer.synthesize_poster_data([ctu_with_context])
+            prompt_data = self.prompt_synthesizer.synthesize_poster_data([ctu_with_context], storyboard_mode=storyboard)
             
             if prompt_data:
                 prompts.extend(prompt_data)
@@ -234,10 +235,13 @@ class CTUFlowRAGPipeline:
             # Step 5: Retrieve cultural context
             cultural_contexts = self.retrieve_cultural_context(tagged_ctus)
             
-            # Step 6: Synthesize prompts
-            prompts = self.synthesize_prompts(tagged_ctus, cultural_contexts)
+            # Step 6: Storyboard
+            storyboard_ctus = build_storyboard(tagged_ctus)
+
+            # Step 7: Synthesize prompts with storyboard order
+            prompts = self.synthesize_prompts(storyboard_ctus, cultural_contexts, storyboard=True)
             
-            # Step 7: Generate posters
+            # Step 8: Generate posters
             posters = self.generate_posters(prompts)
             
             # Save results
@@ -288,7 +292,7 @@ def main():
     parser.add_argument("--no-llm", action="store_true", help="Use only SVM for role tagging")
     parser.add_argument("--tiling-window", type=int, default=6, help="TextTiling window size (sentences)")
     parser.add_argument("--tiling-thresh", type=float, default=0.15, help="TextTiling similarity threshold")
-    parser.add_argument("--fallback-sentences", type=int, default=8, help="Sentence count for fallback CTU splitting")
+    parser.add_argument("--fallback-sentences", type=int, default=6, help="Sentence count for fallback CTU splitting")
     
     args = parser.parse_args()
     
