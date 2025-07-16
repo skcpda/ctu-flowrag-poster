@@ -39,8 +39,14 @@ def build_storyboard(ctus: List[Dict], role_order: List[str] | None = None) -> L
     for role in role_order:
         if role not in grouped:
             continue
-        # pick highest confidence or first occurrence
+        # pick CTU with highest (confidence, salience)
         beats.append(
-            max(grouped[role], key=lambda x: x.get("role_confidence", 0.5))
+            max(grouped[role], key=lambda x: (x.get("role_confidence", 0.5), x.get("salience", 0.0)))
         )
+
+    # Final ordering: precedence already respected; break ties by -salience
+    beats.sort(key=lambda c: (
+        role_order.index(c.get("role", "misc")) if c.get("role") in role_order else len(role_order),
+        -c.get("salience", 0.0),
+    ))
     return beats 

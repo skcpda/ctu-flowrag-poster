@@ -17,9 +17,9 @@ class ExpLogger:
     """
 
     _HEADERS = {
-        "T1_segmentation": ["run_id", "pk", "windowdiff", "timestamp"],
+        "T1_segmentation": ["run_id", "pk", "windowdiff", "graph_cov@6", "timestamp"],
         "T2_role": ["run_id", "macro_f1", "timestamp"],
-        "T3_single_ret": ["run_id", "variant", "nDCG@10", "MRR@10", "MAP@10", "timestamp"],
+        "T3_single_ret": ["run_id", "variant", "nDCG@10", "MRR@10", "MAP@10", "salience_nDCG", "timestamp"],
         "T4_query_rewrite": ["run_id", "rewrite", "nDCG@10", "timestamp"],
         "T5_visual_flow": ["run_id", "clip_flow", "human_score", "timestamp"],
         "T6_runtime": ["run_id", "stage", "seconds", "timestamp"],

@@ -20,12 +20,15 @@ try:
 except ImportError:
     _HAS_BM25 = False
 
-from sentence_transformers import SentenceTransformer
+try:
+    from sentence_transformers import SentenceTransformer
+    _HAS_ST = True
+except ImportError:
+    _HAS_ST = False
+
 import numpy as np
 
-from src.bandit.bandit_agent import BanditAgent
-from src.utils.metrics import ndcg
-
+# ndcg not used after removing bandit logic
 
 # ----------------- BM25 RETRIEVER -----------------
 
@@ -44,6 +47,8 @@ class BM25Retriever:
 
 class BGESimRetriever:
     def __init__(self, corpus: List[str]):
+        if not _HAS_ST:
+            raise ImportError("sentence_transformers not installed")
         self.corpus = corpus
         self.emb = SentenceTransformer("BAAI/bge-small-en-v1.5")
         self.matrix = self.emb.encode(corpus, normalize_embeddings=True)
@@ -56,22 +61,26 @@ class BGESimRetriever:
 
 
 class RetrievalFusionManager:
-    """Choose among multiple retrievers using a Thompson-sampling bandit."""
+    """Round-robin fusion across available retrievers (no bandit)."""
 
     def __init__(self, corpus: List[str]):
-        self.retrievers = {}
+        self.retrievers: Dict[str, object] = {}
         if _HAS_BM25:
             self.retrievers["bm25"] = BM25Retriever(corpus)
-        self.retrievers["bge"] = BGESimRetriever(corpus)
+        if _HAS_ST:
+            self.retrievers["bge"] = BGESimRetriever(corpus)
         if not self.retrievers:
-            raise RuntimeError("No retrievers available")
-        self.bandit = BanditAgent(list(self.retrievers.keys()))
+            raise RuntimeError("No retrievers available – install rank_bm25 or sentence_transformers.")
+        self._arms = list(self.retrievers.keys())
+        self._idx = 0  # round-robin counter
 
-    def query(self, text: str, context: str = "default", top_k: int = 5) -> List[Dict]:
-        arm = self.bandit.choose_arm(context)
+    def _choose_arm(self) -> str:
+        arm = self._arms[self._idx % len(self._arms)]
+        self._idx += 1
+        return arm
+
+    def query(self, text: str, top_k: int = 5) -> List[Dict]:
+        arm = self._choose_arm()
         results = self.retrievers[arm].query(text, top_k=top_k)
-        # graded relevance list -> use nDCG@10 as reward
-        rels = [r["score"] for r in results]
-        reward = ndcg(rels, k=min(10, len(rels)))
-        self.bandit.update(context, arm, reward)
+        # Optionally compute ndcg or other feedback here
         return results 

@@ -17,12 +17,19 @@ class DenseIndex:
     def __init__(self, dim: int):
         self.dim = dim
         if _FAISS_AVAILABLE:
-            self.index = faiss.IndexFlatIP(dim)
+            # Use IVF-Flat for scalability if faiss compiled with GPU/CPU support.
+            nlist = 100  # number of Voronoi cells
+            quantiser = faiss.IndexFlatIP(dim)
+            self.index = faiss.IndexIVFFlat(quantiser, dim, nlist, faiss.METRIC_INNER_PRODUCT)
+            self._needs_training = True
         else:
             self.vectors: List[np.ndarray] = []
 
     def add(self, vecs: np.ndarray):
         if _FAISS_AVAILABLE:
+            # Train once on first add if IVF not trained yet
+            if isinstance(self.index, faiss.IndexIVFFlat) and not self.index.is_trained:
+                self.index.train(vecs)
             self.index.add(vecs)
         else:
             self.vectors.append(vecs)

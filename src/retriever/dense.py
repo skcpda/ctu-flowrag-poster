@@ -1,7 +1,15 @@
 from __future__ import annotations
 
 import numpy as np
-from typing import List
+from typing import List, Dict
+
+# Optional heavy dependency
+try:
+    from sentence_transformers import SentenceTransformer
+    _HAS_ST = True
+    _BGE_MODEL: SentenceTransformer | None = None
+except ImportError:
+    _HAS_ST = False
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from src.cdge import infer as cdge_infer
@@ -18,25 +26,46 @@ _EMB_DIM_BGE = 768
 _EMB_DIM_CDGE = 128
 
 
-def _augment_with_keywords(texts: List[str], top_k: int = 5) -> List[str]:
-    """Append top-k TF-IDF keywords to each text string."""
+def _augment_with_keywords(ctus: List[Dict], top_k: int = 5) -> List[str]:
+    """Append top-k TF-IDF keywords to each CTU text, boosting *salient* CTUs.
+
+    For CTUs with salience > median we take +2 extra keywords.
+    """
+    texts = [c["text"] for c in ctus]
     vectorizer = TfidfVectorizer(stop_words="english", max_features=5000)
     tfidf = vectorizer.fit_transform(texts)
     terms = np.array(vectorizer.get_feature_names_out())
+
+    saliences = [c.get("salience", 0.0) for c in ctus]
+    median_sal = float(np.median(saliences)) if saliences else 0.0
+
     augmented = []
-    for i, text in enumerate(texts):
+    for i, ctu in enumerate(ctus):
         row = tfidf.getrow(i).toarray().flatten()
         if row.sum() == 0:
-            augmented.append(text)
+            augmented.append(ctu["text"])
             continue
-        idx = row.argsort()[-top_k:][::-1]
+        extra = 2 if ctu.get("salience", 0.0) > median_sal else 0
+        k = top_k + extra
+        idx = row.argsort()[-k:][::-1]
         keywords = " ".join(terms[idx])
-        augmented.append(f"{text} {keywords}")
+        augmented.append(f"{ctu['text']} {keywords}")
     return augmented
 
 
 def _text_hash(text: str) -> str:
     return hashlib.md5(text.encode("utf-8")).hexdigest()
+
+
+def _bge_encode(texts: List[str]) -> np.ndarray:
+    """Encode with BGE small model if available; else zeros."""
+    if not _HAS_ST:
+        return np.zeros((len(texts), _EMB_DIM_BGE), dtype=np.float32)
+
+    global _BGE_MODEL
+    if _BGE_MODEL is None:
+        _BGE_MODEL = SentenceTransformer("BAAI/bge-small-en-v1.5")
+    return _BGE_MODEL.encode(texts, batch_size=32, convert_to_numpy=True, normalize_embeddings=True)
 
 
 def encode(
@@ -69,7 +98,7 @@ def encode(
     # ------------------ compute embeddings ------------------
     n = len(texts)
     dim = _EMB_DIM_BGE + (_EMB_DIM_CDGE if add_cdge else 0)
-    vecs = np.zeros((n, _EMB_DIM_BGE), dtype=np.float32)
+    vecs = _bge_encode(texts)
     # Placeholder BGE embedding is zeros – simulate lookup/cache logic
     # If in future real embeddings are computed, this cache will become useful.
 
@@ -77,7 +106,9 @@ def encode(
         cdge_vec = cdge_infer.encode(vecs, adjacency)
         vecs = np.concatenate([vecs, cdge_vec], axis=1)
     if add_ctu_keywords:
-        texts = _augment_with_keywords(texts)
+        # Need CTU dicts with salience; assume texts length equals ctus length
+        ctus_stub = [{"text": t, "salience": 0.0} for t in texts]
+        texts = _augment_with_keywords(ctus_stub)
 
     # Save back cache (no-op for zero vecs but future-proof)
     if cache_enabled:

@@ -19,6 +19,7 @@ class CDGE(nn.Module):
         super().__init__()
         self.layer1 = nn.Linear(in_dim, hidden, bias=False)
         self.act = nn.ReLU()
+        self.dropout = nn.Dropout(p=0.2)
         self.layer2 = nn.Linear(hidden, out_dim, bias=False)
 
     @staticmethod
@@ -37,7 +38,7 @@ class CDGE(nn.Module):
         # If adjacency provided and square, perform message passing
         if adj is not None and adj.dim() == 2 and adj.size(0) == adj.size(1):
             A_norm = self._normalize_adj(adj)
-            h = self.act(self.layer1(A_norm @ x))
+            h = self.dropout(self.act(self.layer1(A_norm @ x)))
             z = self.layer2(A_norm @ h)
         else:
             h = self.act(self.layer1(x))

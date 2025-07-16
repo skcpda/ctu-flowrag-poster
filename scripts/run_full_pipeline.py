@@ -33,7 +33,7 @@ def main():
     text = scheme_data.get("longDescription") or "\n".join(scheme_data.values())
 
     ctus = segment_scheme(text)
-    logger.log("T1_segmentation", {"run_id": args.run_id, "pk": 0.0, "windowdiff": 0.0})
+    logger.log("T1_segmentation", {"run_id": args.run_id, "pk": 0.0, "windowdiff": 0.0, "graph_cov@6": 0.0})
     logger.log("T2_role", {"run_id": args.run_id, "macro_f1": 0.0})
 
     build_discourse_graph(ctus)  # adds salience

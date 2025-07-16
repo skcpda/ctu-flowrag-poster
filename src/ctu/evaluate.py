@@ -1,7 +1,7 @@
 # src/ctu/evaluate.py
 from __future__ import annotations
 
-from typing import List, Tuple
+from typing import List, Tuple, Dict
 
 __all__ = ["pk_score", "windowdiff_score", "f1_score"]
 

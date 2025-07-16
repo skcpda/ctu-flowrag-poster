@@ -30,12 +30,16 @@ def build_discourse_graph(ctus: List[Dict]) -> Dict:
     g.add_nodes_from(range(num_nodes))
     _add_edges(g, num_nodes)
 
-    # Simple PageRank as salience proxy
+    # Centrality measures for salience
     pr = nx.pagerank(g, alpha=0.9, weight="weight")
+    bc = nx.betweenness_centrality(g, normalized=True, weight="weight")
 
-    # Attach salience back to CTUs
+    # Attach salience back to CTUs (mean of PR & BC)
     for idx, ctu in enumerate(ctus):
-        ctu["salience"] = float(pr.get(idx, 0.0))
+        sal = (pr.get(idx, 0.0) + bc.get(idx, 0.0)) / 2.0
+        ctu["salience"] = float(sal)
+        ctu["pagerank"] = float(pr.get(idx, 0.0))
+        ctu["betweenness"] = float(bc.get(idx, 0.0))
 
     # Prepare adjacency matrix (dense list for JSON easiness)
     adjacency: List[List[float]] = [[0.0] * num_nodes for _ in range(num_nodes)]
@@ -50,5 +54,5 @@ def build_discourse_graph(ctus: List[Dict]) -> Dict:
         "num_edges": g.number_of_edges(),
         "adjacency_matrix": adjacency,
         "edge_weights": edge_weights,
-        "parameters": {"version": "simple-pagerank"},
+        "parameters": {"version": "pagerank+betweenness"},
     } 

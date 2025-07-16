@@ -84,6 +84,7 @@ def main():
             "run_id": args.run_id,
             "pk": round(seg_results["pk"], 4),
             "windowdiff": round(seg_results["windowdiff"], 4),
+            "graph_cov@6": 0.0,
         },
     )
 

@@ -8,7 +8,7 @@ from typing import Dict, List
 
 
 from src.utils.exp_logger import ExpLogger
-from src.utils.metrics import ndcg, mrr, mean_average_precision
+from src.utils.metrics import ndcg, mrr, mean_average_precision, salience_ndcg
 from src.retriever.dense import encode as encode_dense
 from src.retriever.index import DenseIndex
 
@@ -83,6 +83,7 @@ def evaluate_retriever(qrels: Dict[str, Dict[int, int]], variant_flags: Dict[str
     # 3. Evaluate per-query
     # ------------------------------------------------------------------
     ndcg_scores: List[float] = []
+    sal_ndcg_scores: List[float] = []
     hit_ranks: List[int] = []  # for MRR
     map_lists: List[List[int]] = []
 
@@ -99,6 +100,9 @@ def evaluate_retriever(qrels: Dict[str, Dict[int, int]], variant_flags: Dict[str
         # nDCG using graded relevance
         ndcg_scores.append(ndcg(rels, k=k))
 
+        # salience nDCG – treat salience as graded relevance
+        sal_rels = [ctus[j].get("salience", 0.0) for j in idxs[0].tolist()]
+        sal_ndcg_scores.append(salience_ndcg(sal_rels, k=k))
         # First relevant hit rank (graded >0 counts)
         rank = 0
         for r_idx, rel in enumerate(rels, start=1):
@@ -117,11 +121,13 @@ def evaluate_retriever(qrels: Dict[str, Dict[int, int]], variant_flags: Dict[str
     mean_ndcg = sum(ndcg_scores) / len(ndcg_scores)
     mean_mrr = mrr(hit_ranks)
     mean_map = mean_average_precision(map_lists, k=k)
+    mean_sal_ndcg = sum(sal_ndcg_scores) / len(sal_ndcg_scores)
 
     return {
         "nDCG@10": round(mean_ndcg, 4),
         "MRR@10": round(mean_mrr, 4),
         "MAP@10": round(mean_map, 4),
+        "salience_nDCG": round(mean_sal_ndcg, 4),
     }
 
 
@@ -150,6 +156,7 @@ def main():
             "nDCG@10": metrics["nDCG@10"],
             "MRR@10": metrics["MRR@10"],
             "MAP@10": metrics["MAP@10"],
+            "salience_nDCG": metrics["salience_nDCG"],
         },
     )
 
