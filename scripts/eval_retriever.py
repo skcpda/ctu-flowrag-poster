@@ -1,5 +1,9 @@
 from __future__ import annotations
 
+import sys
+from pathlib import Path as _P
+sys.path.append(str(_P(__file__).resolve().parent.parent))
+
 import argparse
 import csv
 import json

@@ -15,7 +15,7 @@ from pathlib import Path
 
 # Optional dependency
 try:
-    from rank_bm25 import BM25Okapi
+    from rank_bm25 import BM25Okapi  # type: ignore
     _HAS_BM25 = True
 except ImportError:
     _HAS_BM25 = False

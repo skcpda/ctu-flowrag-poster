@@ -1,7 +1,7 @@
 """Synthetic user model for automated bandit evaluation.
 
-This stub lets us train / test the Thompson-sampling `BanditAgent` without
-human feedback by sampling rewards according to pre-defined preferences.
+This stub lets us train / test the `BanditAgent` (currently uniform random)
+without human feedback by sampling rewards according to pre-defined preferences.
 
 Usage (example):
 

@@ -64,8 +64,17 @@ def _bge_encode(texts: List[str]) -> np.ndarray:
 
     global _BGE_MODEL
     if _BGE_MODEL is None:
-        _BGE_MODEL = SentenceTransformer("BAAI/bge-small-en-v1.5")
-    return _BGE_MODEL.encode(texts, batch_size=32, convert_to_numpy=True, normalize_embeddings=True)
+        # Use 768-d base model to match CDGE input size
+        _BGE_MODEL = SentenceTransformer("BAAI/bge-base-en-v1.5")
+    vecs = _BGE_MODEL.encode(texts, batch_size=32, convert_to_numpy=True, normalize_embeddings=True)
+
+    # Ensure output dim = 768 for compatibility with CDGE layers
+    if vecs.shape[1] < _EMB_DIM_BGE:
+        pad = np.zeros((vecs.shape[0], _EMB_DIM_BGE - vecs.shape[1]), dtype=np.float32)
+        vecs = np.concatenate([vecs, pad], axis=1)
+    elif vecs.shape[1] > _EMB_DIM_BGE:
+        vecs = vecs[:, : _EMB_DIM_BGE]
+    return vecs
 
 
 def encode(

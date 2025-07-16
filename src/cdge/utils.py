@@ -1,4 +1,5 @@
 import numpy as np
+import torch
 
 
 def toy_graph(num_nodes: int = 10) -> tuple[torch.Tensor, torch.Tensor]:

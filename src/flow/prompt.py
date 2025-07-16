@@ -26,6 +26,8 @@ def build_prompts(ctus: List[Dict]) -> List[Dict]:
         caption = f"Poster {i}/{N} – {ctu.get('role', '').title()}"
         prompts.append({
             "poster_id": i,
+            "role": ctu.get("role", "misc"),
+            "ctu_text": ctu.get("text", ""),
             "image_prompt": prompt,
             "caption": caption,
         })

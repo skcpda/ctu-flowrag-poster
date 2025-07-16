@@ -6,7 +6,7 @@ from typing import List, Dict, Optional, Tuple
 import re
 import random
 
-# Thompson-sampling bandit for adaptive template/arm selection
+# Simple bandit agent (uniform random selection) for adaptive template/arm selection
 try:
     from src.bandit.bandit_agent import BanditAgent
 except ImportError:

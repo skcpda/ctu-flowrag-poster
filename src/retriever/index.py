@@ -28,8 +28,15 @@ class DenseIndex:
     def add(self, vecs: np.ndarray):
         if _FAISS_AVAILABLE:
             # Train once on first add if IVF not trained yet
-            if isinstance(self.index, faiss.IndexIVFFlat) and not self.index.is_trained:
-                self.index.train(vecs)
+            if isinstance(self.index, faiss.IndexIVFFlat):
+                # fallback to Flat if not enough vectors to train
+                if vecs.shape[0] < self.index.nlist:
+                    # replace with simple Flat IP index
+                    self.index = faiss.IndexFlatIP(self.dim)
+                    self.index.add(vecs)
+                    return
+                if not self.index.is_trained:
+                    self.index.train(vecs)
             self.index.add(vecs)
         else:
             self.vectors.append(vecs)

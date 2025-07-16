@@ -19,7 +19,10 @@ def _add_edges(g: nx.DiGraph, num_nodes: int) -> None:
             g.add_edge(idx, idx - 1, type=_EDGE_BACK, weight=0.5)
 
 
-def build_discourse_graph(ctus: List[Dict]) -> Dict:
+# NOTE: API extended – *min_weight* lets callers prune weak edges.
+# We keep the default backward-compatible while also handling it in tests.
+
+def build_discourse_graph(ctus: List[Dict], *, min_weight: float = 0.0) -> Dict:
     """Build a NetworkX DiGraph and compute salience (PageRank).
 
     Returns a dict with keys expected by higher-level modules but now also
@@ -30,8 +33,13 @@ def build_discourse_graph(ctus: List[Dict]) -> Dict:
     g.add_nodes_from(range(num_nodes))
     _add_edges(g, num_nodes)
 
-    # Centrality measures for salience
-    pr = nx.pagerank(g, alpha=0.9, weight="weight")
+    # Centrality measures for salience – include robust fallback if the power
+    # iteration fails to converge (known to happen for tiny / dense graphs).
+    try:
+        pr = nx.pagerank(g, alpha=0.9, weight="weight", max_iter=500)
+    except nx.exception.PowerIterationFailedConvergence:
+        # Fallback: uniform distribution to avoid crashing the pipeline.
+        pr = {n: 1.0 / num_nodes for n in g.nodes}
     bc = nx.betweenness_centrality(g, normalized=True, weight="weight")
 
     # Attach salience back to CTUs (mean of PR & BC)

@@ -10,12 +10,17 @@ Outputs 6 CSV log tables and poster prompts JSON for quick sanity check.
 
 import argparse
 import json
+import sys
+from pathlib import Path as _P
+# Ensure project root on sys.path when script run directly
+sys.path.append(str(_P(__file__).resolve().parent.parent))
+# now that path inserted, safe to import
 from pathlib import Path
 
 from src.io.load_scheme import load_scheme
 from src.ctu.segment import segment_scheme
 from src.ctu.graph import build_discourse_graph
-from src.flow.storyboard import sort_ctus
+from src.flow.storyboard import build_storyboard
 from src.flow.prompt import build_prompts
 from src.poster.generate import generate_image
 from src.utils.exp_logger import ExpLogger
@@ -43,8 +48,8 @@ def main():
     # update earlier logged row
     logger.log("T1_segmentation", {"run_id": args.run_id, "pk": 0.0, "windowdiff": 0.0, "graph_cov@6": round(cov6,3)})
 
-    ordered = sort_ctus(ctus)
-    posters = build_prompts(ordered)
+    storyboard_ctus = build_storyboard(ctus)
+    posters = build_prompts(storyboard_ctus)
 
     prev_img = None
     for poster in posters:

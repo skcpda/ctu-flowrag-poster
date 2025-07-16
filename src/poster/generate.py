@@ -35,6 +35,15 @@ def generate_image(
     start = time.perf_counter()
 
     img_path = _dummy_image(poster["role"])  # initial placeholder path
+
+    # create placeholder PNG so CLIP reroll has something to load
+    from pathlib import Path as _P
+    place = _P(img_path)
+    if not place.exists():
+        place.parent.mkdir(parents=True, exist_ok=True)
+        from PIL import Image
+        Image.new("RGB", (256, 256), color=(230, 230, 230)).save(place)
+
     img_path2 = img_path  # after reroll
 
     kept_img, rerolled = maybe_reroll(prev_img, img_path)
