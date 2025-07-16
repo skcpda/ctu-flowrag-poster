@@ -4,8 +4,9 @@ Currently supports two simple retrievers:
 1. BM25 via `rank_bm25` (in-mem word vectors)
 2. BGE sentence-transformer similarity (same model as cultural retriever)
 
-A Thompson-sampling `BanditAgent` chooses which retriever to query per CTU.
-The reward API is deliberately simple so we can plug nDCG later.
+Retrievers are chosen in a simple round-robin order; no learning or bandit
+algorithm is involved.  The reward API is deliberately simple so we can plug
+metrics such as nDCG later.
 """
 
 from __future__ import annotations
