@@ -1,114 +1,75 @@
 # src/ctu/evaluate.py
-import numpy as np
-from typing import List, Dict, Tuple
-from scipy.spatial.distance import cosine
+from __future__ import annotations
 
-def pk_score(gold_boundaries: List[int], pred_boundaries: List[int], 
-             num_sentences: int, k: float = 0.5) -> float:
-    """
-    Calculate Pk score for boundary detection.
-    
-    Args:
-        gold_boundaries: List of gold standard boundary indices
-        pred_boundaries: List of predicted boundary indices  
-        num_sentences: Total number of sentences
-        k: Window size as fraction of total sentences
-    
-    Returns:
-        Pk score (lower is better)
-    """
-    window_size = int(k * num_sentences)
-    
-    def count_errors(boundaries1: List[int], boundaries2: List[int]) -> int:
-        """Count boundary errors between two boundary sets."""
-        errors = 0
-        for i in range(num_sentences - window_size + 1):
-            # Check if boundaries1 and boundaries2 disagree on whether
-            # there's a boundary in window [i, i+window_size)
-            b1_in_window = any(i <= b < i + window_size for b in boundaries1)
-            b2_in_window = any(i <= b < i + window_size for b in boundaries2)
-            if b1_in_window != b2_in_window:
-                errors += 1
-        return errors
-    
-    # Count errors in both directions
-    errors_forward = count_errors(gold_boundaries, pred_boundaries)
-    errors_backward = count_errors(pred_boundaries, gold_boundaries)
-    
-    # Normalize by number of possible windows
-    total_windows = 2 * (num_sentences - window_size + 1)
-    pk = (errors_forward + errors_backward) / total_windows
-    
-    return pk
+from typing import List, Tuple
 
-def windowdiff_score(gold_boundaries: List[int], pred_boundaries: List[int], 
-                    num_sentences: int, k: float = 0.5) -> float:
-    """
-    Calculate WindowDiff score for boundary detection.
-    
-    Args:
-        gold_boundaries: List of gold standard boundary indices
-        pred_boundaries: List of predicted boundary indices
-        num_sentences: Total number of sentences  
-        k: Window size as fraction of total sentences
-    
-    Returns:
-        WindowDiff score (lower is better)
-    """
-    window_size = int(k * num_sentences)
-    
-    def count_boundaries_in_window(boundaries: List[int], start: int, end: int) -> int:
-        """Count boundaries in window [start, end)."""
-        return sum(1 for b in boundaries if start <= b < end)
-    
-    total_diff = 0
-    for i in range(num_sentences - window_size + 1):
-        gold_count = count_boundaries_in_window(gold_boundaries, i, i + window_size)
-        pred_count = count_boundaries_in_window(pred_boundaries, i, i + window_size)
-        total_diff += abs(gold_count - pred_count)
-    
-    # Normalize by number of windows
-    num_windows = num_sentences - window_size + 1
-    windowdiff = total_diff / num_windows
-    
-    return windowdiff
+__all__ = ["pk_score", "windowdiff_score", "f1_score"]
 
-def f1_score(gold_boundaries: List[int], pred_boundaries: List[int], 
-             tolerance: int = 1) -> Tuple[float, float, float]:
+
+def _segment_vector(boundaries: List[int], n_sentences: int) -> List[int]:
+    """Return a binary vector of length *n_sentences* where 1 marks a boundary."""
+    vec = [0] * n_sentences
+    for b in boundaries:
+        if 0 <= b < n_sentences:
+            vec[b] = 1
+    return vec
+
+
+def pk_score(gold: List[int], pred: List[int], n_sentences: int, k: int | None = None) -> float:
+    """Compute Pk segmentation metric (Beeferman 1999).
+
+    Simplified: default window *k* = half the average gold segment length.
     """
-    Calculate F1 score for boundary detection with tolerance.
-    
-    Args:
-        gold_boundaries: List of gold standard boundary indices
-        pred_boundaries: List of predicted boundary indices
-        tolerance: Number of sentences tolerance for matching boundaries
-    
-    Returns:
-        Tuple of (precision, recall, f1)
+    if k is None:
+        avg_seg = n_sentences / (len(gold) + 1)
+        k = int(round(avg_seg / 2)) or 1
+
+    gold_vec = _segment_vector(gold, n_sentences)
+    pred_vec = _segment_vector(pred, n_sentences)
+
+    disagreements = 0
+    total = 0
+    for i in range(n_sentences - k):
+        total += 1
+        same_gold = any(gold_vec[i : i + k])
+        same_pred = any(pred_vec[i : i + k])
+        if same_gold != same_pred:
+            disagreements += 1
+    return disagreements / total if total else 0.0
+
+
+def windowdiff_score(gold: List[int], pred: List[int], n_sentences: int, k: int | None = None) -> float:
+    """Compute WindowDiff metric (Pevzner & Hearst 2002).
     """
-    def is_close(b1: int, b2: int, tol: int) -> bool:
-        return abs(b1 - b2) <= tol
-    
-    # Count true positives
-    tp = 0
-    matched_gold = set()
-    matched_pred = set()
-    
-    for i, gold_b in enumerate(gold_boundaries):
-        for j, pred_b in enumerate(pred_boundaries):
-            if is_close(gold_b, pred_b, tolerance):
-                if i not in matched_gold and j not in matched_pred:
-                    tp += 1
-                    matched_gold.add(i)
-                    matched_pred.add(j)
-    
-    # Calculate precision and recall
-    precision = tp / len(pred_boundaries) if pred_boundaries else 0.0
-    recall = tp / len(gold_boundaries) if gold_boundaries else 0.0
-    
-    # Calculate F1
-    f1 = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0.0
-    
+    if k is None:
+        avg_seg = n_sentences / (len(gold) + 1)
+        k = int(round(avg_seg / 2)) or 1
+
+    gold_vec = _segment_vector(gold, n_sentences)
+    pred_vec = _segment_vector(pred, n_sentences)
+
+    wd = 0
+    total = 0
+    for i in range(n_sentences - k):
+        total += 1
+        gold_count = sum(gold_vec[i : i + k])
+        pred_count = sum(pred_vec[i : i + k])
+        if gold_count != pred_count:
+            wd += 1
+    return wd / total if total else 0.0
+
+
+def f1_score(gold: List[int], pred: List[int]) -> Tuple[float, float, float]:
+    """Compute precision, recall, F1 for boundary detection."""
+    gold_set = set(gold)
+    pred_set = set(pred)
+    tp = len(gold_set & pred_set)
+    fp = len(pred_set - gold_set)
+    fn = len(gold_set - pred_set)
+
+    precision = tp / (tp + fp) if (tp + fp) else 0.0
+    recall = tp / (tp + fn) if (tp + fn) else 0.0
+    f1 = 2 * precision * recall / (precision + recall) if (precision + recall) else 0.0
     return precision, recall, f1
 
 def evaluate_segmentation(gold_data: List[Dict], pred_data: List[Dict]) -> Dict[str, float]:

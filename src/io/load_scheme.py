@@ -1,35 +1,27 @@
-# src/io/load_scheme.py
+from __future__ import annotations
+
 from pathlib import Path
 from typing import Dict
 
-def load_scheme(scheme_dir: str | Path) -> Dict[str, str]:
-    """
-    Load one welfare-scheme folder containing the 4 canonical .txt files.
+__all__ = ["load_scheme"]
 
-    Returns
-    -------
-    dict
-        {
-          "schemeName": "...",
-          "shortDescription": "...",
-          "description": "...",
-          "longDescription": "..."
-        }
-    Raises
-    ------
-    FileNotFoundError if any of the four required files are missing.
+_EXPECTED_FILES = [
+    "schemeName.txt",
+    "shortDescription.txt",
+    "description.txt",
+    "longDescription.txt",
+]
+
+
+def load_scheme(folder: Path) -> Dict[str, str]:
+    """Load a scheme directory containing the expected text files.
+
+    Returns a dict mapping *stem* → file contents. Missing files are skipped.
     """
-    scheme_dir = Path(scheme_dir)
-    required = {
-        "schemeName",
-        "shortDescription",
-        "description",
-        "longDescription",
-    }
-    txts = {p.stem: p.read_text(encoding="utf-8") for p in scheme_dir.glob("*.txt")}
-    missing = required.difference(txts)
-    if missing:
-        raise FileNotFoundError(
-            f"Missing {', '.join(sorted(missing))} in {scheme_dir}"
-        )
-    return txts
+    folder = Path(folder)
+    data: Dict[str, str] = {}
+    for fname in _EXPECTED_FILES:
+        fpath = folder / fname
+        if fpath.exists():
+            data[fpath.stem] = fpath.read_text(encoding="utf-8").strip()
+    return data

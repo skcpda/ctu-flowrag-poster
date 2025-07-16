@@ -1,0 +1,14 @@
+default_variant: bge+ctu+cdge
+variants:
+  bge:
+    add_ctu_keywords: false
+    add_cdge: false
+  bge+ctu:
+    add_ctu_keywords: true
+    add_cdge: false
+  bge+cdge:
+    add_ctu_keywords: false
+    add_cdge: true
+  bge+ctu+cdge:
+    add_ctu_keywords: true
+    add_cdge: true 

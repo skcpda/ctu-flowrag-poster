@@ -1,35 +1,62 @@
-<h1 align="center">
-  CTU-FlowRAG-Poster
-</h1>
+# CTU-FlowRAG 🪴
 
-<p align="center">
-  <em>Discourse-aware, low-resource pipeline that turns mixed-language welfare-scheme documents into an ordered series of language-light posters.</em>
-</p>
+End-to-end pipeline that turns verbose welfare-scheme PDFs into bilingual, storyboard-style poster sequences optimised for low-literacy audiences.
 
-<p align="center">
-  <a href="https://github.com/skcpda/ctu-flowrag-poster/actions">
-    <img src="https://github.com/skcpda/ctu-flowrag-poster/workflows/Lint/badge.svg" alt="lint status">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="license badge">
-  </a>
-</p>
+## Quick start
+
+```bash
+# 1. create env (conda or venv)
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt  # core deps
+# (optional) heavy extras: BGE sentence-transformer, FAISS, BM25, etc.
+pip install -r requirements-extra.txt
+
+# 2. set your OpenAI key if you plan to generate images or use GPT helpers
+export OPENAI_API_KEY="sk-..."
+
+# 3. run the sample pipeline
+python -m src.pipeline.run_pipeline \
+       --scheme-dir data/raw/schemes/25-ciss \
+       --cultural-index data/culture/index_bge
+
+# outputs → ./output/ (posters*, pipeline_results.json)
+```
+
+### Docker (lightweight runtime)
+
+```
+docker build -t ctu-flowrag -f docker/Dockerfile .
+docker run --rm -v $PWD/output:/app/output ctu-flowrag \
+       python scripts/run_full_pipeline.py \
+              --scheme-dir data/raw/schemes/25-ciss --run-id demo
+```
+
+The Docker image installs only the **core requirements** for a slim footprint (<250 MB). Heavy extras can be added at runtime with:
+
+```
+docker run --rm -it ctu-flowrag pip install -r requirements-extra.txt
+```
+
+## Evaluation
+
+* `scripts/eval_retriever.py` – computes nDCG@10 / MRR@10 / MAP@10 using silver-standard `data/evaluation/qrels.tsv`.
+* `scripts/eval_seg_role.py` – computes Pk / WindowDiff and macro-F1 against gold JSON files and logs them.
+
+Run `python scripts/eval_seg_role.py --run-id demo` after the pipeline to log segmentation/role scores.
 
 ---
 
-## ✨ Project Highlights
+## Repo layout
 
-| Module | What it Does |
-|--------|--------------|
-| **CTU Segmentation** | Splits long, mixed-code PDFs/TXT into *Coherent Thematic Units* using TextTiling + LLM boundary verification. |
-| **Discourse Graph** | Builds a lightweight graph (nodes = CTUs, edges = semantic/temporal links). |
-| **Role Tagger** | Zero-shot LLM + SVM hybrid labels each CTU (Target / Eligibility / Benefits / Procedure / Timeline / Contact). |
-| **Local-Context RAG** | Retrieves culturally relevant snippets (Santali lifestyle, icons) to ground images. |
-| **Prompt Synthesiser** | Templated prompt → refined with a Contextual Thompson Sampling + PRISM loop. |
-| **Poster Renderer** | Calls an image-generation backend (DALL·E 3, or local Stable Diffusion) and outputs a sequential poster set with bilingual captions. |
-| **Explainability Store** | Maps each poster back to its CTU text + cultural cues for auditing. |
+| Path                         | Purpose                                   |
+| ---------------------------- | ----------------------------------------- |
+| `src/ctu/`                   | Segmentation, summariser, role tagging    |
+| `src/flow/storyboard.py`     | Builds precedence-graph storyboard        |
+| `src/prompt/`                | Prompt synthesiser with style carry-over  |
+| `src/retrieval/`             | Fusion (BM25 + BGE) with Thompson bandit  |
+| `src/metrics/`               | IR metrics (nDCG, MAP, MRR, C-FlowGain)   |
+| `src/image_gen/`             | DALL-E / SDXL wrappers + downloader       |
+| `tests/`                     | 14-test suite covering full pipeline      |
 
----
-
-## 🗂 Repository Layout
+For full details see `IMPLEMENTATION_STATUS.md`.
 

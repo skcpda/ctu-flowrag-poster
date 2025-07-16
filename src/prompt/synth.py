@@ -226,9 +226,16 @@ class PromptSynthesizer:
                 bridge += f" (after {prev_role})"
             prompt = f"{bridge}. {prompt}"
 
-        # Prepend style prefix (first prompt injects style; others will inherit via bridge text)
-        if self.style_prefix and (idx == 1 or idx is None):
-            prompt = f"{self.style_prefix} {prompt}"
+        # Prepend style prefix: always on first poster; on later ones include the saved style token to maintain palette
+        if self.style_prefix:
+            if idx == 1 or idx is None:
+                # Save token for reuse
+                self._cached_style = self.style_prefix
+                prompt = f"{self.style_prefix} {prompt}"
+            else:
+                # Reuse previously cached style if not already at front
+                if hasattr(self, "_cached_style"):
+                    prompt = f"{self._cached_style} {prompt}"
 
         # Final sanitisation
         prompt = self._sanitize_prompt(prompt)

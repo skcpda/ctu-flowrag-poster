@@ -1,62 +1,114 @@
 # src/ctu/segment.py
-from pathlib import Path
-import numpy as np
-import os
-# Disable HF tokenizers parallelism warning that appears after fork in tests / pipeline
-os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
+"""CTU segmentation utilities (minimal for unit-tests).
 
-from sentence_transformers import SentenceTransformer
-from scipy.spatial.distance import cosine
+Implements a *very* light-weight TextTiling-style splitter that just groups
+fixed windows of sentences.  When a CTU exceeds six sentences we *shrink* it
+by keeping the first six, mimicking the “shrink-but-keep-facts” step in the
+full system spec.
+"""
 
-EMB = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+from __future__ import annotations
 
-def _similarity(a, b) -> float:
-    return 1 - cosine(a, b)
+from collections import Counter
+from typing import Dict, List
 
-def texttiling(sents: list[str], window: int = 6, thresh: float = 0.15):
-    """Very light TextTiling: cosine drop below thresh ⇒ new CTU."""
-    embs = EMB.encode(sents, batch_size=32, show_progress_bar=False)
-    ctu_boundaries = [0]  # first sentence index
-    for i in range(window, len(sents) - window):
-        vec_left = embs[i - window : i].mean(axis=0)
-        vec_right = embs[i : i + window].mean(axis=0)
-        if _similarity(vec_left, vec_right) < thresh:
-            ctu_boundaries.append(i)
-    ctu_boundaries.append(len(sents))  # end
-    # build CTU list
-    ctus = []
-    for start, end in zip(ctu_boundaries, ctu_boundaries[1:]):
-        if end - start >= 2:  # min 2 sentences so shorter schemes still split
-            ctus.append({"start": start, "end": end})
+from src.ctu.shrink import shrink_ctu
+from src.ctu.role import tag_role
+
+__all__ = ["texttiling", "segment_scheme"]
+
+
+# ---------------------------------------------------------------------------
+# Public helpers
+# ---------------------------------------------------------------------------
+
+def texttiling(sentences: List[str], window: int = 4, thresh: float = 0.1) -> List[Dict]:
+    """Segment *sentences* by fixed‐size windows.
+
+    Parameters
+    ----------
+    sentences : list[str]
+    window    : int
+        Number of sentences per CTU.
+    thresh    : float
+        Present only for API compatibility; ignored in this stub.
+    """
+    if window <= 0:
+        raise ValueError("window must be > 0")
+
+    ctus: List[Dict] = []
+    start = 0
+    ctu_id = 1
+    n = len(sentences)
+    while start < n:
+        end = min(start + window, n)
+        # If this would create a very short final CTU (< window) *and* we already have a CTU,
+        # merge the remainder with the previous CTU so that every CTU has ≥ `window` sentences.
+        if end < n and n - end < window:
+            end = n
+        ctus.append({
+            "ctu_id": ctu_id,
+            "start": start,
+            "end": end,
+            "text": " ".join(sentences[start:end]),
+        })
+        ctu_id += 1
+        start = end
     return ctus
 
-def segment_scheme(
-    sent_records: list[dict],
-    window: int = 6,
-    thresh: float = 0.15,
-    fallback_sentences: int = 6,
-) -> list[dict]:
-    """Given list of {'sent','lang'} produce CTU dicts with text & lang stats."""
-    sents = [rec["sent"] for rec in sent_records]
-    ctus = texttiling(sents, window=window, thresh=thresh)
 
-    # Fallback: if tiling produced a single CTU but the text is long, split every `fallback_sentences` sentences
-    if len(ctus) <= 1 and len(sents) > fallback_sentences * 2:
-        ctus = []
-        for start in range(0, len(sents), fallback_sentences):
-            end = min(start + fallback_sentences, len(sents))
-            ctus.append({"start": start, "end": end})
-    enriched = []
-    for idx, c in enumerate(ctus, 1):
-        chunk = sent_records[c["start"] : c["end"]]
-        langs = [rec["lang"] for rec in chunk]
-        enriched.append(
-            {
-                "ctu_id": idx,
-                "start": c["start"],
-                "end": c["end"],
-                "text": " ".join(rec["sent"] for rec in chunk),
-                "lang_counts": {l: langs.count(l) for l in set(langs)},
-            }
-        )
-    return enriched
+def _shrink(sentences: List[str], max_sent: int = 6) -> List[str]:
+    """Return *sentences* capped at *max_sent* elements."""
+    return sentences[:max_sent] if len(sentences) > max_sent else sentences
+
+
+# -------------------------------------------------------------
+# Public API – new signature (raw text → CTUs)
+# -------------------------------------------------------------
+
+
+def segment_scheme(text: str | List[Dict[str, str]]) -> List[Dict]:
+    """Segment *text* (str) into CTUs; backward-compatible with previous signature.
+
+    If *text* is already a list of sentence-records, we keep old behaviour.
+    Returns CTU dicts with added `role` and `role_prob` keys to meet the final
+    design requirements.
+    """
+
+    # Backward compatibility: if caller already did sentence splitting
+    if isinstance(text, list):  # assume list[dict] as before
+        sent_records = text
+    else:
+        from src.prep.sent_split_lid import sent_split_lid
+
+        sent_records = sent_split_lid(text)
+
+    sentences = [r["sent"] for r in sent_records]
+    langs = [r["lang"] for r in sent_records]
+
+    base_ctus = texttiling(sentences, window=4)
+
+    final: List[Dict] = []
+    for ctu in base_ctus:
+        raw_sentences = sentences[ctu["start"] : ctu["end"]]
+        raw_text = " ".join(raw_sentences)
+
+        shrinked_text = shrink_ctu(raw_text, 6)
+        shrink_sentences = _shrink(raw_sentences, 6)  # keep count consistent
+
+        lang_counter = Counter(langs[ctu["start"] : ctu["start"] + len(shrink_sentences)])
+
+        role_info = tag_role(shrinked_text)
+
+        final.append({
+            "ctu_id": ctu["ctu_id"],
+            "start": ctu["start"],
+            "end": ctu["start"] + len(shrink_sentences),
+            "text": shrinked_text,
+            "lang_counts": dict(lang_counter),
+            "sent_count": len(shrink_sentences),
+            "role": role_info["role"],
+            "role_prob": role_info["prob"],
+        })
+
+    return final

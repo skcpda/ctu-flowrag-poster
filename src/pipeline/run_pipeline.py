@@ -17,6 +17,7 @@ from src.rag.cultural import CulturalRetriever
 from src.prompt.synth import PromptSynthesizer
 from src.image_gen.generate import ImageGenerator
 from src.flow.storyboard import build_storyboard
+from src.retrieval.fusion import RetrievalFusionManager
 
 class CTUFlowRAGPipeline:
     """Main pipeline for CTU-FlowRAG system."""
@@ -39,6 +40,9 @@ class CTUFlowRAGPipeline:
         self.prompt_synthesizer = PromptSynthesizer()
         self.image_generator = ImageGenerator()
 
+        # Retrieval fusion manager (initialised later once corpus available)
+        self.retrieval_fusion = None
+        
         # Segmentation params
         self.tiling_window = tiling_window
         self.tiling_thresh = tiling_thresh
@@ -103,12 +107,19 @@ class CTUFlowRAGPipeline:
                               thresh=self.tiling_thresh,
                               fallback_sentences=self.fallback_sentences)
 
+        # Build retrieval fusion manager with CTU texts as placeholder corpus
+        self.retrieval_fusion = RetrievalFusionManager([c['text'] for c in ctus])
+
         # Shrink overly long CTUs ( >6 sentences )
         for ctu in ctus:
             sent_count = ctu['end'] - ctu['start']
             ctu['sent_count'] = sent_count
             if sent_count > 6:
                 ctu['text'] = shrink_ctu(ctu['text'], max_sents=6)
+
+            # Attach retrieval results (top 3 docs)
+            retrieval = self.retrieval_fusion.query(ctu['text'], context="retrieval", top_k=3)
+            ctu['retrieval'] = retrieval
         
         self.results['ctus'] = ctus
         
