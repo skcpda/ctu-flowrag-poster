@@ -12,6 +12,7 @@ __all__ = [
     "mrr",
     "mean_average_precision",
     "macro_f1",
+    "graph_cov_at_k",
 ]
 
 
@@ -109,3 +110,15 @@ def macro_f1(gold: list[str], pred: list[str]) -> float:
         _, _, f1 = _precision_recall_f1(tp, fp, fn)
         f1_sum += f1
     return f1_sum / len(classes) if classes else 0.0 
+
+# ------------------ Graph metrics ------------------
+
+
+def graph_cov_at_k(num_nodes: int, k: int) -> float:
+    """Return fraction of nodes covered when selecting top-*k* CTUs.
+
+    Currently assumes *k* unique CTUs chosen; coverage = min(k, N)/N.
+    """
+    if num_nodes == 0:
+        return 0.0
+    return min(k, num_nodes) / num_nodes 

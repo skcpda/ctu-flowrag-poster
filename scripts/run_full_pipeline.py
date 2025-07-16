@@ -36,7 +36,13 @@ def main():
     logger.log("T1_segmentation", {"run_id": args.run_id, "pk": 0.0, "windowdiff": 0.0, "graph_cov@6": 0.0})
     logger.log("T2_role", {"run_id": args.run_id, "macro_f1": 0.0})
 
-    build_discourse_graph(ctus)  # adds salience
+    graph_stats = build_discourse_graph(ctus)  # adds salience & returns stats
+
+    from src.utils.metrics import graph_cov_at_k
+    cov6 = graph_cov_at_k(graph_stats.get("num_nodes", len(ctus)), 6)
+    # update earlier logged row
+    logger.log("T1_segmentation", {"run_id": args.run_id, "pk": 0.0, "windowdiff": 0.0, "graph_cov@6": round(cov6,3)})
+
     ordered = sort_ctus(ctus)
     posters = build_prompts(ordered)
 
