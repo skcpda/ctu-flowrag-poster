@@ -53,7 +53,7 @@ Run `python scripts/eval_seg_role.py --run-id demo` after the pipeline to log se
 | `src/ctu/`                   | Segmentation, summariser, role tagging    |
 | `src/flow/storyboard.py`     | Builds precedence-graph storyboard        |
 | `src/prompt/`                | Prompt synthesiser with style carry-over  |
-| `src/retrieval/`             | Fusion (BM25 + BGE) with Thompson bandit  |
+| `src/retrieval/`             | Graph-augmented dense retriever (BGE + CDGE) |
 | `src/metrics/`               | IR metrics (nDCG, MAP, MRR, C-FlowGain)   |
 | `src/image_gen/`             | DALL-E / SDXL wrappers + downloader       |
 | `tests/`                     | 14-test suite covering full pipeline      |

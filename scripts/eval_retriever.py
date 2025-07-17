@@ -96,8 +96,12 @@ def evaluate_retriever(qrels: Dict[str, Dict[int, int]], variant_flags: Dict[str
         if qid not in qrels:
             continue  # skip queries without qrels
 
-        scores, idxs = index.search(vecs[i : i + 1], k)
-        ranked_doc_ids = [ctus[j]["ctu_id"] for j in idxs[0].tolist()]
+        scores, idxs = index.search(vecs[i : i + 1], k + 1)  # search extra to drop self
+        # Remove self-hit
+        filtered = [j for j in idxs[0].tolist() if j != i][:k]
+        ranked_doc_ids = [ctus[j]["ctu_id"] for j in filtered]
+        if not ranked_doc_ids:
+            continue  # skip if no other docs
 
         rels = [qrels[qid].get(doc_id, 0) for doc_id in ranked_doc_ids]
 
@@ -105,7 +109,7 @@ def evaluate_retriever(qrels: Dict[str, Dict[int, int]], variant_flags: Dict[str
         ndcg_scores.append(ndcg(rels, k=k))
 
         # salience nDCG – treat salience as graded relevance
-        sal_rels = [ctus[j].get("salience", 0.0) for j in idxs[0].tolist()]
+        sal_rels = [ctus[j].get("salience", 0.0) for j in filtered]
         sal_ndcg_scores.append(salience_ndcg(sal_rels, k=k))
         # First relevant hit rank (graded >0 counts)
         rank = 0

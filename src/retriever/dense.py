@@ -42,6 +42,9 @@ def _augment_with_keywords(ctus: List[Dict], top_k: int = 5) -> List[str]:
     augmented = []
     for i, ctu in enumerate(ctus):
         row = tfidf.getrow(i).toarray().flatten()
+        # Boost weights by salience (simple linear scaling)
+        sal = float(ctu.get("salience", 0.0))
+        row = row * (1.0 + sal)
         if row.sum() == 0:
             augmented.append(ctu["text"])
             continue
@@ -60,6 +63,12 @@ def _text_hash(text: str) -> str:
 def _bge_encode(texts: List[str]) -> np.ndarray:
     """Encode with BGE small model if available; else zeros."""
     if not _HAS_ST:
+        import warnings
+        warnings.warn(
+            "sentence_transformers not installed – returning zero vectors. "
+            "Install the extras to get real BGE embeddings.",
+            RuntimeWarning,
+        )
         return np.zeros((len(texts), _EMB_DIM_BGE), dtype=np.float32)
 
     global _BGE_MODEL

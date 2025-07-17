@@ -1,39 +1,116 @@
-from __future__ import annotations
+"""Train the CDGE GCN on CTU discourse graphs.
 
-"""Placeholder training script for CDGE – does nothing.
-This ensures importability for tests/CLI even before full training is implemented.
+Usage example:
+
+```bash
+python -m src.cdge.train \
+       --input output/pipeline_results.json \
+       --epochs 1000 \
+       --lr 0.005
+```
+
+Multiple ``--input`` files can be given; graphs are processed independently
+each epoch.  The script is still CPU-only and lightweight – it converges in
+seconds on the small demo corpus but will benefit from GPU for large runs.
 """
 
-import torch
+from __future__ import annotations
+
+import argparse
+import json
 from pathlib import Path
+from typing import List, Tuple
+
+import numpy as np
+import torch
 
 from src.cdge.model import CDGE
-from src.cdge.utils import toy_graph
+from src.retriever.dense import _bge_encode
+
+# ---------------------------------------------------------------------------
 
 
-def _info_nce_loss(z: torch.Tensor, temperature: float = 0.5) -> torch.Tensor:
-    """Simple InfoNCE loss on node embeddings (self-supervised)."""
-    sim = z @ z.t() / temperature
-    labels = torch.arange(z.size(0), device=z.device)
-    return torch.nn.functional.cross_entropy(sim, labels)
+def _prepare_graph(path: Path) -> Tuple[torch.Tensor, torch.Tensor]:
+    """Return feature matrix *X* and adjacency *A* from a pipeline_results.json."""
+    data = json.loads(path.read_text())
+    ctus = data.get("ctus") or []
+    g = data.get("graph") or {}
+
+    if not ctus:
+        raise RuntimeError(f"No CTUs found in {path}")
+
+    if not g:
+        # If pipeline results lack pre-computed graph, build a simple one
+        from src.ctu.graph import build_discourse_graph
+        g = build_discourse_graph(ctus)
+
+    texts = [c["text"] for c in ctus]
+    X_np = _bge_encode(texts)  # (N,768)
+
+    adj_matrix = g.get("adjacency_matrix")
+    if not adj_matrix:
+        # fallback: fully-connected minus self
+        N = len(ctus)
+        adj_matrix = [[1.0 if i != j else 0.0 for j in range(N)] for i in range(N)]
+
+    A_np = np.array(adj_matrix, dtype=np.float32)
+
+    X = torch.from_numpy(X_np).float()
+    A = torch.from_numpy(A_np).float()
+    return X, A
 
 
-def quick_train(output_path: Path = Path("models/cdge_weights.pt"), epochs: int = 200) -> None:
-    """Very small self-supervised training to get deterministic weights for tests."""
-    x, adj = toy_graph()
+def _bce_reconstruction_loss(z: torch.Tensor, adj: torch.Tensor) -> torch.Tensor:
+    """Binary cross-entropy with positive-class weighting to avoid 0.693 plateau."""
+    logits = z @ z.t()
+    pos = adj.sum()
+    neg = adj.numel() - pos
+    pos_weight = neg / (pos + 1e-6)
+    return torch.nn.functional.binary_cross_entropy_with_logits(
+        logits, adj, pos_weight=torch.tensor(pos_weight, device=z.device)
+    )
+
+
+def train(
+    input_paths: List[Path],
+    *,
+    epochs: int = 500,
+    lr: float = 5e-3,
+    output_path: Path = Path("models/cdge_weights.pt"),
+) -> None:
+    graphs = [_prepare_graph(p) for p in input_paths]
+
     model = CDGE()
-    optimiser = torch.optim.Adam(model.parameters(), lr=1e-2)
+    opt = torch.optim.Adam(model.parameters(), lr=lr)
 
-    for _ in range(epochs):
-        optimiser.zero_grad()
-        z = model.encode(x, adj)
-        loss = _info_nce_loss(z)
-        loss.backward()
-        optimiser.step()
+    for epoch in range(1, epochs + 1):
+        epoch_loss = 0.0
+        for X, A in graphs:
+            opt.zero_grad()
+            z = model.encode(X, A)
+            loss = _bce_reconstruction_loss(z, A)
+            loss.backward()
+            opt.step()
+            epoch_loss += float(loss.item())
+
+        if epoch % 100 == 0 or epoch == epochs:
+            print(f"Epoch {epoch:4d} | loss={epoch_loss/len(graphs):.4f}")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     torch.save(model.state_dict(), output_path)
+    print(f"Saved CDGE weights → {output_path}")
+
+
+def main() -> None:
+    p = argparse.ArgumentParser(description="Train CDGE on CTU graphs from pipeline results")
+    p.add_argument("--input", nargs="+", type=Path, required=True, help="One or more pipeline_results.json files")
+    p.add_argument("--epochs", type=int, default=500)
+    p.add_argument("--lr", type=float, default=5e-3)
+    p.add_argument("--output", type=Path, default=Path("models/cdge_weights.pt"))
+    args = p.parse_args()
+
+    train(args.input, epochs=args.epochs, lr=args.lr, output_path=args.output)
 
 
 if __name__ == "__main__":
-    quick_train() 
+    main() 

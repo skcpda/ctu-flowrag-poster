@@ -42,10 +42,13 @@ def build_discourse_graph(ctus: List[Dict], *, min_weight: float = 0.0) -> Dict:
         pr = {n: 1.0 / num_nodes for n in g.nodes}
     bc = nx.betweenness_centrality(g, normalized=True, weight="weight")
 
-    # Attach salience back to CTUs (mean of PR & BC)
+    raw_sals = [(pr.get(i, 0.0) + bc.get(i, 0.0)) / 2.0 for i in range(num_nodes)]
+    # Min-max normalise to [0,1] so salience_nDCG has meaningful spread
+    min_sal, max_sal = min(raw_sals), max(raw_sals)
+    norm = (max_sal - min_sal) or 1.0
     for idx, ctu in enumerate(ctus):
-        sal = (pr.get(idx, 0.0) + bc.get(idx, 0.0)) / 2.0
-        ctu["salience"] = float(sal)
+        sal_norm = (raw_sals[idx] - min_sal) / norm
+        ctu["salience"] = float(sal_norm)
         ctu["pagerank"] = float(pr.get(idx, 0.0))
         ctu["betweenness"] = float(bc.get(idx, 0.0))
 

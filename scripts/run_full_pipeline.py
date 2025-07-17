@@ -30,6 +30,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--scheme-dir", required=True)
     p.add_argument("--run-id", required=True)
+    p.add_argument("--quiet", action="store_true", help="suppress pipeline completion message")
     args = p.parse_args()
 
     logger = ExpLogger()
@@ -62,7 +63,8 @@ def main():
     with open(out_json, "w", encoding="utf-8") as f:
         json.dump(posters, f, indent=2)
 
-    print(f"Pipeline complete – prompts saved to {out_json}")
+    if not args.quiet:
+        print(f"Pipeline complete – prompts saved to {out_json}")
 
 
 if __name__ == "__main__":
