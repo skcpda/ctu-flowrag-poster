@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import random
 from pathlib import Path
 from typing import List, Tuple
 
@@ -77,11 +78,27 @@ def train(
     epochs: int = 500,
     lr: float = 5e-3,
     output_path: Path = Path("models/cdge_weights.pt"),
+    log_every: int = 100,
+    seed: int | None = None,
+    patience: int = 300,
 ) -> None:
+
+    # ------------------ Reproducibility ------------------
+    if seed is not None:
+        torch.manual_seed(seed)
+        np.random.seed(seed)
+        random.seed(seed)
+
     graphs = [_prepare_graph(p) for p in input_paths]
 
     model = CDGE()
     opt = torch.optim.Adam(model.parameters(), lr=lr)
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        opt, mode="min", factor=0.5, patience=max(patience // 3, 50), verbose=True
+    )
+
+    best_loss = float("inf")
+    epochs_without_improve = 0
 
     for epoch in range(1, epochs + 1):
         epoch_loss = 0.0
@@ -93,12 +110,38 @@ def train(
             opt.step()
             epoch_loss += float(loss.item())
 
-        if epoch % 100 == 0 or epoch == epochs:
-            print(f"Epoch {epoch:4d} | loss={epoch_loss/len(graphs):.4f}")
+        mean_loss = epoch_loss / len(graphs)
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    torch.save(model.state_dict(), output_path)
-    print(f"Saved CDGE weights → {output_path}")
+        # Step LR scheduler
+        scheduler.step(mean_loss)
+
+        if mean_loss + 1e-5 < best_loss:
+            best_loss = mean_loss
+            epochs_without_improve = 0
+            # Save best checkpoint in-place
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            torch.save(model.state_dict(), output_path)
+            saved_tag = "*saved*"
+        else:
+            epochs_without_improve += 1
+            saved_tag = ""
+
+        if epoch % log_every == 0 or epoch == epochs:
+            current_lr = opt.param_groups[0]["lr"]
+            print(
+                f"Epoch {epoch:4d} | loss={mean_loss:.4f} | best={best_loss:.4f} | lr={current_lr:.5g} {saved_tag}"
+            )
+
+        # Early stopping
+        if patience and epochs_without_improve >= patience:
+            print(f"Stopping early after {epoch} epochs (no improvement for {patience} epochs).")
+            break
+
+    # Ensure final weights saved (best already saved during training)
+    if not output_path.exists():
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        torch.save(model.state_dict(), output_path)
+        print(f"Saved CDGE weights → {output_path}")
 
 
 def main() -> None:
@@ -107,9 +150,20 @@ def main() -> None:
     p.add_argument("--epochs", type=int, default=500)
     p.add_argument("--lr", type=float, default=5e-3)
     p.add_argument("--output", type=Path, default=Path("models/cdge_weights.pt"))
+    p.add_argument("--log-every", type=int, default=100, help="Print loss every N epochs")
+    p.add_argument("--seed", type=int, default=42, help="Random seed for reproducibility")
+    p.add_argument("--patience", type=int, default=300, help="Early stopping patience (epochs)")
     args = p.parse_args()
 
-    train(args.input, epochs=args.epochs, lr=args.lr, output_path=args.output)
+    train(
+        args.input,
+        epochs=args.epochs,
+        lr=args.lr,
+        output_path=args.output,
+        log_every=args.log_every,
+        seed=args.seed,
+        patience=args.patience,
+    )
 
 
 if __name__ == "__main__":

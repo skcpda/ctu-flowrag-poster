@@ -80,7 +80,7 @@ class RetrievalFusionManager:
         self._idx += 1
         return arm
 
-    def query(self, text: str, top_k: int = 5) -> List[Dict]:
+    def query(self, text: str, *, context: str | None = None, top_k: int = 5) -> List[Dict]:
         arm = self._choose_arm()
         results = self.retrievers[arm].query(text, top_k=top_k)
         # Optionally compute ndcg or other feedback here

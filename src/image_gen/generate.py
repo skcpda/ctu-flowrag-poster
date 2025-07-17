@@ -8,6 +8,7 @@ from typing import List, Dict, Optional, Tuple
 import time
 import subprocess
 import sys
+import os
 
 # Configure OpenAI client
 client = openai.OpenAI()
@@ -38,6 +39,15 @@ class ImageGenerator:
         Returns:
             Dictionary with image data and metadata
         """
+        # Short-circuit when no valid API key is set to avoid unnecessary errors/costs
+        if not os.getenv("OPENAI_API_KEY"):
+            return {
+                'success': False,
+                'error': 'OPENAI_API_KEY not set – skipping DALL-E call',
+                'method': 'dalle',
+                'original_prompt': prompt
+            }
+
         try:
             response = client.images.generate(
                 model="dall-e-3",
@@ -46,10 +56,9 @@ class ImageGenerator:
                 quality="standard",
                 n=1
             )
-            
             image_url = response.data[0].url
             revised_prompt = response.data[0].revised_prompt
-            
+
             return {
                 'success': True,
                 'image_url': image_url,
@@ -57,7 +66,7 @@ class ImageGenerator:
                 'method': 'dalle',
                 'original_prompt': prompt
             }
-            
+
         except Exception as e:
             return {
                 'success': False,

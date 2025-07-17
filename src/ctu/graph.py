@@ -2,6 +2,14 @@ from __future__ import annotations
 
 from typing import Dict, List, Tuple
 
+# Optional heavy deps – safe fallback when unavailable in CI
+try:
+    from sklearn.feature_extraction.text import TfidfVectorizer  # type: ignore
+    from sklearn.metrics.pairwise import cosine_similarity  # type: ignore
+    _HAS_SK = True
+except ImportError:
+    _HAS_SK = False
+
 import networkx as nx
 
 __all__ = ["build_discourse_graph"]
@@ -32,6 +40,37 @@ def build_discourse_graph(ctus: List[Dict], *, min_weight: float = 0.0) -> Dict:
     g = nx.DiGraph()
     g.add_nodes_from(range(num_nodes))
     _add_edges(g, num_nodes)
+
+    # ------------------ Content-similarity cross edges ------------------
+    if _HAS_SK and num_nodes > 1:
+        texts = [c["text"] for c in ctus]
+        vecs = TfidfVectorizer(stop_words="english", max_features=5000).fit_transform(texts)
+        sims = cosine_similarity(vecs, dense_output=False)  # sparse csr, fast
+        # add edge i→j when similarity above threshold (exclude neighbours already linked)
+        thresh = 0.25  # moderate; tune later
+        rows, cols = sims.nonzero()
+        for i, j in zip(rows.tolist(), cols.tolist()):
+            if i == j or abs(i - j) == 1:
+                continue  # skip self + chain neighbours
+            w = float(sims[i, j])
+            if w < thresh:
+                continue
+            g.add_edge(i, j, type="sim", weight=w)
+
+    # ------------------ Role-based edges ------------------
+    role_to_ids: Dict[str, List[int]] = {}
+    for idx, c in enumerate(ctus):
+        role = c.get("role") or "misc"
+        role_to_ids.setdefault(role, []).append(idx)
+
+    for ids in role_to_ids.values():
+        if len(ids) < 2:
+            continue
+        for i in ids:
+            for j in ids:
+                if i == j:
+                    continue
+                g.add_edge(i, j, type="same_role", weight=0.8)
 
     # Centrality measures for salience – include robust fallback if the power
     # iteration fails to converge (known to happen for tiny / dense graphs).

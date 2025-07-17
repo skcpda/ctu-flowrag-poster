@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import List, Dict
 
 from src.utils.exp_logger import ExpLogger
-from src.utils.metrics import macro_f1
+from src.utils.metrics import macro_f1, graph_cov_at_k
 from src.ctu.evaluate import evaluate_segmentation
 
 
@@ -41,11 +41,15 @@ def compute_role_macro_f1(gold_ctus: List[Dict], pred_ctus: List[Dict]) -> float
 
 
 def main():
+    # CLI rework: gold dir + split flag
     p = argparse.ArgumentParser(description="Evaluate segmentation and role tagging against gold data")
     p.add_argument("--run-id", required=True)
-    p.add_argument("--gold-seg", type=Path, default=DEFAULT_GOLD_SEG, help="Gold segmentation JSON file")
-    p.add_argument("--gold-role", type=Path, default=DEFAULT_GOLD_ROLE, help="Gold CTU roles JSON file")
+    p.add_argument("--seg-gold-dir", type=Path, default=Path("gold/seg_role"), help="Directory containing gold JSONs")
+    p.add_argument("--split", choices=["dev", "test"], default="dev", help="Data split to evaluate")
     args = p.parse_args()
+
+    gold_seg = args.seg_gold_dir / f"{args.split}_segmentation.json"
+    gold_role = args.seg_gold_dir / f"{args.split}_roles.json"
 
     # ------------------------------------------------------------------
     # Load predicted CTUs from pipeline results
@@ -63,19 +67,22 @@ def main():
     # ------------------------------------------------------------------
     # Segmentation evaluation
     # ------------------------------------------------------------------
-    if not args.gold_seg.exists():
-        raise FileNotFoundError(args.gold_seg)
+    if not gold_seg.exists():
+        raise FileNotFoundError(gold_seg)
 
-    gold_seg_ctus = load_json(args.gold_seg)
+    gold_seg_ctus = load_json(gold_seg)
     seg_results = evaluate_segmentation(gold_seg_ctus, pred_ctus)
+
+    # Graph coverage @6 (fraction of CTUs covered by selecting top-6)
+    cov6 = graph_cov_at_k(len(pred_ctus), 6)
 
     # ------------------------------------------------------------------
     # Role evaluation
     # ------------------------------------------------------------------
-    if not args.gold_role.exists():
-        raise FileNotFoundError(args.gold_role)
+    if not gold_role.exists():
+        raise FileNotFoundError(gold_role)
 
-    gold_role_ctus = load_json(args.gold_role)
+    gold_role_ctus = load_json(gold_role)
     macro_f1_score = compute_role_macro_f1(gold_role_ctus, tagged_ctus)
 
     # ------------------------------------------------------------------
@@ -88,7 +95,7 @@ def main():
             "run_id": args.run_id,
             "pk": round(seg_results["pk"], 4),
             "windowdiff": round(seg_results["windowdiff"], 4),
-            "graph_cov@6": 0.0,
+            "graph_cov@6": round(cov6, 4),
         },
     )
 
@@ -97,6 +104,7 @@ def main():
     print("Segmentation results:")
     print(f"  Pk:          {seg_results['pk']:.4f}")
     print(f"  WindowDiff:  {seg_results['windowdiff']:.4f}")
+    print(f"  GraphCov@6:  {cov6:.4f}")
     print("Role tagging results:")
     print(f"  Macro-F1:    {macro_f1_score:.4f}")
 
