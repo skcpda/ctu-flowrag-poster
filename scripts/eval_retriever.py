@@ -73,11 +73,18 @@ def evaluate_retriever(qrels: Dict[str, Dict[int, int]], variant_flags: Dict[str
     # ------------------------------------------------------------------
     # 2. Encode + index corpus
     # ------------------------------------------------------------------
+    # Build adjacency once if CDGE is requested
+    adjacency_matrix = None
+    if variant_flags["add_cdge"]:
+        from src.ctu.graph import build_discourse_graph
+        graph_data = build_discourse_graph(ctus)
+        adjacency_matrix = np.array(graph_data["adjacency_matrix"], dtype=np.float32)
+
     vecs = encode_dense(
         texts,
         add_ctu_keywords=variant_flags["add_ctu_keywords"],
         add_cdge=variant_flags["add_cdge"],
-        adjacency=None,
+        adjacency=adjacency_matrix,
     )
 
     index = DenseIndex(vecs.shape[1])

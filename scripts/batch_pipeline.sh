@@ -33,8 +33,12 @@ for dir in $(ls -1d "$SCHEMES_ROOT"/* | head -n "$NUM_SCHEMES"); do
     python -m src.pipeline.run_pipeline \
         --scheme-dir "$dir" \
         --output-dir "$out_dir" \
+        --skip-images \
+        --quiet \
         $EXTRA_ARGS \
-        --no-llm || {
+        --no-llm > /dev/null 2>&1 && {
+        echo "✅  $slug processed successfully"; 
+    } || {
         echo "⚠️  Pipeline failed for $slug – skipping" >&2
     }
 

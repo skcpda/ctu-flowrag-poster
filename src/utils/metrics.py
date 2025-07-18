@@ -20,11 +20,17 @@ def salience_ndcg(relevances: List[float], k: int = 10) -> float:
     """Compute discounted cumulative gain using salience as relevance.
     Normalised by ideal ranking.
     """
+    # Accept either raw float salience (0-1) or pre-scaled integer 0-3.
+    def _to_int(r):
+        return int(round(min(max(r, 0.0), 1.0) * 3)) if isinstance(r, float) else int(r)
+
+    rel_ints = [_to_int(r) for r in relevances]
+
     dcg = 0.0
-    for i, rel in enumerate(relevances[:k], start=1):
+    for i, rel in enumerate(rel_ints[:k], start=1):
         dcg += rel / (log2(i + 1))
 
-    ideal = sorted(relevances, reverse=True)
+    ideal = sorted(rel_ints, reverse=True)
     idcg = 0.0
     for i, rel in enumerate(ideal[:k], start=1):
         idcg += rel / (log2(i + 1))

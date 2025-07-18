@@ -19,6 +19,11 @@ from src.image_gen.generate import ImageGenerator
 from src.flow.storyboard import build_storyboard
 from src.retrieval.fusion import RetrievalFusionManager
 
+# ---------------------------------------------------------------------------
+# Main pipeline class
+# ---------------------------------------------------------------------------
+
+
 class CTUFlowRAGPipeline:
     """Main pipeline for CTU-FlowRAG system."""
     
@@ -27,7 +32,8 @@ class CTUFlowRAGPipeline:
                  output_dir: Path = Path("output"),
                  tiling_window: int = 6,
                  tiling_thresh: float = 0.15,
-                 fallback_sentences: int = 6):
+                 fallback_sentences: int = 6,
+                 quiet: bool = False):
         """Initialize pipeline components."""
         self.output_dir = output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -43,6 +49,8 @@ class CTUFlowRAGPipeline:
         # Retrieval fusion manager (initialised later once corpus available)
         self.retrieval_fusion = None
         
+        self.quiet = quiet
+
         # Segmentation params
         self.tiling_window = tiling_window
         self.tiling_thresh = tiling_thresh
@@ -87,15 +95,14 @@ class CTUFlowRAGPipeline:
         sentences = sent_split_lid(text)
         self.results['sentences'] = sentences
         
-        print(f"✅ Split into {len(sentences)} sentences")
-        
-        # Print language distribution
-        lang_counts = {}
-        for sent in sentences:
-            lang = sent.get('lang', 'unknown')
-            lang_counts[lang] = lang_counts.get(lang, 0) + 1
-        
-        print(f"   Language distribution: {lang_counts}")
+        if not self.quiet:
+            print(f"✅ Split into {len(sentences)} sentences")
+            # Print language distribution
+            lang_counts = {}
+            for sent in sentences:
+                lang = sent.get('lang', 'unknown')
+                lang_counts[lang] = lang_counts.get(lang, 0) + 1
+            print(f"   Language distribution: {lang_counts}")
         return sentences
     
     def segment_ctus(self, sentences: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -123,9 +130,10 @@ class CTUFlowRAGPipeline:
         
         self.results['ctus'] = ctus
         
-        print(f"✅ Identified {len(ctus)} CTUs")
-        for i, ctu in enumerate(ctus):
-            print(f"   CTU {i+1}: {ctu['text'][:100]}...")
+        if not self.quiet:
+            print(f"✅ Identified {len(ctus)} CTUs")
+            for i, ctu in enumerate(ctus):
+                print(f"   CTU {i+1}: {ctu['text'][:100]}...")
         
         return ctus
     
@@ -142,7 +150,8 @@ class CTUFlowRAGPipeline:
             role = ctu.get('role', 'unknown')
             role_counts[role] = role_counts.get(role, 0) + 1
         
-        print(f"✅ Tagged CTUs with roles: {role_counts}")
+        if not self.quiet:
+            print(f"✅ Tagged CTUs with roles: {role_counts}")
         return tagged_ctus
     
     def retrieve_cultural_context(self, ctus: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -168,7 +177,8 @@ class CTUFlowRAGPipeline:
             })
         
         self.results['cultural_contexts'] = cultural_contexts
-        print(f"✅ Retrieved cultural context for {len(cultural_contexts)} CTUs")
+        if not self.quiet:
+            print(f"✅ Retrieved cultural context for {len(cultural_contexts)} CTUs")
         return cultural_contexts
     
     def synthesize_prompts(self, tagged_ctus: List[Dict[str, Any]], 
@@ -189,7 +199,8 @@ class CTUFlowRAGPipeline:
                 prompts.extend(prompt_data)
         
         self.results['prompts'] = prompts
-        print(f"✅ Generated {len(prompts)} prompts")
+        if not self.quiet:
+            print(f"✅ Generated {len(prompts)} prompts")
         return prompts
     
     def generate_posters(self, prompts: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -222,10 +233,11 @@ class CTUFlowRAGPipeline:
                 print(f"❌ Failed to generate poster {i+1}: {e}")
         
         self.results['posters'] = posters
-        print(f"✅ Generated {len(posters)} posters")
+        if not self.quiet:
+            print(f"✅ Generated {len(posters)} posters")
         return posters
     
-    def run_full_pipeline(self, scheme_dir: Path, use_llm: bool = True) -> Dict[str, Any]:
+    def run_full_pipeline(self, scheme_dir: Path, use_llm: bool = True, skip_images: bool = False) -> Dict[str, Any]:
         """Run the complete CTU-FlowRAG pipeline."""
         print("🚀 Starting CTU-FlowRAG Pipeline")
         print("=" * 50)
@@ -253,16 +265,21 @@ class CTUFlowRAGPipeline:
             prompts = self.synthesize_prompts(storyboard_ctus, cultural_contexts, storyboard=True)
             
             # Step 8: Generate posters
-            posters = self.generate_posters(prompts)
+            if not skip_images:
+                posters = self.generate_posters(prompts)
+            else:
+                posters = []
+                print("Skipping poster generation due to --skip-images flag.")
             
             # Save results
             self.save_results()
             
-            print("\n🎉 Pipeline completed successfully!")
-            print(f"📊 Summary:")
-            print(f"   Sentences: {len(sentences)}")
-            print(f"   CTUs: {len(ctus)}")
-            print(f"   Posters: {len(posters)}")
+            if not self.quiet:
+                print("\n🎉 Pipeline completed successfully!")
+                print(f"📊 Summary:")
+                print(f"   Sentences: {len(sentences)}")
+                print(f"   CTUs: {len(ctus)}")
+                print(f"   Posters: {len(posters)}")
             
             return self.results
             
@@ -304,6 +321,8 @@ def main():
     parser.add_argument("--tiling-window", type=int, default=6, help="TextTiling window size (sentences)")
     parser.add_argument("--tiling-thresh", type=float, default=0.15, help="TextTiling similarity threshold")
     parser.add_argument("--fallback-sentences", type=int, default=6, help="Sentence count for fallback CTU splitting")
+    parser.add_argument("--skip-images", action="store_true", help="Skip poster image generation step")
+    parser.add_argument("--quiet", action="store_true", help="Run pipeline in quiet mode (no verbose prints)")
     
     args = parser.parse_args()
     
@@ -313,13 +332,15 @@ def main():
         output_dir=Path(args.output_dir),
         tiling_window=args.tiling_window,
         tiling_thresh=args.tiling_thresh,
-        fallback_sentences=args.fallback_sentences
+        fallback_sentences=args.fallback_sentences,
+        quiet=args.quiet
     )
     
     # Run pipeline
     results = pipeline.run_full_pipeline(
         scheme_dir=Path(args.scheme_dir),
-        use_llm=not args.no_llm
+        use_llm=not args.no_llm,
+        skip_images=args.skip_images,
     )
     
     print(f"\n✅ Pipeline completed! Check {args.output_dir} for results.")

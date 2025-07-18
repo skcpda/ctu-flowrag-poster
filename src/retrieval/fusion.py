@@ -29,6 +29,21 @@ except ImportError:
 
 import numpy as np
 
+# -------------------------------------------------------------
+# Dummy retriever fallback (returns empty list). Keeps the rest of the
+# pipeline functional even when optional deps are missing.
+# -------------------------------------------------------------
+
+
+class _DummyRetriever:
+    """No-op retriever used when BM25 / BGE are unavailable."""
+
+    def __init__(self, corpus: List[str]):
+        self.corpus = corpus
+
+    def query(self, text: str, top_k: int = 5) -> List[Dict]:  # noqa: D401
+        return []
+
 # ndcg not used after removing bandit logic
 
 # ----------------- BM25 RETRIEVER -----------------
@@ -71,7 +86,8 @@ class RetrievalFusionManager:
         if _HAS_ST:
             self.retrievers["bge"] = BGESimRetriever(corpus)
         if not self.retrievers:
-            raise RuntimeError("No retrievers available – install rank_bm25 or sentence_transformers.")
+            # Fall back to a dummy retriever so that the pipeline keeps running.
+            self.retrievers["dummy"] = _DummyRetriever(corpus)
         self._arms = list(self.retrievers.keys())
         self._idx = 0  # round-robin counter
 

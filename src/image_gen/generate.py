@@ -1,17 +1,40 @@
 # src/image_gen/generate.py
 import json
-import openai
-import base64
-import requests
-from pathlib import Path
+# Optional OpenAI import during runtime
+import os
+from typing import Optional as _Opt
 from typing import List, Dict, Optional, Tuple
 import time
 import subprocess
 import sys
-import os
 
-# Configure OpenAI client
-client = openai.OpenAI()
+try:
+    import openai  # type: ignore
+except Exception:  # pragma: no cover – keep import-time failures contained
+    openai = None  # type: ignore
+
+import base64
+import requests
+from pathlib import Path
+
+# ---------------------------------------------------------------------------
+# Helper: lazily create an OpenAI client only when we genuinely need it.
+# ---------------------------------------------------------------------------
+
+
+def _lazy_client(api_key: _Opt[str] = None):
+    """Return a cached OpenAI client or *None* when deps/key unavailable."""
+    if openai is None:
+        return None
+
+    key = api_key or os.getenv("OPENAI_API_KEY")
+    if not key:
+        return None
+
+    # Cache the client on the function object (singleton pattern)
+    if not hasattr(_lazy_client, "_client"):
+        _lazy_client._client = openai.OpenAI(api_key=key)  # type: ignore[attr-defined]
+    return _lazy_client._client
 
 class ImageGenerator:
     """Generate images from prompts using DALL-E or Stable Diffusion."""
@@ -25,8 +48,7 @@ class ImageGenerator:
             api_key: OpenAI API key (optional, will use env var)
         """
         self.method = method
-        if method == "dalle" and api_key:
-            client.api_key = api_key
+        self._api_key = api_key  # may be None
     
     def generate_with_dalle(self, prompt: str, size: str = "1024x1024") -> Dict:
         """
@@ -39,8 +61,9 @@ class ImageGenerator:
         Returns:
             Dictionary with image data and metadata
         """
-        # Short-circuit when no valid API key is set to avoid unnecessary errors/costs
-        if not os.getenv("OPENAI_API_KEY"):
+        client = _lazy_client(self._api_key)
+
+        if client is None:
             return {
                 'success': False,
                 'error': 'OPENAI_API_KEY not set – skipping DALL-E call',
