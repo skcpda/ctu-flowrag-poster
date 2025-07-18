@@ -1,2 +1,5 @@
+output/**/*.json filter=lfs diff=lfs merge=lfs -text
+output/**/*.faiss filter=lfs diff=lfs merge=lfs -text
+output/**/*results*.json filter=lfs diff=lfs merge=lfs -text
 output/ctu_index/cultural_index.faiss filter=lfs diff=lfs merge=lfs -text
 output/pipeline_results_all.json filter=lfs diff=lfs merge=lfs -text
