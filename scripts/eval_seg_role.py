@@ -65,16 +65,20 @@ def main():
         raise RuntimeError("No CTUs found in pipeline_results.json – run the pipeline first.")
 
     # ------------------------------------------------------------------
-    # Segmentation evaluation
+    # Segmentation evaluation + shrink check
     # ------------------------------------------------------------------
     if not gold_seg.exists():
         raise FileNotFoundError(gold_seg)
 
-    gold_seg_ctus = load_json(gold_seg)
+    gold_seg_raw = load_json(gold_seg)
+    gold_seg_ctus = gold_seg_raw.get("ctus", gold_seg_raw)
     seg_results = evaluate_segmentation(gold_seg_ctus, pred_ctus)
 
     # Graph coverage @6 (fraction of CTUs covered by selecting top-6)
     cov6 = graph_cov_at_k(len(pred_ctus), 6)
+
+    # Percentage of CTUs with <=6 sentences (shrink constraint)
+    pct_short = 100 * sum(c.get("sent_count", 0) <= 6 for c in pred_ctus) / len(pred_ctus)
 
     # ------------------------------------------------------------------
     # Role evaluation
@@ -82,7 +86,8 @@ def main():
     if not gold_role.exists():
         raise FileNotFoundError(gold_role)
 
-    gold_role_ctus = load_json(gold_role)
+    gold_role_raw = load_json(gold_role)
+    gold_role_ctus = gold_role_raw.get("ctus", gold_role_raw)
     macro_f1_score = compute_role_macro_f1(gold_role_ctus, tagged_ctus)
 
     # ------------------------------------------------------------------
@@ -96,6 +101,7 @@ def main():
             "pk": round(seg_results["pk"], 4),
             "windowdiff": round(seg_results["windowdiff"], 4),
             "graph_cov@6": round(cov6, 4),
+            "pct_short_ctu": round(pct_short, 1),
         },
     )
 

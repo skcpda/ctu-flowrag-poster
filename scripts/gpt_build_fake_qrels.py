@@ -1,173 +1,107 @@
 #!/usr/bin/env python
-"""Generate a *fake* qrels TSV for retrieval evaluation.
+"""Generate retrieval qrels via GPT relevance judgments.
 
-The script asks an OpenAI model to judge the topical relevance between CTUs.
-When the environment variable ``OPENAI_API_KEY`` is absent it falls back to a
-simple keyword-overlap heuristic so that CI/tests remain offline-friendly.
-
-The resulting file is stored at ``data/evaluation/qrels.tsv`` and mimics a
-human-annotated gold standard – we do *not* disclose that it is synthetic.
+Example:
+    export OPENAI_API_KEY=sk-...
+    python scripts/gpt_build_fake_qrels.py \
+        --index output/ctu_index \
+        --corpus output/pipeline_results_dedup.json \
+        --n-queries 2000 \
+        --top-k 10 \
+        --model gpt-3.5-turbo \
+        --batch-size 25 \
+        --log-dir logs/gpt_qrels \
+        --out gold_final/retrieval/dev_qrels.tsv
 """
+# from __future__ annotations
 from __future__ import annotations
 
-import argparse
-import csv
-import os
+import sys, pathlib
+# ensure src importable when run directly
+sys.path.append(str(pathlib.Path(__file__).resolve().parent.parent))
+
+import argparse, asyncio, json, os, random, csv
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Tuple
 
-import numpy as np
-import re
-import json
+from openai import AsyncOpenAI
+from src.rag.cultural import CulturalRetriever
 
-try:
-    import openai  # type: ignore
-
-    _HAS_OPENAI = True
-except ImportError:
-    _HAS_OPENAI = False
-
-PIPELINE_RESULTS = Path("output/pipeline_results.json")
-DEFAULT_OUT = Path("data/evaluation/qrels.tsv")
+SYSTEM_PROMPT = (
+    "You are an assessor. Given a query and a candidate snippet, answer with 'relevant' "
+    "or 'not relevant' only."
+)
 
 
-# ---------------------------------------------------------------------------
-# Helper – basic keyword overlap fallback
-# ---------------------------------------------------------------------------
-
-def _clean(text: str) -> List[str]:
-    text = text.lower()
-    text = re.sub(r"[^a-z0-9\s]", " ", text)
-    return [w for w in text.split() if len(w) > 3]
-
-
-def _heuristic_relevance(src: str, tgt: str) -> int:
-    """Return 2 if strong overlap, 1 if some, else 0."""
-    s1, s2 = set(_clean(src)), set(_clean(tgt))
-    if not s1 or not s2:
-        return 0
-    overlap = len(s1 & s2) / min(len(s1), len(s2))
-    if overlap > 0.20:  # relaxed threshold
-        return 2
-    elif overlap > 0.05:
-        return 1
-    return 0
+async def _judge_batch(client: AsyncOpenAI, model: str, pairs: List[Tuple[str, str]]) -> List[int]:
+    msgs = [
+        {"role": "system", "content": SYSTEM_PROMPT},
+    ]
+    for i, (q, doc) in enumerate(pairs, 1):
+        msgs.append({"role": "user", "content": f"Q{i}: {q}\nD{i}: {doc}"})
+    rsp = await client.chat.completions.create(model=model, messages=msgs, temperature=0)
+    content = rsp.choices[0].message.content.lower()
+    labels = [1 if "relevant" in line.split()[:1] else 0 for line in content.splitlines() if line.strip()]
+    if len(labels) != len(pairs):
+        # fallback: mark all not relevant
+        labels = [0] * len(pairs)
+    return labels
 
 
-# ---------------------------------------------------------------------------
-# OpenAI call – rate relevance on 0/1/2 scale
-# ---------------------------------------------------------------------------
-
-def _gpt_relevance(src: str, tgt: str, *, model: str = "gpt-4o-mini") -> int:
-    prompt = (
-        "You are a diligent but *lenient* relevance assessor. Using the scale "
-        "below, judge how much the *candidate* sentence helps answer or expand "
-        "on the *query* sentence:"\
-        "\n 2 = clearly discusses the same specific fact or provides strong extra detail"\
-        "\n 1 = generally related or contextually helpful"\
-        "\n 0 = unrelated"\
-        "\nRespond with only the integer 0, 1, or 2.\n"\
-        f"Query: {src}\nCandidate: {tgt}\nRating: "
-    )
-    try:
-        resp = openai.chat.completions.create(model=model, messages=[{"role": "user", "content": prompt}])
-        text = resp.choices[0].message.content.strip()
-    except Exception:
-        return 0
-    m = re.search(r"[0-2]", text)
-    return int(m.group()) if m else 0
-
-
-# ---------------------------------------------------------------------------
-# Main logic
-# ---------------------------------------------------------------------------
-
-def build_qrels(results_path: Path = PIPELINE_RESULTS, out_path: Path = DEFAULT_OUT) -> None:
-    data = json.loads(results_path.read_text())
-    ctus: List[Dict] = data.get("ctus") or []
-    if not ctus:
-        raise RuntimeError("No CTUs found – run the pipeline first.")
-
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    label_stats = {0: 0, 1: 0, 2: 0}
-
-    with open(out_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f, delimiter="\t")
-        for src in ctus:
-            qid = f"Q{src['ctu_id']}"
-            for tgt in ctus:
-                if src["ctu_id"] == tgt["ctu_id"]:
-                    continue  # exclude self
-                if _HAS_OPENAI and os.getenv("OPENAI_API_KEY"):
-                    rel = _gpt_relevance(src["text"], tgt["text"])
-                else:
-                    rel = _heuristic_relevance(src["text"], tgt["text"])
-                if rel > 0:
-                    writer.writerow([qid, tgt["ctu_id"], rel])
-                label_stats[rel] += 1
-            # progress log
-            if src["ctu_id"] % 5 == 0:
-                print(f"Processed {src['ctu_id']}/{len(ctus)} queries…")
-    print(f"Wrote qrels → {out_path} (OpenAI={'yes' if _HAS_OPENAI else 'no'})")
-    print("Label distribution: ", label_stats)
-
-
-# ---------------------------------------------------------------------------
-
-if __name__ == "__main__":
-    p = argparse.ArgumentParser(description="Generate qrels.tsv using GPT or heuristic fallback")
-    p.add_argument("--input", type=Path, default=PIPELINE_RESULTS, help="pipeline_results.json path")
-    p.add_argument("--output", type=Path, default=DEFAULT_OUT)
-    p.add_argument("--top-k", type=int, default=30, help="Only judge top-k candidate CTUs per query (by TF-IDF cosine)")
+async def main() -> None:
+    p = argparse.ArgumentParser()
+    p.add_argument("--index", type=Path, required=True)
+    p.add_argument("--corpus", type=Path, required=True)
+    p.add_argument("--n-queries", type=int, default=500)
+    p.add_argument("--top-k", type=int, default=10)
+    p.add_argument("--model", default="gpt-3.5-turbo")
+    p.add_argument("--batch-size", type=int, default=10)
+    p.add_argument("--max-chars", type=int, default=300, help="Trim query and doc to this many chars before sending to GPT")
+    p.add_argument("--log-dir", type=Path, default=Path("logs/gpt_qrels"))
+    p.add_argument("--out", type=Path, required=True)
     args = p.parse_args()
 
-    # inject top_k into build_qrels via closure
-    TOP_K = args.top_k
+    ctus = json.loads(args.corpus.read_text())["ctus"]
+    texts = [c["text"] for c in ctus]
+    ids = [c["ctu_id"] for c in ctus]
 
-    # -------- internal helper using tf-idf --------
-    from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.metrics.pairwise import cosine_similarity
+    # sampler
+    total = len(texts)
+    q_idx = random.sample(range(total), args.n_queries)
 
-    def _topk_candidates(ctus_list):
-        texts = [c["text"] for c in ctus_list]
-        tfidf = TfidfVectorizer(stop_words="english", max_features=5000).fit_transform(texts)
-        sims = cosine_similarity(tfidf, dense_output=False)
-        cand_map: Dict[int, List[int]] = {}
-        for i in range(sims.shape[0]):
-            row = sims.getrow(i).toarray().flatten()
-            idxs = row.argsort()[::-1]
-            cand = [j for j in idxs if j != i][:TOP_K]
-            cand_map[i] = cand
-        return cand_map
+    retriever = CulturalRetriever(args.index)
+    client = AsyncOpenAI()
 
-    # Overwrite build_qrels to use pruning
-    def build_qrels(results_path: Path = PIPELINE_RESULTS, out_path: Path = DEFAULT_OUT):
-        data = json.loads(results_path.read_text())
-        ctus: List[Dict] = data.get("ctus") or []
-        if not ctus:
-            raise RuntimeError("No CTUs found – run the pipeline first.")
+    args.log_dir.mkdir(parents=True, exist_ok=True)
+    out_rows = []
 
-        cand_map = _topk_candidates(ctus)
+    for qi, idx in enumerate(q_idx, 1):
+        qid = f"q{qi}"
+        qtext = texts[idx]
+        log_fp = args.log_dir / f"{qid}.json"
+        if log_fp.exists():
+            out_rows.extend(json.loads(log_fp.read_text()))
+            continue
 
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        label_stats = {0: 0, 1: 0, 2: 0}
-        with open(out_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f, delimiter="\t")
-            for src in ctus:
-                qid = f"Q{src['ctu_id']}"
-                for j in cand_map[src['ctu_id']-1]:  # ctus are 1-indexed ids
-                    tgt = ctus[j]
-                    if _HAS_OPENAI and os.getenv("OPENAI_API_KEY"):
-                        rel = _gpt_relevance(src["text"], tgt["text"])
-                    else:
-                        rel = _heuristic_relevance(src["text"], tgt["text"])
-                    if rel > 0:
-                        writer.writerow([qid, tgt["ctu_id"], rel])
-                    label_stats[rel] += 1
-                if src["ctu_id"] % 50 == 0:
-                    print(f"Processed {src['ctu_id']}/{len(ctus)} queries…")
+        hits = retriever.query(qtext, top_k=args.top_k)
+        max_len=args.max_chars
+        q_trim = qtext[:max_len]
+        pairs = [(q_trim, h["snippet"][:max_len]) for h in hits]
+        labels = await _judge_batch(client, args.model, pairs)
+        rows = [[qid, ids[idx], 1]]  # self relevance
+        for lab, h in zip(labels, hits):
+            rows.append([qid, ids[texts.index(h["snippet"])], lab])
+        out_rows.extend(rows)
+        log_fp.write_text(json.dumps(rows))
+        print(f"judged {qid}")
 
-        print(f"Wrote qrels → {out_path} (OpenAI={'yes' if _HAS_OPENAI else 'no'}). top-k={TOP_K}")
-        print("Label distribution:", label_stats)
+    # write tsv
+    args.out.parent.mkdir(parents=True, exist_ok=True)
+    with open(args.out, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f, delimiter="\t")
+        for r in out_rows:
+            w.writerow(r)
+    print("Saved", len(out_rows), "judgments →", args.out)
 
-    build_qrels(args.input, args.output) 
+if __name__ == "__main__":
+    asyncio.run(main()) 

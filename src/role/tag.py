@@ -8,7 +8,23 @@ set of keyword heuristics that cover the roles exercised in the test-suite.
 
 from __future__ import annotations
 
+# ---------------------------------------------------------------------------
+# Optional SVM model (trained via scripts/train_role_svm.py)
+# ---------------------------------------------------------------------------
+
 from typing import Dict
+from pathlib import Path
+import pickle
+
+_SVM_PATH = Path("models/role_svm.pkl")
+_SVM_MODEL = None
+
+if _SVM_PATH.exists():
+    try:
+        with open(_SVM_PATH, "rb") as f:
+            _SVM_MODEL = pickle.load(f)
+    except Exception:
+        _SVM_MODEL = None
 
 __all__ = ["hybrid_classifier"]
 __all__.append("tag_ctus")
@@ -63,6 +79,14 @@ _DEFAULT_ROLE = "misc"
 
 
 def _detect_role(text: str) -> str:
+    """Return predicted role using SVM if available else keyword heuristic."""
+    if _SVM_MODEL is not None:
+        try:
+            pred = _SVM_MODEL.predict([text])[0]
+            return str(pred)
+        except Exception:
+            pass  # fallback to heuristic
+
     lower = text.lower()
     for role, kws in _KEYWORDS.items():
         if any(kw in lower for kw in kws):

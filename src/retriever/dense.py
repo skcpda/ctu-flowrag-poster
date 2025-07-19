@@ -17,6 +17,7 @@ from src.cdge import infer as cdge_infer
 from pathlib import Path
 import hashlib
 import json
+import os
 
 
 __all__ = ["encode"]
@@ -63,11 +64,16 @@ def _text_hash(text: str) -> str:
 def _bge_encode(texts: List[str]) -> np.ndarray:
     """Encode with BGE small model if available; else zeros."""
     if not _HAS_ST:
+        # In full evaluation/training runs we should not proceed silently.
+        # Allow silence only during unit tests (marked by env var).
+        if not os.getenv("ALLOW_FAKE_BGE"):
+            raise RuntimeError(
+                "sentence_transformers not installed – cannot compute BGE embeddings. "
+                "Install the extra deps or set ALLOW_FAKE_BGE=1 to bypass in tests."
+            )
         import warnings
         warnings.warn(
-            "sentence_transformers not installed – returning zero vectors. "
-            "Install the extras to get real BGE embeddings.",
-            RuntimeWarning,
+            "sentence_transformers missing – returning zero embeddings due to ALLOW_FAKE_BGE", RuntimeWarning
         )
         return np.zeros((len(texts), _EMB_DIM_BGE), dtype=np.float32)
 

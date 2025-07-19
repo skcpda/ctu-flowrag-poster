@@ -30,8 +30,8 @@ class CTUFlowRAGPipeline:
     def __init__(self, 
                  cultural_index_path: Optional[Path] = None,
                  output_dir: Path = Path("output"),
-                 tiling_window: int = 6,
-                 tiling_thresh: float = 0.15,
+                 tiling_window: int = 7,
+                 tiling_thresh: float = 0.05,
                  fallback_sentences: int = 6,
                  quiet: bool = False):
         """Initialize pipeline components."""
