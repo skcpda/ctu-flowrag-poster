@@ -1,1 +1,0 @@
-# Retriever utilities (BGE, fusion, FAISS) 
