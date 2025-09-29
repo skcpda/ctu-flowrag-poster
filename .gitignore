@@ -1,0 +1,73 @@
+# CTU FlowRAG - Git Ignore File
+
+# Large data directories that shouldn't be in git
+organized_output/outputs/ctu_embedding_labeled/
+organized_output/outputs/ctu_relations_filtered/
+organized_output/outputs/gpt_descriptions_fixed/
+organized_output/outputs/ctu_relations_v3_fixed_all/
+
+# Model files (too large for git)
+fine_tuned_bge_ctu_relations/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large JSON files (relations data)
+*_relations.json
+*_relations_filtered.json
+*_relations_v3_fixed.json
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data processing intermediate files
+progress.json
+final_summary.json
+filtered_summary.json
+v3_fixed_summary.json
+
+# Large embedding files
+*.emb
+*.npy
+*.npz
+
+# Keep only essential files in git:
+# - Scripts and code
+# - Configuration files
+# - Documentation
+# - Small sample data files
