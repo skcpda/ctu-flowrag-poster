@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Kaidi Sahay Yojana",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "Kaidi Sahay Yojana is a welfare scheme launched by the Government of India aimed at providing financial assistance to the families of prisoners.",
+      "role": "ContextObjective",
+      "confidence": 0.4980217218399048,
+      "similarities": {
+        "ContextObjective": 0.4980217218399048,
+        "BenefitsAssistance": 0.4197012782096863,
+        "Eligibility": 0.4678564965724945,
+        "ApplicationProcess": 0.40252575278282166,
+        "TimelineFrequency": 0.3841889500617981,
+        "AuthoritiesGovernance": 0.43194568157196045,
+        "DefinitionsReferences": 0.35025113821029663
+      }
+    },
+    {
+      "sentence": "The scheme was initiated on December 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5673391222953796,
+      "similarities": {
+        "ContextObjective": 0.5673391222953796,
+        "BenefitsAssistance": 0.46879491209983826,
+        "Eligibility": 0.503669023513794,
+        "ApplicationProcess": 0.4953216016292572,
+        "TimelineFrequency": 0.5061888098716736,
+        "AuthoritiesGovernance": 0.45249801874160767,
+        "DefinitionsReferences": 0.37378329038619995
+      }
+    },
+    {
+      "sentence": "It was introduced to address the challenges faced by the families of incarcerated individuals who often struggle financially during the imprisonment of their breadwinners.",
+      "role": "Eligibility",
+      "confidence": 0.45499154925346375,
+      "similarities": {
+        "ContextObjective": 0.3861064016819,
+        "BenefitsAssistance": 0.4343526363372803,
+        "Eligibility": 0.45499154925346375,
+        "ApplicationProcess": 0.3519880175590515,
+        "TimelineFrequency": 0.3404141962528229,
+        "AuthoritiesGovernance": 0.40236854553222656,
+        "DefinitionsReferences": 0.32389840483665466
+      }
+    },
+    {
+      "sentence": "The primary objective of the Kaidi Sahay Yojana is to provide a safety net for these families.",
+      "role": "ContextObjective",
+      "confidence": 0.5032331943511963,
+      "similarities": {
+        "ContextObjective": 0.5032331943511963,
+        "BenefitsAssistance": 0.42918556928634644,
+        "Eligibility": 0.4692728519439697,
+        "ApplicationProcess": 0.38623112440109253,
+        "TimelineFrequency": 0.3417878746986389,
+        "AuthoritiesGovernance": 0.3790211081504822,
+        "DefinitionsReferences": 0.31786906719207764
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that the families do not fall into poverty due to the loss of income caused by the imprisonment of a family member.",
+      "role": "Eligibility",
+      "confidence": 0.5172232389450073,
+      "similarities": {
+        "ContextObjective": 0.48938649892807007,
+        "BenefitsAssistance": 0.42767924070358276,
+        "Eligibility": 0.5172232389450073,
+        "ApplicationProcess": 0.41915225982666016,
+        "TimelineFrequency": 0.3482482135295868,
+        "AuthoritiesGovernance": 0.39283421635627747,
+        "DefinitionsReferences": 0.33952832221984863
+      }
+    },
+    {
+      "sentence": "This initiative is particularly focused on supporting the children of prisoners.",
+      "role": "ContextObjective",
+      "confidence": 0.4231564402580261,
+      "similarities": {
+        "ContextObjective": 0.4231564402580261,
+        "BenefitsAssistance": 0.33062997460365295,
+        "Eligibility": 0.3845379054546356,
+        "ApplicationProcess": 0.3092206120491028,
+        "TimelineFrequency": 0.3052319884300232,
+        "AuthoritiesGovernance": 0.37218761444091797,
+        "DefinitionsReferences": 0.31925836205482483
+      }
+    },
+    {
+      "sentence": "The government has set a target to provide assistance to at least 50,000 families under this scheme annually.",
+      "role": "ContextObjective",
+      "confidence": 0.5347172021865845,
+      "similarities": {
+        "ContextObjective": 0.5347172021865845,
+        "BenefitsAssistance": 0.4792839288711548,
+        "Eligibility": 0.5290201306343079,
+        "ApplicationProcess": 0.43728265166282654,
+        "TimelineFrequency": 0.42612573504447937,
+        "AuthoritiesGovernance": 0.4245903491973877,
+        "DefinitionsReferences": 0.36591020226478577
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the Kaidi Sahay Yojana is specifically designed to cover basic needs such as food, education, and healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5624117255210876,
+      "similarities": {
+        "ContextObjective": 0.46268147230148315,
+        "BenefitsAssistance": 0.5624117255210876,
+        "Eligibility": 0.48767024278640747,
+        "ApplicationProcess": 0.4272708296775818,
+        "TimelineFrequency": 0.4021051526069641,
+        "AuthoritiesGovernance": 0.40728798508644104,
+        "DefinitionsReferences": 0.3811838626861572
+      }
+    },
+    {
+      "sentence": "Eligible families can receive a monthly financial aid of ₹1,500.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5427901148796082,
+      "similarities": {
+        "ContextObjective": 0.4369751513004303,
+        "BenefitsAssistance": 0.5427901148796082,
+        "Eligibility": 0.5306066870689392,
+        "ApplicationProcess": 0.4401620030403137,
+        "TimelineFrequency": 0.4577164649963379,
+        "AuthoritiesGovernance": 0.3797532320022583,
+        "DefinitionsReferences": 0.3584974706172943
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover essential expenses while the family member is incarcerated.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.553466796875,
+      "similarities": {
+        "ContextObjective": 0.3878726363182068,
+        "BenefitsAssistance": 0.553466796875,
+        "Eligibility": 0.4666447937488556,
+        "ApplicationProcess": 0.39564430713653564,
+        "TimelineFrequency": 0.3712785243988037,
+        "AuthoritiesGovernance": 0.3799605965614319,
+        "DefinitionsReferences": 0.395915687084198
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote the rehabilitation of prisoners by ensuring their families are supported during their absence.",
+      "role": "ContextObjective",
+      "confidence": 0.4748033881187439,
+      "similarities": {
+        "ContextObjective": 0.4748033881187439,
+        "BenefitsAssistance": 0.357780396938324,
+        "Eligibility": 0.41869106888771057,
+        "ApplicationProcess": 0.3405708074569702,
+        "TimelineFrequency": 0.3471994996070862,
+        "AuthoritiesGovernance": 0.38815680146217346,
+        "DefinitionsReferences": 0.30642515420913696
+      }
+    },
+    {
+      "sentence": "Eligibility for the Kaidi Sahay Yojana is primarily based on the financial condition of the family.",
+      "role": "Eligibility",
+      "confidence": 0.5710221529006958,
+      "similarities": {
+        "ContextObjective": 0.4324054419994354,
+        "BenefitsAssistance": 0.48449093103408813,
+        "Eligibility": 0.5710221529006958,
+        "ApplicationProcess": 0.4512343406677246,
+        "TimelineFrequency": 0.42344796657562256,
+        "AuthoritiesGovernance": 0.3422851860523224,
+        "DefinitionsReferences": 0.35580480098724365
+      }
+    },
+    {
+      "sentence": "Families with an annual income of less than ₹1 lakh are eligible to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5905911326408386,
+      "similarities": {
+        "ContextObjective": 0.49317145347595215,
+        "BenefitsAssistance": 0.5123381614685059,
+        "Eligibility": 0.5905911326408386,
+        "ApplicationProcess": 0.5198205709457397,
+        "TimelineFrequency": 0.4801463186740875,
+        "AuthoritiesGovernance": 0.3721780776977539,
+        "DefinitionsReferences": 0.34534066915512085
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme is available to families of prisoners who have been sentenced to imprisonment for a period of more than six months.",
+      "role": "Eligibility",
+      "confidence": 0.5111859440803528,
+      "similarities": {
+        "ContextObjective": 0.4586285650730133,
+        "BenefitsAssistance": 0.40925779938697815,
+        "Eligibility": 0.5111859440803528,
+        "ApplicationProcess": 0.4313129186630249,
+        "TimelineFrequency": 0.4371946454048157,
+        "AuthoritiesGovernance": 0.39609795808792114,
+        "DefinitionsReferences": 0.36438363790512085
+      }
+    },
+    {
+      "sentence": "The application process for the Kaidi Sahay Yojana involves several specific steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6521134376525879,
+      "similarities": {
+        "ContextObjective": 0.5334715843200684,
+        "BenefitsAssistance": 0.4707769751548767,
+        "Eligibility": 0.5708456039428711,
+        "ApplicationProcess": 0.6521134376525879,
+        "TimelineFrequency": 0.5559467077255249,
+        "AuthoritiesGovernance": 0.47010698914527893,
+        "DefinitionsReferences": 0.4523550570011139
+      }
+    },
+    {
+      "sentence": "First, applicants must obtain the application form from the local prison authority or the official website of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6467196941375732,
+      "similarities": {
+        "ContextObjective": 0.48712852597236633,
+        "BenefitsAssistance": 0.3898385465145111,
+        "Eligibility": 0.5389808416366577,
+        "ApplicationProcess": 0.6467196941375732,
+        "TimelineFrequency": 0.49986520409584045,
+        "AuthoritiesGovernance": 0.4560677409172058,
+        "DefinitionsReferences": 0.3965113162994385
+      }
+    },
+    {
+      "sentence": "The application form requires basic details such as the name of the prisoner, the relationship of the applicant to the prisoner, and the reason for imprisonment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5926427841186523,
+      "similarities": {
+        "ContextObjective": 0.49895307421684265,
+        "BenefitsAssistance": 0.4601658284664154,
+        "Eligibility": 0.5774891972541809,
+        "ApplicationProcess": 0.5926427841186523,
+        "TimelineFrequency": 0.5211063623428345,
+        "AuthoritiesGovernance": 0.443295955657959,
+        "DefinitionsReferences": 0.4701734185218811
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of income, which can include income certificates or bank statements.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6273155212402344,
+      "similarities": {
+        "ContextObjective": 0.4616205096244812,
+        "BenefitsAssistance": 0.564861536026001,
+        "Eligibility": 0.5738236308097839,
+        "ApplicationProcess": 0.6273155212402344,
+        "TimelineFrequency": 0.5221800208091736,
+        "AuthoritiesGovernance": 0.3784785866737366,
+        "DefinitionsReferences": 0.49123144149780273
+      }
+    },
+    {
+      "sentence": "Additionally, a copy of the prisoner's sentence order must be submitted along with the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5745139122009277,
+      "similarities": {
+        "ContextObjective": 0.408352255821228,
+        "BenefitsAssistance": 0.3890066146850586,
+        "Eligibility": 0.49715566635131836,
+        "ApplicationProcess": 0.5745139122009277,
+        "TimelineFrequency": 0.4774995744228363,
+        "AuthoritiesGovernance": 0.41029873490333557,
+        "DefinitionsReferences": 0.4318137466907501
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the local prison authority for verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6456488370895386,
+      "similarities": {
+        "ContextObjective": 0.4072166383266449,
+        "BenefitsAssistance": 0.37608617544174194,
+        "Eligibility": 0.5159322023391724,
+        "ApplicationProcess": 0.6456488370895386,
+        "TimelineFrequency": 0.4860458970069885,
+        "AuthoritiesGovernance": 0.43764954805374146,
+        "DefinitionsReferences": 0.3957371711730957
+      }
+    },
+    {
+      "sentence": "The local prison authority will then forward the application to the relevant district administration for approval.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5244128704071045,
+      "similarities": {
+        "ContextObjective": 0.4084278345108032,
+        "BenefitsAssistance": 0.3829176723957062,
+        "Eligibility": 0.4857282340526581,
+        "ApplicationProcess": 0.5244128704071045,
+        "TimelineFrequency": 0.4497867226600647,
+        "AuthoritiesGovernance": 0.4770154356956482,
+        "DefinitionsReferences": 0.37016457319259644
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications under the Kaidi Sahay Yojana is typically around 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5577188730239868,
+      "similarities": {
+        "ContextObjective": 0.4495675563812256,
+        "BenefitsAssistance": 0.4042587876319885,
+        "Eligibility": 0.4868130683898926,
+        "ApplicationProcess": 0.5202794075012207,
+        "TimelineFrequency": 0.5577188730239868,
+        "AuthoritiesGovernance": 0.4170994162559509,
+        "DefinitionsReferences": 0.381225049495697
+      }
+    },
+    {
+      "sentence": "Disbursement of financial assistance is conducted on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6509925127029419,
+      "similarities": {
+        "ContextObjective": 0.4947662353515625,
+        "BenefitsAssistance": 0.6509925127029419,
+        "Eligibility": 0.5557856559753418,
+        "ApplicationProcess": 0.5248924493789673,
+        "TimelineFrequency": 0.5707887411117554,
+        "AuthoritiesGovernance": 0.5228083729743958,
+        "DefinitionsReferences": 0.4562298655509949
+      }
+    },
+    {
+      "sentence": "Once approved, the financial aid is transferred directly to the bank account of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5253310203552246,
+      "similarities": {
+        "ContextObjective": 0.3616699278354645,
+        "BenefitsAssistance": 0.48540839552879333,
+        "Eligibility": 0.4956962466239929,
+        "ApplicationProcess": 0.5253310203552246,
+        "TimelineFrequency": 0.4456406533718109,
+        "AuthoritiesGovernance": 0.37882015109062195,
+        "DefinitionsReferences": 0.35286399722099304
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Home Affairs in coordination with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.520703136920929,
+      "similarities": {
+        "ContextObjective": 0.4899890124797821,
+        "BenefitsAssistance": 0.4154187738895416,
+        "Eligibility": 0.472554087638855,
+        "ApplicationProcess": 0.46472471952438354,
+        "TimelineFrequency": 0.3908466398715973,
+        "AuthoritiesGovernance": 0.520703136920929,
+        "DefinitionsReferences": 0.3840818405151367
+      }
+    },
+    {
+      "sentence": "Each state has designated officials responsible for overseeing the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6529624462127686,
+      "similarities": {
+        "ContextObjective": 0.5103880167007446,
+        "BenefitsAssistance": 0.450605571269989,
+        "Eligibility": 0.5622849464416504,
+        "ApplicationProcess": 0.5027015209197998,
+        "TimelineFrequency": 0.4393196105957031,
+        "AuthoritiesGovernance": 0.6529624462127686,
+        "DefinitionsReferences": 0.48054707050323486
+      }
+    },
+    {
+      "sentence": "These officials are tasked with ensuring that the benefits reach the intended beneficiaries without delay.",
+      "role": "Eligibility",
+      "confidence": 0.5225728750228882,
+      "similarities": {
+        "ContextObjective": 0.4486296772956848,
+        "BenefitsAssistance": 0.4681724011898041,
+        "Eligibility": 0.5225728750228882,
+        "ApplicationProcess": 0.4303806722164154,
+        "TimelineFrequency": 0.43040263652801514,
+        "AuthoritiesGovernance": 0.5072344541549683,
+        "DefinitionsReferences": 0.3870927095413208
+      }
+    },
+    {
+      "sentence": "The Kaidi Sahay Yojana is part of a broader initiative by the Indian government to reform the prison system and support the rehabilitation of prisoners.",
+      "role": "ContextObjective",
+      "confidence": 0.4606865644454956,
+      "similarities": {
+        "ContextObjective": 0.4606865644454956,
+        "BenefitsAssistance": 0.35296863317489624,
+        "Eligibility": 0.4112553000450134,
+        "ApplicationProcess": 0.3798380196094513,
+        "TimelineFrequency": 0.34852492809295654,
+        "AuthoritiesGovernance": 0.4557948708534241,
+        "DefinitionsReferences": 0.3368540406227112
+      }
+    },
+    {
+      "sentence": "The government recognizes that the families of prisoners often face social stigma in addition to financial hardships.",
+      "role": "Eligibility",
+      "confidence": 0.4469638466835022,
+      "similarities": {
+        "ContextObjective": 0.3531147837638855,
+        "BenefitsAssistance": 0.4357846677303314,
+        "Eligibility": 0.4469638466835022,
+        "ApplicationProcess": 0.32609379291534424,
+        "TimelineFrequency": 0.3167208731174469,
+        "AuthoritiesGovernance": 0.3889269232749939,
+        "DefinitionsReferences": 0.3717520236968994
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme aims to reduce the stigma and support the reintegration of prisoners into society.",
+      "role": "ContextObjective",
+      "confidence": 0.4618667960166931,
+      "similarities": {
+        "ContextObjective": 0.4618667960166931,
+        "BenefitsAssistance": 0.43533948063850403,
+        "Eligibility": 0.42785942554473877,
+        "ApplicationProcess": 0.36104005575180054,
+        "TimelineFrequency": 0.31626003980636597,
+        "AuthoritiesGovernance": 0.36452025175094604,
+        "DefinitionsReferences": 0.2907131314277649
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has successfully reached thousands of families across various states.",
+      "role": "ContextObjective",
+      "confidence": 0.5340639352798462,
+      "similarities": {
+        "ContextObjective": 0.5340639352798462,
+        "BenefitsAssistance": 0.43716132640838623,
+        "Eligibility": 0.5096065998077393,
+        "ApplicationProcess": 0.4141477346420288,
+        "TimelineFrequency": 0.40994706749916077,
+        "AuthoritiesGovernance": 0.3909578323364258,
+        "DefinitionsReferences": 0.3636202812194824
+      }
+    },
+    {
+      "sentence": "Reports indicate that approximately 60,000 families have benefited from the Kaidi Sahay Yojana since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.39438819885253906,
+      "similarities": {
+        "ContextObjective": 0.39438819885253906,
+        "BenefitsAssistance": 0.3943193554878235,
+        "Eligibility": 0.3748664855957031,
+        "ApplicationProcess": 0.33601611852645874,
+        "TimelineFrequency": 0.2943134307861328,
+        "AuthoritiesGovernance": 0.35193300247192383,
+        "DefinitionsReferences": 0.3149786591529846
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the scheme's effectiveness and make necessary adjustments to improve its reach and impact.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5078973174095154,
+      "similarities": {
+        "ContextObjective": 0.4881024658679962,
+        "BenefitsAssistance": 0.43698784708976746,
+        "Eligibility": 0.4797264039516449,
+        "ApplicationProcess": 0.45283129811286926,
+        "TimelineFrequency": 0.40151000022888184,
+        "AuthoritiesGovernance": 0.5078973174095154,
+        "DefinitionsReferences": 0.40882608294487
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are also being conducted to inform families of prisoners about the availability of this assistance.",
+      "role": "Eligibility",
+      "confidence": 0.4500659108161926,
+      "similarities": {
+        "ContextObjective": 0.40803223848342896,
+        "BenefitsAssistance": 0.4380238950252533,
+        "Eligibility": 0.4500659108161926,
+        "ApplicationProcess": 0.38961440324783325,
+        "TimelineFrequency": 0.3484896421432495,
+        "AuthoritiesGovernance": 0.4292915463447571,
+        "DefinitionsReferences": 0.34885188937187195
+      }
+    },
+    {
+      "sentence": "These campaigns are aimed at ensuring that eligible families are aware of their rights and the support available to them.",
+      "role": "Eligibility",
+      "confidence": 0.5911504626274109,
+      "similarities": {
+        "ContextObjective": 0.5249813795089722,
+        "BenefitsAssistance": 0.5281955599784851,
+        "Eligibility": 0.5911504626274109,
+        "ApplicationProcess": 0.5052056312561035,
+        "TimelineFrequency": 0.4800848364830017,
+        "AuthoritiesGovernance": 0.48844051361083984,
+        "DefinitionsReferences": 0.4643568992614746
+      }
+    },
+    {
+      "sentence": "The Kaidi Sahay Yojana is seen as a crucial step towards social justice and equity in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4496903419494629,
+      "similarities": {
+        "ContextObjective": 0.4496903419494629,
+        "BenefitsAssistance": 0.34312236309051514,
+        "Eligibility": 0.4110838770866394,
+        "ApplicationProcess": 0.3642730116844177,
+        "TimelineFrequency": 0.30913180112838745,
+        "AuthoritiesGovernance": 0.36711907386779785,
+        "DefinitionsReferences": 0.34604787826538086
+      }
+    },
+    {
+      "sentence": "It acknowledges the challenges faced by families of prisoners and seeks to provide them with the necessary support.",
+      "role": "Eligibility",
+      "confidence": 0.4483470320701599,
+      "similarities": {
+        "ContextObjective": 0.4150642156600952,
+        "BenefitsAssistance": 0.42916053533554077,
+        "Eligibility": 0.4483470320701599,
+        "ApplicationProcess": 0.3840206265449524,
+        "TimelineFrequency": 0.35053518414497375,
+        "AuthoritiesGovernance": 0.4206172525882721,
+        "DefinitionsReferences": 0.36532336473464966
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the United Nations Sustainable Development Goals, particularly in promoting reduced inequalities.",
+      "role": "ContextObjective",
+      "confidence": 0.4939814805984497,
+      "similarities": {
+        "ContextObjective": 0.4939814805984497,
+        "BenefitsAssistance": 0.3668193817138672,
+        "Eligibility": 0.42803966999053955,
+        "ApplicationProcess": 0.3746890425682068,
+        "TimelineFrequency": 0.35162240266799927,
+        "AuthoritiesGovernance": 0.3955366015434265,
+        "DefinitionsReferences": 0.3408036530017853
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹150 crores for the implementation of the Kaidi Sahay Yojana for the financial year 2023-2024.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4493790864944458,
+      "similarities": {
+        "ContextObjective": 0.42201536893844604,
+        "BenefitsAssistance": 0.4493790864944458,
+        "Eligibility": 0.42809438705444336,
+        "ApplicationProcess": 0.37122678756713867,
+        "TimelineFrequency": 0.3740883767604828,
+        "AuthoritiesGovernance": 0.42178744077682495,
+        "DefinitionsReferences": 0.33947136998176575
+      }
+    },
+    {
+      "sentence": "This budget is intended to ensure that the scheme can sustain its operations and continue to support families in need.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5404709577560425,
+      "similarities": {
+        "ContextObjective": 0.518815279006958,
+        "BenefitsAssistance": 0.5404709577560425,
+        "Eligibility": 0.49014395475387573,
+        "ApplicationProcess": 0.42439550161361694,
+        "TimelineFrequency": 0.43064865469932556,
+        "AuthoritiesGovernance": 0.43756040930747986,
+        "DefinitionsReferences": 0.37641578912734985
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various stakeholders, including NGOs and human rights organizations.",
+      "role": "ContextObjective",
+      "confidence": 0.5389465093612671,
+      "similarities": {
+        "ContextObjective": 0.5389465093612671,
+        "BenefitsAssistance": 0.433268278837204,
+        "Eligibility": 0.4948183596134186,
+        "ApplicationProcess": 0.41998571157455444,
+        "TimelineFrequency": 0.38479936122894287,
+        "AuthoritiesGovernance": 0.47488871216773987,
+        "DefinitionsReferences": 0.43704503774642944
+      }
+    },
+    {
+      "sentence": "These organizations have highlighted the importance of supporting families of prisoners to promote social stability.",
+      "role": "ContextObjective",
+      "confidence": 0.3839319944381714,
+      "similarities": {
+        "ContextObjective": 0.3839319944381714,
+        "BenefitsAssistance": 0.34836632013320923,
+        "Eligibility": 0.3757229447364807,
+        "ApplicationProcess": 0.28710371255874634,
+        "TimelineFrequency": 0.3000083863735199,
+        "AuthoritiesGovernance": 0.3588615953922272,
+        "DefinitionsReferences": 0.36651620268821716
+      }
+    },
+    {
+      "sentence": "The Kaidi Sahay Yojana is a testament to the Indian government's commitment to social welfare and justice.",
+      "role": "ContextObjective",
+      "confidence": 0.43732941150665283,
+      "similarities": {
+        "ContextObjective": 0.43732941150665283,
+        "BenefitsAssistance": 0.3852975368499756,
+        "Eligibility": 0.4267398715019226,
+        "ApplicationProcess": 0.37443816661834717,
+        "TimelineFrequency": 0.321444571018219,
+        "AuthoritiesGovernance": 0.3855323791503906,
+        "DefinitionsReferences": 0.3759818971157074
+      }
+    },
+    {
+      "sentence": "It reflects a growing recognition of the need to support vulnerable populations within society.",
+      "role": "ContextObjective",
+      "confidence": 0.4716620147228241,
+      "similarities": {
+        "ContextObjective": 0.4716620147228241,
+        "BenefitsAssistance": 0.41516047716140747,
+        "Eligibility": 0.45210450887680054,
+        "ApplicationProcess": 0.37967443466186523,
+        "TimelineFrequency": 0.3756095767021179,
+        "AuthoritiesGovernance": 0.3737741708755493,
+        "DefinitionsReferences": 0.3871774971485138
+      }
+    },
+    {
+      "sentence": "Overall, the Kaidi Sahay Yojana serves as an important safety net for families affected by incarceration.",
+      "role": "Eligibility",
+      "confidence": 0.4307017922401428,
+      "similarities": {
+        "ContextObjective": 0.3998965919017792,
+        "BenefitsAssistance": 0.3929705321788788,
+        "Eligibility": 0.4307017922401428,
+        "ApplicationProcess": 0.33968377113342285,
+        "TimelineFrequency": 0.32098984718322754,
+        "AuthoritiesGovernance": 0.36510270833969116,
+        "DefinitionsReferences": 0.32835477590560913
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme helps to mitigate the adverse effects of imprisonment on families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4741155803203583,
+      "similarities": {
+        "ContextObjective": 0.4304143190383911,
+        "BenefitsAssistance": 0.4741155803203583,
+        "Eligibility": 0.4631873369216919,
+        "ApplicationProcess": 0.34897008538246155,
+        "TimelineFrequency": 0.3325311839580536,
+        "AuthoritiesGovernance": 0.3907313346862793,
+        "DefinitionsReferences": 0.3078576922416687
+      }
+    },
+    {
+      "sentence": "It also plays a vital role in promoting the rehabilitation of prisoners and their reintegration into society.",
+      "role": "ContextObjective",
+      "confidence": 0.4306042194366455,
+      "similarities": {
+        "ContextObjective": 0.4306042194366455,
+        "BenefitsAssistance": 0.29558420181274414,
+        "Eligibility": 0.34070563316345215,
+        "ApplicationProcess": 0.33306270837783813,
+        "TimelineFrequency": 0.2911543548107147,
+        "AuthoritiesGovernance": 0.37657779455184937,
+        "DefinitionsReferences": 0.33006468415260315
+      }
+    },
+    {
+      "sentence": "The Kaidi Sahay Yojana is a significant initiative that underscores the Indian government's dedication to social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4813896715641022,
+      "similarities": {
+        "ContextObjective": 0.4813896715641022,
+        "BenefitsAssistance": 0.4061817228794098,
+        "Eligibility": 0.43228012323379517,
+        "ApplicationProcess": 0.39584535360336304,
+        "TimelineFrequency": 0.35591620206832886,
+        "AuthoritiesGovernance": 0.3952926993370056,
+        "DefinitionsReferences": 0.36604973673820496
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve as it responds to the needs of families of prisoners across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5172094106674194,
+      "similarities": {
+        "ContextObjective": 0.5172094106674194,
+        "BenefitsAssistance": 0.39593592286109924,
+        "Eligibility": 0.4769519865512848,
+        "ApplicationProcess": 0.39014720916748047,
+        "TimelineFrequency": 0.3764040470123291,
+        "AuthoritiesGovernance": 0.43891626596450806,
+        "DefinitionsReferences": 0.3641680181026459
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to foster a more inclusive and supportive society for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.518753170967102,
+      "similarities": {
+        "ContextObjective": 0.518753170967102,
+        "BenefitsAssistance": 0.4176557958126068,
+        "Eligibility": 0.47209033370018005,
+        "ApplicationProcess": 0.40380042791366577,
+        "TimelineFrequency": 0.3627167344093323,
+        "AuthoritiesGovernance": 0.4537407159805298,
+        "DefinitionsReferences": 0.3877308666706085
+      }
+    },
+    {
+      "sentence": "The Kaidi Sahay Yojana stands as a critical resource for those navigating the challenges of having an incarcerated family member.",
+      "role": "Eligibility",
+      "confidence": 0.48694226145744324,
+      "similarities": {
+        "ContextObjective": 0.4304516315460205,
+        "BenefitsAssistance": 0.38453570008277893,
+        "Eligibility": 0.48694226145744324,
+        "ApplicationProcess": 0.3977034091949463,
+        "TimelineFrequency": 0.37109291553497314,
+        "AuthoritiesGovernance": 0.3834074139595032,
+        "DefinitionsReferences": 0.3845396935939789
+      }
+    },
+    {
+      "sentence": "The scheme is a clear example of how targeted welfare initiatives can make a meaningful difference in people's lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5228431224822998,
+      "similarities": {
+        "ContextObjective": 0.5228431224822998,
+        "BenefitsAssistance": 0.3820740878582001,
+        "Eligibility": 0.46354949474334717,
+        "ApplicationProcess": 0.346524178981781,
+        "TimelineFrequency": 0.33423542976379395,
+        "AuthoritiesGovernance": 0.3539695143699646,
+        "DefinitionsReferences": 0.32799845933914185
+      }
+    },
+    {
+      "sentence": "As the program progresses, it is expected to expand its reach and enhance its support mechanisms for families in need.",
+      "role": "Eligibility",
+      "confidence": 0.4988654851913452,
+      "similarities": {
+        "ContextObjective": 0.47462713718414307,
+        "BenefitsAssistance": 0.4964379668235779,
+        "Eligibility": 0.4988654851913452,
+        "ApplicationProcess": 0.4256792664527893,
+        "TimelineFrequency": 0.4252190887928009,
+        "AuthoritiesGovernance": 0.44847801327705383,
+        "DefinitionsReferences": 0.41742995381355286
+      }
+    },
+    {
+      "sentence": "The Kaidi Sahay Yojana represents a proactive approach to addressing the socio-economic challenges faced by families of prisoners.",
+      "role": "ContextObjective",
+      "confidence": 0.44362151622772217,
+      "similarities": {
+        "ContextObjective": 0.44362151622772217,
+        "BenefitsAssistance": 0.3940292000770569,
+        "Eligibility": 0.4375171363353729,
+        "ApplicationProcess": 0.3669058680534363,
+        "TimelineFrequency": 0.3547195792198181,
+        "AuthoritiesGovernance": 0.4030158519744873,
+        "DefinitionsReferences": 0.3375393748283386
+      }
+    },
+    {
+      "sentence": "It is a vital component of India's broader efforts to reform its criminal justice system and promote social equity.",
+      "role": "ContextObjective",
+      "confidence": 0.4402085542678833,
+      "similarities": {
+        "ContextObjective": 0.4402085542678833,
+        "BenefitsAssistance": 0.3320850431919098,
+        "Eligibility": 0.39831894636154175,
+        "ApplicationProcess": 0.3727877736091614,
+        "TimelineFrequency": 0.31763219833374023,
+        "AuthoritiesGovernance": 0.42421966791152954,
+        "DefinitionsReferences": 0.3694082498550415
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "Eligibility": 13,
+    "BenefitsAssistance": 7,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:37:08.375766"
+}

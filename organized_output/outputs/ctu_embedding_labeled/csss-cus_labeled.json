@@ -1,0 +1,897 @@
+{
+  "scheme_name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University students",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) scheme is a significant initiative launched by the Government of India on 22nd July 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.5556659698486328,
+      "similarities": {
+        "ContextObjective": 0.5556659698486328,
+        "BenefitsAssistance": 0.43693655729293823,
+        "Eligibility": 0.48887017369270325,
+        "ApplicationProcess": 0.45501625537872314,
+        "TimelineFrequency": 0.4489322900772095,
+        "AuthoritiesGovernance": 0.42225635051727295,
+        "DefinitionsReferences": 0.38548940420150757
+      }
+    },
+    {
+      "sentence": "This scheme is designed to provide financial assistance to students pursuing higher education in colleges and universities across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5399960279464722,
+      "similarities": {
+        "ContextObjective": 0.5399960279464722,
+        "BenefitsAssistance": 0.5280377864837646,
+        "Eligibility": 0.5068711042404175,
+        "ApplicationProcess": 0.4540276527404785,
+        "TimelineFrequency": 0.44476810097694397,
+        "AuthoritiesGovernance": 0.41663703322410583,
+        "DefinitionsReferences": 0.397216796875
+      }
+    },
+    {
+      "sentence": "The primary objective of the PM-USP scheme is to enhance access to higher education for students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5193695425987244,
+      "similarities": {
+        "ContextObjective": 0.5193695425987244,
+        "BenefitsAssistance": 0.3946157693862915,
+        "Eligibility": 0.46248936653137207,
+        "ApplicationProcess": 0.40465766191482544,
+        "TimelineFrequency": 0.38333860039711,
+        "AuthoritiesGovernance": 0.36850765347480774,
+        "DefinitionsReferences": 0.31932640075683594
+      }
+    },
+    {
+      "sentence": "The scheme aims to promote higher education by providing scholarships to meritorious students.",
+      "role": "ContextObjective",
+      "confidence": 0.5498583912849426,
+      "similarities": {
+        "ContextObjective": 0.5498583912849426,
+        "BenefitsAssistance": 0.386776328086853,
+        "Eligibility": 0.4758033752441406,
+        "ApplicationProcess": 0.43148553371429443,
+        "TimelineFrequency": 0.41933897137641907,
+        "AuthoritiesGovernance": 0.3430579900741577,
+        "DefinitionsReferences": 0.3593827784061432
+      }
+    },
+    {
+      "sentence": "The government has set a target to provide scholarships to approximately 2 lakh students every year under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4935818910598755,
+      "similarities": {
+        "ContextObjective": 0.4935818910598755,
+        "BenefitsAssistance": 0.3857085704803467,
+        "Eligibility": 0.47250914573669434,
+        "ApplicationProcess": 0.39187389612197876,
+        "TimelineFrequency": 0.4029900133609772,
+        "AuthoritiesGovernance": 0.362781286239624,
+        "DefinitionsReferences": 0.3654683828353882
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme specifically focuses on students who are pursuing undergraduate and postgraduate courses in recognized institutions.",
+      "role": "Eligibility",
+      "confidence": 0.49952006340026855,
+      "similarities": {
+        "ContextObjective": 0.4920777678489685,
+        "BenefitsAssistance": 0.39578258991241455,
+        "Eligibility": 0.49952006340026855,
+        "ApplicationProcess": 0.4462396502494812,
+        "TimelineFrequency": 0.4258735179901123,
+        "AuthoritiesGovernance": 0.3836747407913208,
+        "DefinitionsReferences": 0.38035139441490173
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is intended to cover tuition fees and other related expenses incurred by the students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6033569574356079,
+      "similarities": {
+        "ContextObjective": 0.5140053033828735,
+        "BenefitsAssistance": 0.6033569574356079,
+        "Eligibility": 0.5011345148086548,
+        "ApplicationProcess": 0.4631701409816742,
+        "TimelineFrequency": 0.460318386554718,
+        "AuthoritiesGovernance": 0.42757508158683777,
+        "DefinitionsReferences": 0.43397778272628784
+      }
+    },
+    {
+      "sentence": "The scholarship amount varies depending on the course and the level of education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5399177670478821,
+      "similarities": {
+        "ContextObjective": 0.47853273153305054,
+        "BenefitsAssistance": 0.5399177670478821,
+        "Eligibility": 0.5396370887756348,
+        "ApplicationProcess": 0.4679352343082428,
+        "TimelineFrequency": 0.5065959692001343,
+        "AuthoritiesGovernance": 0.3953588604927063,
+        "DefinitionsReferences": 0.44673988223075867
+      }
+    },
+    {
+      "sentence": "For undergraduate courses, the scholarship amount is set at ₹20,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4350842237472534,
+      "similarities": {
+        "ContextObjective": 0.4003004729747772,
+        "BenefitsAssistance": 0.4350842237472534,
+        "Eligibility": 0.43482986092567444,
+        "ApplicationProcess": 0.38879573345184326,
+        "TimelineFrequency": 0.4045988917350769,
+        "AuthoritiesGovernance": 0.3104962408542633,
+        "DefinitionsReferences": 0.35873347520828247
+      }
+    },
+    {
+      "sentence": "For postgraduate courses, the scholarship amount is increased to ₹50,000 per annum.",
+      "role": "ContextObjective",
+      "confidence": 0.4187813401222229,
+      "similarities": {
+        "ContextObjective": 0.4187813401222229,
+        "BenefitsAssistance": 0.41020405292510986,
+        "Eligibility": 0.4026116728782654,
+        "ApplicationProcess": 0.3863372206687927,
+        "TimelineFrequency": 0.3888790011405945,
+        "AuthoritiesGovernance": 0.3117567300796509,
+        "DefinitionsReferences": 0.35921812057495117
+      }
+    },
+    {
+      "sentence": "This financial support is crucial in alleviating the financial burden on students and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.545982301235199,
+      "similarities": {
+        "ContextObjective": 0.39286673069000244,
+        "BenefitsAssistance": 0.545982301235199,
+        "Eligibility": 0.4238956570625305,
+        "ApplicationProcess": 0.3694038987159729,
+        "TimelineFrequency": 0.3909575939178467,
+        "AuthoritiesGovernance": 0.3445824086666107,
+        "DefinitionsReferences": 0.38091152906417847
+      }
+    },
+    {
+      "sentence": "To be eligible for the PM-USP scheme, students must meet specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6529857516288757,
+      "similarities": {
+        "ContextObjective": 0.537055253982544,
+        "BenefitsAssistance": 0.47535693645477295,
+        "Eligibility": 0.6529857516288757,
+        "ApplicationProcess": 0.5886088013648987,
+        "TimelineFrequency": 0.5438902974128723,
+        "AuthoritiesGovernance": 0.39750176668167114,
+        "DefinitionsReferences": 0.4183197319507599
+      }
+    },
+    {
+      "sentence": "Students must be enrolled in a recognized college or university in India.",
+      "role": "Eligibility",
+      "confidence": 0.554131269454956,
+      "similarities": {
+        "ContextObjective": 0.4609007239341736,
+        "BenefitsAssistance": 0.44622164964675903,
+        "Eligibility": 0.554131269454956,
+        "ApplicationProcess": 0.5513580441474915,
+        "TimelineFrequency": 0.48350173234939575,
+        "AuthoritiesGovernance": 0.4410225749015808,
+        "DefinitionsReferences": 0.4530948996543884
+      }
+    },
+    {
+      "sentence": "The scheme is open to students from economically weaker sections with a family income not exceeding ₹6 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.4920251965522766,
+      "similarities": {
+        "ContextObjective": 0.43531760573387146,
+        "BenefitsAssistance": 0.4274807274341583,
+        "Eligibility": 0.4920251965522766,
+        "ApplicationProcess": 0.4210977554321289,
+        "TimelineFrequency": 0.3974502682685852,
+        "AuthoritiesGovernance": 0.3096768260002136,
+        "DefinitionsReferences": 0.2938289940357208
+      }
+    },
+    {
+      "sentence": "Additionally, students must have secured admission through a merit-based process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5429643988609314,
+      "similarities": {
+        "ContextObjective": 0.45393532514572144,
+        "BenefitsAssistance": 0.3992128372192383,
+        "Eligibility": 0.5403575897216797,
+        "ApplicationProcess": 0.5429643988609314,
+        "TimelineFrequency": 0.4769454896450043,
+        "AuthoritiesGovernance": 0.3759964108467102,
+        "DefinitionsReferences": 0.42520618438720703
+      }
+    },
+    {
+      "sentence": "The application process for the PM-USP scheme is straightforward and can be completed online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6319111585617065,
+      "similarities": {
+        "ContextObjective": 0.49234485626220703,
+        "BenefitsAssistance": 0.44246208667755127,
+        "Eligibility": 0.510529100894928,
+        "ApplicationProcess": 0.6319111585617065,
+        "TimelineFrequency": 0.4862477779388428,
+        "AuthoritiesGovernance": 0.38302093744277954,
+        "DefinitionsReferences": 0.3610879182815552
+      }
+    },
+    {
+      "sentence": "Students need to visit the official website of the Ministry of Human Resource Development.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5338773131370544,
+      "similarities": {
+        "ContextObjective": 0.447097510099411,
+        "BenefitsAssistance": 0.4171206057071686,
+        "Eligibility": 0.4970994293689728,
+        "ApplicationProcess": 0.5338773131370544,
+        "TimelineFrequency": 0.4882684648036957,
+        "AuthoritiesGovernance": 0.4975002408027649,
+        "DefinitionsReferences": 0.4669494926929474
+      }
+    },
+    {
+      "sentence": "They must register and fill out the application form with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6867982149124146,
+      "similarities": {
+        "ContextObjective": 0.4892767369747162,
+        "BenefitsAssistance": 0.5029729008674622,
+        "Eligibility": 0.5885685682296753,
+        "ApplicationProcess": 0.6867982149124146,
+        "TimelineFrequency": 0.5469059944152832,
+        "AuthoritiesGovernance": 0.46998530626296997,
+        "DefinitionsReferences": 0.4752139151096344
+      }
+    },
+    {
+      "sentence": "Required documents include proof of admission to a recognized institution, income certificate, and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6460948586463928,
+      "similarities": {
+        "ContextObjective": 0.4873967170715332,
+        "BenefitsAssistance": 0.5963330268859863,
+        "Eligibility": 0.5724874138832092,
+        "ApplicationProcess": 0.6460948586463928,
+        "TimelineFrequency": 0.5328589081764221,
+        "AuthoritiesGovernance": 0.4445820450782776,
+        "DefinitionsReferences": 0.5422542095184326
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7513390183448792,
+      "similarities": {
+        "ContextObjective": 0.5247284173965454,
+        "BenefitsAssistance": 0.49542367458343506,
+        "Eligibility": 0.6096973419189453,
+        "ApplicationProcess": 0.7513390183448792,
+        "TimelineFrequency": 0.5764989256858826,
+        "AuthoritiesGovernance": 0.503167986869812,
+        "DefinitionsReferences": 0.517536997795105
+      }
+    },
+    {
+      "sentence": "The timeline for application submission typically begins in July and ends in September each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6613479256629944,
+      "similarities": {
+        "ContextObjective": 0.4661242961883545,
+        "BenefitsAssistance": 0.4085226058959961,
+        "Eligibility": 0.5035808086395264,
+        "ApplicationProcess": 0.5594582557678223,
+        "TimelineFrequency": 0.6613479256629944,
+        "AuthoritiesGovernance": 0.4138195812702179,
+        "DefinitionsReferences": 0.39447319507598877
+      }
+    },
+    {
+      "sentence": "Scholarship disbursements are made directly to the bank accounts of the selected students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4755967855453491,
+      "similarities": {
+        "ContextObjective": 0.39442941546440125,
+        "BenefitsAssistance": 0.4755967855453491,
+        "Eligibility": 0.4508299231529236,
+        "ApplicationProcess": 0.4116244912147522,
+        "TimelineFrequency": 0.4016208052635193,
+        "AuthoritiesGovernance": 0.35245975852012634,
+        "DefinitionsReferences": 0.3409990072250366
+      }
+    },
+    {
+      "sentence": "The disbursement process usually occurs in two installments during the academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5816992521286011,
+      "similarities": {
+        "ContextObjective": 0.45404520630836487,
+        "BenefitsAssistance": 0.550955057144165,
+        "Eligibility": 0.45546507835388184,
+        "ApplicationProcess": 0.47551506757736206,
+        "TimelineFrequency": 0.5816992521286011,
+        "AuthoritiesGovernance": 0.44866418838500977,
+        "DefinitionsReferences": 0.4279584288597107
+      }
+    },
+    {
+      "sentence": "The first installment is released at the beginning of the academic session.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5495101809501648,
+      "similarities": {
+        "ContextObjective": 0.5301580429077148,
+        "BenefitsAssistance": 0.451185017824173,
+        "Eligibility": 0.427860289812088,
+        "ApplicationProcess": 0.48061078786849976,
+        "TimelineFrequency": 0.5495101809501648,
+        "AuthoritiesGovernance": 0.43618977069854736,
+        "DefinitionsReferences": 0.45415613055229187
+      }
+    },
+    {
+      "sentence": "The second installment is released after the completion of the first semester.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5037675499916077,
+      "similarities": {
+        "ContextObjective": 0.4368754029273987,
+        "BenefitsAssistance": 0.44735270738601685,
+        "Eligibility": 0.3838779330253601,
+        "ApplicationProcess": 0.42247626185417175,
+        "TimelineFrequency": 0.5037675499916077,
+        "AuthoritiesGovernance": 0.3887130618095398,
+        "DefinitionsReferences": 0.42172420024871826
+      }
+    },
+    {
+      "sentence": "The implementing authority for the PM-USP scheme is the Ministry of Education, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.536680281162262,
+      "similarities": {
+        "ContextObjective": 0.45646578073501587,
+        "BenefitsAssistance": 0.39031320810317993,
+        "Eligibility": 0.467562198638916,
+        "ApplicationProcess": 0.4200223684310913,
+        "TimelineFrequency": 0.3683582544326782,
+        "AuthoritiesGovernance": 0.536680281162262,
+        "DefinitionsReferences": 0.39042049646377563
+      }
+    },
+    {
+      "sentence": "The scheme is administered through the National Scholarship Portal.",
+      "role": "Eligibility",
+      "confidence": 0.5428208708763123,
+      "similarities": {
+        "ContextObjective": 0.5247205495834351,
+        "BenefitsAssistance": 0.4702870845794678,
+        "Eligibility": 0.5428208708763123,
+        "ApplicationProcess": 0.5255396962165833,
+        "TimelineFrequency": 0.4796030521392822,
+        "AuthoritiesGovernance": 0.4462902843952179,
+        "DefinitionsReferences": 0.40490320324897766
+      }
+    },
+    {
+      "sentence": "Students can contact the Ministry of Education for any queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5253413319587708,
+      "similarities": {
+        "ContextObjective": 0.5253413319587708,
+        "BenefitsAssistance": 0.4698358476161957,
+        "Eligibility": 0.4966803193092346,
+        "ApplicationProcess": 0.5182276964187622,
+        "TimelineFrequency": 0.46238046884536743,
+        "AuthoritiesGovernance": 0.47581127285957336,
+        "DefinitionsReferences": 0.40459761023521423
+      }
+    },
+    {
+      "sentence": "The contact details for the Ministry of Education are available on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5118675231933594,
+      "similarities": {
+        "ContextObjective": 0.451337605714798,
+        "BenefitsAssistance": 0.47669750452041626,
+        "Eligibility": 0.44104206562042236,
+        "ApplicationProcess": 0.49973130226135254,
+        "TimelineFrequency": 0.44345223903656006,
+        "AuthoritiesGovernance": 0.5118675231933594,
+        "DefinitionsReferences": 0.45183274149894714
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme has been instrumental in increasing the enrollment of students from disadvantaged backgrounds in higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.46242886781692505,
+      "similarities": {
+        "ContextObjective": 0.46242886781692505,
+        "BenefitsAssistance": 0.3832513391971588,
+        "Eligibility": 0.4218484163284302,
+        "ApplicationProcess": 0.34558528661727905,
+        "TimelineFrequency": 0.34186220169067383,
+        "AuthoritiesGovernance": 0.3275878429412842,
+        "DefinitionsReferences": 0.32440388202667236
+      }
+    },
+    {
+      "sentence": "According to reports, the scheme has benefitted over 1.5 lakh students since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.4656534492969513,
+      "similarities": {
+        "ContextObjective": 0.4656534492969513,
+        "BenefitsAssistance": 0.4372379183769226,
+        "Eligibility": 0.3952086567878723,
+        "ApplicationProcess": 0.3769080638885498,
+        "TimelineFrequency": 0.3727954030036926,
+        "AuthoritiesGovernance": 0.3452531099319458,
+        "DefinitionsReferences": 0.33547016978263855
+      }
+    },
+    {
+      "sentence": "The scholarship has significantly reduced dropout rates among students pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.36751264333724976,
+      "similarities": {
+        "ContextObjective": 0.36751264333724976,
+        "BenefitsAssistance": 0.3362472355365753,
+        "Eligibility": 0.36150193214416504,
+        "ApplicationProcess": 0.318257212638855,
+        "TimelineFrequency": 0.3212985694408417,
+        "AuthoritiesGovernance": 0.2774975895881653,
+        "DefinitionsReferences": 0.26079708337783813
+      }
+    },
+    {
+      "sentence": "The government has allocated ₹1,000 crore for the PM-USP scheme in the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.49654024839401245,
+      "similarities": {
+        "ContextObjective": 0.49654024839401245,
+        "BenefitsAssistance": 0.4640651345252991,
+        "Eligibility": 0.46932175755500793,
+        "ApplicationProcess": 0.40744075179100037,
+        "TimelineFrequency": 0.3935673236846924,
+        "AuthoritiesGovernance": 0.4087753891944885,
+        "DefinitionsReferences": 0.3466925621032715
+      }
+    },
+    {
+      "sentence": "This funding is aimed at ensuring that the scheme remains sustainable and continues to support students.",
+      "role": "ContextObjective",
+      "confidence": 0.5239108800888062,
+      "similarities": {
+        "ContextObjective": 0.5239108800888062,
+        "BenefitsAssistance": 0.4568529725074768,
+        "Eligibility": 0.46119147539138794,
+        "ApplicationProcess": 0.4322560429573059,
+        "TimelineFrequency": 0.43592679500579834,
+        "AuthoritiesGovernance": 0.39260682463645935,
+        "DefinitionsReferences": 0.3725653886795044
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme also encourages students to excel academically.",
+      "role": "ContextObjective",
+      "confidence": 0.446308970451355,
+      "similarities": {
+        "ContextObjective": 0.446308970451355,
+        "BenefitsAssistance": 0.351712167263031,
+        "Eligibility": 0.3934290111064911,
+        "ApplicationProcess": 0.37183859944343567,
+        "TimelineFrequency": 0.3666588068008423,
+        "AuthoritiesGovernance": 0.28220170736312866,
+        "DefinitionsReferences": 0.322309672832489
+      }
+    },
+    {
+      "sentence": "By providing financial support, it motivates students to focus on their studies without the stress of financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4867561459541321,
+      "similarities": {
+        "ContextObjective": 0.45128554105758667,
+        "BenefitsAssistance": 0.4867561459541321,
+        "Eligibility": 0.4068933129310608,
+        "ApplicationProcess": 0.38175368309020996,
+        "TimelineFrequency": 0.3937698006629944,
+        "AuthoritiesGovernance": 0.28011810779571533,
+        "DefinitionsReferences": 0.3457544147968292
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger initiative by the Government of India to promote higher education and skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.5233370661735535,
+      "similarities": {
+        "ContextObjective": 0.5233370661735535,
+        "BenefitsAssistance": 0.41157951951026917,
+        "Eligibility": 0.43466252088546753,
+        "ApplicationProcess": 0.42255115509033203,
+        "TimelineFrequency": 0.379460871219635,
+        "AuthoritiesGovernance": 0.4141290485858917,
+        "DefinitionsReferences": 0.3962961435317993
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme aligns with the National Education Policy 2020, which aims to increase Gross Enrollment Ratio in higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.4588731527328491,
+      "similarities": {
+        "ContextObjective": 0.4588731527328491,
+        "BenefitsAssistance": 0.3844884932041168,
+        "Eligibility": 0.4033333659172058,
+        "ApplicationProcess": 0.3814184367656708,
+        "TimelineFrequency": 0.3699902892112732,
+        "AuthoritiesGovernance": 0.3465936481952667,
+        "DefinitionsReferences": 0.3252582550048828
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of quality education and skill development among youth.",
+      "role": "ContextObjective",
+      "confidence": 0.48354530334472656,
+      "similarities": {
+        "ContextObjective": 0.48354530334472656,
+        "BenefitsAssistance": 0.35487663745880127,
+        "Eligibility": 0.396670401096344,
+        "ApplicationProcess": 0.38620543479919434,
+        "TimelineFrequency": 0.3650946617126465,
+        "AuthoritiesGovernance": 0.32812073826789856,
+        "DefinitionsReferences": 0.36205679178237915
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the PM-USP scheme promotes awareness about higher education opportunities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49296075105667114,
+      "similarities": {
+        "ContextObjective": 0.48631957173347473,
+        "BenefitsAssistance": 0.49296075105667114,
+        "Eligibility": 0.44615161418914795,
+        "ApplicationProcess": 0.4074934124946594,
+        "TimelineFrequency": 0.37604349851608276,
+        "AuthoritiesGovernance": 0.3313155770301819,
+        "DefinitionsReferences": 0.3554208278656006
+      }
+    },
+    {
+      "sentence": "It encourages students to pursue courses in emerging fields and disciplines.",
+      "role": "ContextObjective",
+      "confidence": 0.5006458163261414,
+      "similarities": {
+        "ContextObjective": 0.5006458163261414,
+        "BenefitsAssistance": 0.37018126249313354,
+        "Eligibility": 0.4043281674385071,
+        "ApplicationProcess": 0.37931591272354126,
+        "TimelineFrequency": 0.4277644157409668,
+        "AuthoritiesGovernance": 0.3374682664871216,
+        "DefinitionsReferences": 0.4173496961593628
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to assess its impact and make necessary adjustments.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5165165066719055,
+      "similarities": {
+        "ContextObjective": 0.4897971749305725,
+        "BenefitsAssistance": 0.5041468143463135,
+        "Eligibility": 0.5116815567016602,
+        "ApplicationProcess": 0.5165165066719055,
+        "TimelineFrequency": 0.4708458185195923,
+        "AuthoritiesGovernance": 0.47060486674308777,
+        "DefinitionsReferences": 0.46203869581222534
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to improve the scheme's implementation.",
+      "role": "Eligibility",
+      "confidence": 0.540797233581543,
+      "similarities": {
+        "ContextObjective": 0.5230723023414612,
+        "BenefitsAssistance": 0.5068569779396057,
+        "Eligibility": 0.540797233581543,
+        "ApplicationProcess": 0.4600023031234741,
+        "TimelineFrequency": 0.42527884244918823,
+        "AuthoritiesGovernance": 0.5346771478652954,
+        "DefinitionsReferences": 0.4231507480144501
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme is a crucial step towards achieving educational equity in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49396413564682007,
+      "similarities": {
+        "ContextObjective": 0.49396413564682007,
+        "BenefitsAssistance": 0.38530606031417847,
+        "Eligibility": 0.44507938623428345,
+        "ApplicationProcess": 0.41525739431381226,
+        "TimelineFrequency": 0.357141375541687,
+        "AuthoritiesGovernance": 0.3866769075393677,
+        "DefinitionsReferences": 0.3499332666397095
+      }
+    },
+    {
+      "sentence": "It aims to bridge the gap between different socio-economic groups in accessing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.4959454834461212,
+      "similarities": {
+        "ContextObjective": 0.4959454834461212,
+        "BenefitsAssistance": 0.4098765254020691,
+        "Eligibility": 0.46786123514175415,
+        "ApplicationProcess": 0.41228237748146057,
+        "TimelineFrequency": 0.41553759574890137,
+        "AuthoritiesGovernance": 0.3803446888923645,
+        "DefinitionsReferences": 0.3490687310695648
+      }
+    },
+    {
+      "sentence": "The scheme is expected to play a vital role in fostering a skilled workforce in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5525525808334351,
+      "similarities": {
+        "ContextObjective": 0.5525525808334351,
+        "BenefitsAssistance": 0.42294734716415405,
+        "Eligibility": 0.49312737584114075,
+        "ApplicationProcess": 0.4328111410140991,
+        "TimelineFrequency": 0.41581377387046814,
+        "AuthoritiesGovernance": 0.4159858226776123,
+        "DefinitionsReferences": 0.39312195777893066
+      }
+    },
+    {
+      "sentence": "Overall, the Pradhan Mantri Uchchatar Shiksha Protsahan scheme is a commendable effort by the Indian government.",
+      "role": "ContextObjective",
+      "confidence": 0.5227870941162109,
+      "similarities": {
+        "ContextObjective": 0.5227870941162109,
+        "BenefitsAssistance": 0.41753488779067993,
+        "Eligibility": 0.44786107540130615,
+        "ApplicationProcess": 0.4465944170951843,
+        "TimelineFrequency": 0.3905788064002991,
+        "AuthoritiesGovernance": 0.4414040744304657,
+        "DefinitionsReferences": 0.38017308712005615
+      }
+    },
+    {
+      "sentence": "It reflects the commitment to enhancing educational opportunities for all students, regardless of their financial background.",
+      "role": "Eligibility",
+      "confidence": 0.431515634059906,
+      "similarities": {
+        "ContextObjective": 0.41681402921676636,
+        "BenefitsAssistance": 0.4219779372215271,
+        "Eligibility": 0.431515634059906,
+        "ApplicationProcess": 0.36778098344802856,
+        "TimelineFrequency": 0.39371445775032043,
+        "AuthoritiesGovernance": 0.31003493070602417,
+        "DefinitionsReferences": 0.38242295384407043
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also empowers students to pursue their academic aspirations.",
+      "role": "ContextObjective",
+      "confidence": 0.5517522692680359,
+      "similarities": {
+        "ContextObjective": 0.5517522692680359,
+        "BenefitsAssistance": 0.4707687795162201,
+        "Eligibility": 0.47263285517692566,
+        "ApplicationProcess": 0.4351658821105957,
+        "TimelineFrequency": 0.4355176091194153,
+        "AuthoritiesGovernance": 0.35066020488739014,
+        "DefinitionsReferences": 0.38065797090530396
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to build a knowledgeable and skilled society.",
+      "role": "ContextObjective",
+      "confidence": 0.5319938659667969,
+      "similarities": {
+        "ContextObjective": 0.5319938659667969,
+        "BenefitsAssistance": 0.40436065196990967,
+        "Eligibility": 0.4499274492263794,
+        "ApplicationProcess": 0.44132792949676514,
+        "TimelineFrequency": 0.37827926874160767,
+        "AuthoritiesGovernance": 0.4592001736164093,
+        "DefinitionsReferences": 0.4165757894515991
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme is a beacon of hope for many students striving for a better future through education.",
+      "role": "ContextObjective",
+      "confidence": 0.5081058740615845,
+      "similarities": {
+        "ContextObjective": 0.5081058740615845,
+        "BenefitsAssistance": 0.3723008632659912,
+        "Eligibility": 0.4226188063621521,
+        "ApplicationProcess": 0.37844783067703247,
+        "TimelineFrequency": 0.35253995656967163,
+        "AuthoritiesGovernance": 0.3085039258003235,
+        "DefinitionsReferences": 0.31779223680496216
+      }
+    },
+    {
+      "sentence": "It is essential for students to stay informed about the application process and eligibility criteria.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6181541085243225,
+      "similarities": {
+        "ContextObjective": 0.48620226979255676,
+        "BenefitsAssistance": 0.48713773488998413,
+        "Eligibility": 0.607715904712677,
+        "ApplicationProcess": 0.6181541085243225,
+        "TimelineFrequency": 0.6039623022079468,
+        "AuthoritiesGovernance": 0.4433944821357727,
+        "DefinitionsReferences": 0.4514467120170593
+      }
+    },
+    {
+      "sentence": "By doing so, they can take full advantage of the opportunities provided by the PM-USP scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4729038178920746,
+      "similarities": {
+        "ContextObjective": 0.4729038178920746,
+        "BenefitsAssistance": 0.40304672718048096,
+        "Eligibility": 0.4609295427799225,
+        "ApplicationProcess": 0.4087090790271759,
+        "TimelineFrequency": 0.36657682061195374,
+        "AuthoritiesGovernance": 0.3235182762145996,
+        "DefinitionsReferences": 0.33872854709625244
+      }
+    },
+    {
+      "sentence": "The impact of this scheme will continue to resonate in the educational landscape of India for years to come.",
+      "role": "ContextObjective",
+      "confidence": 0.4696863293647766,
+      "similarities": {
+        "ContextObjective": 0.4696863293647766,
+        "BenefitsAssistance": 0.3757953643798828,
+        "Eligibility": 0.40387651324272156,
+        "ApplicationProcess": 0.33152204751968384,
+        "TimelineFrequency": 0.35533058643341064,
+        "AuthoritiesGovernance": 0.3716509938240051,
+        "DefinitionsReferences": 0.386749267578125
+      }
+    },
+    {
+      "sentence": "The government remains committed to expanding and improving the PM-USP scheme to reach more students.",
+      "role": "ContextObjective",
+      "confidence": 0.4398437738418579,
+      "similarities": {
+        "ContextObjective": 0.4398437738418579,
+        "BenefitsAssistance": 0.3657449781894684,
+        "Eligibility": 0.4152678847312927,
+        "ApplicationProcess": 0.3975350260734558,
+        "TimelineFrequency": 0.3658410310745239,
+        "AuthoritiesGovernance": 0.39790791273117065,
+        "DefinitionsReferences": 0.35999393463134766
+      }
+    },
+    {
+      "sentence": "This commitment is evident in the increasing budget allocations and the focus on quality education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3953218162059784,
+      "similarities": {
+        "ContextObjective": 0.3838667869567871,
+        "BenefitsAssistance": 0.3953218162059784,
+        "Eligibility": 0.3568228483200073,
+        "ApplicationProcess": 0.3417721390724182,
+        "TimelineFrequency": 0.38730692863464355,
+        "AuthoritiesGovernance": 0.3563918471336365,
+        "DefinitionsReferences": 0.3567783236503601
+      }
+    },
+    {
+      "sentence": "The PM-USP scheme is a testament to the government's dedication to fostering higher education in India.",
+      "role": "ContextObjective",
+      "confidence": 0.44788238406181335,
+      "similarities": {
+        "ContextObjective": 0.44788238406181335,
+        "BenefitsAssistance": 0.3724249601364136,
+        "Eligibility": 0.38638877868652344,
+        "ApplicationProcess": 0.36432087421417236,
+        "TimelineFrequency": 0.31487923860549927,
+        "AuthoritiesGovernance": 0.31382548809051514,
+        "DefinitionsReferences": 0.35129570960998535
+      }
+    },
+    {
+      "sentence": "It serves as a model for other welfare schemes aimed at promoting education and skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.4973409175872803,
+      "similarities": {
+        "ContextObjective": 0.4973409175872803,
+        "BenefitsAssistance": 0.408730149269104,
+        "Eligibility": 0.4211539328098297,
+        "ApplicationProcess": 0.3829635977745056,
+        "TimelineFrequency": 0.38624706864356995,
+        "AuthoritiesGovernance": 0.4086809456348419,
+        "DefinitionsReferences": 0.41497546434402466
+      }
+    },
+    {
+      "sentence": "The success of the PM-USP scheme can inspire similar initiatives in the future.",
+      "role": "ContextObjective",
+      "confidence": 0.5496445298194885,
+      "similarities": {
+        "ContextObjective": 0.5496445298194885,
+        "BenefitsAssistance": 0.38803571462631226,
+        "Eligibility": 0.42489105463027954,
+        "ApplicationProcess": 0.398009330034256,
+        "TimelineFrequency": 0.3545200824737549,
+        "AuthoritiesGovernance": 0.37348484992980957,
+        "DefinitionsReferences": 0.37828558683395386
+      }
+    },
+    {
+      "sentence": "In conclusion, the Pradhan Mantri Uchchatar Shiksha Protsahan scheme is a vital program for supporting higher education in India.",
+      "role": "ContextObjective",
+      "confidence": 0.506293535232544,
+      "similarities": {
+        "ContextObjective": 0.506293535232544,
+        "BenefitsAssistance": 0.41093650460243225,
+        "Eligibility": 0.4395725727081299,
+        "ApplicationProcess": 0.40638914704322815,
+        "TimelineFrequency": 0.3763781785964966,
+        "AuthoritiesGovernance": 0.3747502267360687,
+        "DefinitionsReferences": 0.3744004964828491
+      }
+    },
+    {
+      "sentence": "It provides essential financial assistance to deserving students, ensuring that education remains accessible to all.",
+      "role": "Eligibility",
+      "confidence": 0.5222327709197998,
+      "similarities": {
+        "ContextObjective": 0.45177048444747925,
+        "BenefitsAssistance": 0.5172403454780579,
+        "Eligibility": 0.5222327709197998,
+        "ApplicationProcess": 0.4335993528366089,
+        "TimelineFrequency": 0.4221755862236023,
+        "AuthoritiesGovernance": 0.3828224241733551,
+        "DefinitionsReferences": 0.3837483525276184
+      }
+    },
+    {
+      "sentence": "The scheme's comprehensive approach addresses various aspects of higher education funding and support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5870720148086548,
+      "similarities": {
+        "ContextObjective": 0.5359902381896973,
+        "BenefitsAssistance": 0.5870720148086548,
+        "Eligibility": 0.5170754194259644,
+        "ApplicationProcess": 0.48650896549224854,
+        "TimelineFrequency": 0.49475184082984924,
+        "AuthoritiesGovernance": 0.4442499876022339,
+        "DefinitionsReferences": 0.4380296468734741
+      }
+    },
+    {
+      "sentence": "As it continues to evolve, the PM-USP scheme will undoubtedly leave a lasting impact on India's educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.4538462460041046,
+      "similarities": {
+        "ContextObjective": 0.4538462460041046,
+        "BenefitsAssistance": 0.3528252840042114,
+        "Eligibility": 0.38757264614105225,
+        "ApplicationProcess": 0.36119547486305237,
+        "TimelineFrequency": 0.3475966155529022,
+        "AuthoritiesGovernance": 0.3508213460445404,
+        "DefinitionsReferences": 0.37359485030174255
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 32,
+    "Eligibility": 8,
+    "BenefitsAssistance": 9,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:49:31.928182"
+}

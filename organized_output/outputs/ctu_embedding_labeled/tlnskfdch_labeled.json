@@ -1,0 +1,743 @@
+{
+  "scheme_name": "Term Loan under NSKFDC- Haryana",
+  "total_sentences": 52,
+  "labeled_sentences": [
+    {
+      "sentence": "The Term Loan Scheme under the National Scheduled Castes Finance and Development Corporation (NSKFDC) in Haryana is a significant initiative aimed at promoting entrepreneurship among Scheduled Castes.",
+      "role": "ContextObjective",
+      "confidence": 0.5091454982757568,
+      "similarities": {
+        "ContextObjective": 0.5091454982757568,
+        "BenefitsAssistance": 0.4235266447067261,
+        "Eligibility": 0.48738187551498413,
+        "ApplicationProcess": 0.4082309603691101,
+        "TimelineFrequency": 0.44967928528785706,
+        "AuthoritiesGovernance": 0.38776615262031555,
+        "DefinitionsReferences": 0.41792017221450806
+      }
+    },
+    {
+      "sentence": "The scheme was launched in 2000 as part of the government’s efforts to uplift marginalized communities through financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.5281124114990234,
+      "similarities": {
+        "ContextObjective": 0.5281124114990234,
+        "BenefitsAssistance": 0.46233201026916504,
+        "Eligibility": 0.45975035429000854,
+        "ApplicationProcess": 0.393032431602478,
+        "TimelineFrequency": 0.3603033125400543,
+        "AuthoritiesGovernance": 0.4001815915107727,
+        "DefinitionsReferences": 0.33451414108276367
+      }
+    },
+    {
+      "sentence": "The primary objective of the Term Loan Scheme is to provide financial assistance to Scheduled Caste individuals for setting up small-scale and medium-sized enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.5495123863220215,
+      "similarities": {
+        "ContextObjective": 0.5495123863220215,
+        "BenefitsAssistance": 0.44541192054748535,
+        "Eligibility": 0.49046847224235535,
+        "ApplicationProcess": 0.4191609025001526,
+        "TimelineFrequency": 0.4538029730319977,
+        "AuthoritiesGovernance": 0.41118118166923523,
+        "DefinitionsReferences": 0.3993317484855652
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower Scheduled Castes by facilitating self-employment and entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.5269361734390259,
+      "similarities": {
+        "ContextObjective": 0.5269361734390259,
+        "BenefitsAssistance": 0.3888384699821472,
+        "Eligibility": 0.4218757450580597,
+        "ApplicationProcess": 0.3653571605682373,
+        "TimelineFrequency": 0.36639004945755005,
+        "AuthoritiesGovernance": 0.35307028889656067,
+        "DefinitionsReferences": 0.32120048999786377
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme can go up to INR 10 lakh for various business ventures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.546617865562439,
+      "similarities": {
+        "ContextObjective": 0.4364393353462219,
+        "BenefitsAssistance": 0.546617865562439,
+        "Eligibility": 0.49219241738319397,
+        "ApplicationProcess": 0.4158400297164917,
+        "TimelineFrequency": 0.39739924669265747,
+        "AuthoritiesGovernance": 0.3564527928829193,
+        "DefinitionsReferences": 0.42174720764160156
+      }
+    },
+    {
+      "sentence": "The interest rate on the loans is set at a subsidized rate of 6 percent per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43611371517181396,
+      "similarities": {
+        "ContextObjective": 0.3836606740951538,
+        "BenefitsAssistance": 0.43611371517181396,
+        "Eligibility": 0.4195302724838257,
+        "ApplicationProcess": 0.36735427379608154,
+        "TimelineFrequency": 0.4162835478782654,
+        "AuthoritiesGovernance": 0.3354039788246155,
+        "DefinitionsReferences": 0.3506103456020355
+      }
+    },
+    {
+      "sentence": "The maximum repayment period for the loan is 7 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5051135420799255,
+      "similarities": {
+        "ContextObjective": 0.43136000633239746,
+        "BenefitsAssistance": 0.4889376759529114,
+        "Eligibility": 0.4842294156551361,
+        "ApplicationProcess": 0.43916425108909607,
+        "TimelineFrequency": 0.5051135420799255,
+        "AuthoritiesGovernance": 0.36541813611984253,
+        "DefinitionsReferences": 0.38199490308761597
+      }
+    },
+    {
+      "sentence": "The loan can be utilized for various purposes including the purchase of machinery, equipment, and working capital.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5710701942443848,
+      "similarities": {
+        "ContextObjective": 0.4784623384475708,
+        "BenefitsAssistance": 0.5710701942443848,
+        "Eligibility": 0.5017999410629272,
+        "ApplicationProcess": 0.47215938568115234,
+        "TimelineFrequency": 0.4892268180847168,
+        "AuthoritiesGovernance": 0.40320491790771484,
+        "DefinitionsReferences": 0.5089353322982788
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must belong to the Scheduled Caste category as defined by the Government of India.",
+      "role": "Eligibility",
+      "confidence": 0.6107481718063354,
+      "similarities": {
+        "ContextObjective": 0.4593566656112671,
+        "BenefitsAssistance": 0.43702682852745056,
+        "Eligibility": 0.6107481718063354,
+        "ApplicationProcess": 0.44554007053375244,
+        "TimelineFrequency": 0.41442328691482544,
+        "AuthoritiesGovernance": 0.39733779430389404,
+        "DefinitionsReferences": 0.3958128094673157
+      }
+    },
+    {
+      "sentence": "The applicant must be a resident of Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.5925408601760864,
+      "similarities": {
+        "ContextObjective": 0.4509788155555725,
+        "BenefitsAssistance": 0.4102425277233124,
+        "Eligibility": 0.5925408601760864,
+        "ApplicationProcess": 0.5649398565292358,
+        "TimelineFrequency": 0.5069971084594727,
+        "AuthoritiesGovernance": 0.41369980573654175,
+        "DefinitionsReferences": 0.3967494070529938
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is between 18 and 55 years.",
+      "role": "Eligibility",
+      "confidence": 0.6378775835037231,
+      "similarities": {
+        "ContextObjective": 0.49574601650238037,
+        "BenefitsAssistance": 0.49429744482040405,
+        "Eligibility": 0.6378775835037231,
+        "ApplicationProcess": 0.5868707895278931,
+        "TimelineFrequency": 0.5750298500061035,
+        "AuthoritiesGovernance": 0.4336839020252228,
+        "DefinitionsReferences": 0.41722872853279114
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at INR 3 lakh per annum for individuals.",
+      "role": "Eligibility",
+      "confidence": 0.5910730361938477,
+      "similarities": {
+        "ContextObjective": 0.4464804530143738,
+        "BenefitsAssistance": 0.48855337500572205,
+        "Eligibility": 0.5910730361938477,
+        "ApplicationProcess": 0.4551430940628052,
+        "TimelineFrequency": 0.437450110912323,
+        "AuthoritiesGovernance": 0.37775206565856934,
+        "DefinitionsReferences": 0.36915096640586853
+      }
+    },
+    {
+      "sentence": "For families with more than one member seeking assistance, the combined income limit is INR 6 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5207559466362,
+      "similarities": {
+        "ContextObjective": 0.38905787467956543,
+        "BenefitsAssistance": 0.4925770163536072,
+        "Eligibility": 0.5207559466362,
+        "ApplicationProcess": 0.41263818740844727,
+        "TimelineFrequency": 0.38008391857147217,
+        "AuthoritiesGovernance": 0.3790067136287689,
+        "DefinitionsReferences": 0.347628116607666
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not strictly mandated; however, applicants with some level of education or vocational training are preferred.",
+      "role": "Eligibility",
+      "confidence": 0.5387510061264038,
+      "similarities": {
+        "ContextObjective": 0.448341965675354,
+        "BenefitsAssistance": 0.4084908962249756,
+        "Eligibility": 0.5387510061264038,
+        "ApplicationProcess": 0.5293843150138855,
+        "TimelineFrequency": 0.48029714822769165,
+        "AuthoritiesGovernance": 0.4029240012168884,
+        "DefinitionsReferences": 0.4013160467147827
+      }
+    },
+    {
+      "sentence": "The application process involves several steps to ensure transparency and efficiency.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7348199486732483,
+      "similarities": {
+        "ContextObjective": 0.5522152185440063,
+        "BenefitsAssistance": 0.5504401326179504,
+        "Eligibility": 0.6159891486167908,
+        "ApplicationProcess": 0.7348199486732483,
+        "TimelineFrequency": 0.6352676153182983,
+        "AuthoritiesGovernance": 0.5417318344116211,
+        "DefinitionsReferences": 0.5217491388320923
+      }
+    },
+    {
+      "sentence": "Interested applicants must first obtain the application form from the official NSKFDC website or the local district office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6423469185829163,
+      "similarities": {
+        "ContextObjective": 0.4483172297477722,
+        "BenefitsAssistance": 0.4136325418949127,
+        "Eligibility": 0.5362691879272461,
+        "ApplicationProcess": 0.6423469185829163,
+        "TimelineFrequency": 0.4992285966873169,
+        "AuthoritiesGovernance": 0.453473299741745,
+        "DefinitionsReferences": 0.40888237953186035
+      }
+    },
+    {
+      "sentence": "The completed application form must be submitted along with required documents including identity proof, caste certificate, income certificate, and project report.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6736232042312622,
+      "similarities": {
+        "ContextObjective": 0.4572095274925232,
+        "BenefitsAssistance": 0.49319085478782654,
+        "Eligibility": 0.5385836362838745,
+        "ApplicationProcess": 0.6736232042312622,
+        "TimelineFrequency": 0.5014107823371887,
+        "AuthoritiesGovernance": 0.41515225172042847,
+        "DefinitionsReferences": 0.4547841250896454
+      }
+    },
+    {
+      "sentence": "The project report should outline the business plan and financial projections.",
+      "role": "ContextObjective",
+      "confidence": 0.5193305015563965,
+      "similarities": {
+        "ContextObjective": 0.5193305015563965,
+        "BenefitsAssistance": 0.512620210647583,
+        "Eligibility": 0.4395754933357239,
+        "ApplicationProcess": 0.44822701811790466,
+        "TimelineFrequency": 0.4431537091732025,
+        "AuthoritiesGovernance": 0.38648682832717896,
+        "DefinitionsReferences": 0.4336322546005249
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes a scrutiny process by the local NSKFDC office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6327503323554993,
+      "similarities": {
+        "ContextObjective": 0.4487602114677429,
+        "BenefitsAssistance": 0.42177748680114746,
+        "Eligibility": 0.5473068952560425,
+        "ApplicationProcess": 0.6327503323554993,
+        "TimelineFrequency": 0.5000689625740051,
+        "AuthoritiesGovernance": 0.4596877098083496,
+        "DefinitionsReferences": 0.4435465931892395
+      }
+    },
+    {
+      "sentence": "The scrutiny includes verification of documents and assessment of the business viability.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5718263983726501,
+      "similarities": {
+        "ContextObjective": 0.5035880208015442,
+        "BenefitsAssistance": 0.5050908327102661,
+        "Eligibility": 0.523967444896698,
+        "ApplicationProcess": 0.5718263983726501,
+        "TimelineFrequency": 0.46574753522872925,
+        "AuthoritiesGovernance": 0.4239656329154968,
+        "DefinitionsReferences": 0.5400622487068176
+      }
+    },
+    {
+      "sentence": "If approved, the loan amount is sanctioned and disbursed through the designated bank.",
+      "role": "Eligibility",
+      "confidence": 0.5297057628631592,
+      "similarities": {
+        "ContextObjective": 0.41567111015319824,
+        "BenefitsAssistance": 0.5249465703964233,
+        "Eligibility": 0.5297057628631592,
+        "ApplicationProcess": 0.4916902482509613,
+        "TimelineFrequency": 0.4456669092178345,
+        "AuthoritiesGovernance": 0.43797987699508667,
+        "DefinitionsReferences": 0.42264795303344727
+      }
+    },
+    {
+      "sentence": "The disbursement is typically made in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5561531782150269,
+      "similarities": {
+        "ContextObjective": 0.45445889234542847,
+        "BenefitsAssistance": 0.5561531782150269,
+        "Eligibility": 0.4203222692012787,
+        "ApplicationProcess": 0.4334159195423126,
+        "TimelineFrequency": 0.4758676290512085,
+        "AuthoritiesGovernance": 0.4408612847328186,
+        "DefinitionsReferences": 0.4073529541492462
+      }
+    },
+    {
+      "sentence": "The loan amount is credited directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5583473443984985,
+      "similarities": {
+        "ContextObjective": 0.4226202368736267,
+        "BenefitsAssistance": 0.5583473443984985,
+        "Eligibility": 0.5205379128456116,
+        "ApplicationProcess": 0.4763062596321106,
+        "TimelineFrequency": 0.44825083017349243,
+        "AuthoritiesGovernance": 0.38903868198394775,
+        "DefinitionsReferences": 0.4033157527446747
+      }
+    },
+    {
+      "sentence": "Beneficiaries are required to maintain proper accounts of their business operations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5991907119750977,
+      "similarities": {
+        "ContextObjective": 0.47985711693763733,
+        "BenefitsAssistance": 0.5991907119750977,
+        "Eligibility": 0.5847822427749634,
+        "ApplicationProcess": 0.5398703813552856,
+        "TimelineFrequency": 0.4849851131439209,
+        "AuthoritiesGovernance": 0.5088998079299927,
+        "DefinitionsReferences": 0.5188839435577393
+      }
+    },
+    {
+      "sentence": "They must also submit periodic progress reports to the NSKFDC.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4628457725048065,
+      "similarities": {
+        "ContextObjective": 0.357749879360199,
+        "BenefitsAssistance": 0.4093650281429291,
+        "Eligibility": 0.4271673560142517,
+        "ApplicationProcess": 0.4628457725048065,
+        "TimelineFrequency": 0.4460081458091736,
+        "AuthoritiesGovernance": 0.4261518716812134,
+        "DefinitionsReferences": 0.3921249210834503
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the National Scheduled Castes Finance and Development Corporation.",
+      "role": "ContextObjective",
+      "confidence": 0.4875580668449402,
+      "similarities": {
+        "ContextObjective": 0.4875580668449402,
+        "BenefitsAssistance": 0.443791002035141,
+        "Eligibility": 0.47159910202026367,
+        "ApplicationProcess": 0.41847729682922363,
+        "TimelineFrequency": 0.37286752462387085,
+        "AuthoritiesGovernance": 0.44916707277297974,
+        "DefinitionsReferences": 0.3536067605018616
+      }
+    },
+    {
+      "sentence": "The NSKFDC operates under the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5295583605766296,
+      "similarities": {
+        "ContextObjective": 0.45058006048202515,
+        "BenefitsAssistance": 0.40901726484298706,
+        "Eligibility": 0.46272099018096924,
+        "ApplicationProcess": 0.41971516609191895,
+        "TimelineFrequency": 0.35030597448349,
+        "AuthoritiesGovernance": 0.5295583605766296,
+        "DefinitionsReferences": 0.4116029441356659
+      }
+    },
+    {
+      "sentence": "The contact details for NSKFDC can be found on their official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48788222670555115,
+      "similarities": {
+        "ContextObjective": 0.4011569321155548,
+        "BenefitsAssistance": 0.4687340557575226,
+        "Eligibility": 0.4520948529243469,
+        "ApplicationProcess": 0.48788222670555115,
+        "TimelineFrequency": 0.401034414768219,
+        "AuthoritiesGovernance": 0.48454204201698303,
+        "DefinitionsReferences": 0.46482837200164795
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance the socio-economic status of Scheduled Castes in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5043008923530579,
+      "similarities": {
+        "ContextObjective": 0.5043008923530579,
+        "BenefitsAssistance": 0.4107380509376526,
+        "Eligibility": 0.44321101903915405,
+        "ApplicationProcess": 0.38812676072120667,
+        "TimelineFrequency": 0.3622429370880127,
+        "AuthoritiesGovernance": 0.38969236612319946,
+        "DefinitionsReferences": 0.36423102021217346
+      }
+    },
+    {
+      "sentence": "Since its inception, the Term Loan Scheme has benefited thousands of individuals across Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.4806797504425049,
+      "similarities": {
+        "ContextObjective": 0.4806797504425049,
+        "BenefitsAssistance": 0.45175546407699585,
+        "Eligibility": 0.4711533188819885,
+        "ApplicationProcess": 0.3697205185890198,
+        "TimelineFrequency": 0.4093647599220276,
+        "AuthoritiesGovernance": 0.368083655834198,
+        "DefinitionsReferences": 0.38040047883987427
+      }
+    },
+    {
+      "sentence": "The government has allocated substantial funds to ensure the smooth implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4911542534828186,
+      "similarities": {
+        "ContextObjective": 0.4911542534828186,
+        "BenefitsAssistance": 0.48715364933013916,
+        "Eligibility": 0.49111098051071167,
+        "ApplicationProcess": 0.45614153146743774,
+        "TimelineFrequency": 0.383186936378479,
+        "AuthoritiesGovernance": 0.48752182722091675,
+        "DefinitionsReferences": 0.39087897539138794
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the government allocated INR 100 crore for the welfare of Scheduled Castes in Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.4662301540374756,
+      "similarities": {
+        "ContextObjective": 0.42005664110183716,
+        "BenefitsAssistance": 0.45551249384880066,
+        "Eligibility": 0.4662301540374756,
+        "ApplicationProcess": 0.3419976234436035,
+        "TimelineFrequency": 0.38115376234054565,
+        "AuthoritiesGovernance": 0.3828575611114502,
+        "DefinitionsReferences": 0.3260398805141449
+      }
+    },
+    {
+      "sentence": "The scheme has seen a steady increase in the number of beneficiaries each year.",
+      "role": "ContextObjective",
+      "confidence": 0.5201151371002197,
+      "similarities": {
+        "ContextObjective": 0.5201151371002197,
+        "BenefitsAssistance": 0.4767470061779022,
+        "Eligibility": 0.47627151012420654,
+        "ApplicationProcess": 0.4158955216407776,
+        "TimelineFrequency": 0.4305623769760132,
+        "AuthoritiesGovernance": 0.39372923970222473,
+        "DefinitionsReferences": 0.3922147750854492
+      }
+    },
+    {
+      "sentence": "In 2021-2022, approximately 5,000 applications were received under the Term Loan Scheme.",
+      "role": "TimelineFrequency",
+      "confidence": 0.531072735786438,
+      "similarities": {
+        "ContextObjective": 0.5283556580543518,
+        "BenefitsAssistance": 0.4851360321044922,
+        "Eligibility": 0.5156750082969666,
+        "ApplicationProcess": 0.5041405558586121,
+        "TimelineFrequency": 0.531072735786438,
+        "AuthoritiesGovernance": 0.39635807275772095,
+        "DefinitionsReferences": 0.4128381013870239
+      }
+    },
+    {
+      "sentence": "Out of these, around 3,500 loans were sanctioned.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45510679483413696,
+      "similarities": {
+        "ContextObjective": 0.39227205514907837,
+        "BenefitsAssistance": 0.45510679483413696,
+        "Eligibility": 0.4446691870689392,
+        "ApplicationProcess": 0.3891095519065857,
+        "TimelineFrequency": 0.41855865716934204,
+        "AuthoritiesGovernance": 0.38890689611434937,
+        "DefinitionsReferences": 0.4088773727416992
+      }
+    },
+    {
+      "sentence": "The success rate of loan approvals stands at approximately 70 percent.",
+      "role": "Eligibility",
+      "confidence": 0.4274384677410126,
+      "similarities": {
+        "ContextObjective": 0.39719533920288086,
+        "BenefitsAssistance": 0.4027198851108551,
+        "Eligibility": 0.4274384677410126,
+        "ApplicationProcess": 0.4076951742172241,
+        "TimelineFrequency": 0.38051697611808777,
+        "AuthoritiesGovernance": 0.3537553548812866,
+        "DefinitionsReferences": 0.34942907094955444
+      }
+    },
+    {
+      "sentence": "The government continuously monitors the performance of the scheme to ensure its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5088078379631042,
+      "similarities": {
+        "ContextObjective": 0.5088078379631042,
+        "BenefitsAssistance": 0.4381139278411865,
+        "Eligibility": 0.4761607050895691,
+        "ApplicationProcess": 0.4823150932788849,
+        "TimelineFrequency": 0.42572879791259766,
+        "AuthoritiesGovernance": 0.503800630569458,
+        "DefinitionsReferences": 0.41708675026893616
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to participate in training programs organized by NSKFDC to enhance their business skills.",
+      "role": "Eligibility",
+      "confidence": 0.4705038070678711,
+      "similarities": {
+        "ContextObjective": 0.4502584934234619,
+        "BenefitsAssistance": 0.42874324321746826,
+        "Eligibility": 0.4705038070678711,
+        "ApplicationProcess": 0.40550869703292847,
+        "TimelineFrequency": 0.3892436623573303,
+        "AuthoritiesGovernance": 0.433440625667572,
+        "DefinitionsReferences": 0.4232568144798279
+      }
+    },
+    {
+      "sentence": "These training programs cover various aspects of entrepreneurship including marketing, finance management, and production techniques.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48872458934783936,
+      "similarities": {
+        "ContextObjective": 0.45627474784851074,
+        "BenefitsAssistance": 0.48872458934783936,
+        "Eligibility": 0.43195807933807373,
+        "ApplicationProcess": 0.4131266474723816,
+        "TimelineFrequency": 0.45292752981185913,
+        "AuthoritiesGovernance": 0.4140945076942444,
+        "DefinitionsReferences": 0.4682545065879822
+      }
+    },
+    {
+      "sentence": "The NSKFDC also collaborates with other government departments to provide additional support to beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48842939734458923,
+      "similarities": {
+        "ContextObjective": 0.4094523787498474,
+        "BenefitsAssistance": 0.48842939734458923,
+        "Eligibility": 0.4450598955154419,
+        "ApplicationProcess": 0.38209277391433716,
+        "TimelineFrequency": 0.3548521399497986,
+        "AuthoritiesGovernance": 0.4848910868167877,
+        "DefinitionsReferences": 0.43490684032440186
+      }
+    },
+    {
+      "sentence": "The Term Loan Scheme is part of a larger framework of welfare schemes aimed at the economic upliftment of Scheduled Castes.",
+      "role": "ContextObjective",
+      "confidence": 0.515001654624939,
+      "similarities": {
+        "ContextObjective": 0.515001654624939,
+        "BenefitsAssistance": 0.4506908655166626,
+        "Eligibility": 0.45099544525146484,
+        "ApplicationProcess": 0.3718201518058777,
+        "TimelineFrequency": 0.410204142332077,
+        "AuthoritiesGovernance": 0.3783717155456543,
+        "DefinitionsReferences": 0.3991973400115967
+      }
+    },
+    {
+      "sentence": "The government has introduced various initiatives to complement the Term Loan Scheme including skill development programs.",
+      "role": "ContextObjective",
+      "confidence": 0.4960324764251709,
+      "similarities": {
+        "ContextObjective": 0.4960324764251709,
+        "BenefitsAssistance": 0.48365896940231323,
+        "Eligibility": 0.44015175104141235,
+        "ApplicationProcess": 0.4339379072189331,
+        "TimelineFrequency": 0.4526616632938385,
+        "AuthoritiesGovernance": 0.4269302487373352,
+        "DefinitionsReferences": 0.4829891324043274
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the broader goals of the Pradhan Mantri Mudra Yojana which also aims to promote entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.5270067453384399,
+      "similarities": {
+        "ContextObjective": 0.5270067453384399,
+        "BenefitsAssistance": 0.394514262676239,
+        "Eligibility": 0.4228631854057312,
+        "ApplicationProcess": 0.38814577460289,
+        "TimelineFrequency": 0.36057573556900024,
+        "AuthoritiesGovernance": 0.3621566891670227,
+        "DefinitionsReferences": 0.34697577357292175
+      }
+    },
+    {
+      "sentence": "The NSKFDC has established a robust monitoring mechanism to track the progress of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49549996852874756,
+      "similarities": {
+        "ContextObjective": 0.4295850694179535,
+        "BenefitsAssistance": 0.49549996852874756,
+        "Eligibility": 0.4896020293235779,
+        "ApplicationProcess": 0.42111119627952576,
+        "TimelineFrequency": 0.4080488085746765,
+        "AuthoritiesGovernance": 0.4478393793106079,
+        "DefinitionsReferences": 0.40348559617996216
+      }
+    },
+    {
+      "sentence": "Regular audits and evaluations are conducted to assess the impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5045747756958008,
+      "similarities": {
+        "ContextObjective": 0.5045747756958008,
+        "BenefitsAssistance": 0.4942227900028229,
+        "Eligibility": 0.4777798354625702,
+        "ApplicationProcess": 0.4909950792789459,
+        "TimelineFrequency": 0.45675918459892273,
+        "AuthoritiesGovernance": 0.49206554889678955,
+        "DefinitionsReferences": 0.4507819414138794
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.539747416973114,
+      "similarities": {
+        "ContextObjective": 0.539747416973114,
+        "BenefitsAssistance": 0.5060763359069824,
+        "Eligibility": 0.5269701480865479,
+        "ApplicationProcess": 0.4755187928676605,
+        "TimelineFrequency": 0.43554192781448364,
+        "AuthoritiesGovernance": 0.5036656260490417,
+        "DefinitionsReferences": 0.44254228472709656
+      }
+    },
+    {
+      "sentence": "The government aims to increase awareness about the scheme through outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5578418970108032,
+      "similarities": {
+        "ContextObjective": 0.5578418970108032,
+        "BenefitsAssistance": 0.4416275918483734,
+        "Eligibility": 0.48502641916275024,
+        "ApplicationProcess": 0.4656215310096741,
+        "TimelineFrequency": 0.39756616950035095,
+        "AuthoritiesGovernance": 0.506040096282959,
+        "DefinitionsReferences": 0.40848207473754883
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are organized to educate potential beneficiaries about the application process and benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5665756464004517,
+      "similarities": {
+        "ContextObjective": 0.5116842985153198,
+        "BenefitsAssistance": 0.497905433177948,
+        "Eligibility": 0.5665756464004517,
+        "ApplicationProcess": 0.5308611989021301,
+        "TimelineFrequency": 0.5117285847663879,
+        "AuthoritiesGovernance": 0.4925702214241028,
+        "DefinitionsReferences": 0.4411666691303253
+      }
+    },
+    {
+      "sentence": "The Term Loan Scheme under NSKFDC is a vital tool for promoting self-reliance among Scheduled Castes.",
+      "role": "ContextObjective",
+      "confidence": 0.49396923184394836,
+      "similarities": {
+        "ContextObjective": 0.49396923184394836,
+        "BenefitsAssistance": 0.4278259873390198,
+        "Eligibility": 0.45608383417129517,
+        "ApplicationProcess": 0.39469125866889954,
+        "TimelineFrequency": 0.412893146276474,
+        "AuthoritiesGovernance": 0.36848729848861694,
+        "DefinitionsReferences": 0.4086754322052002
+      }
+    },
+    {
+      "sentence": "It plays a crucial role in reducing poverty and enhancing the quality of life for many families in Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.43014201521873474,
+      "similarities": {
+        "ContextObjective": 0.42198020219802856,
+        "BenefitsAssistance": 0.38513848185539246,
+        "Eligibility": 0.43014201521873474,
+        "ApplicationProcess": 0.3796195089817047,
+        "TimelineFrequency": 0.3297092318534851,
+        "AuthoritiesGovernance": 0.3770485520362854,
+        "DefinitionsReferences": 0.35699236392974854
+      }
+    },
+    {
+      "sentence": "The government encourages eligible individuals to take advantage of this scheme to realize their entrepreneurial dreams.",
+      "role": "ContextObjective",
+      "confidence": 0.546966552734375,
+      "similarities": {
+        "ContextObjective": 0.546966552734375,
+        "BenefitsAssistance": 0.4110840857028961,
+        "Eligibility": 0.5146846175193787,
+        "ApplicationProcess": 0.4647257924079895,
+        "TimelineFrequency": 0.41384071111679077,
+        "AuthoritiesGovernance": 0.3752274513244629,
+        "DefinitionsReferences": 0.37495219707489014
+      }
+    },
+    {
+      "sentence": "In conclusion, the Term Loan Scheme under NSKFDC in Haryana is a comprehensive initiative designed to empower Scheduled Castes through financial assistance and entrepreneurship development.",
+      "role": "ContextObjective",
+      "confidence": 0.4883807897567749,
+      "similarities": {
+        "ContextObjective": 0.4883807897567749,
+        "BenefitsAssistance": 0.46055278182029724,
+        "Eligibility": 0.4666599929332733,
+        "ApplicationProcess": 0.4006391763687134,
+        "TimelineFrequency": 0.42932188510894775,
+        "AuthoritiesGovernance": 0.39605629444122314,
+        "DefinitionsReferences": 0.40508967638015747
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "BenefitsAssistance": 10,
+    "TimelineFrequency": 2,
+    "Eligibility": 12,
+    "ApplicationProcess": 7,
+    "AuthoritiesGovernance": 1
+  },
+  "processing_timestamp": "2025-09-25T20:32:24.261824"
+}

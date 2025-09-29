@@ -1,0 +1,702 @@
+{
+  "scheme_name": "New Entrepreneur-cum-enterprise Development Scheme",
+  "total_sentences": 49,
+  "labeled_sentences": [
+    {
+      "sentence": "The New Entrepreneur-cum-Enterprise Development Scheme is an initiative launched by the Government of India to promote entrepreneurship among the youth and to provide financial assistance for setting up new enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.5704617500305176,
+      "similarities": {
+        "ContextObjective": 0.5704617500305176,
+        "BenefitsAssistance": 0.44731640815734863,
+        "Eligibility": 0.47980615496635437,
+        "ApplicationProcess": 0.44742679595947266,
+        "TimelineFrequency": 0.4307318925857544,
+        "AuthoritiesGovernance": 0.4501098394393921,
+        "DefinitionsReferences": 0.3889281749725342
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in 2015 under the Ministry of Micro, Small and Medium Enterprises (MSME).",
+      "role": "ContextObjective",
+      "confidence": 0.5016620755195618,
+      "similarities": {
+        "ContextObjective": 0.5016620755195618,
+        "BenefitsAssistance": 0.3892737030982971,
+        "Eligibility": 0.4145640432834625,
+        "ApplicationProcess": 0.44313210248947144,
+        "TimelineFrequency": 0.38762882351875305,
+        "AuthoritiesGovernance": 0.39518141746520996,
+        "DefinitionsReferences": 0.34845906496047974
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to facilitate the growth of new enterprises by providing financial support and skill development to aspiring entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.5876894593238831,
+      "similarities": {
+        "ContextObjective": 0.5876894593238831,
+        "BenefitsAssistance": 0.44321489334106445,
+        "Eligibility": 0.4503752291202545,
+        "ApplicationProcess": 0.41208139061927795,
+        "TimelineFrequency": 0.3940618634223938,
+        "AuthoritiesGovernance": 0.370877206325531,
+        "DefinitionsReferences": 0.3729284107685089
+      }
+    },
+    {
+      "sentence": "The scheme aims to create a conducive environment for entrepreneurship by providing necessary resources and guidance to new entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.5707771182060242,
+      "similarities": {
+        "ContextObjective": 0.5707771182060242,
+        "BenefitsAssistance": 0.3835897743701935,
+        "Eligibility": 0.4846392869949341,
+        "ApplicationProcess": 0.4274428188800812,
+        "TimelineFrequency": 0.40003299713134766,
+        "AuthoritiesGovernance": 0.3683171272277832,
+        "DefinitionsReferences": 0.391854852437973
+      }
+    },
+    {
+      "sentence": "The measurable targets of the scheme include the establishment of at least 10,000 new enterprises within the first five years of its implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.504537045955658,
+      "similarities": {
+        "ContextObjective": 0.504537045955658,
+        "BenefitsAssistance": 0.39667588472366333,
+        "Eligibility": 0.4448155164718628,
+        "ApplicationProcess": 0.382990300655365,
+        "TimelineFrequency": 0.3854512572288513,
+        "AuthoritiesGovernance": 0.3833143711090088,
+        "DefinitionsReferences": 0.36280831694602966
+      }
+    },
+    {
+      "sentence": "The scheme also aims to generate employment opportunities for approximately 50,000 individuals in the same time frame.",
+      "role": "ContextObjective",
+      "confidence": 0.5372755527496338,
+      "similarities": {
+        "ContextObjective": 0.5372755527496338,
+        "BenefitsAssistance": 0.38227736949920654,
+        "Eligibility": 0.4943431615829468,
+        "ApplicationProcess": 0.4369359314441681,
+        "TimelineFrequency": 0.4555562734603882,
+        "AuthoritiesGovernance": 0.3683469295501709,
+        "DefinitionsReferences": 0.3429533541202545
+      }
+    },
+    {
+      "sentence": "Financial assistance under the scheme is provided in the form of a subsidy and bank credit.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5510295033454895,
+      "similarities": {
+        "ContextObjective": 0.5073103904724121,
+        "BenefitsAssistance": 0.5510295033454895,
+        "Eligibility": 0.515483021736145,
+        "ApplicationProcess": 0.4752977788448334,
+        "TimelineFrequency": 0.42553627490997314,
+        "AuthoritiesGovernance": 0.41029518842697144,
+        "DefinitionsReferences": 0.4149263799190521
+      }
+    },
+    {
+      "sentence": "The subsidy amount can go up to 15% of the project cost for enterprises set up in urban areas and up to 25% for those in rural areas.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4393561780452728,
+      "similarities": {
+        "ContextObjective": 0.36711013317108154,
+        "BenefitsAssistance": 0.4393561780452728,
+        "Eligibility": 0.40367576479911804,
+        "ApplicationProcess": 0.36301562190055847,
+        "TimelineFrequency": 0.36183273792266846,
+        "AuthoritiesGovernance": 0.37259674072265625,
+        "DefinitionsReferences": 0.3581942617893219
+      }
+    },
+    {
+      "sentence": "The maximum project cost eligible for subsidy is capped at INR 1 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45542752742767334,
+      "similarities": {
+        "ContextObjective": 0.4003000855445862,
+        "BenefitsAssistance": 0.45542752742767334,
+        "Eligibility": 0.45130398869514465,
+        "ApplicationProcess": 0.3650856018066406,
+        "TimelineFrequency": 0.3742114305496216,
+        "AuthoritiesGovernance": 0.3318447470664978,
+        "DefinitionsReferences": 0.31539833545684814
+      }
+    },
+    {
+      "sentence": "This means that the maximum subsidy amount for urban areas can be INR 15 lakh and for rural areas can be INR 25 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44274061918258667,
+      "similarities": {
+        "ContextObjective": 0.3426666855812073,
+        "BenefitsAssistance": 0.44274061918258667,
+        "Eligibility": 0.42148134112358093,
+        "ApplicationProcess": 0.3510572910308838,
+        "TimelineFrequency": 0.37392425537109375,
+        "AuthoritiesGovernance": 0.32894647121429443,
+        "DefinitionsReferences": 0.35954076051712036
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be between the ages of 18 and 45 years.",
+      "role": "Eligibility",
+      "confidence": 0.6606855392456055,
+      "similarities": {
+        "ContextObjective": 0.49515652656555176,
+        "BenefitsAssistance": 0.5481579303741455,
+        "Eligibility": 0.6606855392456055,
+        "ApplicationProcess": 0.49861791729927063,
+        "TimelineFrequency": 0.485746294260025,
+        "AuthoritiesGovernance": 0.40107446908950806,
+        "DefinitionsReferences": 0.4061506688594818
+      }
+    },
+    {
+      "sentence": "The scheme is specifically targeted at individuals who have a business idea and are willing to start their own enterprise.",
+      "role": "ContextObjective",
+      "confidence": 0.5905401706695557,
+      "similarities": {
+        "ContextObjective": 0.5905401706695557,
+        "BenefitsAssistance": 0.4345266819000244,
+        "Eligibility": 0.5372313261032104,
+        "ApplicationProcess": 0.4679722189903259,
+        "TimelineFrequency": 0.4310147762298584,
+        "AuthoritiesGovernance": 0.37313324213027954,
+        "DefinitionsReferences": 0.3574386239051819
+      }
+    },
+    {
+      "sentence": "Applicants must have a minimum educational qualification of a 10th-grade pass.",
+      "role": "Eligibility",
+      "confidence": 0.5549420118331909,
+      "similarities": {
+        "ContextObjective": 0.4049033522605896,
+        "BenefitsAssistance": 0.4100191593170166,
+        "Eligibility": 0.5549420118331909,
+        "ApplicationProcess": 0.5410231947898865,
+        "TimelineFrequency": 0.48934441804885864,
+        "AuthoritiesGovernance": 0.3697291910648346,
+        "DefinitionsReferences": 0.4090074300765991
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility stipulate that the applicant's family income should not exceed INR 3 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5767025947570801,
+      "similarities": {
+        "ContextObjective": 0.4441741704940796,
+        "BenefitsAssistance": 0.46071699261665344,
+        "Eligibility": 0.5767025947570801,
+        "ApplicationProcess": 0.49157220125198364,
+        "TimelineFrequency": 0.435640424489975,
+        "AuthoritiesGovernance": 0.33677130937576294,
+        "DefinitionsReferences": 0.36602336168289185
+      }
+    },
+    {
+      "sentence": "The application process for the scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7405619621276855,
+      "similarities": {
+        "ContextObjective": 0.6533884406089783,
+        "BenefitsAssistance": 0.548820972442627,
+        "Eligibility": 0.6418567895889282,
+        "ApplicationProcess": 0.7405619621276855,
+        "TimelineFrequency": 0.6376816630363464,
+        "AuthoritiesGovernance": 0.5264222025871277,
+        "DefinitionsReferences": 0.5114796161651611
+      }
+    },
+    {
+      "sentence": "First, interested candidates must approach the nearest District Industries Centre (DIC) or MSME Development Institute.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5110411643981934,
+      "similarities": {
+        "ContextObjective": 0.44619739055633545,
+        "BenefitsAssistance": 0.38098233938217163,
+        "Eligibility": 0.4808749258518219,
+        "ApplicationProcess": 0.5110411643981934,
+        "TimelineFrequency": 0.43688011169433594,
+        "AuthoritiesGovernance": 0.42745137214660645,
+        "DefinitionsReferences": 0.3737189769744873
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form provided by the DIC.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6856609582901001,
+      "similarities": {
+        "ContextObjective": 0.4811825752258301,
+        "BenefitsAssistance": 0.519689679145813,
+        "Eligibility": 0.5890287756919861,
+        "ApplicationProcess": 0.6856609582901001,
+        "TimelineFrequency": 0.5421861410140991,
+        "AuthoritiesGovernance": 0.4940076470375061,
+        "DefinitionsReferences": 0.45366305112838745
+      }
+    },
+    {
+      "sentence": "The application form requires details about the proposed business, including the business plan, estimated project cost, and funding requirements.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6409661769866943,
+      "similarities": {
+        "ContextObjective": 0.5386877059936523,
+        "BenefitsAssistance": 0.5731239318847656,
+        "Eligibility": 0.5706551671028137,
+        "ApplicationProcess": 0.6409661769866943,
+        "TimelineFrequency": 0.5619736313819885,
+        "AuthoritiesGovernance": 0.40377360582351685,
+        "DefinitionsReferences": 0.49560776352882385
+      }
+    },
+    {
+      "sentence": "Along with the application form, applicants must submit several documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7404218316078186,
+      "similarities": {
+        "ContextObjective": 0.5236945152282715,
+        "BenefitsAssistance": 0.5593727827072144,
+        "Eligibility": 0.6199676990509033,
+        "ApplicationProcess": 0.7404218316078186,
+        "TimelineFrequency": 0.6425430774688721,
+        "AuthoritiesGovernance": 0.49194270372390747,
+        "DefinitionsReferences": 0.5825840830802917
+      }
+    },
+    {
+      "sentence": "These documents include proof of identity such as an Aadhaar card or voter ID, proof of address, and educational certificates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5708281397819519,
+      "similarities": {
+        "ContextObjective": 0.4578307271003723,
+        "BenefitsAssistance": 0.5401696562767029,
+        "Eligibility": 0.4782550036907196,
+        "ApplicationProcess": 0.5708281397819519,
+        "TimelineFrequency": 0.47616881132125854,
+        "AuthoritiesGovernance": 0.44973456859588623,
+        "DefinitionsReferences": 0.5337238311767578
+      }
+    },
+    {
+      "sentence": "Additionally, a detailed project report outlining the business plan is required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5062841773033142,
+      "similarities": {
+        "ContextObjective": 0.4993356466293335,
+        "BenefitsAssistance": 0.4985312223434448,
+        "Eligibility": 0.4589109718799591,
+        "ApplicationProcess": 0.5062841773033142,
+        "TimelineFrequency": 0.4444181025028229,
+        "AuthoritiesGovernance": 0.4015752971172333,
+        "DefinitionsReferences": 0.45346295833587646
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the officials at the DIC.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6525771617889404,
+      "similarities": {
+        "ContextObjective": 0.456341952085495,
+        "BenefitsAssistance": 0.47354406118392944,
+        "Eligibility": 0.560260534286499,
+        "ApplicationProcess": 0.6525771617889404,
+        "TimelineFrequency": 0.5530845522880554,
+        "AuthoritiesGovernance": 0.5100590586662292,
+        "DefinitionsReferences": 0.4498835504055023
+      }
+    },
+    {
+      "sentence": "If the application meets all the criteria, it will be forwarded to the bank for financial assistance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6260839700698853,
+      "similarities": {
+        "ContextObjective": 0.496660977602005,
+        "BenefitsAssistance": 0.5729849338531494,
+        "Eligibility": 0.6111762523651123,
+        "ApplicationProcess": 0.6260839700698853,
+        "TimelineFrequency": 0.5415256023406982,
+        "AuthoritiesGovernance": 0.4321092367172241,
+        "DefinitionsReferences": 0.44268566370010376
+      }
+    },
+    {
+      "sentence": "The bank will assess the project and may conduct a personal interview with the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.560461163520813,
+      "similarities": {
+        "ContextObjective": 0.4456545412540436,
+        "BenefitsAssistance": 0.47397932410240173,
+        "Eligibility": 0.5491650104522705,
+        "ApplicationProcess": 0.560461163520813,
+        "TimelineFrequency": 0.4951373338699341,
+        "AuthoritiesGovernance": 0.40099889039993286,
+        "DefinitionsReferences": 0.37562304735183716
+      }
+    },
+    {
+      "sentence": "Upon approval, the bank will disburse the loan amount along with the subsidy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5300719738006592,
+      "similarities": {
+        "ContextObjective": 0.39155563712120056,
+        "BenefitsAssistance": 0.5300719738006592,
+        "Eligibility": 0.481441855430603,
+        "ApplicationProcess": 0.46464911103248596,
+        "TimelineFrequency": 0.4307788908481598,
+        "AuthoritiesGovernance": 0.40873873233795166,
+        "DefinitionsReferences": 0.38450828194618225
+      }
+    },
+    {
+      "sentence": "The timeline for the application process can vary but generally takes about 30 to 45 days from submission to approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6407477855682373,
+      "similarities": {
+        "ContextObjective": 0.46495485305786133,
+        "BenefitsAssistance": 0.47192147374153137,
+        "Eligibility": 0.5468806028366089,
+        "ApplicationProcess": 0.6276097893714905,
+        "TimelineFrequency": 0.6407477855682373,
+        "AuthoritiesGovernance": 0.44788849353790283,
+        "DefinitionsReferences": 0.43186160922050476
+      }
+    },
+    {
+      "sentence": "Disbursement of the subsidy amount is typically made after the loan has been sanctioned by the bank.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49646228551864624,
+      "similarities": {
+        "ContextObjective": 0.4248383045196533,
+        "BenefitsAssistance": 0.49646228551864624,
+        "Eligibility": 0.46890485286712646,
+        "ApplicationProcess": 0.4543430507183075,
+        "TimelineFrequency": 0.4474659860134125,
+        "AuthoritiesGovernance": 0.4359099864959717,
+        "DefinitionsReferences": 0.39605748653411865
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5642682909965515,
+      "similarities": {
+        "ContextObjective": 0.49099427461624146,
+        "BenefitsAssistance": 0.38989371061325073,
+        "Eligibility": 0.4753251373767853,
+        "ApplicationProcess": 0.4268883764743805,
+        "TimelineFrequency": 0.3788744807243347,
+        "AuthoritiesGovernance": 0.5642682909965515,
+        "DefinitionsReferences": 0.3951667249202728
+      }
+    },
+    {
+      "sentence": "The scheme is executed through various state governments and their respective District Industries Centres.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5802924633026123,
+      "similarities": {
+        "ContextObjective": 0.5496716499328613,
+        "BenefitsAssistance": 0.4535231590270996,
+        "Eligibility": 0.518827497959137,
+        "ApplicationProcess": 0.4652545154094696,
+        "TimelineFrequency": 0.46095559000968933,
+        "AuthoritiesGovernance": 0.5802924633026123,
+        "DefinitionsReferences": 0.43948426842689514
+      }
+    },
+    {
+      "sentence": "Each DIC has designated officials who are responsible for processing applications and providing guidance to entrepreneurs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5543808341026306,
+      "similarities": {
+        "ContextObjective": 0.4641048312187195,
+        "BenefitsAssistance": 0.457895964384079,
+        "Eligibility": 0.544705867767334,
+        "ApplicationProcess": 0.5470130443572998,
+        "TimelineFrequency": 0.4739611744880676,
+        "AuthoritiesGovernance": 0.5543808341026306,
+        "DefinitionsReferences": 0.4732346832752228
+      }
+    },
+    {
+      "sentence": "Contact details for the DIC can be found on the official MSME website or through local government offices.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5475524067878723,
+      "similarities": {
+        "ContextObjective": 0.43281954526901245,
+        "BenefitsAssistance": 0.5148179531097412,
+        "Eligibility": 0.4552457630634308,
+        "ApplicationProcess": 0.5069943070411682,
+        "TimelineFrequency": 0.44881996512413025,
+        "AuthoritiesGovernance": 0.5475524067878723,
+        "DefinitionsReferences": 0.4928586483001709
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes skill development through various training programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5121054649353027,
+      "similarities": {
+        "ContextObjective": 0.5121054649353027,
+        "BenefitsAssistance": 0.4186031222343445,
+        "Eligibility": 0.43360263109207153,
+        "ApplicationProcess": 0.42957839369773865,
+        "TimelineFrequency": 0.44431477785110474,
+        "AuthoritiesGovernance": 0.43462270498275757,
+        "DefinitionsReferences": 0.4458542466163635
+      }
+    },
+    {
+      "sentence": "These training programs are conducted in collaboration with various institutions and organizations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5497521162033081,
+      "similarities": {
+        "ContextObjective": 0.48780161142349243,
+        "BenefitsAssistance": 0.45334529876708984,
+        "Eligibility": 0.4802045226097107,
+        "ApplicationProcess": 0.4569668471813202,
+        "TimelineFrequency": 0.4864553213119507,
+        "AuthoritiesGovernance": 0.5497521162033081,
+        "DefinitionsReferences": 0.48083043098449707
+      }
+    },
+    {
+      "sentence": "The aim is to equip entrepreneurs with the necessary skills to manage and grow their businesses effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5525424480438232,
+      "similarities": {
+        "ContextObjective": 0.5525424480438232,
+        "BenefitsAssistance": 0.40988826751708984,
+        "Eligibility": 0.4670802354812622,
+        "ApplicationProcess": 0.43501150608062744,
+        "TimelineFrequency": 0.4360632300376892,
+        "AuthoritiesGovernance": 0.44650086760520935,
+        "DefinitionsReferences": 0.44113969802856445
+      }
+    },
+    {
+      "sentence": "The New Entrepreneur-cum-Enterprise Development Scheme is part of a larger initiative to boost the MSME sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.46199876070022583,
+      "similarities": {
+        "ContextObjective": 0.46199876070022583,
+        "BenefitsAssistance": 0.38683462142944336,
+        "Eligibility": 0.39406618475914,
+        "ApplicationProcess": 0.37826138734817505,
+        "TimelineFrequency": 0.3496638536453247,
+        "AuthoritiesGovernance": 0.3851860761642456,
+        "DefinitionsReferences": 0.34953030943870544
+      }
+    },
+    {
+      "sentence": "The MSME sector contributes significantly to the Indian economy, accounting for over 30% of the GDP.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3797570466995239,
+      "similarities": {
+        "ContextObjective": 0.3543902635574341,
+        "BenefitsAssistance": 0.3797570466995239,
+        "Eligibility": 0.3297386169433594,
+        "ApplicationProcess": 0.3106953799724579,
+        "TimelineFrequency": 0.3142834007740021,
+        "AuthoritiesGovernance": 0.33721834421157837,
+        "DefinitionsReferences": 0.3362092673778534
+      }
+    },
+    {
+      "sentence": "It also provides employment to more than 110 million people across the country.",
+      "role": "Eligibility",
+      "confidence": 0.4342316687107086,
+      "similarities": {
+        "ContextObjective": 0.40047794580459595,
+        "BenefitsAssistance": 0.4215218424797058,
+        "Eligibility": 0.4342316687107086,
+        "ApplicationProcess": 0.3330196142196655,
+        "TimelineFrequency": 0.34579670429229736,
+        "AuthoritiesGovernance": 0.37983444333076477,
+        "DefinitionsReferences": 0.36556246876716614
+      }
+    },
+    {
+      "sentence": "The government recognizes the importance of nurturing new entrepreneurs to sustain this growth.",
+      "role": "ContextObjective",
+      "confidence": 0.4362674951553345,
+      "similarities": {
+        "ContextObjective": 0.4362674951553345,
+        "BenefitsAssistance": 0.36670711636543274,
+        "Eligibility": 0.411783903837204,
+        "ApplicationProcess": 0.37584319710731506,
+        "TimelineFrequency": 0.35549867153167725,
+        "AuthoritiesGovernance": 0.37841928005218506,
+        "DefinitionsReferences": 0.37475407123565674
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme provides mentorship and advisory services to new entrepreneurs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5012447237968445,
+      "similarities": {
+        "ContextObjective": 0.47980549931526184,
+        "BenefitsAssistance": 0.5012447237968445,
+        "Eligibility": 0.43632352352142334,
+        "ApplicationProcess": 0.39062508940696716,
+        "TimelineFrequency": 0.38812220096588135,
+        "AuthoritiesGovernance": 0.36170560121536255,
+        "DefinitionsReferences": 0.39784717559814453
+      }
+    },
+    {
+      "sentence": "This includes guidance on business planning, marketing strategies, and operational management.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5413798093795776,
+      "similarities": {
+        "ContextObjective": 0.5025010704994202,
+        "BenefitsAssistance": 0.5020811557769775,
+        "Eligibility": 0.44979414343833923,
+        "ApplicationProcess": 0.4630550146102905,
+        "TimelineFrequency": 0.4833987355232239,
+        "AuthoritiesGovernance": 0.45626014471054077,
+        "DefinitionsReferences": 0.5413798093795776
+      }
+    },
+    {
+      "sentence": "The scheme also encourages women entrepreneurs by providing additional incentives.",
+      "role": "ContextObjective",
+      "confidence": 0.4691520631313324,
+      "similarities": {
+        "ContextObjective": 0.4691520631313324,
+        "BenefitsAssistance": 0.40912866592407227,
+        "Eligibility": 0.42969179153442383,
+        "ApplicationProcess": 0.37300631403923035,
+        "TimelineFrequency": 0.38718122243881226,
+        "AuthoritiesGovernance": 0.35424521565437317,
+        "DefinitionsReferences": 0.3468077480792999
+      }
+    },
+    {
+      "sentence": "Women entrepreneurs can avail of a higher subsidy percentage compared to their male counterparts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4056396484375,
+      "similarities": {
+        "ContextObjective": 0.35975170135498047,
+        "BenefitsAssistance": 0.4056396484375,
+        "Eligibility": 0.4051099121570587,
+        "ApplicationProcess": 0.31817495822906494,
+        "TimelineFrequency": 0.34855756163597107,
+        "AuthoritiesGovernance": 0.3520592451095581,
+        "DefinitionsReferences": 0.33140212297439575
+      }
+    },
+    {
+      "sentence": "The scheme has seen a positive response since its launch, with thousands of applications being received annually.",
+      "role": "ContextObjective",
+      "confidence": 0.5792952179908752,
+      "similarities": {
+        "ContextObjective": 0.5792952179908752,
+        "BenefitsAssistance": 0.4271521270275116,
+        "Eligibility": 0.49438539147377014,
+        "ApplicationProcess": 0.49879276752471924,
+        "TimelineFrequency": 0.481051504611969,
+        "AuthoritiesGovernance": 0.365500807762146,
+        "DefinitionsReferences": 0.37325429916381836
+      }
+    },
+    {
+      "sentence": "The government has set up a monitoring mechanism to evaluate the progress of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5294392108917236,
+      "similarities": {
+        "ContextObjective": 0.5294392108917236,
+        "BenefitsAssistance": 0.46981725096702576,
+        "Eligibility": 0.5021145343780518,
+        "ApplicationProcess": 0.5276412963867188,
+        "TimelineFrequency": 0.45020508766174316,
+        "AuthoritiesGovernance": 0.5103006362915039,
+        "DefinitionsReferences": 0.42869263887405396
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to ensure that the objectives are being met and to make necessary adjustments.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5474991798400879,
+      "similarities": {
+        "ContextObjective": 0.47745734453201294,
+        "BenefitsAssistance": 0.46732097864151,
+        "Eligibility": 0.5088707208633423,
+        "ApplicationProcess": 0.5474991798400879,
+        "TimelineFrequency": 0.5191233158111572,
+        "AuthoritiesGovernance": 0.5234607458114624,
+        "DefinitionsReferences": 0.4680020213127136
+      }
+    },
+    {
+      "sentence": "In conclusion, the New Entrepreneur-cum-Enterprise Development Scheme is a comprehensive initiative aimed at fostering entrepreneurship in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5074251890182495,
+      "similarities": {
+        "ContextObjective": 0.5074251890182495,
+        "BenefitsAssistance": 0.40542852878570557,
+        "Eligibility": 0.4163024127483368,
+        "ApplicationProcess": 0.393585205078125,
+        "TimelineFrequency": 0.3683359920978546,
+        "AuthoritiesGovernance": 0.3909732699394226,
+        "DefinitionsReferences": 0.36423414945602417
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, skill development, and mentorship, the scheme seeks to empower the youth and promote economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.47955119609832764,
+      "similarities": {
+        "ContextObjective": 0.47955119609832764,
+        "BenefitsAssistance": 0.4175494313240051,
+        "Eligibility": 0.3935442268848419,
+        "ApplicationProcess": 0.3631497621536255,
+        "TimelineFrequency": 0.3418855369091034,
+        "AuthoritiesGovernance": 0.3351515233516693,
+        "DefinitionsReferences": 0.3418700695037842
+      }
+    },
+    {
+      "sentence": "The specific eligibility criteria and application process ensure that the benefits reach the intended beneficiaries effectively.",
+      "role": "Eligibility",
+      "confidence": 0.6616681814193726,
+      "similarities": {
+        "ContextObjective": 0.5631154775619507,
+        "BenefitsAssistance": 0.4946432411670685,
+        "Eligibility": 0.6616681814193726,
+        "ApplicationProcess": 0.5878496766090393,
+        "TimelineFrequency": 0.5357651114463806,
+        "AuthoritiesGovernance": 0.4764278531074524,
+        "DefinitionsReferences": 0.4043891429901123
+      }
+    },
+    {
+      "sentence": "With a focus on creating new enterprises and generating employment, the scheme plays a crucial role in the overall development of the MSME sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5101935863494873,
+      "similarities": {
+        "ContextObjective": 0.5101935863494873,
+        "BenefitsAssistance": 0.3837219774723053,
+        "Eligibility": 0.43550628423690796,
+        "ApplicationProcess": 0.4145493507385254,
+        "TimelineFrequency": 0.3867392838001251,
+        "AuthoritiesGovernance": 0.3944806754589081,
+        "DefinitionsReferences": 0.37233424186706543
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 17,
+    "BenefitsAssistance": 9,
+    "Eligibility": 5,
+    "ApplicationProcess": 11,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 5,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-24T21:01:06.020468"
+}

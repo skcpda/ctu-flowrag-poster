@@ -1,0 +1,841 @@
+{
+  "scheme_name": "NAMO Shree Scheme",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The NAMO Shree Scheme was launched by the Government of India on 1st October 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5849541425704956,
+      "similarities": {
+        "ContextObjective": 0.5849541425704956,
+        "BenefitsAssistance": 0.43326106667518616,
+        "Eligibility": 0.5119482278823853,
+        "ApplicationProcess": 0.4705047607421875,
+        "TimelineFrequency": 0.47093433141708374,
+        "AuthoritiesGovernance": 0.4604493975639343,
+        "DefinitionsReferences": 0.36079642176628113
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.541658341884613,
+      "similarities": {
+        "ContextObjective": 0.541658341884613,
+        "BenefitsAssistance": 0.49453407526016235,
+        "Eligibility": 0.512358546257019,
+        "ApplicationProcess": 0.42827853560447693,
+        "TimelineFrequency": 0.4149889051914215,
+        "AuthoritiesGovernance": 0.4202129542827606,
+        "DefinitionsReferences": 0.3438624143600464
+      }
+    },
+    {
+      "sentence": "The primary objective of the NAMO Shree Scheme is to empower marginalized communities by offering them financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.5284164547920227,
+      "similarities": {
+        "ContextObjective": 0.5284164547920227,
+        "BenefitsAssistance": 0.4379633367061615,
+        "Eligibility": 0.454717755317688,
+        "ApplicationProcess": 0.36826664209365845,
+        "TimelineFrequency": 0.33405354619026184,
+        "AuthoritiesGovernance": 0.38462603092193604,
+        "DefinitionsReferences": 0.3109402060508728
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "ContextObjective",
+      "confidence": 0.5299330353736877,
+      "similarities": {
+        "ContextObjective": 0.5299330353736877,
+        "BenefitsAssistance": 0.42685893177986145,
+        "Eligibility": 0.528005838394165,
+        "ApplicationProcess": 0.40881791710853577,
+        "TimelineFrequency": 0.4316732883453369,
+        "AuthoritiesGovernance": 0.4150477647781372,
+        "DefinitionsReferences": 0.38378387689590454
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of reaching at least 1 million beneficiaries in its first year.",
+      "role": "ContextObjective",
+      "confidence": 0.527118444442749,
+      "similarities": {
+        "ContextObjective": 0.527118444442749,
+        "BenefitsAssistance": 0.4550088346004486,
+        "Eligibility": 0.5159599781036377,
+        "ApplicationProcess": 0.41083139181137085,
+        "TimelineFrequency": 0.38201573491096497,
+        "AuthoritiesGovernance": 0.41148364543914795,
+        "DefinitionsReferences": 0.35744398832321167
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the NAMO Shree Scheme is set at ₹6,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49529600143432617,
+      "similarities": {
+        "ContextObjective": 0.4067801833152771,
+        "BenefitsAssistance": 0.49529600143432617,
+        "Eligibility": 0.457125723361969,
+        "ApplicationProcess": 0.40354275703430176,
+        "TimelineFrequency": 0.3613729476928711,
+        "AuthoritiesGovernance": 0.3429073691368103,
+        "DefinitionsReferences": 0.3329283595085144
+      }
+    },
+    {
+      "sentence": "This amount is intended to help beneficiaries meet their basic needs and improve their standard of living.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5805692076683044,
+      "similarities": {
+        "ContextObjective": 0.4929635226726532,
+        "BenefitsAssistance": 0.5805692076683044,
+        "Eligibility": 0.535496175289154,
+        "ApplicationProcess": 0.4494774043560028,
+        "TimelineFrequency": 0.4207964241504669,
+        "AuthoritiesGovernance": 0.4681628346443176,
+        "DefinitionsReferences": 0.43152886629104614
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote self-reliance among the targeted communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5720897912979126,
+      "similarities": {
+        "ContextObjective": 0.5720897912979126,
+        "BenefitsAssistance": 0.41414886713027954,
+        "Eligibility": 0.48491281270980835,
+        "ApplicationProcess": 0.39231038093566895,
+        "TimelineFrequency": 0.36917099356651306,
+        "AuthoritiesGovernance": 0.4120306372642517,
+        "DefinitionsReferences": 0.35393667221069336
+      }
+    },
+    {
+      "sentence": "Eligibility for the NAMO Shree Scheme is limited to individuals belonging to Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.5771147012710571,
+      "similarities": {
+        "ContextObjective": 0.4109854996204376,
+        "BenefitsAssistance": 0.3684886693954468,
+        "Eligibility": 0.5771147012710571,
+        "ApplicationProcess": 0.41377753019332886,
+        "TimelineFrequency": 0.4103653132915497,
+        "AuthoritiesGovernance": 0.3404511511325836,
+        "DefinitionsReferences": 0.29398298263549805
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of India and must be at least 18 years of age.",
+      "role": "Eligibility",
+      "confidence": 0.6166256666183472,
+      "similarities": {
+        "ContextObjective": 0.477511465549469,
+        "BenefitsAssistance": 0.4431806206703186,
+        "Eligibility": 0.6166256666183472,
+        "ApplicationProcess": 0.5753904581069946,
+        "TimelineFrequency": 0.5163772106170654,
+        "AuthoritiesGovernance": 0.41753172874450684,
+        "DefinitionsReferences": 0.3970850706100464
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹2.5 lakh per annum for families.",
+      "role": "Eligibility",
+      "confidence": 0.5777119398117065,
+      "similarities": {
+        "ContextObjective": 0.421193927526474,
+        "BenefitsAssistance": 0.49441155791282654,
+        "Eligibility": 0.5777119398117065,
+        "ApplicationProcess": 0.4509768486022949,
+        "TimelineFrequency": 0.43231308460235596,
+        "AuthoritiesGovernance": 0.35297149419784546,
+        "DefinitionsReferences": 0.3664877116680145
+      }
+    },
+    {
+      "sentence": "This income criterion ensures that only those who truly need assistance can benefit from the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5389556288719177,
+      "similarities": {
+        "ContextObjective": 0.4656805694103241,
+        "BenefitsAssistance": 0.4463525712490082,
+        "Eligibility": 0.5389556288719177,
+        "ApplicationProcess": 0.38848403096199036,
+        "TimelineFrequency": 0.36182621121406555,
+        "AuthoritiesGovernance": 0.3437230587005615,
+        "DefinitionsReferences": 0.27901557087898254
+      }
+    },
+    {
+      "sentence": "The application process for the NAMO Shree Scheme is designed to be user-friendly and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5716986060142517,
+      "similarities": {
+        "ContextObjective": 0.509458601474762,
+        "BenefitsAssistance": 0.44981569051742554,
+        "Eligibility": 0.5438746809959412,
+        "ApplicationProcess": 0.5716986060142517,
+        "TimelineFrequency": 0.48305803537368774,
+        "AuthoritiesGovernance": 0.4161227345466614,
+        "DefinitionsReferences": 0.3819136917591095
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the Ministry of Social Justice and Empowerment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5749409794807434,
+      "similarities": {
+        "ContextObjective": 0.48684239387512207,
+        "BenefitsAssistance": 0.3982461988925934,
+        "Eligibility": 0.545245885848999,
+        "ApplicationProcess": 0.5749409794807434,
+        "TimelineFrequency": 0.46454882621765137,
+        "AuthoritiesGovernance": 0.46161630749702454,
+        "DefinitionsReferences": 0.41862952709198
+      }
+    },
+    {
+      "sentence": "They will need to fill out an online application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7392746210098267,
+      "similarities": {
+        "ContextObjective": 0.4645344614982605,
+        "BenefitsAssistance": 0.49556252360343933,
+        "Eligibility": 0.6061229109764099,
+        "ApplicationProcess": 0.7392746210098267,
+        "TimelineFrequency": 0.5572434663772583,
+        "AuthoritiesGovernance": 0.4421585500240326,
+        "DefinitionsReferences": 0.4368464946746826
+      }
+    },
+    {
+      "sentence": "Required documents include proof of identity such as an Aadhaar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.594973087310791,
+      "similarities": {
+        "ContextObjective": 0.452182799577713,
+        "BenefitsAssistance": 0.5283850431442261,
+        "Eligibility": 0.5076966285705566,
+        "ApplicationProcess": 0.594973087310791,
+        "TimelineFrequency": 0.4649379253387451,
+        "AuthoritiesGovernance": 0.44599229097366333,
+        "DefinitionsReferences": 0.510478138923645
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of income, such as salary slips or income certificates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6061767339706421,
+      "similarities": {
+        "ContextObjective": 0.4361903667449951,
+        "BenefitsAssistance": 0.5405879020690918,
+        "Eligibility": 0.5422083139419556,
+        "ApplicationProcess": 0.6061767339706421,
+        "TimelineFrequency": 0.5103681087493896,
+        "AuthoritiesGovernance": 0.39168471097946167,
+        "DefinitionsReferences": 0.4778873920440674
+      }
+    },
+    {
+      "sentence": "Additionally, a caste certificate is necessary to confirm eligibility under the specific categories.",
+      "role": "Eligibility",
+      "confidence": 0.5606083869934082,
+      "similarities": {
+        "ContextObjective": 0.44839194416999817,
+        "BenefitsAssistance": 0.450286328792572,
+        "Eligibility": 0.5606083869934082,
+        "ApplicationProcess": 0.5499706864356995,
+        "TimelineFrequency": 0.4721882939338684,
+        "AuthoritiesGovernance": 0.40261605381965637,
+        "DefinitionsReferences": 0.41903504729270935
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the designated authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6603792309761047,
+      "similarities": {
+        "ContextObjective": 0.49965423345565796,
+        "BenefitsAssistance": 0.4375447630882263,
+        "Eligibility": 0.6056277751922607,
+        "ApplicationProcess": 0.6603792309761047,
+        "TimelineFrequency": 0.5672628879547119,
+        "AuthoritiesGovernance": 0.5256861448287964,
+        "DefinitionsReferences": 0.49561476707458496
+      }
+    },
+    {
+      "sentence": "The government aims to process applications within 30 days of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6005567312240601,
+      "similarities": {
+        "ContextObjective": 0.5287237167358398,
+        "BenefitsAssistance": 0.4565514326095581,
+        "Eligibility": 0.5745294094085693,
+        "ApplicationProcess": 0.5857142806053162,
+        "TimelineFrequency": 0.6005567312240601,
+        "AuthoritiesGovernance": 0.5075268149375916,
+        "DefinitionsReferences": 0.4500861167907715
+      }
+    },
+    {
+      "sentence": "Successful applicants will receive the financial assistance directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5512076616287231,
+      "similarities": {
+        "ContextObjective": 0.43689262866973877,
+        "BenefitsAssistance": 0.5512076616287231,
+        "Eligibility": 0.5498314499855042,
+        "ApplicationProcess": 0.5468457937240601,
+        "TimelineFrequency": 0.4691544771194458,
+        "AuthoritiesGovernance": 0.42702075839042664,
+        "DefinitionsReferences": 0.3814140558242798
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is scheduled to take place on a quarterly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5953657031059265,
+      "similarities": {
+        "ContextObjective": 0.49891215562820435,
+        "BenefitsAssistance": 0.5953657031059265,
+        "Eligibility": 0.5201699137687683,
+        "ApplicationProcess": 0.4915890693664551,
+        "TimelineFrequency": 0.5675151348114014,
+        "AuthoritiesGovernance": 0.5024779438972473,
+        "DefinitionsReferences": 0.437881201505661
+      }
+    },
+    {
+      "sentence": "This means beneficiaries can expect to receive ₹1,500 every three months.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5106164216995239,
+      "similarities": {
+        "ContextObjective": 0.44025662541389465,
+        "BenefitsAssistance": 0.5106164216995239,
+        "Eligibility": 0.48034578561782837,
+        "ApplicationProcess": 0.3920043110847473,
+        "TimelineFrequency": 0.4337347745895386,
+        "AuthoritiesGovernance": 0.36695584654808044,
+        "DefinitionsReferences": 0.34543830156326294
+      }
+    },
+    {
+      "sentence": "The NAMO Shree Scheme is implemented by the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5249563455581665,
+      "similarities": {
+        "ContextObjective": 0.5194810032844543,
+        "BenefitsAssistance": 0.4129732847213745,
+        "Eligibility": 0.474834680557251,
+        "ApplicationProcess": 0.442581444978714,
+        "TimelineFrequency": 0.3769840598106384,
+        "AuthoritiesGovernance": 0.5249563455581665,
+        "DefinitionsReferences": 0.3707152307033539
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6176396608352661,
+      "similarities": {
+        "ContextObjective": 0.4984424114227295,
+        "BenefitsAssistance": 0.5858836770057678,
+        "Eligibility": 0.5938441157341003,
+        "ApplicationProcess": 0.6176396608352661,
+        "TimelineFrequency": 0.5696287155151367,
+        "AuthoritiesGovernance": 0.5828471183776855,
+        "DefinitionsReferences": 0.45956549048423767
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, beneficiaries can contact the Ministry at their official helpline number.",
+      "role": "Eligibility",
+      "confidence": 0.5040028095245361,
+      "similarities": {
+        "ContextObjective": 0.4033438563346863,
+        "BenefitsAssistance": 0.49148908257484436,
+        "Eligibility": 0.5040028095245361,
+        "ApplicationProcess": 0.4495314955711365,
+        "TimelineFrequency": 0.37251028418540955,
+        "AuthoritiesGovernance": 0.5015378594398499,
+        "DefinitionsReferences": 0.3826419413089752
+      }
+    },
+    {
+      "sentence": "The helpline number is 1800 180 1111.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48989081382751465,
+      "similarities": {
+        "ContextObjective": 0.3791227638721466,
+        "BenefitsAssistance": 0.48989081382751465,
+        "Eligibility": 0.430569052696228,
+        "ApplicationProcess": 0.4135217070579529,
+        "TimelineFrequency": 0.40225839614868164,
+        "AuthoritiesGovernance": 0.4394284188747406,
+        "DefinitionsReferences": 0.3509039878845215
+      }
+    },
+    {
+      "sentence": "The scheme has been positively received by various stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.6041315197944641,
+      "similarities": {
+        "ContextObjective": 0.6041315197944641,
+        "BenefitsAssistance": 0.4914710521697998,
+        "Eligibility": 0.5352196097373962,
+        "ApplicationProcess": 0.47754669189453125,
+        "TimelineFrequency": 0.43603524565696716,
+        "AuthoritiesGovernance": 0.4837188720703125,
+        "DefinitionsReferences": 0.4370619058609009
+      }
+    },
+    {
+      "sentence": "It is seen as a step towards reducing poverty among marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.4676288962364197,
+      "similarities": {
+        "ContextObjective": 0.4676288962364197,
+        "BenefitsAssistance": 0.3996801972389221,
+        "Eligibility": 0.44496697187423706,
+        "ApplicationProcess": 0.3868892192840576,
+        "TimelineFrequency": 0.328315794467926,
+        "AuthoritiesGovernance": 0.45250043272972107,
+        "DefinitionsReferences": 0.3807082772254944
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹600 crore for the first year of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.48723071813583374,
+      "similarities": {
+        "ContextObjective": 0.48723071813583374,
+        "BenefitsAssistance": 0.465535432100296,
+        "Eligibility": 0.45967644453048706,
+        "ApplicationProcess": 0.4326174259185791,
+        "TimelineFrequency": 0.4099016487598419,
+        "AuthoritiesGovernance": 0.4074689745903015,
+        "DefinitionsReferences": 0.3611510396003723
+      }
+    },
+    {
+      "sentence": "This budget is expected to cover the financial assistance for the targeted beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5895602703094482,
+      "similarities": {
+        "ContextObjective": 0.48179537057876587,
+        "BenefitsAssistance": 0.5895602703094482,
+        "Eligibility": 0.5601277947425842,
+        "ApplicationProcess": 0.3942487835884094,
+        "TimelineFrequency": 0.41751009225845337,
+        "AuthoritiesGovernance": 0.465834379196167,
+        "DefinitionsReferences": 0.4048769474029541
+      }
+    },
+    {
+      "sentence": "The NAMO Shree Scheme is part of a broader initiative to enhance social welfare in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5202727317810059,
+      "similarities": {
+        "ContextObjective": 0.5202727317810059,
+        "BenefitsAssistance": 0.4373948574066162,
+        "Eligibility": 0.4751211106777191,
+        "ApplicationProcess": 0.4122264087200165,
+        "TimelineFrequency": 0.3636733889579773,
+        "AuthoritiesGovernance": 0.42997434735298157,
+        "DefinitionsReferences": 0.3637068271636963
+      }
+    },
+    {
+      "sentence": "It aligns with the government's commitment to uplift the economically disadvantaged.",
+      "role": "ContextObjective",
+      "confidence": 0.4504659175872803,
+      "similarities": {
+        "ContextObjective": 0.4504659175872803,
+        "BenefitsAssistance": 0.42299968004226685,
+        "Eligibility": 0.4391048848628998,
+        "ApplicationProcess": 0.3719916045665741,
+        "TimelineFrequency": 0.3328407108783722,
+        "AuthoritiesGovernance": 0.40593135356903076,
+        "DefinitionsReferences": 0.3761262893676758
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote financial inclusion among the targeted communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5544353723526001,
+      "similarities": {
+        "ContextObjective": 0.5544353723526001,
+        "BenefitsAssistance": 0.49816280603408813,
+        "Eligibility": 0.5464052557945251,
+        "ApplicationProcess": 0.406411737203598,
+        "TimelineFrequency": 0.3821333944797516,
+        "AuthoritiesGovernance": 0.4012874364852905,
+        "DefinitionsReferences": 0.34211596846580505
+      }
+    },
+    {
+      "sentence": "By providing direct cash transfers, the government hopes to reduce dependency on intermediaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47003480792045593,
+      "similarities": {
+        "ContextObjective": 0.3986169099807739,
+        "BenefitsAssistance": 0.47003480792045593,
+        "Eligibility": 0.43591439723968506,
+        "ApplicationProcess": 0.39933526515960693,
+        "TimelineFrequency": 0.3402538597583771,
+        "AuthoritiesGovernance": 0.40379461646080017,
+        "DefinitionsReferences": 0.3389975428581238
+      }
+    },
+    {
+      "sentence": "This approach is designed to ensure that the benefits reach the intended recipients without delays.",
+      "role": "Eligibility",
+      "confidence": 0.4982190728187561,
+      "similarities": {
+        "ContextObjective": 0.4850442111492157,
+        "BenefitsAssistance": 0.46067991852760315,
+        "Eligibility": 0.4982190728187561,
+        "ApplicationProcess": 0.45019465684890747,
+        "TimelineFrequency": 0.46755704283714294,
+        "AuthoritiesGovernance": 0.4318532645702362,
+        "DefinitionsReferences": 0.3427647054195404
+      }
+    },
+    {
+      "sentence": "The NAMO Shree Scheme is part of the larger framework of welfare schemes introduced by the Modi government.",
+      "role": "ContextObjective",
+      "confidence": 0.5422196388244629,
+      "similarities": {
+        "ContextObjective": 0.5422196388244629,
+        "BenefitsAssistance": 0.481649786233902,
+        "Eligibility": 0.5058284401893616,
+        "ApplicationProcess": 0.4557976722717285,
+        "TimelineFrequency": 0.42274439334869385,
+        "AuthoritiesGovernance": 0.48677048087120056,
+        "DefinitionsReferences": 0.4148445725440979
+      }
+    },
+    {
+      "sentence": "It complements existing programs aimed at poverty alleviation and social empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.537964403629303,
+      "similarities": {
+        "ContextObjective": 0.537964403629303,
+        "BenefitsAssistance": 0.4556468725204468,
+        "Eligibility": 0.4306154251098633,
+        "ApplicationProcess": 0.38958925008773804,
+        "TimelineFrequency": 0.36003702878952026,
+        "AuthoritiesGovernance": 0.43368983268737793,
+        "DefinitionsReferences": 0.3904656171798706
+      }
+    },
+    {
+      "sentence": "The government is also focusing on creating awareness about the scheme among potential beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5765561461448669,
+      "similarities": {
+        "ContextObjective": 0.5765561461448669,
+        "BenefitsAssistance": 0.49796760082244873,
+        "Eligibility": 0.5578812956809998,
+        "ApplicationProcess": 0.48142069578170776,
+        "TimelineFrequency": 0.3987457752227783,
+        "AuthoritiesGovernance": 0.4646669924259186,
+        "DefinitionsReferences": 0.4065701961517334
+      }
+    },
+    {
+      "sentence": "Workshops and informational sessions are being organized at the grassroots level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5799884796142578,
+      "similarities": {
+        "ContextObjective": 0.5116326212882996,
+        "BenefitsAssistance": 0.4481472373008728,
+        "Eligibility": 0.46175241470336914,
+        "ApplicationProcess": 0.4508526027202606,
+        "TimelineFrequency": 0.4248518645763397,
+        "AuthoritiesGovernance": 0.5799884796142578,
+        "DefinitionsReferences": 0.4855087995529175
+      }
+    },
+    {
+      "sentence": "These initiatives aim to educate communities about the application process and benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.5614797472953796,
+      "similarities": {
+        "ContextObjective": 0.5614797472953796,
+        "BenefitsAssistance": 0.4768383204936981,
+        "Eligibility": 0.5526833534240723,
+        "ApplicationProcess": 0.5584280490875244,
+        "TimelineFrequency": 0.5307172536849976,
+        "AuthoritiesGovernance": 0.4981095790863037,
+        "DefinitionsReferences": 0.4447368085384369
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a significant impact on the livelihoods of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.539648711681366,
+      "similarities": {
+        "ContextObjective": 0.516360878944397,
+        "BenefitsAssistance": 0.5017142295837402,
+        "Eligibility": 0.539648711681366,
+        "ApplicationProcess": 0.40954625606536865,
+        "TimelineFrequency": 0.3900364339351654,
+        "AuthoritiesGovernance": 0.4392266869544983,
+        "DefinitionsReferences": 0.40389466285705566
+      }
+    },
+    {
+      "sentence": "By providing a stable source of income, it aims to improve their quality of life.",
+      "role": "ContextObjective",
+      "confidence": 0.4897097945213318,
+      "similarities": {
+        "ContextObjective": 0.4897097945213318,
+        "BenefitsAssistance": 0.46499210596084595,
+        "Eligibility": 0.4866422712802887,
+        "ApplicationProcess": 0.4362640678882599,
+        "TimelineFrequency": 0.38726672530174255,
+        "AuthoritiesGovernance": 0.4248610734939575,
+        "DefinitionsReferences": 0.3966835141181946
+      }
+    },
+    {
+      "sentence": "The NAMO Shree Scheme is also expected to contribute to the overall economic development of the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4541369378566742,
+      "similarities": {
+        "ContextObjective": 0.4541369378566742,
+        "BenefitsAssistance": 0.4074532985687256,
+        "Eligibility": 0.3911587595939636,
+        "ApplicationProcess": 0.3909057378768921,
+        "TimelineFrequency": 0.3303951919078827,
+        "AuthoritiesGovernance": 0.3737443685531616,
+        "DefinitionsReferences": 0.3500320017337799
+      }
+    },
+    {
+      "sentence": "As beneficiaries gain financial independence, they are likely to invest in education and health.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5375968217849731,
+      "similarities": {
+        "ContextObjective": 0.44274216890335083,
+        "BenefitsAssistance": 0.5375968217849731,
+        "Eligibility": 0.48372575640678406,
+        "ApplicationProcess": 0.4014931321144104,
+        "TimelineFrequency": 0.3860492408275604,
+        "AuthoritiesGovernance": 0.38546881079673767,
+        "DefinitionsReferences": 0.40047311782836914
+      }
+    },
+    {
+      "sentence": "This can lead to a positive cycle of development within marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.47740092873573303,
+      "similarities": {
+        "ContextObjective": 0.47740092873573303,
+        "BenefitsAssistance": 0.368374228477478,
+        "Eligibility": 0.4347192049026489,
+        "ApplicationProcess": 0.3596513867378235,
+        "TimelineFrequency": 0.4026757776737213,
+        "AuthoritiesGovernance": 0.410344660282135,
+        "DefinitionsReferences": 0.3819490969181061
+      }
+    },
+    {
+      "sentence": "The government is committed to monitoring the progress of the NAMO Shree Scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4911227524280548,
+      "similarities": {
+        "ContextObjective": 0.45943114161491394,
+        "BenefitsAssistance": 0.418464720249176,
+        "Eligibility": 0.4541511833667755,
+        "ApplicationProcess": 0.4911227524280548,
+        "TimelineFrequency": 0.39444974064826965,
+        "AuthoritiesGovernance": 0.4448261260986328,
+        "DefinitionsReferences": 0.39794448018074036
+      }
+    },
+    {
+      "sentence": "Regular evaluations will be conducted to assess its impact and effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5295669436454773,
+      "similarities": {
+        "ContextObjective": 0.47493478655815125,
+        "BenefitsAssistance": 0.48327475786209106,
+        "Eligibility": 0.49786949157714844,
+        "ApplicationProcess": 0.4863535761833191,
+        "TimelineFrequency": 0.49273329973220825,
+        "AuthoritiesGovernance": 0.5295669436454773,
+        "DefinitionsReferences": 0.48113811016082764
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will also be collected to improve the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5276672840118408,
+      "similarities": {
+        "ContextObjective": 0.5157109498977661,
+        "BenefitsAssistance": 0.4962759017944336,
+        "Eligibility": 0.5276672840118408,
+        "ApplicationProcess": 0.4661388397216797,
+        "TimelineFrequency": 0.4253706932067871,
+        "AuthoritiesGovernance": 0.48172426223754883,
+        "DefinitionsReferences": 0.4149818420410156
+      }
+    },
+    {
+      "sentence": "The NAMO Shree Scheme is a testament to the government's focus on inclusive growth.",
+      "role": "ContextObjective",
+      "confidence": 0.5041971206665039,
+      "similarities": {
+        "ContextObjective": 0.5041971206665039,
+        "BenefitsAssistance": 0.4346999526023865,
+        "Eligibility": 0.4600488841533661,
+        "ApplicationProcess": 0.37465327978134155,
+        "TimelineFrequency": 0.35042017698287964,
+        "AuthoritiesGovernance": 0.3717733919620514,
+        "DefinitionsReferences": 0.3798459470272064
+      }
+    },
+    {
+      "sentence": "It reflects a commitment to ensuring that no one is left behind in the development process.",
+      "role": "ContextObjective",
+      "confidence": 0.43058401346206665,
+      "similarities": {
+        "ContextObjective": 0.43058401346206665,
+        "BenefitsAssistance": 0.3667299747467041,
+        "Eligibility": 0.42999884486198425,
+        "ApplicationProcess": 0.4200808107852936,
+        "TimelineFrequency": 0.36653923988342285,
+        "AuthoritiesGovernance": 0.4051339626312256,
+        "DefinitionsReferences": 0.3666340112686157
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time based on the needs of the communities it serves.",
+      "role": "ContextObjective",
+      "confidence": 0.6050490140914917,
+      "similarities": {
+        "ContextObjective": 0.6050490140914917,
+        "BenefitsAssistance": 0.48136284947395325,
+        "Eligibility": 0.5437254905700684,
+        "ApplicationProcess": 0.4749976694583893,
+        "TimelineFrequency": 0.48917651176452637,
+        "AuthoritiesGovernance": 0.4894724488258362,
+        "DefinitionsReferences": 0.4345589578151703
+      }
+    },
+    {
+      "sentence": "In conclusion, the NAMO Shree Scheme is a significant initiative aimed at empowering marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5103315711021423,
+      "similarities": {
+        "ContextObjective": 0.5103315711021423,
+        "BenefitsAssistance": 0.37453562021255493,
+        "Eligibility": 0.42597365379333496,
+        "ApplicationProcess": 0.3658331036567688,
+        "TimelineFrequency": 0.3294003903865814,
+        "AuthoritiesGovernance": 0.3798590898513794,
+        "DefinitionsReferences": 0.3260180354118347
+      }
+    },
+    {
+      "sentence": "With its targeted financial assistance and focus on self-reliance, it has the potential to transform lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5034337639808655,
+      "similarities": {
+        "ContextObjective": 0.5034337639808655,
+        "BenefitsAssistance": 0.5028188228607178,
+        "Eligibility": 0.47629427909851074,
+        "ApplicationProcess": 0.3892822861671448,
+        "TimelineFrequency": 0.3759841024875641,
+        "AuthoritiesGovernance": 0.37500423192977905,
+        "DefinitionsReferences": 0.3741832375526428
+      }
+    },
+    {
+      "sentence": "The government’s commitment to monitoring and improving the scheme further enhances its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.4897538125514984,
+      "similarities": {
+        "ContextObjective": 0.4897538125514984,
+        "BenefitsAssistance": 0.41464316844940186,
+        "Eligibility": 0.43840330839157104,
+        "ApplicationProcess": 0.4364021420478821,
+        "TimelineFrequency": 0.39368659257888794,
+        "AuthoritiesGovernance": 0.4474220871925354,
+        "DefinitionsReferences": 0.39659494161605835
+      }
+    },
+    {
+      "sentence": "This scheme is a crucial step towards achieving social equity and economic justice in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5198157429695129,
+      "similarities": {
+        "ContextObjective": 0.5198157429695129,
+        "BenefitsAssistance": 0.3900626301765442,
+        "Eligibility": 0.4525354504585266,
+        "ApplicationProcess": 0.424256831407547,
+        "TimelineFrequency": 0.34823134541511536,
+        "AuthoritiesGovernance": 0.40752825140953064,
+        "DefinitionsReferences": 0.365848183631897
+      }
+    },
+    {
+      "sentence": "It is essential for eligible individuals to take advantage of this opportunity.",
+      "role": "Eligibility",
+      "confidence": 0.5947011113166809,
+      "similarities": {
+        "ContextObjective": 0.5368356704711914,
+        "BenefitsAssistance": 0.4788987934589386,
+        "Eligibility": 0.5947011113166809,
+        "ApplicationProcess": 0.5339644551277161,
+        "TimelineFrequency": 0.5137538909912109,
+        "AuthoritiesGovernance": 0.39600175619125366,
+        "DefinitionsReferences": 0.41581979393959045
+      }
+    },
+    {
+      "sentence": "By applying for the NAMO Shree Scheme, they can access much-needed financial support.",
+      "role": "Eligibility",
+      "confidence": 0.5314573049545288,
+      "similarities": {
+        "ContextObjective": 0.4790841042995453,
+        "BenefitsAssistance": 0.5155918002128601,
+        "Eligibility": 0.5314573049545288,
+        "ApplicationProcess": 0.4990878105163574,
+        "TimelineFrequency": 0.42104339599609375,
+        "AuthoritiesGovernance": 0.3648732900619507,
+        "DefinitionsReferences": 0.3589709401130676
+      }
+    },
+    {
+      "sentence": "This initiative is a vital part of India's ongoing efforts to uplift the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.46874916553497314,
+      "similarities": {
+        "ContextObjective": 0.46874916553497314,
+        "BenefitsAssistance": 0.3921632766723633,
+        "Eligibility": 0.4201391637325287,
+        "ApplicationProcess": 0.37827974557876587,
+        "TimelineFrequency": 0.325697660446167,
+        "AuthoritiesGovernance": 0.39632946252822876,
+        "DefinitionsReferences": 0.3346910774707794
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 27,
+    "BenefitsAssistance": 9,
+    "Eligibility": 11,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-24T21:02:12.140060"
+}

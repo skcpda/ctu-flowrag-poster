@@ -1,0 +1,855 @@
+{
+  "scheme_name": "Home for Mentally Challenged Children",
+  "total_sentences": 60,
+  "labeled_sentences": [
+    {
+      "sentence": "The \"Home for Mentally Challenged Children\" scheme is an initiative by the Government of India aimed at providing care and support to children with mental disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5123917460441589,
+      "similarities": {
+        "ContextObjective": 0.5123917460441589,
+        "BenefitsAssistance": 0.4502658545970917,
+        "Eligibility": 0.47225630283355713,
+        "ApplicationProcess": 0.41506046056747437,
+        "TimelineFrequency": 0.3709862232208252,
+        "AuthoritiesGovernance": 0.40234118700027466,
+        "DefinitionsReferences": 0.35030221939086914
+      }
+    },
+    {
+      "sentence": "This scheme was launched in the year 2003 under the Ministry of Social Justice and Empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.5663856863975525,
+      "similarities": {
+        "ContextObjective": 0.5663856863975525,
+        "BenefitsAssistance": 0.39740854501724243,
+        "Eligibility": 0.4470207095146179,
+        "ApplicationProcess": 0.43596768379211426,
+        "TimelineFrequency": 0.3738939166069031,
+        "AuthoritiesGovernance": 0.43625685572624207,
+        "DefinitionsReferences": 0.3545418679714203
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to ensure that children with mental challenges receive appropriate care, education, and rehabilitation.",
+      "role": "ContextObjective",
+      "confidence": 0.5828686952590942,
+      "similarities": {
+        "ContextObjective": 0.5828686952590942,
+        "BenefitsAssistance": 0.4570871889591217,
+        "Eligibility": 0.4806180000305176,
+        "ApplicationProcess": 0.44451361894607544,
+        "TimelineFrequency": 0.42029911279678345,
+        "AuthoritiesGovernance": 0.44406530261039734,
+        "DefinitionsReferences": 0.35412952303886414
+      }
+    },
+    {
+      "sentence": "The scheme aims to establish homes that provide a safe and nurturing environment for these children.",
+      "role": "ContextObjective",
+      "confidence": 0.5256266593933105,
+      "similarities": {
+        "ContextObjective": 0.5256266593933105,
+        "BenefitsAssistance": 0.37118425965309143,
+        "Eligibility": 0.48488014936447144,
+        "ApplicationProcess": 0.43027424812316895,
+        "TimelineFrequency": 0.3698817491531372,
+        "AuthoritiesGovernance": 0.3684239089488983,
+        "DefinitionsReferences": 0.3499787151813507
+      }
+    },
+    {
+      "sentence": "It also focuses on enhancing the quality of life for mentally challenged children through various rehabilitation services.",
+      "role": "ContextObjective",
+      "confidence": 0.43504422903060913,
+      "similarities": {
+        "ContextObjective": 0.43504422903060913,
+        "BenefitsAssistance": 0.4147183299064636,
+        "Eligibility": 0.3891076147556305,
+        "ApplicationProcess": 0.35896867513656616,
+        "TimelineFrequency": 0.350564569234848,
+        "AuthoritiesGovernance": 0.3611474633216858,
+        "DefinitionsReferences": 0.350425124168396
+      }
+    },
+    {
+      "sentence": "The target population for this scheme includes children aged between 0 to 18 years who have been diagnosed with mental disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.5286115407943726,
+      "similarities": {
+        "ContextObjective": 0.48418450355529785,
+        "BenefitsAssistance": 0.41359978914260864,
+        "Eligibility": 0.5286115407943726,
+        "ApplicationProcess": 0.4044311046600342,
+        "TimelineFrequency": 0.40666332840919495,
+        "AuthoritiesGovernance": 0.37151503562927246,
+        "DefinitionsReferences": 0.3195708394050598
+      }
+    },
+    {
+      "sentence": "The specific types of mental disabilities covered under this scheme include intellectual disabilities, autism spectrum disorders, and other developmental disorders.",
+      "role": "Eligibility",
+      "confidence": 0.5069785714149475,
+      "similarities": {
+        "ContextObjective": 0.48341381549835205,
+        "BenefitsAssistance": 0.4942810535430908,
+        "Eligibility": 0.5069785714149475,
+        "ApplicationProcess": 0.39947861433029175,
+        "TimelineFrequency": 0.44860756397247314,
+        "AuthoritiesGovernance": 0.40373411774635315,
+        "DefinitionsReferences": 0.4244909882545471
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide residential facilities for at least 10,000 children across various states in India.",
+      "role": "Eligibility",
+      "confidence": 0.5229414105415344,
+      "similarities": {
+        "ContextObjective": 0.5186456441879272,
+        "BenefitsAssistance": 0.4295406937599182,
+        "Eligibility": 0.5229414105415344,
+        "ApplicationProcess": 0.44496309757232666,
+        "TimelineFrequency": 0.4340471625328064,
+        "AuthoritiesGovernance": 0.4252721667289734,
+        "DefinitionsReferences": 0.39788568019866943
+      }
+    },
+    {
+      "sentence": "Each home under this scheme is expected to accommodate a minimum of 30 children.",
+      "role": "Eligibility",
+      "confidence": 0.49423131346702576,
+      "similarities": {
+        "ContextObjective": 0.458682119846344,
+        "BenefitsAssistance": 0.4109269976615906,
+        "Eligibility": 0.49423131346702576,
+        "ApplicationProcess": 0.42533063888549805,
+        "TimelineFrequency": 0.4127551317214966,
+        "AuthoritiesGovernance": 0.3817715048789978,
+        "DefinitionsReferences": 0.36531513929367065
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme includes a grant of INR 10 lakh for setting up a new home.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49846455454826355,
+      "similarities": {
+        "ContextObjective": 0.40873634815216064,
+        "BenefitsAssistance": 0.49846455454826355,
+        "Eligibility": 0.474372923374176,
+        "ApplicationProcess": 0.4281078279018402,
+        "TimelineFrequency": 0.3699057996273041,
+        "AuthoritiesGovernance": 0.3510341942310333,
+        "DefinitionsReferences": 0.3608139753341675
+      }
+    },
+    {
+      "sentence": "Additionally, there is an annual recurring grant of INR 5 lakh to cover operational costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49268603324890137,
+      "similarities": {
+        "ContextObjective": 0.4085477888584137,
+        "BenefitsAssistance": 0.49268603324890137,
+        "Eligibility": 0.41290009021759033,
+        "ApplicationProcess": 0.42556899785995483,
+        "TimelineFrequency": 0.4395410418510437,
+        "AuthoritiesGovernance": 0.37766242027282715,
+        "DefinitionsReferences": 0.3919171094894409
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of trained staff in these homes.",
+      "role": "ContextObjective",
+      "confidence": 0.4701083302497864,
+      "similarities": {
+        "ContextObjective": 0.4701083302497864,
+        "BenefitsAssistance": 0.40621787309646606,
+        "Eligibility": 0.44143837690353394,
+        "ApplicationProcess": 0.40705060958862305,
+        "TimelineFrequency": 0.3816136121749878,
+        "AuthoritiesGovernance": 0.41981929540634155,
+        "DefinitionsReferences": 0.3839420676231384
+      }
+    },
+    {
+      "sentence": "Each home is required to have at least one qualified special educator and one psychologist.",
+      "role": "Eligibility",
+      "confidence": 0.5172739624977112,
+      "similarities": {
+        "ContextObjective": 0.4286591410636902,
+        "BenefitsAssistance": 0.4551050066947937,
+        "Eligibility": 0.5172739624977112,
+        "ApplicationProcess": 0.46093446016311646,
+        "TimelineFrequency": 0.4317309558391571,
+        "AuthoritiesGovernance": 0.4395368993282318,
+        "DefinitionsReferences": 0.41403478384017944
+      }
+    },
+    {
+      "sentence": "The homes are expected to provide various therapeutic services including speech therapy, occupational therapy, and counseling.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49929556250572205,
+      "similarities": {
+        "ContextObjective": 0.4434369206428528,
+        "BenefitsAssistance": 0.49929556250572205,
+        "Eligibility": 0.4314146637916565,
+        "ApplicationProcess": 0.41556721925735474,
+        "TimelineFrequency": 0.44234269857406616,
+        "AuthoritiesGovernance": 0.4212567210197449,
+        "DefinitionsReferences": 0.4219382405281067
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the scheme include the requirement that the children must be residents of India.",
+      "role": "Eligibility",
+      "confidence": 0.6173956394195557,
+      "similarities": {
+        "ContextObjective": 0.4807599186897278,
+        "BenefitsAssistance": 0.38951823115348816,
+        "Eligibility": 0.6173956394195557,
+        "ApplicationProcess": 0.5022817850112915,
+        "TimelineFrequency": 0.44726988673210144,
+        "AuthoritiesGovernance": 0.355510950088501,
+        "DefinitionsReferences": 0.3509761691093445
+      }
+    },
+    {
+      "sentence": "There are no specific income criteria for families to qualify for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5339351296424866,
+      "similarities": {
+        "ContextObjective": 0.473347008228302,
+        "BenefitsAssistance": 0.45000025629997253,
+        "Eligibility": 0.5339351296424866,
+        "ApplicationProcess": 0.4034314751625061,
+        "TimelineFrequency": 0.3928624987602234,
+        "AuthoritiesGovernance": 0.3294063210487366,
+        "DefinitionsReferences": 0.2953789234161377
+      }
+    },
+    {
+      "sentence": "However, preference is given to families from economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.45050114393234253,
+      "similarities": {
+        "ContextObjective": 0.3584912419319153,
+        "BenefitsAssistance": 0.3964521884918213,
+        "Eligibility": 0.45050114393234253,
+        "ApplicationProcess": 0.34013882279396057,
+        "TimelineFrequency": 0.3542625904083252,
+        "AuthoritiesGovernance": 0.33682358264923096,
+        "DefinitionsReferences": 0.29677921533584595
+      }
+    },
+    {
+      "sentence": "The application process for establishing a home involves submitting a detailed project proposal to the Ministry of Social Justice and Empowerment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5914875268936157,
+      "similarities": {
+        "ContextObjective": 0.5177419185638428,
+        "BenefitsAssistance": 0.43407249450683594,
+        "Eligibility": 0.5151901245117188,
+        "ApplicationProcess": 0.5914875268936157,
+        "TimelineFrequency": 0.4725366532802582,
+        "AuthoritiesGovernance": 0.43491294980049133,
+        "DefinitionsReferences": 0.40024250745773315
+      }
+    },
+    {
+      "sentence": "The proposal must include information about the location, facilities, staff, and the number of children to be accommodated.",
+      "role": "Eligibility",
+      "confidence": 0.5764554142951965,
+      "similarities": {
+        "ContextObjective": 0.5476927757263184,
+        "BenefitsAssistance": 0.5613842010498047,
+        "Eligibility": 0.5764554142951965,
+        "ApplicationProcess": 0.5558140277862549,
+        "TimelineFrequency": 0.5217140316963196,
+        "AuthoritiesGovernance": 0.4774397313594818,
+        "DefinitionsReferences": 0.4825945794582367
+      }
+    },
+    {
+      "sentence": "Required documents include proof of land ownership or lease agreement, details of the managing organization, and a budget estimate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6096358299255371,
+      "similarities": {
+        "ContextObjective": 0.4972880184650421,
+        "BenefitsAssistance": 0.602672815322876,
+        "Eligibility": 0.5603544116020203,
+        "ApplicationProcess": 0.6096358299255371,
+        "TimelineFrequency": 0.5495692491531372,
+        "AuthoritiesGovernance": 0.5093177556991577,
+        "DefinitionsReferences": 0.5699272751808167
+      }
+    },
+    {
+      "sentence": "Once the proposal is submitted, it is reviewed by a committee constituted by the Ministry.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5342552661895752,
+      "similarities": {
+        "ContextObjective": 0.4884527623653412,
+        "BenefitsAssistance": 0.3954160213470459,
+        "Eligibility": 0.440746009349823,
+        "ApplicationProcess": 0.5146289467811584,
+        "TimelineFrequency": 0.42679473757743835,
+        "AuthoritiesGovernance": 0.5342552661895752,
+        "DefinitionsReferences": 0.40593743324279785
+      }
+    },
+    {
+      "sentence": "The committee evaluates the feasibility and sustainability of the proposed home.",
+      "role": "ContextObjective",
+      "confidence": 0.491222620010376,
+      "similarities": {
+        "ContextObjective": 0.491222620010376,
+        "BenefitsAssistance": 0.4243873059749603,
+        "Eligibility": 0.44063299894332886,
+        "ApplicationProcess": 0.46750277280807495,
+        "TimelineFrequency": 0.3980761766433716,
+        "AuthoritiesGovernance": 0.4042656123638153,
+        "DefinitionsReferences": 0.37579554319381714
+      }
+    },
+    {
+      "sentence": "If approved, the funding is released in installments based on the progress of the project.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5373404026031494,
+      "similarities": {
+        "ContextObjective": 0.46814727783203125,
+        "BenefitsAssistance": 0.4995555877685547,
+        "Eligibility": 0.4825623631477356,
+        "ApplicationProcess": 0.499488890171051,
+        "TimelineFrequency": 0.5373404026031494,
+        "AuthoritiesGovernance": 0.448466956615448,
+        "DefinitionsReferences": 0.417407363653183
+      }
+    },
+    {
+      "sentence": "The first installment is typically released upon approval of the project.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5463154315948486,
+      "similarities": {
+        "ContextObjective": 0.5308087468147278,
+        "BenefitsAssistance": 0.46938350796699524,
+        "Eligibility": 0.4835329055786133,
+        "ApplicationProcess": 0.5463154315948486,
+        "TimelineFrequency": 0.5252724289894104,
+        "AuthoritiesGovernance": 0.473309189081192,
+        "DefinitionsReferences": 0.45223546028137207
+      }
+    },
+    {
+      "sentence": "Subsequent installments are released based on the submission of utilization certificates and progress reports.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5141788721084595,
+      "similarities": {
+        "ContextObjective": 0.41966336965560913,
+        "BenefitsAssistance": 0.4659171402454376,
+        "Eligibility": 0.43827831745147705,
+        "ApplicationProcess": 0.5016961097717285,
+        "TimelineFrequency": 0.5141788721084595,
+        "AuthoritiesGovernance": 0.41963106393814087,
+        "DefinitionsReferences": 0.4271431565284729
+      }
+    },
+    {
+      "sentence": "The homes are expected to be operational within six months of receiving the first installment.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5114234685897827,
+      "similarities": {
+        "ContextObjective": 0.4620688259601593,
+        "BenefitsAssistance": 0.4565468430519104,
+        "Eligibility": 0.48589324951171875,
+        "ApplicationProcess": 0.4969455599784851,
+        "TimelineFrequency": 0.5114234685897827,
+        "AuthoritiesGovernance": 0.40589308738708496,
+        "DefinitionsReferences": 0.38050907850265503
+      }
+    },
+    {
+      "sentence": "The scheme also mandates regular monitoring and evaluation of the homes by the Ministry.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5196350812911987,
+      "similarities": {
+        "ContextObjective": 0.4543401300907135,
+        "BenefitsAssistance": 0.43579375743865967,
+        "Eligibility": 0.4881643056869507,
+        "ApplicationProcess": 0.5196350812911987,
+        "TimelineFrequency": 0.43774136900901794,
+        "AuthoritiesGovernance": 0.4593132734298706,
+        "DefinitionsReferences": 0.41303834319114685
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5862178206443787,
+      "similarities": {
+        "ContextObjective": 0.5125948786735535,
+        "BenefitsAssistance": 0.39659979939460754,
+        "Eligibility": 0.4805564284324646,
+        "ApplicationProcess": 0.425779789686203,
+        "TimelineFrequency": 0.3661656677722931,
+        "AuthoritiesGovernance": 0.5862178206443787,
+        "DefinitionsReferences": 0.40394139289855957
+      }
+    },
+    {
+      "sentence": "The National Institute for the Empowerment of Persons with Multiple Disabilities also plays a role in providing training and support.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4846884608268738,
+      "similarities": {
+        "ContextObjective": 0.4516805410385132,
+        "BenefitsAssistance": 0.46510905027389526,
+        "Eligibility": 0.450609028339386,
+        "ApplicationProcess": 0.40246814489364624,
+        "TimelineFrequency": 0.38906240463256836,
+        "AuthoritiesGovernance": 0.4846884608268738,
+        "DefinitionsReferences": 0.41302570700645447
+      }
+    },
+    {
+      "sentence": "Local NGOs and community-based organizations are encouraged to participate in the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5538908243179321,
+      "similarities": {
+        "ContextObjective": 0.5087156295776367,
+        "BenefitsAssistance": 0.45383119583129883,
+        "Eligibility": 0.5184081792831421,
+        "ApplicationProcess": 0.4650649428367615,
+        "TimelineFrequency": 0.399569571018219,
+        "AuthoritiesGovernance": 0.5538908243179321,
+        "DefinitionsReferences": 0.41499048471450806
+      }
+    },
+    {
+      "sentence": "The scheme has seen a significant increase in the number of homes established since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5290483832359314,
+      "similarities": {
+        "ContextObjective": 0.5290483832359314,
+        "BenefitsAssistance": 0.41956448554992676,
+        "Eligibility": 0.4269082844257355,
+        "ApplicationProcess": 0.4343681037425995,
+        "TimelineFrequency": 0.4120165705680847,
+        "AuthoritiesGovernance": 0.35778218507766724,
+        "DefinitionsReferences": 0.38456156849861145
+      }
+    },
+    {
+      "sentence": "As of 2023, there are over 500 homes operating under this scheme across various states.",
+      "role": "ContextObjective",
+      "confidence": 0.5127500295639038,
+      "similarities": {
+        "ContextObjective": 0.5127500295639038,
+        "BenefitsAssistance": 0.4568239450454712,
+        "Eligibility": 0.4910639226436615,
+        "ApplicationProcess": 0.45939159393310547,
+        "TimelineFrequency": 0.45328488945961,
+        "AuthoritiesGovernance": 0.41561049222946167,
+        "DefinitionsReferences": 0.4034728705883026
+      }
+    },
+    {
+      "sentence": "These homes have collectively provided support to more than 15,000 children with mental disabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4137640595436096,
+      "similarities": {
+        "ContextObjective": 0.35330063104629517,
+        "BenefitsAssistance": 0.4137640595436096,
+        "Eligibility": 0.3666735887527466,
+        "ApplicationProcess": 0.3084670305252075,
+        "TimelineFrequency": 0.30172955989837646,
+        "AuthoritiesGovernance": 0.339542418718338,
+        "DefinitionsReferences": 0.3311633765697479
+      }
+    },
+    {
+      "sentence": "The scheme also promotes awareness about mental health issues and the rights of children with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.4863085150718689,
+      "similarities": {
+        "ContextObjective": 0.4863085150718689,
+        "BenefitsAssistance": 0.42660248279571533,
+        "Eligibility": 0.4398112893104553,
+        "ApplicationProcess": 0.3877377510070801,
+        "TimelineFrequency": 0.36593765020370483,
+        "AuthoritiesGovernance": 0.35698866844177246,
+        "DefinitionsReferences": 0.3498089611530304
+      }
+    },
+    {
+      "sentence": "Workshops and training programs are conducted regularly for caregivers and staff working in these homes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4913063645362854,
+      "similarities": {
+        "ContextObjective": 0.38120439648628235,
+        "BenefitsAssistance": 0.4286763072013855,
+        "Eligibility": 0.4123347997665405,
+        "ApplicationProcess": 0.41156044602394104,
+        "TimelineFrequency": 0.415462851524353,
+        "AuthoritiesGovernance": 0.4913063645362854,
+        "DefinitionsReferences": 0.4290758967399597
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the Rights of Persons with Disabilities Act 2016 which emphasizes the need for inclusive education and rehabilitation.",
+      "role": "ContextObjective",
+      "confidence": 0.5150644779205322,
+      "similarities": {
+        "ContextObjective": 0.5150644779205322,
+        "BenefitsAssistance": 0.42848896980285645,
+        "Eligibility": 0.48943549394607544,
+        "ApplicationProcess": 0.41255003213882446,
+        "TimelineFrequency": 0.3744460940361023,
+        "AuthoritiesGovernance": 0.3917349576950073,
+        "DefinitionsReferences": 0.3887707591056824
+      }
+    },
+    {
+      "sentence": "The Government of India has allocated a budget of INR 200 crore for the implementation of this scheme in the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.5068884491920471,
+      "similarities": {
+        "ContextObjective": 0.5068884491920471,
+        "BenefitsAssistance": 0.48070818185806274,
+        "Eligibility": 0.4880412518978119,
+        "ApplicationProcess": 0.4419665038585663,
+        "TimelineFrequency": 0.4395020008087158,
+        "AuthoritiesGovernance": 0.4587016701698303,
+        "DefinitionsReferences": 0.380398690700531
+      }
+    },
+    {
+      "sentence": "This budget is aimed at expanding the reach of the scheme and improving the quality of services provided.",
+      "role": "ContextObjective",
+      "confidence": 0.5121660232543945,
+      "similarities": {
+        "ContextObjective": 0.5121660232543945,
+        "BenefitsAssistance": 0.4736163914203644,
+        "Eligibility": 0.4582444429397583,
+        "ApplicationProcess": 0.4023791253566742,
+        "TimelineFrequency": 0.4183764159679413,
+        "AuthoritiesGovernance": 0.4553278386592865,
+        "DefinitionsReferences": 0.3883841335773468
+      }
+    },
+    {
+      "sentence": "The scheme also encourages partnerships with private organizations to enhance resources and expertise.",
+      "role": "ContextObjective",
+      "confidence": 0.4727175831794739,
+      "similarities": {
+        "ContextObjective": 0.4727175831794739,
+        "BenefitsAssistance": 0.4103580713272095,
+        "Eligibility": 0.4125613272190094,
+        "ApplicationProcess": 0.3630514144897461,
+        "TimelineFrequency": 0.3551984429359436,
+        "AuthoritiesGovernance": 0.38341695070266724,
+        "DefinitionsReferences": 0.4150807857513428
+      }
+    },
+    {
+      "sentence": "In addition to residential care, the scheme promotes community-based rehabilitation programs.",
+      "role": "ContextObjective",
+      "confidence": 0.47425371408462524,
+      "similarities": {
+        "ContextObjective": 0.47425371408462524,
+        "BenefitsAssistance": 0.40345409512519836,
+        "Eligibility": 0.41330885887145996,
+        "ApplicationProcess": 0.3772386312484741,
+        "TimelineFrequency": 0.36184388399124146,
+        "AuthoritiesGovernance": 0.38470223546028137,
+        "DefinitionsReferences": 0.3687323331832886
+      }
+    },
+    {
+      "sentence": "These programs aim to integrate children with mental disabilities into mainstream society.",
+      "role": "ContextObjective",
+      "confidence": 0.4977654814720154,
+      "similarities": {
+        "ContextObjective": 0.4977654814720154,
+        "BenefitsAssistance": 0.41484689712524414,
+        "Eligibility": 0.47912266850471497,
+        "ApplicationProcess": 0.4253237247467041,
+        "TimelineFrequency": 0.3845105767250061,
+        "AuthoritiesGovernance": 0.42765605449676514,
+        "DefinitionsReferences": 0.34893089532852173
+      }
+    },
+    {
+      "sentence": "The homes are required to facilitate educational opportunities for the children residing there.",
+      "role": "Eligibility",
+      "confidence": 0.5084937810897827,
+      "similarities": {
+        "ContextObjective": 0.48109304904937744,
+        "BenefitsAssistance": 0.4300987422466278,
+        "Eligibility": 0.5084937810897827,
+        "ApplicationProcess": 0.4724329710006714,
+        "TimelineFrequency": 0.45318305492401123,
+        "AuthoritiesGovernance": 0.4322932958602905,
+        "DefinitionsReferences": 0.4284246563911438
+      }
+    },
+    {
+      "sentence": "Collaboration with local schools is encouraged to provide inclusive education.",
+      "role": "ContextObjective",
+      "confidence": 0.5002872943878174,
+      "similarities": {
+        "ContextObjective": 0.5002872943878174,
+        "BenefitsAssistance": 0.4434443414211273,
+        "Eligibility": 0.4919488728046417,
+        "ApplicationProcess": 0.41890135407447815,
+        "TimelineFrequency": 0.4167991876602173,
+        "AuthoritiesGovernance": 0.44627606868743896,
+        "DefinitionsReferences": 0.4163593351840973
+      }
+    },
+    {
+      "sentence": "The scheme also focuses on the transition of children from institutional care to family-based care wherever possible.",
+      "role": "ContextObjective",
+      "confidence": 0.4958072602748871,
+      "similarities": {
+        "ContextObjective": 0.4958072602748871,
+        "BenefitsAssistance": 0.41075560450553894,
+        "Eligibility": 0.48856204748153687,
+        "ApplicationProcess": 0.43833935260772705,
+        "TimelineFrequency": 0.376503050327301,
+        "AuthoritiesGovernance": 0.37079939246177673,
+        "DefinitionsReferences": 0.36393022537231445
+      }
+    },
+    {
+      "sentence": "This is in line with the global trend towards deinstitutionalization of care for individuals with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.44705936312675476,
+      "similarities": {
+        "ContextObjective": 0.40168195962905884,
+        "BenefitsAssistance": 0.44704341888427734,
+        "Eligibility": 0.44705936312675476,
+        "ApplicationProcess": 0.40515998005867004,
+        "TimelineFrequency": 0.3764347434043884,
+        "AuthoritiesGovernance": 0.42820653319358826,
+        "DefinitionsReferences": 0.39943456649780273
+      }
+    },
+    {
+      "sentence": "The Government conducts periodic assessments to measure the impact of the scheme on the lives of children.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5053409934043884,
+      "similarities": {
+        "ContextObjective": 0.47886502742767334,
+        "BenefitsAssistance": 0.46051353216171265,
+        "Eligibility": 0.4801645278930664,
+        "ApplicationProcess": 0.4398632049560547,
+        "TimelineFrequency": 0.5053409934043884,
+        "AuthoritiesGovernance": 0.4331440329551697,
+        "DefinitionsReferences": 0.4110950231552124
+      }
+    },
+    {
+      "sentence": "Feedback from families and children is also taken into account for improving the services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4916009306907654,
+      "similarities": {
+        "ContextObjective": 0.41773274540901184,
+        "BenefitsAssistance": 0.46908289194107056,
+        "Eligibility": 0.4522753357887268,
+        "ApplicationProcess": 0.42761924862861633,
+        "TimelineFrequency": 0.41065794229507446,
+        "AuthoritiesGovernance": 0.4916009306907654,
+        "DefinitionsReferences": 0.41114938259124756
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing stigma associated with mental disabilities in society.",
+      "role": "ContextObjective",
+      "confidence": 0.48833778500556946,
+      "similarities": {
+        "ContextObjective": 0.48833778500556946,
+        "BenefitsAssistance": 0.39791300892829895,
+        "Eligibility": 0.4276014566421509,
+        "ApplicationProcess": 0.3688981533050537,
+        "TimelineFrequency": 0.313899427652359,
+        "AuthoritiesGovernance": 0.3849802017211914,
+        "DefinitionsReferences": 0.3345687985420227
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to educate the public about the capabilities of children with mental challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.47971516847610474,
+      "similarities": {
+        "ContextObjective": 0.47971516847610474,
+        "BenefitsAssistance": 0.4361005425453186,
+        "Eligibility": 0.45713967084884644,
+        "ApplicationProcess": 0.3979364037513733,
+        "TimelineFrequency": 0.3899807929992676,
+        "AuthoritiesGovernance": 0.4149306118488312,
+        "DefinitionsReferences": 0.3783532977104187
+      }
+    },
+    {
+      "sentence": "The homes are required to maintain a child-friendly environment that promotes dignity and respect.",
+      "role": "Eligibility",
+      "confidence": 0.4518195390701294,
+      "similarities": {
+        "ContextObjective": 0.3980520963668823,
+        "BenefitsAssistance": 0.3724152445793152,
+        "Eligibility": 0.4518195390701294,
+        "ApplicationProcess": 0.42410987615585327,
+        "TimelineFrequency": 0.3570675849914551,
+        "AuthoritiesGovernance": 0.3691287040710449,
+        "DefinitionsReferences": 0.3937876224517822
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of recreational activities for the holistic development of children.",
+      "role": "ContextObjective",
+      "confidence": 0.4921703338623047,
+      "similarities": {
+        "ContextObjective": 0.4921703338623047,
+        "BenefitsAssistance": 0.36132025718688965,
+        "Eligibility": 0.36572539806365967,
+        "ApplicationProcess": 0.36479678750038147,
+        "TimelineFrequency": 0.37765830755233765,
+        "AuthoritiesGovernance": 0.3258732259273529,
+        "DefinitionsReferences": 0.3761623501777649
+      }
+    },
+    {
+      "sentence": "Sports and arts programs are integrated into the daily routine of the homes.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4328712224960327,
+      "similarities": {
+        "ContextObjective": 0.42436927556991577,
+        "BenefitsAssistance": 0.42754897475242615,
+        "Eligibility": 0.3812958002090454,
+        "ApplicationProcess": 0.418032169342041,
+        "TimelineFrequency": 0.4328712224960327,
+        "AuthoritiesGovernance": 0.42141902446746826,
+        "DefinitionsReferences": 0.41996750235557556
+      }
+    },
+    {
+      "sentence": "The Government is committed to ensuring that children with mental disabilities have access to quality care and support.",
+      "role": "Eligibility",
+      "confidence": 0.4792212247848511,
+      "similarities": {
+        "ContextObjective": 0.42285391688346863,
+        "BenefitsAssistance": 0.45476752519607544,
+        "Eligibility": 0.4792212247848511,
+        "ApplicationProcess": 0.4373840093612671,
+        "TimelineFrequency": 0.37885141372680664,
+        "AuthoritiesGovernance": 0.4573879837989807,
+        "DefinitionsReferences": 0.40241485834121704
+      }
+    },
+    {
+      "sentence": "The \"Home for Mentally Challenged Children\" scheme is a vital part of India's broader strategy to promote social inclusion and equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5151695013046265,
+      "similarities": {
+        "ContextObjective": 0.5151695013046265,
+        "BenefitsAssistance": 0.4137429893016815,
+        "Eligibility": 0.4653168320655823,
+        "ApplicationProcess": 0.374252587556839,
+        "TimelineFrequency": 0.33590275049209595,
+        "AuthoritiesGovernance": 0.3773941397666931,
+        "DefinitionsReferences": 0.3525207042694092
+      }
+    },
+    {
+      "sentence": "It reflects the Government's commitment to the welfare of vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.48418858647346497,
+      "similarities": {
+        "ContextObjective": 0.44517701864242554,
+        "BenefitsAssistance": 0.4360141158103943,
+        "Eligibility": 0.48418858647346497,
+        "ApplicationProcess": 0.38880085945129395,
+        "TimelineFrequency": 0.36887872219085693,
+        "AuthoritiesGovernance": 0.4145515561103821,
+        "DefinitionsReferences": 0.39235562086105347
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve based on the needs of children and families.",
+      "role": "ContextObjective",
+      "confidence": 0.5883486270904541,
+      "similarities": {
+        "ContextObjective": 0.5883486270904541,
+        "BenefitsAssistance": 0.4791409373283386,
+        "Eligibility": 0.5347123146057129,
+        "ApplicationProcess": 0.46969476342201233,
+        "TimelineFrequency": 0.4765920639038086,
+        "AuthoritiesGovernance": 0.4678444564342499,
+        "DefinitionsReferences": 0.43490052223205566
+      }
+    },
+    {
+      "sentence": "Regular consultations with stakeholders are held to gather insights and recommendations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5237402319908142,
+      "similarities": {
+        "ContextObjective": 0.48283714056015015,
+        "BenefitsAssistance": 0.4442955255508423,
+        "Eligibility": 0.4564986526966095,
+        "ApplicationProcess": 0.44677698612213135,
+        "TimelineFrequency": 0.44734901189804077,
+        "AuthoritiesGovernance": 0.5237402319908142,
+        "DefinitionsReferences": 0.4854389429092407
+      }
+    },
+    {
+      "sentence": "The success of the scheme is measured not just by the number of homes established but by the quality of life improvements for the children.",
+      "role": "ContextObjective",
+      "confidence": 0.4867745041847229,
+      "similarities": {
+        "ContextObjective": 0.4867745041847229,
+        "BenefitsAssistance": 0.3962056338787079,
+        "Eligibility": 0.4311468005180359,
+        "ApplicationProcess": 0.39213353395462036,
+        "TimelineFrequency": 0.3642141819000244,
+        "AuthoritiesGovernance": 0.37391701340675354,
+        "DefinitionsReferences": 0.3458765149116516
+      }
+    },
+    {
+      "sentence": "The Government aims to create a supportive ecosystem that empowers families and children alike.",
+      "role": "ContextObjective",
+      "confidence": 0.5322713851928711,
+      "similarities": {
+        "ContextObjective": 0.5322713851928711,
+        "BenefitsAssistance": 0.4453517198562622,
+        "Eligibility": 0.5071010589599609,
+        "ApplicationProcess": 0.4257872700691223,
+        "TimelineFrequency": 0.4073418974876404,
+        "AuthoritiesGovernance": 0.49357810616493225,
+        "DefinitionsReferences": 0.4243612289428711
+      }
+    },
+    {
+      "sentence": "The \"Home for Mentally Challenged Children\" scheme is a crucial step towards building a more inclusive society for all.",
+      "role": "ContextObjective",
+      "confidence": 0.48103001713752747,
+      "similarities": {
+        "ContextObjective": 0.48103001713752747,
+        "BenefitsAssistance": 0.3836457133293152,
+        "Eligibility": 0.4500004053115845,
+        "ApplicationProcess": 0.3754079341888428,
+        "TimelineFrequency": 0.31323590874671936,
+        "AuthoritiesGovernance": 0.352203369140625,
+        "DefinitionsReferences": 0.3256862759590149
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 26,
+    "Eligibility": 14,
+    "BenefitsAssistance": 4,
+    "ApplicationProcess": 4,
+    "AuthoritiesGovernance": 7,
+    "TimelineFrequency": 5
+  },
+  "processing_timestamp": "2025-09-25T20:45:48.817773"
+}

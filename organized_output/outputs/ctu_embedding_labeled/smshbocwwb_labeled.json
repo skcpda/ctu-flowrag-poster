@@ -1,0 +1,715 @@
+{
+  "scheme_name": "Sewing Machine Scheme (HBOCWWB)",
+  "total_sentences": 50,
+  "labeled_sentences": [
+    {
+      "sentence": "The Sewing Machine Scheme is a welfare initiative launched by the Government of India under the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
+      "role": "ContextObjective",
+      "confidence": 0.5348855257034302,
+      "similarities": {
+        "ContextObjective": 0.5348855257034302,
+        "BenefitsAssistance": 0.4487220346927643,
+        "Eligibility": 0.48379164934158325,
+        "ApplicationProcess": 0.45020848512649536,
+        "TimelineFrequency": 0.45676305890083313,
+        "AuthoritiesGovernance": 0.4730898439884186,
+        "DefinitionsReferences": 0.38692706823349
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 1st April 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.6008753776550293,
+      "similarities": {
+        "ContextObjective": 0.6008753776550293,
+        "BenefitsAssistance": 0.4368444085121155,
+        "Eligibility": 0.4745972752571106,
+        "ApplicationProcess": 0.46974143385887146,
+        "TimelineFrequency": 0.47257906198501587,
+        "AuthoritiesGovernance": 0.4411945044994354,
+        "DefinitionsReferences": 0.3454034924507141
+      }
+    },
+    {
+      "sentence": "The primary objective of the Sewing Machine Scheme is to provide financial assistance to the families of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.471690833568573,
+      "similarities": {
+        "ContextObjective": 0.471690833568573,
+        "BenefitsAssistance": 0.4543243944644928,
+        "Eligibility": 0.4195466637611389,
+        "ApplicationProcess": 0.37430188059806824,
+        "TimelineFrequency": 0.3634571433067322,
+        "AuthoritiesGovernance": 0.36354121565818787,
+        "DefinitionsReferences": 0.28539785742759705
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower women by enabling them to become self-reliant through sewing.",
+      "role": "ContextObjective",
+      "confidence": 0.486564964056015,
+      "similarities": {
+        "ContextObjective": 0.486564964056015,
+        "BenefitsAssistance": 0.383478581905365,
+        "Eligibility": 0.39583417773246765,
+        "ApplicationProcess": 0.368177592754364,
+        "TimelineFrequency": 0.38048598170280457,
+        "AuthoritiesGovernance": 0.35871148109436035,
+        "DefinitionsReferences": 0.3125649094581604
+      }
+    },
+    {
+      "sentence": "The government has set a target to distribute sewing machines to at least 10,000 beneficiaries in the initial phase.",
+      "role": "Eligibility",
+      "confidence": 0.4835127890110016,
+      "similarities": {
+        "ContextObjective": 0.4410606622695923,
+        "BenefitsAssistance": 0.3953250050544739,
+        "Eligibility": 0.4835127890110016,
+        "ApplicationProcess": 0.37261849641799927,
+        "TimelineFrequency": 0.36173221468925476,
+        "AuthoritiesGovernance": 0.3973162770271301,
+        "DefinitionsReferences": 0.3455955982208252
+      }
+    },
+    {
+      "sentence": "The specific goal is to enhance the income-generating capacity of women in construction worker families.",
+      "role": "ContextObjective",
+      "confidence": 0.4326171875,
+      "similarities": {
+        "ContextObjective": 0.4326171875,
+        "BenefitsAssistance": 0.3895728886127472,
+        "Eligibility": 0.4118483066558838,
+        "ApplicationProcess": 0.34886640310287476,
+        "TimelineFrequency": 0.34903210401535034,
+        "AuthoritiesGovernance": 0.34774816036224365,
+        "DefinitionsReferences": 0.3209928274154663
+      }
+    },
+    {
+      "sentence": "The scheme is designed to support women who are part of the families of registered construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.4662807881832123,
+      "similarities": {
+        "ContextObjective": 0.4605501890182495,
+        "BenefitsAssistance": 0.42399320006370544,
+        "Eligibility": 0.4662807881832123,
+        "ApplicationProcess": 0.4057321548461914,
+        "TimelineFrequency": 0.39618197083473206,
+        "AuthoritiesGovernance": 0.38345497846603394,
+        "DefinitionsReferences": 0.3441515564918518
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be at least 18 years old and not more than 60 years old.",
+      "role": "Eligibility",
+      "confidence": 0.6647853851318359,
+      "similarities": {
+        "ContextObjective": 0.47794997692108154,
+        "BenefitsAssistance": 0.5296197533607483,
+        "Eligibility": 0.6647853851318359,
+        "ApplicationProcess": 0.5020722150802612,
+        "TimelineFrequency": 0.48510077595710754,
+        "AuthoritiesGovernance": 0.40222346782684326,
+        "DefinitionsReferences": 0.3965133726596832
+      }
+    },
+    {
+      "sentence": "The annual income of the family should not exceed ₹3 lakh to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5773597955703735,
+      "similarities": {
+        "ContextObjective": 0.49053943157196045,
+        "BenefitsAssistance": 0.5063496828079224,
+        "Eligibility": 0.5773597955703735,
+        "ApplicationProcess": 0.48592478036880493,
+        "TimelineFrequency": 0.4253387451171875,
+        "AuthoritiesGovernance": 0.35533779859542847,
+        "DefinitionsReferences": 0.34570735692977905
+      }
+    },
+    {
+      "sentence": "The applicants must be registered with the Haryana Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5588075518608093,
+      "similarities": {
+        "ContextObjective": 0.40269482135772705,
+        "BenefitsAssistance": 0.3846929669380188,
+        "Eligibility": 0.5578931570053101,
+        "ApplicationProcess": 0.5588075518608093,
+        "TimelineFrequency": 0.484416127204895,
+        "AuthoritiesGovernance": 0.4036971628665924,
+        "DefinitionsReferences": 0.38510745763778687
+      }
+    },
+    {
+      "sentence": "To apply for the scheme, beneficiaries must fill out the application form available on the official HBOCWWB website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6450076103210449,
+      "similarities": {
+        "ContextObjective": 0.511428952217102,
+        "BenefitsAssistance": 0.4761312007904053,
+        "Eligibility": 0.5938310027122498,
+        "ApplicationProcess": 0.6450076103210449,
+        "TimelineFrequency": 0.4901806712150574,
+        "AuthoritiesGovernance": 0.4100911617279053,
+        "DefinitionsReferences": 0.4154665470123291
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the applicant's name, address, age, and family income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7046291828155518,
+      "similarities": {
+        "ContextObjective": 0.5025392174720764,
+        "BenefitsAssistance": 0.6094138622283936,
+        "Eligibility": 0.6535455584526062,
+        "ApplicationProcess": 0.7046291828155518,
+        "TimelineFrequency": 0.5871521234512329,
+        "AuthoritiesGovernance": 0.45943671464920044,
+        "DefinitionsReferences": 0.5175756216049194
+      }
+    },
+    {
+      "sentence": "Applicants must also submit a copy of their Aadhar card for identity verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6109939813613892,
+      "similarities": {
+        "ContextObjective": 0.40133094787597656,
+        "BenefitsAssistance": 0.4399694800376892,
+        "Eligibility": 0.4714077115058899,
+        "ApplicationProcess": 0.6109939813613892,
+        "TimelineFrequency": 0.4542354941368103,
+        "AuthoritiesGovernance": 0.38287824392318726,
+        "DefinitionsReferences": 0.4148196876049042
+      }
+    },
+    {
+      "sentence": "A copy of the construction worker registration certificate is also required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5325778722763062,
+      "similarities": {
+        "ContextObjective": 0.35111403465270996,
+        "BenefitsAssistance": 0.407259464263916,
+        "Eligibility": 0.43081143498420715,
+        "ApplicationProcess": 0.5325778722763062,
+        "TimelineFrequency": 0.41252073645591736,
+        "AuthoritiesGovernance": 0.3743315041065216,
+        "DefinitionsReferences": 0.4256816506385803
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must provide a passport-sized photograph.",
+      "role": "ApplicationProcess",
+      "confidence": 0.578035831451416,
+      "similarities": {
+        "ContextObjective": 0.4303044080734253,
+        "BenefitsAssistance": 0.4327924847602844,
+        "Eligibility": 0.5444910526275635,
+        "ApplicationProcess": 0.578035831451416,
+        "TimelineFrequency": 0.4809693992137909,
+        "AuthoritiesGovernance": 0.3645075857639313,
+        "DefinitionsReferences": 0.4327802062034607
+      }
+    },
+    {
+      "sentence": "The application process can be completed online through the official HBOCWWB portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6659598350524902,
+      "similarities": {
+        "ContextObjective": 0.4331759810447693,
+        "BenefitsAssistance": 0.4454185962677002,
+        "Eligibility": 0.5315826535224915,
+        "ApplicationProcess": 0.6659598350524902,
+        "TimelineFrequency": 0.5268195867538452,
+        "AuthoritiesGovernance": 0.42022228240966797,
+        "DefinitionsReferences": 0.41260194778442383
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The scheme has a specific timeline for disbursement of sewing machines.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5258859395980835,
+      "similarities": {
+        "ContextObjective": 0.4966636598110199,
+        "BenefitsAssistance": 0.5197527408599854,
+        "Eligibility": 0.48396188020706177,
+        "ApplicationProcess": 0.4490213096141815,
+        "TimelineFrequency": 0.5258859395980835,
+        "AuthoritiesGovernance": 0.42857858538627625,
+        "DefinitionsReferences": 0.36849862337112427
+      }
+    },
+    {
+      "sentence": "The sewing machines are typically distributed within three months of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4958229959011078,
+      "similarities": {
+        "ContextObjective": 0.4091063141822815,
+        "BenefitsAssistance": 0.4133238196372986,
+        "Eligibility": 0.44777053594589233,
+        "ApplicationProcess": 0.4298000931739807,
+        "TimelineFrequency": 0.4958229959011078,
+        "AuthoritiesGovernance": 0.3985697031021118,
+        "DefinitionsReferences": 0.3471437990665436
+      }
+    },
+    {
+      "sentence": "The sewing machines provided under this scheme are of good quality and suitable for domestic use.",
+      "role": "ContextObjective",
+      "confidence": 0.4322252869606018,
+      "similarities": {
+        "ContextObjective": 0.4322252869606018,
+        "BenefitsAssistance": 0.4043657183647156,
+        "Eligibility": 0.3866897225379944,
+        "ApplicationProcess": 0.3934755027294159,
+        "TimelineFrequency": 0.3687572479248047,
+        "AuthoritiesGovernance": 0.3577808141708374,
+        "DefinitionsReferences": 0.3564344048500061
+      }
+    },
+    {
+      "sentence": "Each beneficiary receives a sewing machine valued at approximately ₹10,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.483615905046463,
+      "similarities": {
+        "ContextObjective": 0.3839859962463379,
+        "BenefitsAssistance": 0.483615905046463,
+        "Eligibility": 0.441486120223999,
+        "ApplicationProcess": 0.37027737498283386,
+        "TimelineFrequency": 0.36567336320877075,
+        "AuthoritiesGovernance": 0.36116185784339905,
+        "DefinitionsReferences": 0.3427537679672241
+      }
+    },
+    {
+      "sentence": "The sewing machines are equipped with essential accessories to facilitate immediate use.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4900848865509033,
+      "similarities": {
+        "ContextObjective": 0.44200077652931213,
+        "BenefitsAssistance": 0.4900848865509033,
+        "Eligibility": 0.40815746784210205,
+        "ApplicationProcess": 0.42604830861091614,
+        "TimelineFrequency": 0.4540666937828064,
+        "AuthoritiesGovernance": 0.4086597263813019,
+        "DefinitionsReferences": 0.4533146023750305
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Haryana Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4887636601924896,
+      "similarities": {
+        "ContextObjective": 0.4813135862350464,
+        "BenefitsAssistance": 0.4200967252254486,
+        "Eligibility": 0.4548131227493286,
+        "ApplicationProcess": 0.4316723942756653,
+        "TimelineFrequency": 0.3932539224624634,
+        "AuthoritiesGovernance": 0.4887636601924896,
+        "DefinitionsReferences": 0.35749712586402893
+      }
+    },
+    {
+      "sentence": "The Board operates under the Department of Labour and Employment, Government of Haryana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5043743848800659,
+      "similarities": {
+        "ContextObjective": 0.3999462127685547,
+        "BenefitsAssistance": 0.3976076543331146,
+        "Eligibility": 0.4575643539428711,
+        "ApplicationProcess": 0.4364229738712311,
+        "TimelineFrequency": 0.4180936813354492,
+        "AuthoritiesGovernance": 0.5043743848800659,
+        "DefinitionsReferences": 0.37806904315948486
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, beneficiaries can contact the HBOCWWB office at their headquarters in Panchkula.",
+      "role": "Eligibility",
+      "confidence": 0.4671308696269989,
+      "similarities": {
+        "ContextObjective": 0.3903023600578308,
+        "BenefitsAssistance": 0.45021694898605347,
+        "Eligibility": 0.4671308696269989,
+        "ApplicationProcess": 0.41670042276382446,
+        "TimelineFrequency": 0.3385981023311615,
+        "AuthoritiesGovernance": 0.4456559419631958,
+        "DefinitionsReferences": 0.38078343868255615
+      }
+    },
+    {
+      "sentence": "The contact number for the HBOCWWB is 0172-2561150.",
+      "role": "Eligibility",
+      "confidence": 0.4448208808898926,
+      "similarities": {
+        "ContextObjective": 0.38974782824516296,
+        "BenefitsAssistance": 0.43556463718414307,
+        "Eligibility": 0.4448208808898926,
+        "ApplicationProcess": 0.43560922145843506,
+        "TimelineFrequency": 0.42199933528900146,
+        "AuthoritiesGovernance": 0.4428796172142029,
+        "DefinitionsReferences": 0.38665544986724854
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme is part of a broader initiative to improve the socio-economic conditions of construction workers in Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.4476654529571533,
+      "similarities": {
+        "ContextObjective": 0.4476654529571533,
+        "BenefitsAssistance": 0.40835708379745483,
+        "Eligibility": 0.40825510025024414,
+        "ApplicationProcess": 0.38712078332901,
+        "TimelineFrequency": 0.38466182351112366,
+        "AuthoritiesGovernance": 0.40117907524108887,
+        "DefinitionsReferences": 0.33626842498779297
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who have reported increased income from sewing activities.",
+      "role": "ContextObjective",
+      "confidence": 0.463996946811676,
+      "similarities": {
+        "ContextObjective": 0.463996946811676,
+        "BenefitsAssistance": 0.4459454417228699,
+        "Eligibility": 0.42174357175827026,
+        "ApplicationProcess": 0.3568111062049866,
+        "TimelineFrequency": 0.3453372120857239,
+        "AuthoritiesGovernance": 0.3439520299434662,
+        "DefinitionsReferences": 0.36067426204681396
+      }
+    },
+    {
+      "sentence": "Women who have received sewing machines have been able to start small businesses from their homes.",
+      "role": "ContextObjective",
+      "confidence": 0.37528303265571594,
+      "similarities": {
+        "ContextObjective": 0.37528303265571594,
+        "BenefitsAssistance": 0.37464219331741333,
+        "Eligibility": 0.3570411205291748,
+        "ApplicationProcess": 0.34252628684043884,
+        "TimelineFrequency": 0.33273178339004517,
+        "AuthoritiesGovernance": 0.33143097162246704,
+        "DefinitionsReferences": 0.3155985474586487
+      }
+    },
+    {
+      "sentence": "The government encourages beneficiaries to form self-help groups to enhance their entrepreneurial skills.",
+      "role": "ContextObjective",
+      "confidence": 0.4793643355369568,
+      "similarities": {
+        "ContextObjective": 0.4793643355369568,
+        "BenefitsAssistance": 0.4347960650920868,
+        "Eligibility": 0.45734843611717224,
+        "ApplicationProcess": 0.38617944717407227,
+        "TimelineFrequency": 0.35984641313552856,
+        "AuthoritiesGovernance": 0.42126983404159546,
+        "DefinitionsReferences": 0.3953750729560852
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme is aligned with the larger goal of promoting women’s empowerment in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.467993825674057,
+      "similarities": {
+        "ContextObjective": 0.467993825674057,
+        "BenefitsAssistance": 0.35834449529647827,
+        "Eligibility": 0.3840552866458893,
+        "ApplicationProcess": 0.36352673172950745,
+        "TimelineFrequency": 0.3487590551376343,
+        "AuthoritiesGovernance": 0.3978043496608734,
+        "DefinitionsReferences": 0.32667434215545654
+      }
+    },
+    {
+      "sentence": "In addition to sewing machines, the scheme also provides training programs for beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.48302316665649414,
+      "similarities": {
+        "ContextObjective": 0.48302316665649414,
+        "BenefitsAssistance": 0.457559198141098,
+        "Eligibility": 0.46303802728652954,
+        "ApplicationProcess": 0.4081159234046936,
+        "TimelineFrequency": 0.4192753732204437,
+        "AuthoritiesGovernance": 0.4195740818977356,
+        "DefinitionsReferences": 0.38916394114494324
+      }
+    },
+    {
+      "sentence": "These training programs are designed to enhance sewing skills and improve the quality of products made.",
+      "role": "ContextObjective",
+      "confidence": 0.4171587824821472,
+      "similarities": {
+        "ContextObjective": 0.4171587824821472,
+        "BenefitsAssistance": 0.35248398780822754,
+        "Eligibility": 0.36531028151512146,
+        "ApplicationProcess": 0.39943164587020874,
+        "TimelineFrequency": 0.4099538326263428,
+        "AuthoritiesGovernance": 0.4083496630191803,
+        "DefinitionsReferences": 0.397709459066391
+      }
+    },
+    {
+      "sentence": "The training is conducted by skilled trainers appointed by the Haryana government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4635305404663086,
+      "similarities": {
+        "ContextObjective": 0.3841221332550049,
+        "BenefitsAssistance": 0.3158785104751587,
+        "Eligibility": 0.4257124066352844,
+        "ApplicationProcess": 0.38430315256118774,
+        "TimelineFrequency": 0.35906845331192017,
+        "AuthoritiesGovernance": 0.4635305404663086,
+        "DefinitionsReferences": 0.3829300105571747
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme is a step towards reducing unemployment among women in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.3874087333679199,
+      "similarities": {
+        "ContextObjective": 0.3874087333679199,
+        "BenefitsAssistance": 0.34588515758514404,
+        "Eligibility": 0.34373146295547485,
+        "ApplicationProcess": 0.3614434003829956,
+        "TimelineFrequency": 0.3789576292037964,
+        "AuthoritiesGovernance": 0.36463457345962524,
+        "DefinitionsReferences": 0.26661062240600586
+      }
+    },
+    {
+      "sentence": "The initiative also aims to reduce dependency on male family members for financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48962098360061646,
+      "similarities": {
+        "ContextObjective": 0.4152151942253113,
+        "BenefitsAssistance": 0.48962098360061646,
+        "Eligibility": 0.46332576870918274,
+        "ApplicationProcess": 0.3901045322418213,
+        "TimelineFrequency": 0.37981414794921875,
+        "AuthoritiesGovernance": 0.402555376291275,
+        "DefinitionsReferences": 0.33636194467544556
+      }
+    },
+    {
+      "sentence": "The scheme contributes to the overall economic development of the state by promoting self-employment.",
+      "role": "ContextObjective",
+      "confidence": 0.508110761642456,
+      "similarities": {
+        "ContextObjective": 0.508110761642456,
+        "BenefitsAssistance": 0.4270079731941223,
+        "Eligibility": 0.3908538222312927,
+        "ApplicationProcess": 0.40410304069519043,
+        "TimelineFrequency": 0.3618798851966858,
+        "AuthoritiesGovernance": 0.380665123462677,
+        "DefinitionsReferences": 0.3534995913505554
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹5 crore for the implementation of this scheme in the first year.",
+      "role": "ContextObjective",
+      "confidence": 0.4859270453453064,
+      "similarities": {
+        "ContextObjective": 0.4859270453453064,
+        "BenefitsAssistance": 0.4782412350177765,
+        "Eligibility": 0.44242948293685913,
+        "ApplicationProcess": 0.4246927797794342,
+        "TimelineFrequency": 0.400360643863678,
+        "AuthoritiesGovernance": 0.46472880244255066,
+        "DefinitionsReferences": 0.34650200605392456
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme is part of the larger welfare framework for construction workers in Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.43564754724502563,
+      "similarities": {
+        "ContextObjective": 0.43564754724502563,
+        "BenefitsAssistance": 0.4287094473838806,
+        "Eligibility": 0.4198349118232727,
+        "ApplicationProcess": 0.38721656799316406,
+        "TimelineFrequency": 0.39395594596862793,
+        "AuthoritiesGovernance": 0.41310250759124756,
+        "DefinitionsReferences": 0.35018250346183777
+      }
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Haryana government to uplift marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.44731563329696655,
+      "similarities": {
+        "ContextObjective": 0.44731563329696655,
+        "BenefitsAssistance": 0.36290502548217773,
+        "Eligibility": 0.4281766414642334,
+        "ApplicationProcess": 0.34891119599342346,
+        "TimelineFrequency": 0.3268224596977234,
+        "AuthoritiesGovernance": 0.3787009119987488,
+        "DefinitionsReferences": 0.34121960401535034
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme also aligns with the national agenda of skill development and entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.4807397723197937,
+      "similarities": {
+        "ContextObjective": 0.4807397723197937,
+        "BenefitsAssistance": 0.3504212498664856,
+        "Eligibility": 0.36362916231155396,
+        "ApplicationProcess": 0.3368084728717804,
+        "TimelineFrequency": 0.3529820740222931,
+        "AuthoritiesGovernance": 0.349876344203949,
+        "DefinitionsReferences": 0.3213616609573364
+      }
+    },
+    {
+      "sentence": "The scheme has the potential to impact thousands of families positively.",
+      "role": "ContextObjective",
+      "confidence": 0.556318998336792,
+      "similarities": {
+        "ContextObjective": 0.556318998336792,
+        "BenefitsAssistance": 0.4657197594642639,
+        "Eligibility": 0.5302550792694092,
+        "ApplicationProcess": 0.4183327555656433,
+        "TimelineFrequency": 0.4020337164402008,
+        "AuthoritiesGovernance": 0.3828861117362976,
+        "DefinitionsReferences": 0.3659544289112091
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring the implementation of the scheme to ensure transparency and efficiency.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5375463366508484,
+      "similarities": {
+        "ContextObjective": 0.48270097374916077,
+        "BenefitsAssistance": 0.46961545944213867,
+        "Eligibility": 0.46397608518600464,
+        "ApplicationProcess": 0.5150901079177856,
+        "TimelineFrequency": 0.4257848560810089,
+        "AuthoritiesGovernance": 0.5375463366508484,
+        "DefinitionsReferences": 0.4226945638656616
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to share their success stories to inspire others.",
+      "role": "ContextObjective",
+      "confidence": 0.5374390482902527,
+      "similarities": {
+        "ContextObjective": 0.5374390482902527,
+        "BenefitsAssistance": 0.5008901357650757,
+        "Eligibility": 0.5339539051055908,
+        "ApplicationProcess": 0.4285023808479309,
+        "TimelineFrequency": 0.3930395245552063,
+        "AuthoritiesGovernance": 0.42690667510032654,
+        "DefinitionsReferences": 0.40767478942871094
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme is expected to create a ripple effect in the community by promoting entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.4623417854309082,
+      "similarities": {
+        "ContextObjective": 0.4623417854309082,
+        "BenefitsAssistance": 0.3501306176185608,
+        "Eligibility": 0.37531012296676636,
+        "ApplicationProcess": 0.3327210545539856,
+        "TimelineFrequency": 0.3443790674209595,
+        "AuthoritiesGovernance": 0.33426427841186523,
+        "DefinitionsReferences": 0.3006475567817688
+      }
+    },
+    {
+      "sentence": "The initiative is also a part of the Sustainable Development Goals aimed at gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.46028852462768555,
+      "similarities": {
+        "ContextObjective": 0.46028852462768555,
+        "BenefitsAssistance": 0.3416781425476074,
+        "Eligibility": 0.3997313976287842,
+        "ApplicationProcess": 0.3625032901763916,
+        "TimelineFrequency": 0.3600432276725769,
+        "AuthoritiesGovernance": 0.39560049772262573,
+        "DefinitionsReferences": 0.331083208322525
+      }
+    },
+    {
+      "sentence": "The government plans to expand the scheme to include more beneficiaries in the coming years.",
+      "role": "Eligibility",
+      "confidence": 0.5506876111030579,
+      "similarities": {
+        "ContextObjective": 0.5390570759773254,
+        "BenefitsAssistance": 0.49454325437545776,
+        "Eligibility": 0.5506876111030579,
+        "ApplicationProcess": 0.43982189893722534,
+        "TimelineFrequency": 0.4237329363822937,
+        "AuthoritiesGovernance": 0.421661376953125,
+        "DefinitionsReferences": 0.39493638277053833
+      }
+    },
+    {
+      "sentence": "The Sewing Machine Scheme is a significant step towards providing livelihood opportunities for women.",
+      "role": "ContextObjective",
+      "confidence": 0.4515286684036255,
+      "similarities": {
+        "ContextObjective": 0.4515286684036255,
+        "BenefitsAssistance": 0.3942553400993347,
+        "Eligibility": 0.3928294777870178,
+        "ApplicationProcess": 0.38245391845703125,
+        "TimelineFrequency": 0.3644329309463501,
+        "AuthoritiesGovernance": 0.3684154748916626,
+        "DefinitionsReferences": 0.32563525438308716
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the benefits of the scheme reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5513538122177124,
+      "similarities": {
+        "ContextObjective": 0.534839391708374,
+        "BenefitsAssistance": 0.4610201120376587,
+        "Eligibility": 0.5513538122177124,
+        "ApplicationProcess": 0.45049798488616943,
+        "TimelineFrequency": 0.389085590839386,
+        "AuthoritiesGovernance": 0.47332853078842163,
+        "DefinitionsReferences": 0.3885922133922577
+      }
+    },
+    {
+      "sentence": "Overall, the Sewing Machine Scheme represents a proactive approach to welfare for construction workers and their families in Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.42165160179138184,
+      "similarities": {
+        "ContextObjective": 0.42165160179138184,
+        "BenefitsAssistance": 0.4093273878097534,
+        "Eligibility": 0.40428343415260315,
+        "ApplicationProcess": 0.3715759217739105,
+        "TimelineFrequency": 0.37803149223327637,
+        "AuthoritiesGovernance": 0.3874473571777344,
+        "DefinitionsReferences": 0.33115795254707336
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 25,
+    "Eligibility": 8,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 2,
+    "BenefitsAssistance": 3,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:37:36.806868"
+}

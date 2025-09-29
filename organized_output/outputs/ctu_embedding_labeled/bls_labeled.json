@@ -1,0 +1,855 @@
+{
+  "scheme_name": "Big Loan Scheme",
+  "total_sentences": 60,
+  "labeled_sentences": [
+    {
+      "sentence": "The Big Loan Scheme is a significant initiative launched by the Government of India aimed at promoting entrepreneurship and self-employment among individuals and small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.55759197473526,
+      "similarities": {
+        "ContextObjective": 0.55759197473526,
+        "BenefitsAssistance": 0.4481240212917328,
+        "Eligibility": 0.473017156124115,
+        "ApplicationProcess": 0.42042088508605957,
+        "TimelineFrequency": 0.4085060656070709,
+        "AuthoritiesGovernance": 0.41127151250839233,
+        "DefinitionsReferences": 0.38615405559539795
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on January 1, 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5763894319534302,
+      "similarities": {
+        "ContextObjective": 0.5763894319534302,
+        "BenefitsAssistance": 0.44149404764175415,
+        "Eligibility": 0.46657127141952515,
+        "ApplicationProcess": 0.4606187641620636,
+        "TimelineFrequency": 0.4630364179611206,
+        "AuthoritiesGovernance": 0.4399069845676422,
+        "DefinitionsReferences": 0.3426864743232727
+      }
+    },
+    {
+      "sentence": "It is part of the broader Atmanirbhar Bharat Abhiyan which translates to Self-Reliant India Mission.",
+      "role": "ContextObjective",
+      "confidence": 0.471992552280426,
+      "similarities": {
+        "ContextObjective": 0.471992552280426,
+        "BenefitsAssistance": 0.38608384132385254,
+        "Eligibility": 0.3812496066093445,
+        "ApplicationProcess": 0.3496409058570862,
+        "TimelineFrequency": 0.33790552616119385,
+        "AuthoritiesGovernance": 0.3396614193916321,
+        "DefinitionsReferences": 0.35996493697166443
+      }
+    },
+    {
+      "sentence": "The primary objective of the Big Loan Scheme is to provide financial assistance to aspiring entrepreneurs and small business owners.",
+      "role": "ContextObjective",
+      "confidence": 0.5460307598114014,
+      "similarities": {
+        "ContextObjective": 0.5460307598114014,
+        "BenefitsAssistance": 0.4330988824367523,
+        "Eligibility": 0.46174466609954834,
+        "ApplicationProcess": 0.40526819229125977,
+        "TimelineFrequency": 0.3819524645805359,
+        "AuthoritiesGovernance": 0.3680872321128845,
+        "DefinitionsReferences": 0.34568843245506287
+      }
+    },
+    {
+      "sentence": "The scheme aims to facilitate access to loans for individuals who may not have sufficient collateral or credit history.",
+      "role": "Eligibility",
+      "confidence": 0.5878630876541138,
+      "similarities": {
+        "ContextObjective": 0.5350297689437866,
+        "BenefitsAssistance": 0.4964202642440796,
+        "Eligibility": 0.5878630876541138,
+        "ApplicationProcess": 0.5174532532691956,
+        "TimelineFrequency": 0.4714905917644501,
+        "AuthoritiesGovernance": 0.3923782706260681,
+        "DefinitionsReferences": 0.39906245470046997
+      }
+    },
+    {
+      "sentence": "The government has set a target to disburse loans worth ₹1 lakh crore under this scheme within the first three years of its implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.5075727701187134,
+      "similarities": {
+        "ContextObjective": 0.5075727701187134,
+        "BenefitsAssistance": 0.4581894278526306,
+        "Eligibility": 0.46592283248901367,
+        "ApplicationProcess": 0.39387357234954834,
+        "TimelineFrequency": 0.38822752237319946,
+        "AuthoritiesGovernance": 0.38651710748672485,
+        "DefinitionsReferences": 0.3391183912754059
+      }
+    },
+    {
+      "sentence": "The scheme specifically focuses on micro, small, and medium enterprises also known as MSMEs.",
+      "role": "ContextObjective",
+      "confidence": 0.5252506732940674,
+      "similarities": {
+        "ContextObjective": 0.5252506732940674,
+        "BenefitsAssistance": 0.43434473872184753,
+        "Eligibility": 0.47902631759643555,
+        "ApplicationProcess": 0.4225359261035919,
+        "TimelineFrequency": 0.4166593551635742,
+        "AuthoritiesGovernance": 0.4366019368171692,
+        "DefinitionsReferences": 0.3981844186782837
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme aims to empower individuals by providing them with the necessary funds to start or expand their businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.5467476844787598,
+      "similarities": {
+        "ContextObjective": 0.5467476844787598,
+        "BenefitsAssistance": 0.4727272689342499,
+        "Eligibility": 0.5125732421875,
+        "ApplicationProcess": 0.43293046951293945,
+        "TimelineFrequency": 0.4022388458251953,
+        "AuthoritiesGovernance": 0.3922498822212219,
+        "DefinitionsReferences": 0.385165810585022
+      }
+    },
+    {
+      "sentence": "The benefits of the scheme include access to loans ranging from ₹10 lakh to ₹1 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5064781904220581,
+      "similarities": {
+        "ContextObjective": 0.46069633960723877,
+        "BenefitsAssistance": 0.5064781904220581,
+        "Eligibility": 0.49428921937942505,
+        "ApplicationProcess": 0.4056856632232666,
+        "TimelineFrequency": 0.4082242250442505,
+        "AuthoritiesGovernance": 0.3447464108467102,
+        "DefinitionsReferences": 0.3873065412044525
+      }
+    },
+    {
+      "sentence": "The loans are provided at a subsidized interest rate of 7 percent per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47159770131111145,
+      "similarities": {
+        "ContextObjective": 0.42961186170578003,
+        "BenefitsAssistance": 0.47159770131111145,
+        "Eligibility": 0.4340352416038513,
+        "ApplicationProcess": 0.38916492462158203,
+        "TimelineFrequency": 0.42611992359161377,
+        "AuthoritiesGovernance": 0.36184635758399963,
+        "DefinitionsReferences": 0.3602771759033203
+      }
+    },
+    {
+      "sentence": "The repayment period for the loans is set at a maximum of 7 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5182263851165771,
+      "similarities": {
+        "ContextObjective": 0.4309905171394348,
+        "BenefitsAssistance": 0.47507762908935547,
+        "Eligibility": 0.5042959451675415,
+        "ApplicationProcess": 0.43011710047721863,
+        "TimelineFrequency": 0.5182263851165771,
+        "AuthoritiesGovernance": 0.37722474336624146,
+        "DefinitionsReferences": 0.3912847638130188
+      }
+    },
+    {
+      "sentence": "There is a grace period of 6 months before the repayment begins.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5532686710357666,
+      "similarities": {
+        "ContextObjective": 0.45024409890174866,
+        "BenefitsAssistance": 0.5223580598831177,
+        "Eligibility": 0.5304558873176575,
+        "ApplicationProcess": 0.5023581385612488,
+        "TimelineFrequency": 0.5532686710357666,
+        "AuthoritiesGovernance": 0.4127945899963379,
+        "DefinitionsReferences": 0.4060881733894348
+      }
+    },
+    {
+      "sentence": "The scheme also includes a provision for loan guarantees to encourage banks to lend to small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.45439398288726807,
+      "similarities": {
+        "ContextObjective": 0.45439398288726807,
+        "BenefitsAssistance": 0.44398629665374756,
+        "Eligibility": 0.447132408618927,
+        "ApplicationProcess": 0.40972211956977844,
+        "TimelineFrequency": 0.3994670510292053,
+        "AuthoritiesGovernance": 0.3376927971839905,
+        "DefinitionsReferences": 0.37224504351615906
+      }
+    },
+    {
+      "sentence": "The government will provide a guarantee of up to 75 percent of the loan amount for eligible borrowers.",
+      "role": "Eligibility",
+      "confidence": 0.5267330408096313,
+      "similarities": {
+        "ContextObjective": 0.4208664894104004,
+        "BenefitsAssistance": 0.5082358121871948,
+        "Eligibility": 0.5267330408096313,
+        "ApplicationProcess": 0.44317299127578735,
+        "TimelineFrequency": 0.4306214153766632,
+        "AuthoritiesGovernance": 0.3847771883010864,
+        "DefinitionsReferences": 0.3877328932285309
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Big Loan Scheme include individuals aged between 18 and 65 years.",
+      "role": "Eligibility",
+      "confidence": 0.6090285181999207,
+      "similarities": {
+        "ContextObjective": 0.4843674898147583,
+        "BenefitsAssistance": 0.49641549587249756,
+        "Eligibility": 0.6090285181999207,
+        "ApplicationProcess": 0.48180145025253296,
+        "TimelineFrequency": 0.4771152138710022,
+        "AuthoritiesGovernance": 0.36204397678375244,
+        "DefinitionsReferences": 0.39275750517845154
+      }
+    },
+    {
+      "sentence": "Applicants must be Indian citizens and should have a viable business plan.",
+      "role": "Eligibility",
+      "confidence": 0.5807440876960754,
+      "similarities": {
+        "ContextObjective": 0.5260434150695801,
+        "BenefitsAssistance": 0.4345741868019104,
+        "Eligibility": 0.5807440876960754,
+        "ApplicationProcess": 0.5429142117500305,
+        "TimelineFrequency": 0.46867772936820984,
+        "AuthoritiesGovernance": 0.38737785816192627,
+        "DefinitionsReferences": 0.40728098154067993
+      }
+    },
+    {
+      "sentence": "The scheme is open to both new and existing businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.5915543437004089,
+      "similarities": {
+        "ContextObjective": 0.5915543437004089,
+        "BenefitsAssistance": 0.5179470181465149,
+        "Eligibility": 0.5864253044128418,
+        "ApplicationProcess": 0.5323410034179688,
+        "TimelineFrequency": 0.4963698387145996,
+        "AuthoritiesGovernance": 0.4481000304222107,
+        "DefinitionsReferences": 0.45542120933532715
+      }
+    },
+    {
+      "sentence": "The annual turnover of the business should not exceed ₹5 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4579758048057556,
+      "similarities": {
+        "ContextObjective": 0.4045466482639313,
+        "BenefitsAssistance": 0.4579758048057556,
+        "Eligibility": 0.4357984662055969,
+        "ApplicationProcess": 0.405048131942749,
+        "TimelineFrequency": 0.390285849571228,
+        "AuthoritiesGovernance": 0.34973931312561035,
+        "DefinitionsReferences": 0.37026268243789673
+      }
+    },
+    {
+      "sentence": "The applicant must not have any outstanding loans with default status.",
+      "role": "Eligibility",
+      "confidence": 0.6171267032623291,
+      "similarities": {
+        "ContextObjective": 0.43174898624420166,
+        "BenefitsAssistance": 0.43516141176223755,
+        "Eligibility": 0.6171267032623291,
+        "ApplicationProcess": 0.5655885934829712,
+        "TimelineFrequency": 0.509731113910675,
+        "AuthoritiesGovernance": 0.3647054433822632,
+        "DefinitionsReferences": 0.3620275855064392
+      }
+    },
+    {
+      "sentence": "The application process for the Big Loan Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6725502014160156,
+      "similarities": {
+        "ContextObjective": 0.5776370763778687,
+        "BenefitsAssistance": 0.5346823930740356,
+        "Eligibility": 0.5978596210479736,
+        "ApplicationProcess": 0.6725502014160156,
+        "TimelineFrequency": 0.5860040187835693,
+        "AuthoritiesGovernance": 0.4669298827648163,
+        "DefinitionsReferences": 0.48424217104911804
+      }
+    },
+    {
+      "sentence": "Interested applicants must first visit the official website of the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5824569463729858,
+      "similarities": {
+        "ContextObjective": 0.46636417508125305,
+        "BenefitsAssistance": 0.3879152536392212,
+        "Eligibility": 0.5128912925720215,
+        "ApplicationProcess": 0.5824569463729858,
+        "TimelineFrequency": 0.46550649404525757,
+        "AuthoritiesGovernance": 0.41141432523727417,
+        "DefinitionsReferences": 0.3886491060256958
+      }
+    },
+    {
+      "sentence": "They need to fill out an online application form providing details about their business and financial requirements.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7142449021339417,
+      "similarities": {
+        "ContextObjective": 0.49191761016845703,
+        "BenefitsAssistance": 0.5659904479980469,
+        "Eligibility": 0.6039093732833862,
+        "ApplicationProcess": 0.7142449021339417,
+        "TimelineFrequency": 0.5486912727355957,
+        "AuthoritiesGovernance": 0.4102884531021118,
+        "DefinitionsReferences": 0.45768487453460693
+      }
+    },
+    {
+      "sentence": "Applicants are required to upload necessary documents including identity proof, address proof, and business registration documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7085551619529724,
+      "similarities": {
+        "ContextObjective": 0.47995609045028687,
+        "BenefitsAssistance": 0.5402817726135254,
+        "Eligibility": 0.6064988970756531,
+        "ApplicationProcess": 0.7085551619529724,
+        "TimelineFrequency": 0.5666961669921875,
+        "AuthoritiesGovernance": 0.46987470984458923,
+        "DefinitionsReferences": 0.5339797139167786
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "If approved, the applicant will receive a sanction letter detailing the loan amount and terms.",
+      "role": "Eligibility",
+      "confidence": 0.6270531415939331,
+      "similarities": {
+        "ContextObjective": 0.4491104185581207,
+        "BenefitsAssistance": 0.5631000995635986,
+        "Eligibility": 0.6270531415939331,
+        "ApplicationProcess": 0.5940805077552795,
+        "TimelineFrequency": 0.5347687005996704,
+        "AuthoritiesGovernance": 0.45472925901412964,
+        "DefinitionsReferences": 0.4948103427886963
+      }
+    },
+    {
+      "sentence": "The loan amount will then be disbursed directly to the applicant's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.504524827003479,
+      "similarities": {
+        "ContextObjective": 0.3661995232105255,
+        "BenefitsAssistance": 0.504524827003479,
+        "Eligibility": 0.4725685715675354,
+        "ApplicationProcess": 0.4969146251678467,
+        "TimelineFrequency": 0.4517393708229065,
+        "AuthoritiesGovernance": 0.3661423921585083,
+        "DefinitionsReferences": 0.3356798589229584
+      }
+    },
+    {
+      "sentence": "The timeline for loan disbursement is typically within 30 days of application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5739240646362305,
+      "similarities": {
+        "ContextObjective": 0.45437198877334595,
+        "BenefitsAssistance": 0.5105763673782349,
+        "Eligibility": 0.511452317237854,
+        "ApplicationProcess": 0.5023773908615112,
+        "TimelineFrequency": 0.5739240646362305,
+        "AuthoritiesGovernance": 0.4232792258262634,
+        "DefinitionsReferences": 0.4047146439552307
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is implemented by the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.4741111099720001,
+      "similarities": {
+        "ContextObjective": 0.4741111099720001,
+        "BenefitsAssistance": 0.43881142139434814,
+        "Eligibility": 0.44906896352767944,
+        "ApplicationProcess": 0.42458683252334595,
+        "TimelineFrequency": 0.38454943895339966,
+        "AuthoritiesGovernance": 0.46899834275245667,
+        "DefinitionsReferences": 0.3851945996284485
+      }
+    },
+    {
+      "sentence": "State governments and financial institutions also play a crucial role in the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5711474418640137,
+      "similarities": {
+        "ContextObjective": 0.5097628831863403,
+        "BenefitsAssistance": 0.49889352917671204,
+        "Eligibility": 0.5355048179626465,
+        "ApplicationProcess": 0.492737352848053,
+        "TimelineFrequency": 0.4235072731971741,
+        "AuthoritiesGovernance": 0.5711474418640137,
+        "DefinitionsReferences": 0.45943087339401245
+      }
+    },
+    {
+      "sentence": "Contact details for further inquiries can be found on the official website of the Ministry of MSME.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5134822726249695,
+      "similarities": {
+        "ContextObjective": 0.43565863370895386,
+        "BenefitsAssistance": 0.45980823040008545,
+        "Eligibility": 0.4393155574798584,
+        "ApplicationProcess": 0.5134822726249695,
+        "TimelineFrequency": 0.43355339765548706,
+        "AuthoritiesGovernance": 0.5058515071868896,
+        "DefinitionsReferences": 0.4456362724304199
+      }
+    },
+    {
+      "sentence": "The scheme is expected to create millions of jobs across various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.5547493696212769,
+      "similarities": {
+        "ContextObjective": 0.5547493696212769,
+        "BenefitsAssistance": 0.46000832319259644,
+        "Eligibility": 0.501151978969574,
+        "ApplicationProcess": 0.4279710352420807,
+        "TimelineFrequency": 0.44456735253334045,
+        "AuthoritiesGovernance": 0.4294315576553345,
+        "DefinitionsReferences": 0.39152854681015015
+      }
+    },
+    {
+      "sentence": "It aims to boost the overall economic growth of the country by supporting small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.47554153203964233,
+      "similarities": {
+        "ContextObjective": 0.47554153203964233,
+        "BenefitsAssistance": 0.4204610586166382,
+        "Eligibility": 0.37695348262786865,
+        "ApplicationProcess": 0.36917948722839355,
+        "TimelineFrequency": 0.35690584778785706,
+        "AuthoritiesGovernance": 0.3930724859237671,
+        "DefinitionsReferences": 0.38404589891433716
+      }
+    },
+    {
+      "sentence": "The government anticipates that the scheme will lead to an increase in the contribution of MSMEs to the GDP.",
+      "role": "ContextObjective",
+      "confidence": 0.4865378737449646,
+      "similarities": {
+        "ContextObjective": 0.4865378737449646,
+        "BenefitsAssistance": 0.42638081312179565,
+        "Eligibility": 0.38785412907600403,
+        "ApplicationProcess": 0.37083306908607483,
+        "TimelineFrequency": 0.3609132766723633,
+        "AuthoritiesGovernance": 0.38738271594047546,
+        "DefinitionsReferences": 0.35732322931289673
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has already facilitated loans worth approximately ₹30,000 crore.",
+      "role": "ContextObjective",
+      "confidence": 0.47379958629608154,
+      "similarities": {
+        "ContextObjective": 0.47379958629608154,
+        "BenefitsAssistance": 0.442999929189682,
+        "Eligibility": 0.42915213108062744,
+        "ApplicationProcess": 0.3653146028518677,
+        "TimelineFrequency": 0.3661578297615051,
+        "AuthoritiesGovernance": 0.3438176214694977,
+        "DefinitionsReferences": 0.35417550802230835
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who have successfully started or expanded their businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.540855884552002,
+      "similarities": {
+        "ContextObjective": 0.540855884552002,
+        "BenefitsAssistance": 0.4500216841697693,
+        "Eligibility": 0.49498945474624634,
+        "ApplicationProcess": 0.40881457924842834,
+        "TimelineFrequency": 0.3672419786453247,
+        "AuthoritiesGovernance": 0.38030368089675903,
+        "DefinitionsReferences": 0.4082975387573242
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness programs to educate potential applicants about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5562844276428223,
+      "similarities": {
+        "ContextObjective": 0.5562844276428223,
+        "BenefitsAssistance": 0.4492638409137726,
+        "Eligibility": 0.5425082445144653,
+        "ApplicationProcess": 0.5452705025672913,
+        "TimelineFrequency": 0.4717658758163452,
+        "AuthoritiesGovernance": 0.42161324620246887,
+        "DefinitionsReferences": 0.3938039243221283
+      }
+    },
+    {
+      "sentence": "These programs include workshops and seminars conducted in various states.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5346986055374146,
+      "similarities": {
+        "ContextObjective": 0.47842589020729065,
+        "BenefitsAssistance": 0.46203672885894775,
+        "Eligibility": 0.4888971447944641,
+        "ApplicationProcess": 0.445889413356781,
+        "TimelineFrequency": 0.4854729473590851,
+        "AuthoritiesGovernance": 0.5346986055374146,
+        "DefinitionsReferences": 0.46918821334838867
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is part of a larger framework of initiatives aimed at enhancing the ease of doing business in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49220630526542664,
+      "similarities": {
+        "ContextObjective": 0.49220630526542664,
+        "BenefitsAssistance": 0.4423384666442871,
+        "Eligibility": 0.4494441747665405,
+        "ApplicationProcess": 0.4189615845680237,
+        "TimelineFrequency": 0.38728249073028564,
+        "AuthoritiesGovernance": 0.3990662693977356,
+        "DefinitionsReferences": 0.40291768312454224
+      }
+    },
+    {
+      "sentence": "The government has also introduced a digital platform to streamline the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6337023377418518,
+      "similarities": {
+        "ContextObjective": 0.4828827977180481,
+        "BenefitsAssistance": 0.47147172689437866,
+        "Eligibility": 0.5300998091697693,
+        "ApplicationProcess": 0.6337023377418518,
+        "TimelineFrequency": 0.530597448348999,
+        "AuthoritiesGovernance": 0.4729100167751312,
+        "DefinitionsReferences": 0.46540534496307373
+      }
+    },
+    {
+      "sentence": "This platform allows applicants to track their application status in real-time.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6383370161056519,
+      "similarities": {
+        "ContextObjective": 0.4802100658416748,
+        "BenefitsAssistance": 0.4992714822292328,
+        "Eligibility": 0.5712462067604065,
+        "ApplicationProcess": 0.6383370161056519,
+        "TimelineFrequency": 0.6383079886436462,
+        "AuthoritiesGovernance": 0.4381643533706665,
+        "DefinitionsReferences": 0.4379907250404358
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the goals of the Make in India initiative which aims to encourage manufacturing in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.512112021446228,
+      "similarities": {
+        "ContextObjective": 0.512112021446228,
+        "BenefitsAssistance": 0.3566974401473999,
+        "Eligibility": 0.43277058005332947,
+        "ApplicationProcess": 0.4097420871257782,
+        "TimelineFrequency": 0.363730788230896,
+        "AuthoritiesGovernance": 0.3825273811817169,
+        "DefinitionsReferences": 0.33034834265708923
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is expected to significantly reduce unemployment rates in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.3936014175415039,
+      "similarities": {
+        "ContextObjective": 0.3936014175415039,
+        "BenefitsAssistance": 0.3734375536441803,
+        "Eligibility": 0.3716931641101837,
+        "ApplicationProcess": 0.31714534759521484,
+        "TimelineFrequency": 0.35252445936203003,
+        "AuthoritiesGovernance": 0.3207370638847351,
+        "DefinitionsReferences": 0.26675352454185486
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹10,000 crore specifically for the implementation of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4679454565048218,
+      "similarities": {
+        "ContextObjective": 0.4518696963787079,
+        "BenefitsAssistance": 0.4636131525039673,
+        "Eligibility": 0.4679454565048218,
+        "ApplicationProcess": 0.4113706052303314,
+        "TimelineFrequency": 0.38101476430892944,
+        "AuthoritiesGovernance": 0.4568849802017212,
+        "DefinitionsReferences": 0.35381442308425903
+      }
+    },
+    {
+      "sentence": "The scheme also encourages women entrepreneurs by providing additional benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.48870447278022766,
+      "similarities": {
+        "ContextObjective": 0.48870447278022766,
+        "BenefitsAssistance": 0.4499766230583191,
+        "Eligibility": 0.434703528881073,
+        "ApplicationProcess": 0.3797212839126587,
+        "TimelineFrequency": 0.3835122287273407,
+        "AuthoritiesGovernance": 0.34328070282936096,
+        "DefinitionsReferences": 0.3641001880168915
+      }
+    },
+    {
+      "sentence": "Women applicants are eligible for a 1 percent reduction in the interest rate.",
+      "role": "Eligibility",
+      "confidence": 0.44621777534484863,
+      "similarities": {
+        "ContextObjective": 0.33527636528015137,
+        "BenefitsAssistance": 0.37864983081817627,
+        "Eligibility": 0.44621777534484863,
+        "ApplicationProcess": 0.3758109211921692,
+        "TimelineFrequency": 0.39309078454971313,
+        "AuthoritiesGovernance": 0.3118681311607361,
+        "DefinitionsReferences": 0.2635223865509033
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is a step towards financial inclusion for marginalized communities.",
+      "role": "Eligibility",
+      "confidence": 0.48886430263519287,
+      "similarities": {
+        "ContextObjective": 0.4850717782974243,
+        "BenefitsAssistance": 0.46430402994155884,
+        "Eligibility": 0.48886430263519287,
+        "ApplicationProcess": 0.3949073553085327,
+        "TimelineFrequency": 0.3552955985069275,
+        "AuthoritiesGovernance": 0.390811026096344,
+        "DefinitionsReferences": 0.36140626668930054
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the benefits of the scheme reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.551353931427002,
+      "similarities": {
+        "ContextObjective": 0.5348394513130188,
+        "BenefitsAssistance": 0.46102017164230347,
+        "Eligibility": 0.551353931427002,
+        "ApplicationProcess": 0.45049798488616943,
+        "TimelineFrequency": 0.389085590839386,
+        "AuthoritiesGovernance": 0.4733285903930664,
+        "DefinitionsReferences": 0.38859230279922485
+      }
+    },
+    {
+      "sentence": "Regular monitoring and evaluation of the scheme are conducted to assess its impact.",
+      "role": "ContextObjective",
+      "confidence": 0.518118143081665,
+      "similarities": {
+        "ContextObjective": 0.518118143081665,
+        "BenefitsAssistance": 0.49685829877853394,
+        "Eligibility": 0.5056508779525757,
+        "ApplicationProcess": 0.4935109317302704,
+        "TimelineFrequency": 0.4696160554885864,
+        "AuthoritiesGovernance": 0.49090659618377686,
+        "DefinitionsReferences": 0.44469934701919556
+      }
+    },
+    {
+      "sentence": "The government plans to make necessary adjustments based on feedback from stakeholders.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5799153447151184,
+      "similarities": {
+        "ContextObjective": 0.5154845714569092,
+        "BenefitsAssistance": 0.49643611907958984,
+        "Eligibility": 0.5322459936141968,
+        "ApplicationProcess": 0.500617504119873,
+        "TimelineFrequency": 0.46622541546821594,
+        "AuthoritiesGovernance": 0.5799153447151184,
+        "DefinitionsReferences": 0.47986724972724915
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is a testament to the government's commitment to fostering entrepreneurship in India.",
+      "role": "ContextObjective",
+      "confidence": 0.45134180784225464,
+      "similarities": {
+        "ContextObjective": 0.45134180784225464,
+        "BenefitsAssistance": 0.3855039179325104,
+        "Eligibility": 0.4038160443305969,
+        "ApplicationProcess": 0.3659604787826538,
+        "TimelineFrequency": 0.33839645981788635,
+        "AuthoritiesGovernance": 0.33452308177948,
+        "DefinitionsReferences": 0.37269893288612366
+      }
+    },
+    {
+      "sentence": "It reflects the understanding that small businesses are the backbone of the Indian economy.",
+      "role": "ContextObjective",
+      "confidence": 0.40998244285583496,
+      "similarities": {
+        "ContextObjective": 0.40998244285583496,
+        "BenefitsAssistance": 0.3559236526489258,
+        "Eligibility": 0.330315500497818,
+        "ApplicationProcess": 0.30581730604171753,
+        "TimelineFrequency": 0.31481945514678955,
+        "AuthoritiesGovernance": 0.32524752616882324,
+        "DefinitionsReferences": 0.3736761510372162
+      }
+    },
+    {
+      "sentence": "The scheme is expected to contribute to the development of rural and semi-urban areas.",
+      "role": "ContextObjective",
+      "confidence": 0.5259414315223694,
+      "similarities": {
+        "ContextObjective": 0.5259414315223694,
+        "BenefitsAssistance": 0.4327808618545532,
+        "Eligibility": 0.4912183880805969,
+        "ApplicationProcess": 0.4358646273612976,
+        "TimelineFrequency": 0.4111078381538391,
+        "AuthoritiesGovernance": 0.4237067997455597,
+        "DefinitionsReferences": 0.3966754078865051
+      }
+    },
+    {
+      "sentence": "By providing financial support, the scheme aims to reduce regional disparities in economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.4807848334312439,
+      "similarities": {
+        "ContextObjective": 0.4807848334312439,
+        "BenefitsAssistance": 0.47071582078933716,
+        "Eligibility": 0.4695743918418884,
+        "ApplicationProcess": 0.3777300715446472,
+        "TimelineFrequency": 0.3690530061721802,
+        "AuthoritiesGovernance": 0.38823753595352173,
+        "DefinitionsReferences": 0.31344422698020935
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is a vital component of India's strategy to achieve sustainable economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.5012993812561035,
+      "similarities": {
+        "ContextObjective": 0.5012993812561035,
+        "BenefitsAssistance": 0.4086056053638458,
+        "Eligibility": 0.40648818016052246,
+        "ApplicationProcess": 0.392818808555603,
+        "TimelineFrequency": 0.3660998046398163,
+        "AuthoritiesGovernance": 0.3468279540538788,
+        "DefinitionsReferences": 0.36121827363967896
+      }
+    },
+    {
+      "sentence": "It is designed to create a conducive environment for business development.",
+      "role": "ContextObjective",
+      "confidence": 0.5111827850341797,
+      "similarities": {
+        "ContextObjective": 0.5111827850341797,
+        "BenefitsAssistance": 0.3760315179824829,
+        "Eligibility": 0.43719714879989624,
+        "ApplicationProcess": 0.4030510485172272,
+        "TimelineFrequency": 0.39651983976364136,
+        "AuthoritiesGovernance": 0.38597047328948975,
+        "DefinitionsReferences": 0.4223324656486511
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible individuals to take advantage of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5437228679656982,
+      "similarities": {
+        "ContextObjective": 0.534411609172821,
+        "BenefitsAssistance": 0.4834691286087036,
+        "Eligibility": 0.5437228679656982,
+        "ApplicationProcess": 0.47826090455055237,
+        "TimelineFrequency": 0.4349200129508972,
+        "AuthoritiesGovernance": 0.4046362042427063,
+        "DefinitionsReferences": 0.39745277166366577
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is a significant opportunity for those looking to make their mark in the business world.",
+      "role": "ContextObjective",
+      "confidence": 0.5231757760047913,
+      "similarities": {
+        "ContextObjective": 0.5231757760047913,
+        "BenefitsAssistance": 0.4177834391593933,
+        "Eligibility": 0.48548227548599243,
+        "ApplicationProcess": 0.42330342531204224,
+        "TimelineFrequency": 0.3980279564857483,
+        "AuthoritiesGovernance": 0.30263739824295044,
+        "DefinitionsReferences": 0.3769840598106384
+      }
+    },
+    {
+      "sentence": "With the right support and resources, aspiring entrepreneurs can turn their ideas into successful ventures.",
+      "role": "ContextObjective",
+      "confidence": 0.5145022869110107,
+      "similarities": {
+        "ContextObjective": 0.5145022869110107,
+        "BenefitsAssistance": 0.43645524978637695,
+        "Eligibility": 0.458984911441803,
+        "ApplicationProcess": 0.4429529905319214,
+        "TimelineFrequency": 0.4181695580482483,
+        "AuthoritiesGovernance": 0.39009350538253784,
+        "DefinitionsReferences": 0.4330262541770935
+      }
+    },
+    {
+      "sentence": "The scheme is a clear indication of the government's proactive approach to economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.5192626714706421,
+      "similarities": {
+        "ContextObjective": 0.5192626714706421,
+        "BenefitsAssistance": 0.3966749906539917,
+        "Eligibility": 0.42429661750793457,
+        "ApplicationProcess": 0.41215139627456665,
+        "TimelineFrequency": 0.37017005681991577,
+        "AuthoritiesGovernance": 0.39457646012306213,
+        "DefinitionsReferences": 0.37534886598587036
+      }
+    },
+    {
+      "sentence": "The Big Loan Scheme is set to play a crucial role in shaping the future of entrepreneurship in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49102798104286194,
+      "similarities": {
+        "ContextObjective": 0.49102798104286194,
+        "BenefitsAssistance": 0.40049731731414795,
+        "Eligibility": 0.42925432324409485,
+        "ApplicationProcess": 0.37059348821640015,
+        "TimelineFrequency": 0.36502549052238464,
+        "AuthoritiesGovernance": 0.3429678678512573,
+        "DefinitionsReferences": 0.3746691942214966
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 31,
+    "Eligibility": 11,
+    "BenefitsAssistance": 4,
+    "TimelineFrequency": 3,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:31:05.215970"
+}

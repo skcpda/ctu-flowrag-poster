@@ -1,0 +1,897 @@
+{
+  "scheme_name": "MICRO FINANCE (Gopalak Nigam)",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Gopalak Nigam scheme is a microfinance initiative launched by the Government of India to support dairy farmers and enhance their livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.5193297863006592,
+      "similarities": {
+        "ContextObjective": 0.5193297863006592,
+        "BenefitsAssistance": 0.45614832639694214,
+        "Eligibility": 0.49043354392051697,
+        "ApplicationProcess": 0.42832306027412415,
+        "TimelineFrequency": 0.42196527123451233,
+        "AuthoritiesGovernance": 0.44047635793685913,
+        "DefinitionsReferences": 0.37882936000823975
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st April 2020 under the Ministry of Animal Husbandry and Dairying.",
+      "role": "ContextObjective",
+      "confidence": 0.5415863990783691,
+      "similarities": {
+        "ContextObjective": 0.5415863990783691,
+        "BenefitsAssistance": 0.391011118888855,
+        "Eligibility": 0.443053275346756,
+        "ApplicationProcess": 0.4453025162220001,
+        "TimelineFrequency": 0.45281967520713806,
+        "AuthoritiesGovernance": 0.42760351300239563,
+        "DefinitionsReferences": 0.3309200406074524
+      }
+    },
+    {
+      "sentence": "The primary objective of the Gopalak Nigam scheme is to provide financial assistance to dairy farmers for the purchase of dairy animals and related equipment.",
+      "role": "ContextObjective",
+      "confidence": 0.5027647614479065,
+      "similarities": {
+        "ContextObjective": 0.5027647614479065,
+        "BenefitsAssistance": 0.44336628913879395,
+        "Eligibility": 0.45172345638275146,
+        "ApplicationProcess": 0.4059370160102844,
+        "TimelineFrequency": 0.38280755281448364,
+        "AuthoritiesGovernance": 0.3850560188293457,
+        "DefinitionsReferences": 0.35920044779777527
+      }
+    },
+    {
+      "sentence": "The scheme aims to increase milk production in India by providing easy access to credit for small and marginal farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.48564109206199646,
+      "similarities": {
+        "ContextObjective": 0.48564109206199646,
+        "BenefitsAssistance": 0.3986842632293701,
+        "Eligibility": 0.43973782658576965,
+        "ApplicationProcess": 0.3903455138206482,
+        "TimelineFrequency": 0.36727380752563477,
+        "AuthoritiesGovernance": 0.33493876457214355,
+        "DefinitionsReferences": 0.3223056495189667
+      }
+    },
+    {
+      "sentence": "The target is to enhance the income of dairy farmers by at least 30 percent within the first three years of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.4415837526321411,
+      "similarities": {
+        "ContextObjective": 0.4415837526321411,
+        "BenefitsAssistance": 0.37988170981407166,
+        "Eligibility": 0.4047881066799164,
+        "ApplicationProcess": 0.3441784381866455,
+        "TimelineFrequency": 0.34875330328941345,
+        "AuthoritiesGovernance": 0.38198429346084595,
+        "DefinitionsReferences": 0.3303934931755066
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme specifically focuses on empowering women in the dairy sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4097104072570801,
+      "similarities": {
+        "ContextObjective": 0.4097104072570801,
+        "BenefitsAssistance": 0.32828062772750854,
+        "Eligibility": 0.38216957449913025,
+        "ApplicationProcess": 0.32329514622688293,
+        "TimelineFrequency": 0.3258988559246063,
+        "AuthoritiesGovernance": 0.3360307514667511,
+        "DefinitionsReferences": 0.29692286252975464
+      }
+    },
+    {
+      "sentence": "It aims to ensure that at least 50 percent of the beneficiaries under this scheme are women.",
+      "role": "Eligibility",
+      "confidence": 0.47460368275642395,
+      "similarities": {
+        "ContextObjective": 0.46673211455345154,
+        "BenefitsAssistance": 0.3945407271385193,
+        "Eligibility": 0.47460368275642395,
+        "ApplicationProcess": 0.39687350392341614,
+        "TimelineFrequency": 0.38037511706352234,
+        "AuthoritiesGovernance": 0.3862976133823395,
+        "DefinitionsReferences": 0.32414379715919495
+      }
+    },
+    {
+      "sentence": "The benefits of the Gopalak Nigam scheme include financial assistance of up to ₹1 lakh per beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5255669355392456,
+      "similarities": {
+        "ContextObjective": 0.4372396171092987,
+        "BenefitsAssistance": 0.5255669355392456,
+        "Eligibility": 0.4811936020851135,
+        "ApplicationProcess": 0.3929727077484131,
+        "TimelineFrequency": 0.35616135597229004,
+        "AuthoritiesGovernance": 0.35098743438720703,
+        "DefinitionsReferences": 0.3502625524997711
+      }
+    },
+    {
+      "sentence": "This financial assistance can be utilized for purchasing high-yielding dairy animals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49075573682785034,
+      "similarities": {
+        "ContextObjective": 0.40298300981521606,
+        "BenefitsAssistance": 0.49075573682785034,
+        "Eligibility": 0.47033512592315674,
+        "ApplicationProcess": 0.38676387071609497,
+        "TimelineFrequency": 0.4048363268375397,
+        "AuthoritiesGovernance": 0.35468578338623047,
+        "DefinitionsReferences": 0.3874150514602661
+      }
+    },
+    {
+      "sentence": "It can also be used for acquiring necessary equipment such as milking machines and fodder cultivation tools.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4610459804534912,
+      "similarities": {
+        "ContextObjective": 0.44339755177497864,
+        "BenefitsAssistance": 0.44037091732025146,
+        "Eligibility": 0.45651331543922424,
+        "ApplicationProcess": 0.4610459804534912,
+        "TimelineFrequency": 0.44908905029296875,
+        "AuthoritiesGovernance": 0.3854132294654846,
+        "DefinitionsReferences": 0.45972466468811035
+      }
+    },
+    {
+      "sentence": "The scheme provides a subsidized interest rate of 4 percent on loans taken under this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.442195862531662,
+      "similarities": {
+        "ContextObjective": 0.442195862531662,
+        "BenefitsAssistance": 0.4357397258281708,
+        "Eligibility": 0.4372692406177521,
+        "ApplicationProcess": 0.3979453444480896,
+        "TimelineFrequency": 0.4070814549922943,
+        "AuthoritiesGovernance": 0.34540343284606934,
+        "DefinitionsReferences": 0.33758118748664856
+      }
+    },
+    {
+      "sentence": "Farmers can avail of this loan for a tenure of up to five years.",
+      "role": "Eligibility",
+      "confidence": 0.5042094588279724,
+      "similarities": {
+        "ContextObjective": 0.4455469846725464,
+        "BenefitsAssistance": 0.48948508501052856,
+        "Eligibility": 0.5042094588279724,
+        "ApplicationProcess": 0.4464885890483856,
+        "TimelineFrequency": 0.4751659631729126,
+        "AuthoritiesGovernance": 0.37216126918792725,
+        "DefinitionsReferences": 0.43058663606643677
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Gopalak Nigam scheme include being a resident of India.",
+      "role": "Eligibility",
+      "confidence": 0.6008787155151367,
+      "similarities": {
+        "ContextObjective": 0.4748171865940094,
+        "BenefitsAssistance": 0.41709664463996887,
+        "Eligibility": 0.6008787155151367,
+        "ApplicationProcess": 0.5124856233596802,
+        "TimelineFrequency": 0.4419674873352051,
+        "AuthoritiesGovernance": 0.378757119178772,
+        "DefinitionsReferences": 0.3698517680168152
+      }
+    },
+    {
+      "sentence": "Applicants must be engaged in dairy farming activities.",
+      "role": "Eligibility",
+      "confidence": 0.5868390202522278,
+      "similarities": {
+        "ContextObjective": 0.47741609811782837,
+        "BenefitsAssistance": 0.4168049693107605,
+        "Eligibility": 0.5868390202522278,
+        "ApplicationProcess": 0.5514721274375916,
+        "TimelineFrequency": 0.5189343690872192,
+        "AuthoritiesGovernance": 0.41288670897483826,
+        "DefinitionsReferences": 0.42637962102890015
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set between 18 to 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.6337173581123352,
+      "similarities": {
+        "ContextObjective": 0.4765816330909729,
+        "BenefitsAssistance": 0.4583401083946228,
+        "Eligibility": 0.6337173581123352,
+        "ApplicationProcess": 0.5604981184005737,
+        "TimelineFrequency": 0.5492445230484009,
+        "AuthoritiesGovernance": 0.42908528447151184,
+        "DefinitionsReferences": 0.40377917885780334
+      }
+    },
+    {
+      "sentence": "The income criteria stipulate that the annual income of the applicant should not exceed ₹2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5607344508171082,
+      "similarities": {
+        "ContextObjective": 0.4478052258491516,
+        "BenefitsAssistance": 0.46172961592674255,
+        "Eligibility": 0.5607344508171082,
+        "ApplicationProcess": 0.48914867639541626,
+        "TimelineFrequency": 0.4394531846046448,
+        "AuthoritiesGovernance": 0.33544978499412537,
+        "DefinitionsReferences": 0.3751489818096161
+      }
+    },
+    {
+      "sentence": "The scheme is particularly aimed at small and marginal farmers who own 1 to 5 dairy animals.",
+      "role": "ContextObjective",
+      "confidence": 0.4767988324165344,
+      "similarities": {
+        "ContextObjective": 0.4767988324165344,
+        "BenefitsAssistance": 0.37485259771347046,
+        "Eligibility": 0.45152992010116577,
+        "ApplicationProcess": 0.3802133798599243,
+        "TimelineFrequency": 0.38808754086494446,
+        "AuthoritiesGovernance": 0.36356934905052185,
+        "DefinitionsReferences": 0.3350214958190918
+      }
+    },
+    {
+      "sentence": "To apply for the Gopalak Nigam scheme, interested beneficiaries must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6284339427947998,
+      "similarities": {
+        "ContextObjective": 0.5136516094207764,
+        "BenefitsAssistance": 0.4458141326904297,
+        "Eligibility": 0.6164214611053467,
+        "ApplicationProcess": 0.6284339427947998,
+        "TimelineFrequency": 0.524601936340332,
+        "AuthoritiesGovernance": 0.44284045696258545,
+        "DefinitionsReferences": 0.4025641083717346
+      }
+    },
+    {
+      "sentence": "The first step involves visiting the official website of the Ministry of Animal Husbandry and Dairying.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5474388599395752,
+      "similarities": {
+        "ContextObjective": 0.475337415933609,
+        "BenefitsAssistance": 0.40693429112434387,
+        "Eligibility": 0.4305988848209381,
+        "ApplicationProcess": 0.5474388599395752,
+        "TimelineFrequency": 0.42631280422210693,
+        "AuthoritiesGovernance": 0.46469956636428833,
+        "DefinitionsReferences": 0.46115732192993164
+      }
+    },
+    {
+      "sentence": "Applicants must fill out the online application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7552750110626221,
+      "similarities": {
+        "ContextObjective": 0.4649031162261963,
+        "BenefitsAssistance": 0.4847498834133148,
+        "Eligibility": 0.5889062881469727,
+        "ApplicationProcess": 0.7552750110626221,
+        "TimelineFrequency": 0.5726392269134521,
+        "AuthoritiesGovernance": 0.4236084818840027,
+        "DefinitionsReferences": 0.4545323848724365
+      }
+    },
+    {
+      "sentence": "Required documents include proof of identity such as an Aadhar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5948466062545776,
+      "similarities": {
+        "ContextObjective": 0.4491325914859772,
+        "BenefitsAssistance": 0.5178730487823486,
+        "Eligibility": 0.5036073923110962,
+        "ApplicationProcess": 0.5948466062545776,
+        "TimelineFrequency": 0.46570640802383423,
+        "AuthoritiesGovernance": 0.45394355058670044,
+        "DefinitionsReferences": 0.5088433027267456
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of residence such as a utility bill or rental agreement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6446852684020996,
+      "similarities": {
+        "ContextObjective": 0.4242779016494751,
+        "BenefitsAssistance": 0.531748354434967,
+        "Eligibility": 0.549262285232544,
+        "ApplicationProcess": 0.6446852684020996,
+        "TimelineFrequency": 0.5422605276107788,
+        "AuthoritiesGovernance": 0.41707947850227356,
+        "DefinitionsReferences": 0.49050331115722656
+      }
+    },
+    {
+      "sentence": "A bank account statement is required to demonstrate financial eligibility.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.617161214351654,
+      "similarities": {
+        "ContextObjective": 0.4968720078468323,
+        "BenefitsAssistance": 0.617161214351654,
+        "Eligibility": 0.6119995713233948,
+        "ApplicationProcess": 0.5948691368103027,
+        "TimelineFrequency": 0.5375983119010925,
+        "AuthoritiesGovernance": 0.39699631929397583,
+        "DefinitionsReferences": 0.47824031114578247
+      }
+    },
+    {
+      "sentence": "Additionally, a certificate from a veterinary officer confirming the health of the dairy animals may be needed.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4932890236377716,
+      "similarities": {
+        "ContextObjective": 0.37093856930732727,
+        "BenefitsAssistance": 0.40730929374694824,
+        "Eligibility": 0.44056272506713867,
+        "ApplicationProcess": 0.4932890236377716,
+        "TimelineFrequency": 0.4077330529689789,
+        "AuthoritiesGovernance": 0.3907390832901001,
+        "DefinitionsReferences": 0.39342018961906433
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications is typically within 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6435543298721313,
+      "similarities": {
+        "ContextObjective": 0.4818728268146515,
+        "BenefitsAssistance": 0.43905389308929443,
+        "Eligibility": 0.5367196202278137,
+        "ApplicationProcess": 0.5874953269958496,
+        "TimelineFrequency": 0.6435543298721313,
+        "AuthoritiesGovernance": 0.44807595014572144,
+        "DefinitionsReferences": 0.43472814559936523
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is done in a phased manner based on the requirements of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.604246199131012,
+      "similarities": {
+        "ContextObjective": 0.5100120306015015,
+        "BenefitsAssistance": 0.5686445236206055,
+        "Eligibility": 0.604246199131012,
+        "ApplicationProcess": 0.5273290872573853,
+        "TimelineFrequency": 0.5255252122879028,
+        "AuthoritiesGovernance": 0.4982020854949951,
+        "DefinitionsReferences": 0.45536452531814575
+      }
+    },
+    {
+      "sentence": "The first installment is usually released within 15 days of approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5403861999511719,
+      "similarities": {
+        "ContextObjective": 0.4529380798339844,
+        "BenefitsAssistance": 0.4729860723018646,
+        "Eligibility": 0.4498453438282013,
+        "ApplicationProcess": 0.4864117205142975,
+        "TimelineFrequency": 0.5403861999511719,
+        "AuthoritiesGovernance": 0.41133296489715576,
+        "DefinitionsReferences": 0.4244961738586426
+      }
+    },
+    {
+      "sentence": "Subsequent installments are released based on the progress of the dairy farming activities.",
+      "role": "ContextObjective",
+      "confidence": 0.47174209356307983,
+      "similarities": {
+        "ContextObjective": 0.47174209356307983,
+        "BenefitsAssistance": 0.4235149919986725,
+        "Eligibility": 0.3788706660270691,
+        "ApplicationProcess": 0.4136338233947754,
+        "TimelineFrequency": 0.4472125172615051,
+        "AuthoritiesGovernance": 0.4088843762874603,
+        "DefinitionsReferences": 0.44097790122032166
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Gopalak Nigam scheme is the Department of Animal Husbandry and Dairying.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5348568558692932,
+      "similarities": {
+        "ContextObjective": 0.41099244356155396,
+        "BenefitsAssistance": 0.36027562618255615,
+        "Eligibility": 0.43577951192855835,
+        "ApplicationProcess": 0.3980444073677063,
+        "TimelineFrequency": 0.36525577306747437,
+        "AuthoritiesGovernance": 0.5348568558692932,
+        "DefinitionsReferences": 0.38790377974510193
+      }
+    },
+    {
+      "sentence": "State governments also play a crucial role in the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5647686719894409,
+      "similarities": {
+        "ContextObjective": 0.5080933570861816,
+        "BenefitsAssistance": 0.4366004467010498,
+        "Eligibility": 0.503511369228363,
+        "ApplicationProcess": 0.4720490872859955,
+        "TimelineFrequency": 0.41085413098335266,
+        "AuthoritiesGovernance": 0.5647686719894409,
+        "DefinitionsReferences": 0.4404604732990265
+      }
+    },
+    {
+      "sentence": "They are responsible for identifying eligible beneficiaries and facilitating the application process.",
+      "role": "Eligibility",
+      "confidence": 0.6969029903411865,
+      "similarities": {
+        "ContextObjective": 0.5668697357177734,
+        "BenefitsAssistance": 0.5587567090988159,
+        "Eligibility": 0.6969029903411865,
+        "ApplicationProcess": 0.6246774196624756,
+        "TimelineFrequency": 0.5606445074081421,
+        "AuthoritiesGovernance": 0.5502299070358276,
+        "DefinitionsReferences": 0.4748533070087433
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Animal Husbandry and Dairying can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4821726977825165,
+      "similarities": {
+        "ContextObjective": 0.40426307916641235,
+        "BenefitsAssistance": 0.4432187080383301,
+        "Eligibility": 0.4132148027420044,
+        "ApplicationProcess": 0.46705371141433716,
+        "TimelineFrequency": 0.41467010974884033,
+        "AuthoritiesGovernance": 0.4821726977825165,
+        "DefinitionsReferences": 0.4559536576271057
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit over 1 million dairy farmers across India in the first five years.",
+      "role": "ContextObjective",
+      "confidence": 0.46573084592819214,
+      "similarities": {
+        "ContextObjective": 0.46573084592819214,
+        "BenefitsAssistance": 0.40278831124305725,
+        "Eligibility": 0.42648446559906006,
+        "ApplicationProcess": 0.3727450668811798,
+        "TimelineFrequency": 0.3615601062774658,
+        "AuthoritiesGovernance": 0.3734075427055359,
+        "DefinitionsReferences": 0.3219836950302124
+      }
+    },
+    {
+      "sentence": "It is projected that the Gopalak Nigam scheme will contribute to a 10 percent increase in the overall milk production in India.",
+      "role": "ContextObjective",
+      "confidence": 0.36095476150512695,
+      "similarities": {
+        "ContextObjective": 0.36095476150512695,
+        "BenefitsAssistance": 0.35024988651275635,
+        "Eligibility": 0.335210919380188,
+        "ApplicationProcess": 0.30434757471084595,
+        "TimelineFrequency": 0.30442917346954346,
+        "AuthoritiesGovernance": 0.2924473285675049,
+        "DefinitionsReferences": 0.30745360255241394
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the National Dairy Plan which aims to increase milk production to 200 million tonnes by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.4542560577392578,
+      "similarities": {
+        "ContextObjective": 0.4542560577392578,
+        "BenefitsAssistance": 0.3491780459880829,
+        "Eligibility": 0.37205344438552856,
+        "ApplicationProcess": 0.3534454107284546,
+        "TimelineFrequency": 0.3609147071838379,
+        "AuthoritiesGovernance": 0.29985421895980835,
+        "DefinitionsReferences": 0.33427900075912476
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme also emphasizes the importance of sustainable dairy farming practices.",
+      "role": "ContextObjective",
+      "confidence": 0.4326828718185425,
+      "similarities": {
+        "ContextObjective": 0.4326828718185425,
+        "BenefitsAssistance": 0.3418019711971283,
+        "Eligibility": 0.36070218682289124,
+        "ApplicationProcess": 0.357993483543396,
+        "TimelineFrequency": 0.3294111490249634,
+        "AuthoritiesGovernance": 0.30061227083206177,
+        "DefinitionsReferences": 0.3373611569404602
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to adopt modern techniques for animal husbandry.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4151160717010498,
+      "similarities": {
+        "ContextObjective": 0.4009130597114563,
+        "BenefitsAssistance": 0.3672676086425781,
+        "Eligibility": 0.39802318811416626,
+        "ApplicationProcess": 0.4151160717010498,
+        "TimelineFrequency": 0.3577432632446289,
+        "AuthoritiesGovernance": 0.3845058083534241,
+        "DefinitionsReferences": 0.4072713553905487
+      }
+    },
+    {
+      "sentence": "Training programs are organized to educate farmers about best practices in dairy farming.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.44797131419181824,
+      "similarities": {
+        "ContextObjective": 0.4419174790382385,
+        "BenefitsAssistance": 0.35301512479782104,
+        "Eligibility": 0.3964049816131592,
+        "ApplicationProcess": 0.38925570249557495,
+        "TimelineFrequency": 0.3849973678588867,
+        "AuthoritiesGovernance": 0.44797131419181824,
+        "DefinitionsReferences": 0.39919471740722656
+      }
+    },
+    {
+      "sentence": "The scheme also promotes the use of technology in dairy farming.",
+      "role": "ContextObjective",
+      "confidence": 0.4794262647628784,
+      "similarities": {
+        "ContextObjective": 0.4794262647628784,
+        "BenefitsAssistance": 0.3692455589771271,
+        "Eligibility": 0.39899742603302,
+        "ApplicationProcess": 0.39546847343444824,
+        "TimelineFrequency": 0.37050846219062805,
+        "AuthoritiesGovernance": 0.3312511444091797,
+        "DefinitionsReferences": 0.36089563369750977
+      }
+    },
+    {
+      "sentence": "Digital platforms are utilized for monitoring and evaluation of the scheme's progress.",
+      "role": "ContextObjective",
+      "confidence": 0.5348854064941406,
+      "similarities": {
+        "ContextObjective": 0.5348854064941406,
+        "BenefitsAssistance": 0.5039627552032471,
+        "Eligibility": 0.4784494638442993,
+        "ApplicationProcess": 0.5301129817962646,
+        "TimelineFrequency": 0.46791064739227295,
+        "AuthoritiesGovernance": 0.48311129212379456,
+        "DefinitionsReferences": 0.46874913573265076
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme is part of a broader initiative to enhance rural livelihoods in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49020931124687195,
+      "similarities": {
+        "ContextObjective": 0.49020931124687195,
+        "BenefitsAssistance": 0.4133502244949341,
+        "Eligibility": 0.4481346309185028,
+        "ApplicationProcess": 0.3925968408584595,
+        "TimelineFrequency": 0.3625915050506592,
+        "AuthoritiesGovernance": 0.4265604615211487,
+        "DefinitionsReferences": 0.3579537868499756
+      }
+    },
+    {
+      "sentence": "It supports the government's vision of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4465199112892151,
+      "similarities": {
+        "ContextObjective": 0.4465199112892151,
+        "BenefitsAssistance": 0.3966597318649292,
+        "Eligibility": 0.3753649592399597,
+        "ApplicationProcess": 0.3241114616394043,
+        "TimelineFrequency": 0.3364875614643097,
+        "AuthoritiesGovernance": 0.32497552037239075,
+        "DefinitionsReferences": 0.33328181505203247
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various stakeholders in the dairy sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5129903554916382,
+      "similarities": {
+        "ContextObjective": 0.5129903554916382,
+        "BenefitsAssistance": 0.4273245930671692,
+        "Eligibility": 0.45715051889419556,
+        "ApplicationProcess": 0.40162909030914307,
+        "TimelineFrequency": 0.3857748508453369,
+        "AuthoritiesGovernance": 0.421134352684021,
+        "DefinitionsReferences": 0.3965378999710083
+      }
+    },
+    {
+      "sentence": "It has been recognized for its potential to uplift the socio-economic status of rural communities.",
+      "role": "ContextObjective",
+      "confidence": 0.45780983567237854,
+      "similarities": {
+        "ContextObjective": 0.45780983567237854,
+        "BenefitsAssistance": 0.39986488223075867,
+        "Eligibility": 0.41455787420272827,
+        "ApplicationProcess": 0.3571215867996216,
+        "TimelineFrequency": 0.3319809138774872,
+        "AuthoritiesGovernance": 0.3446069359779358,
+        "DefinitionsReferences": 0.3652491569519043
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme is also expected to create employment opportunities in the dairy sector.",
+      "role": "Eligibility",
+      "confidence": 0.42679059505462646,
+      "similarities": {
+        "ContextObjective": 0.42641469836235046,
+        "BenefitsAssistance": 0.35283222794532776,
+        "Eligibility": 0.42679059505462646,
+        "ApplicationProcess": 0.3719082474708557,
+        "TimelineFrequency": 0.3637126088142395,
+        "AuthoritiesGovernance": 0.32713577151298523,
+        "DefinitionsReferences": 0.32217222452163696
+      }
+    },
+    {
+      "sentence": "It encourages the establishment of dairy cooperatives to strengthen the supply chain.",
+      "role": "ContextObjective",
+      "confidence": 0.4178292751312256,
+      "similarities": {
+        "ContextObjective": 0.4178292751312256,
+        "BenefitsAssistance": 0.3301317095756531,
+        "Eligibility": 0.35305100679397583,
+        "ApplicationProcess": 0.3179882764816284,
+        "TimelineFrequency": 0.3482446074485779,
+        "AuthoritiesGovernance": 0.34795525670051575,
+        "DefinitionsReferences": 0.3307138681411743
+      }
+    },
+    {
+      "sentence": "These cooperatives help in ensuring fair prices for milk producers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4441525340080261,
+      "similarities": {
+        "ContextObjective": 0.3979961574077606,
+        "BenefitsAssistance": 0.4441525340080261,
+        "Eligibility": 0.4125311076641083,
+        "ApplicationProcess": 0.3852474093437195,
+        "TimelineFrequency": 0.38433635234832764,
+        "AuthoritiesGovernance": 0.4291549324989319,
+        "DefinitionsReferences": 0.38414496183395386
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and accessible to all eligible farmers.",
+      "role": "Eligibility",
+      "confidence": 0.5632141828536987,
+      "similarities": {
+        "ContextObjective": 0.5203700065612793,
+        "BenefitsAssistance": 0.4737255573272705,
+        "Eligibility": 0.5632141828536987,
+        "ApplicationProcess": 0.45220646262168884,
+        "TimelineFrequency": 0.428982138633728,
+        "AuthoritiesGovernance": 0.41895371675491333,
+        "DefinitionsReferences": 0.3782607913017273
+      }
+    },
+    {
+      "sentence": "It aims to reduce the dependency of farmers on informal credit sources.",
+      "role": "Eligibility",
+      "confidence": 0.4340831935405731,
+      "similarities": {
+        "ContextObjective": 0.4113960564136505,
+        "BenefitsAssistance": 0.4065544605255127,
+        "Eligibility": 0.4340831935405731,
+        "ApplicationProcess": 0.4007987976074219,
+        "TimelineFrequency": 0.3568965196609497,
+        "AuthoritiesGovernance": 0.4063158333301544,
+        "DefinitionsReferences": 0.3562040328979492
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme is a significant step towards achieving self-sufficiency in milk production.",
+      "role": "ContextObjective",
+      "confidence": 0.4452308416366577,
+      "similarities": {
+        "ContextObjective": 0.4452308416366577,
+        "BenefitsAssistance": 0.3824211359024048,
+        "Eligibility": 0.37384843826293945,
+        "ApplicationProcess": 0.37154775857925415,
+        "TimelineFrequency": 0.3158891201019287,
+        "AuthoritiesGovernance": 0.34127143025398254,
+        "DefinitionsReferences": 0.3243761360645294
+      }
+    },
+    {
+      "sentence": "It addresses the challenges faced by dairy farmers in accessing finance.",
+      "role": "Eligibility",
+      "confidence": 0.5067821741104126,
+      "similarities": {
+        "ContextObjective": 0.4389141798019409,
+        "BenefitsAssistance": 0.503740668296814,
+        "Eligibility": 0.5067821741104126,
+        "ApplicationProcess": 0.4390197992324829,
+        "TimelineFrequency": 0.4278923571109772,
+        "AuthoritiesGovernance": 0.41818004846572876,
+        "DefinitionsReferences": 0.3866260349750519
+      }
+    },
+    {
+      "sentence": "The scheme is expected to enhance the overall productivity of the dairy sector.",
+      "role": "ContextObjective",
+      "confidence": 0.48135218024253845,
+      "similarities": {
+        "ContextObjective": 0.48135218024253845,
+        "BenefitsAssistance": 0.4038218557834625,
+        "Eligibility": 0.37979239225387573,
+        "ApplicationProcess": 0.37224113941192627,
+        "TimelineFrequency": 0.38271450996398926,
+        "AuthoritiesGovernance": 0.40349626541137695,
+        "DefinitionsReferences": 0.3597509264945984
+      }
+    },
+    {
+      "sentence": "It aims to create a sustainable ecosystem for dairy farming in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4851224422454834,
+      "similarities": {
+        "ContextObjective": 0.4851224422454834,
+        "BenefitsAssistance": 0.2930099368095398,
+        "Eligibility": 0.3913116455078125,
+        "ApplicationProcess": 0.3408607244491577,
+        "TimelineFrequency": 0.3281680941581726,
+        "AuthoritiesGovernance": 0.35352614521980286,
+        "DefinitionsReferences": 0.319981187582016
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme is a testament to the government's commitment to supporting the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4226186275482178,
+      "similarities": {
+        "ContextObjective": 0.4226186275482178,
+        "BenefitsAssistance": 0.3872990608215332,
+        "Eligibility": 0.4029051661491394,
+        "ApplicationProcess": 0.375630646944046,
+        "TimelineFrequency": 0.331635057926178,
+        "AuthoritiesGovernance": 0.35223090648651123,
+        "DefinitionsReferences": 0.38437801599502563
+      }
+    },
+    {
+      "sentence": "It reflects the importance of dairy farming in the rural economy of India.",
+      "role": "ContextObjective",
+      "confidence": 0.38262486457824707,
+      "similarities": {
+        "ContextObjective": 0.38262486457824707,
+        "BenefitsAssistance": 0.35575708746910095,
+        "Eligibility": 0.31632259488105774,
+        "ApplicationProcess": 0.298724889755249,
+        "TimelineFrequency": 0.3097074031829834,
+        "AuthoritiesGovernance": 0.2833888530731201,
+        "DefinitionsReferences": 0.35258346796035767
+      }
+    },
+    {
+      "sentence": "The scheme is continuously monitored for its effectiveness and impact on the ground.",
+      "role": "ContextObjective",
+      "confidence": 0.5286198258399963,
+      "similarities": {
+        "ContextObjective": 0.5286198258399963,
+        "BenefitsAssistance": 0.44339555501937866,
+        "Eligibility": 0.48707062005996704,
+        "ApplicationProcess": 0.46122556924819946,
+        "TimelineFrequency": 0.43037211894989014,
+        "AuthoritiesGovernance": 0.49141040444374084,
+        "DefinitionsReferences": 0.4530630111694336
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation process.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5822759866714478,
+      "similarities": {
+        "ContextObjective": 0.4822844862937927,
+        "BenefitsAssistance": 0.5119467377662659,
+        "Eligibility": 0.5317909121513367,
+        "ApplicationProcess": 0.4932028651237488,
+        "TimelineFrequency": 0.44085758924484253,
+        "AuthoritiesGovernance": 0.5822759866714478,
+        "DefinitionsReferences": 0.462772011756897
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme is a vital component of India's agricultural policy framework.",
+      "role": "ContextObjective",
+      "confidence": 0.4792401194572449,
+      "similarities": {
+        "ContextObjective": 0.4792401194572449,
+        "BenefitsAssistance": 0.3838575780391693,
+        "Eligibility": 0.44735434651374817,
+        "ApplicationProcess": 0.4011380672454834,
+        "TimelineFrequency": 0.37762725353240967,
+        "AuthoritiesGovernance": 0.4010154902935028,
+        "DefinitionsReferences": 0.3977120518684387
+      }
+    },
+    {
+      "sentence": "It aims to empower farmers through financial inclusion and capacity building.",
+      "role": "Eligibility",
+      "confidence": 0.48460084199905396,
+      "similarities": {
+        "ContextObjective": 0.47702252864837646,
+        "BenefitsAssistance": 0.4676682949066162,
+        "Eligibility": 0.48460084199905396,
+        "ApplicationProcess": 0.36819130182266235,
+        "TimelineFrequency": 0.35176873207092285,
+        "AuthoritiesGovernance": 0.4098297953605652,
+        "DefinitionsReferences": 0.34640300273895264
+      }
+    },
+    {
+      "sentence": "The scheme is expected to play a crucial role in enhancing food security in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5425560474395752,
+      "similarities": {
+        "ContextObjective": 0.5425560474395752,
+        "BenefitsAssistance": 0.4030321538448334,
+        "Eligibility": 0.4969637393951416,
+        "ApplicationProcess": 0.44893431663513184,
+        "TimelineFrequency": 0.3940446376800537,
+        "AuthoritiesGovernance": 0.4246377944946289,
+        "DefinitionsReferences": 0.38222622871398926
+      }
+    },
+    {
+      "sentence": "It contributes to the overall economic development of rural areas.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4198983609676361,
+      "similarities": {
+        "ContextObjective": 0.4096459746360779,
+        "BenefitsAssistance": 0.4198983609676361,
+        "Eligibility": 0.37680649757385254,
+        "ApplicationProcess": 0.37357085943222046,
+        "TimelineFrequency": 0.36375561356544495,
+        "AuthoritiesGovernance": 0.39807966351509094,
+        "DefinitionsReferences": 0.3909631073474884
+      }
+    },
+    {
+      "sentence": "The Gopalak Nigam scheme is a forward-looking initiative that seeks to transform the dairy industry in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4728814959526062,
+      "similarities": {
+        "ContextObjective": 0.4728814959526062,
+        "BenefitsAssistance": 0.3472521901130676,
+        "Eligibility": 0.40393760800361633,
+        "ApplicationProcess": 0.37132275104522705,
+        "TimelineFrequency": 0.34854239225387573,
+        "AuthoritiesGovernance": 0.37456583976745605,
+        "DefinitionsReferences": 0.3227870762348175
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 29,
+    "Eligibility": 13,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-25T20:31:31.647627"
+}

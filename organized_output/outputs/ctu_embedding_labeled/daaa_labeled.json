@@ -1,0 +1,800 @@
+{
+  "scheme_name": "Disability Aids and Appliances - Telangana",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "The Disability Aids and Appliances scheme in Telangana is a significant initiative aimed at enhancing the quality of life for persons with disabilities in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5043566226959229,
+      "similarities": {
+        "ContextObjective": 0.5043566226959229,
+        "BenefitsAssistance": 0.4713573157787323,
+        "Eligibility": 0.4893225133419037,
+        "ApplicationProcess": 0.4152098298072815,
+        "TimelineFrequency": 0.392322301864624,
+        "AuthoritiesGovernance": 0.43175196647644043,
+        "DefinitionsReferences": 0.38231760263442993
+      }
+    },
+    {
+      "sentence": "This scheme was launched by the Government of Telangana in the year 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.5469851493835449,
+      "similarities": {
+        "ContextObjective": 0.5469851493835449,
+        "BenefitsAssistance": 0.4203490614891052,
+        "Eligibility": 0.4466543197631836,
+        "ApplicationProcess": 0.4556688666343689,
+        "TimelineFrequency": 0.41091710329055786,
+        "AuthoritiesGovernance": 0.41304880380630493,
+        "DefinitionsReferences": 0.3725072741508484
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide assistive devices and aids to individuals with disabilities to promote their independence and improve their functional capabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.6038170456886292,
+      "similarities": {
+        "ContextObjective": 0.6038170456886292,
+        "BenefitsAssistance": 0.504148542881012,
+        "Eligibility": 0.508617639541626,
+        "ApplicationProcess": 0.4627111554145813,
+        "TimelineFrequency": 0.4299798905849457,
+        "AuthoritiesGovernance": 0.46110495924949646,
+        "DefinitionsReferences": 0.41583144664764404
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower persons with disabilities by providing them with the necessary tools to lead a more productive life.",
+      "role": "ContextObjective",
+      "confidence": 0.574115514755249,
+      "similarities": {
+        "ContextObjective": 0.574115514755249,
+        "BenefitsAssistance": 0.45407503843307495,
+        "Eligibility": 0.49922695755958557,
+        "ApplicationProcess": 0.44816651940345764,
+        "TimelineFrequency": 0.4153987169265747,
+        "AuthoritiesGovernance": 0.442145437002182,
+        "DefinitionsReferences": 0.3996230959892273
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of providing aids and appliances to at least 1 lakh beneficiaries each year.",
+      "role": "Eligibility",
+      "confidence": 0.47528010606765747,
+      "similarities": {
+        "ContextObjective": 0.4627026617527008,
+        "BenefitsAssistance": 0.42441326379776,
+        "Eligibility": 0.47528010606765747,
+        "ApplicationProcess": 0.3609093129634857,
+        "TimelineFrequency": 0.3337113857269287,
+        "AuthoritiesGovernance": 0.39484262466430664,
+        "DefinitionsReferences": 0.3314982056617737
+      }
+    },
+    {
+      "sentence": "The types of aids and appliances covered under this scheme include wheelchairs, hearing aids, crutches, and other assistive devices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5568297505378723,
+      "similarities": {
+        "ContextObjective": 0.46328774094581604,
+        "BenefitsAssistance": 0.5568297505378723,
+        "Eligibility": 0.5079053044319153,
+        "ApplicationProcess": 0.41891416907310486,
+        "TimelineFrequency": 0.4175189435482025,
+        "AuthoritiesGovernance": 0.41978687047958374,
+        "DefinitionsReferences": 0.46493732929229736
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme can range from INR 1,000 to INR 50,000 depending on the type of aid required.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.592381477355957,
+      "similarities": {
+        "ContextObjective": 0.48868680000305176,
+        "BenefitsAssistance": 0.592381477355957,
+        "Eligibility": 0.5372722148895264,
+        "ApplicationProcess": 0.4812019169330597,
+        "TimelineFrequency": 0.455413818359375,
+        "AuthoritiesGovernance": 0.41556182503700256,
+        "DefinitionsReferences": 0.41320061683654785
+      }
+    },
+    {
+      "sentence": "For instance, a wheelchair may be provided at a subsidized cost of INR 10,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5180071592330933,
+      "similarities": {
+        "ContextObjective": 0.40278035402297974,
+        "BenefitsAssistance": 0.5180071592330933,
+        "Eligibility": 0.4636100232601166,
+        "ApplicationProcess": 0.4069107472896576,
+        "TimelineFrequency": 0.37443116307258606,
+        "AuthoritiesGovernance": 0.3651720881462097,
+        "DefinitionsReferences": 0.38426709175109863
+      }
+    },
+    {
+      "sentence": "Hearing aids may be provided at a cost of INR 15,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5508280992507935,
+      "similarities": {
+        "ContextObjective": 0.40923118591308594,
+        "BenefitsAssistance": 0.5508280992507935,
+        "Eligibility": 0.44835710525512695,
+        "ApplicationProcess": 0.4237458109855652,
+        "TimelineFrequency": 0.39365848898887634,
+        "AuthoritiesGovernance": 0.39566826820373535,
+        "DefinitionsReferences": 0.3863465189933777
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for beneficiaries under this scheme include individuals with disabilities as defined under the Rights of Persons with Disabilities Act 2016.",
+      "role": "Eligibility",
+      "confidence": 0.6692453622817993,
+      "similarities": {
+        "ContextObjective": 0.49332451820373535,
+        "BenefitsAssistance": 0.4950003921985626,
+        "Eligibility": 0.6692453622817993,
+        "ApplicationProcess": 0.46338945627212524,
+        "TimelineFrequency": 0.449410617351532,
+        "AuthoritiesGovernance": 0.3921586871147156,
+        "DefinitionsReferences": 0.41792088747024536
+      }
+    },
+    {
+      "sentence": "Applicants must have a disability certificate issued by a competent authority.",
+      "role": "Eligibility",
+      "confidence": 0.6076194643974304,
+      "similarities": {
+        "ContextObjective": 0.4780115485191345,
+        "BenefitsAssistance": 0.484733521938324,
+        "Eligibility": 0.6076194643974304,
+        "ApplicationProcess": 0.5983482599258423,
+        "TimelineFrequency": 0.4909696578979492,
+        "AuthoritiesGovernance": 0.4787680506706238,
+        "DefinitionsReferences": 0.44454795122146606
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is generally set at 18 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.6330159902572632,
+      "similarities": {
+        "ContextObjective": 0.4845097064971924,
+        "BenefitsAssistance": 0.4616139531135559,
+        "Eligibility": 0.6330159902572632,
+        "ApplicationProcess": 0.573424220085144,
+        "TimelineFrequency": 0.5580542683601379,
+        "AuthoritiesGovernance": 0.4223676323890686,
+        "DefinitionsReferences": 0.4298258125782013
+      }
+    },
+    {
+      "sentence": "However, there are provisions for children with disabilities to receive assistance under this scheme as well.",
+      "role": "Eligibility",
+      "confidence": 0.5473872423171997,
+      "similarities": {
+        "ContextObjective": 0.48347294330596924,
+        "BenefitsAssistance": 0.5324769020080566,
+        "Eligibility": 0.5473872423171997,
+        "ApplicationProcess": 0.4437073767185211,
+        "TimelineFrequency": 0.4309230446815491,
+        "AuthoritiesGovernance": 0.428252637386322,
+        "DefinitionsReferences": 0.40420472621917725
+      }
+    },
+    {
+      "sentence": "The income criteria stipulate that the family income of the applicant should not exceed INR 2 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5594449043273926,
+      "similarities": {
+        "ContextObjective": 0.434349924325943,
+        "BenefitsAssistance": 0.45455119013786316,
+        "Eligibility": 0.5594449043273926,
+        "ApplicationProcess": 0.47663041949272156,
+        "TimelineFrequency": 0.43338489532470703,
+        "AuthoritiesGovernance": 0.339749813079834,
+        "DefinitionsReferences": 0.370647668838501
+      }
+    },
+    {
+      "sentence": "To apply for the Disability Aids and Appliances scheme, individuals must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6700413227081299,
+      "similarities": {
+        "ContextObjective": 0.5277324318885803,
+        "BenefitsAssistance": 0.5153826475143433,
+        "Eligibility": 0.6481462717056274,
+        "ApplicationProcess": 0.6700413227081299,
+        "TimelineFrequency": 0.5702182054519653,
+        "AuthoritiesGovernance": 0.49197885394096375,
+        "DefinitionsReferences": 0.428744375705719
+      }
+    },
+    {
+      "sentence": "The first step is to obtain the application form which is available at the local welfare office or can be downloaded from the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6837512254714966,
+      "similarities": {
+        "ContextObjective": 0.48076319694519043,
+        "BenefitsAssistance": 0.4868742823600769,
+        "Eligibility": 0.564583420753479,
+        "ApplicationProcess": 0.6837512254714966,
+        "TimelineFrequency": 0.5136979818344116,
+        "AuthoritiesGovernance": 0.4698825180530548,
+        "DefinitionsReferences": 0.4284916818141937
+      }
+    },
+    {
+      "sentence": "Applicants must fill in the required details accurately.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7111290693283081,
+      "similarities": {
+        "ContextObjective": 0.5210577845573425,
+        "BenefitsAssistance": 0.5440970659255981,
+        "Eligibility": 0.6396371722221375,
+        "ApplicationProcess": 0.7111290693283081,
+        "TimelineFrequency": 0.6028405427932739,
+        "AuthoritiesGovernance": 0.4961690604686737,
+        "DefinitionsReferences": 0.5247310400009155
+      }
+    },
+    {
+      "sentence": "They must attach a copy of their disability certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5352387428283691,
+      "similarities": {
+        "ContextObjective": 0.3986998200416565,
+        "BenefitsAssistance": 0.5043983459472656,
+        "Eligibility": 0.49604538083076477,
+        "ApplicationProcess": 0.5352387428283691,
+        "TimelineFrequency": 0.4285396933555603,
+        "AuthoritiesGovernance": 0.4192500114440918,
+        "DefinitionsReferences": 0.43186551332473755
+      }
+    },
+    {
+      "sentence": "Additionally, proof of income such as an income certificate or pay slip must also be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5941112041473389,
+      "similarities": {
+        "ContextObjective": 0.42641475796699524,
+        "BenefitsAssistance": 0.55497145652771,
+        "Eligibility": 0.5057499408721924,
+        "ApplicationProcess": 0.5941112041473389,
+        "TimelineFrequency": 0.4699050486087799,
+        "AuthoritiesGovernance": 0.375097393989563,
+        "DefinitionsReferences": 0.45972323417663574
+      }
+    },
+    {
+      "sentence": "The completed application form along with the required documents should be submitted to the local welfare office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6581748723983765,
+      "similarities": {
+        "ContextObjective": 0.44633594155311584,
+        "BenefitsAssistance": 0.49332278966903687,
+        "Eligibility": 0.5477275848388672,
+        "ApplicationProcess": 0.6581748723983765,
+        "TimelineFrequency": 0.49197325110435486,
+        "AuthoritiesGovernance": 0.4759138226509094,
+        "DefinitionsReferences": 0.41820037364959717
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "The authorities will verify the documents and assess the eligibility of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6958550214767456,
+      "similarities": {
+        "ContextObjective": 0.5089865922927856,
+        "BenefitsAssistance": 0.5154044032096863,
+        "Eligibility": 0.6627860069274902,
+        "ApplicationProcess": 0.6958550214767456,
+        "TimelineFrequency": 0.5704165101051331,
+        "AuthoritiesGovernance": 0.5008648037910461,
+        "DefinitionsReferences": 0.5116363763809204
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications typically ranges from 30 to 45 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6631399393081665,
+      "similarities": {
+        "ContextObjective": 0.48172062635421753,
+        "BenefitsAssistance": 0.4940016567707062,
+        "Eligibility": 0.5552820563316345,
+        "ApplicationProcess": 0.6096871495246887,
+        "TimelineFrequency": 0.6631399393081665,
+        "AuthoritiesGovernance": 0.4661306142807007,
+        "DefinitionsReferences": 0.4600980877876282
+      }
+    },
+    {
+      "sentence": "Once approved, the aids and appliances will be provided to the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.585512101650238,
+      "similarities": {
+        "ContextObjective": 0.4625870883464813,
+        "BenefitsAssistance": 0.5772078633308411,
+        "Eligibility": 0.585512101650238,
+        "ApplicationProcess": 0.5186665654182434,
+        "TimelineFrequency": 0.4628918766975403,
+        "AuthoritiesGovernance": 0.5001722574234009,
+        "DefinitionsReferences": 0.44690996408462524
+      }
+    },
+    {
+      "sentence": "The distribution of aids and appliances is conducted through various government welfare offices across the state.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5443275570869446,
+      "similarities": {
+        "ContextObjective": 0.4063003659248352,
+        "BenefitsAssistance": 0.48689377307891846,
+        "Eligibility": 0.47980695962905884,
+        "ApplicationProcess": 0.39901870489120483,
+        "TimelineFrequency": 0.3910217881202698,
+        "AuthoritiesGovernance": 0.5443275570869446,
+        "DefinitionsReferences": 0.42271602153778076
+      }
+    },
+    {
+      "sentence": "The government organizes camps for the distribution of these aids to ensure that beneficiaries can receive them conveniently.",
+      "role": "Eligibility",
+      "confidence": 0.48488134145736694,
+      "similarities": {
+        "ContextObjective": 0.4241141378879547,
+        "BenefitsAssistance": 0.40838077664375305,
+        "Eligibility": 0.48488134145736694,
+        "ApplicationProcess": 0.38738688826560974,
+        "TimelineFrequency": 0.3673776388168335,
+        "AuthoritiesGovernance": 0.4728655517101288,
+        "DefinitionsReferences": 0.3635097146034241
+      }
+    },
+    {
+      "sentence": "These camps are usually held on a quarterly basis.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5525568723678589,
+      "similarities": {
+        "ContextObjective": 0.4796741306781769,
+        "BenefitsAssistance": 0.420592725276947,
+        "Eligibility": 0.44631457328796387,
+        "ApplicationProcess": 0.4347407817840576,
+        "TimelineFrequency": 0.5525568723678589,
+        "AuthoritiesGovernance": 0.46977782249450684,
+        "DefinitionsReferences": 0.43377938866615295
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Welfare of Disabled and Senior Citizens in Telangana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5575255155563354,
+      "similarities": {
+        "ContextObjective": 0.4500690698623657,
+        "BenefitsAssistance": 0.44266217947006226,
+        "Eligibility": 0.49923428893089294,
+        "ApplicationProcess": 0.4024125337600708,
+        "TimelineFrequency": 0.36872217059135437,
+        "AuthoritiesGovernance": 0.5575255155563354,
+        "DefinitionsReferences": 0.38904571533203125
+      }
+    },
+    {
+      "sentence": "This department is responsible for the overall management and execution of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6291769742965698,
+      "similarities": {
+        "ContextObjective": 0.574375331401825,
+        "BenefitsAssistance": 0.49970316886901855,
+        "Eligibility": 0.4944468140602112,
+        "ApplicationProcess": 0.5061131119728088,
+        "TimelineFrequency": 0.47006720304489136,
+        "AuthoritiesGovernance": 0.6291769742965698,
+        "DefinitionsReferences": 0.43648761510849
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, beneficiaries can contact the department at their official helpline number.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.51390141248703,
+      "similarities": {
+        "ContextObjective": 0.38896608352661133,
+        "BenefitsAssistance": 0.5061127543449402,
+        "Eligibility": 0.5109386444091797,
+        "ApplicationProcess": 0.4491721987724304,
+        "TimelineFrequency": 0.3805692791938782,
+        "AuthoritiesGovernance": 0.51390141248703,
+        "DefinitionsReferences": 0.38861411809921265
+      }
+    },
+    {
+      "sentence": "The helpline number is available on the official government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5346533060073853,
+      "similarities": {
+        "ContextObjective": 0.4384404420852661,
+        "BenefitsAssistance": 0.5213757753372192,
+        "Eligibility": 0.47115904092788696,
+        "ApplicationProcess": 0.5031707286834717,
+        "TimelineFrequency": 0.42520296573638916,
+        "AuthoritiesGovernance": 0.5346533060073853,
+        "DefinitionsReferences": 0.4481395483016968
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant uptake since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5963202714920044,
+      "similarities": {
+        "ContextObjective": 0.5963202714920044,
+        "BenefitsAssistance": 0.4711034893989563,
+        "Eligibility": 0.47488659620285034,
+        "ApplicationProcess": 0.44734156131744385,
+        "TimelineFrequency": 0.43284016847610474,
+        "AuthoritiesGovernance": 0.4114566743373871,
+        "DefinitionsReferences": 0.4203101396560669
+      }
+    },
+    {
+      "sentence": "As of 2022, over 50,000 beneficiaries have received aids and appliances under this scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47614771127700806,
+      "similarities": {
+        "ContextObjective": 0.4574410319328308,
+        "BenefitsAssistance": 0.47614771127700806,
+        "Eligibility": 0.4729558229446411,
+        "ApplicationProcess": 0.39079856872558594,
+        "TimelineFrequency": 0.3825376033782959,
+        "AuthoritiesGovernance": 0.39787235856056213,
+        "DefinitionsReferences": 0.3733288049697876
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 50 crore for the financial year 2023-2024 for the continuation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.512896716594696,
+      "similarities": {
+        "ContextObjective": 0.512896716594696,
+        "BenefitsAssistance": 0.455981969833374,
+        "Eligibility": 0.4655378758907318,
+        "ApplicationProcess": 0.4263167381286621,
+        "TimelineFrequency": 0.42767733335494995,
+        "AuthoritiesGovernance": 0.4158651828765869,
+        "DefinitionsReferences": 0.36271435022354126
+      }
+    },
+    {
+      "sentence": "This funding is aimed at expanding the reach of the program and increasing the number of beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5328207015991211,
+      "similarities": {
+        "ContextObjective": 0.49248412251472473,
+        "BenefitsAssistance": 0.46989959478378296,
+        "Eligibility": 0.5328207015991211,
+        "ApplicationProcess": 0.41884416341781616,
+        "TimelineFrequency": 0.4183560013771057,
+        "AuthoritiesGovernance": 0.41815876960754395,
+        "DefinitionsReferences": 0.39871108531951904
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness and outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5467424392700195,
+      "similarities": {
+        "ContextObjective": 0.5467424392700195,
+        "BenefitsAssistance": 0.4499199390411377,
+        "Eligibility": 0.4653532803058624,
+        "ApplicationProcess": 0.43764838576316833,
+        "TimelineFrequency": 0.396669864654541,
+        "AuthoritiesGovernance": 0.41737571358680725,
+        "DefinitionsReferences": 0.4035070538520813
+      }
+    },
+    {
+      "sentence": "These programs are designed to educate the public about the available aids and appliances.",
+      "role": "ContextObjective",
+      "confidence": 0.4866940975189209,
+      "similarities": {
+        "ContextObjective": 0.4866940975189209,
+        "BenefitsAssistance": 0.4805479645729065,
+        "Eligibility": 0.46188366413116455,
+        "ApplicationProcess": 0.44092607498168945,
+        "TimelineFrequency": 0.41574281454086304,
+        "AuthoritiesGovernance": 0.4610375761985779,
+        "DefinitionsReferences": 0.40780675411224365
+      }
+    },
+    {
+      "sentence": "They also inform potential beneficiaries about the application process and eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.706423282623291,
+      "similarities": {
+        "ContextObjective": 0.5623556971549988,
+        "BenefitsAssistance": 0.5646398067474365,
+        "Eligibility": 0.706423282623291,
+        "ApplicationProcess": 0.6276401877403259,
+        "TimelineFrequency": 0.5853794813156128,
+        "AuthoritiesGovernance": 0.4839034080505371,
+        "DefinitionsReferences": 0.4672088027000427
+      }
+    },
+    {
+      "sentence": "The government collaborates with various NGOs and civil society organizations to enhance outreach efforts.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.578683614730835,
+      "similarities": {
+        "ContextObjective": 0.48792144656181335,
+        "BenefitsAssistance": 0.4488527774810791,
+        "Eligibility": 0.46966278553009033,
+        "ApplicationProcess": 0.4248395562171936,
+        "TimelineFrequency": 0.4029577374458313,
+        "AuthoritiesGovernance": 0.578683614730835,
+        "DefinitionsReferences": 0.48277127742767334
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is regularly collected to improve the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5012958645820618,
+      "similarities": {
+        "ContextObjective": 0.5012958645820618,
+        "BenefitsAssistance": 0.48041605949401855,
+        "Eligibility": 0.49021077156066895,
+        "ApplicationProcess": 0.45882993936538696,
+        "TimelineFrequency": 0.43699347972869873,
+        "AuthoritiesGovernance": 0.474934458732605,
+        "DefinitionsReferences": 0.43797072768211365
+      }
+    },
+    {
+      "sentence": "This feedback is used to make necessary adjustments to the types of aids provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5114008188247681,
+      "similarities": {
+        "ContextObjective": 0.4187949299812317,
+        "BenefitsAssistance": 0.5114008188247681,
+        "Eligibility": 0.49180036783218384,
+        "ApplicationProcess": 0.4486619830131531,
+        "TimelineFrequency": 0.45039984583854675,
+        "AuthoritiesGovernance": 0.4922584891319275,
+        "DefinitionsReferences": 0.4732416570186615
+      }
+    },
+    {
+      "sentence": "The government also conducts periodic reviews to assess the impact of the scheme.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49881723523139954,
+      "similarities": {
+        "ContextObjective": 0.4813099503517151,
+        "BenefitsAssistance": 0.4754965901374817,
+        "Eligibility": 0.4953906536102295,
+        "ApplicationProcess": 0.4822012782096863,
+        "TimelineFrequency": 0.49881723523139954,
+        "AuthoritiesGovernance": 0.4556591510772705,
+        "DefinitionsReferences": 0.435481995344162
+      }
+    },
+    {
+      "sentence": "Statistical data is collected to evaluate the effectiveness of the aids provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.545666515827179,
+      "similarities": {
+        "ContextObjective": 0.47115135192871094,
+        "BenefitsAssistance": 0.545666515827179,
+        "Eligibility": 0.5034770965576172,
+        "ApplicationProcess": 0.45775407552719116,
+        "TimelineFrequency": 0.47374752163887024,
+        "AuthoritiesGovernance": 0.48087868094444275,
+        "DefinitionsReferences": 0.45988577604293823
+      }
+    },
+    {
+      "sentence": "The Disability Aids and Appliances scheme is part of a broader framework of welfare initiatives in Telangana.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5149484276771545,
+      "similarities": {
+        "ContextObjective": 0.5034821629524231,
+        "BenefitsAssistance": 0.5149484276771545,
+        "Eligibility": 0.4909536838531494,
+        "ApplicationProcess": 0.40048953890800476,
+        "TimelineFrequency": 0.4038902521133423,
+        "AuthoritiesGovernance": 0.4689892530441284,
+        "DefinitionsReferences": 0.3998957574367523
+      }
+    },
+    {
+      "sentence": "These initiatives aim to create an inclusive society for persons with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5633416771888733,
+      "similarities": {
+        "ContextObjective": 0.5633416771888733,
+        "BenefitsAssistance": 0.457846999168396,
+        "Eligibility": 0.5295750498771667,
+        "ApplicationProcess": 0.4321272373199463,
+        "TimelineFrequency": 0.40225738286972046,
+        "AuthoritiesGovernance": 0.46822622418403625,
+        "DefinitionsReferences": 0.40846216678619385
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the national policies on disability and rehabilitation.",
+      "role": "ContextObjective",
+      "confidence": 0.5231963992118835,
+      "similarities": {
+        "ContextObjective": 0.5231963992118835,
+        "BenefitsAssistance": 0.4696313440799713,
+        "Eligibility": 0.49280524253845215,
+        "ApplicationProcess": 0.450147420167923,
+        "TimelineFrequency": 0.40949374437332153,
+        "AuthoritiesGovernance": 0.45451992750167847,
+        "DefinitionsReferences": 0.4143466353416443
+      }
+    },
+    {
+      "sentence": "It reflects the commitment of the Telangana government to uphold the rights of persons with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.46166205406188965,
+      "similarities": {
+        "ContextObjective": 0.3954140841960907,
+        "BenefitsAssistance": 0.4161563813686371,
+        "Eligibility": 0.46166205406188965,
+        "ApplicationProcess": 0.39729487895965576,
+        "TimelineFrequency": 0.3516002297401428,
+        "AuthoritiesGovernance": 0.44031113386154175,
+        "DefinitionsReferences": 0.42564088106155396
+      }
+    },
+    {
+      "sentence": "The government encourages beneficiaries to share their experiences and success stories.",
+      "role": "Eligibility",
+      "confidence": 0.5654785633087158,
+      "similarities": {
+        "ContextObjective": 0.5487089157104492,
+        "BenefitsAssistance": 0.5435173511505127,
+        "Eligibility": 0.5654785633087158,
+        "ApplicationProcess": 0.4707343578338623,
+        "TimelineFrequency": 0.4292500615119934,
+        "AuthoritiesGovernance": 0.48918402194976807,
+        "DefinitionsReferences": 0.4644717574119568
+      }
+    },
+    {
+      "sentence": "These stories are often highlighted in government publications and social media.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5418629050254822,
+      "similarities": {
+        "ContextObjective": 0.48679593205451965,
+        "BenefitsAssistance": 0.4687984585762024,
+        "Eligibility": 0.46161407232284546,
+        "ApplicationProcess": 0.4638645648956299,
+        "TimelineFrequency": 0.4487035870552063,
+        "AuthoritiesGovernance": 0.4858526587486267,
+        "DefinitionsReferences": 0.5418629050254822
+      }
+    },
+    {
+      "sentence": "This helps in raising awareness and encouraging more individuals to come forward and apply for assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5112431049346924,
+      "similarities": {
+        "ContextObjective": 0.5029295682907104,
+        "BenefitsAssistance": 0.5112431049346924,
+        "Eligibility": 0.5043965578079224,
+        "ApplicationProcess": 0.49735772609710693,
+        "TimelineFrequency": 0.4317072033882141,
+        "AuthoritiesGovernance": 0.4422004222869873,
+        "DefinitionsReferences": 0.38665616512298584
+      }
+    },
+    {
+      "sentence": "The scheme is an essential step towards ensuring that persons with disabilities can participate fully in society.",
+      "role": "ContextObjective",
+      "confidence": 0.5640209317207336,
+      "similarities": {
+        "ContextObjective": 0.5640209317207336,
+        "BenefitsAssistance": 0.46121615171432495,
+        "Eligibility": 0.5438740253448486,
+        "ApplicationProcess": 0.5179739594459534,
+        "TimelineFrequency": 0.4160619378089905,
+        "AuthoritiesGovernance": 0.4578079581260681,
+        "DefinitionsReferences": 0.3983311951160431
+      }
+    },
+    {
+      "sentence": "By providing necessary aids and appliances, the government aims to reduce the barriers faced by these individuals.",
+      "role": "Eligibility",
+      "confidence": 0.5156166553497314,
+      "similarities": {
+        "ContextObjective": 0.4461989998817444,
+        "BenefitsAssistance": 0.4742856025695801,
+        "Eligibility": 0.5156166553497314,
+        "ApplicationProcess": 0.45872098207473755,
+        "TimelineFrequency": 0.3874439001083374,
+        "AuthoritiesGovernance": 0.48557615280151367,
+        "DefinitionsReferences": 0.3932860493659973
+      }
+    },
+    {
+      "sentence": "The Disability Aids and Appliances scheme in Telangana is a vital resource for enhancing the lives of persons with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.49881497025489807,
+      "similarities": {
+        "ContextObjective": 0.4861867427825928,
+        "BenefitsAssistance": 0.47266605496406555,
+        "Eligibility": 0.49881497025489807,
+        "ApplicationProcess": 0.3977423310279846,
+        "TimelineFrequency": 0.40265631675720215,
+        "AuthoritiesGovernance": 0.42868930101394653,
+        "DefinitionsReferences": 0.4051126539707184
+      }
+    },
+    {
+      "sentence": "It represents a significant investment in the welfare and empowerment of a marginalized section of society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.451280415058136,
+      "similarities": {
+        "ContextObjective": 0.4496060907840729,
+        "BenefitsAssistance": 0.451280415058136,
+        "Eligibility": 0.4404999315738678,
+        "ApplicationProcess": 0.34138184785842896,
+        "TimelineFrequency": 0.3186095058917999,
+        "AuthoritiesGovernance": 0.3983807861804962,
+        "DefinitionsReferences": 0.36457541584968567
+      }
+    },
+    {
+      "sentence": "The government remains committed to improving the quality of life for all its citizens, particularly those with disabilities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4761926531791687,
+      "similarities": {
+        "ContextObjective": 0.4263823330402374,
+        "BenefitsAssistance": 0.42486390471458435,
+        "Eligibility": 0.4454631209373474,
+        "ApplicationProcess": 0.3995743989944458,
+        "TimelineFrequency": 0.3615758717060089,
+        "AuthoritiesGovernance": 0.4761926531791687,
+        "DefinitionsReferences": 0.4146519601345062
+      }
+    },
+    {
+      "sentence": "This scheme is a testament to that commitment and serves as a model for similar initiatives across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4976337254047394,
+      "similarities": {
+        "ContextObjective": 0.4976337254047394,
+        "BenefitsAssistance": 0.38239920139312744,
+        "Eligibility": 0.42934972047805786,
+        "ApplicationProcess": 0.41860175132751465,
+        "TimelineFrequency": 0.3847498893737793,
+        "AuthoritiesGovernance": 0.3843844532966614,
+        "DefinitionsReferences": 0.4112468659877777
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 13,
+    "Eligibility": 14,
+    "BenefitsAssistance": 10,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 3,
+    "AuthoritiesGovernance": 7,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:47:51.023883"
+}

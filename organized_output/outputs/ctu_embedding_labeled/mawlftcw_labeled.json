@@ -1,0 +1,827 @@
+{
+  "scheme_name": "Medical Assistance and Wage Loss for the Construction Workers",
+  "total_sentences": 58,
+  "labeled_sentences": [
+    {
+      "sentence": "The Medical Assistance and Wage Loss for Construction Workers scheme was launched by the Government of India in 2020.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5160983204841614,
+      "similarities": {
+        "ContextObjective": 0.5112617611885071,
+        "BenefitsAssistance": 0.5160983204841614,
+        "Eligibility": 0.4783965051174164,
+        "ApplicationProcess": 0.44013315439224243,
+        "TimelineFrequency": 0.4435582160949707,
+        "AuthoritiesGovernance": 0.45939120650291443,
+        "DefinitionsReferences": 0.3733639717102051
+      }
+    },
+    {
+      "sentence": "This initiative aims to provide financial assistance to construction workers who face medical emergencies or wage loss due to unforeseen circumstances.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5241808891296387,
+      "similarities": {
+        "ContextObjective": 0.4286589026451111,
+        "BenefitsAssistance": 0.5241808891296387,
+        "Eligibility": 0.4651350677013397,
+        "ApplicationProcess": 0.40034306049346924,
+        "TimelineFrequency": 0.39591580629348755,
+        "AuthoritiesGovernance": 0.38110655546188354,
+        "DefinitionsReferences": 0.33586546778678894
+      }
+    },
+    {
+      "sentence": "The scheme was introduced to address the vulnerabilities faced by construction workers, who often work in hazardous conditions.",
+      "role": "Eligibility",
+      "confidence": 0.46184635162353516,
+      "similarities": {
+        "ContextObjective": 0.4172075390815735,
+        "BenefitsAssistance": 0.3933723568916321,
+        "Eligibility": 0.46184635162353516,
+        "ApplicationProcess": 0.40442028641700745,
+        "TimelineFrequency": 0.3749378025531769,
+        "AuthoritiesGovernance": 0.3986143469810486,
+        "DefinitionsReferences": 0.35754358768463135
+      }
+    },
+    {
+      "sentence": "According to the Ministry of Labour and Employment, there are approximately 50 million construction workers in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.389161616563797,
+      "similarities": {
+        "ContextObjective": 0.3565306067466736,
+        "BenefitsAssistance": 0.34332144260406494,
+        "Eligibility": 0.36443114280700684,
+        "ApplicationProcess": 0.3596380352973938,
+        "TimelineFrequency": 0.3329581618309021,
+        "AuthoritiesGovernance": 0.389161616563797,
+        "DefinitionsReferences": 0.3334367871284485
+      }
+    },
+    {
+      "sentence": "These workers are often not covered by formal employment benefits and are at risk of financial instability during health crises.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4893341064453125,
+      "similarities": {
+        "ContextObjective": 0.3383371829986572,
+        "BenefitsAssistance": 0.4893341064453125,
+        "Eligibility": 0.457404762506485,
+        "ApplicationProcess": 0.36613380908966064,
+        "TimelineFrequency": 0.38466036319732666,
+        "AuthoritiesGovernance": 0.3741469979286194,
+        "DefinitionsReferences": 0.35325324535369873
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to ensure that construction workers receive timely medical assistance and compensation for wage loss.",
+      "role": "ContextObjective",
+      "confidence": 0.502732515335083,
+      "similarities": {
+        "ContextObjective": 0.502732515335083,
+        "BenefitsAssistance": 0.4990707039833069,
+        "Eligibility": 0.432523250579834,
+        "ApplicationProcess": 0.434571236371994,
+        "TimelineFrequency": 0.4230117201805115,
+        "AuthoritiesGovernance": 0.43138083815574646,
+        "DefinitionsReferences": 0.3349739611148834
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide immediate financial support to workers who are unable to work due to medical emergencies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5237364768981934,
+      "similarities": {
+        "ContextObjective": 0.49591636657714844,
+        "BenefitsAssistance": 0.5237364768981934,
+        "Eligibility": 0.48780056834220886,
+        "ApplicationProcess": 0.4086775779724121,
+        "TimelineFrequency": 0.4040958285331726,
+        "AuthoritiesGovernance": 0.37033918499946594,
+        "DefinitionsReferences": 0.3356429636478424
+      }
+    },
+    {
+      "sentence": "The government has set a target to assist at least 1 million construction workers annually under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49939751625061035,
+      "similarities": {
+        "ContextObjective": 0.49939751625061035,
+        "BenefitsAssistance": 0.40506550669670105,
+        "Eligibility": 0.46030235290527344,
+        "ApplicationProcess": 0.40690866112709045,
+        "TimelineFrequency": 0.37608790397644043,
+        "AuthoritiesGovernance": 0.4122893512248993,
+        "DefinitionsReferences": 0.3347768783569336
+      }
+    },
+    {
+      "sentence": "The financial assistance includes a one-time medical assistance amount of ₹50,000 for hospitalization due to serious health issues.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5279707908630371,
+      "similarities": {
+        "ContextObjective": 0.3616188168525696,
+        "BenefitsAssistance": 0.5279707908630371,
+        "Eligibility": 0.4317275285720825,
+        "ApplicationProcess": 0.3951229751110077,
+        "TimelineFrequency": 0.3648613691329956,
+        "AuthoritiesGovernance": 0.3435319662094116,
+        "DefinitionsReferences": 0.3281797766685486
+      }
+    },
+    {
+      "sentence": "In addition to medical assistance, the scheme also provides wage loss compensation of ₹1,500 per week for a maximum of 12 weeks.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5319044589996338,
+      "similarities": {
+        "ContextObjective": 0.4058186411857605,
+        "BenefitsAssistance": 0.5319044589996338,
+        "Eligibility": 0.4321221709251404,
+        "ApplicationProcess": 0.38058528304100037,
+        "TimelineFrequency": 0.41256484389305115,
+        "AuthoritiesGovernance": 0.3499261736869812,
+        "DefinitionsReferences": 0.3567183017730713
+      }
+    },
+    {
+      "sentence": "This means that a construction worker can receive up to ₹18,000 in wage loss compensation if they are unable to work for the entire duration.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49761468172073364,
+      "similarities": {
+        "ContextObjective": 0.32733261585235596,
+        "BenefitsAssistance": 0.49761468172073364,
+        "Eligibility": 0.42410823702812195,
+        "ApplicationProcess": 0.36133065819740295,
+        "TimelineFrequency": 0.3745556175708771,
+        "AuthoritiesGovernance": 0.3410322070121765,
+        "DefinitionsReferences": 0.33855223655700684
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must be registered construction workers under the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996.",
+      "role": "Eligibility",
+      "confidence": 0.5900302529335022,
+      "similarities": {
+        "ContextObjective": 0.4483547508716583,
+        "BenefitsAssistance": 0.3762122392654419,
+        "Eligibility": 0.5900302529335022,
+        "ApplicationProcess": 0.5489426851272583,
+        "TimelineFrequency": 0.482754647731781,
+        "AuthoritiesGovernance": 0.404532253742218,
+        "DefinitionsReferences": 0.3853762149810791
+      }
+    },
+    {
+      "sentence": "Applicants must also be between the ages of 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.6289560794830322,
+      "similarities": {
+        "ContextObjective": 0.4626444876194,
+        "BenefitsAssistance": 0.47619959712028503,
+        "Eligibility": 0.6289560794830322,
+        "ApplicationProcess": 0.5746288895606995,
+        "TimelineFrequency": 0.5501474142074585,
+        "AuthoritiesGovernance": 0.42847299575805664,
+        "DefinitionsReferences": 0.41941195726394653
+      }
+    },
+    {
+      "sentence": "The income criteria stipulate that the monthly income of the applicant should not exceed ₹15,000.",
+      "role": "Eligibility",
+      "confidence": 0.5639742612838745,
+      "similarities": {
+        "ContextObjective": 0.43364620208740234,
+        "BenefitsAssistance": 0.4820326268672943,
+        "Eligibility": 0.5639742612838745,
+        "ApplicationProcess": 0.5013636946678162,
+        "TimelineFrequency": 0.45519983768463135,
+        "AuthoritiesGovernance": 0.3354434370994568,
+        "DefinitionsReferences": 0.3685646653175354
+      }
+    },
+    {
+      "sentence": "Workers must provide proof of their employment in the construction sector and must have a valid registration number.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5949374437332153,
+      "similarities": {
+        "ContextObjective": 0.4435598850250244,
+        "BenefitsAssistance": 0.44966912269592285,
+        "Eligibility": 0.5369921922683716,
+        "ApplicationProcess": 0.5949374437332153,
+        "TimelineFrequency": 0.481418251991272,
+        "AuthoritiesGovernance": 0.4308095872402191,
+        "DefinitionsReferences": 0.4410037100315094
+      }
+    },
+    {
+      "sentence": "The application process involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7814483642578125,
+      "similarities": {
+        "ContextObjective": 0.5850433707237244,
+        "BenefitsAssistance": 0.5570006370544434,
+        "Eligibility": 0.655730128288269,
+        "ApplicationProcess": 0.7814483642578125,
+        "TimelineFrequency": 0.6901986002922058,
+        "AuthoritiesGovernance": 0.5501036643981934,
+        "DefinitionsReferences": 0.5526537895202637
+      }
+    },
+    {
+      "sentence": "First, eligible workers must visit the nearest Labour Department office or the designated online portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6015846133232117,
+      "similarities": {
+        "ContextObjective": 0.41824501752853394,
+        "BenefitsAssistance": 0.42002320289611816,
+        "Eligibility": 0.5256544947624207,
+        "ApplicationProcess": 0.6015846133232117,
+        "TimelineFrequency": 0.4683716297149658,
+        "AuthoritiesGovernance": 0.44907325506210327,
+        "DefinitionsReferences": 0.39230936765670776
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form specifically designed for this scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6700910329818726,
+      "similarities": {
+        "ContextObjective": 0.555400013923645,
+        "BenefitsAssistance": 0.48719489574432373,
+        "Eligibility": 0.5977368354797363,
+        "ApplicationProcess": 0.6700910329818726,
+        "TimelineFrequency": 0.5381556749343872,
+        "AuthoritiesGovernance": 0.434651255607605,
+        "DefinitionsReferences": 0.42978572845458984
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, and address.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7122130393981934,
+      "similarities": {
+        "ContextObjective": 0.5036038160324097,
+        "BenefitsAssistance": 0.5683835744857788,
+        "Eligibility": 0.6454730033874512,
+        "ApplicationProcess": 0.7122130393981934,
+        "TimelineFrequency": 0.5968289971351624,
+        "AuthoritiesGovernance": 0.48615020513534546,
+        "DefinitionsReferences": 0.5272284150123596
+      }
+    },
+    {
+      "sentence": "Applicants must also provide their registration number as a construction worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5965160131454468,
+      "similarities": {
+        "ContextObjective": 0.4039948582649231,
+        "BenefitsAssistance": 0.4396877884864807,
+        "Eligibility": 0.5461543202400208,
+        "ApplicationProcess": 0.5965160131454468,
+        "TimelineFrequency": 0.49350249767303467,
+        "AuthoritiesGovernance": 0.40102094411849976,
+        "DefinitionsReferences": 0.41230225563049316
+      }
+    },
+    {
+      "sentence": "In addition to the application form, workers must submit supporting documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6598528027534485,
+      "similarities": {
+        "ContextObjective": 0.4895213544368744,
+        "BenefitsAssistance": 0.5577368140220642,
+        "Eligibility": 0.570107638835907,
+        "ApplicationProcess": 0.6598528027534485,
+        "TimelineFrequency": 0.5529396533966064,
+        "AuthoritiesGovernance": 0.48198994994163513,
+        "DefinitionsReferences": 0.5594815015792847
+      }
+    },
+    {
+      "sentence": "These documents include proof of identity such as an Aadhaar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5378196835517883,
+      "similarities": {
+        "ContextObjective": 0.43559929728507996,
+        "BenefitsAssistance": 0.5139812231063843,
+        "Eligibility": 0.4492369592189789,
+        "ApplicationProcess": 0.5378196835517883,
+        "TimelineFrequency": 0.43173497915267944,
+        "AuthoritiesGovernance": 0.4166290760040283,
+        "DefinitionsReferences": 0.49039894342422485
+      }
+    },
+    {
+      "sentence": "They must also provide medical documents that confirm the need for hospitalization or treatment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.582360029220581,
+      "similarities": {
+        "ContextObjective": 0.4228719472885132,
+        "BenefitsAssistance": 0.570792555809021,
+        "Eligibility": 0.5140185952186584,
+        "ApplicationProcess": 0.582360029220581,
+        "TimelineFrequency": 0.47585225105285645,
+        "AuthoritiesGovernance": 0.4653235673904419,
+        "DefinitionsReferences": 0.4993572235107422
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the designated officials in the Labour Department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6006253957748413,
+      "similarities": {
+        "ContextObjective": 0.4340931475162506,
+        "BenefitsAssistance": 0.41630011796951294,
+        "Eligibility": 0.5403361916542053,
+        "ApplicationProcess": 0.6006253957748413,
+        "TimelineFrequency": 0.522333025932312,
+        "AuthoritiesGovernance": 0.5184404850006104,
+        "DefinitionsReferences": 0.4515446424484253
+      }
+    },
+    {
+      "sentence": "The processing time for applications is typically around 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6440578699111938,
+      "similarities": {
+        "ContextObjective": 0.463408887386322,
+        "BenefitsAssistance": 0.49475347995758057,
+        "Eligibility": 0.5579134225845337,
+        "ApplicationProcess": 0.6315133571624756,
+        "TimelineFrequency": 0.6440578699111938,
+        "AuthoritiesGovernance": 0.47003698348999023,
+        "DefinitionsReferences": 0.4529085159301758
+      }
+    },
+    {
+      "sentence": "If approved, the financial assistance will be disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5643556118011475,
+      "similarities": {
+        "ContextObjective": 0.403806209564209,
+        "BenefitsAssistance": 0.5643556118011475,
+        "Eligibility": 0.5456817150115967,
+        "ApplicationProcess": 0.5372934341430664,
+        "TimelineFrequency": 0.46407830715179443,
+        "AuthoritiesGovernance": 0.4204707145690918,
+        "DefinitionsReferences": 0.3599013090133667
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Labour and Employment in collaboration with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5166012048721313,
+      "similarities": {
+        "ContextObjective": 0.478094220161438,
+        "BenefitsAssistance": 0.43192702531814575,
+        "Eligibility": 0.45352137088775635,
+        "ApplicationProcess": 0.4415231943130493,
+        "TimelineFrequency": 0.4155558943748474,
+        "AuthoritiesGovernance": 0.5166012048721313,
+        "DefinitionsReferences": 0.3827347457408905
+      }
+    },
+    {
+      "sentence": "Each state has its own Labour Department that oversees the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6077170372009277,
+      "similarities": {
+        "ContextObjective": 0.48544976115226746,
+        "BenefitsAssistance": 0.46697160601615906,
+        "Eligibility": 0.5026195049285889,
+        "ApplicationProcess": 0.4540311396121979,
+        "TimelineFrequency": 0.44601529836654663,
+        "AuthoritiesGovernance": 0.6077170372009277,
+        "DefinitionsReferences": 0.4249598979949951
+      }
+    },
+    {
+      "sentence": "For instance, the Delhi Labour Department has a dedicated helpline for construction workers to assist with queries related to the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44870567321777344,
+      "similarities": {
+        "ContextObjective": 0.43467456102371216,
+        "BenefitsAssistance": 0.44870567321777344,
+        "Eligibility": 0.4244929850101471,
+        "ApplicationProcess": 0.4168999195098877,
+        "TimelineFrequency": 0.38910436630249023,
+        "AuthoritiesGovernance": 0.4344162046909332,
+        "DefinitionsReferences": 0.3813854455947876
+      }
+    },
+    {
+      "sentence": "The contact number for the Delhi Labour Department is 011-2337-1234.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4471876621246338,
+      "similarities": {
+        "ContextObjective": 0.3400547206401825,
+        "BenefitsAssistance": 0.40091317892074585,
+        "Eligibility": 0.3857074975967407,
+        "ApplicationProcess": 0.41540050506591797,
+        "TimelineFrequency": 0.3959769010543823,
+        "AuthoritiesGovernance": 0.4471876621246338,
+        "DefinitionsReferences": 0.3457380533218384
+      }
+    },
+    {
+      "sentence": "In Maharashtra, the Labour Department has set up a dedicated portal for online applications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5519911050796509,
+      "similarities": {
+        "ContextObjective": 0.4301280677318573,
+        "BenefitsAssistance": 0.43263423442840576,
+        "Eligibility": 0.4876408874988556,
+        "ApplicationProcess": 0.5519911050796509,
+        "TimelineFrequency": 0.4813600182533264,
+        "AuthoritiesGovernance": 0.4461239278316498,
+        "DefinitionsReferences": 0.4117301106452942
+      }
+    },
+    {
+      "sentence": "The portal allows workers to track the status of their applications in real-time.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5730268955230713,
+      "similarities": {
+        "ContextObjective": 0.42433831095695496,
+        "BenefitsAssistance": 0.485945463180542,
+        "Eligibility": 0.5027307271957397,
+        "ApplicationProcess": 0.5617135763168335,
+        "TimelineFrequency": 0.5730268955230713,
+        "AuthoritiesGovernance": 0.4344971776008606,
+        "DefinitionsReferences": 0.42417940497398376
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Indian government to improve the welfare of informal sector workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4742986559867859,
+      "similarities": {
+        "ContextObjective": 0.4742986559867859,
+        "BenefitsAssistance": 0.428205668926239,
+        "Eligibility": 0.4341677129268646,
+        "ApplicationProcess": 0.39445042610168457,
+        "TimelineFrequency": 0.35745546221733093,
+        "AuthoritiesGovernance": 0.45207661390304565,
+        "DefinitionsReferences": 0.3700251579284668
+      }
+    },
+    {
+      "sentence": "According to the National Sample Survey Office, around 93 percent of the workforce in India is employed in the informal sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.350678026676178,
+      "similarities": {
+        "ContextObjective": 0.3287094235420227,
+        "BenefitsAssistance": 0.32703015208244324,
+        "Eligibility": 0.33190011978149414,
+        "ApplicationProcess": 0.3039568364620209,
+        "TimelineFrequency": 0.2757376432418823,
+        "AuthoritiesGovernance": 0.350678026676178,
+        "DefinitionsReferences": 0.29987695813179016
+      }
+    },
+    {
+      "sentence": "This makes schemes like Medical Assistance and Wage Loss for Construction Workers crucial for providing social security.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4844169020652771,
+      "similarities": {
+        "ContextObjective": 0.4000507593154907,
+        "BenefitsAssistance": 0.4844169020652771,
+        "Eligibility": 0.42409300804138184,
+        "ApplicationProcess": 0.37725967168807983,
+        "TimelineFrequency": 0.36199256777763367,
+        "AuthoritiesGovernance": 0.34638696908950806,
+        "DefinitionsReferences": 0.3355444669723511
+      }
+    },
+    {
+      "sentence": "The government has allocated ₹500 crore for the implementation of this scheme in the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5020970106124878,
+      "similarities": {
+        "ContextObjective": 0.5020970106124878,
+        "BenefitsAssistance": 0.48520129919052124,
+        "Eligibility": 0.4727676510810852,
+        "ApplicationProcess": 0.4137524962425232,
+        "TimelineFrequency": 0.42492473125457764,
+        "AuthoritiesGovernance": 0.4755028188228607,
+        "DefinitionsReferences": 0.34724482893943787
+      }
+    },
+    {
+      "sentence": "This funding is aimed at ensuring that adequate resources are available to meet the needs of construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.5308187007904053,
+      "similarities": {
+        "ContextObjective": 0.48075446486473083,
+        "BenefitsAssistance": 0.4974077641963959,
+        "Eligibility": 0.5308187007904053,
+        "ApplicationProcess": 0.4655616283416748,
+        "TimelineFrequency": 0.46391668915748596,
+        "AuthoritiesGovernance": 0.45353975892066956,
+        "DefinitionsReferences": 0.4052756428718567
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness among construction workers regarding their rights and available benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.4797835648059845,
+      "similarities": {
+        "ContextObjective": 0.4797835648059845,
+        "BenefitsAssistance": 0.4460931718349457,
+        "Eligibility": 0.4581160545349121,
+        "ApplicationProcess": 0.4266664981842041,
+        "TimelineFrequency": 0.3827633857727051,
+        "AuthoritiesGovernance": 0.3981632590293884,
+        "DefinitionsReferences": 0.38036781549453735
+      }
+    },
+    {
+      "sentence": "Workshops and informational sessions are conducted by the Labour Department to educate workers about the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49986761808395386,
+      "similarities": {
+        "ContextObjective": 0.47377514839172363,
+        "BenefitsAssistance": 0.42732053995132446,
+        "Eligibility": 0.41708996891975403,
+        "ApplicationProcess": 0.4257713556289673,
+        "TimelineFrequency": 0.4096664786338806,
+        "AuthoritiesGovernance": 0.49986761808395386,
+        "DefinitionsReferences": 0.3854885995388031
+      }
+    },
+    {
+      "sentence": "These sessions cover the application process, eligibility criteria, and the benefits available under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6424543857574463,
+      "similarities": {
+        "ContextObjective": 0.620488703250885,
+        "BenefitsAssistance": 0.5743207335472107,
+        "Eligibility": 0.6424543857574463,
+        "ApplicationProcess": 0.62494957447052,
+        "TimelineFrequency": 0.6193585991859436,
+        "AuthoritiesGovernance": 0.4912925362586975,
+        "DefinitionsReferences": 0.4961211681365967
+      }
+    },
+    {
+      "sentence": "The government has also partnered with various NGOs to reach out to construction workers in remote areas.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4635138511657715,
+      "similarities": {
+        "ContextObjective": 0.42465534806251526,
+        "BenefitsAssistance": 0.39441680908203125,
+        "Eligibility": 0.44526350498199463,
+        "ApplicationProcess": 0.37182122468948364,
+        "TimelineFrequency": 0.35244250297546387,
+        "AuthoritiesGovernance": 0.4635138511657715,
+        "DefinitionsReferences": 0.37536755204200745
+      }
+    },
+    {
+      "sentence": "This outreach is essential to ensure that workers who are unaware of the scheme can access the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5013382434844971,
+      "similarities": {
+        "ContextObjective": 0.4653611481189728,
+        "BenefitsAssistance": 0.44931453466415405,
+        "Eligibility": 0.5013382434844971,
+        "ApplicationProcess": 0.4487990736961365,
+        "TimelineFrequency": 0.368619829416275,
+        "AuthoritiesGovernance": 0.4448487460613251,
+        "DefinitionsReferences": 0.33849382400512695
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also aims to promote health and safety standards in the construction industry.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46352729201316833,
+      "similarities": {
+        "ContextObjective": 0.46246838569641113,
+        "BenefitsAssistance": 0.46352729201316833,
+        "Eligibility": 0.4503365159034729,
+        "ApplicationProcess": 0.42341411113739014,
+        "TimelineFrequency": 0.372263640165329,
+        "AuthoritiesGovernance": 0.35044822096824646,
+        "DefinitionsReferences": 0.3662795126438141
+      }
+    },
+    {
+      "sentence": "The government encourages construction companies to provide health insurance to their workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4692491292953491,
+      "similarities": {
+        "ContextObjective": 0.4000350832939148,
+        "BenefitsAssistance": 0.4692491292953491,
+        "Eligibility": 0.4174830913543701,
+        "ApplicationProcess": 0.3986962139606476,
+        "TimelineFrequency": 0.35582685470581055,
+        "AuthoritiesGovernance": 0.38624808192253113,
+        "DefinitionsReferences": 0.3672586679458618
+      }
+    },
+    {
+      "sentence": "This is part of a larger goal to reduce the incidence of work-related injuries and illnesses in the construction sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.3900565207004547,
+      "similarities": {
+        "ContextObjective": 0.375936359167099,
+        "BenefitsAssistance": 0.3576776385307312,
+        "Eligibility": 0.3616306781768799,
+        "ApplicationProcess": 0.38106387853622437,
+        "TimelineFrequency": 0.33415013551712036,
+        "AuthoritiesGovernance": 0.3900565207004547,
+        "DefinitionsReferences": 0.3255824148654938
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a significant impact on the livelihoods of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4664742052555084,
+      "similarities": {
+        "ContextObjective": 0.4664742052555084,
+        "BenefitsAssistance": 0.4441857933998108,
+        "Eligibility": 0.4552594721317291,
+        "ApplicationProcess": 0.3856830596923828,
+        "TimelineFrequency": 0.3732335567474365,
+        "AuthoritiesGovernance": 0.4019896984100342,
+        "DefinitionsReferences": 0.3704759478569031
+      }
+    },
+    {
+      "sentence": "By providing financial support during medical emergencies, the scheme aims to reduce the economic burden on families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5311192274093628,
+      "similarities": {
+        "ContextObjective": 0.45326101779937744,
+        "BenefitsAssistance": 0.5311192274093628,
+        "Eligibility": 0.43279892206192017,
+        "ApplicationProcess": 0.36756205558776855,
+        "TimelineFrequency": 0.3505140542984009,
+        "AuthoritiesGovernance": 0.34817954897880554,
+        "DefinitionsReferences": 0.3203032612800598
+      }
+    },
+    {
+      "sentence": "The government is also monitoring the implementation of the scheme to ensure transparency and accountability.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5684739351272583,
+      "similarities": {
+        "ContextObjective": 0.4983881711959839,
+        "BenefitsAssistance": 0.49915528297424316,
+        "Eligibility": 0.5077664852142334,
+        "ApplicationProcess": 0.5497636198997498,
+        "TimelineFrequency": 0.430146187543869,
+        "AuthoritiesGovernance": 0.5684739351272583,
+        "DefinitionsReferences": 0.4349152445793152
+      }
+    },
+    {
+      "sentence": "Regular audits are conducted to assess the disbursement of funds and the effectiveness of the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5420670509338379,
+      "similarities": {
+        "ContextObjective": 0.48990240693092346,
+        "BenefitsAssistance": 0.5420670509338379,
+        "Eligibility": 0.46725738048553467,
+        "ApplicationProcess": 0.47196751832962036,
+        "TimelineFrequency": 0.45124128460884094,
+        "AuthoritiesGovernance": 0.4833243787288666,
+        "DefinitionsReferences": 0.4168928861618042
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme and address any issues faced by workers.",
+      "role": "Eligibility",
+      "confidence": 0.5000326633453369,
+      "similarities": {
+        "ContextObjective": 0.4882446825504303,
+        "BenefitsAssistance": 0.48509499430656433,
+        "Eligibility": 0.5000326633453369,
+        "ApplicationProcess": 0.4373634457588196,
+        "TimelineFrequency": 0.39988982677459717,
+        "AuthoritiesGovernance": 0.48815226554870605,
+        "DefinitionsReferences": 0.3962104618549347
+      }
+    },
+    {
+      "sentence": "Overall, the Medical Assistance and Wage Loss for Construction Workers scheme represents a significant step towards improving the welfare of one of the most vulnerable segments of the workforce in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45674628019332886,
+      "similarities": {
+        "ContextObjective": 0.39408668875694275,
+        "BenefitsAssistance": 0.45674628019332886,
+        "Eligibility": 0.4241986572742462,
+        "ApplicationProcess": 0.37191200256347656,
+        "TimelineFrequency": 0.3421332836151123,
+        "AuthoritiesGovernance": 0.38440513610839844,
+        "DefinitionsReferences": 0.32602259516716003
+      }
+    },
+    {
+      "sentence": "By providing timely medical assistance and wage loss compensation, the scheme aims to enhance the quality of life for construction workers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4859843850135803,
+      "similarities": {
+        "ContextObjective": 0.45203426480293274,
+        "BenefitsAssistance": 0.4859843850135803,
+        "Eligibility": 0.41247326135635376,
+        "ApplicationProcess": 0.38463088870048523,
+        "TimelineFrequency": 0.3808659315109253,
+        "AuthoritiesGovernance": 0.35970643162727356,
+        "DefinitionsReferences": 0.31509944796562195
+      }
+    },
+    {
+      "sentence": "The government continues to work towards expanding the reach and effectiveness of this scheme to ensure that no worker is left behind.",
+      "role": "ContextObjective",
+      "confidence": 0.48549020290374756,
+      "similarities": {
+        "ContextObjective": 0.48549020290374756,
+        "BenefitsAssistance": 0.41269123554229736,
+        "Eligibility": 0.460161417722702,
+        "ApplicationProcess": 0.420055091381073,
+        "TimelineFrequency": 0.377654105424881,
+        "AuthoritiesGovernance": 0.4821105897426605,
+        "DefinitionsReferences": 0.4001201391220093
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme remains operational and is being actively promoted across various states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5414706468582153,
+      "similarities": {
+        "ContextObjective": 0.5414706468582153,
+        "BenefitsAssistance": 0.4192828834056854,
+        "Eligibility": 0.4828513264656067,
+        "ApplicationProcess": 0.42085766792297363,
+        "TimelineFrequency": 0.4266473650932312,
+        "AuthoritiesGovernance": 0.4351402223110199,
+        "DefinitionsReferences": 0.40673643350601196
+      }
+    },
+    {
+      "sentence": "Construction workers are encouraged to take advantage of this scheme to secure their health and financial stability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49223601818084717,
+      "similarities": {
+        "ContextObjective": 0.43913108110427856,
+        "BenefitsAssistance": 0.49223601818084717,
+        "Eligibility": 0.4455268979072571,
+        "ApplicationProcess": 0.41425463557243347,
+        "TimelineFrequency": 0.36785006523132324,
+        "AuthoritiesGovernance": 0.336040735244751,
+        "DefinitionsReferences": 0.3591706156730652
+      }
+    },
+    {
+      "sentence": "The initiative reflects the government's commitment to social welfare and the protection of workers' rights in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.42782720923423767,
+      "similarities": {
+        "ContextObjective": 0.42782720923423767,
+        "BenefitsAssistance": 0.389504611492157,
+        "Eligibility": 0.4261424243450165,
+        "ApplicationProcess": 0.4031430184841156,
+        "TimelineFrequency": 0.3413798213005066,
+        "AuthoritiesGovernance": 0.3982801139354706,
+        "DefinitionsReferences": 0.37547069787979126
+      }
+    },
+    {
+      "sentence": "In conclusion, the Medical Assistance and Wage Loss for Construction Workers scheme is a vital program that addresses the specific needs of construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4888552725315094,
+      "similarities": {
+        "ContextObjective": 0.4888552725315094,
+        "BenefitsAssistance": 0.4873761236667633,
+        "Eligibility": 0.46502771973609924,
+        "ApplicationProcess": 0.4161049723625183,
+        "TimelineFrequency": 0.3931073546409607,
+        "AuthoritiesGovernance": 0.3969380259513855,
+        "DefinitionsReferences": 0.3516092896461487
+      }
+    },
+    {
+      "sentence": "It provides essential financial support during medical emergencies and aims to improve the overall welfare of this critical workforce.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5392568111419678,
+      "similarities": {
+        "ContextObjective": 0.4497091770172119,
+        "BenefitsAssistance": 0.5392568111419678,
+        "Eligibility": 0.42887794971466064,
+        "ApplicationProcess": 0.38391923904418945,
+        "TimelineFrequency": 0.38234636187553406,
+        "AuthoritiesGovernance": 0.4198566973209381,
+        "DefinitionsReferences": 0.372470498085022
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 18,
+    "Eligibility": 8,
+    "AuthoritiesGovernance": 9,
+    "ContextObjective": 10,
+    "ApplicationProcess": 11,
+    "TimelineFrequency": 2
+  },
+  "processing_timestamp": "2025-09-24T21:05:13.126275"
+}

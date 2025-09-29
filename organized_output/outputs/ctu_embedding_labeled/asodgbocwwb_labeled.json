@@ -1,0 +1,757 @@
+{
+  "scheme_name": "Assistance Scheme for Occupational Diseases (GBOCWWB)",
+  "total_sentences": 53,
+  "labeled_sentences": [
+    {
+      "sentence": "The Assistance Scheme for Occupational Diseases is a welfare initiative launched by the Government of India to provide financial support to workers suffering from occupational diseases.",
+      "role": "ContextObjective",
+      "confidence": 0.5287247896194458,
+      "similarities": {
+        "ContextObjective": 0.5287247896194458,
+        "BenefitsAssistance": 0.5134330987930298,
+        "Eligibility": 0.5190514326095581,
+        "ApplicationProcess": 0.46239593625068665,
+        "TimelineFrequency": 0.43774181604385376,
+        "AuthoritiesGovernance": 0.479732871055603,
+        "DefinitionsReferences": 0.3951999247074127
+      }
+    },
+    {
+      "sentence": "This scheme is specifically designed for workers registered under the Building and Other Construction Workers Welfare Cess Act of 1996.",
+      "role": "Eligibility",
+      "confidence": 0.4452628493309021,
+      "similarities": {
+        "ContextObjective": 0.4357914328575134,
+        "BenefitsAssistance": 0.40228673815727234,
+        "Eligibility": 0.4452628493309021,
+        "ApplicationProcess": 0.4197007417678833,
+        "TimelineFrequency": 0.39327478408813477,
+        "AuthoritiesGovernance": 0.396181583404541,
+        "DefinitionsReferences": 0.35943901538848877
+      }
+    },
+    {
+      "sentence": "The scheme was launched in the year 2019 by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5920254588127136,
+      "similarities": {
+        "ContextObjective": 0.5920254588127136,
+        "BenefitsAssistance": 0.45538896322250366,
+        "Eligibility": 0.5040789842605591,
+        "ApplicationProcess": 0.49763065576553345,
+        "TimelineFrequency": 0.4664763808250427,
+        "AuthoritiesGovernance": 0.4352686405181885,
+        "DefinitionsReferences": 0.393574059009552
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance to workers who have been diagnosed with occupational diseases.",
+      "role": "ContextObjective",
+      "confidence": 0.5347669124603271,
+      "similarities": {
+        "ContextObjective": 0.5347669124603271,
+        "BenefitsAssistance": 0.5123440027236938,
+        "Eligibility": 0.5215749740600586,
+        "ApplicationProcess": 0.4547131359577179,
+        "TimelineFrequency": 0.42802557349205017,
+        "AuthoritiesGovernance": 0.4182019829750061,
+        "DefinitionsReferences": 0.35594403743743896
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that affected workers receive timely medical treatment and financial support during their recovery period.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5417299270629883,
+      "similarities": {
+        "ContextObjective": 0.49651989340782166,
+        "BenefitsAssistance": 0.5417299270629883,
+        "Eligibility": 0.48683029413223267,
+        "ApplicationProcess": 0.4530085623264313,
+        "TimelineFrequency": 0.4541090130805969,
+        "AuthoritiesGovernance": 0.4424809217453003,
+        "DefinitionsReferences": 0.3640536665916443
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is intended to cover medical expenses and provide a safety net for workers who are unable to work due to their illness.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5855014324188232,
+      "similarities": {
+        "ContextObjective": 0.47046005725860596,
+        "BenefitsAssistance": 0.5855014324188232,
+        "Eligibility": 0.5195499062538147,
+        "ApplicationProcess": 0.4254884123802185,
+        "TimelineFrequency": 0.4085457921028137,
+        "AuthoritiesGovernance": 0.3915906548500061,
+        "DefinitionsReferences": 0.3600446879863739
+      }
+    },
+    {
+      "sentence": "The amount of financial assistance provided to eligible workers is Rs. 1 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5521515011787415,
+      "similarities": {
+        "ContextObjective": 0.44823336601257324,
+        "BenefitsAssistance": 0.5521515011787415,
+        "Eligibility": 0.527182936668396,
+        "ApplicationProcess": 0.43991386890411377,
+        "TimelineFrequency": 0.4052211046218872,
+        "AuthoritiesGovernance": 0.4151923954486847,
+        "DefinitionsReferences": 0.3731182813644409
+      }
+    },
+    {
+      "sentence": "This amount is disbursed in a one-time payment to the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.538905680179596,
+      "similarities": {
+        "ContextObjective": 0.3968423008918762,
+        "BenefitsAssistance": 0.538905680179596,
+        "Eligibility": 0.4665555953979492,
+        "ApplicationProcess": 0.3896515369415283,
+        "TimelineFrequency": 0.40886205434799194,
+        "AuthoritiesGovernance": 0.3935334384441376,
+        "DefinitionsReferences": 0.34359508752822876
+      }
+    },
+    {
+      "sentence": "To be eligible for the scheme, the applicant must be a registered worker under the Building and Other Construction Workers Welfare Cess Act.",
+      "role": "Eligibility",
+      "confidence": 0.5754312872886658,
+      "similarities": {
+        "ContextObjective": 0.4356010854244232,
+        "BenefitsAssistance": 0.3702980875968933,
+        "Eligibility": 0.5754312872886658,
+        "ApplicationProcess": 0.5215264558792114,
+        "TimelineFrequency": 0.44016820192337036,
+        "AuthoritiesGovernance": 0.39695996046066284,
+        "DefinitionsReferences": 0.33846789598464966
+      }
+    },
+    {
+      "sentence": "The applicant must also provide medical documentation confirming the diagnosis of an occupational disease.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6065773963928223,
+      "similarities": {
+        "ContextObjective": 0.42830508947372437,
+        "BenefitsAssistance": 0.5304336547851562,
+        "Eligibility": 0.542619526386261,
+        "ApplicationProcess": 0.6065773963928223,
+        "TimelineFrequency": 0.507029116153717,
+        "AuthoritiesGovernance": 0.41943949460983276,
+        "DefinitionsReferences": 0.4666227102279663
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to workers who are between the ages of 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5718180537223816,
+      "similarities": {
+        "ContextObjective": 0.5083916187286377,
+        "BenefitsAssistance": 0.49502530694007874,
+        "Eligibility": 0.5718180537223816,
+        "ApplicationProcess": 0.5042716860771179,
+        "TimelineFrequency": 0.4905122220516205,
+        "AuthoritiesGovernance": 0.45694735646247864,
+        "DefinitionsReferences": 0.4155697822570801
+      }
+    },
+    {
+      "sentence": "There is no specific income limit mentioned for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5601938962936401,
+      "similarities": {
+        "ContextObjective": 0.4892857074737549,
+        "BenefitsAssistance": 0.48414182662963867,
+        "Eligibility": 0.5601938962936401,
+        "ApplicationProcess": 0.4265945553779602,
+        "TimelineFrequency": 0.43597275018692017,
+        "AuthoritiesGovernance": 0.3454185724258423,
+        "DefinitionsReferences": 0.3374791443347931
+      }
+    },
+    {
+      "sentence": "However, the applicant must not be receiving any other form of financial assistance for the same illness from any other government scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5370191335678101,
+      "similarities": {
+        "ContextObjective": 0.4146147668361664,
+        "BenefitsAssistance": 0.47494298219680786,
+        "Eligibility": 0.5370191335678101,
+        "ApplicationProcess": 0.46799522638320923,
+        "TimelineFrequency": 0.4058891236782074,
+        "AuthoritiesGovernance": 0.3743533492088318,
+        "DefinitionsReferences": 0.3278631567955017
+      }
+    },
+    {
+      "sentence": "The application process for the Assistance Scheme for Occupational Diseases involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6809867024421692,
+      "similarities": {
+        "ContextObjective": 0.5552768707275391,
+        "BenefitsAssistance": 0.5468994975090027,
+        "Eligibility": 0.6059314012527466,
+        "ApplicationProcess": 0.6809867024421692,
+        "TimelineFrequency": 0.5896487832069397,
+        "AuthoritiesGovernance": 0.5186238884925842,
+        "DefinitionsReferences": 0.48815205693244934
+      }
+    },
+    {
+      "sentence": "First, the applicant must obtain a medical certificate from a registered medical practitioner confirming the occupational disease.",
+      "role": "ApplicationProcess",
+      "confidence": 0.571702778339386,
+      "similarities": {
+        "ContextObjective": 0.4184418022632599,
+        "BenefitsAssistance": 0.4213232398033142,
+        "Eligibility": 0.4800868332386017,
+        "ApplicationProcess": 0.571702778339386,
+        "TimelineFrequency": 0.44860097765922546,
+        "AuthoritiesGovernance": 0.3987991511821747,
+        "DefinitionsReferences": 0.3933049440383911
+      }
+    },
+    {
+      "sentence": "Next, the applicant must fill out the application form available at the local office of the Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6463471055030823,
+      "similarities": {
+        "ContextObjective": 0.42519819736480713,
+        "BenefitsAssistance": 0.4238809049129486,
+        "Eligibility": 0.5257269740104675,
+        "ApplicationProcess": 0.6463471055030823,
+        "TimelineFrequency": 0.4988081455230713,
+        "AuthoritiesGovernance": 0.4141642451286316,
+        "DefinitionsReferences": 0.3956361413002014
+      }
+    },
+    {
+      "sentence": "The completed application form must be submitted along with the medical certificate and any other required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6775405406951904,
+      "similarities": {
+        "ContextObjective": 0.4209024906158447,
+        "BenefitsAssistance": 0.49023503065109253,
+        "Eligibility": 0.5227435827255249,
+        "ApplicationProcess": 0.6775405406951904,
+        "TimelineFrequency": 0.5128055810928345,
+        "AuthoritiesGovernance": 0.4025111794471741,
+        "DefinitionsReferences": 0.44379645586013794
+      }
+    },
+    {
+      "sentence": "The required documents typically include proof of identity such as an Aadhar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5805583596229553,
+      "similarities": {
+        "ContextObjective": 0.44474416971206665,
+        "BenefitsAssistance": 0.49885061383247375,
+        "Eligibility": 0.47978049516677856,
+        "ApplicationProcess": 0.5805583596229553,
+        "TimelineFrequency": 0.46032002568244934,
+        "AuthoritiesGovernance": 0.4441416263580322,
+        "DefinitionsReferences": 0.5051193237304688
+      }
+    },
+    {
+      "sentence": "The application must also include proof of registration as a construction worker under the relevant act.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6104477047920227,
+      "similarities": {
+        "ContextObjective": 0.45806628465652466,
+        "BenefitsAssistance": 0.44237881898880005,
+        "Eligibility": 0.5344103574752808,
+        "ApplicationProcess": 0.6104477047920227,
+        "TimelineFrequency": 0.49246901273727417,
+        "AuthoritiesGovernance": 0.38858672976493835,
+        "DefinitionsReferences": 0.46382907032966614
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the local welfare board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6203410625457764,
+      "similarities": {
+        "ContextObjective": 0.4904639720916748,
+        "BenefitsAssistance": 0.4728066325187683,
+        "Eligibility": 0.5802152156829834,
+        "ApplicationProcess": 0.6203410625457764,
+        "TimelineFrequency": 0.5391857624053955,
+        "AuthoritiesGovernance": 0.47533249855041504,
+        "DefinitionsReferences": 0.41755300760269165
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5573298931121826,
+      "similarities": {
+        "ContextObjective": 0.4210391640663147,
+        "BenefitsAssistance": 0.46045008301734924,
+        "Eligibility": 0.46395424008369446,
+        "ApplicationProcess": 0.552907407283783,
+        "TimelineFrequency": 0.5573298931121826,
+        "AuthoritiesGovernance": 0.45824116468429565,
+        "DefinitionsReferences": 0.45750176906585693
+      }
+    },
+    {
+      "sentence": "If the application is approved, the financial assistance will be disbursed directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5747170448303223,
+      "similarities": {
+        "ContextObjective": 0.42634648084640503,
+        "BenefitsAssistance": 0.5747170448303223,
+        "Eligibility": 0.5688040852546692,
+        "ApplicationProcess": 0.541656494140625,
+        "TimelineFrequency": 0.4674718677997589,
+        "AuthoritiesGovernance": 0.4355412721633911,
+        "DefinitionsReferences": 0.3692694902420044
+      }
+    },
+    {
+      "sentence": "The funds are usually transferred within 7 days of approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5063652992248535,
+      "similarities": {
+        "ContextObjective": 0.4402981102466583,
+        "BenefitsAssistance": 0.4984988868236542,
+        "Eligibility": 0.4927144944667816,
+        "ApplicationProcess": 0.4821148216724396,
+        "TimelineFrequency": 0.5063652992248535,
+        "AuthoritiesGovernance": 0.4209577441215515,
+        "DefinitionsReferences": 0.40304431319236755
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5071794986724854,
+      "similarities": {
+        "ContextObjective": 0.5034915208816528,
+        "BenefitsAssistance": 0.44014185667037964,
+        "Eligibility": 0.46377840638160706,
+        "ApplicationProcess": 0.44195616245269775,
+        "TimelineFrequency": 0.39744240045547485,
+        "AuthoritiesGovernance": 0.5071794986724854,
+        "DefinitionsReferences": 0.3725703954696655
+      }
+    },
+    {
+      "sentence": "Each state in India has its own welfare board responsible for the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.573388934135437,
+      "similarities": {
+        "ContextObjective": 0.5229412317276001,
+        "BenefitsAssistance": 0.45869624614715576,
+        "Eligibility": 0.5201662182807922,
+        "ApplicationProcess": 0.457009494304657,
+        "TimelineFrequency": 0.4205012917518616,
+        "AuthoritiesGovernance": 0.573388934135437,
+        "DefinitionsReferences": 0.43325671553611755
+      }
+    },
+    {
+      "sentence": "The contact details for the respective state welfare boards can be found on the official website of the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5362734794616699,
+      "similarities": {
+        "ContextObjective": 0.44245675206184387,
+        "BenefitsAssistance": 0.48466530442237854,
+        "Eligibility": 0.47389739751815796,
+        "ApplicationProcess": 0.479530394077301,
+        "TimelineFrequency": 0.4459357261657715,
+        "AuthoritiesGovernance": 0.5362734794616699,
+        "DefinitionsReferences": 0.4643832743167877
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader effort by the Indian government to improve the working conditions and health of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.45280691981315613,
+      "similarities": {
+        "ContextObjective": 0.45280691981315613,
+        "BenefitsAssistance": 0.41248631477355957,
+        "Eligibility": 0.4301452040672302,
+        "ApplicationProcess": 0.42515629529953003,
+        "TimelineFrequency": 0.3698376715183258,
+        "AuthoritiesGovernance": 0.42615631222724915,
+        "DefinitionsReferences": 0.3703790605068207
+      }
+    },
+    {
+      "sentence": "According to the Ministry of Labour and Employment, there are approximately 50 million construction workers in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.389161616563797,
+      "similarities": {
+        "ContextObjective": 0.3565306067466736,
+        "BenefitsAssistance": 0.34332144260406494,
+        "Eligibility": 0.36443114280700684,
+        "ApplicationProcess": 0.3596380352973938,
+        "TimelineFrequency": 0.3329581618309021,
+        "AuthoritiesGovernance": 0.389161616563797,
+        "DefinitionsReferences": 0.3334367871284485
+      }
+    },
+    {
+      "sentence": "Many of these workers are at risk of developing occupational diseases due to exposure to hazardous materials and unsafe working conditions.",
+      "role": "Eligibility",
+      "confidence": 0.4387851059436798,
+      "similarities": {
+        "ContextObjective": 0.32026994228363037,
+        "BenefitsAssistance": 0.3843488395214081,
+        "Eligibility": 0.4387851059436798,
+        "ApplicationProcess": 0.38743239641189575,
+        "TimelineFrequency": 0.3769151568412781,
+        "AuthoritiesGovernance": 0.3681272268295288,
+        "DefinitionsReferences": 0.4099805951118469
+      }
+    },
+    {
+      "sentence": "The government has recognized the need for targeted support for these vulnerable workers.",
+      "role": "Eligibility",
+      "confidence": 0.5056991577148438,
+      "similarities": {
+        "ContextObjective": 0.44304507970809937,
+        "BenefitsAssistance": 0.4629109799861908,
+        "Eligibility": 0.5056991577148438,
+        "ApplicationProcess": 0.40390098094940186,
+        "TimelineFrequency": 0.37113967537879944,
+        "AuthoritiesGovernance": 0.44740796089172363,
+        "DefinitionsReferences": 0.3967127203941345
+      }
+    },
+    {
+      "sentence": "The Assistance Scheme for Occupational Diseases is one of several initiatives aimed at improving the welfare of construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4737201929092407,
+      "similarities": {
+        "ContextObjective": 0.4696987569332123,
+        "BenefitsAssistance": 0.4737201929092407,
+        "Eligibility": 0.45705851912498474,
+        "ApplicationProcess": 0.42634785175323486,
+        "TimelineFrequency": 0.41624030470848083,
+        "AuthoritiesGovernance": 0.4528837203979492,
+        "DefinitionsReferences": 0.3805677890777588
+      }
+    },
+    {
+      "sentence": "The scheme is particularly important given the high incidence of occupational diseases in the construction industry.",
+      "role": "ContextObjective",
+      "confidence": 0.430424302816391,
+      "similarities": {
+        "ContextObjective": 0.430424302816391,
+        "BenefitsAssistance": 0.38956040143966675,
+        "Eligibility": 0.41472381353378296,
+        "ApplicationProcess": 0.385184645652771,
+        "TimelineFrequency": 0.3895938992500305,
+        "AuthoritiesGovernance": 0.3545718789100647,
+        "DefinitionsReferences": 0.3454884886741638
+      }
+    },
+    {
+      "sentence": "Occupational diseases can include respiratory illnesses, skin diseases, and musculoskeletal disorders.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4658477306365967,
+      "similarities": {
+        "ContextObjective": 0.3913525342941284,
+        "BenefitsAssistance": 0.4658477306365967,
+        "Eligibility": 0.4532351493835449,
+        "ApplicationProcess": 0.42257368564605713,
+        "TimelineFrequency": 0.45619791746139526,
+        "AuthoritiesGovernance": 0.4238676130771637,
+        "DefinitionsReferences": 0.459716796875
+      }
+    },
+    {
+      "sentence": "These conditions can severely impact a worker's ability to earn a livelihood.",
+      "role": "Eligibility",
+      "confidence": 0.5199114084243774,
+      "similarities": {
+        "ContextObjective": 0.36903294920921326,
+        "BenefitsAssistance": 0.46808451414108276,
+        "Eligibility": 0.5199114084243774,
+        "ApplicationProcess": 0.40306341648101807,
+        "TimelineFrequency": 0.41659867763519287,
+        "AuthoritiesGovernance": 0.3950982987880707,
+        "DefinitionsReferences": 0.3929843008518219
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme aims to alleviate some of the financial burdens faced by affected workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5603094100952148,
+      "similarities": {
+        "ContextObjective": 0.49365708231925964,
+        "BenefitsAssistance": 0.5603094100952148,
+        "Eligibility": 0.4902489483356476,
+        "ApplicationProcess": 0.41712552309036255,
+        "TimelineFrequency": 0.3877990245819092,
+        "AuthoritiesGovernance": 0.4052317142486572,
+        "DefinitionsReferences": 0.34519582986831665
+      }
+    },
+    {
+      "sentence": "The government has also emphasized the importance of awareness and education regarding occupational health and safety.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4306730628013611,
+      "similarities": {
+        "ContextObjective": 0.42256513237953186,
+        "BenefitsAssistance": 0.4204981327056885,
+        "Eligibility": 0.4057580232620239,
+        "ApplicationProcess": 0.4306730628013611,
+        "TimelineFrequency": 0.3614834249019623,
+        "AuthoritiesGovernance": 0.41762614250183105,
+        "DefinitionsReferences": 0.4144861698150635
+      }
+    },
+    {
+      "sentence": "Workers are encouraged to seek medical attention promptly if they experience symptoms of occupational diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4600517153739929,
+      "similarities": {
+        "ContextObjective": 0.3982987105846405,
+        "BenefitsAssistance": 0.4600517153739929,
+        "Eligibility": 0.4254813492298126,
+        "ApplicationProcess": 0.4432430863380432,
+        "TimelineFrequency": 0.4216371774673462,
+        "AuthoritiesGovernance": 0.4099629819393158,
+        "DefinitionsReferences": 0.3977089822292328
+      }
+    },
+    {
+      "sentence": "The scheme is part of the government's commitment to ensuring the health and safety of workers in all sectors.",
+      "role": "Eligibility",
+      "confidence": 0.47489801049232483,
+      "similarities": {
+        "ContextObjective": 0.47324061393737793,
+        "BenefitsAssistance": 0.43515291810035706,
+        "Eligibility": 0.47489801049232483,
+        "ApplicationProcess": 0.44582435488700867,
+        "TimelineFrequency": 0.3958373963832855,
+        "AuthoritiesGovernance": 0.42005041241645813,
+        "DefinitionsReferences": 0.4188189208507538
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the government is also working on improving workplace safety standards.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5077760815620422,
+      "similarities": {
+        "ContextObjective": 0.40646329522132874,
+        "BenefitsAssistance": 0.5077760815620422,
+        "Eligibility": 0.4606577754020691,
+        "ApplicationProcess": 0.444530189037323,
+        "TimelineFrequency": 0.3955439031124115,
+        "AuthoritiesGovernance": 0.470097154378891,
+        "DefinitionsReferences": 0.4267849922180176
+      }
+    },
+    {
+      "sentence": "This includes regular inspections and enforcement of safety regulations at construction sites.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4881894588470459,
+      "similarities": {
+        "ContextObjective": 0.38774678111076355,
+        "BenefitsAssistance": 0.3707389831542969,
+        "Eligibility": 0.4579966962337494,
+        "ApplicationProcess": 0.4881894588470459,
+        "TimelineFrequency": 0.42528432607650757,
+        "AuthoritiesGovernance": 0.4720469117164612,
+        "DefinitionsReferences": 0.47541797161102295
+      }
+    },
+    {
+      "sentence": "The Assistance Scheme for Occupational Diseases is a critical component of the government's overall strategy to protect workers' rights.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4735584855079651,
+      "similarities": {
+        "ContextObjective": 0.4656413197517395,
+        "BenefitsAssistance": 0.4735584855079651,
+        "Eligibility": 0.4700486660003662,
+        "ApplicationProcess": 0.4482227861881256,
+        "TimelineFrequency": 0.3993462026119232,
+        "AuthoritiesGovernance": 0.46803051233291626,
+        "DefinitionsReferences": 0.42254236340522766
+      }
+    },
+    {
+      "sentence": "The scheme reflects a growing recognition of the need for comprehensive welfare measures for workers in hazardous occupations.",
+      "role": "ContextObjective",
+      "confidence": 0.4371052384376526,
+      "similarities": {
+        "ContextObjective": 0.4371052384376526,
+        "BenefitsAssistance": 0.4178740382194519,
+        "Eligibility": 0.43033891916275024,
+        "ApplicationProcess": 0.38619112968444824,
+        "TimelineFrequency": 0.3512144982814789,
+        "AuthoritiesGovernance": 0.38180288672447205,
+        "DefinitionsReferences": 0.3600008487701416
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the implementation of the scheme to ensure that it meets the needs of workers effectively.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5428078174591064,
+      "similarities": {
+        "ContextObjective": 0.5080707669258118,
+        "BenefitsAssistance": 0.4415333569049835,
+        "Eligibility": 0.4696084260940552,
+        "ApplicationProcess": 0.47437992691993713,
+        "TimelineFrequency": 0.4084879159927368,
+        "AuthoritiesGovernance": 0.5428078174591064,
+        "DefinitionsReferences": 0.4062530994415283
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is also taken into account to improve the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5272901058197021,
+      "similarities": {
+        "ContextObjective": 0.5068860650062561,
+        "BenefitsAssistance": 0.5011188983917236,
+        "Eligibility": 0.5272901058197021,
+        "ApplicationProcess": 0.44362273812294006,
+        "TimelineFrequency": 0.4216592311859131,
+        "AuthoritiesGovernance": 0.4749828577041626,
+        "DefinitionsReferences": 0.41241058707237244
+      }
+    },
+    {
+      "sentence": "The Assistance Scheme for Occupational Diseases is a vital resource for construction workers facing health challenges.",
+      "role": "Eligibility",
+      "confidence": 0.49288272857666016,
+      "similarities": {
+        "ContextObjective": 0.46433740854263306,
+        "BenefitsAssistance": 0.4779408574104309,
+        "Eligibility": 0.49288272857666016,
+        "ApplicationProcess": 0.4393334984779358,
+        "TimelineFrequency": 0.4305332899093628,
+        "AuthoritiesGovernance": 0.42242419719696045,
+        "DefinitionsReferences": 0.3990516662597656
+      }
+    },
+    {
+      "sentence": "It provides a necessary lifeline for those who may otherwise struggle to access medical care and support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.486061155796051,
+      "similarities": {
+        "ContextObjective": 0.42982739210128784,
+        "BenefitsAssistance": 0.486061155796051,
+        "Eligibility": 0.46213865280151367,
+        "ApplicationProcess": 0.4281477928161621,
+        "TimelineFrequency": 0.3849222660064697,
+        "AuthoritiesGovernance": 0.3914647698402405,
+        "DefinitionsReferences": 0.38360875844955444
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time based on the changing needs of the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.5768269300460815,
+      "similarities": {
+        "ContextObjective": 0.5768269300460815,
+        "BenefitsAssistance": 0.49112555384635925,
+        "Eligibility": 0.5205422639846802,
+        "ApplicationProcess": 0.48544758558273315,
+        "TimelineFrequency": 0.5217456221580505,
+        "AuthoritiesGovernance": 0.45454585552215576,
+        "DefinitionsReferences": 0.4277571439743042
+      }
+    },
+    {
+      "sentence": "As the construction industry continues to grow, the government remains committed to enhancing the welfare of its workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45074477791786194,
+      "similarities": {
+        "ContextObjective": 0.3976195156574249,
+        "BenefitsAssistance": 0.4071301817893982,
+        "Eligibility": 0.3841322660446167,
+        "ApplicationProcess": 0.37991541624069214,
+        "TimelineFrequency": 0.3487513065338135,
+        "AuthoritiesGovernance": 0.45074477791786194,
+        "DefinitionsReferences": 0.40747392177581787
+      }
+    },
+    {
+      "sentence": "The Assistance Scheme for Occupational Diseases is a step towards achieving that goal.",
+      "role": "ContextObjective",
+      "confidence": 0.5227580666542053,
+      "similarities": {
+        "ContextObjective": 0.5227580666542053,
+        "BenefitsAssistance": 0.48542505502700806,
+        "Eligibility": 0.48695898056030273,
+        "ApplicationProcess": 0.48209965229034424,
+        "TimelineFrequency": 0.41226106882095337,
+        "AuthoritiesGovernance": 0.47275441884994507,
+        "DefinitionsReferences": 0.4129807651042938
+      }
+    },
+    {
+      "sentence": "Workers are encouraged to stay informed about their rights and the benefits available to them under this scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5327813625335693,
+      "similarities": {
+        "ContextObjective": 0.5177183747291565,
+        "BenefitsAssistance": 0.5327813625335693,
+        "Eligibility": 0.513667643070221,
+        "ApplicationProcess": 0.47055667638778687,
+        "TimelineFrequency": 0.44573742151260376,
+        "AuthoritiesGovernance": 0.4915490746498108,
+        "DefinitionsReferences": 0.47503015398979187
+      }
+    },
+    {
+      "sentence": "The government aims to create a safer and healthier working environment for all construction workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4323122799396515,
+      "similarities": {
+        "ContextObjective": 0.42889100313186646,
+        "BenefitsAssistance": 0.37577277421951294,
+        "Eligibility": 0.42150455713272095,
+        "ApplicationProcess": 0.41866689920425415,
+        "TimelineFrequency": 0.34200620651245117,
+        "AuthoritiesGovernance": 0.4323122799396515,
+        "DefinitionsReferences": 0.3833545446395874
+      }
+    },
+    {
+      "sentence": "This initiative is part of a larger framework of labor reforms aimed at improving the overall welfare of workers in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47711214423179626,
+      "similarities": {
+        "ContextObjective": 0.42448967695236206,
+        "BenefitsAssistance": 0.41418954730033875,
+        "Eligibility": 0.40214869379997253,
+        "ApplicationProcess": 0.37468621134757996,
+        "TimelineFrequency": 0.3630049228668213,
+        "AuthoritiesGovernance": 0.47711214423179626,
+        "DefinitionsReferences": 0.36951249837875366
+      }
+    },
+    {
+      "sentence": "The Assistance Scheme for Occupational Diseases is a significant move towards ensuring that no worker is left behind in the pursuit of health and safety.",
+      "role": "ContextObjective",
+      "confidence": 0.46340852975845337,
+      "similarities": {
+        "ContextObjective": 0.46340852975845337,
+        "BenefitsAssistance": 0.44574272632598877,
+        "Eligibility": 0.4513024091720581,
+        "ApplicationProcess": 0.42541518807411194,
+        "TimelineFrequency": 0.3592109978199005,
+        "AuthoritiesGovernance": 0.40756955742836,
+        "DefinitionsReferences": 0.37547609210014343
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 9,
+    "Eligibility": 11,
+    "BenefitsAssistance": 13,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 8
+  },
+  "processing_timestamp": "2025-09-25T20:43:21.666462"
+}

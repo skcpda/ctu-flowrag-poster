@@ -1,0 +1,716 @@
+{
+  "scheme_name": "Mahila Nursery Yojana",
+  "total_sentences": 50,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mahila Nursery Yojana is a significant initiative launched by the Government of India to empower women and promote entrepreneurship in the horticulture sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4772331714630127,
+      "similarities": {
+        "ContextObjective": 0.4772331714630127,
+        "BenefitsAssistance": 0.38420864939689636,
+        "Eligibility": 0.4538017511367798,
+        "ApplicationProcess": 0.40294188261032104,
+        "TimelineFrequency": 0.4038209319114685,
+        "AuthoritiesGovernance": 0.421176016330719,
+        "DefinitionsReferences": 0.3674137592315674
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in 2018 under the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.5150004029273987,
+      "similarities": {
+        "ContextObjective": 0.5150004029273987,
+        "BenefitsAssistance": 0.40135249495506287,
+        "Eligibility": 0.4335521459579468,
+        "ApplicationProcess": 0.46442466974258423,
+        "TimelineFrequency": 0.3989892899990082,
+        "AuthoritiesGovernance": 0.3975168466567993,
+        "DefinitionsReferences": 0.32183223962783813
+      }
+    },
+    {
+      "sentence": "The primary objective of the Mahila Nursery Yojana is to provide financial assistance and support to women for establishing their own nurseries.",
+      "role": "ContextObjective",
+      "confidence": 0.5024253129959106,
+      "similarities": {
+        "ContextObjective": 0.5024253129959106,
+        "BenefitsAssistance": 0.4412213861942291,
+        "Eligibility": 0.44202250242233276,
+        "ApplicationProcess": 0.3894917368888855,
+        "TimelineFrequency": 0.3916478753089905,
+        "AuthoritiesGovernance": 0.3858373165130615,
+        "DefinitionsReferences": 0.3502683639526367
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance women's participation in the horticulture sector and contribute to their economic independence.",
+      "role": "ContextObjective",
+      "confidence": 0.4616636037826538,
+      "similarities": {
+        "ContextObjective": 0.4616636037826538,
+        "BenefitsAssistance": 0.3776176869869232,
+        "Eligibility": 0.3999825417995453,
+        "ApplicationProcess": 0.36622682213783264,
+        "TimelineFrequency": 0.33926743268966675,
+        "AuthoritiesGovernance": 0.3221937119960785,
+        "DefinitionsReferences": 0.28699004650115967
+      }
+    },
+    {
+      "sentence": "The government has set a target to establish over 10,000 nurseries across the country within the first five years of the scheme's implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.4687264561653137,
+      "similarities": {
+        "ContextObjective": 0.4687264561653137,
+        "BenefitsAssistance": 0.36214619874954224,
+        "Eligibility": 0.4423922300338745,
+        "ApplicationProcess": 0.3771648108959198,
+        "TimelineFrequency": 0.3743959665298462,
+        "AuthoritiesGovernance": 0.3630451560020447,
+        "DefinitionsReferences": 0.3553086817264557
+      }
+    },
+    {
+      "sentence": "Under this scheme, women beneficiaries can receive a financial assistance of up to INR 1 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5171972513198853,
+      "similarities": {
+        "ContextObjective": 0.4377707839012146,
+        "BenefitsAssistance": 0.5171972513198853,
+        "Eligibility": 0.5013531446456909,
+        "ApplicationProcess": 0.38169410824775696,
+        "TimelineFrequency": 0.3693464696407318,
+        "AuthoritiesGovernance": 0.3676256537437439,
+        "DefinitionsReferences": 0.34585633873939514
+      }
+    },
+    {
+      "sentence": "This financial assistance is provided as a subsidy to help women cover the initial costs of setting up a nursery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5147075653076172,
+      "similarities": {
+        "ContextObjective": 0.43330490589141846,
+        "BenefitsAssistance": 0.5147075653076172,
+        "Eligibility": 0.4566827416419983,
+        "ApplicationProcess": 0.39529651403427124,
+        "TimelineFrequency": 0.4069814085960388,
+        "AuthoritiesGovernance": 0.374749094247818,
+        "DefinitionsReferences": 0.37360504269599915
+      }
+    },
+    {
+      "sentence": "The scheme also aims to provide training and capacity-building programs for women entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.4885549545288086,
+      "similarities": {
+        "ContextObjective": 0.4885549545288086,
+        "BenefitsAssistance": 0.3581637144088745,
+        "Eligibility": 0.42365896701812744,
+        "ApplicationProcess": 0.3492265045642853,
+        "TimelineFrequency": 0.36888933181762695,
+        "AuthoritiesGovernance": 0.3776992857456207,
+        "DefinitionsReferences": 0.3489995300769806
+      }
+    },
+    {
+      "sentence": "These training programs cover various aspects of nursery management including plant propagation, pest management, and marketing strategies.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.45949745178222656,
+      "similarities": {
+        "ContextObjective": 0.435701847076416,
+        "BenefitsAssistance": 0.42041710019111633,
+        "Eligibility": 0.4294966459274292,
+        "ApplicationProcess": 0.4236300587654114,
+        "TimelineFrequency": 0.45612525939941406,
+        "AuthoritiesGovernance": 0.43819659948349,
+        "DefinitionsReferences": 0.45949745178222656
+      }
+    },
+    {
+      "sentence": "The Mahila Nursery Yojana specifically targets women from marginalized communities and those with limited access to financial resources.",
+      "role": "Eligibility",
+      "confidence": 0.4830246865749359,
+      "similarities": {
+        "ContextObjective": 0.4117070436477661,
+        "BenefitsAssistance": 0.39446699619293213,
+        "Eligibility": 0.4830246865749359,
+        "ApplicationProcess": 0.33040064573287964,
+        "TimelineFrequency": 0.36299318075180054,
+        "AuthoritiesGovernance": 0.34307631850242615,
+        "DefinitionsReferences": 0.29568472504615784
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be at least 18 years old to apply for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6487340927124023,
+      "similarities": {
+        "ContextObjective": 0.5236415863037109,
+        "BenefitsAssistance": 0.48510047793388367,
+        "Eligibility": 0.6487340927124023,
+        "ApplicationProcess": 0.5191767811775208,
+        "TimelineFrequency": 0.4830256700515747,
+        "AuthoritiesGovernance": 0.38322627544403076,
+        "DefinitionsReferences": 0.35660481452941895
+      }
+    },
+    {
+      "sentence": "There is no upper age limit for women applicants.",
+      "role": "Eligibility",
+      "confidence": 0.4610004127025604,
+      "similarities": {
+        "ContextObjective": 0.3416224420070648,
+        "BenefitsAssistance": 0.3289543688297272,
+        "Eligibility": 0.4610004127025604,
+        "ApplicationProcess": 0.37153729796409607,
+        "TimelineFrequency": 0.3843785524368286,
+        "AuthoritiesGovernance": 0.3131716847419739,
+        "DefinitionsReferences": 0.27319982647895813
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility stipulate that the annual family income should not exceed INR 3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5579228401184082,
+      "similarities": {
+        "ContextObjective": 0.4472786784172058,
+        "BenefitsAssistance": 0.46921947598457336,
+        "Eligibility": 0.5579228401184082,
+        "ApplicationProcess": 0.468237966299057,
+        "TimelineFrequency": 0.41228964924812317,
+        "AuthoritiesGovernance": 0.3325466811656952,
+        "DefinitionsReferences": 0.36971983313560486
+      }
+    },
+    {
+      "sentence": "Applicants must also possess a basic understanding of horticulture or must be willing to undergo training provided under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5425804853439331,
+      "similarities": {
+        "ContextObjective": 0.4909023642539978,
+        "BenefitsAssistance": 0.38786575198173523,
+        "Eligibility": 0.5425804853439331,
+        "ApplicationProcess": 0.530005931854248,
+        "TimelineFrequency": 0.4662070870399475,
+        "AuthoritiesGovernance": 0.4076771140098572,
+        "DefinitionsReferences": 0.38635092973709106
+      }
+    },
+    {
+      "sentence": "The application process for the Mahila Nursery Yojana involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6481877565383911,
+      "similarities": {
+        "ContextObjective": 0.5358877778053284,
+        "BenefitsAssistance": 0.47428691387176514,
+        "Eligibility": 0.5715808272361755,
+        "ApplicationProcess": 0.6481877565383911,
+        "TimelineFrequency": 0.5751718878746033,
+        "AuthoritiesGovernance": 0.47806400060653687,
+        "DefinitionsReferences": 0.47107699513435364
+      }
+    },
+    {
+      "sentence": "Interested women must first fill out the application form available at the local agricultural department offices or online on the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6528249979019165,
+      "similarities": {
+        "ContextObjective": 0.41522228717803955,
+        "BenefitsAssistance": 0.3962503671646118,
+        "Eligibility": 0.5124866366386414,
+        "ApplicationProcess": 0.6528249979019165,
+        "TimelineFrequency": 0.4784128963947296,
+        "AuthoritiesGovernance": 0.41259998083114624,
+        "DefinitionsReferences": 0.3872097134590149
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the applicant's name, address, age, and family income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7046291828155518,
+      "similarities": {
+        "ContextObjective": 0.5025392174720764,
+        "BenefitsAssistance": 0.6094138622283936,
+        "Eligibility": 0.6535455584526062,
+        "ApplicationProcess": 0.7046291828155518,
+        "TimelineFrequency": 0.5871521234512329,
+        "AuthoritiesGovernance": 0.45943671464920044,
+        "DefinitionsReferences": 0.5175756216049194
+      }
+    },
+    {
+      "sentence": "Applicants must also submit proof of identity and address which can include documents like Aadhaar card, voter ID, or passport.",
+      "role": "ApplicationProcess",
+      "confidence": 0.652610182762146,
+      "similarities": {
+        "ContextObjective": 0.45237261056900024,
+        "BenefitsAssistance": 0.5174064636230469,
+        "Eligibility": 0.5495970845222473,
+        "ApplicationProcess": 0.652610182762146,
+        "TimelineFrequency": 0.5090370178222656,
+        "AuthoritiesGovernance": 0.44335073232650757,
+        "DefinitionsReferences": 0.5104190111160278
+      }
+    },
+    {
+      "sentence": "Additionally, a bank account in the name of the applicant is mandatory for the disbursement of funds.",
+      "role": "Eligibility",
+      "confidence": 0.5308202505111694,
+      "similarities": {
+        "ContextObjective": 0.3884474039077759,
+        "BenefitsAssistance": 0.5268555879592896,
+        "Eligibility": 0.5308202505111694,
+        "ApplicationProcess": 0.5283434391021729,
+        "TimelineFrequency": 0.44455665349960327,
+        "AuthoritiesGovernance": 0.3904745578765869,
+        "DefinitionsReferences": 0.3996897339820862
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the local agricultural officer.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6029255986213684,
+      "similarities": {
+        "ContextObjective": 0.4339655637741089,
+        "BenefitsAssistance": 0.3999983072280884,
+        "Eligibility": 0.5209245681762695,
+        "ApplicationProcess": 0.6029255986213684,
+        "TimelineFrequency": 0.513189435005188,
+        "AuthoritiesGovernance": 0.46405595541000366,
+        "DefinitionsReferences": 0.4108428359031677
+      }
+    },
+    {
+      "sentence": "The officer verifies the details and conducts a site visit to assess the feasibility of establishing a nursery.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5364532470703125,
+      "similarities": {
+        "ContextObjective": 0.44144976139068604,
+        "BenefitsAssistance": 0.37848109006881714,
+        "Eligibility": 0.45739418268203735,
+        "ApplicationProcess": 0.5364532470703125,
+        "TimelineFrequency": 0.4015607237815857,
+        "AuthoritiesGovernance": 0.37742435932159424,
+        "DefinitionsReferences": 0.39322224259376526
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the financial assistance is sanctioned and disbursed to the applicant's bank account.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5598646402359009,
+      "similarities": {
+        "ContextObjective": 0.39133787155151367,
+        "BenefitsAssistance": 0.538544774055481,
+        "Eligibility": 0.5445080995559692,
+        "ApplicationProcess": 0.5598646402359009,
+        "TimelineFrequency": 0.44470101594924927,
+        "AuthoritiesGovernance": 0.4177016019821167,
+        "DefinitionsReferences": 0.3964846730232239
+      }
+    },
+    {
+      "sentence": "The scheme has a timeline for implementation which includes specific deadlines for application submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6720327138900757,
+      "similarities": {
+        "ContextObjective": 0.5817818641662598,
+        "BenefitsAssistance": 0.4829394817352295,
+        "Eligibility": 0.6016031503677368,
+        "ApplicationProcess": 0.6028414964675903,
+        "TimelineFrequency": 0.6720327138900757,
+        "AuthoritiesGovernance": 0.5103306174278259,
+        "DefinitionsReferences": 0.42682981491088867
+      }
+    },
+    {
+      "sentence": "Applications are accepted throughout the year but are evaluated quarterly.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6567492485046387,
+      "similarities": {
+        "ContextObjective": 0.4789974093437195,
+        "BenefitsAssistance": 0.4795731008052826,
+        "Eligibility": 0.5544521808624268,
+        "ApplicationProcess": 0.5743945837020874,
+        "TimelineFrequency": 0.6567492485046387,
+        "AuthoritiesGovernance": 0.44040048122406006,
+        "DefinitionsReferences": 0.4379044771194458
+      }
+    },
+    {
+      "sentence": "Disbursement of funds typically occurs within 30 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5449625849723816,
+      "similarities": {
+        "ContextObjective": 0.44788527488708496,
+        "BenefitsAssistance": 0.5449625849723816,
+        "Eligibility": 0.5083504915237427,
+        "ApplicationProcess": 0.47513630986213684,
+        "TimelineFrequency": 0.5298966765403748,
+        "AuthoritiesGovernance": 0.4659231901168823,
+        "DefinitionsReferences": 0.4161648154258728
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Mahila Nursery Yojana is the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5217848420143127,
+      "similarities": {
+        "ContextObjective": 0.40761420130729675,
+        "BenefitsAssistance": 0.38191068172454834,
+        "Eligibility": 0.46474170684814453,
+        "ApplicationProcess": 0.40431469678878784,
+        "TimelineFrequency": 0.3771674633026123,
+        "AuthoritiesGovernance": 0.5217848420143127,
+        "DefinitionsReferences": 0.38723301887512207
+      }
+    },
+    {
+      "sentence": "State agricultural departments are responsible for the ground-level implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.587437093257904,
+      "similarities": {
+        "ContextObjective": 0.4824034571647644,
+        "BenefitsAssistance": 0.40431472659111023,
+        "Eligibility": 0.4890301823616028,
+        "ApplicationProcess": 0.4583737254142761,
+        "TimelineFrequency": 0.3765300512313843,
+        "AuthoritiesGovernance": 0.587437093257904,
+        "DefinitionsReferences": 0.41790348291397095
+      }
+    },
+    {
+      "sentence": "Women entrepreneurs can also seek guidance from the National Horticulture Board.",
+      "role": "ContextObjective",
+      "confidence": 0.42317479848861694,
+      "similarities": {
+        "ContextObjective": 0.42317479848861694,
+        "BenefitsAssistance": 0.32411670684814453,
+        "Eligibility": 0.40124911069869995,
+        "ApplicationProcess": 0.37571460008621216,
+        "TimelineFrequency": 0.345598965883255,
+        "AuthoritiesGovernance": 0.37903159856796265,
+        "DefinitionsReferences": 0.3520098030567169
+      }
+    },
+    {
+      "sentence": "The board provides additional resources and support for nursery management.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49853312969207764,
+      "similarities": {
+        "ContextObjective": 0.47525888681411743,
+        "BenefitsAssistance": 0.49853312969207764,
+        "Eligibility": 0.4809572994709015,
+        "ApplicationProcess": 0.44591379165649414,
+        "TimelineFrequency": 0.46704939007759094,
+        "AuthoritiesGovernance": 0.4764205813407898,
+        "DefinitionsReferences": 0.489854633808136
+      }
+    },
+    {
+      "sentence": "The Mahila Nursery Yojana is part of a broader effort by the Indian government to promote gender equality and women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.47735121846199036,
+      "similarities": {
+        "ContextObjective": 0.47735121846199036,
+        "BenefitsAssistance": 0.38703495264053345,
+        "Eligibility": 0.45340844988822937,
+        "ApplicationProcess": 0.4018886089324951,
+        "TimelineFrequency": 0.3993869125843048,
+        "AuthoritiesGovernance": 0.4479036331176758,
+        "DefinitionsReferences": 0.3790166974067688
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the Sustainable Development Goals set by the United Nations, particularly Goal 5 which focuses on gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5291882157325745,
+      "similarities": {
+        "ContextObjective": 0.5291882157325745,
+        "BenefitsAssistance": 0.3886641561985016,
+        "Eligibility": 0.452480286359787,
+        "ApplicationProcess": 0.40970245003700256,
+        "TimelineFrequency": 0.3912990093231201,
+        "AuthoritiesGovernance": 0.41576820611953735,
+        "DefinitionsReferences": 0.36791959404945374
+      }
+    },
+    {
+      "sentence": "As of 2023, the government has reported the establishment of over 2,500 nurseries under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4801621735095978,
+      "similarities": {
+        "ContextObjective": 0.4801621735095978,
+        "BenefitsAssistance": 0.4098677635192871,
+        "Eligibility": 0.4175494313240051,
+        "ApplicationProcess": 0.3979550004005432,
+        "TimelineFrequency": 0.3953999876976013,
+        "AuthoritiesGovernance": 0.392707884311676,
+        "DefinitionsReferences": 0.41210436820983887
+      }
+    },
+    {
+      "sentence": "These nurseries have collectively generated employment for thousands of women across various states.",
+      "role": "Eligibility",
+      "confidence": 0.38903719186782837,
+      "similarities": {
+        "ContextObjective": 0.35930362343788147,
+        "BenefitsAssistance": 0.34669730067253113,
+        "Eligibility": 0.38903719186782837,
+        "ApplicationProcess": 0.29029321670532227,
+        "TimelineFrequency": 0.34419137239456177,
+        "AuthoritiesGovernance": 0.3685877025127411,
+        "DefinitionsReferences": 0.3489221930503845
+      }
+    },
+    {
+      "sentence": "The Mahila Nursery Yojana also contributes to the overall growth of the horticulture sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.3983001410961151,
+      "similarities": {
+        "ContextObjective": 0.3983001410961151,
+        "BenefitsAssistance": 0.376282274723053,
+        "Eligibility": 0.3569660186767578,
+        "ApplicationProcess": 0.34339749813079834,
+        "TimelineFrequency": 0.31723544001579285,
+        "AuthoritiesGovernance": 0.35625433921813965,
+        "DefinitionsReferences": 0.34796541929244995
+      }
+    },
+    {
+      "sentence": "The horticulture sector has seen a significant increase in production, with a growth rate of approximately 4.5% annually.",
+      "role": "ContextObjective",
+      "confidence": 0.3672056198120117,
+      "similarities": {
+        "ContextObjective": 0.3672056198120117,
+        "BenefitsAssistance": 0.3564985990524292,
+        "Eligibility": 0.3162061870098114,
+        "ApplicationProcess": 0.33980441093444824,
+        "TimelineFrequency": 0.3404013514518738,
+        "AuthoritiesGovernance": 0.2983933985233307,
+        "DefinitionsReferences": 0.33940353989601135
+      }
+    },
+    {
+      "sentence": "The scheme encourages women to cultivate a variety of plants including fruits, flowers, and ornamental plants.",
+      "role": "ContextObjective",
+      "confidence": 0.46344590187072754,
+      "similarities": {
+        "ContextObjective": 0.46344590187072754,
+        "BenefitsAssistance": 0.34360456466674805,
+        "Eligibility": 0.4039214253425598,
+        "ApplicationProcess": 0.3625657856464386,
+        "TimelineFrequency": 0.3910289406776428,
+        "AuthoritiesGovernance": 0.3321104943752289,
+        "DefinitionsReferences": 0.36805975437164307
+      }
+    },
+    {
+      "sentence": "Women beneficiaries are also trained in sustainable farming practices to ensure environmental conservation.",
+      "role": "Eligibility",
+      "confidence": 0.39674609899520874,
+      "similarities": {
+        "ContextObjective": 0.36522191762924194,
+        "BenefitsAssistance": 0.330608606338501,
+        "Eligibility": 0.39674609899520874,
+        "ApplicationProcess": 0.34360942244529724,
+        "TimelineFrequency": 0.31654560565948486,
+        "AuthoritiesGovernance": 0.3479788303375244,
+        "DefinitionsReferences": 0.3369033932685852
+      }
+    },
+    {
+      "sentence": "The government has partnered with various NGOs and institutions to facilitate training programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5868158340454102,
+      "similarities": {
+        "ContextObjective": 0.5014784932136536,
+        "BenefitsAssistance": 0.46563196182250977,
+        "Eligibility": 0.4997025728225708,
+        "ApplicationProcess": 0.45985648036003113,
+        "TimelineFrequency": 0.46105873584747314,
+        "AuthoritiesGovernance": 0.5868158340454102,
+        "DefinitionsReferences": 0.506758451461792
+      }
+    },
+    {
+      "sentence": "These partnerships enhance the reach and effectiveness of the Mahila Nursery Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.4456477463245392,
+      "similarities": {
+        "ContextObjective": 0.4456477463245392,
+        "BenefitsAssistance": 0.3758036494255066,
+        "Eligibility": 0.44211333990097046,
+        "ApplicationProcess": 0.35618719458580017,
+        "TimelineFrequency": 0.37176141142845154,
+        "AuthoritiesGovernance": 0.41450151801109314,
+        "DefinitionsReferences": 0.38072913885116577
+      }
+    },
+    {
+      "sentence": "Women entrepreneurs are encouraged to form self-help groups to share resources and knowledge.",
+      "role": "ContextObjective",
+      "confidence": 0.4350780248641968,
+      "similarities": {
+        "ContextObjective": 0.4350780248641968,
+        "BenefitsAssistance": 0.41273027658462524,
+        "Eligibility": 0.38838422298431396,
+        "ApplicationProcess": 0.327420711517334,
+        "TimelineFrequency": 0.3305034637451172,
+        "AuthoritiesGovernance": 0.415144681930542,
+        "DefinitionsReferences": 0.3986594080924988
+      }
+    },
+    {
+      "sentence": "The scheme promotes the use of technology in nursery management.",
+      "role": "ContextObjective",
+      "confidence": 0.5061967968940735,
+      "similarities": {
+        "ContextObjective": 0.5061967968940735,
+        "BenefitsAssistance": 0.4008464813232422,
+        "Eligibility": 0.4373081922531128,
+        "ApplicationProcess": 0.45884814858436584,
+        "TimelineFrequency": 0.4485853314399719,
+        "AuthoritiesGovernance": 0.3981967568397522,
+        "DefinitionsReferences": 0.3946315050125122
+      }
+    },
+    {
+      "sentence": "Beneficiaries are trained in using digital tools for marketing and sales.",
+      "role": "Eligibility",
+      "confidence": 0.4973219633102417,
+      "similarities": {
+        "ContextObjective": 0.46641749143600464,
+        "BenefitsAssistance": 0.47877663373947144,
+        "Eligibility": 0.4973219633102417,
+        "ApplicationProcess": 0.45735809206962585,
+        "TimelineFrequency": 0.42971372604370117,
+        "AuthoritiesGovernance": 0.4499635696411133,
+        "DefinitionsReferences": 0.4568611979484558
+      }
+    },
+    {
+      "sentence": "The Mahila Nursery Yojana has received positive feedback from participants who report increased confidence and financial independence.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47270262241363525,
+      "similarities": {
+        "ContextObjective": 0.4324183464050293,
+        "BenefitsAssistance": 0.47270262241363525,
+        "Eligibility": 0.42723193764686584,
+        "ApplicationProcess": 0.3797837495803833,
+        "TimelineFrequency": 0.35635700821876526,
+        "AuthoritiesGovernance": 0.3447585701942444,
+        "DefinitionsReferences": 0.3640032410621643
+      }
+    },
+    {
+      "sentence": "Women involved in the scheme have also reported improved social status within their communities.",
+      "role": "ContextObjective",
+      "confidence": 0.46058380603790283,
+      "similarities": {
+        "ContextObjective": 0.46058380603790283,
+        "BenefitsAssistance": 0.4041979908943176,
+        "Eligibility": 0.40955665707588196,
+        "ApplicationProcess": 0.36960622668266296,
+        "TimelineFrequency": 0.3331594169139862,
+        "AuthoritiesGovernance": 0.3824658989906311,
+        "DefinitionsReferences": 0.36096155643463135
+      }
+    },
+    {
+      "sentence": "The government continuously monitors the progress of the scheme through regular assessments and feedback mechanisms.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4816919267177582,
+      "similarities": {
+        "ContextObjective": 0.4498980641365051,
+        "BenefitsAssistance": 0.42961764335632324,
+        "Eligibility": 0.42352545261383057,
+        "ApplicationProcess": 0.4657174348831177,
+        "TimelineFrequency": 0.4339849054813385,
+        "AuthoritiesGovernance": 0.4816919267177582,
+        "DefinitionsReferences": 0.4341661036014557
+      }
+    },
+    {
+      "sentence": "The Mahila Nursery Yojana is an exemplary model of how targeted government interventions can uplift women in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.4444688558578491,
+      "similarities": {
+        "ContextObjective": 0.4444688558578491,
+        "BenefitsAssistance": 0.36165517568588257,
+        "Eligibility": 0.443088173866272,
+        "ApplicationProcess": 0.34981414675712585,
+        "TimelineFrequency": 0.3581593632698059,
+        "AuthoritiesGovernance": 0.40474775433540344,
+        "DefinitionsReferences": 0.3315669000148773
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in changing perceptions about women's roles in agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.4480705261230469,
+      "similarities": {
+        "ContextObjective": 0.4480705261230469,
+        "BenefitsAssistance": 0.3184165358543396,
+        "Eligibility": 0.36782771348953247,
+        "ApplicationProcess": 0.32278886437416077,
+        "TimelineFrequency": 0.304238885641098,
+        "AuthoritiesGovernance": 0.3419051766395569,
+        "DefinitionsReferences": 0.3144270181655884
+      }
+    },
+    {
+      "sentence": "It has also contributed to the diversification of income sources for many families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48407524824142456,
+      "similarities": {
+        "ContextObjective": 0.42185449600219727,
+        "BenefitsAssistance": 0.48407524824142456,
+        "Eligibility": 0.4545431435108185,
+        "ApplicationProcess": 0.372205913066864,
+        "TimelineFrequency": 0.37405481934547424,
+        "AuthoritiesGovernance": 0.3514711856842041,
+        "DefinitionsReferences": 0.42247721552848816
+      }
+    },
+    {
+      "sentence": "The government encourages successful beneficiaries to share their experiences to inspire others.",
+      "role": "ContextObjective",
+      "confidence": 0.5476301908493042,
+      "similarities": {
+        "ContextObjective": 0.5476301908493042,
+        "BenefitsAssistance": 0.48403429985046387,
+        "Eligibility": 0.5195936560630798,
+        "ApplicationProcess": 0.4358341693878174,
+        "TimelineFrequency": 0.3887166678905487,
+        "AuthoritiesGovernance": 0.4476630389690399,
+        "DefinitionsReferences": 0.42870378494262695
+      }
+    },
+    {
+      "sentence": "Overall, the Mahila Nursery Yojana represents a significant step towards empowering women and promoting sustainable agricultural practices in India.",
+      "role": "ContextObjective",
+      "confidence": 0.42598092555999756,
+      "similarities": {
+        "ContextObjective": 0.42598092555999756,
+        "BenefitsAssistance": 0.3538707494735718,
+        "Eligibility": 0.4073534905910492,
+        "ApplicationProcess": 0.3813643455505371,
+        "TimelineFrequency": 0.35658231377601624,
+        "AuthoritiesGovernance": 0.3689896762371063,
+        "DefinitionsReferences": 0.35554057359695435
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "BenefitsAssistance": 6,
+    "DefinitionsReferences": 1,
+    "Eligibility": 9,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-24T21:08:02.021127"
+}

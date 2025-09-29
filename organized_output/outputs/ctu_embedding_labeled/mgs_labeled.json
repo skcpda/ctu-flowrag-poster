@@ -1,0 +1,715 @@
+{
+  "scheme_name": "Marriage Grant Scheme",
+  "total_sentences": 50,
+  "labeled_sentences": [
+    {
+      "sentence": "The Marriage Grant Scheme is an initiative by the Government of India aimed at providing financial assistance to economically disadvantaged families for the marriage of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.5249196290969849,
+      "similarities": {
+        "ContextObjective": 0.5249196290969849,
+        "BenefitsAssistance": 0.4434908628463745,
+        "Eligibility": 0.5121984481811523,
+        "ApplicationProcess": 0.4549514651298523,
+        "TimelineFrequency": 0.44578975439071655,
+        "AuthoritiesGovernance": 0.44435128569602966,
+        "DefinitionsReferences": 0.359505832195282
+      }
+    },
+    {
+      "sentence": "This scheme was launched on 1st January 2006 under the Ministry of Women and Child Development.",
+      "role": "ContextObjective",
+      "confidence": 0.5313252210617065,
+      "similarities": {
+        "ContextObjective": 0.5313252210617065,
+        "BenefitsAssistance": 0.4006534814834595,
+        "Eligibility": 0.45110297203063965,
+        "ApplicationProcess": 0.42736440896987915,
+        "TimelineFrequency": 0.4193167984485626,
+        "AuthoritiesGovernance": 0.42651593685150146,
+        "DefinitionsReferences": 0.3421286940574646
+      }
+    },
+    {
+      "sentence": "The primary objective of the Marriage Grant Scheme is to alleviate the financial burden on families during the marriage of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.5010859370231628,
+      "similarities": {
+        "ContextObjective": 0.5010859370231628,
+        "BenefitsAssistance": 0.42720672488212585,
+        "Eligibility": 0.4420696496963501,
+        "ApplicationProcess": 0.38550007343292236,
+        "TimelineFrequency": 0.37879735231399536,
+        "AuthoritiesGovernance": 0.3688998520374298,
+        "DefinitionsReferences": 0.30006346106529236
+      }
+    },
+    {
+      "sentence": "The scheme aims to promote the welfare of women by ensuring that they are not forced into early marriages due to financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.4875897765159607,
+      "similarities": {
+        "ContextObjective": 0.4875897765159607,
+        "BenefitsAssistance": 0.41860654950141907,
+        "Eligibility": 0.4824622869491577,
+        "ApplicationProcess": 0.4113265573978424,
+        "TimelineFrequency": 0.4131253957748413,
+        "AuthoritiesGovernance": 0.35975348949432373,
+        "DefinitionsReferences": 0.30280113220214844
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme specifically targets families belonging to the Below Poverty Line category.",
+      "role": "Eligibility",
+      "confidence": 0.51595139503479,
+      "similarities": {
+        "ContextObjective": 0.44564446806907654,
+        "BenefitsAssistance": 0.37779757380485535,
+        "Eligibility": 0.51595139503479,
+        "ApplicationProcess": 0.3793756365776062,
+        "TimelineFrequency": 0.3690786361694336,
+        "AuthoritiesGovernance": 0.3572797179222107,
+        "DefinitionsReferences": 0.28329721093177795
+      }
+    },
+    {
+      "sentence": "Eligible families can receive a one-time financial assistance of ₹50,000 for the marriage of their daughter.",
+      "role": "Eligibility",
+      "confidence": 0.4836212396621704,
+      "similarities": {
+        "ContextObjective": 0.40010643005371094,
+        "BenefitsAssistance": 0.4536178708076477,
+        "Eligibility": 0.4836212396621704,
+        "ApplicationProcess": 0.4241372346878052,
+        "TimelineFrequency": 0.39845046401023865,
+        "AuthoritiesGovernance": 0.3354776203632355,
+        "DefinitionsReferences": 0.3169625997543335
+      }
+    },
+    {
+      "sentence": "The scheme is designed to assist families who are unable to afford the expenses associated with marriage ceremonies.",
+      "role": "Eligibility",
+      "confidence": 0.5070575475692749,
+      "similarities": {
+        "ContextObjective": 0.506339967250824,
+        "BenefitsAssistance": 0.4935126304626465,
+        "Eligibility": 0.5070575475692749,
+        "ApplicationProcess": 0.4440680742263794,
+        "TimelineFrequency": 0.4382057189941406,
+        "AuthoritiesGovernance": 0.38478419184684753,
+        "DefinitionsReferences": 0.34090763330459595
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is intended to cover various expenses related to the marriage.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6340492367744446,
+      "similarities": {
+        "ContextObjective": 0.5366270542144775,
+        "BenefitsAssistance": 0.6340492367744446,
+        "Eligibility": 0.5404179096221924,
+        "ApplicationProcess": 0.5054421424865723,
+        "TimelineFrequency": 0.4975847601890564,
+        "AuthoritiesGovernance": 0.45169690251350403,
+        "DefinitionsReferences": 0.4564788341522217
+      }
+    },
+    {
+      "sentence": "This includes costs for clothing, jewelry, and other essential items required for the wedding.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5825475454330444,
+      "similarities": {
+        "ContextObjective": 0.40442198514938354,
+        "BenefitsAssistance": 0.5825475454330444,
+        "Eligibility": 0.4566156566143036,
+        "ApplicationProcess": 0.4876629710197449,
+        "TimelineFrequency": 0.49581921100616455,
+        "AuthoritiesGovernance": 0.4034584164619446,
+        "DefinitionsReferences": 0.4807700216770172
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Marriage Grant Scheme include specific income limits.",
+      "role": "Eligibility",
+      "confidence": 0.6388124227523804,
+      "similarities": {
+        "ContextObjective": 0.47508662939071655,
+        "BenefitsAssistance": 0.49746161699295044,
+        "Eligibility": 0.6388124227523804,
+        "ApplicationProcess": 0.4839102625846863,
+        "TimelineFrequency": 0.4842851161956787,
+        "AuthoritiesGovernance": 0.3583417236804962,
+        "DefinitionsReferences": 0.38316982984542847
+      }
+    },
+    {
+      "sentence": "Families with an annual income of less than ₹1 lakh are eligible to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5905911326408386,
+      "similarities": {
+        "ContextObjective": 0.49317145347595215,
+        "BenefitsAssistance": 0.5123381614685059,
+        "Eligibility": 0.5905911326408386,
+        "ApplicationProcess": 0.5198205709457397,
+        "TimelineFrequency": 0.4801463186740875,
+        "AuthoritiesGovernance": 0.3721780776977539,
+        "DefinitionsReferences": 0.34534066915512085
+      }
+    },
+    {
+      "sentence": "The applicant must be a resident of India and belong to the Below Poverty Line category.",
+      "role": "Eligibility",
+      "confidence": 0.64200758934021,
+      "similarities": {
+        "ContextObjective": 0.48071783781051636,
+        "BenefitsAssistance": 0.4604582190513611,
+        "Eligibility": 0.64200758934021,
+        "ApplicationProcess": 0.5566439628601074,
+        "TimelineFrequency": 0.47570765018463135,
+        "AuthoritiesGovernance": 0.42296329140663147,
+        "DefinitionsReferences": 0.37339159846305847
+      }
+    },
+    {
+      "sentence": "The daughter for whom the grant is being sought must be at least 18 years of age at the time of marriage.",
+      "role": "Eligibility",
+      "confidence": 0.5181355476379395,
+      "similarities": {
+        "ContextObjective": 0.4028499722480774,
+        "BenefitsAssistance": 0.39956390857696533,
+        "Eligibility": 0.5181355476379395,
+        "ApplicationProcess": 0.47150319814682007,
+        "TimelineFrequency": 0.4417918920516968,
+        "AuthoritiesGovernance": 0.37155163288116455,
+        "DefinitionsReferences": 0.3582386374473572
+      }
+    },
+    {
+      "sentence": "The application process for the Marriage Grant Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6795914769172668,
+      "similarities": {
+        "ContextObjective": 0.5644626617431641,
+        "BenefitsAssistance": 0.4932898283004761,
+        "Eligibility": 0.5935548543930054,
+        "ApplicationProcess": 0.6795914769172668,
+        "TimelineFrequency": 0.5888403058052063,
+        "AuthoritiesGovernance": 0.48754459619522095,
+        "DefinitionsReferences": 0.4683588147163391
+      }
+    },
+    {
+      "sentence": "Interested applicants must first obtain the application form from the local government office or the official website of the Ministry of Women and Child Development.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6480420827865601,
+      "similarities": {
+        "ContextObjective": 0.45755916833877563,
+        "BenefitsAssistance": 0.4098392724990845,
+        "Eligibility": 0.5375564098358154,
+        "ApplicationProcess": 0.6480420827865601,
+        "TimelineFrequency": 0.5079228281974792,
+        "AuthoritiesGovernance": 0.4586796462535858,
+        "DefinitionsReferences": 0.4183351397514343
+      }
+    },
+    {
+      "sentence": "The application form requires the applicant to provide personal details such as name, address, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6827336549758911,
+      "similarities": {
+        "ContextObjective": 0.4966909885406494,
+        "BenefitsAssistance": 0.5766425132751465,
+        "Eligibility": 0.6224188208580017,
+        "ApplicationProcess": 0.6827336549758911,
+        "TimelineFrequency": 0.5544891357421875,
+        "AuthoritiesGovernance": 0.4505397081375122,
+        "DefinitionsReferences": 0.5044085383415222
+      }
+    },
+    {
+      "sentence": "Applicants must also submit proof of income which can include a ration card or an income certificate issued by a competent authority.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6016753911972046,
+      "similarities": {
+        "ContextObjective": 0.4699442982673645,
+        "BenefitsAssistance": 0.5040749311447144,
+        "Eligibility": 0.5552629828453064,
+        "ApplicationProcess": 0.6016753911972046,
+        "TimelineFrequency": 0.46750354766845703,
+        "AuthoritiesGovernance": 0.39609748125076294,
+        "DefinitionsReferences": 0.4451802968978882
+      }
+    },
+    {
+      "sentence": "Additionally, a copy of the daughter's birth certificate or any document proving her age must be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5630828738212585,
+      "similarities": {
+        "ContextObjective": 0.36075037717819214,
+        "BenefitsAssistance": 0.42836955189704895,
+        "Eligibility": 0.4595656096935272,
+        "ApplicationProcess": 0.5630828738212585,
+        "TimelineFrequency": 0.44524717330932617,
+        "AuthoritiesGovernance": 0.3794324994087219,
+        "DefinitionsReferences": 0.4221206605434418
+      }
+    },
+    {
+      "sentence": "Once the application form and required documents are completed, they must be submitted to the local government office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.672318696975708,
+      "similarities": {
+        "ContextObjective": 0.44416964054107666,
+        "BenefitsAssistance": 0.43745994567871094,
+        "Eligibility": 0.520035982131958,
+        "ApplicationProcess": 0.672318696975708,
+        "TimelineFrequency": 0.5204287767410278,
+        "AuthoritiesGovernance": 0.48255813121795654,
+        "DefinitionsReferences": 0.4483549892902374
+      }
+    },
+    {
+      "sentence": "The application will then be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6749379634857178,
+      "similarities": {
+        "ContextObjective": 0.5218541622161865,
+        "BenefitsAssistance": 0.47402623295783997,
+        "Eligibility": 0.6071313619613647,
+        "ApplicationProcess": 0.6749379634857178,
+        "TimelineFrequency": 0.5793724656105042,
+        "AuthoritiesGovernance": 0.52391117811203,
+        "DefinitionsReferences": 0.5022296905517578
+      }
+    },
+    {
+      "sentence": "The processing of applications typically takes about 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6355538368225098,
+      "similarities": {
+        "ContextObjective": 0.4528213143348694,
+        "BenefitsAssistance": 0.4565226435661316,
+        "Eligibility": 0.5374433994293213,
+        "ApplicationProcess": 0.6159406900405884,
+        "TimelineFrequency": 0.6355538368225098,
+        "AuthoritiesGovernance": 0.46646738052368164,
+        "DefinitionsReferences": 0.4419950246810913
+      }
+    },
+    {
+      "sentence": "Once approved, the financial assistance is disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5472614765167236,
+      "similarities": {
+        "ContextObjective": 0.3827194273471832,
+        "BenefitsAssistance": 0.5472614765167236,
+        "Eligibility": 0.5156068801879883,
+        "ApplicationProcess": 0.5221097469329834,
+        "TimelineFrequency": 0.44103142619132996,
+        "AuthoritiesGovernance": 0.41537728905677795,
+        "DefinitionsReferences": 0.34768950939178467
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme is implemented by the Ministry of Women and Child Development in collaboration with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4946509897708893,
+      "similarities": {
+        "ContextObjective": 0.42096972465515137,
+        "BenefitsAssistance": 0.390041708946228,
+        "Eligibility": 0.4382654130458832,
+        "ApplicationProcess": 0.4097670316696167,
+        "TimelineFrequency": 0.3872772455215454,
+        "AuthoritiesGovernance": 0.4946509897708893,
+        "DefinitionsReferences": 0.3563916087150574
+      }
+    },
+    {
+      "sentence": "Each state has its own designated department to handle the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.629179060459137,
+      "similarities": {
+        "ContextObjective": 0.4903802275657654,
+        "BenefitsAssistance": 0.4691633880138397,
+        "Eligibility": 0.5270047187805176,
+        "ApplicationProcess": 0.4656868278980255,
+        "TimelineFrequency": 0.4313104450702667,
+        "AuthoritiesGovernance": 0.629179060459137,
+        "DefinitionsReferences": 0.4487661123275757
+      }
+    },
+    {
+      "sentence": "For further information or assistance, applicants can contact the Ministry of Women and Child Development at their official helpline number.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5217044949531555,
+      "similarities": {
+        "ContextObjective": 0.4173949956893921,
+        "BenefitsAssistance": 0.4792032837867737,
+        "Eligibility": 0.5039175152778625,
+        "ApplicationProcess": 0.5217044949531555,
+        "TimelineFrequency": 0.45267704129219055,
+        "AuthoritiesGovernance": 0.5087423920631409,
+        "DefinitionsReferences": 0.40866708755493164
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme is part of a broader initiative to empower women and promote gender equality in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4627855122089386,
+      "similarities": {
+        "ContextObjective": 0.4627855122089386,
+        "BenefitsAssistance": 0.36001846194267273,
+        "Eligibility": 0.42276453971862793,
+        "ApplicationProcess": 0.37724411487579346,
+        "TimelineFrequency": 0.3602725863456726,
+        "AuthoritiesGovernance": 0.40053337812423706,
+        "DefinitionsReferences": 0.3249734342098236
+      }
+    },
+    {
+      "sentence": "Since its inception, the scheme has benefited numerous families across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5580433011054993,
+      "similarities": {
+        "ContextObjective": 0.5580433011054993,
+        "BenefitsAssistance": 0.48220664262771606,
+        "Eligibility": 0.5163017511367798,
+        "ApplicationProcess": 0.4165624976158142,
+        "TimelineFrequency": 0.40769481658935547,
+        "AuthoritiesGovernance": 0.4301678538322449,
+        "DefinitionsReferences": 0.3948298692703247
+      }
+    },
+    {
+      "sentence": "The government has allocated substantial funds to ensure the successful implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5206512212753296,
+      "similarities": {
+        "ContextObjective": 0.5206512212753296,
+        "BenefitsAssistance": 0.4823681712150574,
+        "Eligibility": 0.4983890652656555,
+        "ApplicationProcess": 0.4614337086677551,
+        "TimelineFrequency": 0.38601893186569214,
+        "AuthoritiesGovernance": 0.4872601330280304,
+        "DefinitionsReferences": 0.3930327892303467
+      }
+    },
+    {
+      "sentence": "In the financial year 2021-2022, the government allocated ₹500 crores for various women welfare schemes including the Marriage Grant Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4957166612148285,
+      "similarities": {
+        "ContextObjective": 0.4957166612148285,
+        "BenefitsAssistance": 0.49463534355163574,
+        "Eligibility": 0.4889214336872101,
+        "ApplicationProcess": 0.4058153033256531,
+        "TimelineFrequency": 0.4569699168205261,
+        "AuthoritiesGovernance": 0.45258134603500366,
+        "DefinitionsReferences": 0.3699372112751007
+      }
+    },
+    {
+      "sentence": "The scheme also aims to reduce the incidence of child marriages by providing financial support for legal marriages.",
+      "role": "ContextObjective",
+      "confidence": 0.4415101110935211,
+      "similarities": {
+        "ContextObjective": 0.4415101110935211,
+        "BenefitsAssistance": 0.4253571331501007,
+        "Eligibility": 0.42595532536506653,
+        "ApplicationProcess": 0.39576950669288635,
+        "TimelineFrequency": 0.35420897603034973,
+        "AuthoritiesGovernance": 0.3545507788658142,
+        "DefinitionsReferences": 0.325571745634079
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme are conducted periodically to assess its impact and effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5220015645027161,
+      "similarities": {
+        "ContextObjective": 0.5220015645027161,
+        "BenefitsAssistance": 0.4744752049446106,
+        "Eligibility": 0.5050570368766785,
+        "ApplicationProcess": 0.48166465759277344,
+        "TimelineFrequency": 0.5190051794052124,
+        "AuthoritiesGovernance": 0.49682921171188354,
+        "DefinitionsReferences": 0.4181181490421295
+      }
+    },
+    {
+      "sentence": "The government encourages families to register marriages legally to avail of the benefits under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49110037088394165,
+      "similarities": {
+        "ContextObjective": 0.45779991149902344,
+        "BenefitsAssistance": 0.43568962812423706,
+        "Eligibility": 0.49110037088394165,
+        "ApplicationProcess": 0.49035578966140747,
+        "TimelineFrequency": 0.4209132492542267,
+        "AuthoritiesGovernance": 0.40389734506607056,
+        "DefinitionsReferences": 0.41550514101982117
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme is part of the National Policy for the Empowerment of Women which was adopted in 2001.",
+      "role": "ContextObjective",
+      "confidence": 0.43519899249076843,
+      "similarities": {
+        "ContextObjective": 0.43519899249076843,
+        "BenefitsAssistance": 0.3667992949485779,
+        "Eligibility": 0.43023061752319336,
+        "ApplicationProcess": 0.3847317695617676,
+        "TimelineFrequency": 0.38114094734191895,
+        "AuthoritiesGovernance": 0.40975460410118103,
+        "DefinitionsReferences": 0.3458162844181061
+      }
+    },
+    {
+      "sentence": "This policy aims to eliminate discrimination against women and promote their rights.",
+      "role": "ContextObjective",
+      "confidence": 0.4413871765136719,
+      "similarities": {
+        "ContextObjective": 0.4413871765136719,
+        "BenefitsAssistance": 0.3644039034843445,
+        "Eligibility": 0.4375283122062683,
+        "ApplicationProcess": 0.3936639428138733,
+        "TimelineFrequency": 0.35638999938964844,
+        "AuthoritiesGovernance": 0.4380558729171753,
+        "DefinitionsReferences": 0.4010074734687805
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.5409930348396301,
+      "similarities": {
+        "ContextObjective": 0.5409930348396301,
+        "BenefitsAssistance": 0.3982684016227722,
+        "Eligibility": 0.46503472328186035,
+        "ApplicationProcess": 0.42403659224510193,
+        "TimelineFrequency": 0.3874167501926422,
+        "AuthoritiesGovernance": 0.4222366213798523,
+        "DefinitionsReferences": 0.3785483241081238
+      }
+    },
+    {
+      "sentence": "These goals include achieving gender equality and empowering all women and girls.",
+      "role": "ContextObjective",
+      "confidence": 0.4991372525691986,
+      "similarities": {
+        "ContextObjective": 0.4991372525691986,
+        "BenefitsAssistance": 0.3860902190208435,
+        "Eligibility": 0.43077337741851807,
+        "ApplicationProcess": 0.3590436279773712,
+        "TimelineFrequency": 0.38869428634643555,
+        "AuthoritiesGovernance": 0.4396169185638428,
+        "DefinitionsReferences": 0.3782522976398468
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme is a significant step towards ensuring that financial constraints do not hinder the marriage of daughters.",
+      "role": "Eligibility",
+      "confidence": 0.4639960825443268,
+      "similarities": {
+        "ContextObjective": 0.44607776403427124,
+        "BenefitsAssistance": 0.42268824577331543,
+        "Eligibility": 0.4639960825443268,
+        "ApplicationProcess": 0.43329742550849915,
+        "TimelineFrequency": 0.39698097109794617,
+        "AuthoritiesGovernance": 0.34776613116264343,
+        "DefinitionsReferences": 0.33043527603149414
+      }
+    },
+    {
+      "sentence": "The scheme has seen a steady increase in the number of beneficiaries since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.5530309677124023,
+      "similarities": {
+        "ContextObjective": 0.5530309677124023,
+        "BenefitsAssistance": 0.4701054096221924,
+        "Eligibility": 0.4770249128341675,
+        "ApplicationProcess": 0.41993433237075806,
+        "TimelineFrequency": 0.41788917779922485,
+        "AuthoritiesGovernance": 0.38669371604919434,
+        "DefinitionsReferences": 0.38435983657836914
+      }
+    },
+    {
+      "sentence": "In 2020, it was reported that over 1 lakh families benefited from the Marriage Grant Scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4062614440917969,
+      "similarities": {
+        "ContextObjective": 0.3951897621154785,
+        "BenefitsAssistance": 0.3845449686050415,
+        "Eligibility": 0.4062614440917969,
+        "ApplicationProcess": 0.3451470136642456,
+        "TimelineFrequency": 0.32251113653182983,
+        "AuthoritiesGovernance": 0.328767865896225,
+        "DefinitionsReferences": 0.29654061794281006
+      }
+    },
+    {
+      "sentence": "The government regularly updates the guidelines and eligibility criteria to ensure that the scheme remains relevant.",
+      "role": "Eligibility",
+      "confidence": 0.5801578760147095,
+      "similarities": {
+        "ContextObjective": 0.539216935634613,
+        "BenefitsAssistance": 0.4458599090576172,
+        "Eligibility": 0.5801578760147095,
+        "ApplicationProcess": 0.5162892937660217,
+        "TimelineFrequency": 0.5069648027420044,
+        "AuthoritiesGovernance": 0.4633852243423462,
+        "DefinitionsReferences": 0.47566697001457214
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to inform eligible families about the benefits of the Marriage Grant Scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5320297479629517,
+      "similarities": {
+        "ContextObjective": 0.4907342791557312,
+        "BenefitsAssistance": 0.45858171582221985,
+        "Eligibility": 0.5320297479629517,
+        "ApplicationProcess": 0.4683941602706909,
+        "TimelineFrequency": 0.4243422746658325,
+        "AuthoritiesGovernance": 0.4211105704307556,
+        "DefinitionsReferences": 0.3654094636440277
+      }
+    },
+    {
+      "sentence": "These campaigns are often carried out in rural areas where the need for such assistance is greater.",
+      "role": "Eligibility",
+      "confidence": 0.47600650787353516,
+      "similarities": {
+        "ContextObjective": 0.46192842721939087,
+        "BenefitsAssistance": 0.4274634122848511,
+        "Eligibility": 0.47600650787353516,
+        "ApplicationProcess": 0.39809006452560425,
+        "TimelineFrequency": 0.40860188007354736,
+        "AuthoritiesGovernance": 0.4316157102584839,
+        "DefinitionsReferences": 0.4086165428161621
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme is an example of the government's commitment to social welfare and women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.47320374846458435,
+      "similarities": {
+        "ContextObjective": 0.47320374846458435,
+        "BenefitsAssistance": 0.40278756618499756,
+        "Eligibility": 0.4587074816226959,
+        "ApplicationProcess": 0.38412153720855713,
+        "TimelineFrequency": 0.3683674931526184,
+        "AuthoritiesGovernance": 0.3971956968307495,
+        "DefinitionsReferences": 0.36663132905960083
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for its role in supporting families during a critical life event.",
+      "role": "ContextObjective",
+      "confidence": 0.5215446352958679,
+      "similarities": {
+        "ContextObjective": 0.5215446352958679,
+        "BenefitsAssistance": 0.4775717854499817,
+        "Eligibility": 0.4683856964111328,
+        "ApplicationProcess": 0.4096137285232544,
+        "TimelineFrequency": 0.4081607460975647,
+        "AuthoritiesGovernance": 0.3589378595352173,
+        "DefinitionsReferences": 0.3798760175704956
+      }
+    },
+    {
+      "sentence": "It is essential for eligible families to apply well in advance of the marriage date to ensure timely processing of their applications.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5680663585662842,
+      "similarities": {
+        "ContextObjective": 0.4561300575733185,
+        "BenefitsAssistance": 0.4139598309993744,
+        "Eligibility": 0.5467582941055298,
+        "ApplicationProcess": 0.5595961213111877,
+        "TimelineFrequency": 0.5680663585662842,
+        "AuthoritiesGovernance": 0.3869849145412445,
+        "DefinitionsReferences": 0.37477540969848633
+      }
+    },
+    {
+      "sentence": "The financial assistance provided can significantly ease the financial burden associated with wedding expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5426537990570068,
+      "similarities": {
+        "ContextObjective": 0.38945725560188293,
+        "BenefitsAssistance": 0.5426537990570068,
+        "Eligibility": 0.41661185026168823,
+        "ApplicationProcess": 0.37308281660079956,
+        "TimelineFrequency": 0.37905335426330566,
+        "AuthoritiesGovernance": 0.32797303795814514,
+        "DefinitionsReferences": 0.34719204902648926
+      }
+    },
+    {
+      "sentence": "The Marriage Grant Scheme reflects the government's recognition of the importance of supporting families in their time of need.",
+      "role": "Eligibility",
+      "confidence": 0.4717988967895508,
+      "similarities": {
+        "ContextObjective": 0.47147136926651,
+        "BenefitsAssistance": 0.4567677974700928,
+        "Eligibility": 0.4717988967895508,
+        "ApplicationProcess": 0.42150193452835083,
+        "TimelineFrequency": 0.41841793060302734,
+        "AuthoritiesGovernance": 0.3584498167037964,
+        "DefinitionsReferences": 0.36943233013153076
+      }
+    },
+    {
+      "sentence": "In conclusion, the Marriage Grant Scheme is a vital welfare initiative that aims to provide financial support to economically disadvantaged families for the marriage of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.5263398885726929,
+      "similarities": {
+        "ContextObjective": 0.5263398885726929,
+        "BenefitsAssistance": 0.42843735218048096,
+        "Eligibility": 0.47988954186439514,
+        "ApplicationProcess": 0.41448935866355896,
+        "TimelineFrequency": 0.4009246230125427,
+        "AuthoritiesGovernance": 0.3859586715698242,
+        "DefinitionsReferences": 0.3467971682548523
+      }
+    },
+    {
+      "sentence": "With specific eligibility criteria and a straightforward application process, the scheme aims to empower women and promote legal marriages.",
+      "role": "Eligibility",
+      "confidence": 0.531935453414917,
+      "similarities": {
+        "ContextObjective": 0.5235106945037842,
+        "BenefitsAssistance": 0.3739802837371826,
+        "Eligibility": 0.531935453414917,
+        "ApplicationProcess": 0.5223592519760132,
+        "TimelineFrequency": 0.46437785029411316,
+        "AuthoritiesGovernance": 0.38406306505203247,
+        "DefinitionsReferences": 0.3729674220085144
+      }
+    },
+    {
+      "sentence": "The financial assistance of ₹50,000 can make a substantial difference in the lives of many families across India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.507696270942688,
+      "similarities": {
+        "ContextObjective": 0.44111692905426025,
+        "BenefitsAssistance": 0.507696270942688,
+        "Eligibility": 0.48005735874176025,
+        "ApplicationProcess": 0.3962540626525879,
+        "TimelineFrequency": 0.36735886335372925,
+        "AuthoritiesGovernance": 0.3694498538970947,
+        "DefinitionsReferences": 0.36709335446357727
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 18,
+    "Eligibility": 15,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:39:35.559399"
+}

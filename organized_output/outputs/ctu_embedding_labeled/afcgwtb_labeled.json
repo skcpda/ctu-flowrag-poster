@@ -1,0 +1,841 @@
+{
+  "scheme_name": "Assistance for Cattleshed, Gaman, Water Tank and Bucket",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Assistance for Cattleshed, Gaman, Water Tank and Bucket scheme is a welfare initiative launched by the Government of India to support farmers and livestock owners in enhancing their agricultural productivity and improving their living conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.53742516040802,
+      "similarities": {
+        "ContextObjective": 0.53742516040802,
+        "BenefitsAssistance": 0.49328941106796265,
+        "Eligibility": 0.5331661701202393,
+        "ApplicationProcess": 0.4578004777431488,
+        "TimelineFrequency": 0.4373679757118225,
+        "AuthoritiesGovernance": 0.5107124447822571,
+        "DefinitionsReferences": 0.43530669808387756
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in the year 2020 as part of the broader efforts to strengthen rural livelihoods and promote sustainable agricultural practices.",
+      "role": "ContextObjective",
+      "confidence": 0.5180591344833374,
+      "similarities": {
+        "ContextObjective": 0.5180591344833374,
+        "BenefitsAssistance": 0.38565459847450256,
+        "Eligibility": 0.41455724835395813,
+        "ApplicationProcess": 0.41312599182128906,
+        "TimelineFrequency": 0.39062970876693726,
+        "AuthoritiesGovernance": 0.39849990606307983,
+        "DefinitionsReferences": 0.34355637431144714
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance for the construction of cattle sheds and water tanks, as well as the provision of buckets for water storage.",
+      "role": "ContextObjective",
+      "confidence": 0.542679488658905,
+      "similarities": {
+        "ContextObjective": 0.542679488658905,
+        "BenefitsAssistance": 0.45251351594924927,
+        "Eligibility": 0.4669451415538788,
+        "ApplicationProcess": 0.4148697853088379,
+        "TimelineFrequency": 0.39531612396240234,
+        "AuthoritiesGovernance": 0.3924304246902466,
+        "DefinitionsReferences": 0.35746434330940247
+      }
+    },
+    {
+      "sentence": "The scheme aims to improve the living conditions of livestock by ensuring that they have proper shelter and access to clean water.",
+      "role": "ContextObjective",
+      "confidence": 0.5050511956214905,
+      "similarities": {
+        "ContextObjective": 0.5050511956214905,
+        "BenefitsAssistance": 0.4089837074279785,
+        "Eligibility": 0.4447077512741089,
+        "ApplicationProcess": 0.43608272075653076,
+        "TimelineFrequency": 0.36113637685775757,
+        "AuthoritiesGovernance": 0.383650541305542,
+        "DefinitionsReferences": 0.3755204677581787
+      }
+    },
+    {
+      "sentence": "The government has set a target of constructing over 1 million cattle sheds across various states by the end of the financial year 2024.",
+      "role": "ContextObjective",
+      "confidence": 0.4426027536392212,
+      "similarities": {
+        "ContextObjective": 0.4426027536392212,
+        "BenefitsAssistance": 0.342804491519928,
+        "Eligibility": 0.4164942800998688,
+        "ApplicationProcess": 0.36832529306411743,
+        "TimelineFrequency": 0.37315475940704346,
+        "AuthoritiesGovernance": 0.37734371423721313,
+        "DefinitionsReferences": 0.3496274948120117
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is substantial.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6012060046195984,
+      "similarities": {
+        "ContextObjective": 0.5123109221458435,
+        "BenefitsAssistance": 0.6012060046195984,
+        "Eligibility": 0.516728401184082,
+        "ApplicationProcess": 0.44761961698532104,
+        "TimelineFrequency": 0.4289382994174957,
+        "AuthoritiesGovernance": 0.410407692193985,
+        "DefinitionsReferences": 0.4243030846118927
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries can receive up to ₹50,000 for the construction of a cattleshed.",
+      "role": "Eligibility",
+      "confidence": 0.5123682022094727,
+      "similarities": {
+        "ContextObjective": 0.4226396083831787,
+        "BenefitsAssistance": 0.4405052065849304,
+        "Eligibility": 0.5123682022094727,
+        "ApplicationProcess": 0.3967575430870056,
+        "TimelineFrequency": 0.3763003647327423,
+        "AuthoritiesGovernance": 0.3381388783454895,
+        "DefinitionsReferences": 0.3501039445400238
+      }
+    },
+    {
+      "sentence": "In addition, the scheme provides ₹10,000 for the construction of a water tank.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43441879749298096,
+      "similarities": {
+        "ContextObjective": 0.4167340099811554,
+        "BenefitsAssistance": 0.43441879749298096,
+        "Eligibility": 0.4157692790031433,
+        "ApplicationProcess": 0.37596219778060913,
+        "TimelineFrequency": 0.3379960060119629,
+        "AuthoritiesGovernance": 0.31245172023773193,
+        "DefinitionsReferences": 0.3151732087135315
+      }
+    },
+    {
+      "sentence": "Farmers can also receive ₹1,000 for the purchase of buckets for water storage.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4242021441459656,
+      "similarities": {
+        "ContextObjective": 0.36117133498191833,
+        "BenefitsAssistance": 0.4242021441459656,
+        "Eligibility": 0.39593255519866943,
+        "ApplicationProcess": 0.32665538787841797,
+        "TimelineFrequency": 0.2925262451171875,
+        "AuthoritiesGovernance": 0.2964004874229431,
+        "DefinitionsReferences": 0.3106690049171448
+      }
+    },
+    {
+      "sentence": "The total potential financial assistance for a single beneficiary can reach up to ₹61,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5616774559020996,
+      "similarities": {
+        "ContextObjective": 0.42852839827537537,
+        "BenefitsAssistance": 0.5616774559020996,
+        "Eligibility": 0.5032283067703247,
+        "ApplicationProcess": 0.396036297082901,
+        "TimelineFrequency": 0.36816728115081787,
+        "AuthoritiesGovernance": 0.3439086079597473,
+        "DefinitionsReferences": 0.3782654404640198
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for this scheme are clearly defined to ensure that the assistance reaches the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.6546554565429688,
+      "similarities": {
+        "ContextObjective": 0.5760055780410767,
+        "BenefitsAssistance": 0.5016950368881226,
+        "Eligibility": 0.6546554565429688,
+        "ApplicationProcess": 0.5030418038368225,
+        "TimelineFrequency": 0.47066348791122437,
+        "AuthoritiesGovernance": 0.4415595233440399,
+        "DefinitionsReferences": 0.38838714361190796
+      }
+    },
+    {
+      "sentence": "Farmers must be registered with the local agricultural department to qualify for the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5663702487945557,
+      "similarities": {
+        "ContextObjective": 0.41924697160720825,
+        "BenefitsAssistance": 0.44779837131500244,
+        "Eligibility": 0.5663702487945557,
+        "ApplicationProcess": 0.5358104109764099,
+        "TimelineFrequency": 0.4631933569908142,
+        "AuthoritiesGovernance": 0.4484848082065582,
+        "DefinitionsReferences": 0.41407889127731323
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a minimum of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6041050553321838,
+      "similarities": {
+        "ContextObjective": 0.4702110290527344,
+        "BenefitsAssistance": 0.43510204553604126,
+        "Eligibility": 0.6041050553321838,
+        "ApplicationProcess": 0.545436680316925,
+        "TimelineFrequency": 0.5303551554679871,
+        "AuthoritiesGovernance": 0.3985854983329773,
+        "DefinitionsReferences": 0.3928983509540558
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5493156313896179,
+      "similarities": {
+        "ContextObjective": 0.4149925708770752,
+        "BenefitsAssistance": 0.3989633321762085,
+        "Eligibility": 0.5493156313896179,
+        "ApplicationProcess": 0.4681941270828247,
+        "TimelineFrequency": 0.4597724378108978,
+        "AuthoritiesGovernance": 0.36694443225860596,
+        "DefinitionsReferences": 0.34142953157424927
+      }
+    },
+    {
+      "sentence": "Income criteria are also established, where the annual income of the applicant should not exceed ₹2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5591697096824646,
+      "similarities": {
+        "ContextObjective": 0.4407753050327301,
+        "BenefitsAssistance": 0.45272403955459595,
+        "Eligibility": 0.5591697096824646,
+        "ApplicationProcess": 0.49755531549453735,
+        "TimelineFrequency": 0.4320526123046875,
+        "AuthoritiesGovernance": 0.33804893493652344,
+        "DefinitionsReferences": 0.3874025046825409
+      }
+    },
+    {
+      "sentence": "This income limit is aimed at targeting small and marginal farmers who are in need of financial support.",
+      "role": "Eligibility",
+      "confidence": 0.5385754108428955,
+      "similarities": {
+        "ContextObjective": 0.42925211787223816,
+        "BenefitsAssistance": 0.47030964493751526,
+        "Eligibility": 0.5385754108428955,
+        "ApplicationProcess": 0.3876831531524658,
+        "TimelineFrequency": 0.4023093581199646,
+        "AuthoritiesGovernance": 0.36643895506858826,
+        "DefinitionsReferences": 0.34595316648483276
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not a prerequisite for applying to this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5137248039245605,
+      "similarities": {
+        "ContextObjective": 0.47507578134536743,
+        "BenefitsAssistance": 0.387757807970047,
+        "Eligibility": 0.5137248039245605,
+        "ApplicationProcess": 0.48376238346099854,
+        "TimelineFrequency": 0.417743444442749,
+        "AuthoritiesGovernance": 0.3402114510536194,
+        "DefinitionsReferences": 0.3136853575706482
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and designed to be user-friendly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5861369371414185,
+      "similarities": {
+        "ContextObjective": 0.47722941637039185,
+        "BenefitsAssistance": 0.43518149852752686,
+        "Eligibility": 0.5051354169845581,
+        "ApplicationProcess": 0.5861369371414185,
+        "TimelineFrequency": 0.5246565341949463,
+        "AuthoritiesGovernance": 0.41901734471321106,
+        "DefinitionsReferences": 0.40433377027511597
+      }
+    },
+    {
+      "sentence": "Interested beneficiaries must visit their local agricultural office to obtain the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6339246034622192,
+      "similarities": {
+        "ContextObjective": 0.4573037028312683,
+        "BenefitsAssistance": 0.4449242353439331,
+        "Eligibility": 0.5769679546356201,
+        "ApplicationProcess": 0.6339246034622192,
+        "TimelineFrequency": 0.49407365918159485,
+        "AuthoritiesGovernance": 0.4391707181930542,
+        "DefinitionsReferences": 0.41987213492393494
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6648920774459839,
+      "similarities": {
+        "ContextObjective": 0.46763408184051514,
+        "BenefitsAssistance": 0.4768839478492737,
+        "Eligibility": 0.5455926656723022,
+        "ApplicationProcess": 0.6648920774459839,
+        "TimelineFrequency": 0.5281338691711426,
+        "AuthoritiesGovernance": 0.47353678941726685,
+        "DefinitionsReferences": 0.4915420114994049
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit a copy of their Aadhaar card for identity verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6381558775901794,
+      "similarities": {
+        "ContextObjective": 0.431889146566391,
+        "BenefitsAssistance": 0.4720020592212677,
+        "Eligibility": 0.5089486837387085,
+        "ApplicationProcess": 0.6381558775901794,
+        "TimelineFrequency": 0.48296403884887695,
+        "AuthoritiesGovernance": 0.40470996499061584,
+        "DefinitionsReferences": 0.4347732961177826
+      }
+    },
+    {
+      "sentence": "Proof of land ownership is also necessary to establish eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.6291680335998535,
+      "similarities": {
+        "ContextObjective": 0.5041672587394714,
+        "BenefitsAssistance": 0.4935075044631958,
+        "Eligibility": 0.6291680335998535,
+        "ApplicationProcess": 0.6163066029548645,
+        "TimelineFrequency": 0.5121704339981079,
+        "AuthoritiesGovernance": 0.42521846294403076,
+        "DefinitionsReferences": 0.4869399964809418
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must provide a bank account statement to facilitate the disbursement of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5960240364074707,
+      "similarities": {
+        "ContextObjective": 0.45736855268478394,
+        "BenefitsAssistance": 0.5960240364074707,
+        "Eligibility": 0.5705006122589111,
+        "ApplicationProcess": 0.5871497392654419,
+        "TimelineFrequency": 0.5235217213630676,
+        "AuthoritiesGovernance": 0.4126183092594147,
+        "DefinitionsReferences": 0.44330132007598877
+      }
+    },
+    {
+      "sentence": "Once the application is filled out and all necessary documents are gathered, it must be submitted to the local agricultural office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.650638997554779,
+      "similarities": {
+        "ContextObjective": 0.41226598620414734,
+        "BenefitsAssistance": 0.41624513268470764,
+        "Eligibility": 0.5061015486717224,
+        "ApplicationProcess": 0.650638997554779,
+        "TimelineFrequency": 0.49885502457618713,
+        "AuthoritiesGovernance": 0.43868744373321533,
+        "DefinitionsReferences": 0.41891464591026306
+      }
+    },
+    {
+      "sentence": "The application will then be reviewed by the designated officials.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6485567092895508,
+      "similarities": {
+        "ContextObjective": 0.4706140160560608,
+        "BenefitsAssistance": 0.4229295253753662,
+        "Eligibility": 0.6001434326171875,
+        "ApplicationProcess": 0.6485567092895508,
+        "TimelineFrequency": 0.5585315227508545,
+        "AuthoritiesGovernance": 0.5220972299575806,
+        "DefinitionsReferences": 0.4760952293872833
+      }
+    },
+    {
+      "sentence": "The approval process typically takes about 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5995796918869019,
+      "similarities": {
+        "ContextObjective": 0.442779541015625,
+        "BenefitsAssistance": 0.4466032385826111,
+        "Eligibility": 0.5178008675575256,
+        "ApplicationProcess": 0.5905695557594299,
+        "TimelineFrequency": 0.5995796918869019,
+        "AuthoritiesGovernance": 0.46605461835861206,
+        "DefinitionsReferences": 0.4405079782009125
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is made directly to the beneficiary's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5795883536338806,
+      "similarities": {
+        "ContextObjective": 0.43099308013916016,
+        "BenefitsAssistance": 0.5795883536338806,
+        "Eligibility": 0.5064867734909058,
+        "ApplicationProcess": 0.4580579400062561,
+        "TimelineFrequency": 0.41336601972579956,
+        "AuthoritiesGovernance": 0.4316673278808594,
+        "DefinitionsReferences": 0.3795121908187866
+      }
+    },
+    {
+      "sentence": "The funds are released in installments based on the completion of specific milestones.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5368877649307251,
+      "similarities": {
+        "ContextObjective": 0.47960203886032104,
+        "BenefitsAssistance": 0.5368877649307251,
+        "Eligibility": 0.493632972240448,
+        "ApplicationProcess": 0.45726555585861206,
+        "TimelineFrequency": 0.5078895092010498,
+        "AuthoritiesGovernance": 0.42630964517593384,
+        "DefinitionsReferences": 0.425497829914093
+      }
+    },
+    {
+      "sentence": "The first installment is released upon approval of the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6099333763122559,
+      "similarities": {
+        "ContextObjective": 0.5221191644668579,
+        "BenefitsAssistance": 0.4995749294757843,
+        "Eligibility": 0.539470911026001,
+        "ApplicationProcess": 0.6099333763122559,
+        "TimelineFrequency": 0.5691869258880615,
+        "AuthoritiesGovernance": 0.44853588938713074,
+        "DefinitionsReferences": 0.45797520875930786
+      }
+    },
+    {
+      "sentence": "Subsequent installments are released after verification of the construction progress.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5475314855575562,
+      "similarities": {
+        "ContextObjective": 0.48325198888778687,
+        "BenefitsAssistance": 0.4736376404762268,
+        "Eligibility": 0.42075082659721375,
+        "ApplicationProcess": 0.5475314855575562,
+        "TimelineFrequency": 0.4980123043060303,
+        "AuthoritiesGovernance": 0.45029470324516296,
+        "DefinitionsReferences": 0.4529780447483063
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Animal Husbandry and Dairying under the Ministry of Fisheries Animal Husbandry and Dairying.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48004674911499023,
+      "similarities": {
+        "ContextObjective": 0.4756689965724945,
+        "BenefitsAssistance": 0.385065495967865,
+        "Eligibility": 0.42416077852249146,
+        "ApplicationProcess": 0.41902482509613037,
+        "TimelineFrequency": 0.3734012544155121,
+        "AuthoritiesGovernance": 0.48004674911499023,
+        "DefinitionsReferences": 0.3491913378238678
+      }
+    },
+    {
+      "sentence": "This department is responsible for overseeing the implementation of various livestock-related welfare schemes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6046470403671265,
+      "similarities": {
+        "ContextObjective": 0.4765653908252716,
+        "BenefitsAssistance": 0.4515078365802765,
+        "Eligibility": 0.49234917759895325,
+        "ApplicationProcess": 0.4617761969566345,
+        "TimelineFrequency": 0.41390687227249146,
+        "AuthoritiesGovernance": 0.6046470403671265,
+        "DefinitionsReferences": 0.4388321340084076
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Animal Husbandry and Dairying can be found on the official government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5012304782867432,
+      "similarities": {
+        "ContextObjective": 0.42142292857170105,
+        "BenefitsAssistance": 0.45052194595336914,
+        "Eligibility": 0.42398762702941895,
+        "ApplicationProcess": 0.48002707958221436,
+        "TimelineFrequency": 0.4147528111934662,
+        "AuthoritiesGovernance": 0.5012304782867432,
+        "DefinitionsReferences": 0.4734093248844147
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of sustainable practices in livestock management.",
+      "role": "ContextObjective",
+      "confidence": 0.48390868306159973,
+      "similarities": {
+        "ContextObjective": 0.48390868306159973,
+        "BenefitsAssistance": 0.37452608346939087,
+        "Eligibility": 0.40467002987861633,
+        "ApplicationProcess": 0.404263436794281,
+        "TimelineFrequency": 0.37385374307632446,
+        "AuthoritiesGovernance": 0.3667982816696167,
+        "DefinitionsReferences": 0.38665810227394104
+      }
+    },
+    {
+      "sentence": "By providing proper shelter and access to water, the scheme aims to improve the health and productivity of livestock.",
+      "role": "ContextObjective",
+      "confidence": 0.4548684060573578,
+      "similarities": {
+        "ContextObjective": 0.4548684060573578,
+        "BenefitsAssistance": 0.4127468764781952,
+        "Eligibility": 0.3960890769958496,
+        "ApplicationProcess": 0.3900640606880188,
+        "TimelineFrequency": 0.3377472460269928,
+        "AuthoritiesGovernance": 0.35499846935272217,
+        "DefinitionsReferences": 0.3484507203102112
+      }
+    },
+    {
+      "sentence": "This, in turn, contributes to increased milk production and better income for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.37903642654418945,
+      "similarities": {
+        "ContextObjective": 0.3587758541107178,
+        "BenefitsAssistance": 0.37903642654418945,
+        "Eligibility": 0.30883893370628357,
+        "ApplicationProcess": 0.28749150037765503,
+        "TimelineFrequency": 0.2708812654018402,
+        "AuthoritiesGovernance": 0.2642322778701782,
+        "DefinitionsReferences": 0.3311610817909241
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit not only individual farmers but also the rural economy as a whole.",
+      "role": "ContextObjective",
+      "confidence": 0.49682703614234924,
+      "similarities": {
+        "ContextObjective": 0.49682703614234924,
+        "BenefitsAssistance": 0.4449707865715027,
+        "Eligibility": 0.4688454270362854,
+        "ApplicationProcess": 0.37349027395248413,
+        "TimelineFrequency": 0.36736106872558594,
+        "AuthoritiesGovernance": 0.408936083316803,
+        "DefinitionsReferences": 0.347913920879364
+      }
+    },
+    {
+      "sentence": "Statistically, it is estimated that the implementation of this scheme could lead to a 20% increase in milk production in the targeted regions.",
+      "role": "ContextObjective",
+      "confidence": 0.4091706871986389,
+      "similarities": {
+        "ContextObjective": 0.4091706871986389,
+        "BenefitsAssistance": 0.35457468032836914,
+        "Eligibility": 0.39967846870422363,
+        "ApplicationProcess": 0.3348311185836792,
+        "TimelineFrequency": 0.33957505226135254,
+        "AuthoritiesGovernance": 0.35556933283805847,
+        "DefinitionsReferences": 0.3196512460708618
+      }
+    },
+    {
+      "sentence": "Furthermore, the scheme aligns with the government's broader goals of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4834249019622803,
+      "similarities": {
+        "ContextObjective": 0.4834249019622803,
+        "BenefitsAssistance": 0.3949836492538452,
+        "Eligibility": 0.4075906276702881,
+        "ApplicationProcess": 0.3599643111228943,
+        "TimelineFrequency": 0.3599259555339813,
+        "AuthoritiesGovernance": 0.34774377942085266,
+        "DefinitionsReferences": 0.340619295835495
+      }
+    },
+    {
+      "sentence": "The initiative is part of the larger National Livestock Mission which was launched in 2014.",
+      "role": "ContextObjective",
+      "confidence": 0.4728317856788635,
+      "similarities": {
+        "ContextObjective": 0.4728317856788635,
+        "BenefitsAssistance": 0.33354127407073975,
+        "Eligibility": 0.39070776104927063,
+        "ApplicationProcess": 0.36711299419403076,
+        "TimelineFrequency": 0.33204394578933716,
+        "AuthoritiesGovernance": 0.3783063590526581,
+        "DefinitionsReferences": 0.3132473826408386
+      }
+    },
+    {
+      "sentence": "The National Livestock Mission aims to promote sustainable development of livestock sector through various interventions.",
+      "role": "ContextObjective",
+      "confidence": 0.48615121841430664,
+      "similarities": {
+        "ContextObjective": 0.48615121841430664,
+        "BenefitsAssistance": 0.3641148805618286,
+        "Eligibility": 0.4365397095680237,
+        "ApplicationProcess": 0.405618280172348,
+        "TimelineFrequency": 0.36824604868888855,
+        "AuthoritiesGovernance": 0.43379709124565125,
+        "DefinitionsReferences": 0.3646898865699768
+      }
+    },
+    {
+      "sentence": "The Assistance for Cattleshed, Gaman, Water Tank and Bucket scheme is one of the key components of this mission.",
+      "role": "ContextObjective",
+      "confidence": 0.5149888396263123,
+      "similarities": {
+        "ContextObjective": 0.5149888396263123,
+        "BenefitsAssistance": 0.4513455033302307,
+        "Eligibility": 0.472912460565567,
+        "ApplicationProcess": 0.4270409941673279,
+        "TimelineFrequency": 0.39296263456344604,
+        "AuthoritiesGovernance": 0.4558470547199249,
+        "DefinitionsReferences": 0.4241219758987427
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crore for the implementation of this scheme over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.48391637206077576,
+      "similarities": {
+        "ContextObjective": 0.48391637206077576,
+        "BenefitsAssistance": 0.46455392241477966,
+        "Eligibility": 0.44462525844573975,
+        "ApplicationProcess": 0.42066293954849243,
+        "TimelineFrequency": 0.4239923357963562,
+        "AuthoritiesGovernance": 0.46507006883621216,
+        "DefinitionsReferences": 0.35959142446517944
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that adequate resources are available for the successful rollout of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5458154678344727,
+      "similarities": {
+        "ContextObjective": 0.5458154678344727,
+        "BenefitsAssistance": 0.5058979988098145,
+        "Eligibility": 0.5257375836372375,
+        "ApplicationProcess": 0.4788351058959961,
+        "TimelineFrequency": 0.4634058475494385,
+        "AuthoritiesGovernance": 0.474693238735199,
+        "DefinitionsReferences": 0.3819813132286072
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries in various states.",
+      "role": "Eligibility",
+      "confidence": 0.5380315780639648,
+      "similarities": {
+        "ContextObjective": 0.5292865633964539,
+        "BenefitsAssistance": 0.4898151755332947,
+        "Eligibility": 0.5380315780639648,
+        "ApplicationProcess": 0.4234296679496765,
+        "TimelineFrequency": 0.40615710616111755,
+        "AuthoritiesGovernance": 0.44785845279693604,
+        "DefinitionsReferences": 0.41614681482315063
+      }
+    },
+    {
+      "sentence": "Farmers have reported improvements in livestock health and productivity after availing the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.438199520111084,
+      "similarities": {
+        "ContextObjective": 0.438199520111084,
+        "BenefitsAssistance": 0.4347851872444153,
+        "Eligibility": 0.3935202956199646,
+        "ApplicationProcess": 0.3705010414123535,
+        "TimelineFrequency": 0.33339783549308777,
+        "AuthoritiesGovernance": 0.36719799041748047,
+        "DefinitionsReferences": 0.37111592292785645
+      }
+    },
+    {
+      "sentence": "Moreover, the scheme has also contributed to better water management practices among farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.43067508935928345,
+      "similarities": {
+        "ContextObjective": 0.43067508935928345,
+        "BenefitsAssistance": 0.3775000274181366,
+        "Eligibility": 0.37865525484085083,
+        "ApplicationProcess": 0.3642387390136719,
+        "TimelineFrequency": 0.31687161326408386,
+        "AuthoritiesGovernance": 0.36112987995147705,
+        "DefinitionsReferences": 0.3443644046783447
+      }
+    },
+    {
+      "sentence": "By encouraging the construction of water tanks, the scheme helps in conserving water resources.",
+      "role": "ContextObjective",
+      "confidence": 0.4548845589160919,
+      "similarities": {
+        "ContextObjective": 0.4548845589160919,
+        "BenefitsAssistance": 0.3291710615158081,
+        "Eligibility": 0.3740381598472595,
+        "ApplicationProcess": 0.3619080185890198,
+        "TimelineFrequency": 0.3461514711380005,
+        "AuthoritiesGovernance": 0.3294779360294342,
+        "DefinitionsReferences": 0.3266228437423706
+      }
+    },
+    {
+      "sentence": "This is particularly important in regions facing water scarcity.",
+      "role": "Eligibility",
+      "confidence": 0.4976460933685303,
+      "similarities": {
+        "ContextObjective": 0.4514620900154114,
+        "BenefitsAssistance": 0.42490845918655396,
+        "Eligibility": 0.4976460933685303,
+        "ApplicationProcess": 0.4140363335609436,
+        "TimelineFrequency": 0.45545127987861633,
+        "AuthoritiesGovernance": 0.40086376667022705,
+        "DefinitionsReferences": 0.38532131910324097
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote gender equality by encouraging women farmers to participate in livestock management.",
+      "role": "ContextObjective",
+      "confidence": 0.46702444553375244,
+      "similarities": {
+        "ContextObjective": 0.46702444553375244,
+        "BenefitsAssistance": 0.31572556495666504,
+        "Eligibility": 0.4031549394130707,
+        "ApplicationProcess": 0.37233906984329224,
+        "TimelineFrequency": 0.34790366888046265,
+        "AuthoritiesGovernance": 0.3551216125488281,
+        "DefinitionsReferences": 0.29084670543670654
+      }
+    },
+    {
+      "sentence": "Women play a crucial role in the dairy sector and their involvement is vital for the success of this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.41167783737182617,
+      "similarities": {
+        "ContextObjective": 0.41167783737182617,
+        "BenefitsAssistance": 0.3373488485813141,
+        "Eligibility": 0.39272424578666687,
+        "ApplicationProcess": 0.34724217653274536,
+        "TimelineFrequency": 0.33794403076171875,
+        "AuthoritiesGovernance": 0.3837670683860779,
+        "DefinitionsReferences": 0.33027297258377075
+      }
+    },
+    {
+      "sentence": "The government has also organized awareness programs to educate farmers about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49633434414863586,
+      "similarities": {
+        "ContextObjective": 0.49633434414863586,
+        "BenefitsAssistance": 0.4321528673171997,
+        "Eligibility": 0.440729022026062,
+        "ApplicationProcess": 0.43041878938674927,
+        "TimelineFrequency": 0.3657248020172119,
+        "AuthoritiesGovernance": 0.43171176314353943,
+        "DefinitionsReferences": 0.38160666823387146
+      }
+    },
+    {
+      "sentence": "These programs are conducted in collaboration with local NGOs and agricultural extension services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4912979304790497,
+      "similarities": {
+        "ContextObjective": 0.43467944860458374,
+        "BenefitsAssistance": 0.41172999143600464,
+        "Eligibility": 0.4379814863204956,
+        "ApplicationProcess": 0.4039228558540344,
+        "TimelineFrequency": 0.39827990531921387,
+        "AuthoritiesGovernance": 0.4912979304790497,
+        "DefinitionsReferences": 0.4213271141052246
+      }
+    },
+    {
+      "sentence": "The Assistance for Cattleshed, Gaman, Water Tank and Bucket scheme represents a significant step towards improving the livelihoods of rural farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.4181869924068451,
+      "similarities": {
+        "ContextObjective": 0.4181869924068451,
+        "BenefitsAssistance": 0.4067450761795044,
+        "Eligibility": 0.4039643406867981,
+        "ApplicationProcess": 0.36481577157974243,
+        "TimelineFrequency": 0.3166626989841461,
+        "AuthoritiesGovernance": 0.40429240465164185,
+        "DefinitionsReferences": 0.36572742462158203
+      }
+    },
+    {
+      "sentence": "It provides them with the necessary resources to enhance their agricultural practices and ensure the welfare of their livestock.",
+      "role": "Eligibility",
+      "confidence": 0.44522300362586975,
+      "similarities": {
+        "ContextObjective": 0.4019421637058258,
+        "BenefitsAssistance": 0.40893447399139404,
+        "Eligibility": 0.44522300362586975,
+        "ApplicationProcess": 0.41094711422920227,
+        "TimelineFrequency": 0.36973121762275696,
+        "AuthoritiesGovernance": 0.4166548252105713,
+        "DefinitionsReferences": 0.41848015785217285
+      }
+    },
+    {
+      "sentence": "The scheme is an example of the government's commitment to supporting the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5184829235076904,
+      "similarities": {
+        "ContextObjective": 0.5184829235076904,
+        "BenefitsAssistance": 0.4273982644081116,
+        "Eligibility": 0.4713398516178131,
+        "ApplicationProcess": 0.42118459939956665,
+        "TimelineFrequency": 0.39084380865097046,
+        "AuthoritiesGovernance": 0.3999050259590149,
+        "DefinitionsReferences": 0.40160489082336426
+      }
+    },
+    {
+      "sentence": "It reflects the broader vision of promoting sustainable rural development in India.",
+      "role": "ContextObjective",
+      "confidence": 0.47273850440979004,
+      "similarities": {
+        "ContextObjective": 0.47273850440979004,
+        "BenefitsAssistance": 0.3268698453903198,
+        "Eligibility": 0.35347872972488403,
+        "ApplicationProcess": 0.3376593589782715,
+        "TimelineFrequency": 0.3173382878303528,
+        "AuthoritiesGovernance": 0.3581494092941284,
+        "DefinitionsReferences": 0.3433848023414612
+      }
+    },
+    {
+      "sentence": "Overall, the Assistance for Cattleshed, Gaman, Water Tank and Bucket scheme is a comprehensive initiative that addresses multiple aspects of livestock management.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4894193112850189,
+      "similarities": {
+        "ContextObjective": 0.478937566280365,
+        "BenefitsAssistance": 0.4894193112850189,
+        "Eligibility": 0.48187655210494995,
+        "ApplicationProcess": 0.4348605275154114,
+        "TimelineFrequency": 0.4374772906303406,
+        "AuthoritiesGovernance": 0.4707013964653015,
+        "DefinitionsReferences": 0.4392033815383911
+      }
+    },
+    {
+      "sentence": "It provides essential financial support while promoting sustainable practices and improving the overall quality of life for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48447149991989136,
+      "similarities": {
+        "ContextObjective": 0.44789618253707886,
+        "BenefitsAssistance": 0.48447149991989136,
+        "Eligibility": 0.4115273654460907,
+        "ApplicationProcess": 0.40325015783309937,
+        "TimelineFrequency": 0.3570246696472168,
+        "AuthoritiesGovernance": 0.3821708559989929,
+        "DefinitionsReferences": 0.3978966474533081
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "BenefitsAssistance": 10,
+    "Eligibility": 12,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-24T21:06:56.078724"
+}

@@ -1,0 +1,799 @@
+{
+  "scheme_name": "Festival Gift Coupons (Sainik Welfare)",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "The Festival Gift Coupons scheme is a welfare initiative launched by the Government of India to support the welfare of ex-servicemen and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.5396197438240051,
+      "similarities": {
+        "ContextObjective": 0.5396197438240051,
+        "BenefitsAssistance": 0.4267696142196655,
+        "Eligibility": 0.4890589714050293,
+        "ApplicationProcess": 0.4017398953437805,
+        "TimelineFrequency": 0.4429978132247925,
+        "AuthoritiesGovernance": 0.4512074589729309,
+        "DefinitionsReferences": 0.35654956102371216
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in the year 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.6039860248565674,
+      "similarities": {
+        "ContextObjective": 0.6039860248565674,
+        "BenefitsAssistance": 0.4459996223449707,
+        "Eligibility": 0.46776285767555237,
+        "ApplicationProcess": 0.4771476984024048,
+        "TimelineFrequency": 0.4600368142127991,
+        "AuthoritiesGovernance": 0.43115854263305664,
+        "DefinitionsReferences": 0.357065349817276
+      }
+    },
+    {
+      "sentence": "The primary objective of the Festival Gift Coupons scheme is to provide financial assistance to ex-servicemen and their dependents during the festive season.",
+      "role": "ContextObjective",
+      "confidence": 0.5280049443244934,
+      "similarities": {
+        "ContextObjective": 0.5280049443244934,
+        "BenefitsAssistance": 0.4140862226486206,
+        "Eligibility": 0.44645729660987854,
+        "ApplicationProcess": 0.3676969110965729,
+        "TimelineFrequency": 0.41608697175979614,
+        "AuthoritiesGovernance": 0.3661026358604431,
+        "DefinitionsReferences": 0.31360942125320435
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance the quality of life for these individuals by providing them with monetary support to celebrate festivals.",
+      "role": "ContextObjective",
+      "confidence": 0.5255066752433777,
+      "similarities": {
+        "ContextObjective": 0.5255066752433777,
+        "BenefitsAssistance": 0.4687355160713196,
+        "Eligibility": 0.47064393758773804,
+        "ApplicationProcess": 0.38960525393486023,
+        "TimelineFrequency": 0.399791955947876,
+        "AuthoritiesGovernance": 0.38119131326675415,
+        "DefinitionsReferences": 0.3483453094959259
+      }
+    },
+    {
+      "sentence": "The specific goal of the scheme is to distribute gift coupons worth INR 10,000 to eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5354813933372498,
+      "similarities": {
+        "ContextObjective": 0.5092312693595886,
+        "BenefitsAssistance": 0.4289003014564514,
+        "Eligibility": 0.5354813933372498,
+        "ApplicationProcess": 0.40320509672164917,
+        "TimelineFrequency": 0.3999864459037781,
+        "AuthoritiesGovernance": 0.3880901336669922,
+        "DefinitionsReferences": 0.3464087247848511
+      }
+    },
+    {
+      "sentence": "The distribution of these coupons is intended to take place annually during major festivals such as Diwali and Eid.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4585723876953125,
+      "similarities": {
+        "ContextObjective": 0.44823169708251953,
+        "BenefitsAssistance": 0.38716718554496765,
+        "Eligibility": 0.3993741273880005,
+        "ApplicationProcess": 0.3770981431007385,
+        "TimelineFrequency": 0.4585723876953125,
+        "AuthoritiesGovernance": 0.39196211099624634,
+        "DefinitionsReferences": 0.3757842779159546
+      }
+    },
+    {
+      "sentence": "The financial assistance is designed to alleviate the economic burden on ex-servicemen and their families during these festive times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4840756058692932,
+      "similarities": {
+        "ContextObjective": 0.4218614101409912,
+        "BenefitsAssistance": 0.4840756058692932,
+        "Eligibility": 0.42869436740875244,
+        "ApplicationProcess": 0.35272079706192017,
+        "TimelineFrequency": 0.3876190483570099,
+        "AuthoritiesGovernance": 0.35650941729545593,
+        "DefinitionsReferences": 0.30784547328948975
+      }
+    },
+    {
+      "sentence": "The benefits of the Festival Gift Coupons scheme include the provision of INR 10,000 in the form of gift coupons.",
+      "role": "Eligibility",
+      "confidence": 0.4271852970123291,
+      "similarities": {
+        "ContextObjective": 0.4094630479812622,
+        "BenefitsAssistance": 0.41822385787963867,
+        "Eligibility": 0.4271852970123291,
+        "ApplicationProcess": 0.3533003330230713,
+        "TimelineFrequency": 0.37953194975852966,
+        "AuthoritiesGovernance": 0.3414996564388275,
+        "DefinitionsReferences": 0.3481847047805786
+      }
+    },
+    {
+      "sentence": "These coupons can be redeemed at designated retail outlets for purchasing goods and services.",
+      "role": "Eligibility",
+      "confidence": 0.48496013879776,
+      "similarities": {
+        "ContextObjective": 0.4374738931655884,
+        "BenefitsAssistance": 0.44069668650627136,
+        "Eligibility": 0.48496013879776,
+        "ApplicationProcess": 0.4643915295600891,
+        "TimelineFrequency": 0.462480366230011,
+        "AuthoritiesGovernance": 0.4069480299949646,
+        "DefinitionsReferences": 0.4627559185028076
+      }
+    },
+    {
+      "sentence": "The scheme is particularly beneficial for those ex-servicemen who may be facing financial difficulties.",
+      "role": "ContextObjective",
+      "confidence": 0.5052186250686646,
+      "similarities": {
+        "ContextObjective": 0.5052186250686646,
+        "BenefitsAssistance": 0.4936524033546448,
+        "Eligibility": 0.48901042342185974,
+        "ApplicationProcess": 0.41514766216278076,
+        "TimelineFrequency": 0.40010884404182434,
+        "AuthoritiesGovernance": 0.3620585799217224,
+        "DefinitionsReferences": 0.3395715355873108
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Festival Gift Coupons scheme include being a registered ex-serviceman.",
+      "role": "Eligibility",
+      "confidence": 0.5204216241836548,
+      "similarities": {
+        "ContextObjective": 0.4581884741783142,
+        "BenefitsAssistance": 0.363827109336853,
+        "Eligibility": 0.5204216241836548,
+        "ApplicationProcess": 0.42126625776290894,
+        "TimelineFrequency": 0.4303899109363556,
+        "AuthoritiesGovernance": 0.31305286288261414,
+        "DefinitionsReferences": 0.32329633831977844
+      }
+    },
+    {
+      "sentence": "The applicant must have served in the armed forces of India.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5715571045875549,
+      "similarities": {
+        "ContextObjective": 0.47124284505844116,
+        "BenefitsAssistance": 0.42279887199401855,
+        "Eligibility": 0.5702636241912842,
+        "ApplicationProcess": 0.5715571045875549,
+        "TimelineFrequency": 0.4918692708015442,
+        "AuthoritiesGovernance": 0.392381489276886,
+        "DefinitionsReferences": 0.38626939058303833
+      }
+    },
+    {
+      "sentence": "There is no specific age limit for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5624858140945435,
+      "similarities": {
+        "ContextObjective": 0.49051326513290405,
+        "BenefitsAssistance": 0.4340420961380005,
+        "Eligibility": 0.5624858140945435,
+        "ApplicationProcess": 0.44326695799827576,
+        "TimelineFrequency": 0.4522992968559265,
+        "AuthoritiesGovernance": 0.350243479013443,
+        "DefinitionsReferences": 0.3376554250717163
+      }
+    },
+    {
+      "sentence": "The income criteria for beneficiaries is set at a maximum annual income of INR 5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5523448586463928,
+      "similarities": {
+        "ContextObjective": 0.4393528699874878,
+        "BenefitsAssistance": 0.49621832370758057,
+        "Eligibility": 0.5523448586463928,
+        "ApplicationProcess": 0.41900205612182617,
+        "TimelineFrequency": 0.40250372886657715,
+        "AuthoritiesGovernance": 0.3170165717601776,
+        "DefinitionsReferences": 0.36248430609703064
+      }
+    },
+    {
+      "sentence": "This income limit ensures that the benefits are directed towards those who are in genuine need of financial assistance.",
+      "role": "Eligibility",
+      "confidence": 0.5405783653259277,
+      "similarities": {
+        "ContextObjective": 0.44389963150024414,
+        "BenefitsAssistance": 0.5279073119163513,
+        "Eligibility": 0.5405783653259277,
+        "ApplicationProcess": 0.41347038745880127,
+        "TimelineFrequency": 0.39992591738700867,
+        "AuthoritiesGovernance": 0.35563939809799194,
+        "DefinitionsReferences": 0.3328084349632263
+      }
+    },
+    {
+      "sentence": "The application process for the Festival Gift Coupons scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4973679184913635,
+      "similarities": {
+        "ContextObjective": 0.48402854800224304,
+        "BenefitsAssistance": 0.37066924571990967,
+        "Eligibility": 0.4693589210510254,
+        "ApplicationProcess": 0.4973679184913635,
+        "TimelineFrequency": 0.4882928729057312,
+        "AuthoritiesGovernance": 0.38541537523269653,
+        "DefinitionsReferences": 0.3426971435546875
+      }
+    },
+    {
+      "sentence": "Eligible ex-servicemen must fill out an application form available at designated Sainik Welfare offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5841471552848816,
+      "similarities": {
+        "ContextObjective": 0.437494695186615,
+        "BenefitsAssistance": 0.41286396980285645,
+        "Eligibility": 0.5371818542480469,
+        "ApplicationProcess": 0.5841471552848816,
+        "TimelineFrequency": 0.4343418478965759,
+        "AuthoritiesGovernance": 0.4038670063018799,
+        "DefinitionsReferences": 0.38080647587776184
+      }
+    },
+    {
+      "sentence": "The application form requires basic personal information and details regarding military service.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6623859405517578,
+      "similarities": {
+        "ContextObjective": 0.4948839247226715,
+        "BenefitsAssistance": 0.5382792949676514,
+        "Eligibility": 0.5881344079971313,
+        "ApplicationProcess": 0.6623859405517578,
+        "TimelineFrequency": 0.5645405054092407,
+        "AuthoritiesGovernance": 0.43317312002182007,
+        "DefinitionsReferences": 0.4701855480670929
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of identity and service, such as a discharge certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6033449172973633,
+      "similarities": {
+        "ContextObjective": 0.4414750933647156,
+        "BenefitsAssistance": 0.5091357231140137,
+        "Eligibility": 0.5157095193862915,
+        "ApplicationProcess": 0.6033449172973633,
+        "TimelineFrequency": 0.48733264207839966,
+        "AuthoritiesGovernance": 0.40572473406791687,
+        "DefinitionsReferences": 0.44153594970703125
+      }
+    },
+    {
+      "sentence": "Additional documents may include proof of income, such as income tax returns or salary slips.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6004089117050171,
+      "similarities": {
+        "ContextObjective": 0.45273372530937195,
+        "BenefitsAssistance": 0.6004089117050171,
+        "Eligibility": 0.49731332063674927,
+        "ApplicationProcess": 0.5652076005935669,
+        "TimelineFrequency": 0.4877362847328186,
+        "AuthoritiesGovernance": 0.4373128414154053,
+        "DefinitionsReferences": 0.5644258260726929
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the nearest Sainik Welfare office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5853429436683655,
+      "similarities": {
+        "ContextObjective": 0.41318199038505554,
+        "BenefitsAssistance": 0.38370421528816223,
+        "Eligibility": 0.5013691782951355,
+        "ApplicationProcess": 0.5853429436683655,
+        "TimelineFrequency": 0.4419231116771698,
+        "AuthoritiesGovernance": 0.4100079834461212,
+        "DefinitionsReferences": 0.34098029136657715
+      }
+    },
+    {
+      "sentence": "The application will be reviewed by the concerned authorities for verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7306681871414185,
+      "similarities": {
+        "ContextObjective": 0.5245034694671631,
+        "BenefitsAssistance": 0.4996877908706665,
+        "Eligibility": 0.624103307723999,
+        "ApplicationProcess": 0.7306681871414185,
+        "TimelineFrequency": 0.5891907811164856,
+        "AuthoritiesGovernance": 0.49272894859313965,
+        "DefinitionsReferences": 0.5135712027549744
+      }
+    },
+    {
+      "sentence": "The timeline for the application process typically begins in September each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.652597188949585,
+      "similarities": {
+        "ContextObjective": 0.5051192045211792,
+        "BenefitsAssistance": 0.41970276832580566,
+        "Eligibility": 0.5187022686004639,
+        "ApplicationProcess": 0.5747768878936768,
+        "TimelineFrequency": 0.652597188949585,
+        "AuthoritiesGovernance": 0.4424731135368347,
+        "DefinitionsReferences": 0.40595221519470215
+      }
+    },
+    {
+      "sentence": "The deadline for submitting applications is usually set for the end of September.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6764823198318481,
+      "similarities": {
+        "ContextObjective": 0.48402470350265503,
+        "BenefitsAssistance": 0.44404998421669006,
+        "Eligibility": 0.5725880265235901,
+        "ApplicationProcess": 0.598408579826355,
+        "TimelineFrequency": 0.6764823198318481,
+        "AuthoritiesGovernance": 0.4403998553752899,
+        "DefinitionsReferences": 0.4138748049736023
+      }
+    },
+    {
+      "sentence": "Disbursement of the gift coupons occurs in October, just before the major festive season.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4191097617149353,
+      "similarities": {
+        "ContextObjective": 0.4024987816810608,
+        "BenefitsAssistance": 0.35071712732315063,
+        "Eligibility": 0.3689289093017578,
+        "ApplicationProcess": 0.32836422324180603,
+        "TimelineFrequency": 0.4191097617149353,
+        "AuthoritiesGovernance": 0.3270290195941925,
+        "DefinitionsReferences": 0.29570502042770386
+      }
+    },
+    {
+      "sentence": "This timeline allows beneficiaries to receive the coupons in time for their festive purchases.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4985031485557556,
+      "similarities": {
+        "ContextObjective": 0.4552415609359741,
+        "BenefitsAssistance": 0.446106493473053,
+        "Eligibility": 0.45336514711380005,
+        "ApplicationProcess": 0.4092029333114624,
+        "TimelineFrequency": 0.4985031485557556,
+        "AuthoritiesGovernance": 0.4026159942150116,
+        "DefinitionsReferences": 0.37454408407211304
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Festival Gift Coupons scheme is the Ministry of Defence.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48764216899871826,
+      "similarities": {
+        "ContextObjective": 0.44136282801628113,
+        "BenefitsAssistance": 0.3330407738685608,
+        "Eligibility": 0.4342767000198364,
+        "ApplicationProcess": 0.3704856038093567,
+        "TimelineFrequency": 0.3680199384689331,
+        "AuthoritiesGovernance": 0.48764216899871826,
+        "DefinitionsReferences": 0.35429051518440247
+      }
+    },
+    {
+      "sentence": "Specifically, the scheme is administered by the Directorate General of Resettlement.",
+      "role": "ContextObjective",
+      "confidence": 0.5378953218460083,
+      "similarities": {
+        "ContextObjective": 0.5378953218460083,
+        "BenefitsAssistance": 0.43095701932907104,
+        "Eligibility": 0.5045058727264404,
+        "ApplicationProcess": 0.4513486623764038,
+        "TimelineFrequency": 0.38991880416870117,
+        "AuthoritiesGovernance": 0.5170328617095947,
+        "DefinitionsReferences": 0.36736100912094116
+      }
+    },
+    {
+      "sentence": "State Sainik Welfare Boards also play a crucial role in the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49647819995880127,
+      "similarities": {
+        "ContextObjective": 0.48854556679725647,
+        "BenefitsAssistance": 0.3975319564342499,
+        "Eligibility": 0.4471183121204376,
+        "ApplicationProcess": 0.4158947467803955,
+        "TimelineFrequency": 0.3567613363265991,
+        "AuthoritiesGovernance": 0.49647819995880127,
+        "DefinitionsReferences": 0.39125630259513855
+      }
+    },
+    {
+      "sentence": "These boards are responsible for the distribution of the coupons at the state level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5137180089950562,
+      "similarities": {
+        "ContextObjective": 0.42521196603775024,
+        "BenefitsAssistance": 0.40584927797317505,
+        "Eligibility": 0.4676796495914459,
+        "ApplicationProcess": 0.4084402322769165,
+        "TimelineFrequency": 0.4251455068588257,
+        "AuthoritiesGovernance": 0.5137180089950562,
+        "DefinitionsReferences": 0.42026928067207336
+      }
+    },
+    {
+      "sentence": "Contact details for the Directorate General of Resettlement can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5037224292755127,
+      "similarities": {
+        "ContextObjective": 0.4354664385318756,
+        "BenefitsAssistance": 0.4521031379699707,
+        "Eligibility": 0.4454275369644165,
+        "ApplicationProcess": 0.4706786572933197,
+        "TimelineFrequency": 0.38795560598373413,
+        "AuthoritiesGovernance": 0.5037224292755127,
+        "DefinitionsReferences": 0.4217056632041931
+      }
+    },
+    {
+      "sentence": "The website provides additional resources and information regarding the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6933193206787109,
+      "similarities": {
+        "ContextObjective": 0.554882287979126,
+        "BenefitsAssistance": 0.5927858352661133,
+        "Eligibility": 0.6145080924034119,
+        "ApplicationProcess": 0.6933193206787109,
+        "TimelineFrequency": 0.661277174949646,
+        "AuthoritiesGovernance": 0.5259526371955872,
+        "DefinitionsReferences": 0.5858351588249207
+      }
+    },
+    {
+      "sentence": "Statistics indicate that over 50,000 ex-servicemen benefited from the scheme in its inaugural year.",
+      "role": "ContextObjective",
+      "confidence": 0.4527411460876465,
+      "similarities": {
+        "ContextObjective": 0.4527411460876465,
+        "BenefitsAssistance": 0.3979145884513855,
+        "Eligibility": 0.37568357586860657,
+        "ApplicationProcess": 0.3547722399234772,
+        "TimelineFrequency": 0.33516746759414673,
+        "AuthoritiesGovernance": 0.3248082399368286,
+        "DefinitionsReferences": 0.2953110337257385
+      }
+    },
+    {
+      "sentence": "The government allocated a budget of INR 500 crore for the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4608558118343353,
+      "similarities": {
+        "ContextObjective": 0.44417035579681396,
+        "BenefitsAssistance": 0.447418749332428,
+        "Eligibility": 0.436612606048584,
+        "ApplicationProcess": 0.4092240333557129,
+        "TimelineFrequency": 0.38822585344314575,
+        "AuthoritiesGovernance": 0.4608558118343353,
+        "DefinitionsReferences": 0.3450835943222046
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that all eligible beneficiaries receive the financial assistance they need.",
+      "role": "Eligibility",
+      "confidence": 0.5922268629074097,
+      "similarities": {
+        "ContextObjective": 0.48565223813056946,
+        "BenefitsAssistance": 0.5899365544319153,
+        "Eligibility": 0.5922268629074097,
+        "ApplicationProcess": 0.45801201462745667,
+        "TimelineFrequency": 0.4629770815372467,
+        "AuthoritiesGovernance": 0.47700047492980957,
+        "DefinitionsReferences": 0.3905848264694214
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from the ex-servicemen community.",
+      "role": "ContextObjective",
+      "confidence": 0.5000422596931458,
+      "similarities": {
+        "ContextObjective": 0.5000422596931458,
+        "BenefitsAssistance": 0.39630061388015747,
+        "Eligibility": 0.4217914938926697,
+        "ApplicationProcess": 0.3924340605735779,
+        "TimelineFrequency": 0.35420629382133484,
+        "AuthoritiesGovernance": 0.3730512857437134,
+        "DefinitionsReferences": 0.3427172601222992
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have expressed gratitude for the timely support during the festive season.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.467221200466156,
+      "similarities": {
+        "ContextObjective": 0.4468749165534973,
+        "BenefitsAssistance": 0.467221200466156,
+        "Eligibility": 0.4457697868347168,
+        "ApplicationProcess": 0.3769536316394806,
+        "TimelineFrequency": 0.3974887430667877,
+        "AuthoritiesGovernance": 0.3793293237686157,
+        "DefinitionsReferences": 0.39861220121383667
+      }
+    },
+    {
+      "sentence": "The Festival Gift Coupons scheme is part of a broader initiative by the government to enhance the welfare of ex-servicemen.",
+      "role": "ContextObjective",
+      "confidence": 0.4763646721839905,
+      "similarities": {
+        "ContextObjective": 0.4763646721839905,
+        "BenefitsAssistance": 0.3980928361415863,
+        "Eligibility": 0.42048996686935425,
+        "ApplicationProcess": 0.3584991693496704,
+        "TimelineFrequency": 0.3772907257080078,
+        "AuthoritiesGovernance": 0.40858787298202515,
+        "DefinitionsReferences": 0.3288782835006714
+      }
+    },
+    {
+      "sentence": "Other welfare schemes include housing assistance and healthcare support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5725984573364258,
+      "similarities": {
+        "ContextObjective": 0.4659169614315033,
+        "BenefitsAssistance": 0.5725984573364258,
+        "Eligibility": 0.48219192028045654,
+        "ApplicationProcess": 0.4183027446269989,
+        "TimelineFrequency": 0.4087817668914795,
+        "AuthoritiesGovernance": 0.4311157464981079,
+        "DefinitionsReferences": 0.4063122570514679
+      }
+    },
+    {
+      "sentence": "The government aims to create a comprehensive support system for those who have served the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.548346996307373,
+      "similarities": {
+        "ContextObjective": 0.548346996307373,
+        "BenefitsAssistance": 0.5123926401138306,
+        "Eligibility": 0.5241527557373047,
+        "ApplicationProcess": 0.4805053174495697,
+        "TimelineFrequency": 0.4396896958351135,
+        "AuthoritiesGovernance": 0.5290230512619019,
+        "DefinitionsReferences": 0.4439517855644226
+      }
+    },
+    {
+      "sentence": "The Festival Gift Coupons scheme is a significant step towards recognizing the contributions of ex-servicemen.",
+      "role": "ContextObjective",
+      "confidence": 0.4373534321784973,
+      "similarities": {
+        "ContextObjective": 0.4373534321784973,
+        "BenefitsAssistance": 0.3526419401168823,
+        "Eligibility": 0.3866758644580841,
+        "ApplicationProcess": 0.34318870306015015,
+        "TimelineFrequency": 0.34442710876464844,
+        "AuthoritiesGovernance": 0.3385641276836395,
+        "DefinitionsReferences": 0.3155989646911621
+      }
+    },
+    {
+      "sentence": "It also aims to foster a sense of community and celebration among them during festive occasions.",
+      "role": "ContextObjective",
+      "confidence": 0.4993661642074585,
+      "similarities": {
+        "ContextObjective": 0.4993661642074585,
+        "BenefitsAssistance": 0.33041250705718994,
+        "Eligibility": 0.3668988049030304,
+        "ApplicationProcess": 0.34153905510902405,
+        "TimelineFrequency": 0.35839560627937317,
+        "AuthoritiesGovernance": 0.37885013222694397,
+        "DefinitionsReferences": 0.3611847460269928
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and accessible to all eligible ex-servicemen.",
+      "role": "Eligibility",
+      "confidence": 0.5411662459373474,
+      "similarities": {
+        "ContextObjective": 0.5408351421356201,
+        "BenefitsAssistance": 0.47930920124053955,
+        "Eligibility": 0.5411662459373474,
+        "ApplicationProcess": 0.4540984332561493,
+        "TimelineFrequency": 0.4471426010131836,
+        "AuthoritiesGovernance": 0.4012749195098877,
+        "DefinitionsReferences": 0.36367517709732056
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to ensure its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5477074384689331,
+      "similarities": {
+        "ContextObjective": 0.5477074384689331,
+        "BenefitsAssistance": 0.4760008454322815,
+        "Eligibility": 0.5459806323051453,
+        "ApplicationProcess": 0.5317422151565552,
+        "TimelineFrequency": 0.473150372505188,
+        "AuthoritiesGovernance": 0.511587381362915,
+        "DefinitionsReferences": 0.46878430247306824
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account for future improvements.",
+      "role": "Eligibility",
+      "confidence": 0.5465255975723267,
+      "similarities": {
+        "ContextObjective": 0.5075939893722534,
+        "BenefitsAssistance": 0.5436069965362549,
+        "Eligibility": 0.5465255975723267,
+        "ApplicationProcess": 0.4765492081642151,
+        "TimelineFrequency": 0.4682844579219818,
+        "AuthoritiesGovernance": 0.5153127312660217,
+        "DefinitionsReferences": 0.465570867061615
+      }
+    },
+    {
+      "sentence": "The Festival Gift Coupons scheme exemplifies the government's commitment to the welfare of its armed forces personnel.",
+      "role": "ContextObjective",
+      "confidence": 0.41591835021972656,
+      "similarities": {
+        "ContextObjective": 0.41591835021972656,
+        "BenefitsAssistance": 0.3677281141281128,
+        "Eligibility": 0.3893291652202606,
+        "ApplicationProcess": 0.3158496618270874,
+        "TimelineFrequency": 0.344462513923645,
+        "AuthoritiesGovernance": 0.338449090719223,
+        "DefinitionsReferences": 0.3188226819038391
+      }
+    },
+    {
+      "sentence": "It highlights the importance of supporting those who have dedicated their lives to serving the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.4639841914176941,
+      "similarities": {
+        "ContextObjective": 0.4639841914176941,
+        "BenefitsAssistance": 0.4403507113456726,
+        "Eligibility": 0.4432770013809204,
+        "ApplicationProcess": 0.38062262535095215,
+        "TimelineFrequency": 0.37821370363235474,
+        "AuthoritiesGovernance": 0.3600221872329712,
+        "DefinitionsReferences": 0.39748698472976685
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also promotes social inclusion.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5527827739715576,
+      "similarities": {
+        "ContextObjective": 0.549262523651123,
+        "BenefitsAssistance": 0.5527827739715576,
+        "Eligibility": 0.5339887142181396,
+        "ApplicationProcess": 0.4326241612434387,
+        "TimelineFrequency": 0.40966182947158813,
+        "AuthoritiesGovernance": 0.39436855912208557,
+        "DefinitionsReferences": 0.3745361566543579
+      }
+    },
+    {
+      "sentence": "By facilitating festive celebrations, the scheme helps strengthen family bonds among ex-servicemen.",
+      "role": "ContextObjective",
+      "confidence": 0.4531508982181549,
+      "similarities": {
+        "ContextObjective": 0.4531508982181549,
+        "BenefitsAssistance": 0.32271119952201843,
+        "Eligibility": 0.3726963698863983,
+        "ApplicationProcess": 0.3301539421081543,
+        "TimelineFrequency": 0.3564298748970032,
+        "AuthoritiesGovernance": 0.3223651647567749,
+        "DefinitionsReferences": 0.3013194501399994
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible ex-servicemen to apply for the Festival Gift Coupons.",
+      "role": "Eligibility",
+      "confidence": 0.448523610830307,
+      "similarities": {
+        "ContextObjective": 0.4408334493637085,
+        "BenefitsAssistance": 0.35552752017974854,
+        "Eligibility": 0.448523610830307,
+        "ApplicationProcess": 0.4093557298183441,
+        "TimelineFrequency": 0.41132646799087524,
+        "AuthoritiesGovernance": 0.35275205969810486,
+        "DefinitionsReferences": 0.3193513751029968
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to inform potential beneficiaries about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5869936943054199,
+      "similarities": {
+        "ContextObjective": 0.5869936943054199,
+        "BenefitsAssistance": 0.527865469455719,
+        "Eligibility": 0.5780049562454224,
+        "ApplicationProcess": 0.4944498538970947,
+        "TimelineFrequency": 0.4468555152416229,
+        "AuthoritiesGovernance": 0.46453848481178284,
+        "DefinitionsReferences": 0.4131457805633545
+      }
+    },
+    {
+      "sentence": "These campaigns utilize various media platforms to reach a wider audience.",
+      "role": "ContextObjective",
+      "confidence": 0.5127813220024109,
+      "similarities": {
+        "ContextObjective": 0.5127813220024109,
+        "BenefitsAssistance": 0.43411916494369507,
+        "Eligibility": 0.4536482095718384,
+        "ApplicationProcess": 0.4259386658668518,
+        "TimelineFrequency": 0.4338712692260742,
+        "AuthoritiesGovernance": 0.44740068912506104,
+        "DefinitionsReferences": 0.4803326725959778
+      }
+    },
+    {
+      "sentence": "The Festival Gift Coupons scheme is a testament to India's commitment to its veterans.",
+      "role": "ContextObjective",
+      "confidence": 0.37888988852500916,
+      "similarities": {
+        "ContextObjective": 0.37888988852500916,
+        "BenefitsAssistance": 0.3230590224266052,
+        "Eligibility": 0.3574199080467224,
+        "ApplicationProcess": 0.29314562678337097,
+        "TimelineFrequency": 0.3249431550502777,
+        "AuthoritiesGovernance": 0.2777281701564789,
+        "DefinitionsReferences": 0.2903602123260498
+      }
+    },
+    {
+      "sentence": "It reflects a growing recognition of the need for social security measures for ex-servicemen.",
+      "role": "ContextObjective",
+      "confidence": 0.445579469203949,
+      "similarities": {
+        "ContextObjective": 0.445579469203949,
+        "BenefitsAssistance": 0.42712724208831787,
+        "Eligibility": 0.39926302433013916,
+        "ApplicationProcess": 0.3857533931732178,
+        "TimelineFrequency": 0.35974740982055664,
+        "AuthoritiesGovernance": 0.3481958508491516,
+        "DefinitionsReferences": 0.36324313282966614
+      }
+    },
+    {
+      "sentence": "Overall, the scheme is a valuable initiative that aims to uplift the lives of those who have served in the armed forces.",
+      "role": "ContextObjective",
+      "confidence": 0.568443775177002,
+      "similarities": {
+        "ContextObjective": 0.568443775177002,
+        "BenefitsAssistance": 0.4214612543582916,
+        "Eligibility": 0.4539529085159302,
+        "ApplicationProcess": 0.41189804673194885,
+        "TimelineFrequency": 0.3923302888870239,
+        "AuthoritiesGovernance": 0.3746210038661957,
+        "DefinitionsReferences": 0.3440714478492737
+      }
+    },
+    {
+      "sentence": "It is a crucial part of the government's broader strategy to ensure the well-being of its veterans.",
+      "role": "ContextObjective",
+      "confidence": 0.4729921817779541,
+      "similarities": {
+        "ContextObjective": 0.4729921817779541,
+        "BenefitsAssistance": 0.43581539392471313,
+        "Eligibility": 0.4282292425632477,
+        "ApplicationProcess": 0.40892863273620605,
+        "TimelineFrequency": 0.3844255208969116,
+        "AuthoritiesGovernance": 0.4210020899772644,
+        "DefinitionsReferences": 0.40726372599601746
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "Eligibility": 11,
+    "TimelineFrequency": 5,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-25T20:45:17.808097"
+}

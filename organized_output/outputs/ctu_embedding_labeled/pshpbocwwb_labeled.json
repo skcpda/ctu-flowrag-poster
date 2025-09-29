@@ -1,0 +1,715 @@
+{
+  "scheme_name": "Pension Scheme (HPBOCWWB)",
+  "total_sentences": 50,
+  "labeled_sentences": [
+    {
+      "sentence": "The Himachal Pradesh Building and Other Construction Workers Welfare Board Pension Scheme (HPBOCWWB) is a significant welfare initiative launched by the Government of Himachal Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.5276153683662415,
+      "similarities": {
+        "ContextObjective": 0.5276153683662415,
+        "BenefitsAssistance": 0.4637012481689453,
+        "Eligibility": 0.5048035383224487,
+        "ApplicationProcess": 0.4604567885398865,
+        "TimelineFrequency": 0.43209707736968994,
+        "AuthoritiesGovernance": 0.47793129086494446,
+        "DefinitionsReferences": 0.402327299118042
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in 2006 to provide financial security to workers in the building and construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4818125367164612,
+      "similarities": {
+        "ContextObjective": 0.4818125367164612,
+        "BenefitsAssistance": 0.43702560663223267,
+        "Eligibility": 0.4200255870819092,
+        "ApplicationProcess": 0.4294400215148926,
+        "TimelineFrequency": 0.3764803111553192,
+        "AuthoritiesGovernance": 0.3165176510810852,
+        "DefinitionsReferences": 0.30693817138671875
+      }
+    },
+    {
+      "sentence": "The primary objective of the HPBOCWWB Pension Scheme is to ensure that construction workers receive a pension after they reach the age of 60 years.",
+      "role": "ContextObjective",
+      "confidence": 0.5150794982910156,
+      "similarities": {
+        "ContextObjective": 0.5150794982910156,
+        "BenefitsAssistance": 0.412409245967865,
+        "Eligibility": 0.4756738543510437,
+        "ApplicationProcess": 0.44732603430747986,
+        "TimelineFrequency": 0.4198535084724426,
+        "AuthoritiesGovernance": 0.4157578945159912,
+        "DefinitionsReferences": 0.34147918224334717
+      }
+    },
+    {
+      "sentence": "This initiative aims to alleviate poverty among construction workers and provide them with a stable source of income during their old age.",
+      "role": "ContextObjective",
+      "confidence": 0.43596363067626953,
+      "similarities": {
+        "ContextObjective": 0.43596363067626953,
+        "BenefitsAssistance": 0.39544475078582764,
+        "Eligibility": 0.43089714646339417,
+        "ApplicationProcess": 0.3778281509876251,
+        "TimelineFrequency": 0.33530139923095703,
+        "AuthoritiesGovernance": 0.37772804498672485,
+        "DefinitionsReferences": 0.2974601686000824
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets workers who are engaged in building and other construction activities.",
+      "role": "ContextObjective",
+      "confidence": 0.52183598279953,
+      "similarities": {
+        "ContextObjective": 0.52183598279953,
+        "BenefitsAssistance": 0.415690541267395,
+        "Eligibility": 0.49124830961227417,
+        "ApplicationProcess": 0.45199015736579895,
+        "TimelineFrequency": 0.44921860098838806,
+        "AuthoritiesGovernance": 0.41869813203811646,
+        "DefinitionsReferences": 0.37671273946762085
+      }
+    },
+    {
+      "sentence": "As of the latest updates in 2023, the pension amount provided under this scheme is ₹3,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5114442110061646,
+      "similarities": {
+        "ContextObjective": 0.4747777283191681,
+        "BenefitsAssistance": 0.5114442110061646,
+        "Eligibility": 0.4517037570476532,
+        "ApplicationProcess": 0.41012561321258545,
+        "TimelineFrequency": 0.4139557480812073,
+        "AuthoritiesGovernance": 0.380403995513916,
+        "DefinitionsReferences": 0.34506064653396606
+      }
+    },
+    {
+      "sentence": "This pension is disbursed to eligible beneficiaries once they reach the age of 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5273606777191162,
+      "similarities": {
+        "ContextObjective": 0.42719393968582153,
+        "BenefitsAssistance": 0.4708365499973297,
+        "Eligibility": 0.5273606777191162,
+        "ApplicationProcess": 0.41637569665908813,
+        "TimelineFrequency": 0.4105439782142639,
+        "AuthoritiesGovernance": 0.4015326499938965,
+        "DefinitionsReferences": 0.3159872889518738
+      }
+    },
+    {
+      "sentence": "The scheme also aims to provide financial assistance to the dependents of construction workers in case of their untimely demise.",
+      "role": "Eligibility",
+      "confidence": 0.4705079197883606,
+      "similarities": {
+        "ContextObjective": 0.4640412926673889,
+        "BenefitsAssistance": 0.4614938795566559,
+        "Eligibility": 0.4705079197883606,
+        "ApplicationProcess": 0.39632555842399597,
+        "TimelineFrequency": 0.3926689922809601,
+        "AuthoritiesGovernance": 0.3384609818458557,
+        "DefinitionsReferences": 0.326504111289978
+      }
+    },
+    {
+      "sentence": "To be eligible for the HPBOCWWB Pension Scheme, applicants must be registered construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.5565498471260071,
+      "similarities": {
+        "ContextObjective": 0.4251829981803894,
+        "BenefitsAssistance": 0.3765544891357422,
+        "Eligibility": 0.5565498471260071,
+        "ApplicationProcess": 0.5181484222412109,
+        "TimelineFrequency": 0.44332355260849,
+        "AuthoritiesGovernance": 0.3774726986885071,
+        "DefinitionsReferences": 0.3366538882255554
+      }
+    },
+    {
+      "sentence": "The minimum age for eligibility is 18 years, and the maximum age is 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5576567053794861,
+      "similarities": {
+        "ContextObjective": 0.4306073784828186,
+        "BenefitsAssistance": 0.44804102182388306,
+        "Eligibility": 0.5576567053794861,
+        "ApplicationProcess": 0.48451313376426697,
+        "TimelineFrequency": 0.49310600757598877,
+        "AuthoritiesGovernance": 0.37653490900993347,
+        "DefinitionsReferences": 0.36560237407684326
+      }
+    },
+    {
+      "sentence": "Applicants must also have contributed to the welfare fund for a minimum of five years to qualify for the pension.",
+      "role": "Eligibility",
+      "confidence": 0.5328700542449951,
+      "similarities": {
+        "ContextObjective": 0.4385235607624054,
+        "BenefitsAssistance": 0.43814271688461304,
+        "Eligibility": 0.5328700542449951,
+        "ApplicationProcess": 0.4841785430908203,
+        "TimelineFrequency": 0.45087242126464844,
+        "AuthoritiesGovernance": 0.3534200191497803,
+        "DefinitionsReferences": 0.3242979049682617
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹15,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.5765759944915771,
+      "similarities": {
+        "ContextObjective": 0.4192623496055603,
+        "BenefitsAssistance": 0.5092282891273499,
+        "Eligibility": 0.5765759944915771,
+        "ApplicationProcess": 0.47713786363601685,
+        "TimelineFrequency": 0.4599258601665497,
+        "AuthoritiesGovernance": 0.3548383116722107,
+        "DefinitionsReferences": 0.36324015259742737
+      }
+    },
+    {
+      "sentence": "Workers must provide proof of their employment in the construction sector and their contributions to the welfare board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5432933568954468,
+      "similarities": {
+        "ContextObjective": 0.439319372177124,
+        "BenefitsAssistance": 0.47975829243659973,
+        "Eligibility": 0.5171352624893188,
+        "ApplicationProcess": 0.5432933568954468,
+        "TimelineFrequency": 0.42817220091819763,
+        "AuthoritiesGovernance": 0.41630059480667114,
+        "DefinitionsReferences": 0.4194995164871216
+      }
+    },
+    {
+      "sentence": "The application process for the HPBOCWWB Pension Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6759263277053833,
+      "similarities": {
+        "ContextObjective": 0.5755478143692017,
+        "BenefitsAssistance": 0.5205011367797852,
+        "Eligibility": 0.5933278203010559,
+        "ApplicationProcess": 0.6759263277053833,
+        "TimelineFrequency": 0.5724910497665405,
+        "AuthoritiesGovernance": 0.4767383933067322,
+        "DefinitionsReferences": 0.4624517858028412
+      }
+    },
+    {
+      "sentence": "First, applicants must obtain the application form from the official website or the local office of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6627152562141418,
+      "similarities": {
+        "ContextObjective": 0.4513890743255615,
+        "BenefitsAssistance": 0.4169270098209381,
+        "Eligibility": 0.5438413619995117,
+        "ApplicationProcess": 0.6627152562141418,
+        "TimelineFrequency": 0.5019248723983765,
+        "AuthoritiesGovernance": 0.4507114589214325,
+        "DefinitionsReferences": 0.397665411233902
+      }
+    },
+    {
+      "sentence": "The application form must be filled out completely with accurate personal details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6797629594802856,
+      "similarities": {
+        "ContextObjective": 0.48001766204833984,
+        "BenefitsAssistance": 0.5252973437309265,
+        "Eligibility": 0.5749140381813049,
+        "ApplicationProcess": 0.6797629594802856,
+        "TimelineFrequency": 0.5312697887420654,
+        "AuthoritiesGovernance": 0.4333408772945404,
+        "DefinitionsReferences": 0.45496654510498047
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit documents such as proof of age, identity proof, and proof of employment in the construction sector.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6846044063568115,
+      "similarities": {
+        "ContextObjective": 0.4648290276527405,
+        "BenefitsAssistance": 0.5085917115211487,
+        "Eligibility": 0.5806139707565308,
+        "ApplicationProcess": 0.6846044063568115,
+        "TimelineFrequency": 0.5633392333984375,
+        "AuthoritiesGovernance": 0.44799405336380005,
+        "DefinitionsReferences": 0.49447542428970337
+      }
+    },
+    {
+      "sentence": "Additionally, they must provide evidence of their contributions to the welfare fund.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5442229509353638,
+      "similarities": {
+        "ContextObjective": 0.4428904056549072,
+        "BenefitsAssistance": 0.5442229509353638,
+        "Eligibility": 0.5205429792404175,
+        "ApplicationProcess": 0.4934186041355133,
+        "TimelineFrequency": 0.38607946038246155,
+        "AuthoritiesGovernance": 0.42553162574768066,
+        "DefinitionsReferences": 0.4146532416343689
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the nearest office of the HPBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.629509687423706,
+      "similarities": {
+        "ContextObjective": 0.41219720244407654,
+        "BenefitsAssistance": 0.39934855699539185,
+        "Eligibility": 0.525540292263031,
+        "ApplicationProcess": 0.629509687423706,
+        "TimelineFrequency": 0.5026283860206604,
+        "AuthoritiesGovernance": 0.43521955609321594,
+        "DefinitionsReferences": 0.39475056529045105
+      }
+    },
+    {
+      "sentence": "The processing time for applications can vary but typically takes around 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6491695642471313,
+      "similarities": {
+        "ContextObjective": 0.454349547624588,
+        "BenefitsAssistance": 0.4743325710296631,
+        "Eligibility": 0.5592634677886963,
+        "ApplicationProcess": 0.6216568946838379,
+        "TimelineFrequency": 0.6491695642471313,
+        "AuthoritiesGovernance": 0.4686194062232971,
+        "DefinitionsReferences": 0.45148950815200806
+      }
+    },
+    {
+      "sentence": "Upon approval, the pension amount will be credited directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5006614923477173,
+      "similarities": {
+        "ContextObjective": 0.39691394567489624,
+        "BenefitsAssistance": 0.5006614923477173,
+        "Eligibility": 0.49887698888778687,
+        "ApplicationProcess": 0.4681541323661804,
+        "TimelineFrequency": 0.4079171419143677,
+        "AuthoritiesGovernance": 0.3858482241630554,
+        "DefinitionsReferences": 0.3475956916809082
+      }
+    },
+    {
+      "sentence": "The pension is disbursed on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5714160203933716,
+      "similarities": {
+        "ContextObjective": 0.472301185131073,
+        "BenefitsAssistance": 0.5714160203933716,
+        "Eligibility": 0.49323874711990356,
+        "ApplicationProcess": 0.4619866609573364,
+        "TimelineFrequency": 0.4985264539718628,
+        "AuthoritiesGovernance": 0.4651574492454529,
+        "DefinitionsReferences": 0.38756775856018066
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49425578117370605,
+      "similarities": {
+        "ContextObjective": 0.49154409766197205,
+        "BenefitsAssistance": 0.426271915435791,
+        "Eligibility": 0.4576645493507385,
+        "ApplicationProcess": 0.42717018723487854,
+        "TimelineFrequency": 0.37914204597473145,
+        "AuthoritiesGovernance": 0.49425578117370605,
+        "DefinitionsReferences": 0.34679484367370605
+      }
+    },
+    {
+      "sentence": "The board operates under the Department of Labour and Employment of the Himachal Pradesh government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5011351704597473,
+      "similarities": {
+        "ContextObjective": 0.4048886299133301,
+        "BenefitsAssistance": 0.40127861499786377,
+        "Eligibility": 0.4477596879005432,
+        "ApplicationProcess": 0.4189014434814453,
+        "TimelineFrequency": 0.3866680860519409,
+        "AuthoritiesGovernance": 0.5011351704597473,
+        "DefinitionsReferences": 0.3645263910293579
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, beneficiaries can contact the board at their official office located in Shimla.",
+      "role": "Eligibility",
+      "confidence": 0.4831942915916443,
+      "similarities": {
+        "ContextObjective": 0.4281429648399353,
+        "BenefitsAssistance": 0.4513605237007141,
+        "Eligibility": 0.4831942915916443,
+        "ApplicationProcess": 0.45221179723739624,
+        "TimelineFrequency": 0.3613426685333252,
+        "AuthoritiesGovernance": 0.4656240940093994,
+        "DefinitionsReferences": 0.3816990256309509
+      }
+    },
+    {
+      "sentence": "The contact number for the HPBOCWWB is +91-177-265-2525.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4481351375579834,
+      "similarities": {
+        "ContextObjective": 0.3750305771827698,
+        "BenefitsAssistance": 0.4398937523365021,
+        "Eligibility": 0.42935535311698914,
+        "ApplicationProcess": 0.4481351375579834,
+        "TimelineFrequency": 0.39751681685447693,
+        "AuthoritiesGovernance": 0.43277642130851746,
+        "DefinitionsReferences": 0.3767535984516144
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant participation since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.6058274507522583,
+      "similarities": {
+        "ContextObjective": 0.6058274507522583,
+        "BenefitsAssistance": 0.4836575388908386,
+        "Eligibility": 0.5017507672309875,
+        "ApplicationProcess": 0.4833923280239105,
+        "TimelineFrequency": 0.463206022977829,
+        "AuthoritiesGovernance": 0.4528270661830902,
+        "DefinitionsReferences": 0.4249652922153473
+      }
+    },
+    {
+      "sentence": "As of 2023, over 50,000 construction workers have benefited from the pension scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.442781537771225,
+      "similarities": {
+        "ContextObjective": 0.442781537771225,
+        "BenefitsAssistance": 0.3970831632614136,
+        "Eligibility": 0.3836914896965027,
+        "ApplicationProcess": 0.3386848568916321,
+        "TimelineFrequency": 0.32948198914527893,
+        "AuthoritiesGovernance": 0.33628493547439575,
+        "DefinitionsReferences": 0.3124008774757385
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹100 crores for the welfare of construction workers in the financial year 2023-2024.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.486041784286499,
+      "similarities": {
+        "ContextObjective": 0.436117559671402,
+        "BenefitsAssistance": 0.486041784286499,
+        "Eligibility": 0.45585897564888,
+        "ApplicationProcess": 0.366708368062973,
+        "TimelineFrequency": 0.3980938494205475,
+        "AuthoritiesGovernance": 0.43128180503845215,
+        "DefinitionsReferences": 0.3491029739379883
+      }
+    },
+    {
+      "sentence": "The HPBOCWWB also conducts awareness programs to educate workers about their rights and benefits under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.47160476446151733,
+      "similarities": {
+        "ContextObjective": 0.47160476446151733,
+        "BenefitsAssistance": 0.4453052282333374,
+        "Eligibility": 0.4488756060600281,
+        "ApplicationProcess": 0.434350848197937,
+        "TimelineFrequency": 0.37011581659317017,
+        "AuthoritiesGovernance": 0.4323924779891968,
+        "DefinitionsReferences": 0.3859963119029999
+      }
+    },
+    {
+      "sentence": "Workers are encouraged to register with the board to avail themselves of various welfare schemes.",
+      "role": "Eligibility",
+      "confidence": 0.5091477632522583,
+      "similarities": {
+        "ContextObjective": 0.5029140710830688,
+        "BenefitsAssistance": 0.4704272150993347,
+        "Eligibility": 0.5091477632522583,
+        "ApplicationProcess": 0.48521149158477783,
+        "TimelineFrequency": 0.4634050130844116,
+        "AuthoritiesGovernance": 0.438632607460022,
+        "DefinitionsReferences": 0.43712881207466125
+      }
+    },
+    {
+      "sentence": "The pension scheme is part of a broader initiative to improve the living standards of construction workers in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4736628234386444,
+      "similarities": {
+        "ContextObjective": 0.4736628234386444,
+        "BenefitsAssistance": 0.4257725775241852,
+        "Eligibility": 0.41764286160469055,
+        "ApplicationProcess": 0.3916407823562622,
+        "TimelineFrequency": 0.36104196310043335,
+        "AuthoritiesGovernance": 0.40479063987731934,
+        "DefinitionsReferences": 0.3348925709724426
+      }
+    },
+    {
+      "sentence": "The HPBOCWWB also provides other benefits such as health insurance and financial assistance for education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5562156438827515,
+      "similarities": {
+        "ContextObjective": 0.4047384560108185,
+        "BenefitsAssistance": 0.5562156438827515,
+        "Eligibility": 0.4396880865097046,
+        "ApplicationProcess": 0.40987569093704224,
+        "TimelineFrequency": 0.38614410161972046,
+        "AuthoritiesGovernance": 0.3818548917770386,
+        "DefinitionsReferences": 0.4102226197719574
+      }
+    },
+    {
+      "sentence": "The pension amount is subject to periodic review and may be increased based on government policies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5240858793258667,
+      "similarities": {
+        "ContextObjective": 0.4490087032318115,
+        "BenefitsAssistance": 0.5240858793258667,
+        "Eligibility": 0.5082434415817261,
+        "ApplicationProcess": 0.46392622590065,
+        "TimelineFrequency": 0.5015680193901062,
+        "AuthoritiesGovernance": 0.4428349733352661,
+        "DefinitionsReferences": 0.4600987434387207
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and accessible to all eligible construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.5366613268852234,
+      "similarities": {
+        "ContextObjective": 0.5070934295654297,
+        "BenefitsAssistance": 0.4714930057525635,
+        "Eligibility": 0.5366613268852234,
+        "ApplicationProcess": 0.45488661527633667,
+        "TimelineFrequency": 0.4385613799095154,
+        "AuthoritiesGovernance": 0.40986478328704834,
+        "DefinitionsReferences": 0.3761006295681
+      }
+    },
+    {
+      "sentence": "Workers who are unable to apply online can visit the local labor office for assistance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5352621078491211,
+      "similarities": {
+        "ContextObjective": 0.35947224497795105,
+        "BenefitsAssistance": 0.46837183833122253,
+        "Eligibility": 0.49303314089775085,
+        "ApplicationProcess": 0.5352621078491211,
+        "TimelineFrequency": 0.4515632092952728,
+        "AuthoritiesGovernance": 0.4521595239639282,
+        "DefinitionsReferences": 0.3677556812763214
+      }
+    },
+    {
+      "sentence": "The board ensures that the application process is transparent and efficient.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5868459939956665,
+      "similarities": {
+        "ContextObjective": 0.5146689414978027,
+        "BenefitsAssistance": 0.43503519892692566,
+        "Eligibility": 0.5337895154953003,
+        "ApplicationProcess": 0.5868459939956665,
+        "TimelineFrequency": 0.5156402587890625,
+        "AuthoritiesGovernance": 0.4675859808921814,
+        "DefinitionsReferences": 0.42079466581344604
+      }
+    },
+    {
+      "sentence": "In addition to the pension scheme, the HPBOCWWB offers various skill development programs for construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.43430840969085693,
+      "similarities": {
+        "ContextObjective": 0.43430840969085693,
+        "BenefitsAssistance": 0.42921754717826843,
+        "Eligibility": 0.395183801651001,
+        "ApplicationProcess": 0.39100274443626404,
+        "TimelineFrequency": 0.38486725091934204,
+        "AuthoritiesGovernance": 0.36188268661499023,
+        "DefinitionsReferences": 0.38890013098716736
+      }
+    },
+    {
+      "sentence": "These programs aim to enhance the skills of workers and improve their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.5039147138595581,
+      "similarities": {
+        "ContextObjective": 0.5039147138595581,
+        "BenefitsAssistance": 0.4170183539390564,
+        "Eligibility": 0.47176146507263184,
+        "ApplicationProcess": 0.4440070390701294,
+        "TimelineFrequency": 0.4693118631839752,
+        "AuthoritiesGovernance": 0.453053742647171,
+        "DefinitionsReferences": 0.4159175753593445
+      }
+    },
+    {
+      "sentence": "The HPBOCWWB also collaborates with various NGOs to provide additional support to construction workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.43464958667755127,
+      "similarities": {
+        "ContextObjective": 0.3931612968444824,
+        "BenefitsAssistance": 0.4328905940055847,
+        "Eligibility": 0.3901442289352417,
+        "ApplicationProcess": 0.35276418924331665,
+        "TimelineFrequency": 0.3326909840106964,
+        "AuthoritiesGovernance": 0.43464958667755127,
+        "DefinitionsReferences": 0.3998441696166992
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who report improved financial security in their old age.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47837311029434204,
+      "similarities": {
+        "ContextObjective": 0.4609068036079407,
+        "BenefitsAssistance": 0.47837311029434204,
+        "Eligibility": 0.4572227895259857,
+        "ApplicationProcess": 0.3725692629814148,
+        "TimelineFrequency": 0.33485060930252075,
+        "AuthoritiesGovernance": 0.3449890911579132,
+        "DefinitionsReferences": 0.35248667001724243
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to ensure it meets the needs of the workers.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5363980531692505,
+      "similarities": {
+        "ContextObjective": 0.5223363041877747,
+        "BenefitsAssistance": 0.5022711753845215,
+        "Eligibility": 0.5290873646736145,
+        "ApplicationProcess": 0.5363980531692505,
+        "TimelineFrequency": 0.47823965549468994,
+        "AuthoritiesGovernance": 0.4882987439632416,
+        "DefinitionsReferences": 0.46126043796539307
+      }
+    },
+    {
+      "sentence": "The HPBOCWWB also conducts audits to monitor the disbursement of pensions and ensure compliance with regulations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46883752942085266,
+      "similarities": {
+        "ContextObjective": 0.3768726587295532,
+        "BenefitsAssistance": 0.46883752942085266,
+        "Eligibility": 0.45175886154174805,
+        "ApplicationProcess": 0.4561799168586731,
+        "TimelineFrequency": 0.3734740614891052,
+        "AuthoritiesGovernance": 0.44608449935913086,
+        "DefinitionsReferences": 0.4000377357006073
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger framework of social security initiatives launched by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5682457685470581,
+      "similarities": {
+        "ContextObjective": 0.5682457685470581,
+        "BenefitsAssistance": 0.4800138771533966,
+        "Eligibility": 0.48154953122138977,
+        "ApplicationProcess": 0.43879973888397217,
+        "TimelineFrequency": 0.40117594599723816,
+        "AuthoritiesGovernance": 0.46066129207611084,
+        "DefinitionsReferences": 0.3904041051864624
+      }
+    },
+    {
+      "sentence": "The HPBOCWWB Pension Scheme is a vital step towards providing social security to the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4678967595100403,
+      "similarities": {
+        "ContextObjective": 0.4678967595100403,
+        "BenefitsAssistance": 0.40299850702285767,
+        "Eligibility": 0.4264780282974243,
+        "ApplicationProcess": 0.41022560000419617,
+        "TimelineFrequency": 0.33482563495635986,
+        "AuthoritiesGovernance": 0.3884885907173157,
+        "DefinitionsReferences": 0.34144747257232666
+      }
+    },
+    {
+      "sentence": "The government aims to expand the reach of the scheme to include more workers in the construction industry.",
+      "role": "ContextObjective",
+      "confidence": 0.49343711137771606,
+      "similarities": {
+        "ContextObjective": 0.49343711137771606,
+        "BenefitsAssistance": 0.3991745710372925,
+        "Eligibility": 0.48963189125061035,
+        "ApplicationProcess": 0.4388093948364258,
+        "TimelineFrequency": 0.39296913146972656,
+        "AuthoritiesGovernance": 0.4197022020816803,
+        "DefinitionsReferences": 0.3773692846298218
+      }
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Himachal Pradesh government to support the welfare of its labor force.",
+      "role": "ContextObjective",
+      "confidence": 0.4424721598625183,
+      "similarities": {
+        "ContextObjective": 0.4424721598625183,
+        "BenefitsAssistance": 0.43113309144973755,
+        "Eligibility": 0.433176726102829,
+        "ApplicationProcess": 0.3894338011741638,
+        "TimelineFrequency": 0.35974007844924927,
+        "AuthoritiesGovernance": 0.39795827865600586,
+        "DefinitionsReferences": 0.34965023398399353
+      }
+    },
+    {
+      "sentence": "Overall, the HPBOCWWB Pension Scheme plays a crucial role in providing financial assistance and security to construction workers in Himachal Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4769676625728607,
+      "similarities": {
+        "ContextObjective": 0.4657856225967407,
+        "BenefitsAssistance": 0.4769676625728607,
+        "Eligibility": 0.4582924246788025,
+        "ApplicationProcess": 0.42134594917297363,
+        "TimelineFrequency": 0.372879296541214,
+        "AuthoritiesGovernance": 0.39395835995674133,
+        "DefinitionsReferences": 0.37396544218063354
+      }
+    },
+    {
+      "sentence": "It addresses the challenges faced by workers in the unorganized sector and promotes their well-being.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4359074831008911,
+      "similarities": {
+        "ContextObjective": 0.4060259461402893,
+        "BenefitsAssistance": 0.39647698402404785,
+        "Eligibility": 0.4007265567779541,
+        "ApplicationProcess": 0.36422789096832275,
+        "TimelineFrequency": 0.3360012173652649,
+        "AuthoritiesGovernance": 0.4359074831008911,
+        "DefinitionsReferences": 0.34547603130340576
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's efforts to create a more equitable society for all workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5079372525215149,
+      "similarities": {
+        "ContextObjective": 0.5079372525215149,
+        "BenefitsAssistance": 0.3936142027378082,
+        "Eligibility": 0.438247948884964,
+        "ApplicationProcess": 0.39109331369400024,
+        "TimelineFrequency": 0.343264639377594,
+        "AuthoritiesGovernance": 0.4154955744743347,
+        "DefinitionsReferences": 0.3637889325618744
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 16,
+    "BenefitsAssistance": 10,
+    "Eligibility": 9,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:49:11.817055"
+}

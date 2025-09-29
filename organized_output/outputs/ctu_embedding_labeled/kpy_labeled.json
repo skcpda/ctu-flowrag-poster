@@ -1,0 +1,896 @@
+{
+  "scheme_name": "Farmer Pension Scheme",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Farmer Pension Scheme is a significant initiative launched by the Government of India to provide financial security to farmers in their old age.",
+      "role": "ContextObjective",
+      "confidence": 0.5355874300003052,
+      "similarities": {
+        "ContextObjective": 0.5355874300003052,
+        "BenefitsAssistance": 0.45214638113975525,
+        "Eligibility": 0.4666212797164917,
+        "ApplicationProcess": 0.41705429553985596,
+        "TimelineFrequency": 0.3768078088760376,
+        "AuthoritiesGovernance": 0.4015570282936096,
+        "DefinitionsReferences": 0.34106844663619995
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on December 12, 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.5737011432647705,
+      "similarities": {
+        "ContextObjective": 0.5737011432647705,
+        "BenefitsAssistance": 0.45662081241607666,
+        "Eligibility": 0.49296772480010986,
+        "ApplicationProcess": 0.5005643367767334,
+        "TimelineFrequency": 0.4901520609855652,
+        "AuthoritiesGovernance": 0.42189741134643555,
+        "DefinitionsReferences": 0.37666985392570496
+      }
+    },
+    {
+      "sentence": "The primary objective of the Farmer Pension Scheme is to ensure that farmers receive a monthly pension after they reach the age of 60.",
+      "role": "ContextObjective",
+      "confidence": 0.5120406150817871,
+      "similarities": {
+        "ContextObjective": 0.5120406150817871,
+        "BenefitsAssistance": 0.40609100461006165,
+        "Eligibility": 0.4696043133735657,
+        "ApplicationProcess": 0.4302189350128174,
+        "TimelineFrequency": 0.418903648853302,
+        "AuthoritiesGovernance": 0.41388073563575745,
+        "DefinitionsReferences": 0.3193417191505432
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide a safety net for farmers who often face economic challenges due to the unpredictable nature of agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.49125945568084717,
+      "similarities": {
+        "ContextObjective": 0.49125945568084717,
+        "BenefitsAssistance": 0.4496578574180603,
+        "Eligibility": 0.4838853180408478,
+        "ApplicationProcess": 0.39459455013275146,
+        "TimelineFrequency": 0.4094621241092682,
+        "AuthoritiesGovernance": 0.3694725036621094,
+        "DefinitionsReferences": 0.3455761671066284
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible farmers will receive a pension of ₹3,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.4706563353538513,
+      "similarities": {
+        "ContextObjective": 0.43088313937187195,
+        "BenefitsAssistance": 0.4410123825073242,
+        "Eligibility": 0.4706563353538513,
+        "ApplicationProcess": 0.38519757986068726,
+        "TimelineFrequency": 0.3741026222705841,
+        "AuthoritiesGovernance": 0.34612610936164856,
+        "DefinitionsReferences": 0.3098546862602234
+      }
+    },
+    {
+      "sentence": "The pension amount is designed to support farmers in meeting their basic needs during their retirement years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5059189200401306,
+      "similarities": {
+        "ContextObjective": 0.43887901306152344,
+        "BenefitsAssistance": 0.5059189200401306,
+        "Eligibility": 0.4542493522167206,
+        "ApplicationProcess": 0.38229137659072876,
+        "TimelineFrequency": 0.4051741063594818,
+        "AuthoritiesGovernance": 0.3891856074333191,
+        "DefinitionsReferences": 0.3569227159023285
+      }
+    },
+    {
+      "sentence": "The scheme targets small and marginal farmers who constitute a significant portion of the agricultural workforce in India.",
+      "role": "Eligibility",
+      "confidence": 0.4722575843334198,
+      "similarities": {
+        "ContextObjective": 0.4595373272895813,
+        "BenefitsAssistance": 0.37042391300201416,
+        "Eligibility": 0.4722575843334198,
+        "ApplicationProcess": 0.3565186560153961,
+        "TimelineFrequency": 0.3659294843673706,
+        "AuthoritiesGovernance": 0.3939850926399231,
+        "DefinitionsReferences": 0.3235760033130646
+      }
+    },
+    {
+      "sentence": "According to the Ministry of Agriculture and Farmers' Welfare, around 86% of farmers in India are small and marginal farmers.",
+      "role": "Eligibility",
+      "confidence": 0.3902933597564697,
+      "similarities": {
+        "ContextObjective": 0.34971845149993896,
+        "BenefitsAssistance": 0.33473923802375793,
+        "Eligibility": 0.3902933597564697,
+        "ApplicationProcess": 0.32396242022514343,
+        "TimelineFrequency": 0.3011959493160248,
+        "AuthoritiesGovernance": 0.38371849060058594,
+        "DefinitionsReferences": 0.31782329082489014
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Farmer Pension Scheme include farmers aged 60 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.5567445755004883,
+      "similarities": {
+        "ContextObjective": 0.4505717158317566,
+        "BenefitsAssistance": 0.4207414984703064,
+        "Eligibility": 0.5567445755004883,
+        "ApplicationProcess": 0.45372849702835083,
+        "TimelineFrequency": 0.42860156297683716,
+        "AuthoritiesGovernance": 0.3515954315662384,
+        "DefinitionsReferences": 0.337465763092041
+      }
+    },
+    {
+      "sentence": "Farmers must also have a landholding of up to 2 hectares to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5684457421302795,
+      "similarities": {
+        "ContextObjective": 0.5175932049751282,
+        "BenefitsAssistance": 0.4454009532928467,
+        "Eligibility": 0.5684457421302795,
+        "ApplicationProcess": 0.47344985604286194,
+        "TimelineFrequency": 0.44682782888412476,
+        "AuthoritiesGovernance": 0.380565881729126,
+        "DefinitionsReferences": 0.420448899269104
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹2 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5891646146774292,
+      "similarities": {
+        "ContextObjective": 0.4428347945213318,
+        "BenefitsAssistance": 0.48649948835372925,
+        "Eligibility": 0.5891646146774292,
+        "ApplicationProcess": 0.4639805853366852,
+        "TimelineFrequency": 0.4490889310836792,
+        "AuthoritiesGovernance": 0.3638826608657837,
+        "DefinitionsReferences": 0.3855976462364197
+      }
+    },
+    {
+      "sentence": "This income limit ensures that the benefits are directed towards the economically weaker sections of the farming community.",
+      "role": "Eligibility",
+      "confidence": 0.454315185546875,
+      "similarities": {
+        "ContextObjective": 0.3356110453605652,
+        "BenefitsAssistance": 0.3753141462802887,
+        "Eligibility": 0.454315185546875,
+        "ApplicationProcess": 0.3074924051761627,
+        "TimelineFrequency": 0.3207944631576538,
+        "AuthoritiesGovernance": 0.3335198760032654,
+        "DefinitionsReferences": 0.2765465974807739
+      }
+    },
+    {
+      "sentence": "To apply for the Farmer Pension Scheme, farmers need to follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6261327266693115,
+      "similarities": {
+        "ContextObjective": 0.5007736682891846,
+        "BenefitsAssistance": 0.43110424280166626,
+        "Eligibility": 0.5781289339065552,
+        "ApplicationProcess": 0.6261327266693115,
+        "TimelineFrequency": 0.5293073058128357,
+        "AuthoritiesGovernance": 0.4464694857597351,
+        "DefinitionsReferences": 0.37346452474594116
+      }
+    },
+    {
+      "sentence": "The first step is to visit the official website of the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5508585572242737,
+      "similarities": {
+        "ContextObjective": 0.4639739394187927,
+        "BenefitsAssistance": 0.43396878242492676,
+        "Eligibility": 0.4490441083908081,
+        "ApplicationProcess": 0.5508585572242737,
+        "TimelineFrequency": 0.41524213552474976,
+        "AuthoritiesGovernance": 0.4754139184951782,
+        "DefinitionsReferences": 0.43844449520111084
+      }
+    },
+    {
+      "sentence": "Farmers must fill out the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6856812238693237,
+      "similarities": {
+        "ContextObjective": 0.46383926272392273,
+        "BenefitsAssistance": 0.473122775554657,
+        "Eligibility": 0.5856860280036926,
+        "ApplicationProcess": 0.6856812238693237,
+        "TimelineFrequency": 0.5325942039489746,
+        "AuthoritiesGovernance": 0.43882039189338684,
+        "DefinitionsReferences": 0.4551962614059448
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the farmer's name, age, landholding details, and income information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6413396596908569,
+      "similarities": {
+        "ContextObjective": 0.47055086493492126,
+        "BenefitsAssistance": 0.5507662892341614,
+        "Eligibility": 0.6020443439483643,
+        "ApplicationProcess": 0.6413396596908569,
+        "TimelineFrequency": 0.5273042321205139,
+        "AuthoritiesGovernance": 0.4338911175727844,
+        "DefinitionsReferences": 0.48390817642211914
+      }
+    },
+    {
+      "sentence": "Farmers must also provide proof of age and land ownership.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5493413805961609,
+      "similarities": {
+        "ContextObjective": 0.43143460154533386,
+        "BenefitsAssistance": 0.4824591875076294,
+        "Eligibility": 0.5438141226768494,
+        "ApplicationProcess": 0.5493413805961609,
+        "TimelineFrequency": 0.45298197865486145,
+        "AuthoritiesGovernance": 0.40382152795791626,
+        "DefinitionsReferences": 0.46607863903045654
+      }
+    },
+    {
+      "sentence": "Documents required for the application include an Aadhaar card, land records, and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6532373428344727,
+      "similarities": {
+        "ContextObjective": 0.48244619369506836,
+        "BenefitsAssistance": 0.5612971782684326,
+        "Eligibility": 0.5650829076766968,
+        "ApplicationProcess": 0.6532373428344727,
+        "TimelineFrequency": 0.5369851589202881,
+        "AuthoritiesGovernance": 0.43480247259140015,
+        "DefinitionsReferences": 0.5443840026855469
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it should be submitted to the local agricultural office or the designated authority in the district.",
+      "role": "ApplicationProcess",
+      "confidence": 0.604519248008728,
+      "similarities": {
+        "ContextObjective": 0.4311678409576416,
+        "BenefitsAssistance": 0.39293164014816284,
+        "Eligibility": 0.5272176861763,
+        "ApplicationProcess": 0.604519248008728,
+        "TimelineFrequency": 0.5105284452438354,
+        "AuthoritiesGovernance": 0.481537401676178,
+        "DefinitionsReferences": 0.3865906000137329
+      }
+    },
+    {
+      "sentence": "The application will be reviewed by the concerned authorities for verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7306681871414185,
+      "similarities": {
+        "ContextObjective": 0.5245034694671631,
+        "BenefitsAssistance": 0.4996877908706665,
+        "Eligibility": 0.624103307723999,
+        "ApplicationProcess": 0.7306681871414185,
+        "TimelineFrequency": 0.5891907811164856,
+        "AuthoritiesGovernance": 0.49272894859313965,
+        "DefinitionsReferences": 0.5135712027549744
+      }
+    },
+    {
+      "sentence": "Farmers can expect to receive their pension within a few months of the successful application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4775584638118744,
+      "similarities": {
+        "ContextObjective": 0.4426073431968689,
+        "BenefitsAssistance": 0.43111804127693176,
+        "Eligibility": 0.473189115524292,
+        "ApplicationProcess": 0.4775584638118744,
+        "TimelineFrequency": 0.4594801068305969,
+        "AuthoritiesGovernance": 0.39090704917907715,
+        "DefinitionsReferences": 0.32219773530960083
+      }
+    },
+    {
+      "sentence": "The pension is disbursed on a monthly basis directly into the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5054265260696411,
+      "similarities": {
+        "ContextObjective": 0.41178834438323975,
+        "BenefitsAssistance": 0.5054265260696411,
+        "Eligibility": 0.4506694972515106,
+        "ApplicationProcess": 0.40494799613952637,
+        "TimelineFrequency": 0.4003089666366577,
+        "AuthoritiesGovernance": 0.40732771158218384,
+        "DefinitionsReferences": 0.3203369975090027
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Agriculture and Farmers' Welfare in collaboration with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.514965832233429,
+      "similarities": {
+        "ContextObjective": 0.47544601559638977,
+        "BenefitsAssistance": 0.4274466037750244,
+        "Eligibility": 0.4520111680030823,
+        "ApplicationProcess": 0.43116551637649536,
+        "TimelineFrequency": 0.38391366600990295,
+        "AuthoritiesGovernance": 0.514965832233429,
+        "DefinitionsReferences": 0.3766670823097229
+      }
+    },
+    {
+      "sentence": "Each state has its own designated department responsible for the implementation of the Farmer Pension Scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5636129379272461,
+      "similarities": {
+        "ContextObjective": 0.4506794214248657,
+        "BenefitsAssistance": 0.4364442527294159,
+        "Eligibility": 0.49198442697525024,
+        "ApplicationProcess": 0.4110029339790344,
+        "TimelineFrequency": 0.3836327791213989,
+        "AuthoritiesGovernance": 0.5636129379272461,
+        "DefinitionsReferences": 0.39165395498275757
+      }
+    },
+    {
+      "sentence": "Farmers can contact their local agricultural office for more information regarding the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5295954942703247,
+      "similarities": {
+        "ContextObjective": 0.5104622840881348,
+        "BenefitsAssistance": 0.49034202098846436,
+        "Eligibility": 0.5295954942703247,
+        "ApplicationProcess": 0.5238853693008423,
+        "TimelineFrequency": 0.4558960497379303,
+        "AuthoritiesGovernance": 0.510248064994812,
+        "DefinitionsReferences": 0.41316714882850647
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is part of the larger initiative to enhance the welfare of farmers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4733889102935791,
+      "similarities": {
+        "ContextObjective": 0.4733889102935791,
+        "BenefitsAssistance": 0.42795395851135254,
+        "Eligibility": 0.4232802391052246,
+        "ApplicationProcess": 0.388498455286026,
+        "TimelineFrequency": 0.33625584840774536,
+        "AuthoritiesGovernance": 0.41520217061042786,
+        "DefinitionsReferences": 0.3393394947052002
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹10,774 crore for the implementation of this scheme over a period of five years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4803973436355591,
+      "similarities": {
+        "ContextObjective": 0.46208393573760986,
+        "BenefitsAssistance": 0.4803973436355591,
+        "Eligibility": 0.46788954734802246,
+        "ApplicationProcess": 0.420280784368515,
+        "TimelineFrequency": 0.4271293878555298,
+        "AuthoritiesGovernance": 0.4499829411506653,
+        "DefinitionsReferences": 0.3744655251502991
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to improving the financial stability of farmers.",
+      "role": "Eligibility",
+      "confidence": 0.41523492336273193,
+      "similarities": {
+        "ContextObjective": 0.37590718269348145,
+        "BenefitsAssistance": 0.41426706314086914,
+        "Eligibility": 0.41523492336273193,
+        "ApplicationProcess": 0.33966922760009766,
+        "TimelineFrequency": 0.3327430486679077,
+        "AuthoritiesGovernance": 0.36649683117866516,
+        "DefinitionsReferences": 0.3341582715511322
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit approximately 3 crore farmers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4919372797012329,
+      "similarities": {
+        "ContextObjective": 0.4919372797012329,
+        "BenefitsAssistance": 0.4173694849014282,
+        "Eligibility": 0.46419450640678406,
+        "ApplicationProcess": 0.3710871934890747,
+        "TimelineFrequency": 0.355305939912796,
+        "AuthoritiesGovernance": 0.4056395888328552,
+        "DefinitionsReferences": 0.3391072154045105
+      }
+    },
+    {
+      "sentence": "This number represents a significant portion of the total farming population in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4055275321006775,
+      "similarities": {
+        "ContextObjective": 0.3793148398399353,
+        "BenefitsAssistance": 0.4055275321006775,
+        "Eligibility": 0.39570826292037964,
+        "ApplicationProcess": 0.35418224334716797,
+        "TimelineFrequency": 0.3275270462036133,
+        "AuthoritiesGovernance": 0.35622596740722656,
+        "DefinitionsReferences": 0.3729388117790222
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is designed to be inclusive and accessible to all eligible farmers.",
+      "role": "Eligibility",
+      "confidence": 0.5164674520492554,
+      "similarities": {
+        "ContextObjective": 0.4756169319152832,
+        "BenefitsAssistance": 0.45847848057746887,
+        "Eligibility": 0.5164674520492554,
+        "ApplicationProcess": 0.40580862760543823,
+        "TimelineFrequency": 0.3842600882053375,
+        "AuthoritiesGovernance": 0.39319777488708496,
+        "DefinitionsReferences": 0.3206820487976074
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to inform farmers about the benefits and application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49566230177879333,
+      "similarities": {
+        "ContextObjective": 0.474120557308197,
+        "BenefitsAssistance": 0.45252758264541626,
+        "Eligibility": 0.49000266194343567,
+        "ApplicationProcess": 0.49566230177879333,
+        "TimelineFrequency": 0.43514421582221985,
+        "AuthoritiesGovernance": 0.46106284856796265,
+        "DefinitionsReferences": 0.42703312635421753
+      }
+    },
+    {
+      "sentence": "These campaigns aim to reach remote areas where farmers may not have easy access to information.",
+      "role": "Eligibility",
+      "confidence": 0.4779188930988312,
+      "similarities": {
+        "ContextObjective": 0.46988385915756226,
+        "BenefitsAssistance": 0.3967892527580261,
+        "Eligibility": 0.4779188930988312,
+        "ApplicationProcess": 0.4083267152309418,
+        "TimelineFrequency": 0.3870561122894287,
+        "AuthoritiesGovernance": 0.4285799264907837,
+        "DefinitionsReferences": 0.3740764856338501
+      }
+    },
+    {
+      "sentence": "The scheme is expected to reduce the financial burden on farmers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4749685823917389,
+      "similarities": {
+        "ContextObjective": 0.44671642780303955,
+        "BenefitsAssistance": 0.4749685823917389,
+        "Eligibility": 0.4476519823074341,
+        "ApplicationProcess": 0.3805036246776581,
+        "TimelineFrequency": 0.3518402576446533,
+        "AuthoritiesGovernance": 0.3733925223350525,
+        "DefinitionsReferences": 0.325194776058197
+      }
+    },
+    {
+      "sentence": "It will also contribute to the overall economic stability of rural areas.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3974456191062927,
+      "similarities": {
+        "ContextObjective": 0.37975263595581055,
+        "BenefitsAssistance": 0.3974456191062927,
+        "Eligibility": 0.37253719568252563,
+        "ApplicationProcess": 0.3326784372329712,
+        "TimelineFrequency": 0.3288775682449341,
+        "AuthoritiesGovernance": 0.3660089075565338,
+        "DefinitionsReferences": 0.3577107787132263
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is a step towards recognizing the contributions of farmers to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.4411548376083374,
+      "similarities": {
+        "ContextObjective": 0.4411548376083374,
+        "BenefitsAssistance": 0.4117761552333832,
+        "Eligibility": 0.40018248558044434,
+        "ApplicationProcess": 0.3897022604942322,
+        "TimelineFrequency": 0.32230615615844727,
+        "AuthoritiesGovernance": 0.36742040514945984,
+        "DefinitionsReferences": 0.32941317558288574
+      }
+    },
+    {
+      "sentence": "It acknowledges the challenges faced by farmers, especially during their old age.",
+      "role": "Eligibility",
+      "confidence": 0.4269348382949829,
+      "similarities": {
+        "ContextObjective": 0.35067474842071533,
+        "BenefitsAssistance": 0.40458250045776367,
+        "Eligibility": 0.4269348382949829,
+        "ApplicationProcess": 0.37229329347610474,
+        "TimelineFrequency": 0.36878687143325806,
+        "AuthoritiesGovernance": 0.35859715938568115,
+        "DefinitionsReferences": 0.35501545667648315
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the government's vision of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4930524230003357,
+      "similarities": {
+        "ContextObjective": 0.4930524230003357,
+        "BenefitsAssistance": 0.37222716212272644,
+        "Eligibility": 0.4055306911468506,
+        "ApplicationProcess": 0.3604555130004883,
+        "TimelineFrequency": 0.3564029335975647,
+        "AuthoritiesGovernance": 0.3294789791107178,
+        "DefinitionsReferences": 0.316359281539917
+      }
+    },
+    {
+      "sentence": "By providing a stable source of income, the Farmer Pension Scheme aims to enhance the quality of life for farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.47662872076034546,
+      "similarities": {
+        "ContextObjective": 0.47662872076034546,
+        "BenefitsAssistance": 0.40070074796676636,
+        "Eligibility": 0.42696842551231384,
+        "ApplicationProcess": 0.37174147367477417,
+        "TimelineFrequency": 0.33388057351112366,
+        "AuthoritiesGovernance": 0.3520280122756958,
+        "DefinitionsReferences": 0.32003751397132874
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to encourage younger generations to continue farming.",
+      "role": "ContextObjective",
+      "confidence": 0.4869762063026428,
+      "similarities": {
+        "ContextObjective": 0.4869762063026428,
+        "BenefitsAssistance": 0.3521031141281128,
+        "Eligibility": 0.41790464520454407,
+        "ApplicationProcess": 0.3619931638240814,
+        "TimelineFrequency": 0.35069912672042847,
+        "AuthoritiesGovernance": 0.3336962163448334,
+        "DefinitionsReferences": 0.32048681378364563
+      }
+    },
+    {
+      "sentence": "This is crucial for maintaining agricultural productivity and food security in the country.",
+      "role": "Eligibility",
+      "confidence": 0.4560309946537018,
+      "similarities": {
+        "ContextObjective": 0.44646838307380676,
+        "BenefitsAssistance": 0.42241933941841125,
+        "Eligibility": 0.4560309946537018,
+        "ApplicationProcess": 0.4408661425113678,
+        "TimelineFrequency": 0.4155055582523346,
+        "AuthoritiesGovernance": 0.43186938762664795,
+        "DefinitionsReferences": 0.4150291681289673
+      }
+    },
+    {
+      "sentence": "The government has emphasized the importance of social security for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45657095313072205,
+      "similarities": {
+        "ContextObjective": 0.43276864290237427,
+        "BenefitsAssistance": 0.45657095313072205,
+        "Eligibility": 0.4315229654312134,
+        "ApplicationProcess": 0.382885605096817,
+        "TimelineFrequency": 0.35221993923187256,
+        "AuthoritiesGovernance": 0.3662658929824829,
+        "DefinitionsReferences": 0.39177483320236206
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is a vital component of this social security framework.",
+      "role": "ContextObjective",
+      "confidence": 0.4758457839488983,
+      "similarities": {
+        "ContextObjective": 0.4758457839488983,
+        "BenefitsAssistance": 0.4294041395187378,
+        "Eligibility": 0.43222424387931824,
+        "ApplicationProcess": 0.3844374418258667,
+        "TimelineFrequency": 0.36698174476623535,
+        "AuthoritiesGovernance": 0.3714100420475006,
+        "DefinitionsReferences": 0.3469773828983307
+      }
+    },
+    {
+      "sentence": "It aims to create a safety net that protects farmers from poverty in their old age.",
+      "role": "Eligibility",
+      "confidence": 0.4753077030181885,
+      "similarities": {
+        "ContextObjective": 0.44613638520240784,
+        "BenefitsAssistance": 0.4265027642250061,
+        "Eligibility": 0.4753077030181885,
+        "ApplicationProcess": 0.3698285222053528,
+        "TimelineFrequency": 0.33773189783096313,
+        "AuthoritiesGovernance": 0.37979820370674133,
+        "DefinitionsReferences": 0.3321356177330017
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader strategy to improve the livelihoods of farmers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5182138681411743,
+      "similarities": {
+        "ContextObjective": 0.5182138681411743,
+        "BenefitsAssistance": 0.41138336062431335,
+        "Eligibility": 0.4475261867046356,
+        "ApplicationProcess": 0.3917129635810852,
+        "TimelineFrequency": 0.3617188334465027,
+        "AuthoritiesGovernance": 0.4209897220134735,
+        "DefinitionsReferences": 0.37161487340927124
+      }
+    },
+    {
+      "sentence": "The implementation of the Farmer Pension Scheme is monitored by various government agencies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5800670385360718,
+      "similarities": {
+        "ContextObjective": 0.46232882142066956,
+        "BenefitsAssistance": 0.4862154722213745,
+        "Eligibility": 0.4964717626571655,
+        "ApplicationProcess": 0.4784124791622162,
+        "TimelineFrequency": 0.41888153553009033,
+        "AuthoritiesGovernance": 0.5800670385360718,
+        "DefinitionsReferences": 0.42399507761001587
+      }
+    },
+    {
+      "sentence": "These agencies ensure that the benefits reach the intended beneficiaries without any delays.",
+      "role": "Eligibility",
+      "confidence": 0.49237826466560364,
+      "similarities": {
+        "ContextObjective": 0.4458373785018921,
+        "BenefitsAssistance": 0.46427464485168457,
+        "Eligibility": 0.49237826466560364,
+        "ApplicationProcess": 0.403192937374115,
+        "TimelineFrequency": 0.4230503439903259,
+        "AuthoritiesGovernance": 0.44971245527267456,
+        "DefinitionsReferences": 0.34646180272102356
+      }
+    },
+    {
+      "sentence": "The government has also established a grievance redressal mechanism for farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5587106943130493,
+      "similarities": {
+        "ContextObjective": 0.41806361079216003,
+        "BenefitsAssistance": 0.4058692455291748,
+        "Eligibility": 0.4548959732055664,
+        "ApplicationProcess": 0.41471177339553833,
+        "TimelineFrequency": 0.3733469545841217,
+        "AuthoritiesGovernance": 0.5587106943130493,
+        "DefinitionsReferences": 0.39217671751976013
+      }
+    },
+    {
+      "sentence": "This mechanism allows farmers to report any issues related to the pension scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5004411935806274,
+      "similarities": {
+        "ContextObjective": 0.4810000956058502,
+        "BenefitsAssistance": 0.4868246018886566,
+        "Eligibility": 0.5004411935806274,
+        "ApplicationProcess": 0.46316879987716675,
+        "TimelineFrequency": 0.4211899936199188,
+        "AuthoritiesGovernance": 0.47212496399879456,
+        "DefinitionsReferences": 0.37596482038497925
+      }
+    },
+    {
+      "sentence": "Farmers can contact the helpline numbers provided by the Ministry of Agriculture for assistance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48230990767478943,
+      "similarities": {
+        "ContextObjective": 0.4026554226875305,
+        "BenefitsAssistance": 0.4617829918861389,
+        "Eligibility": 0.4664781987667084,
+        "ApplicationProcess": 0.43144214153289795,
+        "TimelineFrequency": 0.38872355222702026,
+        "AuthoritiesGovernance": 0.48230990767478943,
+        "DefinitionsReferences": 0.37132352590560913
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is a progressive move towards social justice for farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.4486316442489624,
+      "similarities": {
+        "ContextObjective": 0.4486316442489624,
+        "BenefitsAssistance": 0.37035274505615234,
+        "Eligibility": 0.40397727489471436,
+        "ApplicationProcess": 0.34708496928215027,
+        "TimelineFrequency": 0.30918943881988525,
+        "AuthoritiesGovernance": 0.354575514793396,
+        "DefinitionsReferences": 0.30546194314956665
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to addressing the needs of the agricultural community.",
+      "role": "ContextObjective",
+      "confidence": 0.4640205502510071,
+      "similarities": {
+        "ContextObjective": 0.4640205502510071,
+        "BenefitsAssistance": 0.4017230272293091,
+        "Eligibility": 0.45198333263397217,
+        "ApplicationProcess": 0.4208630323410034,
+        "TimelineFrequency": 0.37619179487228394,
+        "AuthoritiesGovernance": 0.46195435523986816,
+        "DefinitionsReferences": 0.4126986265182495
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a positive impact on rural development.",
+      "role": "ContextObjective",
+      "confidence": 0.5273796319961548,
+      "similarities": {
+        "ContextObjective": 0.5273796319961548,
+        "BenefitsAssistance": 0.4170845150947571,
+        "Eligibility": 0.4667045474052429,
+        "ApplicationProcess": 0.4093291461467743,
+        "TimelineFrequency": 0.37512847781181335,
+        "AuthoritiesGovernance": 0.40608513355255127,
+        "DefinitionsReferences": 0.35708585381507874
+      }
+    },
+    {
+      "sentence": "By providing financial support, it will empower farmers and enhance their dignity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.480288565158844,
+      "similarities": {
+        "ContextObjective": 0.4216517508029938,
+        "BenefitsAssistance": 0.480288565158844,
+        "Eligibility": 0.44086402654647827,
+        "ApplicationProcess": 0.36029234528541565,
+        "TimelineFrequency": 0.3253517150878906,
+        "AuthoritiesGovernance": 0.3709288239479065,
+        "DefinitionsReferences": 0.36154860258102417
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is a crucial initiative in the context of India's agricultural landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.5032692551612854,
+      "similarities": {
+        "ContextObjective": 0.5032692551612854,
+        "BenefitsAssistance": 0.3774089813232422,
+        "Eligibility": 0.4381658732891083,
+        "ApplicationProcess": 0.3719386160373688,
+        "TimelineFrequency": 0.3416517972946167,
+        "AuthoritiesGovernance": 0.35478538274765015,
+        "DefinitionsReferences": 0.31895482540130615
+      }
+    },
+    {
+      "sentence": "It aims to create a more sustainable and equitable future for farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.49693724513053894,
+      "similarities": {
+        "ContextObjective": 0.49693724513053894,
+        "BenefitsAssistance": 0.3489360213279724,
+        "Eligibility": 0.4141029417514801,
+        "ApplicationProcess": 0.370050847530365,
+        "TimelineFrequency": 0.34631019830703735,
+        "AuthoritiesGovernance": 0.38833895325660706,
+        "DefinitionsReferences": 0.3454325497150421
+      }
+    },
+    {
+      "sentence": "The government continues to seek feedback from farmers to improve the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4917862117290497,
+      "similarities": {
+        "ContextObjective": 0.4822169244289398,
+        "BenefitsAssistance": 0.398484468460083,
+        "Eligibility": 0.43190622329711914,
+        "ApplicationProcess": 0.44493183493614197,
+        "TimelineFrequency": 0.4097527265548706,
+        "AuthoritiesGovernance": 0.4917862117290497,
+        "DefinitionsReferences": 0.36693915724754333
+      }
+    },
+    {
+      "sentence": "This feedback loop is essential for ensuring that the scheme remains relevant and effective.",
+      "role": "ContextObjective",
+      "confidence": 0.522943913936615,
+      "similarities": {
+        "ContextObjective": 0.522943913936615,
+        "BenefitsAssistance": 0.393831342458725,
+        "Eligibility": 0.47412365674972534,
+        "ApplicationProcess": 0.4274885356426239,
+        "TimelineFrequency": 0.45663970708847046,
+        "AuthoritiesGovernance": 0.4828868508338928,
+        "DefinitionsReferences": 0.40549057722091675
+      }
+    },
+    {
+      "sentence": "Overall, the Farmer Pension Scheme represents a significant step forward in supporting the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4322003722190857,
+      "similarities": {
+        "ContextObjective": 0.4322003722190857,
+        "BenefitsAssistance": 0.4139716625213623,
+        "Eligibility": 0.3730054199695587,
+        "ApplicationProcess": 0.36573490500450134,
+        "TimelineFrequency": 0.3164440393447876,
+        "AuthoritiesGovernance": 0.35009703040122986,
+        "DefinitionsReferences": 0.33175361156463623
+      }
+    },
+    {
+      "sentence": "It highlights the importance of providing social security to one of the most vital segments of the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.4454483389854431,
+      "similarities": {
+        "ContextObjective": 0.4454483389854431,
+        "BenefitsAssistance": 0.43391549587249756,
+        "Eligibility": 0.4293660521507263,
+        "ApplicationProcess": 0.35351648926734924,
+        "TimelineFrequency": 0.3602449297904968,
+        "AuthoritiesGovernance": 0.325298011302948,
+        "DefinitionsReferences": 0.3351542055606842
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the challenges faced by farmers.",
+      "role": "Eligibility",
+      "confidence": 0.4796137809753418,
+      "similarities": {
+        "ContextObjective": 0.47526293992996216,
+        "BenefitsAssistance": 0.41942355036735535,
+        "Eligibility": 0.4796137809753418,
+        "ApplicationProcess": 0.42518818378448486,
+        "TimelineFrequency": 0.37712109088897705,
+        "AuthoritiesGovernance": 0.39142078161239624,
+        "DefinitionsReferences": 0.3622626066207886
+      }
+    },
+    {
+      "sentence": "It is designed to provide them with the dignity and respect they deserve in their later years.",
+      "role": "ContextObjective",
+      "confidence": 0.4362204670906067,
+      "similarities": {
+        "ContextObjective": 0.4362204670906067,
+        "BenefitsAssistance": 0.4088553190231323,
+        "Eligibility": 0.43533915281295776,
+        "ApplicationProcess": 0.392723023891449,
+        "TimelineFrequency": 0.36815503239631653,
+        "AuthoritiesGovernance": 0.3906245529651642,
+        "DefinitionsReferences": 0.38506019115448
+      }
+    },
+    {
+      "sentence": "The Farmer Pension Scheme is a landmark initiative that aims to transform the lives of millions of farmers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4788457453250885,
+      "similarities": {
+        "ContextObjective": 0.4788457453250885,
+        "BenefitsAssistance": 0.3566170334815979,
+        "Eligibility": 0.41398656368255615,
+        "ApplicationProcess": 0.35975855588912964,
+        "TimelineFrequency": 0.31034427881240845,
+        "AuthoritiesGovernance": 0.3617667555809021,
+        "DefinitionsReferences": 0.2995229661464691
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "Eligibility": 17,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 10,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-24T21:06:53.934053"
+}

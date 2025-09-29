@@ -1,0 +1,883 @@
+{
+  "scheme_name": "Scholarship for Fatherless Girls",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Scholarship for Fatherless Girls is a welfare scheme initiated by the Government of India to support the education of girls who have lost their fathers.",
+      "role": "ContextObjective",
+      "confidence": 0.5288334488868713,
+      "similarities": {
+        "ContextObjective": 0.5288334488868713,
+        "BenefitsAssistance": 0.4447127878665924,
+        "Eligibility": 0.46603941917419434,
+        "ApplicationProcess": 0.43298470973968506,
+        "TimelineFrequency": 0.44007399678230286,
+        "AuthoritiesGovernance": 0.42565327882766724,
+        "DefinitionsReferences": 0.379873126745224
+      }
+    },
+    {
+      "sentence": "This scheme was launched in 2006 under the Ministry of Women and Child Development.",
+      "role": "ContextObjective",
+      "confidence": 0.5358829498291016,
+      "similarities": {
+        "ContextObjective": 0.5358829498291016,
+        "BenefitsAssistance": 0.406654953956604,
+        "Eligibility": 0.4458739757537842,
+        "ApplicationProcess": 0.43207961320877075,
+        "TimelineFrequency": 0.41189515590667725,
+        "AuthoritiesGovernance": 0.4140588343143463,
+        "DefinitionsReferences": 0.3448329567909241
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance to fatherless girls to ensure that they can continue their education without financial hindrance.",
+      "role": "ContextObjective",
+      "confidence": 0.5604939460754395,
+      "similarities": {
+        "ContextObjective": 0.5604939460754395,
+        "BenefitsAssistance": 0.48675549030303955,
+        "Eligibility": 0.47144249081611633,
+        "ApplicationProcess": 0.43587446212768555,
+        "TimelineFrequency": 0.42050546407699585,
+        "AuthoritiesGovernance": 0.3855811357498169,
+        "DefinitionsReferences": 0.34385424852371216
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower girls by promoting their education and reducing dropout rates among this vulnerable group.",
+      "role": "ContextObjective",
+      "confidence": 0.48480162024497986,
+      "similarities": {
+        "ContextObjective": 0.48480162024497986,
+        "BenefitsAssistance": 0.3570479452610016,
+        "Eligibility": 0.4198858141899109,
+        "ApplicationProcess": 0.3572724163532257,
+        "TimelineFrequency": 0.3636896312236786,
+        "AuthoritiesGovernance": 0.38149991631507874,
+        "DefinitionsReferences": 0.28409337997436523
+      }
+    },
+    {
+      "sentence": "The target beneficiaries of this scheme are girls who have lost their fathers and are pursuing their education in schools or colleges.",
+      "role": "ContextObjective",
+      "confidence": 0.5165545344352722,
+      "similarities": {
+        "ContextObjective": 0.5165545344352722,
+        "BenefitsAssistance": 0.4149888753890991,
+        "Eligibility": 0.4834189713001251,
+        "ApplicationProcess": 0.36763352155685425,
+        "TimelineFrequency": 0.3906975984573364,
+        "AuthoritiesGovernance": 0.3776785135269165,
+        "DefinitionsReferences": 0.3453958034515381
+      }
+    },
+    {
+      "sentence": "As per the guidelines, the scholarship is available for students from class 1 to post-graduation.",
+      "role": "Eligibility",
+      "confidence": 0.5505164861679077,
+      "similarities": {
+        "ContextObjective": 0.5067290663719177,
+        "BenefitsAssistance": 0.44968724250793457,
+        "Eligibility": 0.5505164861679077,
+        "ApplicationProcess": 0.5206823348999023,
+        "TimelineFrequency": 0.4879657030105591,
+        "AuthoritiesGovernance": 0.3737209439277649,
+        "DefinitionsReferences": 0.448259174823761
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme varies based on the educational level of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5907187461853027,
+      "similarities": {
+        "ContextObjective": 0.48974674940109253,
+        "BenefitsAssistance": 0.5719110369682312,
+        "Eligibility": 0.5907187461853027,
+        "ApplicationProcess": 0.4566141963005066,
+        "TimelineFrequency": 0.47773319482803345,
+        "AuthoritiesGovernance": 0.4523928761482239,
+        "DefinitionsReferences": 0.41614091396331787
+      }
+    },
+    {
+      "sentence": "For students in classes 1 to 5, the scholarship amount is ₹3,000 per annum.",
+      "role": "ContextObjective",
+      "confidence": 0.463126540184021,
+      "similarities": {
+        "ContextObjective": 0.463126540184021,
+        "BenefitsAssistance": 0.4538012444972992,
+        "Eligibility": 0.44242799282073975,
+        "ApplicationProcess": 0.4035600423812866,
+        "TimelineFrequency": 0.42612123489379883,
+        "AuthoritiesGovernance": 0.32418495416641235,
+        "DefinitionsReferences": 0.3498087525367737
+      }
+    },
+    {
+      "sentence": "For students in classes 6 to 8, the scholarship amount is ₹4,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4310827851295471,
+      "similarities": {
+        "ContextObjective": 0.42917367815971375,
+        "BenefitsAssistance": 0.4310827851295471,
+        "Eligibility": 0.4292537271976471,
+        "ApplicationProcess": 0.3951303958892822,
+        "TimelineFrequency": 0.41334599256515503,
+        "AuthoritiesGovernance": 0.320224404335022,
+        "DefinitionsReferences": 0.342050701379776
+      }
+    },
+    {
+      "sentence": "For students in classes 9 to 10, the scholarship amount is ₹5,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45685309171676636,
+      "similarities": {
+        "ContextObjective": 0.4254987835884094,
+        "BenefitsAssistance": 0.45685309171676636,
+        "Eligibility": 0.4274700880050659,
+        "ApplicationProcess": 0.3994849920272827,
+        "TimelineFrequency": 0.4242401421070099,
+        "AuthoritiesGovernance": 0.3119601905345917,
+        "DefinitionsReferences": 0.35970520973205566
+      }
+    },
+    {
+      "sentence": "For students in classes 11 to 12, the scholarship amount is ₹6,000 per annum.",
+      "role": "Eligibility",
+      "confidence": 0.42116236686706543,
+      "similarities": {
+        "ContextObjective": 0.4114019274711609,
+        "BenefitsAssistance": 0.4210521876811981,
+        "Eligibility": 0.42116236686706543,
+        "ApplicationProcess": 0.38967370986938477,
+        "TimelineFrequency": 0.39750418066978455,
+        "AuthoritiesGovernance": 0.3056032061576843,
+        "DefinitionsReferences": 0.342056006193161
+      }
+    },
+    {
+      "sentence": "For undergraduate students, the scholarship amount is ₹10,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45880812406539917,
+      "similarities": {
+        "ContextObjective": 0.41049087047576904,
+        "BenefitsAssistance": 0.45880812406539917,
+        "Eligibility": 0.45753365755081177,
+        "ApplicationProcess": 0.41050004959106445,
+        "TimelineFrequency": 0.42636460065841675,
+        "AuthoritiesGovernance": 0.3219999670982361,
+        "DefinitionsReferences": 0.3608461022377014
+      }
+    },
+    {
+      "sentence": "For postgraduate students, the scholarship amount is ₹15,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45174795389175415,
+      "similarities": {
+        "ContextObjective": 0.41607993841171265,
+        "BenefitsAssistance": 0.45174795389175415,
+        "Eligibility": 0.4426437318325043,
+        "ApplicationProcess": 0.42145341634750366,
+        "TimelineFrequency": 0.4149022102355957,
+        "AuthoritiesGovernance": 0.33721786737442017,
+        "DefinitionsReferences": 0.35666322708129883
+      }
+    },
+    {
+      "sentence": "The scheme also aims to provide additional support for vocational courses and skill development programs.",
+      "role": "ContextObjective",
+      "confidence": 0.545644998550415,
+      "similarities": {
+        "ContextObjective": 0.545644998550415,
+        "BenefitsAssistance": 0.4767111539840698,
+        "Eligibility": 0.44199714064598083,
+        "ApplicationProcess": 0.41810905933380127,
+        "TimelineFrequency": 0.4370875060558319,
+        "AuthoritiesGovernance": 0.3934949040412903,
+        "DefinitionsReferences": 0.43160590529441833
+      }
+    },
+    {
+      "sentence": "To be eligible for the scholarship, applicants must be girls who have lost their fathers.",
+      "role": "Eligibility",
+      "confidence": 0.5111109018325806,
+      "similarities": {
+        "ContextObjective": 0.4256119430065155,
+        "BenefitsAssistance": 0.35832417011260986,
+        "Eligibility": 0.5111109018325806,
+        "ApplicationProcess": 0.4332493245601654,
+        "TimelineFrequency": 0.4347074627876282,
+        "AuthoritiesGovernance": 0.31291985511779785,
+        "DefinitionsReferences": 0.31298163533210754
+      }
+    },
+    {
+      "sentence": "There is no specific age limit mentioned for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5882000923156738,
+      "similarities": {
+        "ContextObjective": 0.45451605319976807,
+        "BenefitsAssistance": 0.4675154685974121,
+        "Eligibility": 0.5882000923156738,
+        "ApplicationProcess": 0.4691614508628845,
+        "TimelineFrequency": 0.4834321141242981,
+        "AuthoritiesGovernance": 0.3748213052749634,
+        "DefinitionsReferences": 0.3784538209438324
+      }
+    },
+    {
+      "sentence": "However, the income criteria state that the family income should not exceed ₹2 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5050206780433655,
+      "similarities": {
+        "ContextObjective": 0.4094828963279724,
+        "BenefitsAssistance": 0.4471811056137085,
+        "Eligibility": 0.5050206780433655,
+        "ApplicationProcess": 0.4155282974243164,
+        "TimelineFrequency": 0.38534975051879883,
+        "AuthoritiesGovernance": 0.3232468366622925,
+        "DefinitionsReferences": 0.36504918336868286
+      }
+    },
+    {
+      "sentence": "Applicants must be enrolled in recognized schools or colleges.",
+      "role": "Eligibility",
+      "confidence": 0.6348966956138611,
+      "similarities": {
+        "ContextObjective": 0.49288660287857056,
+        "BenefitsAssistance": 0.4962283968925476,
+        "Eligibility": 0.6348966956138611,
+        "ApplicationProcess": 0.6302268505096436,
+        "TimelineFrequency": 0.5849099159240723,
+        "AuthoritiesGovernance": 0.4803534150123596,
+        "DefinitionsReferences": 0.48708459734916687
+      }
+    },
+    {
+      "sentence": "The scheme encourages girls from economically weaker sections to apply.",
+      "role": "Eligibility",
+      "confidence": 0.505232572555542,
+      "similarities": {
+        "ContextObjective": 0.497981995344162,
+        "BenefitsAssistance": 0.4142161011695862,
+        "Eligibility": 0.505232572555542,
+        "ApplicationProcess": 0.45018357038497925,
+        "TimelineFrequency": 0.43645042181015015,
+        "AuthoritiesGovernance": 0.36271488666534424,
+        "DefinitionsReferences": 0.3182469606399536
+      }
+    },
+    {
+      "sentence": "The application process involves several steps to ensure that the benefits reach the intended beneficiaries.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6699326634407043,
+      "similarities": {
+        "ContextObjective": 0.5588259100914001,
+        "BenefitsAssistance": 0.5507561564445496,
+        "Eligibility": 0.6543407440185547,
+        "ApplicationProcess": 0.6699326634407043,
+        "TimelineFrequency": 0.5886846780776978,
+        "AuthoritiesGovernance": 0.5194886326789856,
+        "DefinitionsReferences": 0.48673301935195923
+      }
+    },
+    {
+      "sentence": "Interested applicants must obtain the application form from the official website or their respective school or college.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6739161014556885,
+      "similarities": {
+        "ContextObjective": 0.46595504879951477,
+        "BenefitsAssistance": 0.427035927772522,
+        "Eligibility": 0.5524722337722778,
+        "ApplicationProcess": 0.6739161014556885,
+        "TimelineFrequency": 0.5369962453842163,
+        "AuthoritiesGovernance": 0.4520752429962158,
+        "DefinitionsReferences": 0.44675007462501526
+      }
+    },
+    {
+      "sentence": "The application form must be filled out with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7459784150123596,
+      "similarities": {
+        "ContextObjective": 0.5513231158256531,
+        "BenefitsAssistance": 0.5702838897705078,
+        "Eligibility": 0.6419689655303955,
+        "ApplicationProcess": 0.7459784150123596,
+        "TimelineFrequency": 0.619416356086731,
+        "AuthoritiesGovernance": 0.49918240308761597,
+        "DefinitionsReferences": 0.5253020524978638
+      }
+    },
+    {
+      "sentence": "Applicants need to attach a copy of the father's death certificate as proof of eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5799096822738647,
+      "similarities": {
+        "ContextObjective": 0.4270597994327545,
+        "BenefitsAssistance": 0.4507317543029785,
+        "Eligibility": 0.5448377132415771,
+        "ApplicationProcess": 0.5799096822738647,
+        "TimelineFrequency": 0.4799595773220062,
+        "AuthoritiesGovernance": 0.37580764293670654,
+        "DefinitionsReferences": 0.4178875684738159
+      }
+    },
+    {
+      "sentence": "Additionally, a copy of the income certificate is required to confirm the family's financial status.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5485529899597168,
+      "similarities": {
+        "ContextObjective": 0.3943779170513153,
+        "BenefitsAssistance": 0.5485529899597168,
+        "Eligibility": 0.48358380794525146,
+        "ApplicationProcess": 0.5271075963973999,
+        "TimelineFrequency": 0.40727031230926514,
+        "AuthoritiesGovernance": 0.36225706338882446,
+        "DefinitionsReferences": 0.42894425988197327
+      }
+    },
+    {
+      "sentence": "A copy of the admission or enrollment certificate from the school or college must also be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6212610006332397,
+      "similarities": {
+        "ContextObjective": 0.40478864312171936,
+        "BenefitsAssistance": 0.45732879638671875,
+        "Eligibility": 0.49434584379196167,
+        "ApplicationProcess": 0.6212610006332397,
+        "TimelineFrequency": 0.5083021521568298,
+        "AuthoritiesGovernance": 0.38113218545913696,
+        "DefinitionsReferences": 0.4383013844490051
+      }
+    },
+    {
+      "sentence": "Once the application form is completed, it should be submitted to the respective school or college.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6555125713348389,
+      "similarities": {
+        "ContextObjective": 0.4749395549297333,
+        "BenefitsAssistance": 0.43393242359161377,
+        "Eligibility": 0.5219601392745972,
+        "ApplicationProcess": 0.6555125713348389,
+        "TimelineFrequency": 0.5416004657745361,
+        "AuthoritiesGovernance": 0.44906556606292725,
+        "DefinitionsReferences": 0.408827006816864
+      }
+    },
+    {
+      "sentence": "The school or college will then forward the applications to the concerned district education office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.516167402267456,
+      "similarities": {
+        "ContextObjective": 0.4293506443500519,
+        "BenefitsAssistance": 0.40957915782928467,
+        "Eligibility": 0.4686030447483063,
+        "ApplicationProcess": 0.516167402267456,
+        "TimelineFrequency": 0.47437483072280884,
+        "AuthoritiesGovernance": 0.47104668617248535,
+        "DefinitionsReferences": 0.3857169449329376
+      }
+    },
+    {
+      "sentence": "The district education office is responsible for verifying the applications and disbursing the scholarship funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.559662938117981,
+      "similarities": {
+        "ContextObjective": 0.43889015913009644,
+        "BenefitsAssistance": 0.511463463306427,
+        "Eligibility": 0.48598790168762207,
+        "ApplicationProcess": 0.559662938117981,
+        "TimelineFrequency": 0.483501672744751,
+        "AuthoritiesGovernance": 0.4607815444469452,
+        "DefinitionsReferences": 0.4001558721065521
+      }
+    },
+    {
+      "sentence": "The scholarship is typically disbursed on an annual basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5489397048950195,
+      "similarities": {
+        "ContextObjective": 0.4783104658126831,
+        "BenefitsAssistance": 0.5489397048950195,
+        "Eligibility": 0.48741456866264343,
+        "ApplicationProcess": 0.4726688265800476,
+        "TimelineFrequency": 0.524167537689209,
+        "AuthoritiesGovernance": 0.41246694326400757,
+        "DefinitionsReferences": 0.41542673110961914
+      }
+    },
+    {
+      "sentence": "However, the exact timeline for disbursement may vary by state and district.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5849274396896362,
+      "similarities": {
+        "ContextObjective": 0.45638999342918396,
+        "BenefitsAssistance": 0.5849274396896362,
+        "Eligibility": 0.5456397533416748,
+        "ApplicationProcess": 0.4648427367210388,
+        "TimelineFrequency": 0.5637514591217041,
+        "AuthoritiesGovernance": 0.5242300629615784,
+        "DefinitionsReferences": 0.43735939264297485
+      }
+    },
+    {
+      "sentence": "It is advisable for applicants to check with their respective schools or colleges for specific timelines.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6324091553688049,
+      "similarities": {
+        "ContextObjective": 0.49516981840133667,
+        "BenefitsAssistance": 0.4704279899597168,
+        "Eligibility": 0.5617453455924988,
+        "ApplicationProcess": 0.5939160585403442,
+        "TimelineFrequency": 0.6324091553688049,
+        "AuthoritiesGovernance": 0.45505112409591675,
+        "DefinitionsReferences": 0.471707820892334
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5857475996017456,
+      "similarities": {
+        "ContextObjective": 0.47268420457839966,
+        "BenefitsAssistance": 0.40645381808280945,
+        "Eligibility": 0.4781290888786316,
+        "ApplicationProcess": 0.41762906312942505,
+        "TimelineFrequency": 0.3818565607070923,
+        "AuthoritiesGovernance": 0.5857475996017456,
+        "DefinitionsReferences": 0.3962334990501404
+      }
+    },
+    {
+      "sentence": "Each state has its own designated department to oversee the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6270235776901245,
+      "similarities": {
+        "ContextObjective": 0.4973885416984558,
+        "BenefitsAssistance": 0.4557569622993469,
+        "Eligibility": 0.5241913795471191,
+        "ApplicationProcess": 0.4601803719997406,
+        "TimelineFrequency": 0.42362016439437866,
+        "AuthoritiesGovernance": 0.6270235776901245,
+        "DefinitionsReferences": 0.4441865086555481
+      }
+    },
+    {
+      "sentence": "For example, in Maharashtra, the Women and Child Development Department is responsible for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.471892774105072,
+      "similarities": {
+        "ContextObjective": 0.471892774105072,
+        "BenefitsAssistance": 0.40709757804870605,
+        "Eligibility": 0.44389277696609497,
+        "ApplicationProcess": 0.3901679217815399,
+        "TimelineFrequency": 0.36514538526535034,
+        "AuthoritiesGovernance": 0.46562084555625916,
+        "DefinitionsReferences": 0.37032437324523926
+      }
+    },
+    {
+      "sentence": "In Uttar Pradesh, the Department of Social Welfare manages the scholarship program.",
+      "role": "Eligibility",
+      "confidence": 0.5017485618591309,
+      "similarities": {
+        "ContextObjective": 0.4865648150444031,
+        "BenefitsAssistance": 0.45715999603271484,
+        "Eligibility": 0.5017485618591309,
+        "ApplicationProcess": 0.44304415583610535,
+        "TimelineFrequency": 0.4113425612449646,
+        "AuthoritiesGovernance": 0.46098941564559937,
+        "DefinitionsReferences": 0.3757190406322479
+      }
+    },
+    {
+      "sentence": "Contact details for these departments can usually be found on their official state government websites.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5735827088356018,
+      "similarities": {
+        "ContextObjective": 0.4119276702404022,
+        "BenefitsAssistance": 0.4627791941165924,
+        "Eligibility": 0.4354090690612793,
+        "ApplicationProcess": 0.4885936379432678,
+        "TimelineFrequency": 0.45198312401771545,
+        "AuthoritiesGovernance": 0.5735827088356018,
+        "DefinitionsReferences": 0.5196266174316406
+      }
+    },
+    {
+      "sentence": "The scheme has seen a positive impact on the education of fatherless girls since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.48909813165664673,
+      "similarities": {
+        "ContextObjective": 0.48909813165664673,
+        "BenefitsAssistance": 0.37928712368011475,
+        "Eligibility": 0.3669635057449341,
+        "ApplicationProcess": 0.33705976605415344,
+        "TimelineFrequency": 0.34909701347351074,
+        "AuthoritiesGovernance": 0.3360213041305542,
+        "DefinitionsReferences": 0.3171749413013458
+      }
+    },
+    {
+      "sentence": "According to reports, the dropout rate among fatherless girls has decreased significantly due to the financial support provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4432823657989502,
+      "similarities": {
+        "ContextObjective": 0.32951435446739197,
+        "BenefitsAssistance": 0.4432823657989502,
+        "Eligibility": 0.3554258346557617,
+        "ApplicationProcess": 0.3237103521823883,
+        "TimelineFrequency": 0.31448155641555786,
+        "AuthoritiesGovernance": 0.3144994080066681,
+        "DefinitionsReferences": 0.29471302032470703
+      }
+    },
+    {
+      "sentence": "In 2021, it was reported that over 50,000 girls benefited from the scholarship in the previous academic year.",
+      "role": "ContextObjective",
+      "confidence": 0.3786018192768097,
+      "similarities": {
+        "ContextObjective": 0.3786018192768097,
+        "BenefitsAssistance": 0.3696570098400116,
+        "Eligibility": 0.35944169759750366,
+        "ApplicationProcess": 0.3198041319847107,
+        "TimelineFrequency": 0.33873915672302246,
+        "AuthoritiesGovernance": 0.30952712893486023,
+        "DefinitionsReferences": 0.298813134431839
+      }
+    },
+    {
+      "sentence": "The government aims to increase awareness about the scheme to reach more eligible beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5716648101806641,
+      "similarities": {
+        "ContextObjective": 0.5716648101806641,
+        "BenefitsAssistance": 0.4876854419708252,
+        "Eligibility": 0.556560218334198,
+        "ApplicationProcess": 0.47610580921173096,
+        "TimelineFrequency": 0.417574942111969,
+        "AuthoritiesGovernance": 0.4691407084465027,
+        "DefinitionsReferences": 0.3899182379245758
+      }
+    },
+    {
+      "sentence": "Efforts are being made to conduct workshops and seminars in schools to inform students and parents about the scholarship.",
+      "role": "ContextObjective",
+      "confidence": 0.46743059158325195,
+      "similarities": {
+        "ContextObjective": 0.46743059158325195,
+        "BenefitsAssistance": 0.43443763256073,
+        "Eligibility": 0.4575497508049011,
+        "ApplicationProcess": 0.4456597566604614,
+        "TimelineFrequency": 0.4171181917190552,
+        "AuthoritiesGovernance": 0.45118045806884766,
+        "DefinitionsReferences": 0.4050350487232208
+      }
+    },
+    {
+      "sentence": "The scheme is part of the broader initiative by the government to promote gender equality in education.",
+      "role": "ContextObjective",
+      "confidence": 0.5405890345573425,
+      "similarities": {
+        "ContextObjective": 0.5405890345573425,
+        "BenefitsAssistance": 0.40113314986228943,
+        "Eligibility": 0.4404572546482086,
+        "ApplicationProcess": 0.41624921560287476,
+        "TimelineFrequency": 0.41289573907852173,
+        "AuthoritiesGovernance": 0.42591917514801025,
+        "DefinitionsReferences": 0.37777769565582275
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹100 crore for the implementation of this scheme in the financial year 2022-2023.",
+      "role": "Eligibility",
+      "confidence": 0.4898521602153778,
+      "similarities": {
+        "ContextObjective": 0.4894256293773651,
+        "BenefitsAssistance": 0.48836642503738403,
+        "Eligibility": 0.4898521602153778,
+        "ApplicationProcess": 0.4092726707458496,
+        "TimelineFrequency": 0.42081642150878906,
+        "AuthoritiesGovernance": 0.46958115696907043,
+        "DefinitionsReferences": 0.34856516122817993
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to supporting the education of girls from disadvantaged backgrounds.",
+      "role": "Eligibility",
+      "confidence": 0.4474886655807495,
+      "similarities": {
+        "ContextObjective": 0.4297831356525421,
+        "BenefitsAssistance": 0.4119478464126587,
+        "Eligibility": 0.4474886655807495,
+        "ApplicationProcess": 0.32603520154953003,
+        "TimelineFrequency": 0.3548700213432312,
+        "AuthoritiesGovernance": 0.3727361857891083,
+        "DefinitionsReferences": 0.34791824221611023
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the Sustainable Development Goals set by the United Nations, particularly Goal 4, which aims to ensure inclusive and equitable quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.5139704942703247,
+      "similarities": {
+        "ContextObjective": 0.5139704942703247,
+        "BenefitsAssistance": 0.3628535270690918,
+        "Eligibility": 0.4533250331878662,
+        "ApplicationProcess": 0.3848019242286682,
+        "TimelineFrequency": 0.37631624937057495,
+        "AuthoritiesGovernance": 0.38674405217170715,
+        "DefinitionsReferences": 0.3487664461135864
+      }
+    },
+    {
+      "sentence": "In addition to the financial assistance, the scheme also provides mentorship and guidance for fatherless girls.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4634147882461548,
+      "similarities": {
+        "ContextObjective": 0.4623618721961975,
+        "BenefitsAssistance": 0.4634147882461548,
+        "Eligibility": 0.4051284193992615,
+        "ApplicationProcess": 0.3648916184902191,
+        "TimelineFrequency": 0.3754540681838989,
+        "AuthoritiesGovernance": 0.3429821729660034,
+        "DefinitionsReferences": 0.3602007031440735
+      }
+    },
+    {
+      "sentence": "Various NGOs and community organizations are collaborating with the government to provide additional support.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5902351140975952,
+      "similarities": {
+        "ContextObjective": 0.5069760084152222,
+        "BenefitsAssistance": 0.5468499660491943,
+        "Eligibility": 0.5076695084571838,
+        "ApplicationProcess": 0.4547848701477051,
+        "TimelineFrequency": 0.4295811355113983,
+        "AuthoritiesGovernance": 0.5902351140975952,
+        "DefinitionsReferences": 0.5038893818855286
+      }
+    },
+    {
+      "sentence": "These organizations help in counseling and guiding the beneficiaries in their educational pursuits.",
+      "role": "Eligibility",
+      "confidence": 0.5143617391586304,
+      "similarities": {
+        "ContextObjective": 0.4971904754638672,
+        "BenefitsAssistance": 0.5051001906394958,
+        "Eligibility": 0.5143617391586304,
+        "ApplicationProcess": 0.454337477684021,
+        "TimelineFrequency": 0.4575379490852356,
+        "AuthoritiesGovernance": 0.48988932371139526,
+        "DefinitionsReferences": 0.4528348743915558
+      }
+    },
+    {
+      "sentence": "The scholarship for fatherless girls is a crucial step towards ensuring that no girl is deprived of education due to financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.4629334807395935,
+      "similarities": {
+        "ContextObjective": 0.4629334807395935,
+        "BenefitsAssistance": 0.4400594234466553,
+        "Eligibility": 0.46212995052337646,
+        "ApplicationProcess": 0.44441553950309753,
+        "TimelineFrequency": 0.40094709396362305,
+        "AuthoritiesGovernance": 0.3637775778770447,
+        "DefinitionsReferences": 0.3609621226787567
+      }
+    },
+    {
+      "sentence": "The scheme has been widely appreciated for its targeted approach to support a vulnerable segment of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5444836616516113,
+      "similarities": {
+        "ContextObjective": 0.5444836616516113,
+        "BenefitsAssistance": 0.41366297006607056,
+        "Eligibility": 0.4769434332847595,
+        "ApplicationProcess": 0.3835945129394531,
+        "TimelineFrequency": 0.3606644868850708,
+        "AuthoritiesGovernance": 0.38265180587768555,
+        "DefinitionsReferences": 0.3522093594074249
+      }
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the scheme to enhance its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5198829770088196,
+      "similarities": {
+        "ContextObjective": 0.5198829770088196,
+        "BenefitsAssistance": 0.4404098391532898,
+        "Eligibility": 0.48175251483917236,
+        "ApplicationProcess": 0.47403860092163086,
+        "TimelineFrequency": 0.41701000928878784,
+        "AuthoritiesGovernance": 0.5137456655502319,
+        "DefinitionsReferences": 0.4294165372848511
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to make necessary improvements to the program.",
+      "role": "Eligibility",
+      "confidence": 0.5413293838500977,
+      "similarities": {
+        "ContextObjective": 0.5006318092346191,
+        "BenefitsAssistance": 0.5205524563789368,
+        "Eligibility": 0.5413293838500977,
+        "ApplicationProcess": 0.504183292388916,
+        "TimelineFrequency": 0.46912044286727905,
+        "AuthoritiesGovernance": 0.5347594618797302,
+        "DefinitionsReferences": 0.45137572288513184
+      }
+    },
+    {
+      "sentence": "Overall, the Scholarship for Fatherless Girls represents a significant effort by the Indian government to empower girls through education.",
+      "role": "ContextObjective",
+      "confidence": 0.43335676193237305,
+      "similarities": {
+        "ContextObjective": 0.43335676193237305,
+        "BenefitsAssistance": 0.3759407699108124,
+        "Eligibility": 0.3671462833881378,
+        "ApplicationProcess": 0.35776621103286743,
+        "TimelineFrequency": 0.34552258253097534,
+        "AuthoritiesGovernance": 0.35880422592163086,
+        "DefinitionsReferences": 0.3445693850517273
+      }
+    },
+    {
+      "sentence": "It aims to create a more equitable society where every girl has the opportunity to achieve her educational aspirations.",
+      "role": "ContextObjective",
+      "confidence": 0.5304928421974182,
+      "similarities": {
+        "ContextObjective": 0.5304928421974182,
+        "BenefitsAssistance": 0.32107239961624146,
+        "Eligibility": 0.420209676027298,
+        "ApplicationProcess": 0.386878103017807,
+        "TimelineFrequency": 0.3736422061920166,
+        "AuthoritiesGovernance": 0.3766155242919922,
+        "DefinitionsReferences": 0.32613682746887207
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to women's empowerment and gender equality in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4840749204158783,
+      "similarities": {
+        "ContextObjective": 0.4840749204158783,
+        "BenefitsAssistance": 0.38404983282089233,
+        "Eligibility": 0.43781810998916626,
+        "ApplicationProcess": 0.39296382665634155,
+        "TimelineFrequency": 0.3628978729248047,
+        "AuthoritiesGovernance": 0.390108585357666,
+        "DefinitionsReferences": 0.3720216155052185
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme remains active and continues to provide essential support to fatherless girls across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4902186989784241,
+      "similarities": {
+        "ContextObjective": 0.4902186989784241,
+        "BenefitsAssistance": 0.40747305750846863,
+        "Eligibility": 0.4297107458114624,
+        "ApplicationProcess": 0.3623058497905731,
+        "TimelineFrequency": 0.39053353667259216,
+        "AuthoritiesGovernance": 0.3811071515083313,
+        "DefinitionsReferences": 0.36090564727783203
+      }
+    },
+    {
+      "sentence": "Eligible girls are encouraged to apply and take advantage of this opportunity to further their education.",
+      "role": "Eligibility",
+      "confidence": 0.5099294185638428,
+      "similarities": {
+        "ContextObjective": 0.4890362024307251,
+        "BenefitsAssistance": 0.4008921980857849,
+        "Eligibility": 0.5099294185638428,
+        "ApplicationProcess": 0.4898603856563568,
+        "TimelineFrequency": 0.4871453046798706,
+        "AuthoritiesGovernance": 0.3604471981525421,
+        "DefinitionsReferences": 0.38742363452911377
+      }
+    },
+    {
+      "sentence": "The government is dedicated to ensuring that the benefits of this scheme reach every eligible girl in need.",
+      "role": "Eligibility",
+      "confidence": 0.5043491125106812,
+      "similarities": {
+        "ContextObjective": 0.5040493011474609,
+        "BenefitsAssistance": 0.4342932105064392,
+        "Eligibility": 0.5043491125106812,
+        "ApplicationProcess": 0.43953388929367065,
+        "TimelineFrequency": 0.4004006087779999,
+        "AuthoritiesGovernance": 0.4300227165222168,
+        "DefinitionsReferences": 0.3724937438964844
+      }
+    },
+    {
+      "sentence": "This initiative is a vital part of India's broader strategy to improve educational outcomes for girls and women.",
+      "role": "ContextObjective",
+      "confidence": 0.4525600075721741,
+      "similarities": {
+        "ContextObjective": 0.4525600075721741,
+        "BenefitsAssistance": 0.36112743616104126,
+        "Eligibility": 0.3840533494949341,
+        "ApplicationProcess": 0.35760828852653503,
+        "TimelineFrequency": 0.3554490804672241,
+        "AuthoritiesGovernance": 0.3856436014175415,
+        "DefinitionsReferences": 0.35231149196624756
+      }
+    },
+    {
+      "sentence": "The Scholarship for Fatherless Girls stands as a beacon of hope for many families facing the challenges of losing a breadwinner.",
+      "role": "ContextObjective",
+      "confidence": 0.4445393979549408,
+      "similarities": {
+        "ContextObjective": 0.4445393979549408,
+        "BenefitsAssistance": 0.4168146550655365,
+        "Eligibility": 0.4252607226371765,
+        "ApplicationProcess": 0.3295733332633972,
+        "TimelineFrequency": 0.33324629068374634,
+        "AuthoritiesGovernance": 0.3173227906227112,
+        "DefinitionsReferences": 0.3257976174354553
+      }
+    },
+    {
+      "sentence": "The ongoing support from the government and various organizations is crucial in making this scheme successful.",
+      "role": "ContextObjective",
+      "confidence": 0.5724871158599854,
+      "similarities": {
+        "ContextObjective": 0.5724871158599854,
+        "BenefitsAssistance": 0.49037811160087585,
+        "Eligibility": 0.49457818269729614,
+        "ApplicationProcess": 0.48245561122894287,
+        "TimelineFrequency": 0.43440520763397217,
+        "AuthoritiesGovernance": 0.5242612361907959,
+        "DefinitionsReferences": 0.4719078540802002
+      }
+    },
+    {
+      "sentence": "It is essential for communities to come together to support the education of girls and ensure their future success.",
+      "role": "ContextObjective",
+      "confidence": 0.49137282371520996,
+      "similarities": {
+        "ContextObjective": 0.49137282371520996,
+        "BenefitsAssistance": 0.38750672340393066,
+        "Eligibility": 0.42998141050338745,
+        "ApplicationProcess": 0.38285982608795166,
+        "TimelineFrequency": 0.38177627325057983,
+        "AuthoritiesGovernance": 0.4304274916648865,
+        "DefinitionsReferences": 0.367627888917923
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 25,
+    "Eligibility": 15,
+    "BenefitsAssistance": 9,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:29:08.549035"
+}

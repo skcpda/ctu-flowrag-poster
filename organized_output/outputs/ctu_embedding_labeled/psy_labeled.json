@@ -1,0 +1,967 @@
+{
+  "scheme_name": "Prasuti Sahayata Yojana",
+  "total_sentences": 68,
+  "labeled_sentences": [
+    {
+      "sentence": "The Prasuti Sahayata Yojana is a significant welfare scheme launched by the Government of Madhya Pradesh in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5357621908187866,
+      "similarities": {
+        "ContextObjective": 0.5357621908187866,
+        "BenefitsAssistance": 0.4532686471939087,
+        "Eligibility": 0.5081586241722107,
+        "ApplicationProcess": 0.4213062524795532,
+        "TimelineFrequency": 0.41461849212646484,
+        "AuthoritiesGovernance": 0.47374680638313293,
+        "DefinitionsReferences": 0.3745483160018921
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st January 2018.",
+      "role": "ContextObjective",
+      "confidence": 0.5682634711265564,
+      "similarities": {
+        "ContextObjective": 0.5682634711265564,
+        "BenefitsAssistance": 0.4337083697319031,
+        "Eligibility": 0.47048652172088623,
+        "ApplicationProcess": 0.4838081896305084,
+        "TimelineFrequency": 0.44733288884162903,
+        "AuthoritiesGovernance": 0.393671452999115,
+        "DefinitionsReferences": 0.3389962315559387
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance to pregnant women during their pregnancy and childbirth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5518465638160706,
+      "similarities": {
+        "ContextObjective": 0.4882775545120239,
+        "BenefitsAssistance": 0.5518465638160706,
+        "Eligibility": 0.4951981008052826,
+        "ApplicationProcess": 0.4292222857475281,
+        "TimelineFrequency": 0.45421916246414185,
+        "AuthoritiesGovernance": 0.4097723960876465,
+        "DefinitionsReferences": 0.39142167568206787
+      }
+    },
+    {
+      "sentence": "The primary objective of the Prasuti Sahayata Yojana is to reduce maternal and infant mortality rates.",
+      "role": "ContextObjective",
+      "confidence": 0.47878342866897583,
+      "similarities": {
+        "ContextObjective": 0.47878342866897583,
+        "BenefitsAssistance": 0.40041279792785645,
+        "Eligibility": 0.43275314569473267,
+        "ApplicationProcess": 0.38772130012512207,
+        "TimelineFrequency": 0.37937551736831665,
+        "AuthoritiesGovernance": 0.4075961709022522,
+        "DefinitionsReferences": 0.3200620412826538
+      }
+    },
+    {
+      "sentence": "The scheme also aims to encourage institutional deliveries among pregnant women.",
+      "role": "ContextObjective",
+      "confidence": 0.49517521262168884,
+      "similarities": {
+        "ContextObjective": 0.49517521262168884,
+        "BenefitsAssistance": 0.3937721252441406,
+        "Eligibility": 0.4273720383644104,
+        "ApplicationProcess": 0.3736061751842499,
+        "TimelineFrequency": 0.3838884234428406,
+        "AuthoritiesGovernance": 0.3904668092727661,
+        "DefinitionsReferences": 0.3252260088920593
+      }
+    },
+    {
+      "sentence": "The government has set a target to increase the percentage of institutional deliveries to at least 90 percent by the year 2025.",
+      "role": "Eligibility",
+      "confidence": 0.42175373435020447,
+      "similarities": {
+        "ContextObjective": 0.41758882999420166,
+        "BenefitsAssistance": 0.37066930532455444,
+        "Eligibility": 0.42175373435020447,
+        "ApplicationProcess": 0.3527972102165222,
+        "TimelineFrequency": 0.3645075559616089,
+        "AuthoritiesGovernance": 0.3842676281929016,
+        "DefinitionsReferences": 0.3041752874851227
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible beneficiaries receive a financial assistance of ₹16,000.",
+      "role": "Eligibility",
+      "confidence": 0.536809504032135,
+      "similarities": {
+        "ContextObjective": 0.4552627503871918,
+        "BenefitsAssistance": 0.5308201313018799,
+        "Eligibility": 0.536809504032135,
+        "ApplicationProcess": 0.43085628747940063,
+        "TimelineFrequency": 0.40131402015686035,
+        "AuthoritiesGovernance": 0.3906738758087158,
+        "DefinitionsReferences": 0.3710365295410156
+      }
+    },
+    {
+      "sentence": "This amount is disbursed in two installments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6007810831069946,
+      "similarities": {
+        "ContextObjective": 0.45700132846832275,
+        "BenefitsAssistance": 0.6007810831069946,
+        "Eligibility": 0.4639001488685608,
+        "ApplicationProcess": 0.4532867670059204,
+        "TimelineFrequency": 0.49948006868362427,
+        "AuthoritiesGovernance": 0.44657865166664124,
+        "DefinitionsReferences": 0.4256068468093872
+      }
+    },
+    {
+      "sentence": "The first installment of ₹6,000 is provided during the registration of pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5265545845031738,
+      "similarities": {
+        "ContextObjective": 0.436717689037323,
+        "BenefitsAssistance": 0.5265545845031738,
+        "Eligibility": 0.4630071222782135,
+        "ApplicationProcess": 0.4610772132873535,
+        "TimelineFrequency": 0.44789910316467285,
+        "AuthoritiesGovernance": 0.3683180510997772,
+        "DefinitionsReferences": 0.39327383041381836
+      }
+    },
+    {
+      "sentence": "The second installment of ₹10,000 is provided after the delivery of the child.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5302014350891113,
+      "similarities": {
+        "ContextObjective": 0.4263719320297241,
+        "BenefitsAssistance": 0.5302014350891113,
+        "Eligibility": 0.45221012830734253,
+        "ApplicationProcess": 0.4118746519088745,
+        "TimelineFrequency": 0.41122573614120483,
+        "AuthoritiesGovernance": 0.3729930818080902,
+        "DefinitionsReferences": 0.39532938599586487
+      }
+    },
+    {
+      "sentence": "The assistance is aimed at covering the medical expenses related to pregnancy and childbirth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6440026760101318,
+      "similarities": {
+        "ContextObjective": 0.46445131301879883,
+        "BenefitsAssistance": 0.6440026760101318,
+        "Eligibility": 0.5175421833992004,
+        "ApplicationProcess": 0.45763111114501953,
+        "TimelineFrequency": 0.47176480293273926,
+        "AuthoritiesGovernance": 0.43415409326553345,
+        "DefinitionsReferences": 0.43849706649780273
+      }
+    },
+    {
+      "sentence": "Eligibility for the Prasuti Sahayata Yojana is defined by specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.671151876449585,
+      "similarities": {
+        "ContextObjective": 0.5489866137504578,
+        "BenefitsAssistance": 0.4944305419921875,
+        "Eligibility": 0.671151876449585,
+        "ApplicationProcess": 0.5438423156738281,
+        "TimelineFrequency": 0.5422513484954834,
+        "AuthoritiesGovernance": 0.43353521823883057,
+        "DefinitionsReferences": 0.4416913092136383
+      }
+    },
+    {
+      "sentence": "Beneficiaries must be residents of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5869264602661133,
+      "similarities": {
+        "ContextObjective": 0.46616414189338684,
+        "BenefitsAssistance": 0.4833090305328369,
+        "Eligibility": 0.5869264602661133,
+        "ApplicationProcess": 0.46172356605529785,
+        "TimelineFrequency": 0.41799479722976685,
+        "AuthoritiesGovernance": 0.42437171936035156,
+        "DefinitionsReferences": 0.39535558223724365
+      }
+    },
+    {
+      "sentence": "They must be pregnant women who are above the age of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.5496594309806824,
+      "similarities": {
+        "ContextObjective": 0.43900519609451294,
+        "BenefitsAssistance": 0.45255404710769653,
+        "Eligibility": 0.5496594309806824,
+        "ApplicationProcess": 0.46302103996276855,
+        "TimelineFrequency": 0.46776944398880005,
+        "AuthoritiesGovernance": 0.40424656867980957,
+        "DefinitionsReferences": 0.4015704393386841
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to women who are undergoing their first or second childbirth.",
+      "role": "ContextObjective",
+      "confidence": 0.5174504518508911,
+      "similarities": {
+        "ContextObjective": 0.5174504518508911,
+        "BenefitsAssistance": 0.47499948740005493,
+        "Eligibility": 0.5064425468444824,
+        "ApplicationProcess": 0.46465951204299927,
+        "TimelineFrequency": 0.47380924224853516,
+        "AuthoritiesGovernance": 0.40196919441223145,
+        "DefinitionsReferences": 0.3952508866786957
+      }
+    },
+    {
+      "sentence": "Women who have a family income of less than ₹2 lakh per annum are eligible for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5410675406455994,
+      "similarities": {
+        "ContextObjective": 0.45462727546691895,
+        "BenefitsAssistance": 0.48173144459724426,
+        "Eligibility": 0.5410675406455994,
+        "ApplicationProcess": 0.44288671016693115,
+        "TimelineFrequency": 0.4428904950618744,
+        "AuthoritiesGovernance": 0.3697245121002197,
+        "DefinitionsReferences": 0.34135234355926514
+      }
+    },
+    {
+      "sentence": "The application process for the Prasuti Sahayata Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5485173463821411,
+      "similarities": {
+        "ContextObjective": 0.484802782535553,
+        "BenefitsAssistance": 0.41304802894592285,
+        "Eligibility": 0.4956141710281372,
+        "ApplicationProcess": 0.5485173463821411,
+        "TimelineFrequency": 0.46962353587150574,
+        "AuthoritiesGovernance": 0.406954288482666,
+        "DefinitionsReferences": 0.3500410318374634
+      }
+    },
+    {
+      "sentence": "Pregnant women must first register their pregnancy at the nearest health center.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4979693293571472,
+      "similarities": {
+        "ContextObjective": 0.38608571887016296,
+        "BenefitsAssistance": 0.42614662647247314,
+        "Eligibility": 0.4772259593009949,
+        "ApplicationProcess": 0.4979693293571472,
+        "TimelineFrequency": 0.42807501554489136,
+        "AuthoritiesGovernance": 0.4006676971912384,
+        "DefinitionsReferences": 0.3620789647102356
+      }
+    },
+    {
+      "sentence": "They need to provide proof of pregnancy through a medical certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5648849010467529,
+      "similarities": {
+        "ContextObjective": 0.438027560710907,
+        "BenefitsAssistance": 0.49755293130874634,
+        "Eligibility": 0.5181319117546082,
+        "ApplicationProcess": 0.5648849010467529,
+        "TimelineFrequency": 0.47902750968933105,
+        "AuthoritiesGovernance": 0.400779128074646,
+        "DefinitionsReferences": 0.43612855672836304
+      }
+    },
+    {
+      "sentence": "The required documents include an Aadhar card for identity verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5990404486656189,
+      "similarities": {
+        "ContextObjective": 0.44206854701042175,
+        "BenefitsAssistance": 0.5158957242965698,
+        "Eligibility": 0.48599711060523987,
+        "ApplicationProcess": 0.5990404486656189,
+        "TimelineFrequency": 0.46140196919441223,
+        "AuthoritiesGovernance": 0.43141472339630127,
+        "DefinitionsReferences": 0.49597296118736267
+      }
+    },
+    {
+      "sentence": "They must also submit a copy of the income certificate to prove eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5957998037338257,
+      "similarities": {
+        "ContextObjective": 0.4300733208656311,
+        "BenefitsAssistance": 0.500656247138977,
+        "Eligibility": 0.5519706010818481,
+        "ApplicationProcess": 0.5957998037338257,
+        "TimelineFrequency": 0.4515376091003418,
+        "AuthoritiesGovernance": 0.37999284267425537,
+        "DefinitionsReferences": 0.4229087829589844
+      }
+    },
+    {
+      "sentence": "Once the documents are submitted, the health center will verify the information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6301171183586121,
+      "similarities": {
+        "ContextObjective": 0.4172059893608093,
+        "BenefitsAssistance": 0.5338330864906311,
+        "Eligibility": 0.49982762336730957,
+        "ApplicationProcess": 0.6301171183586121,
+        "TimelineFrequency": 0.49309179186820984,
+        "AuthoritiesGovernance": 0.47501665353775024,
+        "DefinitionsReferences": 0.47508883476257324
+      }
+    },
+    {
+      "sentence": "After verification, the first installment of ₹6,000 will be disbursed.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5372875928878784,
+      "similarities": {
+        "ContextObjective": 0.43071335554122925,
+        "BenefitsAssistance": 0.5367963314056396,
+        "Eligibility": 0.47059333324432373,
+        "ApplicationProcess": 0.5372875928878784,
+        "TimelineFrequency": 0.4309482276439667,
+        "AuthoritiesGovernance": 0.3869478106498718,
+        "DefinitionsReferences": 0.3967798948287964
+      }
+    },
+    {
+      "sentence": "The second installment of ₹10,000 is provided after the delivery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5243316888809204,
+      "similarities": {
+        "ContextObjective": 0.4415932893753052,
+        "BenefitsAssistance": 0.5243316888809204,
+        "Eligibility": 0.45246630907058716,
+        "ApplicationProcess": 0.4360046088695526,
+        "TimelineFrequency": 0.42598235607147217,
+        "AuthoritiesGovernance": 0.3929975926876068,
+        "DefinitionsReferences": 0.4087143540382385
+      }
+    },
+    {
+      "sentence": "This is contingent upon the woman delivering in a government-approved health facility.",
+      "role": "Eligibility",
+      "confidence": 0.4893881380558014,
+      "similarities": {
+        "ContextObjective": 0.3854379653930664,
+        "BenefitsAssistance": 0.45156097412109375,
+        "Eligibility": 0.4893881380558014,
+        "ApplicationProcess": 0.4381556212902069,
+        "TimelineFrequency": 0.3778811991214752,
+        "AuthoritiesGovernance": 0.41147762537002563,
+        "DefinitionsReferences": 0.3710041642189026
+      }
+    },
+    {
+      "sentence": "The timeline for the disbursement of funds is as follows.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6094342470169067,
+      "similarities": {
+        "ContextObjective": 0.5041292905807495,
+        "BenefitsAssistance": 0.6094342470169067,
+        "Eligibility": 0.49907171726226807,
+        "ApplicationProcess": 0.48977139592170715,
+        "TimelineFrequency": 0.5508132576942444,
+        "AuthoritiesGovernance": 0.5071978569030762,
+        "DefinitionsReferences": 0.45144665241241455
+      }
+    },
+    {
+      "sentence": "The first installment is typically disbursed within 30 days of registration.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5176166892051697,
+      "similarities": {
+        "ContextObjective": 0.4321788549423218,
+        "BenefitsAssistance": 0.513272762298584,
+        "Eligibility": 0.4519693851470947,
+        "ApplicationProcess": 0.44924962520599365,
+        "TimelineFrequency": 0.5176166892051697,
+        "AuthoritiesGovernance": 0.4100150465965271,
+        "DefinitionsReferences": 0.3911733031272888
+      }
+    },
+    {
+      "sentence": "The second installment is disbursed within 30 days after the delivery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48504844307899475,
+      "similarities": {
+        "ContextObjective": 0.41294729709625244,
+        "BenefitsAssistance": 0.48504844307899475,
+        "Eligibility": 0.4141772985458374,
+        "ApplicationProcess": 0.3778317868709564,
+        "TimelineFrequency": 0.4525953531265259,
+        "AuthoritiesGovernance": 0.39013323187828064,
+        "DefinitionsReferences": 0.3739321827888489
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana is implemented by the Department of Women and Child Development in Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5360918641090393,
+      "similarities": {
+        "ContextObjective": 0.4535660445690155,
+        "BenefitsAssistance": 0.4449017643928528,
+        "Eligibility": 0.49304908514022827,
+        "ApplicationProcess": 0.42353498935699463,
+        "TimelineFrequency": 0.40664586424827576,
+        "AuthoritiesGovernance": 0.5360918641090393,
+        "DefinitionsReferences": 0.3797547519207001
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and fund disbursement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6050747036933899,
+      "similarities": {
+        "ContextObjective": 0.49486517906188965,
+        "BenefitsAssistance": 0.5767531394958496,
+        "Eligibility": 0.5861571431159973,
+        "ApplicationProcess": 0.6050747036933899,
+        "TimelineFrequency": 0.5574331283569336,
+        "AuthoritiesGovernance": 0.5677811503410339,
+        "DefinitionsReferences": 0.4447769522666931
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, beneficiaries can contact the department at their official helpline number.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.514432430267334,
+      "similarities": {
+        "ContextObjective": 0.3921220302581787,
+        "BenefitsAssistance": 0.5088670253753662,
+        "Eligibility": 0.5067534446716309,
+        "ApplicationProcess": 0.44244611263275146,
+        "TimelineFrequency": 0.37736111879348755,
+        "AuthoritiesGovernance": 0.514432430267334,
+        "DefinitionsReferences": 0.3894217014312744
+      }
+    },
+    {
+      "sentence": "The helpline number is 181.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48464077711105347,
+      "similarities": {
+        "ContextObjective": 0.42309531569480896,
+        "BenefitsAssistance": 0.48464077711105347,
+        "Eligibility": 0.47706693410873413,
+        "ApplicationProcess": 0.44651418924331665,
+        "TimelineFrequency": 0.4375648498535156,
+        "AuthoritiesGovernance": 0.46927908062934875,
+        "DefinitionsReferences": 0.3857976794242859
+      }
+    },
+    {
+      "sentence": "The scheme has seen a significant uptake since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.5962900519371033,
+      "similarities": {
+        "ContextObjective": 0.5962900519371033,
+        "BenefitsAssistance": 0.4670535922050476,
+        "Eligibility": 0.47159308195114136,
+        "ApplicationProcess": 0.45524734258651733,
+        "TimelineFrequency": 0.43271833658218384,
+        "AuthoritiesGovernance": 0.3922131061553955,
+        "DefinitionsReferences": 0.4046339988708496
+      }
+    },
+    {
+      "sentence": "As of 2023, over 1.5 million women have benefited from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.46321749687194824,
+      "similarities": {
+        "ContextObjective": 0.46321749687194824,
+        "BenefitsAssistance": 0.4186969995498657,
+        "Eligibility": 0.40910983085632324,
+        "ApplicationProcess": 0.3487975597381592,
+        "TimelineFrequency": 0.3606139123439789,
+        "AuthoritiesGovernance": 0.3575230836868286,
+        "DefinitionsReferences": 0.3271767497062683
+      }
+    },
+    {
+      "sentence": "The Madhya Pradesh government has allocated ₹1,200 crore for this scheme in the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.4611462950706482,
+      "similarities": {
+        "ContextObjective": 0.4611462950706482,
+        "BenefitsAssistance": 0.4323740601539612,
+        "Eligibility": 0.42752718925476074,
+        "ApplicationProcess": 0.3748878240585327,
+        "TimelineFrequency": 0.38851648569107056,
+        "AuthoritiesGovernance": 0.3781290650367737,
+        "DefinitionsReferences": 0.3282543420791626
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government’s commitment to improving maternal health.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43786513805389404,
+      "similarities": {
+        "ContextObjective": 0.391360342502594,
+        "BenefitsAssistance": 0.43786513805389404,
+        "Eligibility": 0.4262549877166748,
+        "ApplicationProcess": 0.36274927854537964,
+        "TimelineFrequency": 0.36388522386550903,
+        "AuthoritiesGovernance": 0.43564730882644653,
+        "DefinitionsReferences": 0.3698327839374542
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance healthcare services in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5228826403617859,
+      "similarities": {
+        "ContextObjective": 0.5228826403617859,
+        "BenefitsAssistance": 0.4662429690361023,
+        "Eligibility": 0.4602997303009033,
+        "ApplicationProcess": 0.4357157349586487,
+        "TimelineFrequency": 0.4071524739265442,
+        "AuthoritiesGovernance": 0.46067678928375244,
+        "DefinitionsReferences": 0.3876297175884247
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana also emphasizes the importance of antenatal care.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41535598039627075,
+      "similarities": {
+        "ContextObjective": 0.40190792083740234,
+        "BenefitsAssistance": 0.41535598039627075,
+        "Eligibility": 0.3809104859828949,
+        "ApplicationProcess": 0.3353143036365509,
+        "TimelineFrequency": 0.3501082956790924,
+        "AuthoritiesGovernance": 0.3129727244377136,
+        "DefinitionsReferences": 0.3475687801837921
+      }
+    },
+    {
+      "sentence": "Pregnant women are encouraged to attend regular check-ups.",
+      "role": "ApplicationProcess",
+      "confidence": 0.443332314491272,
+      "similarities": {
+        "ContextObjective": 0.38484829664230347,
+        "BenefitsAssistance": 0.4319191575050354,
+        "Eligibility": 0.41475123167037964,
+        "ApplicationProcess": 0.443332314491272,
+        "TimelineFrequency": 0.4197445511817932,
+        "AuthoritiesGovernance": 0.3852977156639099,
+        "DefinitionsReferences": 0.38800379633903503
+      }
+    },
+    {
+      "sentence": "These check-ups are crucial for monitoring the health of both the mother and the child.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4597107172012329,
+      "similarities": {
+        "ContextObjective": 0.36218011379241943,
+        "BenefitsAssistance": 0.4597107172012329,
+        "Eligibility": 0.4346006512641907,
+        "ApplicationProcess": 0.4439239799976349,
+        "TimelineFrequency": 0.412942111492157,
+        "AuthoritiesGovernance": 0.3698654770851135,
+        "DefinitionsReferences": 0.3850002884864807
+      }
+    },
+    {
+      "sentence": "The scheme also promotes awareness about safe childbirth practices.",
+      "role": "ContextObjective",
+      "confidence": 0.48445236682891846,
+      "similarities": {
+        "ContextObjective": 0.48445236682891846,
+        "BenefitsAssistance": 0.3906514346599579,
+        "Eligibility": 0.41477441787719727,
+        "ApplicationProcess": 0.40393656492233276,
+        "TimelineFrequency": 0.35442137718200684,
+        "AuthoritiesGovernance": 0.33827927708625793,
+        "DefinitionsReferences": 0.3404344320297241
+      }
+    },
+    {
+      "sentence": "Educational programs are conducted to inform women about the benefits of institutional deliveries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46314969658851624,
+      "similarities": {
+        "ContextObjective": 0.4524807929992676,
+        "BenefitsAssistance": 0.46314969658851624,
+        "Eligibility": 0.42654815316200256,
+        "ApplicationProcess": 0.4024790823459625,
+        "TimelineFrequency": 0.4115859270095825,
+        "AuthoritiesGovernance": 0.4495447874069214,
+        "DefinitionsReferences": 0.3772450387477875
+      }
+    },
+    {
+      "sentence": "The government collaborates with various NGOs to spread awareness about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5466467142105103,
+      "similarities": {
+        "ContextObjective": 0.5466467142105103,
+        "BenefitsAssistance": 0.4765148162841797,
+        "Eligibility": 0.4833449125289917,
+        "ApplicationProcess": 0.4414597153663635,
+        "TimelineFrequency": 0.39022648334503174,
+        "AuthoritiesGovernance": 0.539016842842102,
+        "DefinitionsReferences": 0.4392131567001343
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5584428906440735,
+      "similarities": {
+        "ContextObjective": 0.5260372161865234,
+        "BenefitsAssistance": 0.5003200769424438,
+        "Eligibility": 0.534416913986206,
+        "ApplicationProcess": 0.4749782681465149,
+        "TimelineFrequency": 0.4199962317943573,
+        "AuthoritiesGovernance": 0.5584428906440735,
+        "DefinitionsReferences": 0.4378007650375366
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana is a crucial step towards achieving the Sustainable Development Goals.",
+      "role": "ContextObjective",
+      "confidence": 0.5054787397384644,
+      "similarities": {
+        "ContextObjective": 0.5054787397384644,
+        "BenefitsAssistance": 0.40830254554748535,
+        "Eligibility": 0.4692115783691406,
+        "ApplicationProcess": 0.4509422481060028,
+        "TimelineFrequency": 0.3899785876274109,
+        "AuthoritiesGovernance": 0.42725831270217896,
+        "DefinitionsReferences": 0.3764873147010803
+      }
+    },
+    {
+      "sentence": "It aligns with Goal 3 which aims to ensure healthy lives and promote well-being for all at all ages.",
+      "role": "ContextObjective",
+      "confidence": 0.4846631586551666,
+      "similarities": {
+        "ContextObjective": 0.4846631586551666,
+        "BenefitsAssistance": 0.36987224221229553,
+        "Eligibility": 0.425664484500885,
+        "ApplicationProcess": 0.3636050522327423,
+        "TimelineFrequency": 0.34747061133384705,
+        "AuthoritiesGovernance": 0.3725493848323822,
+        "DefinitionsReferences": 0.36653822660446167
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing the maternal mortality ratio in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.44517332315444946,
+      "similarities": {
+        "ContextObjective": 0.44517332315444946,
+        "BenefitsAssistance": 0.3697686493396759,
+        "Eligibility": 0.38665080070495605,
+        "ApplicationProcess": 0.34080904722213745,
+        "TimelineFrequency": 0.33358973264694214,
+        "AuthoritiesGovernance": 0.37658482789993286,
+        "DefinitionsReferences": 0.3083391785621643
+      }
+    },
+    {
+      "sentence": "According to the latest data, the maternal mortality ratio has decreased by 30 percent since the launch of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.39286941289901733,
+      "similarities": {
+        "ContextObjective": 0.39286941289901733,
+        "BenefitsAssistance": 0.3584710955619812,
+        "Eligibility": 0.3613830804824829,
+        "ApplicationProcess": 0.33772480487823486,
+        "TimelineFrequency": 0.31268805265426636,
+        "AuthoritiesGovernance": 0.31182268261909485,
+        "DefinitionsReferences": 0.26687419414520264
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana also plays a role in empowering women.",
+      "role": "ContextObjective",
+      "confidence": 0.42244452238082886,
+      "similarities": {
+        "ContextObjective": 0.42244452238082886,
+        "BenefitsAssistance": 0.3968068063259125,
+        "Eligibility": 0.4218411445617676,
+        "ApplicationProcess": 0.36654379963874817,
+        "TimelineFrequency": 0.3487502336502075,
+        "AuthoritiesGovernance": 0.38039135932922363,
+        "DefinitionsReferences": 0.3491933345794678
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, it reduces the economic burden on families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5447785258293152,
+      "similarities": {
+        "ContextObjective": 0.41136276721954346,
+        "BenefitsAssistance": 0.5447785258293152,
+        "Eligibility": 0.4587593674659729,
+        "ApplicationProcess": 0.39592087268829346,
+        "TimelineFrequency": 0.37741053104400635,
+        "AuthoritiesGovernance": 0.3831200897693634,
+        "DefinitionsReferences": 0.3421015739440918
+      }
+    },
+    {
+      "sentence": "This allows women to focus on their health and well-being during pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4388025403022766,
+      "similarities": {
+        "ContextObjective": 0.4174460768699646,
+        "BenefitsAssistance": 0.4388025403022766,
+        "Eligibility": 0.4231186509132385,
+        "ApplicationProcess": 0.3871031105518341,
+        "TimelineFrequency": 0.3919452428817749,
+        "AuthoritiesGovernance": 0.345304012298584,
+        "DefinitionsReferences": 0.384010910987854
+      }
+    },
+    {
+      "sentence": "The scheme has also encouraged families to prioritize healthcare.",
+      "role": "ContextObjective",
+      "confidence": 0.4916456639766693,
+      "similarities": {
+        "ContextObjective": 0.4916456639766693,
+        "BenefitsAssistance": 0.47684282064437866,
+        "Eligibility": 0.4565792977809906,
+        "ApplicationProcess": 0.40703698992729187,
+        "TimelineFrequency": 0.38593918085098267,
+        "AuthoritiesGovernance": 0.3692913055419922,
+        "DefinitionsReferences": 0.3515005111694336
+      }
+    },
+    {
+      "sentence": "It has led to an increase in the number of women seeking medical assistance during pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.453891783952713,
+      "similarities": {
+        "ContextObjective": 0.3975951671600342,
+        "BenefitsAssistance": 0.453891783952713,
+        "Eligibility": 0.3989764153957367,
+        "ApplicationProcess": 0.40223801136016846,
+        "TimelineFrequency": 0.4026760458946228,
+        "AuthoritiesGovernance": 0.36216163635253906,
+        "DefinitionsReferences": 0.3743940591812134
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the scheme's effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5495353937149048,
+      "similarities": {
+        "ContextObjective": 0.5495353937149048,
+        "BenefitsAssistance": 0.4661920964717865,
+        "Eligibility": 0.498881995677948,
+        "ApplicationProcess": 0.48901140689849854,
+        "TimelineFrequency": 0.4338637888431549,
+        "AuthoritiesGovernance": 0.520911455154419,
+        "DefinitionsReferences": 0.4316803812980652
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to ensure that the objectives are being met.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5498015284538269,
+      "similarities": {
+        "ContextObjective": 0.5253702402114868,
+        "BenefitsAssistance": 0.4661204218864441,
+        "Eligibility": 0.5206693410873413,
+        "ApplicationProcess": 0.5498015284538269,
+        "TimelineFrequency": 0.5220382809638977,
+        "AuthoritiesGovernance": 0.534805178642273,
+        "DefinitionsReferences": 0.4833725392818451
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana is a vital component of the state's healthcare strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.4282967448234558,
+      "similarities": {
+        "ContextObjective": 0.4282967448234558,
+        "BenefitsAssistance": 0.4148826599121094,
+        "Eligibility": 0.4246567487716675,
+        "ApplicationProcess": 0.38743412494659424,
+        "TimelineFrequency": 0.3518224358558655,
+        "AuthoritiesGovernance": 0.37901923060417175,
+        "DefinitionsReferences": 0.3410983681678772
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving maternal and child health outcomes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4605267643928528,
+      "similarities": {
+        "ContextObjective": 0.42277348041534424,
+        "BenefitsAssistance": 0.42289531230926514,
+        "Eligibility": 0.4179341197013855,
+        "ApplicationProcess": 0.4001008868217468,
+        "TimelineFrequency": 0.3803725838661194,
+        "AuthoritiesGovernance": 0.4605267643928528,
+        "DefinitionsReferences": 0.40335357189178467
+      }
+    },
+    {
+      "sentence": "The scheme has garnered positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5349000692367554,
+      "similarities": {
+        "ContextObjective": 0.5349000692367554,
+        "BenefitsAssistance": 0.47935810685157776,
+        "Eligibility": 0.5109373331069946,
+        "ApplicationProcess": 0.41485998034477234,
+        "TimelineFrequency": 0.38158392906188965,
+        "AuthoritiesGovernance": 0.4117893576622009,
+        "DefinitionsReferences": 0.3957386612892151
+      }
+    },
+    {
+      "sentence": "Many women have expressed gratitude for the financial support provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5319247245788574,
+      "similarities": {
+        "ContextObjective": 0.4154420495033264,
+        "BenefitsAssistance": 0.5319247245788574,
+        "Eligibility": 0.43259066343307495,
+        "ApplicationProcess": 0.37424129247665405,
+        "TimelineFrequency": 0.3721120059490204,
+        "AuthoritiesGovernance": 0.3793141841888428,
+        "DefinitionsReferences": 0.40844833850860596
+      }
+    },
+    {
+      "sentence": "This assistance has enabled them to access better healthcare services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5176300406455994,
+      "similarities": {
+        "ContextObjective": 0.4201657176017761,
+        "BenefitsAssistance": 0.5176300406455994,
+        "Eligibility": 0.4652426838874817,
+        "ApplicationProcess": 0.4157636761665344,
+        "TimelineFrequency": 0.3827287256717682,
+        "AuthoritiesGovernance": 0.42984381318092346,
+        "DefinitionsReferences": 0.3770972490310669
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana is an example of targeted welfare initiatives in India.",
+      "role": "Eligibility",
+      "confidence": 0.5175043344497681,
+      "similarities": {
+        "ContextObjective": 0.49978384375572205,
+        "BenefitsAssistance": 0.4347257614135742,
+        "Eligibility": 0.5175043344497681,
+        "ApplicationProcess": 0.39453911781311035,
+        "TimelineFrequency": 0.3742188811302185,
+        "AuthoritiesGovernance": 0.4386739730834961,
+        "DefinitionsReferences": 0.36469197273254395
+      }
+    },
+    {
+      "sentence": "It highlights the importance of government intervention in healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46900758147239685,
+      "similarities": {
+        "ContextObjective": 0.4189585745334625,
+        "BenefitsAssistance": 0.46900758147239685,
+        "Eligibility": 0.416340172290802,
+        "ApplicationProcess": 0.3790745735168457,
+        "TimelineFrequency": 0.3716314733028412,
+        "AuthoritiesGovernance": 0.44203561544418335,
+        "DefinitionsReferences": 0.42958658933639526
+      }
+    },
+    {
+      "sentence": "Through this scheme, the Madhya Pradesh government aims to create a healthier future for women and children.",
+      "role": "ContextObjective",
+      "confidence": 0.5029020309448242,
+      "similarities": {
+        "ContextObjective": 0.5029020309448242,
+        "BenefitsAssistance": 0.3805168867111206,
+        "Eligibility": 0.4144938588142395,
+        "ApplicationProcess": 0.37897324562072754,
+        "TimelineFrequency": 0.35439130663871765,
+        "AuthoritiesGovernance": 0.39189815521240234,
+        "DefinitionsReferences": 0.3428201675415039
+      }
+    },
+    {
+      "sentence": "The initiative is a testament to the government's focus on social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.513134241104126,
+      "similarities": {
+        "ContextObjective": 0.513134241104126,
+        "BenefitsAssistance": 0.4317641854286194,
+        "Eligibility": 0.44261646270751953,
+        "ApplicationProcess": 0.38565534353256226,
+        "TimelineFrequency": 0.3424389660358429,
+        "AuthoritiesGovernance": 0.42043736577033997,
+        "DefinitionsReferences": 0.3954630494117737
+      }
+    },
+    {
+      "sentence": "It underscores the need for continuous support for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.4523387551307678,
+      "similarities": {
+        "ContextObjective": 0.4399639070034027,
+        "BenefitsAssistance": 0.44079694151878357,
+        "Eligibility": 0.4523387551307678,
+        "ApplicationProcess": 0.3679249882698059,
+        "TimelineFrequency": 0.3963867425918579,
+        "AuthoritiesGovernance": 0.37263938784599304,
+        "DefinitionsReferences": 0.37161552906036377
+      }
+    },
+    {
+      "sentence": "The Prasuti Sahayata Yojana is a model that other states can consider replicating.",
+      "role": "Eligibility",
+      "confidence": 0.49345335364341736,
+      "similarities": {
+        "ContextObjective": 0.48218998312950134,
+        "BenefitsAssistance": 0.4402884244918823,
+        "Eligibility": 0.49345335364341736,
+        "ApplicationProcess": 0.44776132702827454,
+        "TimelineFrequency": 0.4091068506240845,
+        "AuthoritiesGovernance": 0.4472208023071289,
+        "DefinitionsReferences": 0.41632091999053955
+      }
+    },
+    {
+      "sentence": "The scheme is a step towards achieving gender equality in healthcare access.",
+      "role": "ContextObjective",
+      "confidence": 0.5005171895027161,
+      "similarities": {
+        "ContextObjective": 0.5005171895027161,
+        "BenefitsAssistance": 0.4357147812843323,
+        "Eligibility": 0.4668741822242737,
+        "ApplicationProcess": 0.439231812953949,
+        "TimelineFrequency": 0.40359002351760864,
+        "AuthoritiesGovernance": 0.4421830177307129,
+        "DefinitionsReferences": 0.3505125045776367
+      }
+    },
+    {
+      "sentence": "Overall, it is a comprehensive welfare initiative that addresses critical health issues in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4846043288707733,
+      "similarities": {
+        "ContextObjective": 0.4311094880104065,
+        "BenefitsAssistance": 0.4846043288707733,
+        "Eligibility": 0.4604906439781189,
+        "ApplicationProcess": 0.4182034134864807,
+        "TimelineFrequency": 0.393515408039093,
+        "AuthoritiesGovernance": 0.45434895157814026,
+        "DefinitionsReferences": 0.36295896768569946
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "BenefitsAssistance": 20,
+    "Eligibility": 10,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:35:46.471502"
+}

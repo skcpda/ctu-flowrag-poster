@@ -1,0 +1,868 @@
+{
+  "scheme_name": "Palanhar Scheme",
+  "total_sentences": 61,
+  "labeled_sentences": [
+    {
+      "sentence": "The Palanhar Scheme is a welfare initiative launched by the Government of Rajasthan in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5141072273254395,
+      "similarities": {
+        "ContextObjective": 0.5141072273254395,
+        "BenefitsAssistance": 0.4182421565055847,
+        "Eligibility": 0.4689755439758301,
+        "ApplicationProcess": 0.4212489426136017,
+        "TimelineFrequency": 0.3983749747276306,
+        "AuthoritiesGovernance": 0.463998019695282,
+        "DefinitionsReferences": 0.34599918127059937
+      }
+    },
+    {
+      "sentence": "It was officially launched in the year 2009.",
+      "role": "ContextObjective",
+      "confidence": 0.5237392783164978,
+      "similarities": {
+        "ContextObjective": 0.5237392783164978,
+        "BenefitsAssistance": 0.4247039556503296,
+        "Eligibility": 0.4052218198776245,
+        "ApplicationProcess": 0.4705302119255066,
+        "TimelineFrequency": 0.42236703634262085,
+        "AuthoritiesGovernance": 0.37111300230026245,
+        "DefinitionsReferences": 0.3855609893798828
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide financial assistance and support to orphaned children and those who have lost one or both parents.",
+      "role": "ContextObjective",
+      "confidence": 0.5658367872238159,
+      "similarities": {
+        "ContextObjective": 0.5658367872238159,
+        "BenefitsAssistance": 0.5120250582695007,
+        "Eligibility": 0.5100240111351013,
+        "ApplicationProcess": 0.4396181106567383,
+        "TimelineFrequency": 0.4353847801685333,
+        "AuthoritiesGovernance": 0.3990996479988098,
+        "DefinitionsReferences": 0.366704523563385
+      }
+    },
+    {
+      "sentence": "The primary objective of the Palanhar Scheme is to ensure that children who are without parental care receive adequate support for their upbringing and education.",
+      "role": "ContextObjective",
+      "confidence": 0.5575968027114868,
+      "similarities": {
+        "ContextObjective": 0.5575968027114868,
+        "BenefitsAssistance": 0.4496217966079712,
+        "Eligibility": 0.46609413623809814,
+        "ApplicationProcess": 0.44215983152389526,
+        "TimelineFrequency": 0.40560609102249146,
+        "AuthoritiesGovernance": 0.4273989796638489,
+        "DefinitionsReferences": 0.3547525405883789
+      }
+    },
+    {
+      "sentence": "The scheme seeks to create a nurturing environment for these children to grow and develop into responsible citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5300290584564209,
+      "similarities": {
+        "ContextObjective": 0.5300290584564209,
+        "BenefitsAssistance": 0.31537678837776184,
+        "Eligibility": 0.44504499435424805,
+        "ApplicationProcess": 0.4060477614402771,
+        "TimelineFrequency": 0.3647402226924896,
+        "AuthoritiesGovernance": 0.3688291013240814,
+        "DefinitionsReferences": 0.36249011754989624
+      }
+    },
+    {
+      "sentence": "Under the Palanhar Scheme, financial assistance is provided to guardians or caretakers of orphaned children.",
+      "role": "Eligibility",
+      "confidence": 0.49806153774261475,
+      "similarities": {
+        "ContextObjective": 0.4680459499359131,
+        "BenefitsAssistance": 0.49151045083999634,
+        "Eligibility": 0.49806153774261475,
+        "ApplicationProcess": 0.4247320890426636,
+        "TimelineFrequency": 0.40396085381507874,
+        "AuthoritiesGovernance": 0.4370923638343811,
+        "DefinitionsReferences": 0.3565022051334381
+      }
+    },
+    {
+      "sentence": "The amount of financial assistance is set at ₹1,500 per month for each child.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5595588088035583,
+      "similarities": {
+        "ContextObjective": 0.4321507215499878,
+        "BenefitsAssistance": 0.5595588088035583,
+        "Eligibility": 0.5069229602813721,
+        "ApplicationProcess": 0.4372250437736511,
+        "TimelineFrequency": 0.4560971260070801,
+        "AuthoritiesGovernance": 0.39784207940101624,
+        "DefinitionsReferences": 0.3695307970046997
+      }
+    },
+    {
+      "sentence": "This assistance is aimed at covering basic needs such as food, clothing, and education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5855860710144043,
+      "similarities": {
+        "ContextObjective": 0.49390387535095215,
+        "BenefitsAssistance": 0.5855860710144043,
+        "Eligibility": 0.5222113132476807,
+        "ApplicationProcess": 0.4613916873931885,
+        "TimelineFrequency": 0.440909743309021,
+        "AuthoritiesGovernance": 0.48194798827171326,
+        "DefinitionsReferences": 0.445343017578125
+      }
+    },
+    {
+      "sentence": "The scheme also provides for educational support by covering the costs of school fees, uniforms, and books.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5757067203521729,
+      "similarities": {
+        "ContextObjective": 0.49414193630218506,
+        "BenefitsAssistance": 0.5757067203521729,
+        "Eligibility": 0.42408013343811035,
+        "ApplicationProcess": 0.4325610399246216,
+        "TimelineFrequency": 0.426273375749588,
+        "AuthoritiesGovernance": 0.3855675458908081,
+        "DefinitionsReferences": 0.4393419623374939
+      }
+    },
+    {
+      "sentence": "The financial assistance is disbursed directly to the bank accounts of the guardians or caretakers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5517560243606567,
+      "similarities": {
+        "ContextObjective": 0.38436394929885864,
+        "BenefitsAssistance": 0.5517560243606567,
+        "Eligibility": 0.4705018103122711,
+        "ApplicationProcess": 0.4214158058166504,
+        "TimelineFrequency": 0.3800022006034851,
+        "AuthoritiesGovernance": 0.44157910346984863,
+        "DefinitionsReferences": 0.3604969382286072
+      }
+    },
+    {
+      "sentence": "To be eligible for the Palanhar Scheme, the child must be a resident of Rajasthan.",
+      "role": "Eligibility",
+      "confidence": 0.544869065284729,
+      "similarities": {
+        "ContextObjective": 0.42237234115600586,
+        "BenefitsAssistance": 0.3749042749404907,
+        "Eligibility": 0.544869065284729,
+        "ApplicationProcess": 0.4918273091316223,
+        "TimelineFrequency": 0.4231370687484741,
+        "AuthoritiesGovernance": 0.3683832585811615,
+        "DefinitionsReferences": 0.3196566104888916
+      }
+    },
+    {
+      "sentence": "The child must be below the age of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.5661925077438354,
+      "similarities": {
+        "ContextObjective": 0.481980562210083,
+        "BenefitsAssistance": 0.4936353862285614,
+        "Eligibility": 0.5661925077438354,
+        "ApplicationProcess": 0.5339439511299133,
+        "TimelineFrequency": 0.5051050186157227,
+        "AuthoritiesGovernance": 0.4173072278499603,
+        "DefinitionsReferences": 0.42846325039863586
+      }
+    },
+    {
+      "sentence": "The child must have lost one or both parents.",
+      "role": "Eligibility",
+      "confidence": 0.4617057740688324,
+      "similarities": {
+        "ContextObjective": 0.4242614209651947,
+        "BenefitsAssistance": 0.45749080181121826,
+        "Eligibility": 0.4617057740688324,
+        "ApplicationProcess": 0.43555939197540283,
+        "TimelineFrequency": 0.4263850450515747,
+        "AuthoritiesGovernance": 0.3827417492866516,
+        "DefinitionsReferences": 0.381338894367218
+      }
+    },
+    {
+      "sentence": "The guardians or caretakers must also meet certain criteria to qualify for the assistance.",
+      "role": "Eligibility",
+      "confidence": 0.676257848739624,
+      "similarities": {
+        "ContextObjective": 0.5023416876792908,
+        "BenefitsAssistance": 0.5619596242904663,
+        "Eligibility": 0.676257848739624,
+        "ApplicationProcess": 0.5851390361785889,
+        "TimelineFrequency": 0.5359165072441101,
+        "AuthoritiesGovernance": 0.48683837056159973,
+        "DefinitionsReferences": 0.45845699310302734
+      }
+    },
+    {
+      "sentence": "The guardian must be a relative of the child or a person who has taken responsibility for the child's upbringing.",
+      "role": "Eligibility",
+      "confidence": 0.530449390411377,
+      "similarities": {
+        "ContextObjective": 0.40884149074554443,
+        "BenefitsAssistance": 0.4058004915714264,
+        "Eligibility": 0.530449390411377,
+        "ApplicationProcess": 0.4690241515636444,
+        "TimelineFrequency": 0.40353482961654663,
+        "AuthoritiesGovernance": 0.45891737937927246,
+        "DefinitionsReferences": 0.40152594447135925
+      }
+    },
+    {
+      "sentence": "The income of the guardian or caretaker must not exceed ₹2.5 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.522071897983551,
+      "similarities": {
+        "ContextObjective": 0.39950844645500183,
+        "BenefitsAssistance": 0.5054807662963867,
+        "Eligibility": 0.522071897983551,
+        "ApplicationProcess": 0.45380568504333496,
+        "TimelineFrequency": 0.40138572454452515,
+        "AuthoritiesGovernance": 0.3768136501312256,
+        "DefinitionsReferences": 0.3840446472167969
+      }
+    },
+    {
+      "sentence": "The application process for the Palanhar Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6861544847488403,
+      "similarities": {
+        "ContextObjective": 0.5824008584022522,
+        "BenefitsAssistance": 0.4982244372367859,
+        "Eligibility": 0.5954406261444092,
+        "ApplicationProcess": 0.6861544847488403,
+        "TimelineFrequency": 0.58090740442276,
+        "AuthoritiesGovernance": 0.503895103931427,
+        "DefinitionsReferences": 0.4716203808784485
+      }
+    },
+    {
+      "sentence": "First, the guardian or caretaker must obtain the application form from the local Child Welfare Committee or online through the Rajasthan government’s official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6488515734672546,
+      "similarities": {
+        "ContextObjective": 0.429861843585968,
+        "BenefitsAssistance": 0.4401699900627136,
+        "Eligibility": 0.5066796541213989,
+        "ApplicationProcess": 0.6488515734672546,
+        "TimelineFrequency": 0.4652543067932129,
+        "AuthoritiesGovernance": 0.45457205176353455,
+        "DefinitionsReferences": 0.38225460052490234
+      }
+    },
+    {
+      "sentence": "The completed application form must be submitted along with required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7487635612487793,
+      "similarities": {
+        "ContextObjective": 0.4947877526283264,
+        "BenefitsAssistance": 0.5290642976760864,
+        "Eligibility": 0.5965403914451599,
+        "ApplicationProcess": 0.7487635612487793,
+        "TimelineFrequency": 0.5775085687637329,
+        "AuthoritiesGovernance": 0.4719315469264984,
+        "DefinitionsReferences": 0.511519193649292
+      }
+    },
+    {
+      "sentence": "Required documents include the child’s birth certificate, death certificate of the parents, and proof of income of the guardian.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5992387533187866,
+      "similarities": {
+        "ContextObjective": 0.43747636675834656,
+        "BenefitsAssistance": 0.5703439116477966,
+        "Eligibility": 0.5459615588188171,
+        "ApplicationProcess": 0.5992387533187866,
+        "TimelineFrequency": 0.4807118773460388,
+        "AuthoritiesGovernance": 0.4393942654132843,
+        "DefinitionsReferences": 0.5129762887954712
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the Child Welfare Committee.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5699254274368286,
+      "similarities": {
+        "ContextObjective": 0.4544485807418823,
+        "BenefitsAssistance": 0.42899489402770996,
+        "Eligibility": 0.5108877420425415,
+        "ApplicationProcess": 0.5699254274368286,
+        "TimelineFrequency": 0.492138147354126,
+        "AuthoritiesGovernance": 0.4546869695186615,
+        "DefinitionsReferences": 0.38819628953933716
+      }
+    },
+    {
+      "sentence": "The committee verifies the details and conducts a home visit to assess the living conditions of the child.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5330227613449097,
+      "similarities": {
+        "ContextObjective": 0.4249405264854431,
+        "BenefitsAssistance": 0.4748394191265106,
+        "Eligibility": 0.47215166687965393,
+        "ApplicationProcess": 0.5330227613449097,
+        "TimelineFrequency": 0.39250123500823975,
+        "AuthoritiesGovernance": 0.43247663974761963,
+        "DefinitionsReferences": 0.40424302220344543
+      }
+    },
+    {
+      "sentence": "If the application is approved, the financial assistance is initiated.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6163243651390076,
+      "similarities": {
+        "ContextObjective": 0.5318341255187988,
+        "BenefitsAssistance": 0.6047999858856201,
+        "Eligibility": 0.601691722869873,
+        "ApplicationProcess": 0.6163243651390076,
+        "TimelineFrequency": 0.5454674363136292,
+        "AuthoritiesGovernance": 0.4719349443912506,
+        "DefinitionsReferences": 0.4214611351490021
+      }
+    },
+    {
+      "sentence": "The assistance is provided on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6228286027908325,
+      "similarities": {
+        "ContextObjective": 0.5153272747993469,
+        "BenefitsAssistance": 0.6228286027908325,
+        "Eligibility": 0.554279625415802,
+        "ApplicationProcess": 0.5284421443939209,
+        "TimelineFrequency": 0.5676513314247131,
+        "AuthoritiesGovernance": 0.5208593010902405,
+        "DefinitionsReferences": 0.4753059446811676
+      }
+    },
+    {
+      "sentence": "Payments are typically made through direct bank transfers to ensure transparency and efficiency.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5549676418304443,
+      "similarities": {
+        "ContextObjective": 0.4300518035888672,
+        "BenefitsAssistance": 0.5549676418304443,
+        "Eligibility": 0.4846571087837219,
+        "ApplicationProcess": 0.5130876302719116,
+        "TimelineFrequency": 0.44133028388023376,
+        "AuthoritiesGovernance": 0.4620513916015625,
+        "DefinitionsReferences": 0.4181292951107025
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for regular monitoring of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5673890709877014,
+      "similarities": {
+        "ContextObjective": 0.5100523233413696,
+        "BenefitsAssistance": 0.5626440048217773,
+        "Eligibility": 0.5673890709877014,
+        "ApplicationProcess": 0.4929187595844269,
+        "TimelineFrequency": 0.47146567702293396,
+        "AuthoritiesGovernance": 0.453372061252594,
+        "DefinitionsReferences": 0.447704553604126
+      }
+    },
+    {
+      "sentence": "The Child Welfare Committee is responsible for overseeing the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.574974775314331,
+      "similarities": {
+        "ContextObjective": 0.4953726828098297,
+        "BenefitsAssistance": 0.42585307359695435,
+        "Eligibility": 0.4599246382713318,
+        "ApplicationProcess": 0.4264259338378906,
+        "TimelineFrequency": 0.3579922616481781,
+        "AuthoritiesGovernance": 0.574974775314331,
+        "DefinitionsReferences": 0.3792217969894409
+      }
+    },
+    {
+      "sentence": "They ensure that the funds are used for the intended purposes.",
+      "role": "ContextObjective",
+      "confidence": 0.563066840171814,
+      "similarities": {
+        "ContextObjective": 0.563066840171814,
+        "BenefitsAssistance": 0.5487340092658997,
+        "Eligibility": 0.5409042239189148,
+        "ApplicationProcess": 0.4941835403442383,
+        "TimelineFrequency": 0.4530951976776123,
+        "AuthoritiesGovernance": 0.49080443382263184,
+        "DefinitionsReferences": 0.47836416959762573
+      }
+    },
+    {
+      "sentence": "The Palanhar Scheme has been instrumental in supporting thousands of orphaned children in Rajasthan.",
+      "role": "ContextObjective",
+      "confidence": 0.4291422963142395,
+      "similarities": {
+        "ContextObjective": 0.4291422963142395,
+        "BenefitsAssistance": 0.3519439697265625,
+        "Eligibility": 0.3814060091972351,
+        "ApplicationProcess": 0.3135989308357239,
+        "TimelineFrequency": 0.3102611303329468,
+        "AuthoritiesGovernance": 0.32991451025009155,
+        "DefinitionsReferences": 0.30478882789611816
+      }
+    },
+    {
+      "sentence": "As of 2023, it is estimated that over 50,000 children have benefited from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4821108281612396,
+      "similarities": {
+        "ContextObjective": 0.4821108281612396,
+        "BenefitsAssistance": 0.404263973236084,
+        "Eligibility": 0.4220893085002899,
+        "ApplicationProcess": 0.36762720346450806,
+        "TimelineFrequency": 0.3640316128730774,
+        "AuthoritiesGovernance": 0.3549029231071472,
+        "DefinitionsReferences": 0.33654242753982544
+      }
+    },
+    {
+      "sentence": "The scheme has contributed significantly to reducing the vulnerability of orphaned children.",
+      "role": "ContextObjective",
+      "confidence": 0.43628785014152527,
+      "similarities": {
+        "ContextObjective": 0.43628785014152527,
+        "BenefitsAssistance": 0.3642585873603821,
+        "Eligibility": 0.4136245846748352,
+        "ApplicationProcess": 0.35387882590293884,
+        "TimelineFrequency": 0.33767127990722656,
+        "AuthoritiesGovernance": 0.34209343791007996,
+        "DefinitionsReferences": 0.30126917362213135
+      }
+    },
+    {
+      "sentence": "It has also played a role in promoting education among these children.",
+      "role": "ContextObjective",
+      "confidence": 0.46716755628585815,
+      "similarities": {
+        "ContextObjective": 0.46716755628585815,
+        "BenefitsAssistance": 0.38343071937561035,
+        "Eligibility": 0.3765457570552826,
+        "ApplicationProcess": 0.37577301263809204,
+        "TimelineFrequency": 0.3556516170501709,
+        "AuthoritiesGovernance": 0.3837624192237854,
+        "DefinitionsReferences": 0.3871617615222931
+      }
+    },
+    {
+      "sentence": "The Rajasthan government has allocated a budget of ₹100 crore for the Palanhar Scheme for the financial year 2022-2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4585250914096832,
+      "similarities": {
+        "ContextObjective": 0.446303129196167,
+        "BenefitsAssistance": 0.4585250914096832,
+        "Eligibility": 0.4509657025337219,
+        "ApplicationProcess": 0.37937337160110474,
+        "TimelineFrequency": 0.4159541130065918,
+        "AuthoritiesGovernance": 0.4161507487297058,
+        "DefinitionsReferences": 0.3285236060619354
+      }
+    },
+    {
+      "sentence": "This budget is aimed at expanding the reach of the scheme and increasing the number of beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5288496017456055,
+      "similarities": {
+        "ContextObjective": 0.5288496017456055,
+        "BenefitsAssistance": 0.4901621341705322,
+        "Eligibility": 0.5200591087341309,
+        "ApplicationProcess": 0.39470428228378296,
+        "TimelineFrequency": 0.41070395708084106,
+        "AuthoritiesGovernance": 0.4201154112815857,
+        "DefinitionsReferences": 0.38181108236312866
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public and has garnered positive feedback from various stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5516579151153564,
+      "similarities": {
+        "ContextObjective": 0.5516579151153564,
+        "BenefitsAssistance": 0.4247523248195648,
+        "Eligibility": 0.4652087390422821,
+        "ApplicationProcess": 0.4275580644607544,
+        "TimelineFrequency": 0.3738657832145691,
+        "AuthoritiesGovernance": 0.4441471993923187,
+        "DefinitionsReferences": 0.3976781368255615
+      }
+    },
+    {
+      "sentence": "Community organizations and NGOs have also collaborated with the government to support the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5585806369781494,
+      "similarities": {
+        "ContextObjective": 0.47189977765083313,
+        "BenefitsAssistance": 0.4614275097846985,
+        "Eligibility": 0.4489508271217346,
+        "ApplicationProcess": 0.4117245078086853,
+        "TimelineFrequency": 0.3543110191822052,
+        "AuthoritiesGovernance": 0.5585806369781494,
+        "DefinitionsReferences": 0.4314053952693939
+      }
+    },
+    {
+      "sentence": "The Palanhar Scheme is part of a broader initiative by the Rajasthan government to enhance child welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4608069658279419,
+      "similarities": {
+        "ContextObjective": 0.4608069658279419,
+        "BenefitsAssistance": 0.39899808168411255,
+        "Eligibility": 0.4174310564994812,
+        "ApplicationProcess": 0.38648051023483276,
+        "TimelineFrequency": 0.36021044850349426,
+        "AuthoritiesGovernance": 0.4426579475402832,
+        "DefinitionsReferences": 0.3536892235279083
+      }
+    },
+    {
+      "sentence": "It aligns with national policies aimed at protecting the rights of children.",
+      "role": "Eligibility",
+      "confidence": 0.4560164213180542,
+      "similarities": {
+        "ContextObjective": 0.4503443241119385,
+        "BenefitsAssistance": 0.40411654114723206,
+        "Eligibility": 0.4560164213180542,
+        "ApplicationProcess": 0.41666901111602783,
+        "TimelineFrequency": 0.38647735118865967,
+        "AuthoritiesGovernance": 0.4344016909599304,
+        "DefinitionsReferences": 0.45246946811676025
+      }
+    },
+    {
+      "sentence": "The scheme also complements other welfare programs such as the Integrated Child Protection Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4878990650177002,
+      "similarities": {
+        "ContextObjective": 0.4878990650177002,
+        "BenefitsAssistance": 0.4781375527381897,
+        "Eligibility": 0.40799370408058167,
+        "ApplicationProcess": 0.3795756697654724,
+        "TimelineFrequency": 0.35789668560028076,
+        "AuthoritiesGovernance": 0.37323319911956787,
+        "DefinitionsReferences": 0.3778379261493683
+      }
+    },
+    {
+      "sentence": "The Rajasthan government continues to promote awareness about the Palanhar Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.46438586711883545,
+      "similarities": {
+        "ContextObjective": 0.46438586711883545,
+        "BenefitsAssistance": 0.39431291818618774,
+        "Eligibility": 0.3939085602760315,
+        "ApplicationProcess": 0.40687140822410583,
+        "TimelineFrequency": 0.35604774951934814,
+        "AuthoritiesGovernance": 0.44205987453460693,
+        "DefinitionsReferences": 0.3782064616680145
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are conducted to educate potential beneficiaries about the application process.",
+      "role": "Eligibility",
+      "confidence": 0.5800889134407043,
+      "similarities": {
+        "ContextObjective": 0.5083248019218445,
+        "BenefitsAssistance": 0.48594287037849426,
+        "Eligibility": 0.5800889134407043,
+        "ApplicationProcess": 0.556842565536499,
+        "TimelineFrequency": 0.5289514660835266,
+        "AuthoritiesGovernance": 0.4888027310371399,
+        "DefinitionsReferences": 0.440594881772995
+      }
+    },
+    {
+      "sentence": "The government has also launched a dedicated helpline for queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5212844014167786,
+      "similarities": {
+        "ContextObjective": 0.5212844014167786,
+        "BenefitsAssistance": 0.4889850914478302,
+        "Eligibility": 0.4899669289588928,
+        "ApplicationProcess": 0.4877315163612366,
+        "TimelineFrequency": 0.4166165590286255,
+        "AuthoritiesGovernance": 0.4614889323711395,
+        "DefinitionsReferences": 0.4131469130516052
+      }
+    },
+    {
+      "sentence": "This helpline provides assistance to guardians and caretakers seeking information.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.540154755115509,
+      "similarities": {
+        "ContextObjective": 0.4793083071708679,
+        "BenefitsAssistance": 0.540154755115509,
+        "Eligibility": 0.5141047835350037,
+        "ApplicationProcess": 0.4932529926300049,
+        "TimelineFrequency": 0.4680681526660919,
+        "AuthoritiesGovernance": 0.5135401487350464,
+        "DefinitionsReferences": 0.4529654383659363
+      }
+    },
+    {
+      "sentence": "The Palanhar Scheme reflects the commitment of the Rajasthan government to child welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.3975865840911865,
+      "similarities": {
+        "ContextObjective": 0.3975865840911865,
+        "BenefitsAssistance": 0.35589277744293213,
+        "Eligibility": 0.39502668380737305,
+        "ApplicationProcess": 0.3678194284439087,
+        "TimelineFrequency": 0.33378809690475464,
+        "AuthoritiesGovernance": 0.37635499238967896,
+        "DefinitionsReferences": 0.3378254175186157
+      }
+    },
+    {
+      "sentence": "It aims to create a supportive environment for children in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5342353582382202,
+      "similarities": {
+        "ContextObjective": 0.5342353582382202,
+        "BenefitsAssistance": 0.42904752492904663,
+        "Eligibility": 0.4877818524837494,
+        "ApplicationProcess": 0.4214276075363159,
+        "TimelineFrequency": 0.39553600549697876,
+        "AuthoritiesGovernance": 0.43086642026901245,
+        "DefinitionsReferences": 0.3875102996826172
+      }
+    },
+    {
+      "sentence": "The scheme is a vital step towards ensuring that no child is left behind due to the loss of parental care.",
+      "role": "ContextObjective",
+      "confidence": 0.505961537361145,
+      "similarities": {
+        "ContextObjective": 0.505961537361145,
+        "BenefitsAssistance": 0.42194387316703796,
+        "Eligibility": 0.4606406092643738,
+        "ApplicationProcess": 0.4362729787826538,
+        "TimelineFrequency": 0.3908793330192566,
+        "AuthoritiesGovernance": 0.3941717743873596,
+        "DefinitionsReferences": 0.36707666516304016
+      }
+    },
+    {
+      "sentence": "The success of the Palanhar Scheme has led to discussions about similar initiatives in other states.",
+      "role": "ContextObjective",
+      "confidence": 0.5017912983894348,
+      "similarities": {
+        "ContextObjective": 0.5017912983894348,
+        "BenefitsAssistance": 0.3980722427368164,
+        "Eligibility": 0.44966986775398254,
+        "ApplicationProcess": 0.3987311124801636,
+        "TimelineFrequency": 0.35388022661209106,
+        "AuthoritiesGovernance": 0.43875256180763245,
+        "DefinitionsReferences": 0.38353231549263
+      }
+    },
+    {
+      "sentence": "The Rajasthan government is continuously evaluating the scheme to enhance its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.48029524087905884,
+      "similarities": {
+        "ContextObjective": 0.48029524087905884,
+        "BenefitsAssistance": 0.41006484627723694,
+        "Eligibility": 0.43221455812454224,
+        "ApplicationProcess": 0.4535712003707886,
+        "TimelineFrequency": 0.4189091622829437,
+        "AuthoritiesGovernance": 0.48023897409439087,
+        "DefinitionsReferences": 0.3963874578475952
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account for future improvements.",
+      "role": "Eligibility",
+      "confidence": 0.5465255975723267,
+      "similarities": {
+        "ContextObjective": 0.5075939893722534,
+        "BenefitsAssistance": 0.5436069965362549,
+        "Eligibility": 0.5465255975723267,
+        "ApplicationProcess": 0.4765492081642151,
+        "TimelineFrequency": 0.4682844579219818,
+        "AuthoritiesGovernance": 0.5153127312660217,
+        "DefinitionsReferences": 0.465570867061615
+      }
+    },
+    {
+      "sentence": "The Palanhar Scheme stands as a testament to the government's dedication to child welfare in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4303564727306366,
+      "similarities": {
+        "ContextObjective": 0.4303564727306366,
+        "BenefitsAssistance": 0.37865936756134033,
+        "Eligibility": 0.40494027733802795,
+        "ApplicationProcess": 0.3575744032859802,
+        "TimelineFrequency": 0.3119189739227295,
+        "AuthoritiesGovernance": 0.35961419343948364,
+        "DefinitionsReferences": 0.36484915018081665
+      }
+    },
+    {
+      "sentence": "It serves as a model for other states to consider in their efforts to support orphaned children.",
+      "role": "Eligibility",
+      "confidence": 0.47787174582481384,
+      "similarities": {
+        "ContextObjective": 0.4497319459915161,
+        "BenefitsAssistance": 0.40624701976776123,
+        "Eligibility": 0.47787174582481384,
+        "ApplicationProcess": 0.3998700976371765,
+        "TimelineFrequency": 0.39285796880722046,
+        "AuthoritiesGovernance": 0.4157141447067261,
+        "DefinitionsReferences": 0.40779727697372437
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial part of the social safety net for vulnerable populations in Rajasthan.",
+      "role": "Eligibility",
+      "confidence": 0.46480464935302734,
+      "similarities": {
+        "ContextObjective": 0.4476046562194824,
+        "BenefitsAssistance": 0.42430147528648376,
+        "Eligibility": 0.46480464935302734,
+        "ApplicationProcess": 0.37487688660621643,
+        "TimelineFrequency": 0.3491515815258026,
+        "AuthoritiesGovernance": 0.3666285276412964,
+        "DefinitionsReferences": 0.31329816579818726
+      }
+    },
+    {
+      "sentence": "It underscores the importance of community support in the upbringing of children.",
+      "role": "ContextObjective",
+      "confidence": 0.42874953150749207,
+      "similarities": {
+        "ContextObjective": 0.42874953150749207,
+        "BenefitsAssistance": 0.40660738945007324,
+        "Eligibility": 0.3796047568321228,
+        "ApplicationProcess": 0.3273516893386841,
+        "TimelineFrequency": 0.3438873887062073,
+        "AuthoritiesGovernance": 0.384025514125824,
+        "DefinitionsReferences": 0.38220149278640747
+      }
+    },
+    {
+      "sentence": "The Palanhar Scheme is a significant initiative that addresses the immediate needs of orphaned children.",
+      "role": "ContextObjective",
+      "confidence": 0.5156952142715454,
+      "similarities": {
+        "ContextObjective": 0.5156952142715454,
+        "BenefitsAssistance": 0.40016332268714905,
+        "Eligibility": 0.4230154752731323,
+        "ApplicationProcess": 0.3825910687446594,
+        "TimelineFrequency": 0.3738964796066284,
+        "AuthoritiesGovernance": 0.39629220962524414,
+        "DefinitionsReferences": 0.31827542185783386
+      }
+    },
+    {
+      "sentence": "It also aims to provide a pathway for their future success and well-being.",
+      "role": "ContextObjective",
+      "confidence": 0.5274456739425659,
+      "similarities": {
+        "ContextObjective": 0.5274456739425659,
+        "BenefitsAssistance": 0.394608736038208,
+        "Eligibility": 0.46206170320510864,
+        "ApplicationProcess": 0.4101331830024719,
+        "TimelineFrequency": 0.3882433772087097,
+        "AuthoritiesGovernance": 0.37904322147369385,
+        "DefinitionsReferences": 0.3824663460254669
+      }
+    },
+    {
+      "sentence": "The Rajasthan government remains committed to the ongoing success of the Palanhar Scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4112907648086548,
+      "similarities": {
+        "ContextObjective": 0.4112575054168701,
+        "BenefitsAssistance": 0.33232659101486206,
+        "Eligibility": 0.3583258092403412,
+        "ApplicationProcess": 0.3703598976135254,
+        "TimelineFrequency": 0.32672375440597534,
+        "AuthoritiesGovernance": 0.4112907648086548,
+        "DefinitionsReferences": 0.34536615014076233
+      }
+    },
+    {
+      "sentence": "It continues to seek ways to improve and expand the program to reach more children in need.",
+      "role": "ContextObjective",
+      "confidence": 0.49306145310401917,
+      "similarities": {
+        "ContextObjective": 0.49306145310401917,
+        "BenefitsAssistance": 0.4116317331790924,
+        "Eligibility": 0.45230501890182495,
+        "ApplicationProcess": 0.4294382929801941,
+        "TimelineFrequency": 0.42494094371795654,
+        "AuthoritiesGovernance": 0.4472060799598694,
+        "DefinitionsReferences": 0.3765599727630615
+      }
+    },
+    {
+      "sentence": "The scheme is a vital resource for many families and communities across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5582492351531982,
+      "similarities": {
+        "ContextObjective": 0.5582492351531982,
+        "BenefitsAssistance": 0.4653017222881317,
+        "Eligibility": 0.5565198659896851,
+        "ApplicationProcess": 0.45400989055633545,
+        "TimelineFrequency": 0.44930514693260193,
+        "AuthoritiesGovernance": 0.44831383228302,
+        "DefinitionsReferences": 0.4300256073474884
+      }
+    },
+    {
+      "sentence": "Through the Palanhar Scheme, the Rajasthan government is making a meaningful impact on the lives of orphaned children.",
+      "role": "ContextObjective",
+      "confidence": 0.43574264645576477,
+      "similarities": {
+        "ContextObjective": 0.43574264645576477,
+        "BenefitsAssistance": 0.36322104930877686,
+        "Eligibility": 0.394509494304657,
+        "ApplicationProcess": 0.3570874333381653,
+        "TimelineFrequency": 0.34800368547439575,
+        "AuthoritiesGovernance": 0.38648563623428345,
+        "DefinitionsReferences": 0.34342706203460693
+      }
+    },
+    {
+      "sentence": "The initiative exemplifies the importance of government support in addressing social issues.",
+      "role": "ContextObjective",
+      "confidence": 0.5117125511169434,
+      "similarities": {
+        "ContextObjective": 0.5117125511169434,
+        "BenefitsAssistance": 0.4354778528213501,
+        "Eligibility": 0.4284325838088989,
+        "ApplicationProcess": 0.38248828053474426,
+        "TimelineFrequency": 0.3564099669456482,
+        "AuthoritiesGovernance": 0.43298617005348206,
+        "DefinitionsReferences": 0.40495675802230835
+      }
+    },
+    {
+      "sentence": "The Palanhar Scheme is a critical component of the broader efforts to ensure the welfare of children in India.",
+      "role": "ContextObjective",
+      "confidence": 0.47917240858078003,
+      "similarities": {
+        "ContextObjective": 0.47917240858078003,
+        "BenefitsAssistance": 0.41295868158340454,
+        "Eligibility": 0.4520386755466461,
+        "ApplicationProcess": 0.419269323348999,
+        "TimelineFrequency": 0.37497007846832275,
+        "AuthoritiesGovernance": 0.43224000930786133,
+        "DefinitionsReferences": 0.3620607256889343
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 30,
+    "Eligibility": 13,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 7,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:28:25.456993"
+}

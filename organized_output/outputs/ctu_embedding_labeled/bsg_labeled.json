@@ -1,0 +1,673 @@
+{
+  "scheme_name": "Bankable Scheme",
+  "total_sentences": 47,
+  "labeled_sentences": [
+    {
+      "sentence": "The Bankable Scheme is an initiative launched by the Government of India to promote self-employment and entrepreneurship among the youth and marginalized sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5884408950805664,
+      "similarities": {
+        "ContextObjective": 0.5884408950805664,
+        "BenefitsAssistance": 0.47967883944511414,
+        "Eligibility": 0.5292717814445496,
+        "ApplicationProcess": 0.4314298927783966,
+        "TimelineFrequency": 0.43050605058670044,
+        "AuthoritiesGovernance": 0.4233231544494629,
+        "DefinitionsReferences": 0.40102213621139526
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched in 2018 as part of the broader efforts to enhance financial inclusion and empower individuals economically.",
+      "role": "ContextObjective",
+      "confidence": 0.5287613272666931,
+      "similarities": {
+        "ContextObjective": 0.5287613272666931,
+        "BenefitsAssistance": 0.4868970215320587,
+        "Eligibility": 0.4750032126903534,
+        "ApplicationProcess": 0.42996859550476074,
+        "TimelineFrequency": 0.3846067190170288,
+        "AuthoritiesGovernance": 0.3878317177295685,
+        "DefinitionsReferences": 0.3249671459197998
+      }
+    },
+    {
+      "sentence": "The primary objective of the Bankable Scheme is to provide financial support to aspiring entrepreneurs who may lack access to traditional banking services.",
+      "role": "ContextObjective",
+      "confidence": 0.5592699646949768,
+      "similarities": {
+        "ContextObjective": 0.5592699646949768,
+        "BenefitsAssistance": 0.465222030878067,
+        "Eligibility": 0.511466383934021,
+        "ApplicationProcess": 0.4315060079097748,
+        "TimelineFrequency": 0.3968472182750702,
+        "AuthoritiesGovernance": 0.33806687593460083,
+        "DefinitionsReferences": 0.3473464846611023
+      }
+    },
+    {
+      "sentence": "The scheme aims to facilitate the establishment of small businesses by providing loans at affordable interest rates.",
+      "role": "ContextObjective",
+      "confidence": 0.5473101139068604,
+      "similarities": {
+        "ContextObjective": 0.5473101139068604,
+        "BenefitsAssistance": 0.4650162160396576,
+        "Eligibility": 0.46900123357772827,
+        "ApplicationProcess": 0.4385668635368347,
+        "TimelineFrequency": 0.43950438499450684,
+        "AuthoritiesGovernance": 0.3740372061729431,
+        "DefinitionsReferences": 0.38404539227485657
+      }
+    },
+    {
+      "sentence": "The target beneficiaries include individuals from Scheduled Castes, Scheduled Tribes, Other Backward Classes, and women entrepreneurs.",
+      "role": "Eligibility",
+      "confidence": 0.5589956641197205,
+      "similarities": {
+        "ContextObjective": 0.47024407982826233,
+        "BenefitsAssistance": 0.4438019096851349,
+        "Eligibility": 0.5589956641197205,
+        "ApplicationProcess": 0.3344331979751587,
+        "TimelineFrequency": 0.36785808205604553,
+        "AuthoritiesGovernance": 0.41965028643608093,
+        "DefinitionsReferences": 0.3861590623855591
+      }
+    },
+    {
+      "sentence": "The scheme specifically focuses on individuals aged between 18 and 45 years.",
+      "role": "Eligibility",
+      "confidence": 0.5744443535804749,
+      "similarities": {
+        "ContextObjective": 0.5602724552154541,
+        "BenefitsAssistance": 0.5038888454437256,
+        "Eligibility": 0.5744443535804749,
+        "ApplicationProcess": 0.48868244886398315,
+        "TimelineFrequency": 0.4844980239868164,
+        "AuthoritiesGovernance": 0.4178018569946289,
+        "DefinitionsReferences": 0.39044415950775146
+      }
+    },
+    {
+      "sentence": "To qualify for the Bankable Scheme, applicants must have a viable business plan that demonstrates the potential for profitability.",
+      "role": "ContextObjective",
+      "confidence": 0.582687258720398,
+      "similarities": {
+        "ContextObjective": 0.582687258720398,
+        "BenefitsAssistance": 0.46592551469802856,
+        "Eligibility": 0.566721498966217,
+        "ApplicationProcess": 0.5168298482894897,
+        "TimelineFrequency": 0.4770139753818512,
+        "AuthoritiesGovernance": 0.3382585644721985,
+        "DefinitionsReferences": 0.39351049065589905
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the scheme can range from INR 1 lakh to INR 25 lakhs depending on the nature of the business and its requirements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5960264205932617,
+      "similarities": {
+        "ContextObjective": 0.48531872034072876,
+        "BenefitsAssistance": 0.5960264205932617,
+        "Eligibility": 0.5371519327163696,
+        "ApplicationProcess": 0.4643287658691406,
+        "TimelineFrequency": 0.4331344664096832,
+        "AuthoritiesGovernance": 0.3878122568130493,
+        "DefinitionsReferences": 0.4267851710319519
+      }
+    },
+    {
+      "sentence": "The interest rate on loans under the Bankable Scheme is capped at 7 percent per annum, which is significantly lower than the market rate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39774683117866516,
+      "similarities": {
+        "ContextObjective": 0.3553469479084015,
+        "BenefitsAssistance": 0.39774683117866516,
+        "Eligibility": 0.39736586809158325,
+        "ApplicationProcess": 0.31229621171951294,
+        "TimelineFrequency": 0.35111382603645325,
+        "AuthoritiesGovernance": 0.25847840309143066,
+        "DefinitionsReferences": 0.2693137228488922
+      }
+    },
+    {
+      "sentence": "The repayment period for loans can extend up to 7 years, allowing beneficiaries ample time to establish and grow their businesses.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5066866278648376,
+      "similarities": {
+        "ContextObjective": 0.47968369722366333,
+        "BenefitsAssistance": 0.4840743839740753,
+        "Eligibility": 0.5048902630805969,
+        "ApplicationProcess": 0.4379226863384247,
+        "TimelineFrequency": 0.5066866278648376,
+        "AuthoritiesGovernance": 0.3746160864830017,
+        "DefinitionsReferences": 0.445457398891449
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also provides mentorship and training programs to help entrepreneurs develop their skills.",
+      "role": "ContextObjective",
+      "confidence": 0.4722713828086853,
+      "similarities": {
+        "ContextObjective": 0.4722713828086853,
+        "BenefitsAssistance": 0.4656602442264557,
+        "Eligibility": 0.4200786054134369,
+        "ApplicationProcess": 0.384478360414505,
+        "TimelineFrequency": 0.3785765767097473,
+        "AuthoritiesGovernance": 0.3682241439819336,
+        "DefinitionsReferences": 0.404430091381073
+      }
+    },
+    {
+      "sentence": "These training programs cover various aspects of business management, marketing strategies, and financial literacy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5177804827690125,
+      "similarities": {
+        "ContextObjective": 0.46593502163887024,
+        "BenefitsAssistance": 0.5177804827690125,
+        "Eligibility": 0.4484161138534546,
+        "ApplicationProcess": 0.41752269864082336,
+        "TimelineFrequency": 0.46174636483192444,
+        "AuthoritiesGovernance": 0.4331596791744232,
+        "DefinitionsReferences": 0.4870506525039673
+      }
+    },
+    {
+      "sentence": "The application process for the Bankable Scheme involves several steps to ensure that only genuine applicants are considered.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6323993802070618,
+      "similarities": {
+        "ContextObjective": 0.5051410794258118,
+        "BenefitsAssistance": 0.455769419670105,
+        "Eligibility": 0.5905244946479797,
+        "ApplicationProcess": 0.6323993802070618,
+        "TimelineFrequency": 0.5259414911270142,
+        "AuthoritiesGovernance": 0.4012678861618042,
+        "DefinitionsReferences": 0.398957222700119
+      }
+    },
+    {
+      "sentence": "Interested individuals must first prepare a detailed project report outlining their business idea, financial projections, and operational plans.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5259047150611877,
+      "similarities": {
+        "ContextObjective": 0.5056994557380676,
+        "BenefitsAssistance": 0.48999032378196716,
+        "Eligibility": 0.48261821269989014,
+        "ApplicationProcess": 0.5259047150611877,
+        "TimelineFrequency": 0.45209771394729614,
+        "AuthoritiesGovernance": 0.3914461135864258,
+        "DefinitionsReferences": 0.4254952669143677
+      }
+    },
+    {
+      "sentence": "The next step is to approach the nearest bank or financial institution that is authorized to process applications under the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6229766607284546,
+      "similarities": {
+        "ContextObjective": 0.5103095173835754,
+        "BenefitsAssistance": 0.4761780798435211,
+        "Eligibility": 0.5664479732513428,
+        "ApplicationProcess": 0.6229766607284546,
+        "TimelineFrequency": 0.4979344308376312,
+        "AuthoritiesGovernance": 0.4604150652885437,
+        "DefinitionsReferences": 0.4359748959541321
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit the project report along with identification documents such as Aadhaar card, PAN card, and proof of residence.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6340723037719727,
+      "similarities": {
+        "ContextObjective": 0.45269060134887695,
+        "BenefitsAssistance": 0.4958333969116211,
+        "Eligibility": 0.5267404317855835,
+        "ApplicationProcess": 0.6340723037719727,
+        "TimelineFrequency": 0.4950829744338989,
+        "AuthoritiesGovernance": 0.42092442512512207,
+        "DefinitionsReferences": 0.4564257264137268
+      }
+    },
+    {
+      "sentence": "Additional documents may include educational qualifications and any previous business experience.",
+      "role": "ApplicationProcess",
+      "confidence": 0.571888267993927,
+      "similarities": {
+        "ContextObjective": 0.4900464713573456,
+        "BenefitsAssistance": 0.5561551451683044,
+        "Eligibility": 0.5450369715690613,
+        "ApplicationProcess": 0.571888267993927,
+        "TimelineFrequency": 0.4901901185512543,
+        "AuthoritiesGovernance": 0.42424753308296204,
+        "DefinitionsReferences": 0.568749189376831
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the bank will conduct a thorough assessment of the project report and the applicant's background.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5873545408248901,
+      "similarities": {
+        "ContextObjective": 0.46795347332954407,
+        "BenefitsAssistance": 0.4877675771713257,
+        "Eligibility": 0.5372442603111267,
+        "ApplicationProcess": 0.5873545408248901,
+        "TimelineFrequency": 0.5052932500839233,
+        "AuthoritiesGovernance": 0.41698381304740906,
+        "DefinitionsReferences": 0.433772474527359
+      }
+    },
+    {
+      "sentence": "This assessment may involve personal interviews and site visits to verify the feasibility of the proposed business.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5456100106239319,
+      "similarities": {
+        "ContextObjective": 0.48057663440704346,
+        "BenefitsAssistance": 0.4261396825313568,
+        "Eligibility": 0.49599316716194153,
+        "ApplicationProcess": 0.5456100106239319,
+        "TimelineFrequency": 0.442005455493927,
+        "AuthoritiesGovernance": 0.3746969699859619,
+        "DefinitionsReferences": 0.4258306920528412
+      }
+    },
+    {
+      "sentence": "If the application is approved, the bank will disburse the loan amount in a phased manner based on the progress of the business establishment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5351086854934692,
+      "similarities": {
+        "ContextObjective": 0.4486708343029022,
+        "BenefitsAssistance": 0.4877871870994568,
+        "Eligibility": 0.4991897940635681,
+        "ApplicationProcess": 0.5351086854934692,
+        "TimelineFrequency": 0.5117048025131226,
+        "AuthoritiesGovernance": 0.4072539508342743,
+        "DefinitionsReferences": 0.400787353515625
+      }
+    },
+    {
+      "sentence": "The disbursement schedule is typically aligned with the milestones set in the project report.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5027270913124084,
+      "similarities": {
+        "ContextObjective": 0.4459322690963745,
+        "BenefitsAssistance": 0.4852404296398163,
+        "Eligibility": 0.4222431182861328,
+        "ApplicationProcess": 0.4103949964046478,
+        "TimelineFrequency": 0.5027270913124084,
+        "AuthoritiesGovernance": 0.4288509786128998,
+        "DefinitionsReferences": 0.39956891536712646
+      }
+    },
+    {
+      "sentence": "The Bankable Scheme is implemented by the Ministry of Micro, Small and Medium Enterprises (MSME) in collaboration with various financial institutions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49418526887893677,
+      "similarities": {
+        "ContextObjective": 0.4738818407058716,
+        "BenefitsAssistance": 0.49418526887893677,
+        "Eligibility": 0.48226356506347656,
+        "ApplicationProcess": 0.4327934682369232,
+        "TimelineFrequency": 0.42504966259002686,
+        "AuthoritiesGovernance": 0.4855155646800995,
+        "DefinitionsReferences": 0.41889989376068115
+      }
+    },
+    {
+      "sentence": "The MSME Ministry provides the necessary guidelines and support to banks for the effective implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5566773414611816,
+      "similarities": {
+        "ContextObjective": 0.5187148451805115,
+        "BenefitsAssistance": 0.47293567657470703,
+        "Eligibility": 0.5108486413955688,
+        "ApplicationProcess": 0.4880635142326355,
+        "TimelineFrequency": 0.4290561079978943,
+        "AuthoritiesGovernance": 0.5566773414611816,
+        "DefinitionsReferences": 0.4522508382797241
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the MSME helpline at 1800 180 6763.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4944938123226166,
+      "similarities": {
+        "ContextObjective": 0.3689013123512268,
+        "BenefitsAssistance": 0.45166105031967163,
+        "Eligibility": 0.46976399421691895,
+        "ApplicationProcess": 0.4944938123226166,
+        "TimelineFrequency": 0.47388818860054016,
+        "AuthoritiesGovernance": 0.4093584716320038,
+        "DefinitionsReferences": 0.36467158794403076
+      }
+    },
+    {
+      "sentence": "Additionally, the official website of the MSME Ministry provides comprehensive information about the scheme and its benefits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5318132638931274,
+      "similarities": {
+        "ContextObjective": 0.48666614294052124,
+        "BenefitsAssistance": 0.5318132638931274,
+        "Eligibility": 0.46771323680877686,
+        "ApplicationProcess": 0.48489323258399963,
+        "TimelineFrequency": 0.44863489270210266,
+        "AuthoritiesGovernance": 0.4678604006767273,
+        "DefinitionsReferences": 0.4567415714263916
+      }
+    },
+    {
+      "sentence": "The Bankable Scheme is part of a larger framework of government initiatives aimed at promoting entrepreneurship and self-employment.",
+      "role": "ContextObjective",
+      "confidence": 0.5464538335800171,
+      "similarities": {
+        "ContextObjective": 0.5464538335800171,
+        "BenefitsAssistance": 0.46525299549102783,
+        "Eligibility": 0.47443312406539917,
+        "ApplicationProcess": 0.4237826466560364,
+        "TimelineFrequency": 0.4149281084537506,
+        "AuthoritiesGovernance": 0.4097755253314972,
+        "DefinitionsReferences": 0.40796083211898804
+      }
+    },
+    {
+      "sentence": "These initiatives include the Pradhan Mantri Mudra Yojana and the Stand-Up India Scheme, which also focus on providing financial support to small businesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46425122022628784,
+      "similarities": {
+        "ContextObjective": 0.4386644959449768,
+        "BenefitsAssistance": 0.46425122022628784,
+        "Eligibility": 0.40778714418411255,
+        "ApplicationProcess": 0.34827476739883423,
+        "TimelineFrequency": 0.3241167962551117,
+        "AuthoritiesGovernance": 0.3341069221496582,
+        "DefinitionsReferences": 0.36676669120788574
+      }
+    },
+    {
+      "sentence": "The scheme has seen a significant uptake since its launch, with thousands of entrepreneurs benefiting from the financial assistance provided.",
+      "role": "ContextObjective",
+      "confidence": 0.4961112141609192,
+      "similarities": {
+        "ContextObjective": 0.4961112141609192,
+        "BenefitsAssistance": 0.48058974742889404,
+        "Eligibility": 0.44665518403053284,
+        "ApplicationProcess": 0.3745587170124054,
+        "TimelineFrequency": 0.3472103476524353,
+        "AuthoritiesGovernance": 0.3324700593948364,
+        "DefinitionsReferences": 0.3533187508583069
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 50,000 applications have been processed under the Bankable Scheme, resulting in the disbursement of approximately INR 1,000 crores in loans.",
+      "role": "Eligibility",
+      "confidence": 0.493735671043396,
+      "similarities": {
+        "ContextObjective": 0.4817594885826111,
+        "BenefitsAssistance": 0.49266400933265686,
+        "Eligibility": 0.493735671043396,
+        "ApplicationProcess": 0.47410231828689575,
+        "TimelineFrequency": 0.47294825315475464,
+        "AuthoritiesGovernance": 0.4015424847602844,
+        "DefinitionsReferences": 0.3980003595352173
+      }
+    },
+    {
+      "sentence": "The success of the scheme is reflected in the number of new businesses established and the jobs created as a result.",
+      "role": "ContextObjective",
+      "confidence": 0.5006033778190613,
+      "similarities": {
+        "ContextObjective": 0.5006033778190613,
+        "BenefitsAssistance": 0.3772014379501343,
+        "Eligibility": 0.41578567028045654,
+        "ApplicationProcess": 0.3844514489173889,
+        "TimelineFrequency": 0.36609703302383423,
+        "AuthoritiesGovernance": 0.3577023446559906,
+        "DefinitionsReferences": 0.36482083797454834
+      }
+    },
+    {
+      "sentence": "The government has set a target to increase the number of beneficiaries under the scheme by 25 percent annually.",
+      "role": "Eligibility",
+      "confidence": 0.47280144691467285,
+      "similarities": {
+        "ContextObjective": 0.4562041461467743,
+        "BenefitsAssistance": 0.41497957706451416,
+        "Eligibility": 0.47280144691467285,
+        "ApplicationProcess": 0.3820478320121765,
+        "TimelineFrequency": 0.36934736371040344,
+        "AuthoritiesGovernance": 0.36248689889907837,
+        "DefinitionsReferences": 0.32625773549079895
+      }
+    },
+    {
+      "sentence": "To ensure transparency and accountability, the performance of the Bankable Scheme is regularly monitored by the Ministry of MSME.",
+      "role": "Eligibility",
+      "confidence": 0.4786776602268219,
+      "similarities": {
+        "ContextObjective": 0.4361919164657593,
+        "BenefitsAssistance": 0.4756527543067932,
+        "Eligibility": 0.4786776602268219,
+        "ApplicationProcess": 0.4764751195907593,
+        "TimelineFrequency": 0.4376709461212158,
+        "AuthoritiesGovernance": 0.46498996019363403,
+        "DefinitionsReferences": 0.40814995765686035
+      }
+    },
+    {
+      "sentence": "This monitoring includes tracking the repayment rates of loans and the overall success of the businesses established under the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.508611261844635,
+      "similarities": {
+        "ContextObjective": 0.4919143319129944,
+        "BenefitsAssistance": 0.508611261844635,
+        "Eligibility": 0.48374348878860474,
+        "ApplicationProcess": 0.4617443382740021,
+        "TimelineFrequency": 0.4566366970539093,
+        "AuthoritiesGovernance": 0.44854438304901123,
+        "DefinitionsReferences": 0.42401841282844543
+      }
+    },
+    {
+      "sentence": "The Bankable Scheme also aims to encourage innovation and the development of new technologies in various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.48692387342453003,
+      "similarities": {
+        "ContextObjective": 0.48692387342453003,
+        "BenefitsAssistance": 0.46674084663391113,
+        "Eligibility": 0.46620211005210876,
+        "ApplicationProcess": 0.41654157638549805,
+        "TimelineFrequency": 0.416275292634964,
+        "AuthoritiesGovernance": 0.34541410207748413,
+        "DefinitionsReferences": 0.38959699869155884
+      }
+    },
+    {
+      "sentence": "By providing financial support to startups, the scheme contributes to the overall economic growth of the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5099087953567505,
+      "similarities": {
+        "ContextObjective": 0.5099087953567505,
+        "BenefitsAssistance": 0.47839340567588806,
+        "Eligibility": 0.398689329624176,
+        "ApplicationProcess": 0.39012858271598816,
+        "TimelineFrequency": 0.37022605538368225,
+        "AuthoritiesGovernance": 0.37015417218208313,
+        "DefinitionsReferences": 0.3797222375869751
+      }
+    },
+    {
+      "sentence": "The government has also partnered with various industry associations to promote awareness about the scheme and its benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.5106407999992371,
+      "similarities": {
+        "ContextObjective": 0.5106407999992371,
+        "BenefitsAssistance": 0.4716891050338745,
+        "Eligibility": 0.44067147374153137,
+        "ApplicationProcess": 0.4271065592765808,
+        "TimelineFrequency": 0.38832372426986694,
+        "AuthoritiesGovernance": 0.45949989557266235,
+        "DefinitionsReferences": 0.43686607480049133
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are regularly organized to educate potential beneficiaries about the application process and business management.",
+      "role": "Eligibility",
+      "confidence": 0.526319146156311,
+      "similarities": {
+        "ContextObjective": 0.4885700047016144,
+        "BenefitsAssistance": 0.44424402713775635,
+        "Eligibility": 0.526319146156311,
+        "ApplicationProcess": 0.5235702395439148,
+        "TimelineFrequency": 0.5122954845428467,
+        "AuthoritiesGovernance": 0.4592626690864563,
+        "DefinitionsReferences": 0.43418407440185547
+      }
+    },
+    {
+      "sentence": "The Bankable Scheme is an important step towards achieving the goal of a self-reliant India, as envisioned by the government.",
+      "role": "ContextObjective",
+      "confidence": 0.5476906299591064,
+      "similarities": {
+        "ContextObjective": 0.5476906299591064,
+        "BenefitsAssistance": 0.447908878326416,
+        "Eligibility": 0.45553964376449585,
+        "ApplicationProcess": 0.42306429147720337,
+        "TimelineFrequency": 0.37286561727523804,
+        "AuthoritiesGovernance": 0.3891041576862335,
+        "DefinitionsReferences": 0.37829872965812683
+      }
+    },
+    {
+      "sentence": "By empowering individuals to become entrepreneurs, the scheme helps reduce unemployment and improve the standard of living for many families.",
+      "role": "ContextObjective",
+      "confidence": 0.4744226932525635,
+      "similarities": {
+        "ContextObjective": 0.4744226932525635,
+        "BenefitsAssistance": 0.3802843689918518,
+        "Eligibility": 0.4223064184188843,
+        "ApplicationProcess": 0.37522003054618835,
+        "TimelineFrequency": 0.3490726351737976,
+        "AuthoritiesGovernance": 0.3645836114883423,
+        "DefinitionsReferences": 0.2925301194190979
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the Sustainable Development Goals set by the United Nations, particularly in promoting decent work and economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.4944588541984558,
+      "similarities": {
+        "ContextObjective": 0.4944588541984558,
+        "BenefitsAssistance": 0.38705283403396606,
+        "Eligibility": 0.4162101447582245,
+        "ApplicationProcess": 0.385425865650177,
+        "TimelineFrequency": 0.35978126525878906,
+        "AuthoritiesGovernance": 0.39635539054870605,
+        "DefinitionsReferences": 0.35517507791519165
+      }
+    },
+    {
+      "sentence": "In conclusion, the Bankable Scheme is a comprehensive initiative that provides financial assistance and support to aspiring entrepreneurs in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5435811281204224,
+      "similarities": {
+        "ContextObjective": 0.5435811281204224,
+        "BenefitsAssistance": 0.5262889266014099,
+        "Eligibility": 0.5158951878547668,
+        "ApplicationProcess": 0.44457241892814636,
+        "TimelineFrequency": 0.41862791776657104,
+        "AuthoritiesGovernance": 0.38568902015686035,
+        "DefinitionsReferences": 0.403163880109787
+      }
+    },
+    {
+      "sentence": "With its focus on marginalized communities and youth, the scheme plays a crucial role in fostering entrepreneurship and economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.5089775323867798,
+      "similarities": {
+        "ContextObjective": 0.5089775323867798,
+        "BenefitsAssistance": 0.37664687633514404,
+        "Eligibility": 0.4312361180782318,
+        "ApplicationProcess": 0.35182279348373413,
+        "TimelineFrequency": 0.3492834270000458,
+        "AuthoritiesGovernance": 0.3653731942176819,
+        "DefinitionsReferences": 0.3615075349807739
+      }
+    },
+    {
+      "sentence": "The specific financial assistance, low-interest rates, and extensive support services make it a valuable resource for those looking to start their own businesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5408437252044678,
+      "similarities": {
+        "ContextObjective": 0.46850019693374634,
+        "BenefitsAssistance": 0.5408437252044678,
+        "Eligibility": 0.48591282963752747,
+        "ApplicationProcess": 0.42878150939941406,
+        "TimelineFrequency": 0.4421560764312744,
+        "AuthoritiesGovernance": 0.32299143075942993,
+        "DefinitionsReferences": 0.44523853063583374
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it is expected to reach even more beneficiaries and contribute significantly to the Indian economy.",
+      "role": "ContextObjective",
+      "confidence": 0.48831993341445923,
+      "similarities": {
+        "ContextObjective": 0.48831993341445923,
+        "BenefitsAssistance": 0.4421064853668213,
+        "Eligibility": 0.4556620717048645,
+        "ApplicationProcess": 0.38144171237945557,
+        "TimelineFrequency": 0.3479924201965332,
+        "AuthoritiesGovernance": 0.3645458519458771,
+        "DefinitionsReferences": 0.3693278729915619
+      }
+    },
+    {
+      "sentence": "The Bankable Scheme exemplifies the government's commitment to promoting self-employment and entrepreneurship as a means to drive economic growth and reduce poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.5025023221969604,
+      "similarities": {
+        "ContextObjective": 0.5025023221969604,
+        "BenefitsAssistance": 0.4160437285900116,
+        "Eligibility": 0.42735737562179565,
+        "ApplicationProcess": 0.3735276758670807,
+        "TimelineFrequency": 0.34538722038269043,
+        "AuthoritiesGovernance": 0.3433111310005188,
+        "DefinitionsReferences": 0.36538684368133545
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to create a vibrant ecosystem for small businesses and startups in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4985247850418091,
+      "similarities": {
+        "ContextObjective": 0.4985247850418091,
+        "BenefitsAssistance": 0.3353808522224426,
+        "Eligibility": 0.415624737739563,
+        "ApplicationProcess": 0.3749123811721802,
+        "TimelineFrequency": 0.35867083072662354,
+        "AuthoritiesGovernance": 0.39273807406425476,
+        "DefinitionsReferences": 0.3502771258354187
+      }
+    },
+    {
+      "sentence": "Overall, the Bankable Scheme represents a significant effort by the Indian government to empower individuals and promote sustainable economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.4794752597808838,
+      "similarities": {
+        "ContextObjective": 0.4794752597808838,
+        "BenefitsAssistance": 0.4279765784740448,
+        "Eligibility": 0.4431248605251312,
+        "ApplicationProcess": 0.39969581365585327,
+        "TimelineFrequency": 0.35426032543182373,
+        "AuthoritiesGovernance": 0.39079248905181885,
+        "DefinitionsReferences": 0.36255788803100586
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "Eligibility": 6,
+    "BenefitsAssistance": 8,
+    "TimelineFrequency": 2,
+    "ApplicationProcess": 9,
+    "AuthoritiesGovernance": 1
+  },
+  "processing_timestamp": "2025-09-25T20:30:04.962071"
+}

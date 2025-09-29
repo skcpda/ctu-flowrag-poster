@@ -1,0 +1,841 @@
+{
+  "scheme_name": "Chief Minister's Jeevan Jyoti Swaniyojan Yojana",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Chief Minister's Jeevan Jyoti Swaniyojan Yojana is a significant welfare initiative launched by the Government of Uttar Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.49379533529281616,
+      "similarities": {
+        "ContextObjective": 0.49379533529281616,
+        "BenefitsAssistance": 0.43383345007896423,
+        "Eligibility": 0.4671052098274231,
+        "ApplicationProcess": 0.41279059648513794,
+        "TimelineFrequency": 0.408881813287735,
+        "AuthoritiesGovernance": 0.46335968375205994,
+        "DefinitionsReferences": 0.3733993172645569
+      }
+    },
+    {
+      "sentence": "This scheme was inaugurated on 1st December 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5668960213661194,
+      "similarities": {
+        "ContextObjective": 0.5668960213661194,
+        "BenefitsAssistance": 0.4307006299495697,
+        "Eligibility": 0.4726613759994507,
+        "ApplicationProcess": 0.4595630168914795,
+        "TimelineFrequency": 0.4561420679092407,
+        "AuthoritiesGovernance": 0.43504461646080017,
+        "DefinitionsReferences": 0.3475620150566101
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance to the families of deceased individuals who were the primary earners.",
+      "role": "ContextObjective",
+      "confidence": 0.5520763993263245,
+      "similarities": {
+        "ContextObjective": 0.5520763993263245,
+        "BenefitsAssistance": 0.46562907099723816,
+        "Eligibility": 0.49499139189720154,
+        "ApplicationProcess": 0.39837169647216797,
+        "TimelineFrequency": 0.3865465223789215,
+        "AuthoritiesGovernance": 0.41185614466667175,
+        "DefinitionsReferences": 0.3345862925052643
+      }
+    },
+    {
+      "sentence": "The scheme aims to support families in distress by providing them with a one-time financial assistance of ₹5 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.511222243309021,
+      "similarities": {
+        "ContextObjective": 0.4641439616680145,
+        "BenefitsAssistance": 0.511222243309021,
+        "Eligibility": 0.4639573395252228,
+        "ApplicationProcess": 0.40528392791748047,
+        "TimelineFrequency": 0.38462740182876587,
+        "AuthoritiesGovernance": 0.3640110492706299,
+        "DefinitionsReferences": 0.31247255206108093
+      }
+    },
+    {
+      "sentence": "This financial support is intended to help these families manage their immediate financial needs and ensure their economic stability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5751779079437256,
+      "similarities": {
+        "ContextObjective": 0.4563795328140259,
+        "BenefitsAssistance": 0.5751779079437256,
+        "Eligibility": 0.500249981880188,
+        "ApplicationProcess": 0.4377501606941223,
+        "TimelineFrequency": 0.4216170907020569,
+        "AuthoritiesGovernance": 0.4193544387817383,
+        "DefinitionsReferences": 0.41141921281814575
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on families who have lost their breadwinners due to unforeseen circumstances.",
+      "role": "Eligibility",
+      "confidence": 0.48694586753845215,
+      "similarities": {
+        "ContextObjective": 0.47610756754875183,
+        "BenefitsAssistance": 0.4529059827327728,
+        "Eligibility": 0.48694586753845215,
+        "ApplicationProcess": 0.3639841377735138,
+        "TimelineFrequency": 0.38075000047683716,
+        "AuthoritiesGovernance": 0.3818665146827698,
+        "DefinitionsReferences": 0.32321542501449585
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for this scheme are specific and designed to ensure that the assistance reaches the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.6818338632583618,
+      "similarities": {
+        "ContextObjective": 0.565077543258667,
+        "BenefitsAssistance": 0.5163682103157043,
+        "Eligibility": 0.6818338632583618,
+        "ApplicationProcess": 0.5136615633964539,
+        "TimelineFrequency": 0.4973236322402954,
+        "AuthoritiesGovernance": 0.44069358706474304,
+        "DefinitionsReferences": 0.38132381439208984
+      }
+    },
+    {
+      "sentence": "To qualify for the scheme, the applicant must be a resident of Uttar Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.6029513478279114,
+      "similarities": {
+        "ContextObjective": 0.5053011775016785,
+        "BenefitsAssistance": 0.4240359365940094,
+        "Eligibility": 0.6029513478279114,
+        "ApplicationProcess": 0.5560566186904907,
+        "TimelineFrequency": 0.47490769624710083,
+        "AuthoritiesGovernance": 0.4039611220359802,
+        "DefinitionsReferences": 0.35730552673339844
+      }
+    },
+    {
+      "sentence": "The deceased individual must have been the primary earner of the family.",
+      "role": "Eligibility",
+      "confidence": 0.4569334387779236,
+      "similarities": {
+        "ContextObjective": 0.4112586975097656,
+        "BenefitsAssistance": 0.44970905780792236,
+        "Eligibility": 0.4569334387779236,
+        "ApplicationProcess": 0.3919517397880554,
+        "TimelineFrequency": 0.3727126121520996,
+        "AuthoritiesGovernance": 0.3787579834461212,
+        "DefinitionsReferences": 0.3707990050315857
+      }
+    },
+    {
+      "sentence": "The family must provide proof of the death of the primary earner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5164264440536499,
+      "similarities": {
+        "ContextObjective": 0.4181205630302429,
+        "BenefitsAssistance": 0.5164264440536499,
+        "Eligibility": 0.49466967582702637,
+        "ApplicationProcess": 0.48549479246139526,
+        "TimelineFrequency": 0.39759892225265503,
+        "AuthoritiesGovernance": 0.39949125051498413,
+        "DefinitionsReferences": 0.4074077606201172
+      }
+    },
+    {
+      "sentence": "This proof can be in the form of a death certificate issued by the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5187466144561768,
+      "similarities": {
+        "ContextObjective": 0.4418541193008423,
+        "BenefitsAssistance": 0.46164536476135254,
+        "Eligibility": 0.46946775913238525,
+        "ApplicationProcess": 0.5187466144561768,
+        "TimelineFrequency": 0.4304421544075012,
+        "AuthoritiesGovernance": 0.39419040083885193,
+        "DefinitionsReferences": 0.46845224499702454
+      }
+    },
+    {
+      "sentence": "Additionally, the family must demonstrate their financial need for assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6281790137290955,
+      "similarities": {
+        "ContextObjective": 0.482612669467926,
+        "BenefitsAssistance": 0.6281790137290955,
+        "Eligibility": 0.5973407030105591,
+        "ApplicationProcess": 0.553500771522522,
+        "TimelineFrequency": 0.4835670590400696,
+        "AuthoritiesGovernance": 0.43472301959991455,
+        "DefinitionsReferences": 0.44298118352890015
+      }
+    },
+    {
+      "sentence": "This can be done by providing income details or other relevant documentation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6856765747070312,
+      "similarities": {
+        "ContextObjective": 0.5282421112060547,
+        "BenefitsAssistance": 0.6856765747070312,
+        "Eligibility": 0.594021201133728,
+        "ApplicationProcess": 0.628198504447937,
+        "TimelineFrequency": 0.5323377847671509,
+        "AuthoritiesGovernance": 0.48409879207611084,
+        "DefinitionsReferences": 0.5739905834197998
+      }
+    },
+    {
+      "sentence": "The application process for the Chief Minister's Jeevan Jyoti Swaniyojan Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5262722969055176,
+      "similarities": {
+        "ContextObjective": 0.4662089943885803,
+        "BenefitsAssistance": 0.3760071396827698,
+        "Eligibility": 0.47137635946273804,
+        "ApplicationProcess": 0.5262722969055176,
+        "TimelineFrequency": 0.4602929353713989,
+        "AuthoritiesGovernance": 0.41006261110305786,
+        "DefinitionsReferences": 0.36092156171798706
+      }
+    },
+    {
+      "sentence": "Interested families must visit the official website of the Uttar Pradesh government or the designated portal for the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.541088342666626,
+      "similarities": {
+        "ContextObjective": 0.47714632749557495,
+        "BenefitsAssistance": 0.4315067231655121,
+        "Eligibility": 0.5347092151641846,
+        "ApplicationProcess": 0.541088342666626,
+        "TimelineFrequency": 0.4173620045185089,
+        "AuthoritiesGovernance": 0.44440072774887085,
+        "DefinitionsReferences": 0.39521902799606323
+      }
+    },
+    {
+      "sentence": "They must fill out the application form available online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7594587802886963,
+      "similarities": {
+        "ContextObjective": 0.478412926197052,
+        "BenefitsAssistance": 0.5102688074111938,
+        "Eligibility": 0.612273097038269,
+        "ApplicationProcess": 0.7594587802886963,
+        "TimelineFrequency": 0.5647189617156982,
+        "AuthoritiesGovernance": 0.459704726934433,
+        "DefinitionsReferences": 0.465747594833374
+      }
+    },
+    {
+      "sentence": "The application form requires specific details such as the name of the deceased, the relationship to the applicant, and the financial status of the family.",
+      "role": "ApplicationProcess",
+      "confidence": 0.616020679473877,
+      "similarities": {
+        "ContextObjective": 0.47821223735809326,
+        "BenefitsAssistance": 0.5782461166381836,
+        "Eligibility": 0.6118954420089722,
+        "ApplicationProcess": 0.616020679473877,
+        "TimelineFrequency": 0.5434696674346924,
+        "AuthoritiesGovernance": 0.4164455533027649,
+        "DefinitionsReferences": 0.4614787697792053
+      }
+    },
+    {
+      "sentence": "Applicants must also upload necessary documents such as the death certificate and proof of residence.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6670019626617432,
+      "similarities": {
+        "ContextObjective": 0.42285630106925964,
+        "BenefitsAssistance": 0.4983937740325928,
+        "Eligibility": 0.5591958165168762,
+        "ApplicationProcess": 0.6670019626617432,
+        "TimelineFrequency": 0.5203298926353455,
+        "AuthoritiesGovernance": 0.42859625816345215,
+        "DefinitionsReferences": 0.4823693335056305
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications is typically within 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6487122774124146,
+      "similarities": {
+        "ContextObjective": 0.49317413568496704,
+        "BenefitsAssistance": 0.4678075611591339,
+        "Eligibility": 0.5527974367141724,
+        "ApplicationProcess": 0.5975489020347595,
+        "TimelineFrequency": 0.6487122774124146,
+        "AuthoritiesGovernance": 0.4657602310180664,
+        "DefinitionsReferences": 0.452899694442749
+      }
+    },
+    {
+      "sentence": "Disbursement of the financial assistance is made directly to the bank account of the eligible family.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.558846116065979,
+      "similarities": {
+        "ContextObjective": 0.39273613691329956,
+        "BenefitsAssistance": 0.558846116065979,
+        "Eligibility": 0.5161181688308716,
+        "ApplicationProcess": 0.45841333270072937,
+        "TimelineFrequency": 0.40118834376335144,
+        "AuthoritiesGovernance": 0.39628028869628906,
+        "DefinitionsReferences": 0.33194905519485474
+      }
+    },
+    {
+      "sentence": "This ensures that the funds are transferred securely and efficiently.",
+      "role": "Eligibility",
+      "confidence": 0.4829290211200714,
+      "similarities": {
+        "ContextObjective": 0.4475236237049103,
+        "BenefitsAssistance": 0.4777390956878662,
+        "Eligibility": 0.4829290211200714,
+        "ApplicationProcess": 0.46903127431869507,
+        "TimelineFrequency": 0.3958386480808258,
+        "AuthoritiesGovernance": 0.42123353481292725,
+        "DefinitionsReferences": 0.38842034339904785
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Social Welfare, Government of Uttar Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5792375802993774,
+      "similarities": {
+        "ContextObjective": 0.4765028655529022,
+        "BenefitsAssistance": 0.4343864917755127,
+        "Eligibility": 0.4893035292625427,
+        "ApplicationProcess": 0.41983485221862793,
+        "TimelineFrequency": 0.36153334379196167,
+        "AuthoritiesGovernance": 0.5792375802993774,
+        "DefinitionsReferences": 0.38206416368484497
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, families can contact the helpline number provided on the official website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48972970247268677,
+      "similarities": {
+        "ContextObjective": 0.3805178105831146,
+        "BenefitsAssistance": 0.48972970247268677,
+        "Eligibility": 0.4628261923789978,
+        "ApplicationProcess": 0.46720486879348755,
+        "TimelineFrequency": 0.3812834620475769,
+        "AuthoritiesGovernance": 0.4727655053138733,
+        "DefinitionsReferences": 0.3871815800666809
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Uttar Pradesh government to enhance social welfare and support vulnerable populations.",
+      "role": "ContextObjective",
+      "confidence": 0.5008094310760498,
+      "similarities": {
+        "ContextObjective": 0.5008094310760498,
+        "BenefitsAssistance": 0.4503597617149353,
+        "Eligibility": 0.4807780981063843,
+        "ApplicationProcess": 0.4010774493217468,
+        "TimelineFrequency": 0.36965781450271606,
+        "AuthoritiesGovernance": 0.44357895851135254,
+        "DefinitionsReferences": 0.36057278513908386
+      }
+    },
+    {
+      "sentence": "Since its launch, the scheme has aimed to assist thousands of families across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5683869123458862,
+      "similarities": {
+        "ContextObjective": 0.5683869123458862,
+        "BenefitsAssistance": 0.4720117151737213,
+        "Eligibility": 0.5216711759567261,
+        "ApplicationProcess": 0.4363194406032562,
+        "TimelineFrequency": 0.42148256301879883,
+        "AuthoritiesGovernance": 0.4136110246181488,
+        "DefinitionsReferences": 0.38042783737182617
+      }
+    },
+    {
+      "sentence": "The government has allocated a substantial budget for this scheme to ensure its effective implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.5101969242095947,
+      "similarities": {
+        "ContextObjective": 0.5101969242095947,
+        "BenefitsAssistance": 0.47789910435676575,
+        "Eligibility": 0.47467100620269775,
+        "ApplicationProcess": 0.43333643674850464,
+        "TimelineFrequency": 0.401297926902771,
+        "AuthoritiesGovernance": 0.49145954847335815,
+        "DefinitionsReferences": 0.373587965965271
+      }
+    },
+    {
+      "sentence": "The initiative reflects the government's commitment to providing social security to families facing financial hardships due to the loss of their primary earners.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.447916716337204,
+      "similarities": {
+        "ContextObjective": 0.4455607533454895,
+        "BenefitsAssistance": 0.447916716337204,
+        "Eligibility": 0.4420732855796814,
+        "ApplicationProcess": 0.3811118006706238,
+        "TimelineFrequency": 0.3412122130393982,
+        "AuthoritiesGovernance": 0.3821566700935364,
+        "DefinitionsReferences": 0.3335646986961365
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly impact the lives of beneficiaries by providing them with the necessary financial cushion.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5412954688072205,
+      "similarities": {
+        "ContextObjective": 0.5187802314758301,
+        "BenefitsAssistance": 0.5412954688072205,
+        "Eligibility": 0.5387690663337708,
+        "ApplicationProcess": 0.41279491782188416,
+        "TimelineFrequency": 0.39042872190475464,
+        "AuthoritiesGovernance": 0.3767882287502289,
+        "DefinitionsReferences": 0.37654492259025574
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also aims to create awareness about the importance of social security.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5341044068336487,
+      "similarities": {
+        "ContextObjective": 0.5329197645187378,
+        "BenefitsAssistance": 0.5341044068336487,
+        "Eligibility": 0.462288498878479,
+        "ApplicationProcess": 0.42597106099128723,
+        "TimelineFrequency": 0.3822512626647949,
+        "AuthoritiesGovernance": 0.3565763235092163,
+        "DefinitionsReferences": 0.36260056495666504
+      }
+    },
+    {
+      "sentence": "The government encourages families to take advantage of this scheme to secure their future.",
+      "role": "ContextObjective",
+      "confidence": 0.554543137550354,
+      "similarities": {
+        "ContextObjective": 0.554543137550354,
+        "BenefitsAssistance": 0.49644559621810913,
+        "Eligibility": 0.5260223150253296,
+        "ApplicationProcess": 0.47139790654182434,
+        "TimelineFrequency": 0.428752064704895,
+        "AuthoritiesGovernance": 0.39504843950271606,
+        "DefinitionsReferences": 0.40745407342910767
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger framework of welfare initiatives aimed at poverty alleviation in Uttar Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.5307179689407349,
+      "similarities": {
+        "ContextObjective": 0.5307179689407349,
+        "BenefitsAssistance": 0.45477280020713806,
+        "Eligibility": 0.46080753207206726,
+        "ApplicationProcess": 0.40361225605010986,
+        "TimelineFrequency": 0.37687936425209045,
+        "AuthoritiesGovernance": 0.4555622935295105,
+        "DefinitionsReferences": 0.36263349652290344
+      }
+    },
+    {
+      "sentence": "The Chief Minister's Jeevan Jyoti Swaniyojan Yojana is a critical component of the state's social welfare policies.",
+      "role": "Eligibility",
+      "confidence": 0.442584753036499,
+      "similarities": {
+        "ContextObjective": 0.43279027938842773,
+        "BenefitsAssistance": 0.4205082654953003,
+        "Eligibility": 0.442584753036499,
+        "ApplicationProcess": 0.3892412781715393,
+        "TimelineFrequency": 0.3783942461013794,
+        "AuthoritiesGovernance": 0.40027135610580444,
+        "DefinitionsReferences": 0.37443268299102783
+      }
+    },
+    {
+      "sentence": "It underscores the government's recognition of the challenges faced by families in distress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4676792621612549,
+      "similarities": {
+        "ContextObjective": 0.41478919982910156,
+        "BenefitsAssistance": 0.4676792621612549,
+        "Eligibility": 0.4668818414211273,
+        "ApplicationProcess": 0.3976971209049225,
+        "TimelineFrequency": 0.38016268610954285,
+        "AuthoritiesGovernance": 0.4146915078163147,
+        "DefinitionsReferences": 0.39144226908683777
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and accessible to all eligible families.",
+      "role": "Eligibility",
+      "confidence": 0.5919684171676636,
+      "similarities": {
+        "ContextObjective": 0.5503289699554443,
+        "BenefitsAssistance": 0.5230041742324829,
+        "Eligibility": 0.5919684171676636,
+        "ApplicationProcess": 0.4786677956581116,
+        "TimelineFrequency": 0.4666380286216736,
+        "AuthoritiesGovernance": 0.4220200479030609,
+        "DefinitionsReferences": 0.3960457146167755
+      }
+    },
+    {
+      "sentence": "The government has also emphasized the importance of timely application and documentation submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6137465238571167,
+      "similarities": {
+        "ContextObjective": 0.49961572885513306,
+        "BenefitsAssistance": 0.5026001334190369,
+        "Eligibility": 0.536185622215271,
+        "ApplicationProcess": 0.6137465238571167,
+        "TimelineFrequency": 0.5833473205566406,
+        "AuthoritiesGovernance": 0.501363217830658,
+        "DefinitionsReferences": 0.4948086738586426
+      }
+    },
+    {
+      "sentence": "Families are encouraged to keep all necessary documents ready to avoid delays in the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5836406946182251,
+      "similarities": {
+        "ContextObjective": 0.4403262138366699,
+        "BenefitsAssistance": 0.4723679721355438,
+        "Eligibility": 0.5258907079696655,
+        "ApplicationProcess": 0.5836406946182251,
+        "TimelineFrequency": 0.5542697906494141,
+        "AuthoritiesGovernance": 0.4319843351840973,
+        "DefinitionsReferences": 0.44064095616340637
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time based on feedback from beneficiaries and stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5685121417045593,
+      "similarities": {
+        "ContextObjective": 0.5685121417045593,
+        "BenefitsAssistance": 0.4934462904930115,
+        "Eligibility": 0.5315026044845581,
+        "ApplicationProcess": 0.46983861923217773,
+        "TimelineFrequency": 0.4665378928184509,
+        "AuthoritiesGovernance": 0.48747003078460693,
+        "DefinitionsReferences": 0.4468719959259033
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring transparency and accountability in the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5354140996932983,
+      "similarities": {
+        "ContextObjective": 0.486623615026474,
+        "BenefitsAssistance": 0.46320831775665283,
+        "Eligibility": 0.49982261657714844,
+        "ApplicationProcess": 0.5295450687408447,
+        "TimelineFrequency": 0.4117138385772705,
+        "AuthoritiesGovernance": 0.5354140996932983,
+        "DefinitionsReferences": 0.42116212844848633
+      }
+    },
+    {
+      "sentence": "Regular audits and assessments are conducted to evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5198943614959717,
+      "similarities": {
+        "ContextObjective": 0.5198943614959717,
+        "BenefitsAssistance": 0.4681588113307953,
+        "Eligibility": 0.47432321310043335,
+        "ApplicationProcess": 0.5040401816368103,
+        "TimelineFrequency": 0.4710753858089447,
+        "AuthoritiesGovernance": 0.4902806878089905,
+        "DefinitionsReferences": 0.44397425651550293
+      }
+    },
+    {
+      "sentence": "The Chief Minister's Jeevan Jyoti Swaniyojan Yojana is a testament to the government's proactive approach to welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4379080832004547,
+      "similarities": {
+        "ContextObjective": 0.4379080832004547,
+        "BenefitsAssistance": 0.4198039770126343,
+        "Eligibility": 0.4244031012058258,
+        "ApplicationProcess": 0.38170725107192993,
+        "TimelineFrequency": 0.3574179708957672,
+        "AuthoritiesGovernance": 0.40944093465805054,
+        "DefinitionsReferences": 0.38553494215011597
+      }
+    },
+    {
+      "sentence": "It aims to create a safety net for families who have lost their primary source of income.",
+      "role": "Eligibility",
+      "confidence": 0.49334216117858887,
+      "similarities": {
+        "ContextObjective": 0.4838505983352661,
+        "BenefitsAssistance": 0.4764288067817688,
+        "Eligibility": 0.49334216117858887,
+        "ApplicationProcess": 0.40754812955856323,
+        "TimelineFrequency": 0.36341145634651184,
+        "AuthoritiesGovernance": 0.3863949775695801,
+        "DefinitionsReferences": 0.3501574993133545
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.5362198352813721,
+      "similarities": {
+        "ContextObjective": 0.5362198352813721,
+        "BenefitsAssistance": 0.3986757695674896,
+        "Eligibility": 0.4579169750213623,
+        "ApplicationProcess": 0.4226502776145935,
+        "TimelineFrequency": 0.38313019275665283,
+        "AuthoritiesGovernance": 0.4129606783390045,
+        "DefinitionsReferences": 0.3784288763999939
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme contributes to reducing poverty and enhancing economic stability.",
+      "role": "ContextObjective",
+      "confidence": 0.49681949615478516,
+      "similarities": {
+        "ContextObjective": 0.49681949615478516,
+        "BenefitsAssistance": 0.49457499384880066,
+        "Eligibility": 0.44892799854278564,
+        "ApplicationProcess": 0.39856502413749695,
+        "TimelineFrequency": 0.35186976194381714,
+        "AuthoritiesGovernance": 0.39595234394073486,
+        "DefinitionsReferences": 0.33869627118110657
+      }
+    },
+    {
+      "sentence": "The government has also initiated outreach programs to inform eligible families about the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5428651571273804,
+      "similarities": {
+        "ContextObjective": 0.5329465866088867,
+        "BenefitsAssistance": 0.47817638516426086,
+        "Eligibility": 0.5428651571273804,
+        "ApplicationProcess": 0.4985663890838623,
+        "TimelineFrequency": 0.42482390999794006,
+        "AuthoritiesGovernance": 0.4775227904319763,
+        "DefinitionsReferences": 0.39215824007987976
+      }
+    },
+    {
+      "sentence": "These programs aim to educate families on how to apply and the benefits they can receive.",
+      "role": "Eligibility",
+      "confidence": 0.6145333051681519,
+      "similarities": {
+        "ContextObjective": 0.5551267862319946,
+        "BenefitsAssistance": 0.5541342496871948,
+        "Eligibility": 0.6145333051681519,
+        "ApplicationProcess": 0.5861010551452637,
+        "TimelineFrequency": 0.5538390278816223,
+        "AuthoritiesGovernance": 0.5077971816062927,
+        "DefinitionsReferences": 0.4605773389339447
+      }
+    },
+    {
+      "sentence": "The Chief Minister's Jeevan Jyoti Swaniyojan Yojana is a crucial step towards building a more resilient society.",
+      "role": "ContextObjective",
+      "confidence": 0.4655722975730896,
+      "similarities": {
+        "ContextObjective": 0.4655722975730896,
+        "BenefitsAssistance": 0.3786761164665222,
+        "Eligibility": 0.4234411120414734,
+        "ApplicationProcess": 0.4092187285423279,
+        "TimelineFrequency": 0.3749143183231354,
+        "AuthoritiesGovernance": 0.39824289083480835,
+        "DefinitionsReferences": 0.3715040683746338
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to social justice and equity.",
+      "role": "ContextObjective",
+      "confidence": 0.5497849583625793,
+      "similarities": {
+        "ContextObjective": 0.5497849583625793,
+        "BenefitsAssistance": 0.4295234978199005,
+        "Eligibility": 0.4840325713157654,
+        "ApplicationProcess": 0.4349091649055481,
+        "TimelineFrequency": 0.40246501564979553,
+        "AuthoritiesGovernance": 0.4324994683265686,
+        "DefinitionsReferences": 0.42302969098091125
+      }
+    },
+    {
+      "sentence": "It aims to empower families by providing them with the resources they need to rebuild their lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5278374552726746,
+      "similarities": {
+        "ContextObjective": 0.5278374552726746,
+        "BenefitsAssistance": 0.45616012811660767,
+        "Eligibility": 0.4551542401313782,
+        "ApplicationProcess": 0.4232090711593628,
+        "TimelineFrequency": 0.4076076149940491,
+        "AuthoritiesGovernance": 0.43432143330574036,
+        "DefinitionsReferences": 0.3992438316345215
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme can be used for various purposes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6334235072135925,
+      "similarities": {
+        "ContextObjective": 0.5984392166137695,
+        "BenefitsAssistance": 0.6334235072135925,
+        "Eligibility": 0.5991955995559692,
+        "ApplicationProcess": 0.5111643671989441,
+        "TimelineFrequency": 0.5149471759796143,
+        "AuthoritiesGovernance": 0.47496986389160156,
+        "DefinitionsReferences": 0.4862078130245209
+      }
+    },
+    {
+      "sentence": "Beneficiaries can utilize the funds for education, healthcare, or starting a small business.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5500322580337524,
+      "similarities": {
+        "ContextObjective": 0.4749056100845337,
+        "BenefitsAssistance": 0.5500322580337524,
+        "Eligibility": 0.5257035493850708,
+        "ApplicationProcess": 0.4102250337600708,
+        "TimelineFrequency": 0.40808334946632385,
+        "AuthoritiesGovernance": 0.3877069056034088,
+        "DefinitionsReferences": 0.400881290435791
+      }
+    },
+    {
+      "sentence": "This flexibility allows families to make decisions based on their unique circumstances.",
+      "role": "Eligibility",
+      "confidence": 0.5583591461181641,
+      "similarities": {
+        "ContextObjective": 0.45033177733421326,
+        "BenefitsAssistance": 0.48192867636680603,
+        "Eligibility": 0.5583591461181641,
+        "ApplicationProcess": 0.42045164108276367,
+        "TimelineFrequency": 0.4404463768005371,
+        "AuthoritiesGovernance": 0.41652143001556396,
+        "DefinitionsReferences": 0.418703556060791
+      }
+    },
+    {
+      "sentence": "The scheme is a vital resource for families navigating the challenges of sudden loss.",
+      "role": "ContextObjective",
+      "confidence": 0.5246862769126892,
+      "similarities": {
+        "ContextObjective": 0.5246862769126892,
+        "BenefitsAssistance": 0.4663419723510742,
+        "Eligibility": 0.4922630786895752,
+        "ApplicationProcess": 0.436047226190567,
+        "TimelineFrequency": 0.43493521213531494,
+        "AuthoritiesGovernance": 0.39055895805358887,
+        "DefinitionsReferences": 0.38813406229019165
+      }
+    },
+    {
+      "sentence": "It highlights the importance of government support in times of crisis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49724599719047546,
+      "similarities": {
+        "ContextObjective": 0.4688848853111267,
+        "BenefitsAssistance": 0.49724599719047546,
+        "Eligibility": 0.4282373785972595,
+        "ApplicationProcess": 0.3889676332473755,
+        "TimelineFrequency": 0.40685057640075684,
+        "AuthoritiesGovernance": 0.4187011122703552,
+        "DefinitionsReferences": 0.4436764121055603
+      }
+    },
+    {
+      "sentence": "The Chief Minister's Jeevan Jyoti Swaniyojan Yojana is a significant welfare initiative that aims to uplift families in distress.",
+      "role": "ContextObjective",
+      "confidence": 0.46537235379219055,
+      "similarities": {
+        "ContextObjective": 0.46537235379219055,
+        "BenefitsAssistance": 0.43310174345970154,
+        "Eligibility": 0.45247241854667664,
+        "ApplicationProcess": 0.3932825028896332,
+        "TimelineFrequency": 0.3735846281051636,
+        "AuthoritiesGovernance": 0.4225417375564575,
+        "DefinitionsReferences": 0.34595274925231934
+      }
+    },
+    {
+      "sentence": "It is a clear demonstration of the government's dedication to improving the lives of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.44855251908302307,
+      "similarities": {
+        "ContextObjective": 0.44855251908302307,
+        "BenefitsAssistance": 0.3918522298336029,
+        "Eligibility": 0.3879220187664032,
+        "ApplicationProcess": 0.38858190178871155,
+        "TimelineFrequency": 0.3316553235054016,
+        "AuthoritiesGovernance": 0.4173014461994171,
+        "DefinitionsReferences": 0.3740438222885132
+      }
+    },
+    {
+      "sentence": "The scheme is expected to continue evolving to meet the needs of the population effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5916203260421753,
+      "similarities": {
+        "ContextObjective": 0.5916203260421753,
+        "BenefitsAssistance": 0.4565056562423706,
+        "Eligibility": 0.5030691027641296,
+        "ApplicationProcess": 0.4742927551269531,
+        "TimelineFrequency": 0.4481337070465088,
+        "AuthoritiesGovernance": 0.4928619861602783,
+        "DefinitionsReferences": 0.409762978553772
+      }
+    },
+    {
+      "sentence": "The government remains open to suggestions and feedback from the public to enhance the scheme's impact.",
+      "role": "ContextObjective",
+      "confidence": 0.4926428198814392,
+      "similarities": {
+        "ContextObjective": 0.4926428198814392,
+        "BenefitsAssistance": 0.420835018157959,
+        "Eligibility": 0.4464571177959442,
+        "ApplicationProcess": 0.4048934578895569,
+        "TimelineFrequency": 0.3611920475959778,
+        "AuthoritiesGovernance": 0.4718659222126007,
+        "DefinitionsReferences": 0.37688302993774414
+      }
+    },
+    {
+      "sentence": "Overall, the Chief Minister's Jeevan Jyoti Swaniyojan Yojana is a commendable effort to provide much-needed support to vulnerable families in Uttar Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4444350302219391,
+      "similarities": {
+        "ContextObjective": 0.4388018846511841,
+        "BenefitsAssistance": 0.4444350302219391,
+        "Eligibility": 0.44393420219421387,
+        "ApplicationProcess": 0.37816357612609863,
+        "TimelineFrequency": 0.3655884563922882,
+        "AuthoritiesGovernance": 0.4098203778266907,
+        "DefinitionsReferences": 0.3521766662597656
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "BenefitsAssistance": 15,
+    "Eligibility": 11,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:36:16.641301"
+}

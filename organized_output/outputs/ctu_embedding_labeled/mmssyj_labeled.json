@@ -1,0 +1,868 @@
+{
+  "scheme_name": "Mukhyamantri Swasthya Sahayata Yojana Jharkhand",
+  "total_sentences": 61,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana is a health assistance scheme launched by the Government of Jharkhand.",
+      "role": "ContextObjective",
+      "confidence": 0.4730491638183594,
+      "similarities": {
+        "ContextObjective": 0.4730491638183594,
+        "BenefitsAssistance": 0.4272550344467163,
+        "Eligibility": 0.47040387988090515,
+        "ApplicationProcess": 0.3932895064353943,
+        "TimelineFrequency": 0.38461053371429443,
+        "AuthoritiesGovernance": 0.4232521951198578,
+        "DefinitionsReferences": 0.339718759059906
+      }
+    },
+    {
+      "sentence": "This scheme was introduced on 1st April 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.5689753293991089,
+      "similarities": {
+        "ContextObjective": 0.5689753293991089,
+        "BenefitsAssistance": 0.46073657274246216,
+        "Eligibility": 0.49905601143836975,
+        "ApplicationProcess": 0.487185001373291,
+        "TimelineFrequency": 0.47479337453842163,
+        "AuthoritiesGovernance": 0.42703306674957275,
+        "DefinitionsReferences": 0.4001083970069885
+      }
+    },
+    {
+      "sentence": "The primary objective of the Mukhyamantri Swasthya Sahayata Yojana is to provide financial assistance for medical treatment to the residents of Jharkhand.",
+      "role": "ContextObjective",
+      "confidence": 0.4906854033470154,
+      "similarities": {
+        "ContextObjective": 0.4906854033470154,
+        "BenefitsAssistance": 0.4752855896949768,
+        "Eligibility": 0.47599315643310547,
+        "ApplicationProcess": 0.40061795711517334,
+        "TimelineFrequency": 0.36818447709083557,
+        "AuthoritiesGovernance": 0.42706871032714844,
+        "DefinitionsReferences": 0.32446935772895813
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets families living below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.5387371778488159,
+      "similarities": {
+        "ContextObjective": 0.5171085596084595,
+        "BenefitsAssistance": 0.4503466486930847,
+        "Eligibility": 0.5387371778488159,
+        "ApplicationProcess": 0.4130614399909973,
+        "TimelineFrequency": 0.38599687814712524,
+        "AuthoritiesGovernance": 0.3808373510837555,
+        "DefinitionsReferences": 0.32398584485054016
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible families can receive financial support for treatment of serious illnesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5902335047721863,
+      "similarities": {
+        "ContextObjective": 0.4690670073032379,
+        "BenefitsAssistance": 0.5902335047721863,
+        "Eligibility": 0.5769975185394287,
+        "ApplicationProcess": 0.452506422996521,
+        "TimelineFrequency": 0.42647862434387207,
+        "AuthoritiesGovernance": 0.39631322026252747,
+        "DefinitionsReferences": 0.37389063835144043
+      }
+    },
+    {
+      "sentence": "The maximum financial assistance provided under this scheme is ₹5 lakh per family per year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5293251276016235,
+      "similarities": {
+        "ContextObjective": 0.412387490272522,
+        "BenefitsAssistance": 0.5293251276016235,
+        "Eligibility": 0.4677698612213135,
+        "ApplicationProcess": 0.39392948150634766,
+        "TimelineFrequency": 0.38205021619796753,
+        "AuthoritiesGovernance": 0.34267306327819824,
+        "DefinitionsReferences": 0.33270496129989624
+      }
+    },
+    {
+      "sentence": "This amount can be utilized for treatment in both government and private hospitals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5541178584098816,
+      "similarities": {
+        "ContextObjective": 0.40847980976104736,
+        "BenefitsAssistance": 0.5541178584098816,
+        "Eligibility": 0.47087156772613525,
+        "ApplicationProcess": 0.3981081247329712,
+        "TimelineFrequency": 0.4118868410587311,
+        "AuthoritiesGovernance": 0.42068707942962646,
+        "DefinitionsReferences": 0.43782496452331543
+      }
+    },
+    {
+      "sentence": "The scheme covers a wide range of medical treatments including surgeries, cancer treatment, and other critical illnesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5442920923233032,
+      "similarities": {
+        "ContextObjective": 0.5049282312393188,
+        "BenefitsAssistance": 0.5442920923233032,
+        "Eligibility": 0.5271779298782349,
+        "ApplicationProcess": 0.43725207448005676,
+        "TimelineFrequency": 0.4601672291755676,
+        "AuthoritiesGovernance": 0.40116605162620544,
+        "DefinitionsReferences": 0.44207412004470825
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana aims to reduce the financial burden on families facing health crises.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4706604480743408,
+      "similarities": {
+        "ContextObjective": 0.4364234209060669,
+        "BenefitsAssistance": 0.4706604480743408,
+        "Eligibility": 0.44719967246055603,
+        "ApplicationProcess": 0.376567542552948,
+        "TimelineFrequency": 0.3451218605041504,
+        "AuthoritiesGovernance": 0.35205456614494324,
+        "DefinitionsReferences": 0.30645403265953064
+      }
+    },
+    {
+      "sentence": "The scheme is designed to ensure that no family is deprived of necessary medical treatment due to financial constraints.",
+      "role": "Eligibility",
+      "confidence": 0.5363892316818237,
+      "similarities": {
+        "ContextObjective": 0.478222131729126,
+        "BenefitsAssistance": 0.5310742855072021,
+        "Eligibility": 0.5363892316818237,
+        "ApplicationProcess": 0.4371986389160156,
+        "TimelineFrequency": 0.38643816113471985,
+        "AuthoritiesGovernance": 0.37481313943862915,
+        "DefinitionsReferences": 0.33999109268188477
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must be residents of Jharkhand.",
+      "role": "Eligibility",
+      "confidence": 0.6015459299087524,
+      "similarities": {
+        "ContextObjective": 0.46921786665916443,
+        "BenefitsAssistance": 0.37740617990493774,
+        "Eligibility": 0.6015459299087524,
+        "ApplicationProcess": 0.5282745361328125,
+        "TimelineFrequency": 0.46271753311157227,
+        "AuthoritiesGovernance": 0.40509048104286194,
+        "DefinitionsReferences": 0.3333582878112793
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹1.5 lakh per annum for rural families and ₹2 lakh per annum for urban families.",
+      "role": "Eligibility",
+      "confidence": 0.5504260063171387,
+      "similarities": {
+        "ContextObjective": 0.40657076239585876,
+        "BenefitsAssistance": 0.4679248332977295,
+        "Eligibility": 0.5504260063171387,
+        "ApplicationProcess": 0.43956857919692993,
+        "TimelineFrequency": 0.42020082473754883,
+        "AuthoritiesGovernance": 0.34192124009132385,
+        "DefinitionsReferences": 0.3525179326534271
+      }
+    },
+    {
+      "sentence": "The scheme is open to all age groups.",
+      "role": "ContextObjective",
+      "confidence": 0.5848370790481567,
+      "similarities": {
+        "ContextObjective": 0.5848370790481567,
+        "BenefitsAssistance": 0.5115886330604553,
+        "Eligibility": 0.5828202962875366,
+        "ApplicationProcess": 0.5062851309776306,
+        "TimelineFrequency": 0.4998925030231476,
+        "AuthoritiesGovernance": 0.43957459926605225,
+        "DefinitionsReferences": 0.4236624836921692
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49370497465133667,
+      "similarities": {
+        "ContextObjective": 0.4676801264286041,
+        "BenefitsAssistance": 0.3654477000236511,
+        "Eligibility": 0.49370497465133667,
+        "ApplicationProcess": 0.46376174688339233,
+        "TimelineFrequency": 0.41034406423568726,
+        "AuthoritiesGovernance": 0.32643362879753113,
+        "DefinitionsReferences": 0.29340898990631104
+      }
+    },
+    {
+      "sentence": "The application process for the Mukhyamantri Swasthya Sahayata Yojana involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6545281410217285,
+      "similarities": {
+        "ContextObjective": 0.5456911325454712,
+        "BenefitsAssistance": 0.47733795642852783,
+        "Eligibility": 0.5740989446640015,
+        "ApplicationProcess": 0.6545281410217285,
+        "TimelineFrequency": 0.5559399724006653,
+        "AuthoritiesGovernance": 0.47260814905166626,
+        "DefinitionsReferences": 0.46688878536224365
+      }
+    },
+    {
+      "sentence": "Interested applicants must first obtain the application form from the official website or designated offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6882503032684326,
+      "similarities": {
+        "ContextObjective": 0.46698179841041565,
+        "BenefitsAssistance": 0.4178122878074646,
+        "Eligibility": 0.5529494285583496,
+        "ApplicationProcess": 0.6882503032684326,
+        "TimelineFrequency": 0.5335427522659302,
+        "AuthoritiesGovernance": 0.46853169798851013,
+        "DefinitionsReferences": 0.45638108253479004
+      }
+    },
+    {
+      "sentence": "The application form must be filled out with accurate personal details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7135986685752869,
+      "similarities": {
+        "ContextObjective": 0.5106475353240967,
+        "BenefitsAssistance": 0.5459684729576111,
+        "Eligibility": 0.6301540732383728,
+        "ApplicationProcess": 0.7135986685752869,
+        "TimelineFrequency": 0.5822209715843201,
+        "AuthoritiesGovernance": 0.481116384267807,
+        "DefinitionsReferences": 0.49503839015960693
+      }
+    },
+    {
+      "sentence": "Applicants need to attach relevant documents such as income certificates, identity proof, and address proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6949533820152283,
+      "similarities": {
+        "ContextObjective": 0.5224025249481201,
+        "BenefitsAssistance": 0.5822007656097412,
+        "Eligibility": 0.6287841200828552,
+        "ApplicationProcess": 0.6949533820152283,
+        "TimelineFrequency": 0.5764837265014648,
+        "AuthoritiesGovernance": 0.488077849149704,
+        "DefinitionsReferences": 0.5375105738639832
+      }
+    },
+    {
+      "sentence": "The completed application form along with the required documents must be submitted to the nearest health department office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6296341419219971,
+      "similarities": {
+        "ContextObjective": 0.37883007526397705,
+        "BenefitsAssistance": 0.4343973994255066,
+        "Eligibility": 0.5181385278701782,
+        "ApplicationProcess": 0.6296341419219971,
+        "TimelineFrequency": 0.4675626754760742,
+        "AuthoritiesGovernance": 0.4570229947566986,
+        "DefinitionsReferences": 0.4181559681892395
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7421250343322754,
+      "similarities": {
+        "ContextObjective": 0.5256929397583008,
+        "BenefitsAssistance": 0.4847501516342163,
+        "Eligibility": 0.6106556057929993,
+        "ApplicationProcess": 0.7421250343322754,
+        "TimelineFrequency": 0.5767481327056885,
+        "AuthoritiesGovernance": 0.5001997351646423,
+        "DefinitionsReferences": 0.5012800693511963
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6160839200019836,
+      "similarities": {
+        "ContextObjective": 0.41537487506866455,
+        "BenefitsAssistance": 0.4828962981700897,
+        "Eligibility": 0.49620291590690613,
+        "ApplicationProcess": 0.6160839200019836,
+        "TimelineFrequency": 0.5577170848846436,
+        "AuthoritiesGovernance": 0.4356006681919098,
+        "DefinitionsReferences": 0.4438959062099457
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the applicant will receive a unique identification number.",
+      "role": "ApplicationProcess",
+      "confidence": 0.655916690826416,
+      "similarities": {
+        "ContextObjective": 0.48003089427948,
+        "BenefitsAssistance": 0.5130568742752075,
+        "Eligibility": 0.5542252063751221,
+        "ApplicationProcess": 0.655916690826416,
+        "TimelineFrequency": 0.5274723768234253,
+        "AuthoritiesGovernance": 0.46297281980514526,
+        "DefinitionsReferences": 0.45618292689323425
+      }
+    },
+    {
+      "sentence": "This number is essential for availing of the benefits under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5662388801574707,
+      "similarities": {
+        "ContextObjective": 0.5662388801574707,
+        "BenefitsAssistance": 0.5609204769134521,
+        "Eligibility": 0.5643694400787354,
+        "ApplicationProcess": 0.555656373500824,
+        "TimelineFrequency": 0.5201219320297241,
+        "AuthoritiesGovernance": 0.46913886070251465,
+        "DefinitionsReferences": 0.45499372482299805
+      }
+    },
+    {
+      "sentence": "The financial assistance is disbursed directly to the hospital where the treatment is being conducted.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5384513139724731,
+      "similarities": {
+        "ContextObjective": 0.3598671853542328,
+        "BenefitsAssistance": 0.5384513139724731,
+        "Eligibility": 0.44394388794898987,
+        "ApplicationProcess": 0.38335806131362915,
+        "TimelineFrequency": 0.34987619519233704,
+        "AuthoritiesGovernance": 0.43910056352615356,
+        "DefinitionsReferences": 0.32406771183013916
+      }
+    },
+    {
+      "sentence": "The scheme has a provision for cashless treatment in empaneled hospitals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4998769760131836,
+      "similarities": {
+        "ContextObjective": 0.4229636788368225,
+        "BenefitsAssistance": 0.4998769760131836,
+        "Eligibility": 0.4305170178413391,
+        "ApplicationProcess": 0.4337572455406189,
+        "TimelineFrequency": 0.35957521200180054,
+        "AuthoritiesGovernance": 0.3750501871109009,
+        "DefinitionsReferences": 0.3435707986354828
+      }
+    },
+    {
+      "sentence": "This means that beneficiaries do not need to pay upfront for their treatment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4826706647872925,
+      "similarities": {
+        "ContextObjective": 0.34486645460128784,
+        "BenefitsAssistance": 0.4826706647872925,
+        "Eligibility": 0.4425530433654785,
+        "ApplicationProcess": 0.3517517149448395,
+        "TimelineFrequency": 0.343681275844574,
+        "AuthoritiesGovernance": 0.33379024267196655,
+        "DefinitionsReferences": 0.29030218720436096
+      }
+    },
+    {
+      "sentence": "Instead, the hospital will directly claim the amount from the government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47208359837532043,
+      "similarities": {
+        "ContextObjective": 0.33242979645729065,
+        "BenefitsAssistance": 0.47208359837532043,
+        "Eligibility": 0.3590438961982727,
+        "ApplicationProcess": 0.36521202325820923,
+        "TimelineFrequency": 0.2896938621997833,
+        "AuthoritiesGovernance": 0.35033294558525085,
+        "DefinitionsReferences": 0.31374305486679077
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana has a dedicated helpline for assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5111982822418213,
+      "similarities": {
+        "ContextObjective": 0.4616192579269409,
+        "BenefitsAssistance": 0.5111982822418213,
+        "Eligibility": 0.49063241481781006,
+        "ApplicationProcess": 0.44978830218315125,
+        "TimelineFrequency": 0.4022245407104492,
+        "AuthoritiesGovernance": 0.436394065618515,
+        "DefinitionsReferences": 0.38675564527511597
+      }
+    },
+    {
+      "sentence": "The helpline number is 181.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48464080691337585,
+      "similarities": {
+        "ContextObjective": 0.4230952858924866,
+        "BenefitsAssistance": 0.48464080691337585,
+        "Eligibility": 0.4770669639110565,
+        "ApplicationProcess": 0.4465142488479614,
+        "TimelineFrequency": 0.4375649094581604,
+        "AuthoritiesGovernance": 0.46927908062934875,
+        "DefinitionsReferences": 0.3857977092266083
+      }
+    },
+    {
+      "sentence": "This helpline can be contacted for any queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.549741268157959,
+      "similarities": {
+        "ContextObjective": 0.549741268157959,
+        "BenefitsAssistance": 0.5443090200424194,
+        "Eligibility": 0.5309582352638245,
+        "ApplicationProcess": 0.53044193983078,
+        "TimelineFrequency": 0.4881107211112976,
+        "AuthoritiesGovernance": 0.5129644870758057,
+        "DefinitionsReferences": 0.4432985484600067
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Health, Medical Education and Family Welfare, Jharkhand.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48050716519355774,
+      "similarities": {
+        "ContextObjective": 0.44493260979652405,
+        "BenefitsAssistance": 0.43462324142456055,
+        "Eligibility": 0.4468872547149658,
+        "ApplicationProcess": 0.40071848034858704,
+        "TimelineFrequency": 0.3634205758571625,
+        "AuthoritiesGovernance": 0.48050716519355774,
+        "DefinitionsReferences": 0.3254662752151489
+      }
+    },
+    {
+      "sentence": "The government has empaneled several hospitals across the state for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.47205060720443726,
+      "similarities": {
+        "ContextObjective": 0.47205060720443726,
+        "BenefitsAssistance": 0.47174569964408875,
+        "Eligibility": 0.4675665497779846,
+        "ApplicationProcess": 0.4378490447998047,
+        "TimelineFrequency": 0.40878742933273315,
+        "AuthoritiesGovernance": 0.46129122376441956,
+        "DefinitionsReferences": 0.43191537261009216
+      }
+    },
+    {
+      "sentence": "Both private and public hospitals are included in the empanelment list.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4868656098842621,
+      "similarities": {
+        "ContextObjective": 0.40960872173309326,
+        "BenefitsAssistance": 0.4868656098842621,
+        "Eligibility": 0.46681326627731323,
+        "ApplicationProcess": 0.4130348563194275,
+        "TimelineFrequency": 0.42350393533706665,
+        "AuthoritiesGovernance": 0.43207165598869324,
+        "DefinitionsReferences": 0.44486674666404724
+      }
+    },
+    {
+      "sentence": "The list of empaneled hospitals is available on the official government website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48373177647590637,
+      "similarities": {
+        "ContextObjective": 0.4057082533836365,
+        "BenefitsAssistance": 0.48373177647590637,
+        "Eligibility": 0.44790297746658325,
+        "ApplicationProcess": 0.4641808569431305,
+        "TimelineFrequency": 0.40863820910453796,
+        "AuthoritiesGovernance": 0.4803122580051422,
+        "DefinitionsReferences": 0.47922977805137634
+      }
+    },
+    {
+      "sentence": "The scheme has been beneficial for many families since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.565144956111908,
+      "similarities": {
+        "ContextObjective": 0.565144956111908,
+        "BenefitsAssistance": 0.4821970462799072,
+        "Eligibility": 0.5098810195922852,
+        "ApplicationProcess": 0.4402737021446228,
+        "TimelineFrequency": 0.4094117283821106,
+        "AuthoritiesGovernance": 0.42542755603790283,
+        "DefinitionsReferences": 0.4068477153778076
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 1.5 lakh families have availed of benefits under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.47875553369522095,
+      "similarities": {
+        "ContextObjective": 0.47875553369522095,
+        "BenefitsAssistance": 0.47718918323516846,
+        "Eligibility": 0.4567135274410248,
+        "ApplicationProcess": 0.39006510376930237,
+        "TimelineFrequency": 0.3773513436317444,
+        "AuthoritiesGovernance": 0.3677408695220947,
+        "DefinitionsReferences": 0.3539068400859833
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹200 crore for the Mukhyamantri Swasthya Sahayata Yojana for the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.43691208958625793,
+      "similarities": {
+        "ContextObjective": 0.43691208958625793,
+        "BenefitsAssistance": 0.43106287717819214,
+        "Eligibility": 0.42599260807037354,
+        "ApplicationProcess": 0.36347275972366333,
+        "TimelineFrequency": 0.3813837468624115,
+        "AuthoritiesGovernance": 0.3911164104938507,
+        "DefinitionsReferences": 0.3483450412750244
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that adequate funds are available for all eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5924058556556702,
+      "similarities": {
+        "ContextObjective": 0.49873194098472595,
+        "BenefitsAssistance": 0.5612075328826904,
+        "Eligibility": 0.5924058556556702,
+        "ApplicationProcess": 0.4567139744758606,
+        "TimelineFrequency": 0.47200512886047363,
+        "AuthoritiesGovernance": 0.45399200916290283,
+        "DefinitionsReferences": 0.3982987403869629
+      }
+    },
+    {
+      "sentence": "The scheme has provisions for regular monitoring and evaluation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5505639314651489,
+      "similarities": {
+        "ContextObjective": 0.5439838171005249,
+        "BenefitsAssistance": 0.5313083529472351,
+        "Eligibility": 0.5448830127716064,
+        "ApplicationProcess": 0.5505639314651489,
+        "TimelineFrequency": 0.5192471146583557,
+        "AuthoritiesGovernance": 0.5104485750198364,
+        "DefinitionsReferences": 0.4815793037414551
+      }
+    },
+    {
+      "sentence": "This ensures that the funds are utilized effectively and reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5455044507980347,
+      "similarities": {
+        "ContextObjective": 0.5231741070747375,
+        "BenefitsAssistance": 0.5067790746688843,
+        "Eligibility": 0.5455044507980347,
+        "ApplicationProcess": 0.43885186314582825,
+        "TimelineFrequency": 0.42199212312698364,
+        "AuthoritiesGovernance": 0.4837966859340668,
+        "DefinitionsReferences": 0.39749884605407715
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana is part of a larger initiative by the Government of Jharkhand to improve healthcare access.",
+      "role": "Eligibility",
+      "confidence": 0.45165637135505676,
+      "similarities": {
+        "ContextObjective": 0.42702716588974,
+        "BenefitsAssistance": 0.42644089460372925,
+        "Eligibility": 0.45165637135505676,
+        "ApplicationProcess": 0.41114047169685364,
+        "TimelineFrequency": 0.36506789922714233,
+        "AuthoritiesGovernance": 0.4448310434818268,
+        "DefinitionsReferences": 0.3536275625228882
+      }
+    },
+    {
+      "sentence": "The government aims to enhance the overall health infrastructure in the state.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5147734880447388,
+      "similarities": {
+        "ContextObjective": 0.4529525637626648,
+        "BenefitsAssistance": 0.44704583287239075,
+        "Eligibility": 0.45198968052864075,
+        "ApplicationProcess": 0.44194453954696655,
+        "TimelineFrequency": 0.40547192096710205,
+        "AuthoritiesGovernance": 0.5147734880447388,
+        "DefinitionsReferences": 0.4240110516548157
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.544483482837677,
+      "similarities": {
+        "ContextObjective": 0.544483482837677,
+        "BenefitsAssistance": 0.4934113621711731,
+        "Eligibility": 0.5210820436477661,
+        "ApplicationProcess": 0.42821377515792847,
+        "TimelineFrequency": 0.39482009410858154,
+        "AuthoritiesGovernance": 0.42541739344596863,
+        "DefinitionsReferences": 0.4032719135284424
+      }
+    },
+    {
+      "sentence": "Many families have reported significant relief from financial burdens due to medical expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5770208835601807,
+      "similarities": {
+        "ContextObjective": 0.405528724193573,
+        "BenefitsAssistance": 0.5770208835601807,
+        "Eligibility": 0.44628843665122986,
+        "ApplicationProcess": 0.3759247064590454,
+        "TimelineFrequency": 0.35331904888153076,
+        "AuthoritiesGovernance": 0.37894636392593384,
+        "DefinitionsReferences": 0.39102113246917725
+      }
+    },
+    {
+      "sentence": "The government encourages more families to apply for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5520360469818115,
+      "similarities": {
+        "ContextObjective": 0.5520360469818115,
+        "BenefitsAssistance": 0.4720029830932617,
+        "Eligibility": 0.5515300035476685,
+        "ApplicationProcess": 0.5261636972427368,
+        "TimelineFrequency": 0.47624456882476807,
+        "AuthoritiesGovernance": 0.4176669716835022,
+        "DefinitionsReferences": 0.3993768095970154
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted regularly to inform the public about the benefits of the Mukhyamantri Swasthya Sahayata Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.4534769654273987,
+      "similarities": {
+        "ContextObjective": 0.4534769654273987,
+        "BenefitsAssistance": 0.408603698015213,
+        "Eligibility": 0.418985515832901,
+        "ApplicationProcess": 0.4073721468448639,
+        "TimelineFrequency": 0.3606814742088318,
+        "AuthoritiesGovernance": 0.3926669955253601,
+        "DefinitionsReferences": 0.3651413321495056
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial step towards achieving universal healthcare in Jharkhand.",
+      "role": "ContextObjective",
+      "confidence": 0.4541139006614685,
+      "similarities": {
+        "ContextObjective": 0.4541139006614685,
+        "BenefitsAssistance": 0.39358723163604736,
+        "Eligibility": 0.4253263473510742,
+        "ApplicationProcess": 0.4007917642593384,
+        "TimelineFrequency": 0.32531267404556274,
+        "AuthoritiesGovernance": 0.40257224440574646,
+        "DefinitionsReferences": 0.32713037729263306
+      }
+    },
+    {
+      "sentence": "It aligns with the national health policies aimed at providing affordable healthcare to all citizens.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4603046774864197,
+      "similarities": {
+        "ContextObjective": 0.4421316087245941,
+        "BenefitsAssistance": 0.4603046774864197,
+        "Eligibility": 0.4343959391117096,
+        "ApplicationProcess": 0.4006190299987793,
+        "TimelineFrequency": 0.37262603640556335,
+        "AuthoritiesGovernance": 0.42248058319091797,
+        "DefinitionsReferences": 0.39256376028060913
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana is a testament to the government's commitment to health and welfare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43999674916267395,
+      "similarities": {
+        "ContextObjective": 0.41537901759147644,
+        "BenefitsAssistance": 0.43999674916267395,
+        "Eligibility": 0.43745800852775574,
+        "ApplicationProcess": 0.39428073167800903,
+        "TimelineFrequency": 0.3395116925239563,
+        "AuthoritiesGovernance": 0.37866246700286865,
+        "DefinitionsReferences": 0.3883504271507263
+      }
+    },
+    {
+      "sentence": "The scheme is continuously evolving based on feedback from beneficiaries and stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5425805449485779,
+      "similarities": {
+        "ContextObjective": 0.5425805449485779,
+        "BenefitsAssistance": 0.4543309807777405,
+        "Eligibility": 0.4879554510116577,
+        "ApplicationProcess": 0.4356480836868286,
+        "TimelineFrequency": 0.4261430501937866,
+        "AuthoritiesGovernance": 0.4790041148662567,
+        "DefinitionsReferences": 0.4299594759941101
+      }
+    },
+    {
+      "sentence": "The government is exploring ways to expand the coverage and benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5759435892105103,
+      "similarities": {
+        "ContextObjective": 0.5759435892105103,
+        "BenefitsAssistance": 0.5754685401916504,
+        "Eligibility": 0.552947461605072,
+        "ApplicationProcess": 0.4910042881965637,
+        "TimelineFrequency": 0.4653322994709015,
+        "AuthoritiesGovernance": 0.48687544465065,
+        "DefinitionsReferences": 0.46274974942207336
+      }
+    },
+    {
+      "sentence": "This includes increasing the financial assistance amount and the number of empaneled hospitals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5424407720565796,
+      "similarities": {
+        "ContextObjective": 0.3888099193572998,
+        "BenefitsAssistance": 0.5424407720565796,
+        "Eligibility": 0.43609756231307983,
+        "ApplicationProcess": 0.3933357000350952,
+        "TimelineFrequency": 0.3868178725242615,
+        "AuthoritiesGovernance": 0.4201253056526184,
+        "DefinitionsReferences": 0.4029163718223572
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana is an essential safety net for vulnerable populations in Jharkhand.",
+      "role": "Eligibility",
+      "confidence": 0.4655510485172272,
+      "similarities": {
+        "ContextObjective": 0.42459753155708313,
+        "BenefitsAssistance": 0.4183179438114166,
+        "Eligibility": 0.4655510485172272,
+        "ApplicationProcess": 0.3543936014175415,
+        "TimelineFrequency": 0.34310653805732727,
+        "AuthoritiesGovernance": 0.3790101408958435,
+        "DefinitionsReferences": 0.3123360872268677
+      }
+    },
+    {
+      "sentence": "It plays a vital role in ensuring that health crises do not lead to financial ruin for families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48292267322540283,
+      "similarities": {
+        "ContextObjective": 0.40940171480178833,
+        "BenefitsAssistance": 0.48292267322540283,
+        "Eligibility": 0.4470917582511902,
+        "ApplicationProcess": 0.40388649702072144,
+        "TimelineFrequency": 0.35802948474884033,
+        "AuthoritiesGovernance": 0.368305504322052,
+        "DefinitionsReferences": 0.36586427688598633
+      }
+    },
+    {
+      "sentence": "The scheme exemplifies the government's proactive approach to health welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.5102959871292114,
+      "similarities": {
+        "ContextObjective": 0.5102959871292114,
+        "BenefitsAssistance": 0.4565809369087219,
+        "Eligibility": 0.44982725381851196,
+        "ApplicationProcess": 0.4040946364402771,
+        "TimelineFrequency": 0.3625492751598358,
+        "AuthoritiesGovernance": 0.4131629467010498,
+        "DefinitionsReferences": 0.3786900043487549
+      }
+    },
+    {
+      "sentence": "It is a significant move towards reducing health disparities in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43073171377182007,
+      "similarities": {
+        "ContextObjective": 0.3933028280735016,
+        "BenefitsAssistance": 0.43073171377182007,
+        "Eligibility": 0.43030840158462524,
+        "ApplicationProcess": 0.38777247071266174,
+        "TimelineFrequency": 0.3509373366832733,
+        "AuthoritiesGovernance": 0.4278021454811096,
+        "DefinitionsReferences": 0.3645353317260742
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana is a model for other states to consider.",
+      "role": "Eligibility",
+      "confidence": 0.5110571384429932,
+      "similarities": {
+        "ContextObjective": 0.4829246997833252,
+        "BenefitsAssistance": 0.4236997365951538,
+        "Eligibility": 0.5110571384429932,
+        "ApplicationProcess": 0.42933547496795654,
+        "TimelineFrequency": 0.39888131618499756,
+        "AuthoritiesGovernance": 0.40523168444633484,
+        "DefinitionsReferences": 0.383268803358078
+      }
+    },
+    {
+      "sentence": "It demonstrates how targeted financial assistance can improve health outcomes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5434298515319824,
+      "similarities": {
+        "ContextObjective": 0.4558539390563965,
+        "BenefitsAssistance": 0.5434298515319824,
+        "Eligibility": 0.4787108302116394,
+        "ApplicationProcess": 0.3831840753555298,
+        "TimelineFrequency": 0.39423173666000366,
+        "AuthoritiesGovernance": 0.42235898971557617,
+        "DefinitionsReferences": 0.3643389046192169
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial part of Jharkhand's strategy to enhance the quality of life for its residents.",
+      "role": "ContextObjective",
+      "confidence": 0.49107596278190613,
+      "similarities": {
+        "ContextObjective": 0.49107596278190613,
+        "BenefitsAssistance": 0.3562714159488678,
+        "Eligibility": 0.4247015118598938,
+        "ApplicationProcess": 0.3999634385108948,
+        "TimelineFrequency": 0.36128753423690796,
+        "AuthoritiesGovernance": 0.38556790351867676,
+        "DefinitionsReferences": 0.34057241678237915
+      }
+    },
+    {
+      "sentence": "As the scheme continues to grow, it is expected to reach even more families in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5198078155517578,
+      "similarities": {
+        "ContextObjective": 0.5198078155517578,
+        "BenefitsAssistance": 0.46862271428108215,
+        "Eligibility": 0.4985950291156769,
+        "ApplicationProcess": 0.4145801067352295,
+        "TimelineFrequency": 0.4002518653869629,
+        "AuthoritiesGovernance": 0.40156763792037964,
+        "DefinitionsReferences": 0.3830662667751312
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Swasthya Sahayata Yojana is a vital resource for those facing health challenges in Jharkhand.",
+      "role": "Eligibility",
+      "confidence": 0.48743540048599243,
+      "similarities": {
+        "ContextObjective": 0.41570597887039185,
+        "BenefitsAssistance": 0.4276903569698334,
+        "Eligibility": 0.48743540048599243,
+        "ApplicationProcess": 0.3967896103858948,
+        "TimelineFrequency": 0.3789740204811096,
+        "AuthoritiesGovernance": 0.39827293157577515,
+        "DefinitionsReferences": 0.35782870650291443
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 19,
+    "Eligibility": 11,
+    "BenefitsAssistance": 20,
+    "ApplicationProcess": 9,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:37:15.824286"
+}

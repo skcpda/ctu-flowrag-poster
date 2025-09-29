@@ -1,0 +1,673 @@
+{
+  "scheme_name": "Education Assistance/Ph.D Scheme (GBOCWWB)",
+  "total_sentences": 47,
+  "labeled_sentences": [
+    {
+      "sentence": "The Education Assistance Scheme for Ph.D. candidates is a welfare initiative launched by the Government of India under the aegis of the GBOCWWB, which stands for the Goa Building and Other Construction Workers' Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.5659016966819763,
+      "similarities": {
+        "ContextObjective": 0.5659016966819763,
+        "BenefitsAssistance": 0.49507659673690796,
+        "Eligibility": 0.5599350929260254,
+        "ApplicationProcess": 0.5058387517929077,
+        "TimelineFrequency": 0.46726733446121216,
+        "AuthoritiesGovernance": 0.5006352663040161,
+        "DefinitionsReferences": 0.4254292845726013
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on January 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5566267967224121,
+      "similarities": {
+        "ContextObjective": 0.5566267967224121,
+        "BenefitsAssistance": 0.44482049345970154,
+        "Eligibility": 0.46074551343917847,
+        "ApplicationProcess": 0.46501877903938293,
+        "TimelineFrequency": 0.47361916303634644,
+        "AuthoritiesGovernance": 0.4093174934387207,
+        "DefinitionsReferences": 0.3502342700958252
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance to the children of registered construction workers who are pursuing a Ph.D. degree.",
+      "role": "ContextObjective",
+      "confidence": 0.5008429288864136,
+      "similarities": {
+        "ContextObjective": 0.5008429288864136,
+        "BenefitsAssistance": 0.43666553497314453,
+        "Eligibility": 0.4580945670604706,
+        "ApplicationProcess": 0.4120658040046692,
+        "TimelineFrequency": 0.38640713691711426,
+        "AuthoritiesGovernance": 0.37421026825904846,
+        "DefinitionsReferences": 0.3175366520881653
+      }
+    },
+    {
+      "sentence": "The scheme aims to encourage higher education among the children of construction workers by alleviating the financial burden associated with pursuing a doctoral degree.",
+      "role": "ContextObjective",
+      "confidence": 0.4305253326892853,
+      "similarities": {
+        "ContextObjective": 0.4305253326892853,
+        "BenefitsAssistance": 0.41502267122268677,
+        "Eligibility": 0.37990495562553406,
+        "ApplicationProcess": 0.3593921661376953,
+        "TimelineFrequency": 0.32886433601379395,
+        "AuthoritiesGovernance": 0.2911991477012634,
+        "DefinitionsReferences": 0.2740623652935028
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at INR 25,000 per annum for each eligible applicant.",
+      "role": "Eligibility",
+      "confidence": 0.524686872959137,
+      "similarities": {
+        "ContextObjective": 0.4237169623374939,
+        "BenefitsAssistance": 0.51759934425354,
+        "Eligibility": 0.524686872959137,
+        "ApplicationProcess": 0.447232723236084,
+        "TimelineFrequency": 0.4410807490348816,
+        "AuthoritiesGovernance": 0.36408448219299316,
+        "DefinitionsReferences": 0.34672826528549194
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover various educational expenses including tuition fees, research materials, and other related costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6355613470077515,
+      "similarities": {
+        "ContextObjective": 0.45984309911727905,
+        "BenefitsAssistance": 0.6355613470077515,
+        "Eligibility": 0.4527950882911682,
+        "ApplicationProcess": 0.4579729437828064,
+        "TimelineFrequency": 0.48629194498062134,
+        "AuthoritiesGovernance": 0.42256537079811096,
+        "DefinitionsReferences": 0.5291619896888733
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets children of registered construction workers who have been working in the sector for a minimum of three years.",
+      "role": "ContextObjective",
+      "confidence": 0.47166791558265686,
+      "similarities": {
+        "ContextObjective": 0.47166791558265686,
+        "BenefitsAssistance": 0.3627471327781677,
+        "Eligibility": 0.4701588451862335,
+        "ApplicationProcess": 0.41904768347740173,
+        "TimelineFrequency": 0.43078190088272095,
+        "AuthoritiesGovernance": 0.34426456689834595,
+        "DefinitionsReferences": 0.3205457925796509
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must be the biological or legally adopted children of registered construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.5658305883407593,
+      "similarities": {
+        "ContextObjective": 0.42267826199531555,
+        "BenefitsAssistance": 0.36331886053085327,
+        "Eligibility": 0.5658305883407593,
+        "ApplicationProcess": 0.5231386423110962,
+        "TimelineFrequency": 0.45623335242271423,
+        "AuthoritiesGovernance": 0.35250768065452576,
+        "DefinitionsReferences": 0.360147088766098
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a maximum of 30 years at the time of applying for the assistance.",
+      "role": "Eligibility",
+      "confidence": 0.5915579199790955,
+      "similarities": {
+        "ContextObjective": 0.43513578176498413,
+        "BenefitsAssistance": 0.44759365916252136,
+        "Eligibility": 0.5915579199790955,
+        "ApplicationProcess": 0.48106104135513306,
+        "TimelineFrequency": 0.4717102646827698,
+        "AuthoritiesGovernance": 0.3868696689605713,
+        "DefinitionsReferences": 0.3629538416862488
+      }
+    },
+    {
+      "sentence": "The educational requirement stipulates that applicants must be enrolled in a recognized university or institution for a Ph.D. program.",
+      "role": "Eligibility",
+      "confidence": 0.5320912003517151,
+      "similarities": {
+        "ContextObjective": 0.3998791575431824,
+        "BenefitsAssistance": 0.39446625113487244,
+        "Eligibility": 0.5320912003517151,
+        "ApplicationProcess": 0.5258141160011292,
+        "TimelineFrequency": 0.43514499068260193,
+        "AuthoritiesGovernance": 0.40607374906539917,
+        "DefinitionsReferences": 0.397773414850235
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to all recognized universities across India.",
+      "role": "Eligibility",
+      "confidence": 0.49753516912460327,
+      "similarities": {
+        "ContextObjective": 0.4634368419647217,
+        "BenefitsAssistance": 0.422455370426178,
+        "Eligibility": 0.49753516912460327,
+        "ApplicationProcess": 0.44570642709732056,
+        "TimelineFrequency": 0.42899638414382935,
+        "AuthoritiesGovernance": 0.4264504313468933,
+        "DefinitionsReferences": 0.4294976592063904
+      }
+    },
+    {
+      "sentence": "To apply for the Education Assistance Scheme, applicants must follow a specific process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6681306958198547,
+      "similarities": {
+        "ContextObjective": 0.5617719888687134,
+        "BenefitsAssistance": 0.5088135004043579,
+        "Eligibility": 0.6342194080352783,
+        "ApplicationProcess": 0.6681306958198547,
+        "TimelineFrequency": 0.5743721127510071,
+        "AuthoritiesGovernance": 0.4843076169490814,
+        "DefinitionsReferences": 0.4402737021446228
+      }
+    },
+    {
+      "sentence": "The first step is to obtain the application form which is available on the official GBOCWWB website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6918752193450928,
+      "similarities": {
+        "ContextObjective": 0.4906037151813507,
+        "BenefitsAssistance": 0.46316325664520264,
+        "Eligibility": 0.5375890731811523,
+        "ApplicationProcess": 0.6918752193450928,
+        "TimelineFrequency": 0.516339123249054,
+        "AuthoritiesGovernance": 0.4460147023200989,
+        "DefinitionsReferences": 0.4432693123817444
+      }
+    },
+    {
+      "sentence": "Applicants must fill out the form with accurate personal details including name, age, and educational qualifications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.668179452419281,
+      "similarities": {
+        "ContextObjective": 0.4495382606983185,
+        "BenefitsAssistance": 0.5146415829658508,
+        "Eligibility": 0.5738204717636108,
+        "ApplicationProcess": 0.668179452419281,
+        "TimelineFrequency": 0.5343221426010132,
+        "AuthoritiesGovernance": 0.4465431869029999,
+        "DefinitionsReferences": 0.4896577000617981
+      }
+    },
+    {
+      "sentence": "Along with the application form, applicants are required to submit a copy of their admission letter from the university.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5968784689903259,
+      "similarities": {
+        "ContextObjective": 0.39935538172721863,
+        "BenefitsAssistance": 0.41208094358444214,
+        "Eligibility": 0.46720659732818604,
+        "ApplicationProcess": 0.5968784689903259,
+        "TimelineFrequency": 0.48775002360343933,
+        "AuthoritiesGovernance": 0.36911678314208984,
+        "DefinitionsReferences": 0.45423316955566406
+      }
+    },
+    {
+      "sentence": "They must also provide proof of their parent’s registration as a construction worker with the GBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5452681183815002,
+      "similarities": {
+        "ContextObjective": 0.3801380395889282,
+        "BenefitsAssistance": 0.4324629008769989,
+        "Eligibility": 0.4893077313899994,
+        "ApplicationProcess": 0.5452681183815002,
+        "TimelineFrequency": 0.41657310724258423,
+        "AuthoritiesGovernance": 0.37690088152885437,
+        "DefinitionsReferences": 0.41014808416366577
+      }
+    },
+    {
+      "sentence": "This proof can be in the form of a registration certificate issued by the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5518732666969299,
+      "similarities": {
+        "ContextObjective": 0.49340391159057617,
+        "BenefitsAssistance": 0.44473013281822205,
+        "Eligibility": 0.47727349400520325,
+        "ApplicationProcess": 0.5518732666969299,
+        "TimelineFrequency": 0.47454068064689636,
+        "AuthoritiesGovernance": 0.3700051009654999,
+        "DefinitionsReferences": 0.47364360094070435
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must submit a self-declaration stating that they are not receiving any other financial assistance for their Ph.D. studies from any other government scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.46465256810188293,
+      "similarities": {
+        "ContextObjective": 0.36685025691986084,
+        "BenefitsAssistance": 0.42856478691101074,
+        "Eligibility": 0.45231515169143677,
+        "ApplicationProcess": 0.46465256810188293,
+        "TimelineFrequency": 0.3753818869590759,
+        "AuthoritiesGovernance": 0.3189009130001068,
+        "DefinitionsReferences": 0.2997331917285919
+      }
+    },
+    {
+      "sentence": "Once the application is complete with all necessary documents, it must be submitted to the nearest GBOCWWB office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6500850915908813,
+      "similarities": {
+        "ContextObjective": 0.42873936891555786,
+        "BenefitsAssistance": 0.4349352717399597,
+        "Eligibility": 0.5379462242126465,
+        "ApplicationProcess": 0.6500850915908813,
+        "TimelineFrequency": 0.49985411763191223,
+        "AuthoritiesGovernance": 0.4496787488460541,
+        "DefinitionsReferences": 0.4253057539463043
+      }
+    },
+    {
+      "sentence": "The application can also be submitted online through the GBOCWWB portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6642837524414062,
+      "similarities": {
+        "ContextObjective": 0.4311080276966095,
+        "BenefitsAssistance": 0.4569798707962036,
+        "Eligibility": 0.5390128493309021,
+        "ApplicationProcess": 0.6642837524414062,
+        "TimelineFrequency": 0.5339882373809814,
+        "AuthoritiesGovernance": 0.41698452830314636,
+        "DefinitionsReferences": 0.407684326171875
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6928691864013672,
+      "similarities": {
+        "ContextObjective": 0.5195109248161316,
+        "BenefitsAssistance": 0.46513882279396057,
+        "Eligibility": 0.599595308303833,
+        "ApplicationProcess": 0.6928691864013672,
+        "TimelineFrequency": 0.5777101516723633,
+        "AuthoritiesGovernance": 0.5179823637008667,
+        "DefinitionsReferences": 0.49028652906417847
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5712391138076782,
+      "similarities": {
+        "ContextObjective": 0.42509031295776367,
+        "BenefitsAssistance": 0.4221217632293701,
+        "Eligibility": 0.46699491143226624,
+        "ApplicationProcess": 0.5515240430831909,
+        "TimelineFrequency": 0.5712391138076782,
+        "AuthoritiesGovernance": 0.44458264112472534,
+        "DefinitionsReferences": 0.44510120153427124
+      }
+    },
+    {
+      "sentence": "If the application is approved, the financial assistance will be disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5611742734909058,
+      "similarities": {
+        "ContextObjective": 0.4186171889305115,
+        "BenefitsAssistance": 0.5611742734909058,
+        "Eligibility": 0.5427083969116211,
+        "ApplicationProcess": 0.554588794708252,
+        "TimelineFrequency": 0.48198381066322327,
+        "AuthoritiesGovernance": 0.4215710759162903,
+        "DefinitionsReferences": 0.36296534538269043
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is done on a yearly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6279791593551636,
+      "similarities": {
+        "ContextObjective": 0.5119592547416687,
+        "BenefitsAssistance": 0.6279791593551636,
+        "Eligibility": 0.5274275541305542,
+        "ApplicationProcess": 0.49741029739379883,
+        "TimelineFrequency": 0.5390779972076416,
+        "AuthoritiesGovernance": 0.5104864239692688,
+        "DefinitionsReferences": 0.4558464288711548
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be renewable each year as long as the applicant continues to meet the eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.5794086456298828,
+      "similarities": {
+        "ContextObjective": 0.5471230745315552,
+        "BenefitsAssistance": 0.4379558563232422,
+        "Eligibility": 0.5794086456298828,
+        "ApplicationProcess": 0.5247220993041992,
+        "TimelineFrequency": 0.5515104532241821,
+        "AuthoritiesGovernance": 0.37374553084373474,
+        "DefinitionsReferences": 0.37505191564559937
+      }
+    },
+    {
+      "sentence": "There are no specific deadlines for applying as the scheme is ongoing.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5670244693756104,
+      "similarities": {
+        "ContextObjective": 0.5485156178474426,
+        "BenefitsAssistance": 0.436389684677124,
+        "Eligibility": 0.5306388139724731,
+        "ApplicationProcess": 0.5250457525253296,
+        "TimelineFrequency": 0.5670244693756104,
+        "AuthoritiesGovernance": 0.4043729901313782,
+        "DefinitionsReferences": 0.3530880808830261
+      }
+    },
+    {
+      "sentence": "However, applicants are encouraged to apply as soon as they receive their admission to ensure timely disbursement of funds.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5482397675514221,
+      "similarities": {
+        "ContextObjective": 0.44715914130210876,
+        "BenefitsAssistance": 0.4743834435939789,
+        "Eligibility": 0.517052173614502,
+        "ApplicationProcess": 0.5319756269454956,
+        "TimelineFrequency": 0.5482397675514221,
+        "AuthoritiesGovernance": 0.3684104084968567,
+        "DefinitionsReferences": 0.34897199273109436
+      }
+    },
+    {
+      "sentence": "The GBOCWWB is the implementing authority for this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5941439867019653,
+      "similarities": {
+        "ContextObjective": 0.5339812636375427,
+        "BenefitsAssistance": 0.43691912293434143,
+        "Eligibility": 0.5319966077804565,
+        "ApplicationProcess": 0.4921916425228119,
+        "TimelineFrequency": 0.4213612675666809,
+        "AuthoritiesGovernance": 0.5941439867019653,
+        "DefinitionsReferences": 0.45332393050193787
+      }
+    },
+    {
+      "sentence": "The board operates under the Ministry of Labour and Employment, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5266543626785278,
+      "similarities": {
+        "ContextObjective": 0.4539581835269928,
+        "BenefitsAssistance": 0.41058826446533203,
+        "Eligibility": 0.4784216284751892,
+        "ApplicationProcess": 0.46024054288864136,
+        "TimelineFrequency": 0.4161112308502197,
+        "AuthoritiesGovernance": 0.5266543626785278,
+        "DefinitionsReferences": 0.4050813913345337
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the GBOCWWB office directly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5556616187095642,
+      "similarities": {
+        "ContextObjective": 0.389076828956604,
+        "BenefitsAssistance": 0.45161131024360657,
+        "Eligibility": 0.5033066272735596,
+        "ApplicationProcess": 0.5556616187095642,
+        "TimelineFrequency": 0.4667612612247467,
+        "AuthoritiesGovernance": 0.46129077672958374,
+        "DefinitionsReferences": 0.37983715534210205
+      }
+    },
+    {
+      "sentence": "The contact details for the GBOCWWB can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5067196488380432,
+      "similarities": {
+        "ContextObjective": 0.4234626591205597,
+        "BenefitsAssistance": 0.4806799292564392,
+        "Eligibility": 0.4637322425842285,
+        "ApplicationProcess": 0.5062903165817261,
+        "TimelineFrequency": 0.4218946695327759,
+        "AuthoritiesGovernance": 0.5067196488380432,
+        "DefinitionsReferences": 0.4681891202926636
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in supporting the education of many deserving candidates.",
+      "role": "ContextObjective",
+      "confidence": 0.5507323741912842,
+      "similarities": {
+        "ContextObjective": 0.5507323741912842,
+        "BenefitsAssistance": 0.43121337890625,
+        "Eligibility": 0.49969422817230225,
+        "ApplicationProcess": 0.44559425115585327,
+        "TimelineFrequency": 0.437674880027771,
+        "AuthoritiesGovernance": 0.376356840133667,
+        "DefinitionsReferences": 0.40713590383529663
+      }
+    },
+    {
+      "sentence": "As of the latest reports, over 500 applications have been received since the launch of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.534256637096405,
+      "similarities": {
+        "ContextObjective": 0.534256637096405,
+        "BenefitsAssistance": 0.44468557834625244,
+        "Eligibility": 0.4905887842178345,
+        "ApplicationProcess": 0.5179569721221924,
+        "TimelineFrequency": 0.4956094026565552,
+        "AuthoritiesGovernance": 0.37448978424072266,
+        "DefinitionsReferences": 0.38603800535202026
+      }
+    },
+    {
+      "sentence": "Out of these, approximately 300 applications have been approved for financial assistance.",
+      "role": "Eligibility",
+      "confidence": 0.5265247225761414,
+      "similarities": {
+        "ContextObjective": 0.45371413230895996,
+        "BenefitsAssistance": 0.5011940002441406,
+        "Eligibility": 0.5265247225761414,
+        "ApplicationProcess": 0.48473304510116577,
+        "TimelineFrequency": 0.4609129726886749,
+        "AuthoritiesGovernance": 0.3998912572860718,
+        "DefinitionsReferences": 0.3869783878326416
+      }
+    },
+    {
+      "sentence": "The scheme has a budget allocation of INR 1 crore for the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.5294482111930847,
+      "similarities": {
+        "ContextObjective": 0.5294482111930847,
+        "BenefitsAssistance": 0.464182585477829,
+        "Eligibility": 0.4769507050514221,
+        "ApplicationProcess": 0.415522962808609,
+        "TimelineFrequency": 0.4463713467121124,
+        "AuthoritiesGovernance": 0.41912588477134705,
+        "DefinitionsReferences": 0.32522833347320557
+      }
+    },
+    {
+      "sentence": "This allocation is expected to increase in subsequent years based on the demand and number of applicants.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5189510583877563,
+      "similarities": {
+        "ContextObjective": 0.4740613102912903,
+        "BenefitsAssistance": 0.4283798933029175,
+        "Eligibility": 0.5070439577102661,
+        "ApplicationProcess": 0.4632982015609741,
+        "TimelineFrequency": 0.5189510583877563,
+        "AuthoritiesGovernance": 0.38416028022766113,
+        "DefinitionsReferences": 0.381874680519104
+      }
+    },
+    {
+      "sentence": "The GBOCWWB is committed to ensuring that the benefits reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5264633297920227,
+      "similarities": {
+        "ContextObjective": 0.45163559913635254,
+        "BenefitsAssistance": 0.445274293422699,
+        "Eligibility": 0.5264633297920227,
+        "ApplicationProcess": 0.4144938588142395,
+        "TimelineFrequency": 0.37127089500427246,
+        "AuthoritiesGovernance": 0.4638490080833435,
+        "DefinitionsReferences": 0.3781241178512573
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme are conducted periodically to assess its impact.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5191342830657959,
+      "similarities": {
+        "ContextObjective": 0.513556957244873,
+        "BenefitsAssistance": 0.4876430630683899,
+        "Eligibility": 0.504318356513977,
+        "ApplicationProcess": 0.4804236888885498,
+        "TimelineFrequency": 0.5191342830657959,
+        "AuthoritiesGovernance": 0.48520445823669434,
+        "DefinitionsReferences": 0.42638444900512695
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.539747416973114,
+      "similarities": {
+        "ContextObjective": 0.539747416973114,
+        "BenefitsAssistance": 0.5060763359069824,
+        "Eligibility": 0.5269701480865479,
+        "ApplicationProcess": 0.4755187928676605,
+        "TimelineFrequency": 0.43554192781448364,
+        "AuthoritiesGovernance": 0.5036656260490417,
+        "DefinitionsReferences": 0.44254228472709656
+      }
+    },
+    {
+      "sentence": "The Education Assistance Scheme is part of a broader initiative by the Government of India to enhance educational opportunities for marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5238348245620728,
+      "similarities": {
+        "ContextObjective": 0.5238348245620728,
+        "BenefitsAssistance": 0.44464683532714844,
+        "Eligibility": 0.47355395555496216,
+        "ApplicationProcess": 0.40395960211753845,
+        "TimelineFrequency": 0.3873860239982605,
+        "AuthoritiesGovernance": 0.44067147374153137,
+        "DefinitionsReferences": 0.380837619304657
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to promoting higher education and skill development among the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.47533974051475525,
+      "similarities": {
+        "ContextObjective": 0.47533974051475525,
+        "BenefitsAssistance": 0.37997743487358093,
+        "Eligibility": 0.4030308723449707,
+        "ApplicationProcess": 0.38594356179237366,
+        "TimelineFrequency": 0.3711506128311157,
+        "AuthoritiesGovernance": 0.3608452081680298,
+        "DefinitionsReferences": 0.37851715087890625
+      }
+    },
+    {
+      "sentence": "It aims to create a more educated workforce that can contribute to the nation’s development.",
+      "role": "ContextObjective",
+      "confidence": 0.5087896585464478,
+      "similarities": {
+        "ContextObjective": 0.5087896585464478,
+        "BenefitsAssistance": 0.3733998239040375,
+        "Eligibility": 0.42586731910705566,
+        "ApplicationProcess": 0.39420974254608154,
+        "TimelineFrequency": 0.37883806228637695,
+        "AuthoritiesGovernance": 0.4116879105567932,
+        "DefinitionsReferences": 0.35991185903549194
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the Sustainable Development Goals set by the United Nations, particularly Goal 4 which emphasizes quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.4936693012714386,
+      "similarities": {
+        "ContextObjective": 0.4936693012714386,
+        "BenefitsAssistance": 0.3346327543258667,
+        "Eligibility": 0.41802167892456055,
+        "ApplicationProcess": 0.39065390825271606,
+        "TimelineFrequency": 0.3697151243686676,
+        "AuthoritiesGovernance": 0.3680722713470459,
+        "DefinitionsReferences": 0.3399081230163574
+      }
+    },
+    {
+      "sentence": "In conclusion, the Education Assistance Scheme for Ph.D. candidates under the GBOCWWB is a significant step towards empowering the children of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4367125928401947,
+      "similarities": {
+        "ContextObjective": 0.4367125928401947,
+        "BenefitsAssistance": 0.3972729444503784,
+        "Eligibility": 0.4299936294555664,
+        "ApplicationProcess": 0.4140891432762146,
+        "TimelineFrequency": 0.36320385336875916,
+        "AuthoritiesGovernance": 0.3820800483226776,
+        "DefinitionsReferences": 0.3534766137599945
+      }
+    },
+    {
+      "sentence": "It provides them with the financial support necessary to pursue advanced education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5196384191513062,
+      "similarities": {
+        "ContextObjective": 0.46681758761405945,
+        "BenefitsAssistance": 0.5196384191513062,
+        "Eligibility": 0.4733276963233948,
+        "ApplicationProcess": 0.4469655752182007,
+        "TimelineFrequency": 0.4101933538913727,
+        "AuthoritiesGovernance": 0.3742058277130127,
+        "DefinitionsReferences": 0.4119768440723419
+      }
+    },
+    {
+      "sentence": "This initiative not only benefits individual families but also contributes to the overall upliftment of the construction worker community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3991619348526001,
+      "similarities": {
+        "ContextObjective": 0.3989415466785431,
+        "BenefitsAssistance": 0.3991619348526001,
+        "Eligibility": 0.3859497308731079,
+        "ApplicationProcess": 0.3399934768676758,
+        "TimelineFrequency": 0.3168920576572418,
+        "AuthoritiesGovernance": 0.3698107898235321,
+        "DefinitionsReferences": 0.30546462535858154
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's efforts in ensuring that education is accessible to all, regardless of their socio-economic background.",
+      "role": "ContextObjective",
+      "confidence": 0.4971160888671875,
+      "similarities": {
+        "ContextObjective": 0.4971160888671875,
+        "BenefitsAssistance": 0.41541314125061035,
+        "Eligibility": 0.4922030568122864,
+        "ApplicationProcess": 0.4166053533554077,
+        "TimelineFrequency": 0.36085760593414307,
+        "AuthoritiesGovernance": 0.37390467524528503,
+        "DefinitionsReferences": 0.3567212224006653
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 15,
+    "Eligibility": 8,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 11,
+    "TimelineFrequency": 5,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-24T21:07:04.542840"
+}

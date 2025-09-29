@@ -1,0 +1,869 @@
+{
+  "scheme_name": "Ramai Awas (Gharkul) Scheme for SC & Nav-Buddha (Urban and Rural)",
+  "total_sentences": 61,
+  "labeled_sentences": [
+    {
+      "sentence": "The Ramai Awas (Gharkul) Scheme is a significant initiative by the Government of Maharashtra aimed at providing housing to Scheduled Castes and Nav-Buddha communities.",
+      "role": "ContextObjective",
+      "confidence": 0.4589652419090271,
+      "similarities": {
+        "ContextObjective": 0.4589652419090271,
+        "BenefitsAssistance": 0.36481159925460815,
+        "Eligibility": 0.43536514043807983,
+        "ApplicationProcess": 0.38187962770462036,
+        "TimelineFrequency": 0.3611828088760376,
+        "AuthoritiesGovernance": 0.3838939666748047,
+        "DefinitionsReferences": 0.3239539861679077
+      }
+    },
+    {
+      "sentence": "The scheme was launched on 1st January 2017.",
+      "role": "ContextObjective",
+      "confidence": 0.6096235513687134,
+      "similarities": {
+        "ContextObjective": 0.6096235513687134,
+        "BenefitsAssistance": 0.4694212079048157,
+        "Eligibility": 0.4981796145439148,
+        "ApplicationProcess": 0.4812834560871124,
+        "TimelineFrequency": 0.47237899899482727,
+        "AuthoritiesGovernance": 0.4151706099510193,
+        "DefinitionsReferences": 0.3733850121498108
+      }
+    },
+    {
+      "sentence": "It was introduced to address the housing needs of marginalized communities in both urban and rural areas.",
+      "role": "Eligibility",
+      "confidence": 0.4759330153465271,
+      "similarities": {
+        "ContextObjective": 0.4662615656852722,
+        "BenefitsAssistance": 0.4216577410697937,
+        "Eligibility": 0.4759330153465271,
+        "ApplicationProcess": 0.41309618949890137,
+        "TimelineFrequency": 0.3940792679786682,
+        "AuthoritiesGovernance": 0.43890976905822754,
+        "DefinitionsReferences": 0.3781229853630066
+      }
+    },
+    {
+      "sentence": "The primary objective of the Ramai Awas Scheme is to ensure that every eligible family from the Scheduled Castes and Nav-Buddha communities has access to a pucca house.",
+      "role": "ContextObjective",
+      "confidence": 0.4927167296409607,
+      "similarities": {
+        "ContextObjective": 0.4927167296409607,
+        "BenefitsAssistance": 0.36413466930389404,
+        "Eligibility": 0.49187976121902466,
+        "ApplicationProcess": 0.41984257102012634,
+        "TimelineFrequency": 0.372056782245636,
+        "AuthoritiesGovernance": 0.3687812089920044,
+        "DefinitionsReferences": 0.2994956374168396
+      }
+    },
+    {
+      "sentence": "The government aims to provide financial assistance to construct or improve housing facilities for these communities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5173159241676331,
+      "similarities": {
+        "ContextObjective": 0.49745020270347595,
+        "BenefitsAssistance": 0.5173159241676331,
+        "Eligibility": 0.5079039335250854,
+        "ApplicationProcess": 0.47198885679244995,
+        "TimelineFrequency": 0.435752272605896,
+        "AuthoritiesGovernance": 0.5072072744369507,
+        "DefinitionsReferences": 0.4270387589931488
+      }
+    },
+    {
+      "sentence": "The scheme targets the construction of 1,00,000 houses by the end of the financial year 2022-2023.",
+      "role": "ContextObjective",
+      "confidence": 0.5146259069442749,
+      "similarities": {
+        "ContextObjective": 0.5146259069442749,
+        "BenefitsAssistance": 0.4169939160346985,
+        "Eligibility": 0.4414216876029968,
+        "ApplicationProcess": 0.4040498733520508,
+        "TimelineFrequency": 0.4252554774284363,
+        "AuthoritiesGovernance": 0.36147719621658325,
+        "DefinitionsReferences": 0.3382083475589752
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹2.50 lakh per house.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5316951274871826,
+      "similarities": {
+        "ContextObjective": 0.45240116119384766,
+        "BenefitsAssistance": 0.5316951274871826,
+        "Eligibility": 0.48308950662612915,
+        "ApplicationProcess": 0.4156269133090973,
+        "TimelineFrequency": 0.39011138677597046,
+        "AuthoritiesGovernance": 0.37197020649909973,
+        "DefinitionsReferences": 0.3544934093952179
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover the costs of construction materials and labor.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6179721355438232,
+      "similarities": {
+        "ContextObjective": 0.4464397430419922,
+        "BenefitsAssistance": 0.6179721355438232,
+        "Eligibility": 0.43723803758621216,
+        "ApplicationProcess": 0.4521469473838806,
+        "TimelineFrequency": 0.46200186014175415,
+        "AuthoritiesGovernance": 0.42175036668777466,
+        "DefinitionsReferences": 0.46461308002471924
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of providing basic amenities such as water, sanitation, and electricity in the housing units.",
+      "role": "ContextObjective",
+      "confidence": 0.4710964560508728,
+      "similarities": {
+        "ContextObjective": 0.4710964560508728,
+        "BenefitsAssistance": 0.45597344636917114,
+        "Eligibility": 0.4132193922996521,
+        "ApplicationProcess": 0.43426990509033203,
+        "TimelineFrequency": 0.391459196805954,
+        "AuthoritiesGovernance": 0.3995794355869293,
+        "DefinitionsReferences": 0.40370604395866394
+      }
+    },
+    {
+      "sentence": "Eligibility for the Ramai Awas Scheme is strictly defined.",
+      "role": "Eligibility",
+      "confidence": 0.6051311492919922,
+      "similarities": {
+        "ContextObjective": 0.4927564859390259,
+        "BenefitsAssistance": 0.4529900550842285,
+        "Eligibility": 0.6051311492919922,
+        "ApplicationProcess": 0.5082738399505615,
+        "TimelineFrequency": 0.48245471715927124,
+        "AuthoritiesGovernance": 0.3865535855293274,
+        "DefinitionsReferences": 0.3957974314689636
+      }
+    },
+    {
+      "sentence": "Applicants must belong to the Scheduled Castes or Nav-Buddha communities.",
+      "role": "Eligibility",
+      "confidence": 0.5870109796524048,
+      "similarities": {
+        "ContextObjective": 0.4345685839653015,
+        "BenefitsAssistance": 0.37757641077041626,
+        "Eligibility": 0.5870109796524048,
+        "ApplicationProcess": 0.5053503513336182,
+        "TimelineFrequency": 0.45324739813804626,
+        "AuthoritiesGovernance": 0.38883402943611145,
+        "DefinitionsReferences": 0.37486153841018677
+      }
+    },
+    {
+      "sentence": "The annual income limit for applicants is set at ₹3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.574073314666748,
+      "similarities": {
+        "ContextObjective": 0.44921594858169556,
+        "BenefitsAssistance": 0.4745558202266693,
+        "Eligibility": 0.574073314666748,
+        "ApplicationProcess": 0.4839532673358917,
+        "TimelineFrequency": 0.4550543427467346,
+        "AuthoritiesGovernance": 0.35019969940185547,
+        "DefinitionsReferences": 0.3595181405544281
+      }
+    },
+    {
+      "sentence": "This income criterion ensures that the benefits reach the economically weaker sections of these communities.",
+      "role": "Eligibility",
+      "confidence": 0.4948171079158783,
+      "similarities": {
+        "ContextObjective": 0.42205965518951416,
+        "BenefitsAssistance": 0.41797035932540894,
+        "Eligibility": 0.4948171079158783,
+        "ApplicationProcess": 0.36645814776420593,
+        "TimelineFrequency": 0.3665810227394104,
+        "AuthoritiesGovernance": 0.3652970790863037,
+        "DefinitionsReferences": 0.3249340057373047
+      }
+    },
+    {
+      "sentence": "Applicants must also be residents of Maharashtra.",
+      "role": "Eligibility",
+      "confidence": 0.5765966773033142,
+      "similarities": {
+        "ContextObjective": 0.42788612842559814,
+        "BenefitsAssistance": 0.39871373772621155,
+        "Eligibility": 0.5765966773033142,
+        "ApplicationProcess": 0.52419114112854,
+        "TimelineFrequency": 0.46931159496307373,
+        "AuthoritiesGovernance": 0.413407564163208,
+        "DefinitionsReferences": 0.38602256774902344
+      }
+    },
+    {
+      "sentence": "Age criteria specify that applicants must be at least 18 years old.",
+      "role": "Eligibility",
+      "confidence": 0.649773359298706,
+      "similarities": {
+        "ContextObjective": 0.5034738183021545,
+        "BenefitsAssistance": 0.47627657651901245,
+        "Eligibility": 0.649773359298706,
+        "ApplicationProcess": 0.5980334281921387,
+        "TimelineFrequency": 0.5715174078941345,
+        "AuthoritiesGovernance": 0.4336334466934204,
+        "DefinitionsReferences": 0.452555775642395
+      }
+    },
+    {
+      "sentence": "The application process for the Ramai Awas Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5562206506729126,
+      "similarities": {
+        "ContextObjective": 0.524965226650238,
+        "BenefitsAssistance": 0.41231632232666016,
+        "Eligibility": 0.5111954212188721,
+        "ApplicationProcess": 0.5562206506729126,
+        "TimelineFrequency": 0.49018827080726624,
+        "AuthoritiesGovernance": 0.39643627405166626,
+        "DefinitionsReferences": 0.3556392788887024
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the Maharashtra Government's Department of Social Justice and Special Assistance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5269817113876343,
+      "similarities": {
+        "ContextObjective": 0.4401519000530243,
+        "BenefitsAssistance": 0.4161525368690491,
+        "Eligibility": 0.5169092416763306,
+        "ApplicationProcess": 0.5269817113876343,
+        "TimelineFrequency": 0.4213332533836365,
+        "AuthoritiesGovernance": 0.43067502975463867,
+        "DefinitionsReferences": 0.4047189950942993
+      }
+    },
+    {
+      "sentence": "They can obtain the application form online or from designated government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7001674175262451,
+      "similarities": {
+        "ContextObjective": 0.46561264991760254,
+        "BenefitsAssistance": 0.4820432960987091,
+        "Eligibility": 0.5824183821678162,
+        "ApplicationProcess": 0.7001674175262451,
+        "TimelineFrequency": 0.5348650217056274,
+        "AuthoritiesGovernance": 0.49336883425712585,
+        "DefinitionsReferences": 0.473045289516449
+      }
+    },
+    {
+      "sentence": "The application form requires the submission of specific documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7445299029350281,
+      "similarities": {
+        "ContextObjective": 0.5488253831863403,
+        "BenefitsAssistance": 0.5599127411842346,
+        "Eligibility": 0.6633875370025635,
+        "ApplicationProcess": 0.7445299029350281,
+        "TimelineFrequency": 0.6352483034133911,
+        "AuthoritiesGovernance": 0.503092885017395,
+        "DefinitionsReferences": 0.544716477394104
+      }
+    },
+    {
+      "sentence": "These documents include proof of identity such as an Aadhar card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5424047708511353,
+      "similarities": {
+        "ContextObjective": 0.44738733768463135,
+        "BenefitsAssistance": 0.5190285444259644,
+        "Eligibility": 0.45189645886421204,
+        "ApplicationProcess": 0.5424047708511353,
+        "TimelineFrequency": 0.44419097900390625,
+        "AuthoritiesGovernance": 0.4175797700881958,
+        "DefinitionsReferences": 0.4986434578895569
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of caste, which can be obtained from the local revenue office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5429282188415527,
+      "similarities": {
+        "ContextObjective": 0.3963059186935425,
+        "BenefitsAssistance": 0.4405912160873413,
+        "Eligibility": 0.501934289932251,
+        "ApplicationProcess": 0.5429282188415527,
+        "TimelineFrequency": 0.44154590368270874,
+        "AuthoritiesGovernance": 0.37853437662124634,
+        "DefinitionsReferences": 0.39871886372566223
+      }
+    },
+    {
+      "sentence": "Income certificates are required to verify that the applicant's income does not exceed ₹3 lakh per annum.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5408039689064026,
+      "similarities": {
+        "ContextObjective": 0.4377143383026123,
+        "BenefitsAssistance": 0.47412094473838806,
+        "Eligibility": 0.5304505228996277,
+        "ApplicationProcess": 0.5408039689064026,
+        "TimelineFrequency": 0.4273673892021179,
+        "AuthoritiesGovernance": 0.34980660676956177,
+        "DefinitionsReferences": 0.39750510454177856
+      }
+    },
+    {
+      "sentence": "Additionally, proof of residence is necessary to confirm that the applicant resides in Maharashtra.",
+      "role": "ApplicationProcess",
+      "confidence": 0.578554630279541,
+      "similarities": {
+        "ContextObjective": 0.4287474751472473,
+        "BenefitsAssistance": 0.43371886014938354,
+        "Eligibility": 0.5240155458450317,
+        "ApplicationProcess": 0.578554630279541,
+        "TimelineFrequency": 0.4630243182182312,
+        "AuthoritiesGovernance": 0.4065762758255005,
+        "DefinitionsReferences": 0.4145582914352417
+      }
+    },
+    {
+      "sentence": "Once the application form is filled out and the documents are gathered, applicants must submit them to the local authority.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6849100589752197,
+      "similarities": {
+        "ContextObjective": 0.46565404534339905,
+        "BenefitsAssistance": 0.4398038685321808,
+        "Eligibility": 0.5460963249206543,
+        "ApplicationProcess": 0.6849100589752197,
+        "TimelineFrequency": 0.530219554901123,
+        "AuthoritiesGovernance": 0.4929240047931671,
+        "DefinitionsReferences": 0.4341481328010559
+      }
+    },
+    {
+      "sentence": "The local authority will then verify the information provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6471219062805176,
+      "similarities": {
+        "ContextObjective": 0.5068260431289673,
+        "BenefitsAssistance": 0.54329913854599,
+        "Eligibility": 0.5560991764068604,
+        "ApplicationProcess": 0.6471219062805176,
+        "TimelineFrequency": 0.523792028427124,
+        "AuthoritiesGovernance": 0.5398252010345459,
+        "DefinitionsReferences": 0.5179553031921387
+      }
+    },
+    {
+      "sentence": "After verification, the applications are forwarded to the relevant department for approval.",
+      "role": "ApplicationProcess",
+      "confidence": 0.651728630065918,
+      "similarities": {
+        "ContextObjective": 0.48857635259628296,
+        "BenefitsAssistance": 0.473408043384552,
+        "Eligibility": 0.5532668232917786,
+        "ApplicationProcess": 0.651728630065918,
+        "TimelineFrequency": 0.5318928360939026,
+        "AuthoritiesGovernance": 0.5078721046447754,
+        "DefinitionsReferences": 0.4660716950893402
+      }
+    },
+    {
+      "sentence": "The timeline for the entire application process can vary.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7355709075927734,
+      "similarities": {
+        "ContextObjective": 0.535656213760376,
+        "BenefitsAssistance": 0.5171275734901428,
+        "Eligibility": 0.622408926486969,
+        "ApplicationProcess": 0.6640193462371826,
+        "TimelineFrequency": 0.7355709075927734,
+        "AuthoritiesGovernance": 0.5098590850830078,
+        "DefinitionsReferences": 0.5026938915252686
+      }
+    },
+    {
+      "sentence": "However, applicants can generally expect a response within 30 to 45 days after submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5742451548576355,
+      "similarities": {
+        "ContextObjective": 0.44545459747314453,
+        "BenefitsAssistance": 0.4379926919937134,
+        "Eligibility": 0.508356511592865,
+        "ApplicationProcess": 0.5520074963569641,
+        "TimelineFrequency": 0.5742451548576355,
+        "AuthoritiesGovernance": 0.43217870593070984,
+        "DefinitionsReferences": 0.4061508774757385
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is made directly to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5600778460502625,
+      "similarities": {
+        "ContextObjective": 0.4419713020324707,
+        "BenefitsAssistance": 0.5600778460502625,
+        "Eligibility": 0.5063139796257019,
+        "ApplicationProcess": 0.42916715145111084,
+        "TimelineFrequency": 0.39989250898361206,
+        "AuthoritiesGovernance": 0.4531967341899872,
+        "DefinitionsReferences": 0.3812790513038635
+      }
+    },
+    {
+      "sentence": "This ensures transparency and reduces the chances of corruption.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4602735638618469,
+      "similarities": {
+        "ContextObjective": 0.4309248626232147,
+        "BenefitsAssistance": 0.4007970690727234,
+        "Eligibility": 0.4359186589717865,
+        "ApplicationProcess": 0.4602735638618469,
+        "TimelineFrequency": 0.36717212200164795,
+        "AuthoritiesGovernance": 0.4356035888195038,
+        "DefinitionsReferences": 0.3650767207145691
+      }
+    },
+    {
+      "sentence": "The funds are released in installments based on the progress of construction.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5102835893630981,
+      "similarities": {
+        "ContextObjective": 0.44498878717422485,
+        "BenefitsAssistance": 0.5102835893630981,
+        "Eligibility": 0.4311603903770447,
+        "ApplicationProcess": 0.45053303241729736,
+        "TimelineFrequency": 0.48206615447998047,
+        "AuthoritiesGovernance": 0.4395553171634674,
+        "DefinitionsReferences": 0.39479270577430725
+      }
+    },
+    {
+      "sentence": "The first installment of ₹1 lakh is provided upon approval of the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5593538284301758,
+      "similarities": {
+        "ContextObjective": 0.4951633810997009,
+        "BenefitsAssistance": 0.5310953855514526,
+        "Eligibility": 0.5289609432220459,
+        "ApplicationProcess": 0.5593538284301758,
+        "TimelineFrequency": 0.5058290958404541,
+        "AuthoritiesGovernance": 0.40663671493530273,
+        "DefinitionsReferences": 0.4110170006752014
+      }
+    },
+    {
+      "sentence": "The second installment of ₹1 lakh is released after the completion of the foundation.",
+      "role": "ContextObjective",
+      "confidence": 0.4354921877384186,
+      "similarities": {
+        "ContextObjective": 0.4354921877384186,
+        "BenefitsAssistance": 0.4306110143661499,
+        "Eligibility": 0.35886242985725403,
+        "ApplicationProcess": 0.37582430243492126,
+        "TimelineFrequency": 0.33789771795272827,
+        "AuthoritiesGovernance": 0.34327900409698486,
+        "DefinitionsReferences": 0.3535187840461731
+      }
+    },
+    {
+      "sentence": "The final ₹50,000 is disbursed upon completion of the house.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47803032398223877,
+      "similarities": {
+        "ContextObjective": 0.38730037212371826,
+        "BenefitsAssistance": 0.47803032398223877,
+        "Eligibility": 0.3777342438697815,
+        "ApplicationProcess": 0.41537874937057495,
+        "TimelineFrequency": 0.3614354729652405,
+        "AuthoritiesGovernance": 0.35059788823127747,
+        "DefinitionsReferences": 0.3137042224407196
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Ramai Awas Scheme is the Department of Social Justice and Special Assistance, Government of Maharashtra.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5407981276512146,
+      "similarities": {
+        "ContextObjective": 0.4043748378753662,
+        "BenefitsAssistance": 0.38027626276016235,
+        "Eligibility": 0.45846402645111084,
+        "ApplicationProcess": 0.37815406918525696,
+        "TimelineFrequency": 0.33840569853782654,
+        "AuthoritiesGovernance": 0.5407981276512146,
+        "DefinitionsReferences": 0.37673717737197876
+      }
+    },
+    {
+      "sentence": "This department is responsible for overseeing the implementation of the scheme and ensuring that the benefits reach the intended beneficiaries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6293790340423584,
+      "similarities": {
+        "ContextObjective": 0.5478553771972656,
+        "BenefitsAssistance": 0.5122689008712769,
+        "Eligibility": 0.572766125202179,
+        "ApplicationProcess": 0.48990362882614136,
+        "TimelineFrequency": 0.42176926136016846,
+        "AuthoritiesGovernance": 0.6293790340423584,
+        "DefinitionsReferences": 0.40829920768737793
+      }
+    },
+    {
+      "sentence": "Contact details for the department can be found on the official Maharashtra government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5237102508544922,
+      "similarities": {
+        "ContextObjective": 0.3914187550544739,
+        "BenefitsAssistance": 0.4540666341781616,
+        "Eligibility": 0.4078623652458191,
+        "ApplicationProcess": 0.46240344643592834,
+        "TimelineFrequency": 0.38923051953315735,
+        "AuthoritiesGovernance": 0.5237102508544922,
+        "DefinitionsReferences": 0.44504228234291077
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote social equality by providing housing to marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5270188450813293,
+      "similarities": {
+        "ContextObjective": 0.5270188450813293,
+        "BenefitsAssistance": 0.3768189549446106,
+        "Eligibility": 0.46632078289985657,
+        "ApplicationProcess": 0.3918926417827606,
+        "TimelineFrequency": 0.3630630373954773,
+        "AuthoritiesGovernance": 0.3923541307449341,
+        "DefinitionsReferences": 0.32898807525634766
+      }
+    },
+    {
+      "sentence": "It is part of a broader initiative to uplift the socio-economic status of Scheduled Castes and Nav-Buddha individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.44107505679130554,
+      "similarities": {
+        "ContextObjective": 0.44107505679130554,
+        "BenefitsAssistance": 0.3899783194065094,
+        "Eligibility": 0.402019739151001,
+        "ApplicationProcess": 0.34987872838974,
+        "TimelineFrequency": 0.2995253801345825,
+        "AuthoritiesGovernance": 0.3702833354473114,
+        "DefinitionsReferences": 0.33510124683380127
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹250 crore for the implementation of this scheme in the financial year 2022-2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4822191298007965,
+      "similarities": {
+        "ContextObjective": 0.4739931523799896,
+        "BenefitsAssistance": 0.4822191298007965,
+        "Eligibility": 0.47410714626312256,
+        "ApplicationProcess": 0.4086602032184601,
+        "TimelineFrequency": 0.4189985394477844,
+        "AuthoritiesGovernance": 0.4556484818458557,
+        "DefinitionsReferences": 0.37118929624557495
+      }
+    },
+    {
+      "sentence": "This budget is expected to cover the construction of approximately 1,00,000 houses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46858614683151245,
+      "similarities": {
+        "ContextObjective": 0.41956841945648193,
+        "BenefitsAssistance": 0.46858614683151245,
+        "Eligibility": 0.40053805708885193,
+        "ApplicationProcess": 0.37903904914855957,
+        "TimelineFrequency": 0.3983418345451355,
+        "AuthoritiesGovernance": 0.39763981103897095,
+        "DefinitionsReferences": 0.38250038027763367
+      }
+    },
+    {
+      "sentence": "The Ramai Awas Scheme is aligned with the national housing policy which aims to provide housing for all by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.47906258702278137,
+      "similarities": {
+        "ContextObjective": 0.47906258702278137,
+        "BenefitsAssistance": 0.41084933280944824,
+        "Eligibility": 0.45358502864837646,
+        "ApplicationProcess": 0.4043365716934204,
+        "TimelineFrequency": 0.4014796316623688,
+        "AuthoritiesGovernance": 0.38759949803352356,
+        "DefinitionsReferences": 0.3655240833759308
+      }
+    },
+    {
+      "sentence": "The scheme also encourages community participation in the construction process.",
+      "role": "ContextObjective",
+      "confidence": 0.4978613257408142,
+      "similarities": {
+        "ContextObjective": 0.4978613257408142,
+        "BenefitsAssistance": 0.37340280413627625,
+        "Eligibility": 0.4214104115962982,
+        "ApplicationProcess": 0.4273063838481903,
+        "TimelineFrequency": 0.36206430196762085,
+        "AuthoritiesGovernance": 0.4041215479373932,
+        "DefinitionsReferences": 0.33009597659111023
+      }
+    },
+    {
+      "sentence": "This is to ensure that the houses are built according to the needs and preferences of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.566422164440155,
+      "similarities": {
+        "ContextObjective": 0.513168454170227,
+        "BenefitsAssistance": 0.4754141867160797,
+        "Eligibility": 0.566422164440155,
+        "ApplicationProcess": 0.49999189376831055,
+        "TimelineFrequency": 0.46091964840888977,
+        "AuthoritiesGovernance": 0.5003772974014282,
+        "DefinitionsReferences": 0.431144118309021
+      }
+    },
+    {
+      "sentence": "The government has also partnered with various NGOs to facilitate the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5728917121887207,
+      "similarities": {
+        "ContextObjective": 0.5047605037689209,
+        "BenefitsAssistance": 0.4810065031051636,
+        "Eligibility": 0.4817090928554535,
+        "ApplicationProcess": 0.44112032651901245,
+        "TimelineFrequency": 0.39091622829437256,
+        "AuthoritiesGovernance": 0.5728917121887207,
+        "DefinitionsReferences": 0.44516393542289734
+      }
+    },
+    {
+      "sentence": "These partnerships are intended to provide additional support and resources to beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5523167252540588,
+      "similarities": {
+        "ContextObjective": 0.4777650833129883,
+        "BenefitsAssistance": 0.5523167252540588,
+        "Eligibility": 0.521214485168457,
+        "ApplicationProcess": 0.41754889488220215,
+        "TimelineFrequency": 0.4375840127468109,
+        "AuthoritiesGovernance": 0.4567323923110962,
+        "DefinitionsReferences": 0.4889424443244934
+      }
+    },
+    {
+      "sentence": "The Ramai Awas Scheme is a crucial step towards achieving the goal of housing for all in Maharashtra.",
+      "role": "ContextObjective",
+      "confidence": 0.4823589622974396,
+      "similarities": {
+        "ContextObjective": 0.4823589622974396,
+        "BenefitsAssistance": 0.3870070278644562,
+        "Eligibility": 0.4514041841030121,
+        "ApplicationProcess": 0.4096646308898926,
+        "TimelineFrequency": 0.3561847507953644,
+        "AuthoritiesGovernance": 0.39546507596969604,
+        "DefinitionsReferences": 0.3564589023590088
+      }
+    },
+    {
+      "sentence": "It addresses the specific needs of marginalized communities who have historically faced discrimination in housing.",
+      "role": "Eligibility",
+      "confidence": 0.5065506100654602,
+      "similarities": {
+        "ContextObjective": 0.4711334705352783,
+        "BenefitsAssistance": 0.41953879594802856,
+        "Eligibility": 0.5065506100654602,
+        "ApplicationProcess": 0.4079098105430603,
+        "TimelineFrequency": 0.3917144238948822,
+        "AuthoritiesGovernance": 0.4322233200073242,
+        "DefinitionsReferences": 0.35526543855667114
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to have a positive impact on the overall health and well-being of the beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.4987937808036804,
+      "similarities": {
+        "ContextObjective": 0.4987937808036804,
+        "BenefitsAssistance": 0.4778022766113281,
+        "Eligibility": 0.49525150656700134,
+        "ApplicationProcess": 0.40047815442085266,
+        "TimelineFrequency": 0.35975712537765503,
+        "AuthoritiesGovernance": 0.40244972705841064,
+        "DefinitionsReferences": 0.351989209651947
+      }
+    },
+    {
+      "sentence": "Access to adequate housing is linked to improved health outcomes and better quality of life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4473244547843933,
+      "similarities": {
+        "ContextObjective": 0.40548187494277954,
+        "BenefitsAssistance": 0.4473244547843933,
+        "Eligibility": 0.4415754973888397,
+        "ApplicationProcess": 0.4159385561943054,
+        "TimelineFrequency": 0.39299437403678894,
+        "AuthoritiesGovernance": 0.40460798144340515,
+        "DefinitionsReferences": 0.3902781903743744
+      }
+    },
+    {
+      "sentence": "The government is committed to monitoring the progress of the scheme regularly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4956107437610626,
+      "similarities": {
+        "ContextObjective": 0.4890161156654358,
+        "BenefitsAssistance": 0.4424774646759033,
+        "Eligibility": 0.4535186290740967,
+        "ApplicationProcess": 0.4956107437610626,
+        "TimelineFrequency": 0.44228824973106384,
+        "AuthoritiesGovernance": 0.46333232522010803,
+        "DefinitionsReferences": 0.41921305656433105
+      }
+    },
+    {
+      "sentence": "This includes assessing the number of houses constructed and the satisfaction of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5183973908424377,
+      "similarities": {
+        "ContextObjective": 0.4755175709724426,
+        "BenefitsAssistance": 0.5183973908424377,
+        "Eligibility": 0.4948839843273163,
+        "ApplicationProcess": 0.47215670347213745,
+        "TimelineFrequency": 0.4398843050003052,
+        "AuthoritiesGovernance": 0.47331535816192627,
+        "DefinitionsReferences": 0.4082849621772766
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5584428906440735,
+      "similarities": {
+        "ContextObjective": 0.5260372161865234,
+        "BenefitsAssistance": 0.5003200769424438,
+        "Eligibility": 0.534416913986206,
+        "ApplicationProcess": 0.4749782681465149,
+        "TimelineFrequency": 0.4199962317943573,
+        "AuthoritiesGovernance": 0.5584428906440735,
+        "DefinitionsReferences": 0.4378007650375366
+      }
+    },
+    {
+      "sentence": "The Ramai Awas Scheme is a vital initiative that reflects the government's commitment to social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.501150369644165,
+      "similarities": {
+        "ContextObjective": 0.501150369644165,
+        "BenefitsAssistance": 0.3622092306613922,
+        "Eligibility": 0.4333546757698059,
+        "ApplicationProcess": 0.39081305265426636,
+        "TimelineFrequency": 0.3554811477661133,
+        "AuthoritiesGovernance": 0.38018009066581726,
+        "DefinitionsReferences": 0.3662756681442261
+      }
+    },
+    {
+      "sentence": "It aims to empower marginalized communities by providing them with the basic necessity of housing.",
+      "role": "ContextObjective",
+      "confidence": 0.49443185329437256,
+      "similarities": {
+        "ContextObjective": 0.49443185329437256,
+        "BenefitsAssistance": 0.39948347210884094,
+        "Eligibility": 0.44507479667663574,
+        "ApplicationProcess": 0.40307676792144775,
+        "TimelineFrequency": 0.3618730306625366,
+        "AuthoritiesGovernance": 0.41989773511886597,
+        "DefinitionsReferences": 0.3639266788959503
+      }
+    },
+    {
+      "sentence": "The scheme is an essential part of the broader framework of welfare schemes aimed at uplifting the socio-economic status of disadvantaged groups in Maharashtra.",
+      "role": "ContextObjective",
+      "confidence": 0.5374168157577515,
+      "similarities": {
+        "ContextObjective": 0.5374168157577515,
+        "BenefitsAssistance": 0.45304495096206665,
+        "Eligibility": 0.4744768738746643,
+        "ApplicationProcess": 0.39880314469337463,
+        "TimelineFrequency": 0.3815898001194,
+        "AuthoritiesGovernance": 0.4319300055503845,
+        "DefinitionsReferences": 0.38056617975234985
+      }
+    },
+    {
+      "sentence": "Overall, the Ramai Awas Scheme is a comprehensive initiative that addresses the housing needs of Scheduled Castes and Nav-Buddha communities.",
+      "role": "ContextObjective",
+      "confidence": 0.48244407773017883,
+      "similarities": {
+        "ContextObjective": 0.48244407773017883,
+        "BenefitsAssistance": 0.44176042079925537,
+        "Eligibility": 0.4539962708950043,
+        "ApplicationProcess": 0.41318461298942566,
+        "TimelineFrequency": 0.39560025930404663,
+        "AuthoritiesGovernance": 0.3983246088027954,
+        "DefinitionsReferences": 0.3424697816371918
+      }
+    },
+    {
+      "sentence": "It provides financial assistance and aims to create a supportive environment for the construction of homes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5339787006378174,
+      "similarities": {
+        "ContextObjective": 0.5062086582183838,
+        "BenefitsAssistance": 0.5339787006378174,
+        "Eligibility": 0.48750361800193787,
+        "ApplicationProcess": 0.45630723237991333,
+        "TimelineFrequency": 0.41358011960983276,
+        "AuthoritiesGovernance": 0.4063783288002014,
+        "DefinitionsReferences": 0.39820224046707153
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's dedication to ensuring that every citizen has access to safe and secure housing.",
+      "role": "ContextObjective",
+      "confidence": 0.46465104818344116,
+      "similarities": {
+        "ContextObjective": 0.46465104818344116,
+        "BenefitsAssistance": 0.39957454800605774,
+        "Eligibility": 0.44931167364120483,
+        "ApplicationProcess": 0.44425684213638306,
+        "TimelineFrequency": 0.35299915075302124,
+        "AuthoritiesGovernance": 0.36633747816085815,
+        "DefinitionsReferences": 0.3762392997741699
+      }
+    },
+    {
+      "sentence": "This initiative is expected to bring about significant changes in the lives of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.514085054397583,
+      "similarities": {
+        "ContextObjective": 0.4864296317100525,
+        "BenefitsAssistance": 0.4820718765258789,
+        "Eligibility": 0.514085054397583,
+        "ApplicationProcess": 0.4265354871749878,
+        "TimelineFrequency": 0.40373489260673523,
+        "AuthoritiesGovernance": 0.44431281089782715,
+        "DefinitionsReferences": 0.4000181257724762
+      }
+    },
+    {
+      "sentence": "It will contribute to the overall development and empowerment of marginalized communities in Maharashtra.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4297741651535034,
+      "similarities": {
+        "ContextObjective": 0.418783962726593,
+        "BenefitsAssistance": 0.3705361783504486,
+        "Eligibility": 0.3856404423713684,
+        "ApplicationProcess": 0.3117802143096924,
+        "TimelineFrequency": 0.3007257580757141,
+        "AuthoritiesGovernance": 0.4297741651535034,
+        "DefinitionsReferences": 0.34717461466789246
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 17,
+    "Eligibility": 10,
+    "BenefitsAssistance": 12,
+    "ApplicationProcess": 14,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-25T20:42:14.532259"
+}

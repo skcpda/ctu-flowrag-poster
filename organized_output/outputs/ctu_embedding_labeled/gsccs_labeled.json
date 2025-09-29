@@ -1,0 +1,995 @@
+{
+  "scheme_name": "Guruji Student Credit Card (GSCC) Scheme",
+  "total_sentences": 70,
+  "labeled_sentences": [
+    {
+      "sentence": "The Guruji Student Credit Card (GSCC) Scheme was launched by the Government of Madhya Pradesh on 1st January 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5120241641998291,
+      "similarities": {
+        "ContextObjective": 0.5120241641998291,
+        "BenefitsAssistance": 0.4676192104816437,
+        "Eligibility": 0.4610336124897003,
+        "ApplicationProcess": 0.45001938939094543,
+        "TimelineFrequency": 0.467765748500824,
+        "AuthoritiesGovernance": 0.4430246651172638,
+        "DefinitionsReferences": 0.3896675109863281
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to students pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5696133375167847,
+      "similarities": {
+        "ContextObjective": 0.5696133375167847,
+        "BenefitsAssistance": 0.5380546450614929,
+        "Eligibility": 0.5230838656425476,
+        "ApplicationProcess": 0.4805501103401184,
+        "TimelineFrequency": 0.46468114852905273,
+        "AuthoritiesGovernance": 0.38863494992256165,
+        "DefinitionsReferences": 0.38922399282455444
+      }
+    },
+    {
+      "sentence": "The primary objective of the GSCC Scheme is to facilitate access to quality education for students from economically weaker sections.",
+      "role": "ContextObjective",
+      "confidence": 0.5136100649833679,
+      "similarities": {
+        "ContextObjective": 0.5136100649833679,
+        "BenefitsAssistance": 0.3930264711380005,
+        "Eligibility": 0.4583187699317932,
+        "ApplicationProcess": 0.41237685084342957,
+        "TimelineFrequency": 0.3922475576400757,
+        "AuthoritiesGovernance": 0.4048217535018921,
+        "DefinitionsReferences": 0.3316618800163269
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students who have completed their 12th grade and wish to pursue undergraduate or postgraduate courses.",
+      "role": "ContextObjective",
+      "confidence": 0.5402133464813232,
+      "similarities": {
+        "ContextObjective": 0.5402133464813232,
+        "BenefitsAssistance": 0.37472832202911377,
+        "Eligibility": 0.5054320693016052,
+        "ApplicationProcess": 0.4581831693649292,
+        "TimelineFrequency": 0.4627228379249573,
+        "AuthoritiesGovernance": 0.34705209732055664,
+        "DefinitionsReferences": 0.3341922163963318
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible students can avail a credit limit of up to ₹10 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5621644854545593,
+      "similarities": {
+        "ContextObjective": 0.4466426968574524,
+        "BenefitsAssistance": 0.5003941059112549,
+        "Eligibility": 0.5621644854545593,
+        "ApplicationProcess": 0.4618130922317505,
+        "TimelineFrequency": 0.47369176149368286,
+        "AuthoritiesGovernance": 0.3291921317577362,
+        "DefinitionsReferences": 0.4112994372844696
+      }
+    },
+    {
+      "sentence": "The amount can be used for tuition fees, accommodation, books, and other educational expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.61953204870224,
+      "similarities": {
+        "ContextObjective": 0.4660211205482483,
+        "BenefitsAssistance": 0.61953204870224,
+        "Eligibility": 0.49025481939315796,
+        "ApplicationProcess": 0.45701754093170166,
+        "TimelineFrequency": 0.5025526285171509,
+        "AuthoritiesGovernance": 0.413857102394104,
+        "DefinitionsReferences": 0.5228935480117798
+      }
+    },
+    {
+      "sentence": "The scheme is designed to ensure that financial constraints do not hinder students from pursuing their educational aspirations.",
+      "role": "ContextObjective",
+      "confidence": 0.5551034212112427,
+      "similarities": {
+        "ContextObjective": 0.5551034212112427,
+        "BenefitsAssistance": 0.4770991802215576,
+        "Eligibility": 0.5345624089241028,
+        "ApplicationProcess": 0.462633341550827,
+        "TimelineFrequency": 0.4473643898963928,
+        "AuthoritiesGovernance": 0.33311206102371216,
+        "DefinitionsReferences": 0.3467050790786743
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme has set measurable targets to cover a significant number of students.",
+      "role": "ContextObjective",
+      "confidence": 0.50374436378479,
+      "similarities": {
+        "ContextObjective": 0.50374436378479,
+        "BenefitsAssistance": 0.4262383282184601,
+        "Eligibility": 0.4898870587348938,
+        "ApplicationProcess": 0.40314096212387085,
+        "TimelineFrequency": 0.40613776445388794,
+        "AuthoritiesGovernance": 0.3802775740623474,
+        "DefinitionsReferences": 0.3554878830909729
+      }
+    },
+    {
+      "sentence": "The government aims to support at least 1 lakh students in the first year of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.4836466610431671,
+      "similarities": {
+        "ContextObjective": 0.4836466610431671,
+        "BenefitsAssistance": 0.43015581369400024,
+        "Eligibility": 0.45102912187576294,
+        "ApplicationProcess": 0.4193112850189209,
+        "TimelineFrequency": 0.39125826954841614,
+        "AuthoritiesGovernance": 0.43917611241340637,
+        "DefinitionsReferences": 0.3665177822113037
+      }
+    },
+    {
+      "sentence": "The benefits of the GSCC Scheme include an interest subsidy of 5% on the education loan.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4466770589351654,
+      "similarities": {
+        "ContextObjective": 0.4160555899143219,
+        "BenefitsAssistance": 0.4466770589351654,
+        "Eligibility": 0.3955579102039337,
+        "ApplicationProcess": 0.35552549362182617,
+        "TimelineFrequency": 0.37408915162086487,
+        "AuthoritiesGovernance": 0.33601802587509155,
+        "DefinitionsReferences": 0.35185396671295166
+      }
+    },
+    {
+      "sentence": "This subsidy is applicable for the entire duration of the course.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5056992173194885,
+      "similarities": {
+        "ContextObjective": 0.46199285984039307,
+        "BenefitsAssistance": 0.49082183837890625,
+        "Eligibility": 0.4694054126739502,
+        "ApplicationProcess": 0.44472336769104004,
+        "TimelineFrequency": 0.5056992173194885,
+        "AuthoritiesGovernance": 0.3848823308944702,
+        "DefinitionsReferences": 0.4557849168777466
+      }
+    },
+    {
+      "sentence": "Additionally, the repayment period for the loan is flexible, allowing students to repay over a period of 15 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.488133043050766,
+      "similarities": {
+        "ContextObjective": 0.3684260845184326,
+        "BenefitsAssistance": 0.4839504361152649,
+        "Eligibility": 0.456254243850708,
+        "ApplicationProcess": 0.4244283437728882,
+        "TimelineFrequency": 0.488133043050766,
+        "AuthoritiesGovernance": 0.33460211753845215,
+        "DefinitionsReferences": 0.3872166872024536
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the GSCC Scheme include students who are residents of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5808161497116089,
+      "similarities": {
+        "ContextObjective": 0.475847065448761,
+        "BenefitsAssistance": 0.4150168299674988,
+        "Eligibility": 0.5808161497116089,
+        "ApplicationProcess": 0.47290027141571045,
+        "TimelineFrequency": 0.45534852147102356,
+        "AuthoritiesGovernance": 0.3976113796234131,
+        "DefinitionsReferences": 0.3799744248390198
+      }
+    },
+    {
+      "sentence": "Applicants must have completed their 12th grade from a recognized board.",
+      "role": "Eligibility",
+      "confidence": 0.5824452638626099,
+      "similarities": {
+        "ContextObjective": 0.49144357442855835,
+        "BenefitsAssistance": 0.4010978043079376,
+        "Eligibility": 0.5824452638626099,
+        "ApplicationProcess": 0.5734740495681763,
+        "TimelineFrequency": 0.5311441421508789,
+        "AuthoritiesGovernance": 0.4191541075706482,
+        "DefinitionsReferences": 0.4346594214439392
+      }
+    },
+    {
+      "sentence": "The scheme is open to students of any age.",
+      "role": "Eligibility",
+      "confidence": 0.5619797110557556,
+      "similarities": {
+        "ContextObjective": 0.5524659156799316,
+        "BenefitsAssistance": 0.485034316778183,
+        "Eligibility": 0.5619797110557556,
+        "ApplicationProcess": 0.48771846294403076,
+        "TimelineFrequency": 0.5075570344924927,
+        "AuthoritiesGovernance": 0.38189697265625,
+        "DefinitionsReferences": 0.41350865364074707
+      }
+    },
+    {
+      "sentence": "However, the annual family income of the applicant must not exceed ₹6 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5444417595863342,
+      "similarities": {
+        "ContextObjective": 0.4067454934120178,
+        "BenefitsAssistance": 0.44531315565109253,
+        "Eligibility": 0.5444417595863342,
+        "ApplicationProcess": 0.49279749393463135,
+        "TimelineFrequency": 0.42607995867729187,
+        "AuthoritiesGovernance": 0.31246644258499146,
+        "DefinitionsReferences": 0.3441607654094696
+      }
+    },
+    {
+      "sentence": "Students must also demonstrate their admission to a recognized higher education institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5541437864303589,
+      "similarities": {
+        "ContextObjective": 0.4529379606246948,
+        "BenefitsAssistance": 0.4394688606262207,
+        "Eligibility": 0.5363325476646423,
+        "ApplicationProcess": 0.5541437864303589,
+        "TimelineFrequency": 0.48351794481277466,
+        "AuthoritiesGovernance": 0.3794645667076111,
+        "DefinitionsReferences": 0.4273611903190613
+      }
+    },
+    {
+      "sentence": "The application process for the GSCC Scheme is straightforward and involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6236994862556458,
+      "similarities": {
+        "ContextObjective": 0.5502054691314697,
+        "BenefitsAssistance": 0.4612904191017151,
+        "Eligibility": 0.5298479795455933,
+        "ApplicationProcess": 0.6236994862556458,
+        "TimelineFrequency": 0.5151636600494385,
+        "AuthoritiesGovernance": 0.4597253203392029,
+        "DefinitionsReferences": 0.416575163602829
+      }
+    },
+    {
+      "sentence": "First, students must visit the official website of the Madhya Pradesh government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5032879114151001,
+      "similarities": {
+        "ContextObjective": 0.4243433475494385,
+        "BenefitsAssistance": 0.3896515369415283,
+        "Eligibility": 0.4248427152633667,
+        "ApplicationProcess": 0.5032879114151001,
+        "TimelineFrequency": 0.4113047122955322,
+        "AuthoritiesGovernance": 0.43642187118530273,
+        "DefinitionsReferences": 0.43759673833847046
+      }
+    },
+    {
+      "sentence": "They need to register by providing personal details such as name, address, and contact information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6257022619247437,
+      "similarities": {
+        "ContextObjective": 0.49408769607543945,
+        "BenefitsAssistance": 0.5522192120552063,
+        "Eligibility": 0.5943833589553833,
+        "ApplicationProcess": 0.6257022619247437,
+        "TimelineFrequency": 0.5326956510543823,
+        "AuthoritiesGovernance": 0.5110183358192444,
+        "DefinitionsReferences": 0.5039966702461243
+      }
+    },
+    {
+      "sentence": "Next, applicants must fill out the GSCC application form available online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6857790946960449,
+      "similarities": {
+        "ContextObjective": 0.43224138021469116,
+        "BenefitsAssistance": 0.44122615456581116,
+        "Eligibility": 0.4895861744880676,
+        "ApplicationProcess": 0.6857790946960449,
+        "TimelineFrequency": 0.49780404567718506,
+        "AuthoritiesGovernance": 0.4185348451137543,
+        "DefinitionsReferences": 0.4053535461425781
+      }
+    },
+    {
+      "sentence": "The form requires details about the course, institution, and financial needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6782294511795044,
+      "similarities": {
+        "ContextObjective": 0.5623338222503662,
+        "BenefitsAssistance": 0.6782294511795044,
+        "Eligibility": 0.6135109663009644,
+        "ApplicationProcess": 0.6572360396385193,
+        "TimelineFrequency": 0.6085494160652161,
+        "AuthoritiesGovernance": 0.46533942222595215,
+        "DefinitionsReferences": 0.5358761548995972
+      }
+    },
+    {
+      "sentence": "Students must upload necessary documents including their 12th-grade mark sheet.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5553566217422485,
+      "similarities": {
+        "ContextObjective": 0.4158515930175781,
+        "BenefitsAssistance": 0.4388650953769684,
+        "Eligibility": 0.4809650778770447,
+        "ApplicationProcess": 0.5553566217422485,
+        "TimelineFrequency": 0.48411643505096436,
+        "AuthoritiesGovernance": 0.39010757207870483,
+        "DefinitionsReferences": 0.4843253493309021
+      }
+    },
+    {
+      "sentence": "They also need to provide proof of admission to the higher education institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6044987440109253,
+      "similarities": {
+        "ContextObjective": 0.4652683138847351,
+        "BenefitsAssistance": 0.4893178939819336,
+        "Eligibility": 0.5449575781822205,
+        "ApplicationProcess": 0.6044987440109253,
+        "TimelineFrequency": 0.4998895227909088,
+        "AuthoritiesGovernance": 0.4018635153770447,
+        "DefinitionsReferences": 0.44472163915634155
+      }
+    },
+    {
+      "sentence": "An income certificate of the family must be submitted to verify eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6317776441574097,
+      "similarities": {
+        "ContextObjective": 0.4662879407405853,
+        "BenefitsAssistance": 0.5459661483764648,
+        "Eligibility": 0.6153813004493713,
+        "ApplicationProcess": 0.6317776441574097,
+        "TimelineFrequency": 0.49654272198677063,
+        "AuthoritiesGovernance": 0.4173751473426819,
+        "DefinitionsReferences": 0.43372881412506104
+      }
+    },
+    {
+      "sentence": "Once the application is completed, students can submit it online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6884177923202515,
+      "similarities": {
+        "ContextObjective": 0.47165536880493164,
+        "BenefitsAssistance": 0.4754926562309265,
+        "Eligibility": 0.5291380286216736,
+        "ApplicationProcess": 0.6884177923202515,
+        "TimelineFrequency": 0.5762288570404053,
+        "AuthoritiesGovernance": 0.4154547154903412,
+        "DefinitionsReferences": 0.42553767561912537
+      }
+    },
+    {
+      "sentence": "The government has set a deadline for applications which is typically in June each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6637766361236572,
+      "similarities": {
+        "ContextObjective": 0.5125691890716553,
+        "BenefitsAssistance": 0.4512636065483093,
+        "Eligibility": 0.5863909721374512,
+        "ApplicationProcess": 0.5709543228149414,
+        "TimelineFrequency": 0.6637766361236572,
+        "AuthoritiesGovernance": 0.47294890880584717,
+        "DefinitionsReferences": 0.434368371963501
+      }
+    },
+    {
+      "sentence": "Disbursement of funds occurs after the application is approved.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5910549759864807,
+      "similarities": {
+        "ContextObjective": 0.5008732080459595,
+        "BenefitsAssistance": 0.5817355513572693,
+        "Eligibility": 0.5695595145225525,
+        "ApplicationProcess": 0.5910549759864807,
+        "TimelineFrequency": 0.5541784763336182,
+        "AuthoritiesGovernance": 0.5003067255020142,
+        "DefinitionsReferences": 0.4198702573776245
+      }
+    },
+    {
+      "sentence": "Funds are directly credited to the educational institution’s account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5495001077651978,
+      "similarities": {
+        "ContextObjective": 0.4508741796016693,
+        "BenefitsAssistance": 0.5495001077651978,
+        "Eligibility": 0.47771257162094116,
+        "ApplicationProcess": 0.45439791679382324,
+        "TimelineFrequency": 0.44465115666389465,
+        "AuthoritiesGovernance": 0.41462719440460205,
+        "DefinitionsReferences": 0.4110226333141327
+      }
+    },
+    {
+      "sentence": "This ensures that the money is used solely for educational purposes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44767260551452637,
+      "similarities": {
+        "ContextObjective": 0.42686301469802856,
+        "BenefitsAssistance": 0.44767260551452637,
+        "Eligibility": 0.4059041738510132,
+        "ApplicationProcess": 0.40827202796936035,
+        "TimelineFrequency": 0.3742786645889282,
+        "AuthoritiesGovernance": 0.3431057333946228,
+        "DefinitionsReferences": 0.3884739875793457
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is implemented by the Department of Higher Education, Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5050603747367859,
+      "similarities": {
+        "ContextObjective": 0.45989111065864563,
+        "BenefitsAssistance": 0.42414623498916626,
+        "Eligibility": 0.4424697458744049,
+        "ApplicationProcess": 0.4142179787158966,
+        "TimelineFrequency": 0.3814728260040283,
+        "AuthoritiesGovernance": 0.5050603747367859,
+        "DefinitionsReferences": 0.36981284618377686
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6176396608352661,
+      "similarities": {
+        "ContextObjective": 0.4984424114227295,
+        "BenefitsAssistance": 0.5858836770057678,
+        "Eligibility": 0.5938441157341003,
+        "ApplicationProcess": 0.6176396608352661,
+        "TimelineFrequency": 0.5696287155151367,
+        "AuthoritiesGovernance": 0.5828471183776855,
+        "DefinitionsReferences": 0.45956549048423767
+      }
+    },
+    {
+      "sentence": "Students can contact the department for any queries or assistance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5339459180831909,
+      "similarities": {
+        "ContextObjective": 0.4431767463684082,
+        "BenefitsAssistance": 0.5275713205337524,
+        "Eligibility": 0.4988613426685333,
+        "ApplicationProcess": 0.514991819858551,
+        "TimelineFrequency": 0.4813058376312256,
+        "AuthoritiesGovernance": 0.5339459180831909,
+        "DefinitionsReferences": 0.4558762311935425
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Higher Education are available on the official government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5043141841888428,
+      "similarities": {
+        "ContextObjective": 0.42489659786224365,
+        "BenefitsAssistance": 0.486663281917572,
+        "Eligibility": 0.4462908208370209,
+        "ApplicationProcess": 0.488421231508255,
+        "TimelineFrequency": 0.42549192905426025,
+        "AuthoritiesGovernance": 0.5043141841888428,
+        "DefinitionsReferences": 0.45547932386398315
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is part of a broader initiative to enhance educational opportunities in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4982607364654541,
+      "similarities": {
+        "ContextObjective": 0.4982607364654541,
+        "BenefitsAssistance": 0.4080238938331604,
+        "Eligibility": 0.4231500029563904,
+        "ApplicationProcess": 0.39384740591049194,
+        "TimelineFrequency": 0.38957393169403076,
+        "AuthoritiesGovernance": 0.4206976294517517,
+        "DefinitionsReferences": 0.3756445646286011
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crore for the first year of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5112746357917786,
+      "similarities": {
+        "ContextObjective": 0.5112746357917786,
+        "BenefitsAssistance": 0.47630569338798523,
+        "Eligibility": 0.45744913816452026,
+        "ApplicationProcess": 0.4259704649448395,
+        "TimelineFrequency": 0.43088531494140625,
+        "AuthoritiesGovernance": 0.41960930824279785,
+        "DefinitionsReferences": 0.35340166091918945
+      }
+    },
+    {
+      "sentence": "This funding is aimed at supporting the educational aspirations of students across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5255697965621948,
+      "similarities": {
+        "ContextObjective": 0.5255697965621948,
+        "BenefitsAssistance": 0.44527262449264526,
+        "Eligibility": 0.5076404809951782,
+        "ApplicationProcess": 0.42075926065444946,
+        "TimelineFrequency": 0.4472128748893738,
+        "AuthoritiesGovernance": 0.3944965600967407,
+        "DefinitionsReferences": 0.39487457275390625
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly increase enrollment in higher education institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.48943018913269043,
+      "similarities": {
+        "ContextObjective": 0.48943018913269043,
+        "BenefitsAssistance": 0.4293336272239685,
+        "Eligibility": 0.42696553468704224,
+        "ApplicationProcess": 0.4026361107826233,
+        "TimelineFrequency": 0.3983062505722046,
+        "AuthoritiesGovernance": 0.3511142134666443,
+        "DefinitionsReferences": 0.34389612078666687
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government hopes to reduce dropout rates among students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4882102310657501,
+      "similarities": {
+        "ContextObjective": 0.43683433532714844,
+        "BenefitsAssistance": 0.4882102310657501,
+        "Eligibility": 0.4766348898410797,
+        "ApplicationProcess": 0.40549585223197937,
+        "TimelineFrequency": 0.42479828000068665,
+        "AuthoritiesGovernance": 0.44425302743911743,
+        "DefinitionsReferences": 0.36057960987091064
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is also aligned with the National Education Policy 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.44161486625671387,
+      "similarities": {
+        "ContextObjective": 0.44161486625671387,
+        "BenefitsAssistance": 0.37946656346321106,
+        "Eligibility": 0.3953661322593689,
+        "ApplicationProcess": 0.36540621519088745,
+        "TimelineFrequency": 0.36349523067474365,
+        "AuthoritiesGovernance": 0.3579367399215698,
+        "DefinitionsReferences": 0.3445405960083008
+      }
+    },
+    {
+      "sentence": "This policy emphasizes the importance of equitable access to education for all students.",
+      "role": "Eligibility",
+      "confidence": 0.43811506032943726,
+      "similarities": {
+        "ContextObjective": 0.3948810398578644,
+        "BenefitsAssistance": 0.38785502314567566,
+        "Eligibility": 0.43811506032943726,
+        "ApplicationProcess": 0.369864821434021,
+        "TimelineFrequency": 0.3828405737876892,
+        "AuthoritiesGovernance": 0.35896486043930054,
+        "DefinitionsReferences": 0.37976986169815063
+      }
+    },
+    {
+      "sentence": "The scheme is expected to empower students by providing them with the necessary financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5453292727470398,
+      "similarities": {
+        "ContextObjective": 0.539414644241333,
+        "BenefitsAssistance": 0.5453292727470398,
+        "Eligibility": 0.5085743069648743,
+        "ApplicationProcess": 0.45625874400138855,
+        "TimelineFrequency": 0.4431455433368683,
+        "AuthoritiesGovernance": 0.4004981517791748,
+        "DefinitionsReferences": 0.3985636830329895
+      }
+    },
+    {
+      "sentence": "In addition to the financial benefits, the GSCC Scheme promotes skill development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46128615736961365,
+      "similarities": {
+        "ContextObjective": 0.4393714666366577,
+        "BenefitsAssistance": 0.46128615736961365,
+        "Eligibility": 0.3899840712547302,
+        "ApplicationProcess": 0.37114548683166504,
+        "TimelineFrequency": 0.3634430766105652,
+        "AuthoritiesGovernance": 0.3368532657623291,
+        "DefinitionsReferences": 0.38688892126083374
+      }
+    },
+    {
+      "sentence": "Students are encouraged to pursue courses that enhance their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.498932421207428,
+      "similarities": {
+        "ContextObjective": 0.498932421207428,
+        "BenefitsAssistance": 0.4109865427017212,
+        "Eligibility": 0.44733819365501404,
+        "ApplicationProcess": 0.4370402693748474,
+        "TimelineFrequency": 0.47268080711364746,
+        "AuthoritiesGovernance": 0.3894757926464081,
+        "DefinitionsReferences": 0.4463244080543518
+      }
+    },
+    {
+      "sentence": "The government aims to create a skilled workforce that can contribute to the state’s economy.",
+      "role": "ContextObjective",
+      "confidence": 0.49991488456726074,
+      "similarities": {
+        "ContextObjective": 0.49991488456726074,
+        "BenefitsAssistance": 0.4302991032600403,
+        "Eligibility": 0.48294392228126526,
+        "ApplicationProcess": 0.44331979751586914,
+        "TimelineFrequency": 0.4309329092502594,
+        "AuthoritiesGovernance": 0.45357078313827515,
+        "DefinitionsReferences": 0.39186930656433105
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme has received positive feedback from students and educational institutions alike.",
+      "role": "ContextObjective",
+      "confidence": 0.4715704023838043,
+      "similarities": {
+        "ContextObjective": 0.4715704023838043,
+        "BenefitsAssistance": 0.40208491683006287,
+        "Eligibility": 0.4041977822780609,
+        "ApplicationProcess": 0.3895319104194641,
+        "TimelineFrequency": 0.3573116362094879,
+        "AuthoritiesGovernance": 0.3765413165092468,
+        "DefinitionsReferences": 0.3740352988243103
+      }
+    },
+    {
+      "sentence": "Many students have expressed gratitude for the financial support provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5187419652938843,
+      "similarities": {
+        "ContextObjective": 0.4233818054199219,
+        "BenefitsAssistance": 0.5187419652938843,
+        "Eligibility": 0.43670934438705444,
+        "ApplicationProcess": 0.4031933844089508,
+        "TimelineFrequency": 0.4005082845687866,
+        "AuthoritiesGovernance": 0.3635943531990051,
+        "DefinitionsReferences": 0.41890624165534973
+      }
+    },
+    {
+      "sentence": "This scheme is seen as a vital step towards achieving educational equity in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.49648407101631165,
+      "similarities": {
+        "ContextObjective": 0.49648407101631165,
+        "BenefitsAssistance": 0.37462571263313293,
+        "Eligibility": 0.4228060841560364,
+        "ApplicationProcess": 0.4076874852180481,
+        "TimelineFrequency": 0.36112165451049805,
+        "AuthoritiesGovernance": 0.3910294473171234,
+        "DefinitionsReferences": 0.36284303665161133
+      }
+    },
+    {
+      "sentence": "The government is committed to monitoring the implementation of the GSCC Scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5372693538665771,
+      "similarities": {
+        "ContextObjective": 0.4645652174949646,
+        "BenefitsAssistance": 0.4430128335952759,
+        "Eligibility": 0.47738397121429443,
+        "ApplicationProcess": 0.4890862703323364,
+        "TimelineFrequency": 0.39631855487823486,
+        "AuthoritiesGovernance": 0.5372693538665771,
+        "DefinitionsReferences": 0.42483118176460266
+      }
+    },
+    {
+      "sentence": "Regular assessments will be conducted to evaluate its impact on student enrollment and success.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4940585196018219,
+      "similarities": {
+        "ContextObjective": 0.418804407119751,
+        "BenefitsAssistance": 0.4661923050880432,
+        "Eligibility": 0.48147404193878174,
+        "ApplicationProcess": 0.4720664322376251,
+        "TimelineFrequency": 0.4940585196018219,
+        "AuthoritiesGovernance": 0.4083893299102783,
+        "DefinitionsReferences": 0.4299072027206421
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is a significant initiative in the realm of educational financing in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5101231932640076,
+      "similarities": {
+        "ContextObjective": 0.5101231932640076,
+        "BenefitsAssistance": 0.45722496509552,
+        "Eligibility": 0.4346765875816345,
+        "ApplicationProcess": 0.4088283181190491,
+        "TimelineFrequency": 0.3866565227508545,
+        "AuthoritiesGovernance": 0.3861474096775055,
+        "DefinitionsReferences": 0.3686503767967224
+      }
+    },
+    {
+      "sentence": "It represents the government’s commitment to fostering a culture of learning and development.",
+      "role": "ContextObjective",
+      "confidence": 0.4654535949230194,
+      "similarities": {
+        "ContextObjective": 0.4654535949230194,
+        "BenefitsAssistance": 0.36950939893722534,
+        "Eligibility": 0.39267808198928833,
+        "ApplicationProcess": 0.3973105549812317,
+        "TimelineFrequency": 0.39075666666030884,
+        "AuthoritiesGovernance": 0.44044873118400574,
+        "DefinitionsReferences": 0.45460063219070435
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time based on feedback and changing educational needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5652177333831787,
+      "similarities": {
+        "ContextObjective": 0.5652177333831787,
+        "BenefitsAssistance": 0.45891061425209045,
+        "Eligibility": 0.49411725997924805,
+        "ApplicationProcess": 0.4766290485858917,
+        "TimelineFrequency": 0.4991952180862427,
+        "AuthoritiesGovernance": 0.4618894159793854,
+        "DefinitionsReferences": 0.4428240656852722
+      }
+    },
+    {
+      "sentence": "Overall, the Guruji Student Credit Card Scheme is a transformative initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4818906784057617,
+      "similarities": {
+        "ContextObjective": 0.4818906784057617,
+        "BenefitsAssistance": 0.4179422855377197,
+        "Eligibility": 0.40166226029396057,
+        "ApplicationProcess": 0.41312375664711,
+        "TimelineFrequency": 0.37975820899009705,
+        "AuthoritiesGovernance": 0.36321961879730225,
+        "DefinitionsReferences": 0.35516101121902466
+      }
+    },
+    {
+      "sentence": "It aims to empower students financially and academically.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5074361562728882,
+      "similarities": {
+        "ContextObjective": 0.5029757022857666,
+        "BenefitsAssistance": 0.5074361562728882,
+        "Eligibility": 0.44937074184417725,
+        "ApplicationProcess": 0.4225526452064514,
+        "TimelineFrequency": 0.44274404644966125,
+        "AuthoritiesGovernance": 0.37947291135787964,
+        "DefinitionsReferences": 0.40209656953811646
+      }
+    },
+    {
+      "sentence": "Through this scheme, the government of Madhya Pradesh is making strides towards a more educated society.",
+      "role": "ContextObjective",
+      "confidence": 0.49479955434799194,
+      "similarities": {
+        "ContextObjective": 0.49479955434799194,
+        "BenefitsAssistance": 0.39966779947280884,
+        "Eligibility": 0.39441198110580444,
+        "ApplicationProcess": 0.4181861877441406,
+        "TimelineFrequency": 0.36344364285469055,
+        "AuthoritiesGovernance": 0.4192156493663788,
+        "DefinitionsReferences": 0.3929089605808258
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is a beacon of hope for many aspiring students in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5032743811607361,
+      "similarities": {
+        "ContextObjective": 0.5032743811607361,
+        "BenefitsAssistance": 0.3704199194908142,
+        "Eligibility": 0.43862804770469666,
+        "ApplicationProcess": 0.3997049927711487,
+        "TimelineFrequency": 0.37174278497695923,
+        "AuthoritiesGovernance": 0.35440459847450256,
+        "DefinitionsReferences": 0.33852195739746094
+      }
+    },
+    {
+      "sentence": "It reflects the government's dedication to improving access to higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.44181448221206665,
+      "similarities": {
+        "ContextObjective": 0.44181448221206665,
+        "BenefitsAssistance": 0.4018782675266266,
+        "Eligibility": 0.4245104193687439,
+        "ApplicationProcess": 0.43114590644836426,
+        "TimelineFrequency": 0.39348387718200684,
+        "AuthoritiesGovernance": 0.4190426170825958,
+        "DefinitionsReferences": 0.4044438600540161
+      }
+    },
+    {
+      "sentence": "This initiative is a crucial component of Madhya Pradesh's educational reform agenda.",
+      "role": "ContextObjective",
+      "confidence": 0.4496838450431824,
+      "similarities": {
+        "ContextObjective": 0.4496838450431824,
+        "BenefitsAssistance": 0.3445078730583191,
+        "Eligibility": 0.3606785535812378,
+        "ApplicationProcess": 0.37054574489593506,
+        "TimelineFrequency": 0.35775911808013916,
+        "AuthoritiesGovernance": 0.4073871374130249,
+        "DefinitionsReferences": 0.34703224897384644
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is set to change the landscape of higher education financing in the state.",
+      "role": "Eligibility",
+      "confidence": 0.4285702407360077,
+      "similarities": {
+        "ContextObjective": 0.4216076731681824,
+        "BenefitsAssistance": 0.41953063011169434,
+        "Eligibility": 0.4285702407360077,
+        "ApplicationProcess": 0.36647963523864746,
+        "TimelineFrequency": 0.3469831943511963,
+        "AuthoritiesGovernance": 0.35473036766052246,
+        "DefinitionsReferences": 0.33361363410949707
+      }
+    },
+    {
+      "sentence": "It is a prime example of how targeted welfare schemes can make a difference in people's lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5004812479019165,
+      "similarities": {
+        "ContextObjective": 0.5004812479019165,
+        "BenefitsAssistance": 0.40067631006240845,
+        "Eligibility": 0.4788525104522705,
+        "ApplicationProcess": 0.3548514246940613,
+        "TimelineFrequency": 0.34053653478622437,
+        "AuthoritiesGovernance": 0.349917471408844,
+        "DefinitionsReferences": 0.3364376425743103
+      }
+    },
+    {
+      "sentence": "The scheme is not just about financial assistance but also about building a brighter future for students.",
+      "role": "ContextObjective",
+      "confidence": 0.5672715902328491,
+      "similarities": {
+        "ContextObjective": 0.5672715902328491,
+        "BenefitsAssistance": 0.4665125608444214,
+        "Eligibility": 0.472764253616333,
+        "ApplicationProcess": 0.4185448884963989,
+        "TimelineFrequency": 0.4426828622817993,
+        "AuthoritiesGovernance": 0.3727491796016693,
+        "DefinitionsReferences": 0.3677663803100586
+      }
+    },
+    {
+      "sentence": "The government continues to encourage students to take advantage of this opportunity.",
+      "role": "ContextObjective",
+      "confidence": 0.49345090985298157,
+      "similarities": {
+        "ContextObjective": 0.49345090985298157,
+        "BenefitsAssistance": 0.4151155650615692,
+        "Eligibility": 0.4424022436141968,
+        "ApplicationProcess": 0.43592822551727295,
+        "TimelineFrequency": 0.4420214593410492,
+        "AuthoritiesGovernance": 0.4051247537136078,
+        "DefinitionsReferences": 0.4291589856147766
+      }
+    },
+    {
+      "sentence": "With the GSCC Scheme, the dream of higher education is becoming a reality for many.",
+      "role": "ContextObjective",
+      "confidence": 0.5200638771057129,
+      "similarities": {
+        "ContextObjective": 0.5200638771057129,
+        "BenefitsAssistance": 0.40312784910202026,
+        "Eligibility": 0.4470008611679077,
+        "ApplicationProcess": 0.43665868043899536,
+        "TimelineFrequency": 0.3747156262397766,
+        "AuthoritiesGovernance": 0.357016384601593,
+        "DefinitionsReferences": 0.35140854120254517
+      }
+    },
+    {
+      "sentence": "The initiative is a testament to the power of government intervention in education.",
+      "role": "ContextObjective",
+      "confidence": 0.4512251019477844,
+      "similarities": {
+        "ContextObjective": 0.4512251019477844,
+        "BenefitsAssistance": 0.3842114508152008,
+        "Eligibility": 0.40471702814102173,
+        "ApplicationProcess": 0.37570589780807495,
+        "TimelineFrequency": 0.3438042104244232,
+        "AuthoritiesGovernance": 0.42732059955596924,
+        "DefinitionsReferences": 0.39895978569984436
+      }
+    },
+    {
+      "sentence": "It showcases the importance of investing in human capital for national development.",
+      "role": "ContextObjective",
+      "confidence": 0.4401582181453705,
+      "similarities": {
+        "ContextObjective": 0.4401582181453705,
+        "BenefitsAssistance": 0.3936455249786377,
+        "Eligibility": 0.4085061550140381,
+        "ApplicationProcess": 0.3445889949798584,
+        "TimelineFrequency": 0.36144474148750305,
+        "AuthoritiesGovernance": 0.3380364775657654,
+        "DefinitionsReferences": 0.36268025636672974
+      }
+    },
+    {
+      "sentence": "The GSCC Scheme is a model that could be replicated in other states across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5155221819877625,
+      "similarities": {
+        "ContextObjective": 0.5155221819877625,
+        "BenefitsAssistance": 0.43578511476516724,
+        "Eligibility": 0.4916207492351532,
+        "ApplicationProcess": 0.43959155678749084,
+        "TimelineFrequency": 0.41393935680389404,
+        "AuthoritiesGovernance": 0.4695546329021454,
+        "DefinitionsReferences": 0.4224199652671814
+      }
+    },
+    {
+      "sentence": "It highlights the need for accessible education financing solutions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5327016115188599,
+      "similarities": {
+        "ContextObjective": 0.4986124038696289,
+        "BenefitsAssistance": 0.5327016115188599,
+        "Eligibility": 0.5272723436355591,
+        "ApplicationProcess": 0.4306716322898865,
+        "TimelineFrequency": 0.4321051836013794,
+        "AuthoritiesGovernance": 0.3816685676574707,
+        "DefinitionsReferences": 0.40202826261520386
+      }
+    },
+    {
+      "sentence": "The scheme is a significant step towards achieving the goal of universal education in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5331228375434875,
+      "similarities": {
+        "ContextObjective": 0.5331228375434875,
+        "BenefitsAssistance": 0.3984149098396301,
+        "Eligibility": 0.4363470673561096,
+        "ApplicationProcess": 0.43199825286865234,
+        "TimelineFrequency": 0.35855937004089355,
+        "AuthoritiesGovernance": 0.3756830394268036,
+        "DefinitionsReferences": 0.3596029281616211
+      }
+    },
+    {
+      "sentence": "The Guruji Student Credit Card Scheme is indeed a landmark initiative in the realm of educational welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4542885422706604,
+      "similarities": {
+        "ContextObjective": 0.4542885422706604,
+        "BenefitsAssistance": 0.3993147909641266,
+        "Eligibility": 0.376637727022171,
+        "ApplicationProcess": 0.35556748509407043,
+        "TimelineFrequency": 0.3265598714351654,
+        "AuthoritiesGovernance": 0.2952280640602112,
+        "DefinitionsReferences": 0.32110488414764404
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 33,
+    "Eligibility": 7,
+    "BenefitsAssistance": 11,
+    "TimelineFrequency": 4,
+    "ApplicationProcess": 11,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-24T21:03:17.559981"
+}

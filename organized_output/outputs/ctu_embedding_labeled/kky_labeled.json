@@ -1,0 +1,800 @@
+{
+  "scheme_name": "Kisan Kaleva Yojana",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "Kisan Kaleva Yojana is a welfare scheme initiated by the Government of India to support farmers and improve their livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.5375474691390991,
+      "similarities": {
+        "ContextObjective": 0.5375474691390991,
+        "BenefitsAssistance": 0.4911358654499054,
+        "Eligibility": 0.5210034847259521,
+        "ApplicationProcess": 0.45906612277030945,
+        "TimelineFrequency": 0.44335776567459106,
+        "AuthoritiesGovernance": 0.4892394244670868,
+        "DefinitionsReferences": 0.4212527275085449
+      }
+    },
+    {
+      "sentence": "The scheme was launched on 1st April 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.611223578453064,
+      "similarities": {
+        "ContextObjective": 0.611223578453064,
+        "BenefitsAssistance": 0.45445752143859863,
+        "Eligibility": 0.4957687258720398,
+        "ApplicationProcess": 0.45846229791641235,
+        "TimelineFrequency": 0.4834918975830078,
+        "AuthoritiesGovernance": 0.4440109133720398,
+        "DefinitionsReferences": 0.3501816391944885
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance to farmers for the purchase of essential agricultural inputs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5166996121406555,
+      "similarities": {
+        "ContextObjective": 0.4835898280143738,
+        "BenefitsAssistance": 0.5166996121406555,
+        "Eligibility": 0.48239654302597046,
+        "ApplicationProcess": 0.4519945979118347,
+        "TimelineFrequency": 0.40357550978660583,
+        "AuthoritiesGovernance": 0.40264904499053955,
+        "DefinitionsReferences": 0.4252340793609619
+      }
+    },
+    {
+      "sentence": "The primary objective of the Kisan Kaleva Yojana is to enhance the productivity of crops and ensure food security in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5012931823730469,
+      "similarities": {
+        "ContextObjective": 0.5012931823730469,
+        "BenefitsAssistance": 0.4019201099872589,
+        "Eligibility": 0.4567616581916809,
+        "ApplicationProcess": 0.4130277633666992,
+        "TimelineFrequency": 0.3898600935935974,
+        "AuthoritiesGovernance": 0.4121125042438507,
+        "DefinitionsReferences": 0.3711802363395691
+      }
+    },
+    {
+      "sentence": "The scheme targets small and marginal farmers who often face challenges in accessing credit and financial resources.",
+      "role": "Eligibility",
+      "confidence": 0.5509424805641174,
+      "similarities": {
+        "ContextObjective": 0.4965033233165741,
+        "BenefitsAssistance": 0.4639946222305298,
+        "Eligibility": 0.5509424805641174,
+        "ApplicationProcess": 0.43730127811431885,
+        "TimelineFrequency": 0.43679773807525635,
+        "AuthoritiesGovernance": 0.42000555992126465,
+        "DefinitionsReferences": 0.37019434571266174
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible farmers can receive a financial assistance of up to ₹10,000 per year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5290380120277405,
+      "similarities": {
+        "ContextObjective": 0.4299251437187195,
+        "BenefitsAssistance": 0.5290380120277405,
+        "Eligibility": 0.5273880958557129,
+        "ApplicationProcess": 0.4254591166973114,
+        "TimelineFrequency": 0.40951254963874817,
+        "AuthoritiesGovernance": 0.3623797297477722,
+        "DefinitionsReferences": 0.368797242641449
+      }
+    },
+    {
+      "sentence": "This amount is intended to help farmers purchase seeds fertilizers and other necessary agricultural inputs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5256264805793762,
+      "similarities": {
+        "ContextObjective": 0.44558754563331604,
+        "BenefitsAssistance": 0.5256264805793762,
+        "Eligibility": 0.4701754152774811,
+        "ApplicationProcess": 0.43075788021087646,
+        "TimelineFrequency": 0.41118091344833374,
+        "AuthoritiesGovernance": 0.37862130999565125,
+        "DefinitionsReferences": 0.4403478503227234
+      }
+    },
+    {
+      "sentence": "The scheme is designed to cover approximately 10 million farmers across various states in India.",
+      "role": "Eligibility",
+      "confidence": 0.5185189247131348,
+      "similarities": {
+        "ContextObjective": 0.4805417060852051,
+        "BenefitsAssistance": 0.46122854948043823,
+        "Eligibility": 0.5185189247131348,
+        "ApplicationProcess": 0.4203815162181854,
+        "TimelineFrequency": 0.41602906584739685,
+        "AuthoritiesGovernance": 0.4350081980228424,
+        "DefinitionsReferences": 0.3981521725654602
+      }
+    },
+    {
+      "sentence": "The government aims to disburse funds to farmers in a timely manner to ensure that they can make necessary purchases during the sowing season.",
+      "role": "TimelineFrequency",
+      "confidence": 0.48702681064605713,
+      "similarities": {
+        "ContextObjective": 0.44250160455703735,
+        "BenefitsAssistance": 0.47674301266670227,
+        "Eligibility": 0.47491928935050964,
+        "ApplicationProcess": 0.4320111870765686,
+        "TimelineFrequency": 0.48702681064605713,
+        "AuthoritiesGovernance": 0.42780137062072754,
+        "DefinitionsReferences": 0.3807752728462219
+      }
+    },
+    {
+      "sentence": "The Kisan Kaleva Yojana is part of a broader initiative to improve the agricultural sector and increase farmers' income.",
+      "role": "ContextObjective",
+      "confidence": 0.43139562010765076,
+      "similarities": {
+        "ContextObjective": 0.43139562010765076,
+        "BenefitsAssistance": 0.4081692099571228,
+        "Eligibility": 0.3946746289730072,
+        "ApplicationProcess": 0.36264103651046753,
+        "TimelineFrequency": 0.34112748503685,
+        "AuthoritiesGovernance": 0.3692556917667389,
+        "DefinitionsReferences": 0.3482688069343567
+      }
+    },
+    {
+      "sentence": "The scheme also aims to reduce the dependency of farmers on informal credit sources which often charge exorbitant interest rates.",
+      "role": "ContextObjective",
+      "confidence": 0.4114494025707245,
+      "similarities": {
+        "ContextObjective": 0.4114494025707245,
+        "BenefitsAssistance": 0.41134411096572876,
+        "Eligibility": 0.4062313437461853,
+        "ApplicationProcess": 0.3714742064476013,
+        "TimelineFrequency": 0.35501566529273987,
+        "AuthoritiesGovernance": 0.35103362798690796,
+        "DefinitionsReferences": 0.3316289186477661
+      }
+    },
+    {
+      "sentence": "Eligibility for the Kisan Kaleva Yojana is primarily based on the landholding size of the farmers.",
+      "role": "Eligibility",
+      "confidence": 0.5494765043258667,
+      "similarities": {
+        "ContextObjective": 0.4284279942512512,
+        "BenefitsAssistance": 0.4066687524318695,
+        "Eligibility": 0.5494765043258667,
+        "ApplicationProcess": 0.4182363748550415,
+        "TimelineFrequency": 0.409627765417099,
+        "AuthoritiesGovernance": 0.36230409145355225,
+        "DefinitionsReferences": 0.38410526514053345
+      }
+    },
+    {
+      "sentence": "Farmers must own less than 2 hectares of cultivable land to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5564236044883728,
+      "similarities": {
+        "ContextObjective": 0.47559627890586853,
+        "BenefitsAssistance": 0.38671353459358215,
+        "Eligibility": 0.5564236044883728,
+        "ApplicationProcess": 0.46865132451057434,
+        "TimelineFrequency": 0.4340815544128418,
+        "AuthoritiesGovernance": 0.36712685227394104,
+        "DefinitionsReferences": 0.37160223722457886
+      }
+    },
+    {
+      "sentence": "Additionally farmers must be registered under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme to be eligible for benefits under Kisan Kaleva Yojana.",
+      "role": "Eligibility",
+      "confidence": 0.5111522674560547,
+      "similarities": {
+        "ContextObjective": 0.40281009674072266,
+        "BenefitsAssistance": 0.41460031270980835,
+        "Eligibility": 0.5111522674560547,
+        "ApplicationProcess": 0.44858548045158386,
+        "TimelineFrequency": 0.39222580194473267,
+        "AuthoritiesGovernance": 0.3753259778022766,
+        "DefinitionsReferences": 0.36357414722442627
+      }
+    },
+    {
+      "sentence": "The PM-KISAN scheme provides income support of ₹6,000 per year to small and marginal farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41382521390914917,
+      "similarities": {
+        "ContextObjective": 0.38290655612945557,
+        "BenefitsAssistance": 0.41382521390914917,
+        "Eligibility": 0.39653050899505615,
+        "ApplicationProcess": 0.3423607349395752,
+        "TimelineFrequency": 0.31520575284957886,
+        "AuthoritiesGovernance": 0.31594419479370117,
+        "DefinitionsReferences": 0.30890825390815735
+      }
+    },
+    {
+      "sentence": "Farmers must also be Indian citizens and must be actively engaged in agricultural activities.",
+      "role": "Eligibility",
+      "confidence": 0.4692598283290863,
+      "similarities": {
+        "ContextObjective": 0.3933989405632019,
+        "BenefitsAssistance": 0.34849613904953003,
+        "Eligibility": 0.4692598283290863,
+        "ApplicationProcess": 0.43838292360305786,
+        "TimelineFrequency": 0.34952548146247864,
+        "AuthoritiesGovernance": 0.37811487913131714,
+        "DefinitionsReferences": 0.37488028407096863
+      }
+    },
+    {
+      "sentence": "The application process for the Kisan Kaleva Yojana is straightforward and can be completed online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6121556758880615,
+      "similarities": {
+        "ContextObjective": 0.46386241912841797,
+        "BenefitsAssistance": 0.4478282928466797,
+        "Eligibility": 0.5079267024993896,
+        "ApplicationProcess": 0.6121556758880615,
+        "TimelineFrequency": 0.4860300123691559,
+        "AuthoritiesGovernance": 0.3998970091342926,
+        "DefinitionsReferences": 0.374735951423645
+      }
+    },
+    {
+      "sentence": "Farmers need to visit the official website of the scheme to access the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6274662017822266,
+      "similarities": {
+        "ContextObjective": 0.48370102047920227,
+        "BenefitsAssistance": 0.42383188009262085,
+        "Eligibility": 0.5458791255950928,
+        "ApplicationProcess": 0.6274662017822266,
+        "TimelineFrequency": 0.48018503189086914,
+        "AuthoritiesGovernance": 0.43988943099975586,
+        "DefinitionsReferences": 0.40793389081954956
+      }
+    },
+    {
+      "sentence": "They must fill in their personal details including name address and bank account information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6211453676223755,
+      "similarities": {
+        "ContextObjective": 0.45414331555366516,
+        "BenefitsAssistance": 0.5874439477920532,
+        "Eligibility": 0.5766848921775818,
+        "ApplicationProcess": 0.6211453676223755,
+        "TimelineFrequency": 0.48354220390319824,
+        "AuthoritiesGovernance": 0.4879079759120941,
+        "DefinitionsReferences": 0.5101189017295837
+      }
+    },
+    {
+      "sentence": "Farmers are required to upload necessary documents such as land ownership certificates and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6095788478851318,
+      "similarities": {
+        "ContextObjective": 0.4322657287120819,
+        "BenefitsAssistance": 0.48651939630508423,
+        "Eligibility": 0.5391998887062073,
+        "ApplicationProcess": 0.6095788478851318,
+        "TimelineFrequency": 0.45531556010246277,
+        "AuthoritiesGovernance": 0.45011526346206665,
+        "DefinitionsReferences": 0.4989616870880127
+      }
+    },
+    {
+      "sentence": "Once the application is submitted it will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7426744103431702,
+      "similarities": {
+        "ContextObjective": 0.5332127213478088,
+        "BenefitsAssistance": 0.48882409930229187,
+        "Eligibility": 0.6154072284698486,
+        "ApplicationProcess": 0.7426744103431702,
+        "TimelineFrequency": 0.5763300061225891,
+        "AuthoritiesGovernance": 0.5074129104614258,
+        "DefinitionsReferences": 0.49956631660461426
+      }
+    },
+    {
+      "sentence": "Farmers will receive a confirmation regarding the approval of their application via SMS or email.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6073271036148071,
+      "similarities": {
+        "ContextObjective": 0.4748263955116272,
+        "BenefitsAssistance": 0.4869043827056885,
+        "Eligibility": 0.5472739934921265,
+        "ApplicationProcess": 0.6073271036148071,
+        "TimelineFrequency": 0.5447157025337219,
+        "AuthoritiesGovernance": 0.4623360335826874,
+        "DefinitionsReferences": 0.43703073263168335
+      }
+    },
+    {
+      "sentence": "Disbursement of funds under the Kisan Kaleva Yojana is done directly into the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4994930028915405,
+      "similarities": {
+        "ContextObjective": 0.3935534358024597,
+        "BenefitsAssistance": 0.4994930028915405,
+        "Eligibility": 0.45773422718048096,
+        "ApplicationProcess": 0.39918625354766846,
+        "TimelineFrequency": 0.3484079837799072,
+        "AuthoritiesGovernance": 0.4090620279312134,
+        "DefinitionsReferences": 0.3259844481945038
+      }
+    },
+    {
+      "sentence": "The government has set a timeline for the disbursement of funds which is aligned with the agricultural calendar.",
+      "role": "TimelineFrequency",
+      "confidence": 0.523557186126709,
+      "similarities": {
+        "ContextObjective": 0.44621771574020386,
+        "BenefitsAssistance": 0.47243624925613403,
+        "Eligibility": 0.45284783840179443,
+        "ApplicationProcess": 0.39987045526504517,
+        "TimelineFrequency": 0.523557186126709,
+        "AuthoritiesGovernance": 0.4532490670681,
+        "DefinitionsReferences": 0.3905632793903351
+      }
+    },
+    {
+      "sentence": "Funds are typically disbursed at the beginning of the sowing season which varies by region.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5256080627441406,
+      "similarities": {
+        "ContextObjective": 0.43271592259407043,
+        "BenefitsAssistance": 0.5113721489906311,
+        "Eligibility": 0.5034463405609131,
+        "ApplicationProcess": 0.3947717249393463,
+        "TimelineFrequency": 0.5256080627441406,
+        "AuthoritiesGovernance": 0.43564364314079285,
+        "DefinitionsReferences": 0.358450710773468
+      }
+    },
+    {
+      "sentence": "In many states the sowing season begins in June and ends in July.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5420041680335999,
+      "similarities": {
+        "ContextObjective": 0.4248822331428528,
+        "BenefitsAssistance": 0.4071904718875885,
+        "Eligibility": 0.46233972907066345,
+        "ApplicationProcess": 0.4106854796409607,
+        "TimelineFrequency": 0.5420041680335999,
+        "AuthoritiesGovernance": 0.4008985459804535,
+        "DefinitionsReferences": 0.39327627420425415
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that funds are disbursed within a month of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.542862057685852,
+      "similarities": {
+        "ContextObjective": 0.48031896352767944,
+        "BenefitsAssistance": 0.5056502819061279,
+        "Eligibility": 0.5401400327682495,
+        "ApplicationProcess": 0.5122851133346558,
+        "TimelineFrequency": 0.542862057685852,
+        "AuthoritiesGovernance": 0.4681543707847595,
+        "DefinitionsReferences": 0.3803357481956482
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Kisan Kaleva Yojana is the Ministry of Agriculture and Farmers Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5520492792129517,
+      "similarities": {
+        "ContextObjective": 0.41334936022758484,
+        "BenefitsAssistance": 0.41927847266197205,
+        "Eligibility": 0.48652902245521545,
+        "ApplicationProcess": 0.4182862341403961,
+        "TimelineFrequency": 0.37513577938079834,
+        "AuthoritiesGovernance": 0.5520492792129517,
+        "DefinitionsReferences": 0.3947241008281708
+      }
+    },
+    {
+      "sentence": "The department responsible for overseeing the scheme at the state level is the Department of Agriculture.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5086201429367065,
+      "similarities": {
+        "ContextObjective": 0.47801709175109863,
+        "BenefitsAssistance": 0.41082125902175903,
+        "Eligibility": 0.47852447628974915,
+        "ApplicationProcess": 0.45736485719680786,
+        "TimelineFrequency": 0.3957976996898651,
+        "AuthoritiesGovernance": 0.5086201429367065,
+        "DefinitionsReferences": 0.3977634906768799
+      }
+    },
+    {
+      "sentence": "Farmers can contact their local agricultural offices for assistance with the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5871659517288208,
+      "similarities": {
+        "ContextObjective": 0.4618417024612427,
+        "BenefitsAssistance": 0.46234193444252014,
+        "Eligibility": 0.5684853196144104,
+        "ApplicationProcess": 0.5871659517288208,
+        "TimelineFrequency": 0.5236464142799377,
+        "AuthoritiesGovernance": 0.5348951816558838,
+        "DefinitionsReferences": 0.4330921173095703
+      }
+    },
+    {
+      "sentence": "Additionally the official website provides a helpline number for queries related to the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5189671516418457,
+      "similarities": {
+        "ContextObjective": 0.4989227056503296,
+        "BenefitsAssistance": 0.49996882677078247,
+        "Eligibility": 0.4796909987926483,
+        "ApplicationProcess": 0.5189671516418457,
+        "TimelineFrequency": 0.4422532618045807,
+        "AuthoritiesGovernance": 0.5007808208465576,
+        "DefinitionsReferences": 0.44486793875694275
+      }
+    },
+    {
+      "sentence": "The Kisan Kaleva Yojana is expected to have a significant impact on the agricultural sector.",
+      "role": "Eligibility",
+      "confidence": 0.4304687976837158,
+      "similarities": {
+        "ContextObjective": 0.3927420973777771,
+        "BenefitsAssistance": 0.42025256156921387,
+        "Eligibility": 0.4304687976837158,
+        "ApplicationProcess": 0.35860514640808105,
+        "TimelineFrequency": 0.3553692698478699,
+        "AuthoritiesGovernance": 0.35769200325012207,
+        "DefinitionsReferences": 0.3783473074436188
+      }
+    },
+    {
+      "sentence": "By providing financial assistance it aims to increase the purchasing power of farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4753994345664978,
+      "similarities": {
+        "ContextObjective": 0.4336264729499817,
+        "BenefitsAssistance": 0.4753994345664978,
+        "Eligibility": 0.42288094758987427,
+        "ApplicationProcess": 0.39355331659317017,
+        "TimelineFrequency": 0.3661016523838043,
+        "AuthoritiesGovernance": 0.37015122175216675,
+        "DefinitionsReferences": 0.3636414706707001
+      }
+    },
+    {
+      "sentence": "This will enable them to invest in better quality seeds and fertilizers.",
+      "role": "Eligibility",
+      "confidence": 0.44523733854293823,
+      "similarities": {
+        "ContextObjective": 0.40615981817245483,
+        "BenefitsAssistance": 0.40279799699783325,
+        "Eligibility": 0.44523733854293823,
+        "ApplicationProcess": 0.3801047205924988,
+        "TimelineFrequency": 0.3708367645740509,
+        "AuthoritiesGovernance": 0.374883234500885,
+        "DefinitionsReferences": 0.39156776666641235
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to improve crop yields and overall productivity.",
+      "role": "ContextObjective",
+      "confidence": 0.4904840886592865,
+      "similarities": {
+        "ContextObjective": 0.4904840886592865,
+        "BenefitsAssistance": 0.42515799403190613,
+        "Eligibility": 0.41710567474365234,
+        "ApplicationProcess": 0.38951367139816284,
+        "TimelineFrequency": 0.4125085175037384,
+        "AuthoritiesGovernance": 0.41770076751708984,
+        "DefinitionsReferences": 0.3569168150424957
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,000 crores for the implementation of this scheme in the initial phase.",
+      "role": "ContextObjective",
+      "confidence": 0.5012518763542175,
+      "similarities": {
+        "ContextObjective": 0.5012518763542175,
+        "BenefitsAssistance": 0.4542616605758667,
+        "Eligibility": 0.4622836709022522,
+        "ApplicationProcess": 0.4329338073730469,
+        "TimelineFrequency": 0.39440327882766724,
+        "AuthoritiesGovernance": 0.48096078634262085,
+        "DefinitionsReferences": 0.35120072960853577
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme will be conducted regularly to assess its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5204805135726929,
+      "similarities": {
+        "ContextObjective": 0.5204805135726929,
+        "BenefitsAssistance": 0.46705493330955505,
+        "Eligibility": 0.49986690282821655,
+        "ApplicationProcess": 0.5009167790412903,
+        "TimelineFrequency": 0.4856817424297333,
+        "AuthoritiesGovernance": 0.4936004877090454,
+        "DefinitionsReferences": 0.4228190779685974
+      }
+    },
+    {
+      "sentence": "The government aims to gather feedback from beneficiaries to improve the scheme over time.",
+      "role": "ContextObjective",
+      "confidence": 0.5515751838684082,
+      "similarities": {
+        "ContextObjective": 0.5515751838684082,
+        "BenefitsAssistance": 0.49054473638534546,
+        "Eligibility": 0.5264140367507935,
+        "ApplicationProcess": 0.4817569851875305,
+        "TimelineFrequency": 0.46112197637557983,
+        "AuthoritiesGovernance": 0.5017178058624268,
+        "DefinitionsReferences": 0.40666913986206055
+      }
+    },
+    {
+      "sentence": "The Kisan Kaleva Yojana is part of a larger framework of initiatives aimed at doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.44610345363616943,
+      "similarities": {
+        "ContextObjective": 0.44610345363616943,
+        "BenefitsAssistance": 0.40612050890922546,
+        "Eligibility": 0.40168648958206177,
+        "ApplicationProcess": 0.34832459688186646,
+        "TimelineFrequency": 0.3674459457397461,
+        "AuthoritiesGovernance": 0.35184594988822937,
+        "DefinitionsReferences": 0.33999335765838623
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the goals set out in the Union Budget 2021-22 which emphasizes agricultural development.",
+      "role": "ContextObjective",
+      "confidence": 0.4972293972969055,
+      "similarities": {
+        "ContextObjective": 0.4972293972969055,
+        "BenefitsAssistance": 0.41759616136550903,
+        "Eligibility": 0.413703590631485,
+        "ApplicationProcess": 0.3750113844871521,
+        "TimelineFrequency": 0.3796520531177521,
+        "AuthoritiesGovernance": 0.4019319415092468,
+        "DefinitionsReferences": 0.3467179536819458
+      }
+    },
+    {
+      "sentence": "The government is also promoting the use of technology in agriculture through this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5002739429473877,
+      "similarities": {
+        "ContextObjective": 0.5002739429473877,
+        "BenefitsAssistance": 0.4089053273200989,
+        "Eligibility": 0.4368521571159363,
+        "ApplicationProcess": 0.46080148220062256,
+        "TimelineFrequency": 0.40747299790382385,
+        "AuthoritiesGovernance": 0.4190170466899872,
+        "DefinitionsReferences": 0.41659629344940186
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to use digital platforms for accessing information and resources.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4927036762237549,
+      "similarities": {
+        "ContextObjective": 0.4641057252883911,
+        "BenefitsAssistance": 0.4669365882873535,
+        "Eligibility": 0.4559897780418396,
+        "ApplicationProcess": 0.48924732208251953,
+        "TimelineFrequency": 0.43707460165023804,
+        "AuthoritiesGovernance": 0.46071192622184753,
+        "DefinitionsReferences": 0.4927036762237549
+      }
+    },
+    {
+      "sentence": "The Kisan Kaleva Yojana is expected to empower farmers by providing them with the necessary financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4838405251502991,
+      "similarities": {
+        "ContextObjective": 0.4355506896972656,
+        "BenefitsAssistance": 0.4838405251502991,
+        "Eligibility": 0.4506825804710388,
+        "ApplicationProcess": 0.37773340940475464,
+        "TimelineFrequency": 0.3432180881500244,
+        "AuthoritiesGovernance": 0.38933098316192627,
+        "DefinitionsReferences": 0.3661120533943176
+      }
+    },
+    {
+      "sentence": "It aims to create a sustainable agricultural ecosystem that benefits both farmers and consumers.",
+      "role": "ContextObjective",
+      "confidence": 0.4756247401237488,
+      "similarities": {
+        "ContextObjective": 0.4756247401237488,
+        "BenefitsAssistance": 0.34259140491485596,
+        "Eligibility": 0.39710700511932373,
+        "ApplicationProcess": 0.3531121611595154,
+        "TimelineFrequency": 0.3423635959625244,
+        "AuthoritiesGovernance": 0.37067732214927673,
+        "DefinitionsReferences": 0.33629143238067627
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the Sustainable Development Goals (SDGs) set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.5436921119689941,
+      "similarities": {
+        "ContextObjective": 0.5436921119689941,
+        "BenefitsAssistance": 0.402437686920166,
+        "Eligibility": 0.471589595079422,
+        "ApplicationProcess": 0.41509178280830383,
+        "TimelineFrequency": 0.3947256803512573,
+        "AuthoritiesGovernance": 0.4435211420059204,
+        "DefinitionsReferences": 0.38965681195259094
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring food security and improving the livelihoods of farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4850843548774719,
+      "similarities": {
+        "ContextObjective": 0.44506770372390747,
+        "BenefitsAssistance": 0.4086174964904785,
+        "Eligibility": 0.4650418758392334,
+        "ApplicationProcess": 0.43699532747268677,
+        "TimelineFrequency": 0.3723021149635315,
+        "AuthoritiesGovernance": 0.4850843548774719,
+        "DefinitionsReferences": 0.4160972237586975
+      }
+    },
+    {
+      "sentence": "The Kisan Kaleva Yojana is a step towards achieving these objectives.",
+      "role": "ContextObjective",
+      "confidence": 0.5279954075813293,
+      "similarities": {
+        "ContextObjective": 0.5279954075813293,
+        "BenefitsAssistance": 0.4367612600326538,
+        "Eligibility": 0.4718908965587616,
+        "ApplicationProcess": 0.45194363594055176,
+        "TimelineFrequency": 0.3922361731529236,
+        "AuthoritiesGovernance": 0.45545709133148193,
+        "DefinitionsReferences": 0.40818914771080017
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of this scheme to enhance their agricultural practices.",
+      "role": "ContextObjective",
+      "confidence": 0.49382534623146057,
+      "similarities": {
+        "ContextObjective": 0.49382534623146057,
+        "BenefitsAssistance": 0.4225442409515381,
+        "Eligibility": 0.45386219024658203,
+        "ApplicationProcess": 0.42806392908096313,
+        "TimelineFrequency": 0.3925718069076538,
+        "AuthoritiesGovernance": 0.39435023069381714,
+        "DefinitionsReferences": 0.4126497507095337
+      }
+    },
+    {
+      "sentence": "The government is optimistic that this initiative will lead to a significant transformation in the agricultural landscape of India.",
+      "role": "ContextObjective",
+      "confidence": 0.406989187002182,
+      "similarities": {
+        "ContextObjective": 0.406989187002182,
+        "BenefitsAssistance": 0.3021314740180969,
+        "Eligibility": 0.3577965795993805,
+        "ApplicationProcess": 0.3526381850242615,
+        "TimelineFrequency": 0.2850540280342102,
+        "AuthoritiesGovernance": 0.36372894048690796,
+        "DefinitionsReferences": 0.331600159406662
+      }
+    },
+    {
+      "sentence": "Overall the Kisan Kaleva Yojana represents a crucial effort by the Indian government to support its farmers.",
+      "role": "Eligibility",
+      "confidence": 0.4498123228549957,
+      "similarities": {
+        "ContextObjective": 0.4486788511276245,
+        "BenefitsAssistance": 0.42789730429649353,
+        "Eligibility": 0.4498123228549957,
+        "ApplicationProcess": 0.40474414825439453,
+        "TimelineFrequency": 0.366691529750824,
+        "AuthoritiesGovernance": 0.40932658314704895,
+        "DefinitionsReferences": 0.4111080765724182
+      }
+    },
+    {
+      "sentence": "By providing targeted financial assistance it aims to create a more resilient agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.463944673538208,
+      "similarities": {
+        "ContextObjective": 0.463944673538208,
+        "BenefitsAssistance": 0.45524489879608154,
+        "Eligibility": 0.4550562798976898,
+        "ApplicationProcess": 0.3810325860977173,
+        "TimelineFrequency": 0.37301892042160034,
+        "AuthoritiesGovernance": 0.3971783518791199,
+        "DefinitionsReferences": 0.35176074504852295
+      }
+    },
+    {
+      "sentence": "Farmers are urged to stay informed about the scheme and participate actively.",
+      "role": "ContextObjective",
+      "confidence": 0.5042622089385986,
+      "similarities": {
+        "ContextObjective": 0.5042622089385986,
+        "BenefitsAssistance": 0.4543377757072449,
+        "Eligibility": 0.48883506655693054,
+        "ApplicationProcess": 0.4599243104457855,
+        "TimelineFrequency": 0.41237685084342957,
+        "AuthoritiesGovernance": 0.4400363862514496,
+        "DefinitionsReferences": 0.3776894211769104
+      }
+    },
+    {
+      "sentence": "This will ensure that they can benefit from the financial support available to them.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5892912149429321,
+      "similarities": {
+        "ContextObjective": 0.4791718125343323,
+        "BenefitsAssistance": 0.5892912149429321,
+        "Eligibility": 0.574072003364563,
+        "ApplicationProcess": 0.4626844525337219,
+        "TimelineFrequency": 0.436926931142807,
+        "AuthoritiesGovernance": 0.44822457432746887,
+        "DefinitionsReferences": 0.4324691891670227
+      }
+    },
+    {
+      "sentence": "The Kisan Kaleva Yojana is a vital initiative that reflects the government's commitment to the agricultural community.",
+      "role": "ContextObjective",
+      "confidence": 0.44218459725379944,
+      "similarities": {
+        "ContextObjective": 0.44218459725379944,
+        "BenefitsAssistance": 0.36742615699768066,
+        "Eligibility": 0.4350516200065613,
+        "ApplicationProcess": 0.39014434814453125,
+        "TimelineFrequency": 0.3632659316062927,
+        "AuthoritiesGovernance": 0.38919565081596375,
+        "DefinitionsReferences": 0.38758084177970886
+      }
+    },
+    {
+      "sentence": "It is designed to address the challenges faced by farmers and promote sustainable farming practices.",
+      "role": "ContextObjective",
+      "confidence": 0.47319120168685913,
+      "similarities": {
+        "ContextObjective": 0.47319120168685913,
+        "BenefitsAssistance": 0.3901503086090088,
+        "Eligibility": 0.4247453808784485,
+        "ApplicationProcess": 0.4168856739997864,
+        "TimelineFrequency": 0.3771989345550537,
+        "AuthoritiesGovernance": 0.41316503286361694,
+        "DefinitionsReferences": 0.3670980632305145
+      }
+    },
+    {
+      "sentence": "The scheme is expected to play a key role in enhancing the quality of life for millions of farmers across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5088471174240112,
+      "similarities": {
+        "ContextObjective": 0.5088471174240112,
+        "BenefitsAssistance": 0.39750728011131287,
+        "Eligibility": 0.459308385848999,
+        "ApplicationProcess": 0.4028159976005554,
+        "TimelineFrequency": 0.35692328214645386,
+        "AuthoritiesGovernance": 0.39299631118774414,
+        "DefinitionsReferences": 0.3774186968803406
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "BenefitsAssistance": 8,
+    "Eligibility": 9,
+    "TimelineFrequency": 5,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 3,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-24T21:06:49.665273"
+}

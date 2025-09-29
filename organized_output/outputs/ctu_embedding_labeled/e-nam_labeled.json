@@ -1,0 +1,925 @@
+{
+  "scheme_name": "National Agriculture Market",
+  "total_sentences": 65,
+  "labeled_sentences": [
+    {
+      "sentence": "The National Agriculture Market (e-NAM) is an initiative launched by the Government of India on April 14, 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.5084965229034424,
+      "similarities": {
+        "ContextObjective": 0.5084965229034424,
+        "BenefitsAssistance": 0.4058302044868469,
+        "Eligibility": 0.47340887784957886,
+        "ApplicationProcess": 0.43950313329696655,
+        "TimelineFrequency": 0.43077266216278076,
+        "AuthoritiesGovernance": 0.44348976016044617,
+        "DefinitionsReferences": 0.39453673362731934
+      }
+    },
+    {
+      "sentence": "This scheme aims to create a unified national market for agricultural commodities.",
+      "role": "ContextObjective",
+      "confidence": 0.530428946018219,
+      "similarities": {
+        "ContextObjective": 0.530428946018219,
+        "BenefitsAssistance": 0.38384270668029785,
+        "Eligibility": 0.45249107480049133,
+        "ApplicationProcess": 0.4134344160556793,
+        "TimelineFrequency": 0.37968701124191284,
+        "AuthoritiesGovernance": 0.41856178641319275,
+        "DefinitionsReferences": 0.3786970376968384
+      }
+    },
+    {
+      "sentence": "The primary objective of e-NAM is to enhance farmers' income by providing them with better price discovery and reducing the role of intermediaries.",
+      "role": "ContextObjective",
+      "confidence": 0.437980055809021,
+      "similarities": {
+        "ContextObjective": 0.437980055809021,
+        "BenefitsAssistance": 0.40919262170791626,
+        "Eligibility": 0.38948410749435425,
+        "ApplicationProcess": 0.39553260803222656,
+        "TimelineFrequency": 0.32853493094444275,
+        "AuthoritiesGovernance": 0.3706601858139038,
+        "DefinitionsReferences": 0.34854376316070557
+      }
+    },
+    {
+      "sentence": "The initiative seeks to integrate 585 regulated wholesale markets across the country into a single online platform.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4609638452529907,
+      "similarities": {
+        "ContextObjective": 0.4374906122684479,
+        "BenefitsAssistance": 0.3928915560245514,
+        "Eligibility": 0.44783657789230347,
+        "ApplicationProcess": 0.4609638452529907,
+        "TimelineFrequency": 0.37717360258102417,
+        "AuthoritiesGovernance": 0.40780526399612427,
+        "DefinitionsReferences": 0.40835434198379517
+      }
+    },
+    {
+      "sentence": "The government aims to facilitate the sale of agricultural produce directly from farmers to buyers through this platform.",
+      "role": "ContextObjective",
+      "confidence": 0.50287264585495,
+      "similarities": {
+        "ContextObjective": 0.50287264585495,
+        "BenefitsAssistance": 0.3933224678039551,
+        "Eligibility": 0.44857147336006165,
+        "ApplicationProcess": 0.4425981640815735,
+        "TimelineFrequency": 0.3560733199119568,
+        "AuthoritiesGovernance": 0.426982045173645,
+        "DefinitionsReferences": 0.389285683631897
+      }
+    },
+    {
+      "sentence": "The e-NAM platform allows farmers to sell their produce at competitive prices.",
+      "role": "Eligibility",
+      "confidence": 0.4282165765762329,
+      "similarities": {
+        "ContextObjective": 0.41968950629234314,
+        "BenefitsAssistance": 0.420212060213089,
+        "Eligibility": 0.4282165765762329,
+        "ApplicationProcess": 0.4206238090991974,
+        "TimelineFrequency": 0.37422192096710205,
+        "AuthoritiesGovernance": 0.35115545988082886,
+        "DefinitionsReferences": 0.36124682426452637
+      }
+    },
+    {
+      "sentence": "Farmers can access real-time information on prices and market trends through the e-NAM portal.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46507886052131653,
+      "similarities": {
+        "ContextObjective": 0.38874533772468567,
+        "BenefitsAssistance": 0.46507886052131653,
+        "Eligibility": 0.42022621631622314,
+        "ApplicationProcess": 0.4468861222267151,
+        "TimelineFrequency": 0.43342623114585876,
+        "AuthoritiesGovernance": 0.38580024242401123,
+        "DefinitionsReferences": 0.38721776008605957
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote transparency in the agricultural market.",
+      "role": "ContextObjective",
+      "confidence": 0.5096007585525513,
+      "similarities": {
+        "ContextObjective": 0.5096007585525513,
+        "BenefitsAssistance": 0.426072359085083,
+        "Eligibility": 0.47095632553100586,
+        "ApplicationProcess": 0.47527414560317993,
+        "TimelineFrequency": 0.38570162653923035,
+        "AuthoritiesGovernance": 0.4022468030452728,
+        "DefinitionsReferences": 0.3652161955833435
+      }
+    },
+    {
+      "sentence": "Farmers can register on the e-NAM platform free of cost.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4415608048439026,
+      "similarities": {
+        "ContextObjective": 0.3907308280467987,
+        "BenefitsAssistance": 0.4205774664878845,
+        "Eligibility": 0.4325474798679352,
+        "ApplicationProcess": 0.4415608048439026,
+        "TimelineFrequency": 0.3772393763065338,
+        "AuthoritiesGovernance": 0.3403289318084717,
+        "DefinitionsReferences": 0.35501623153686523
+      }
+    },
+    {
+      "sentence": "The registration process requires farmers to provide basic details such as their name, address, and bank account information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5742311477661133,
+      "similarities": {
+        "ContextObjective": 0.42458289861679077,
+        "BenefitsAssistance": 0.5358767509460449,
+        "Eligibility": 0.5313374996185303,
+        "ApplicationProcess": 0.5742311477661133,
+        "TimelineFrequency": 0.47307875752449036,
+        "AuthoritiesGovernance": 0.47067826986312866,
+        "DefinitionsReferences": 0.4730115830898285
+      }
+    },
+    {
+      "sentence": "Farmers must also provide proof of land ownership or lease agreements.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5587527751922607,
+      "similarities": {
+        "ContextObjective": 0.44011929631233215,
+        "BenefitsAssistance": 0.4795849323272705,
+        "Eligibility": 0.5318543314933777,
+        "ApplicationProcess": 0.5587527751922607,
+        "TimelineFrequency": 0.4708617925643921,
+        "AuthoritiesGovernance": 0.41464483737945557,
+        "DefinitionsReferences": 0.5003775954246521
+      }
+    },
+    {
+      "sentence": "The e-NAM platform supports various commodities including fruits, vegetables, grains, and pulses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5032078623771667,
+      "similarities": {
+        "ContextObjective": 0.45729565620422363,
+        "BenefitsAssistance": 0.5032078623771667,
+        "Eligibility": 0.4976327419281006,
+        "ApplicationProcess": 0.43279024958610535,
+        "TimelineFrequency": 0.44297122955322266,
+        "AuthoritiesGovernance": 0.42854881286621094,
+        "DefinitionsReferences": 0.45986077189445496
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 1.7 crore farmers have registered on the e-NAM platform.",
+      "role": "ContextObjective",
+      "confidence": 0.41940411925315857,
+      "similarities": {
+        "ContextObjective": 0.41940411925315857,
+        "BenefitsAssistance": 0.3788837194442749,
+        "Eligibility": 0.4028577208518982,
+        "ApplicationProcess": 0.3994517922401428,
+        "TimelineFrequency": 0.37086284160614014,
+        "AuthoritiesGovernance": 0.36217325925827026,
+        "DefinitionsReferences": 0.35535234212875366
+      }
+    },
+    {
+      "sentence": "The platform has facilitated transactions worth over ₹1.5 lakh crore since its inception.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46412762999534607,
+      "similarities": {
+        "ContextObjective": 0.4456484913825989,
+        "BenefitsAssistance": 0.46412762999534607,
+        "Eligibility": 0.38839787244796753,
+        "ApplicationProcess": 0.3826987147331238,
+        "TimelineFrequency": 0.33729642629623413,
+        "AuthoritiesGovernance": 0.34456866979599,
+        "DefinitionsReferences": 0.3934060037136078
+      }
+    },
+    {
+      "sentence": "e-NAM operates on a digital platform that connects farmers with buyers across the country.",
+      "role": "Eligibility",
+      "confidence": 0.4479316771030426,
+      "similarities": {
+        "ContextObjective": 0.43371710181236267,
+        "BenefitsAssistance": 0.4049564599990845,
+        "Eligibility": 0.4479316771030426,
+        "ApplicationProcess": 0.42869240045547485,
+        "TimelineFrequency": 0.3743031919002533,
+        "AuthoritiesGovernance": 0.41036456823349,
+        "DefinitionsReferences": 0.385291188955307
+      }
+    },
+    {
+      "sentence": "The scheme aims to eliminate the barriers of state borders in agricultural marketing.",
+      "role": "ContextObjective",
+      "confidence": 0.4833541512489319,
+      "similarities": {
+        "ContextObjective": 0.4833541512489319,
+        "BenefitsAssistance": 0.33020609617233276,
+        "Eligibility": 0.4798700511455536,
+        "ApplicationProcess": 0.4190235137939453,
+        "TimelineFrequency": 0.3619095981121063,
+        "AuthoritiesGovernance": 0.3869449496269226,
+        "DefinitionsReferences": 0.32747510075569153
+      }
+    },
+    {
+      "sentence": "Farmers can sell their produce to buyers from different states without any restrictions.",
+      "role": "Eligibility",
+      "confidence": 0.49037986993789673,
+      "similarities": {
+        "ContextObjective": 0.393716037273407,
+        "BenefitsAssistance": 0.4028787314891815,
+        "Eligibility": 0.49037986993789673,
+        "ApplicationProcess": 0.3983132839202881,
+        "TimelineFrequency": 0.34850966930389404,
+        "AuthoritiesGovernance": 0.34923744201660156,
+        "DefinitionsReferences": 0.35585105419158936
+      }
+    },
+    {
+      "sentence": "The e-NAM platform is designed to provide farmers with access to multiple markets.",
+      "role": "Eligibility",
+      "confidence": 0.4976346790790558,
+      "similarities": {
+        "ContextObjective": 0.47155749797821045,
+        "BenefitsAssistance": 0.42784619331359863,
+        "Eligibility": 0.4976346790790558,
+        "ApplicationProcess": 0.4463132619857788,
+        "TimelineFrequency": 0.4180324077606201,
+        "AuthoritiesGovernance": 0.43777021765708923,
+        "DefinitionsReferences": 0.39979851245880127
+      }
+    },
+    {
+      "sentence": "Farmers can choose to sell their produce in the market that offers the best price.",
+      "role": "Eligibility",
+      "confidence": 0.4230004549026489,
+      "similarities": {
+        "ContextObjective": 0.41037479043006897,
+        "BenefitsAssistance": 0.3874412178993225,
+        "Eligibility": 0.4230004549026489,
+        "ApplicationProcess": 0.3867747485637665,
+        "TimelineFrequency": 0.3697406053543091,
+        "AuthoritiesGovernance": 0.32556813955307007,
+        "DefinitionsReferences": 0.33868664503097534
+      }
+    },
+    {
+      "sentence": "The platform also provides a mechanism for quality assurance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5333070158958435,
+      "similarities": {
+        "ContextObjective": 0.5187979936599731,
+        "BenefitsAssistance": 0.45664548873901367,
+        "Eligibility": 0.5162561535835266,
+        "ApplicationProcess": 0.5333070158958435,
+        "TimelineFrequency": 0.4663069248199463,
+        "AuthoritiesGovernance": 0.502150297164917,
+        "DefinitionsReferences": 0.46506261825561523
+      }
+    },
+    {
+      "sentence": "Farmers can get their produce tested for quality before selling it on the platform.",
+      "role": "ApplicationProcess",
+      "confidence": 0.507367730140686,
+      "similarities": {
+        "ContextObjective": 0.4310332238674164,
+        "BenefitsAssistance": 0.3996339440345764,
+        "Eligibility": 0.5024471282958984,
+        "ApplicationProcess": 0.507367730140686,
+        "TimelineFrequency": 0.4225866198539734,
+        "AuthoritiesGovernance": 0.3695066273212433,
+        "DefinitionsReferences": 0.400786817073822
+      }
+    },
+    {
+      "sentence": "The e-NAM scheme is implemented by the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5040785670280457,
+      "similarities": {
+        "ContextObjective": 0.45916426181793213,
+        "BenefitsAssistance": 0.43588030338287354,
+        "Eligibility": 0.4664027988910675,
+        "ApplicationProcess": 0.4735181927680969,
+        "TimelineFrequency": 0.3827590346336365,
+        "AuthoritiesGovernance": 0.5040785670280457,
+        "DefinitionsReferences": 0.3645954728126526
+      }
+    },
+    {
+      "sentence": "The Agricultural and Processed Food Products Export Development Authority (APEDA) plays a crucial role in promoting e-NAM.",
+      "role": "Eligibility",
+      "confidence": 0.4255947470664978,
+      "similarities": {
+        "ContextObjective": 0.4186140298843384,
+        "BenefitsAssistance": 0.36348217725753784,
+        "Eligibility": 0.4255947470664978,
+        "ApplicationProcess": 0.41757941246032715,
+        "TimelineFrequency": 0.3453137278556824,
+        "AuthoritiesGovernance": 0.41097572445869446,
+        "DefinitionsReferences": 0.4091474115848541
+      }
+    },
+    {
+      "sentence": "State Agricultural Marketing Boards are responsible for the implementation of e-NAM at the state level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5425652265548706,
+      "similarities": {
+        "ContextObjective": 0.4452771842479706,
+        "BenefitsAssistance": 0.3964068591594696,
+        "Eligibility": 0.4832065999507904,
+        "ApplicationProcess": 0.4641072750091553,
+        "TimelineFrequency": 0.3850511312484741,
+        "AuthoritiesGovernance": 0.5425652265548706,
+        "DefinitionsReferences": 0.43065711855888367
+      }
+    },
+    {
+      "sentence": "The government has allocated ₹2,000 crore for the implementation of e-NAM.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46359556913375854,
+      "similarities": {
+        "ContextObjective": 0.4045116901397705,
+        "BenefitsAssistance": 0.4487397074699402,
+        "Eligibility": 0.4359455108642578,
+        "ApplicationProcess": 0.41205036640167236,
+        "TimelineFrequency": 0.342562735080719,
+        "AuthoritiesGovernance": 0.46359556913375854,
+        "DefinitionsReferences": 0.3815445005893707
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger Digital India initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5085545778274536,
+      "similarities": {
+        "ContextObjective": 0.5085545778274536,
+        "BenefitsAssistance": 0.4295746088027954,
+        "Eligibility": 0.41694119572639465,
+        "ApplicationProcess": 0.4520801305770874,
+        "TimelineFrequency": 0.3759083151817322,
+        "AuthoritiesGovernance": 0.42732805013656616,
+        "DefinitionsReferences": 0.3897472620010376
+      }
+    },
+    {
+      "sentence": "e-NAM aims to leverage technology to improve the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4463810324668884,
+      "similarities": {
+        "ContextObjective": 0.4463810324668884,
+        "BenefitsAssistance": 0.3892925977706909,
+        "Eligibility": 0.4145273268222809,
+        "ApplicationProcess": 0.42645031213760376,
+        "TimelineFrequency": 0.3868696093559265,
+        "AuthoritiesGovernance": 0.4193604588508606,
+        "DefinitionsReferences": 0.3822779655456543
+      }
+    },
+    {
+      "sentence": "Farmers can access the e-NAM platform through mobile apps and websites.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4568573832511902,
+      "similarities": {
+        "ContextObjective": 0.4157984256744385,
+        "BenefitsAssistance": 0.4336605966091156,
+        "Eligibility": 0.4504225254058838,
+        "ApplicationProcess": 0.4568573832511902,
+        "TimelineFrequency": 0.40438711643218994,
+        "AuthoritiesGovernance": 0.4353124797344208,
+        "DefinitionsReferences": 0.408726304769516
+      }
+    },
+    {
+      "sentence": "The platform is available in multiple languages to cater to farmers across different regions.",
+      "role": "Eligibility",
+      "confidence": 0.5368815660476685,
+      "similarities": {
+        "ContextObjective": 0.518905758857727,
+        "BenefitsAssistance": 0.47710299491882324,
+        "Eligibility": 0.5368815660476685,
+        "ApplicationProcess": 0.46662819385528564,
+        "TimelineFrequency": 0.47231289744377136,
+        "AuthoritiesGovernance": 0.45427146553993225,
+        "DefinitionsReferences": 0.4597064256668091
+      }
+    },
+    {
+      "sentence": "The government has also launched a helpline number for farmers to assist them with the registration process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.46113669872283936,
+      "similarities": {
+        "ContextObjective": 0.4122685194015503,
+        "BenefitsAssistance": 0.4368649125099182,
+        "Eligibility": 0.44762122631073,
+        "ApplicationProcess": 0.46113669872283936,
+        "TimelineFrequency": 0.39507168531417847,
+        "AuthoritiesGovernance": 0.4420538544654846,
+        "DefinitionsReferences": 0.3844236731529236
+      }
+    },
+    {
+      "sentence": "The helpline number is available in multiple languages to ensure accessibility.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.553823709487915,
+      "similarities": {
+        "ContextObjective": 0.48428845405578613,
+        "BenefitsAssistance": 0.553823709487915,
+        "Eligibility": 0.5428763628005981,
+        "ApplicationProcess": 0.502986490726471,
+        "TimelineFrequency": 0.4917597472667694,
+        "AuthoritiesGovernance": 0.49256134033203125,
+        "DefinitionsReferences": 0.4924580752849579
+      }
+    },
+    {
+      "sentence": "The e-NAM platform has been integrated with various state agricultural marketing portals.",
+      "role": "Eligibility",
+      "confidence": 0.45302051305770874,
+      "similarities": {
+        "ContextObjective": 0.4172457456588745,
+        "BenefitsAssistance": 0.42165112495422363,
+        "Eligibility": 0.45302051305770874,
+        "ApplicationProcess": 0.4525942802429199,
+        "TimelineFrequency": 0.41019153594970703,
+        "AuthoritiesGovernance": 0.44986242055892944,
+        "DefinitionsReferences": 0.41944974660873413
+      }
+    },
+    {
+      "sentence": "This integration allows for seamless transactions across different states.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5021620392799377,
+      "similarities": {
+        "ContextObjective": 0.42127466201782227,
+        "BenefitsAssistance": 0.5021620392799377,
+        "Eligibility": 0.4861014485359192,
+        "ApplicationProcess": 0.4617632329463959,
+        "TimelineFrequency": 0.44410619139671326,
+        "AuthoritiesGovernance": 0.43361735343933105,
+        "DefinitionsReferences": 0.42119377851486206
+      }
+    },
+    {
+      "sentence": "Farmers can also avail themselves of various government schemes through the e-NAM platform.",
+      "role": "Eligibility",
+      "confidence": 0.4913523197174072,
+      "similarities": {
+        "ContextObjective": 0.4854823648929596,
+        "BenefitsAssistance": 0.4626926779747009,
+        "Eligibility": 0.4913523197174072,
+        "ApplicationProcess": 0.46577438712120056,
+        "TimelineFrequency": 0.41253507137298584,
+        "AuthoritiesGovernance": 0.4305820167064667,
+        "DefinitionsReferences": 0.42281973361968994
+      }
+    },
+    {
+      "sentence": "The scheme encourages farmers to adopt modern farming practices.",
+      "role": "ContextObjective",
+      "confidence": 0.46944761276245117,
+      "similarities": {
+        "ContextObjective": 0.46944761276245117,
+        "BenefitsAssistance": 0.3843902051448822,
+        "Eligibility": 0.43580421805381775,
+        "ApplicationProcess": 0.4376961588859558,
+        "TimelineFrequency": 0.3648392856121063,
+        "AuthoritiesGovernance": 0.3789170980453491,
+        "DefinitionsReferences": 0.3680870234966278
+      }
+    },
+    {
+      "sentence": "It also promotes the use of technology in agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.42962130904197693,
+      "similarities": {
+        "ContextObjective": 0.42962130904197693,
+        "BenefitsAssistance": 0.37444913387298584,
+        "Eligibility": 0.37590292096138,
+        "ApplicationProcess": 0.39546021819114685,
+        "TimelineFrequency": 0.3827206790447235,
+        "AuthoritiesGovernance": 0.3559391498565674,
+        "DefinitionsReferences": 0.40057945251464844
+      }
+    },
+    {
+      "sentence": "The government aims to increase the number of registered farmers on the e-NAM platform to 2 crore by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.40779441595077515,
+      "similarities": {
+        "ContextObjective": 0.40779441595077515,
+        "BenefitsAssistance": 0.3664502501487732,
+        "Eligibility": 0.39718765020370483,
+        "ApplicationProcess": 0.37901222705841064,
+        "TimelineFrequency": 0.35742929577827454,
+        "AuthoritiesGovernance": 0.3753544092178345,
+        "DefinitionsReferences": 0.334808349609375
+      }
+    },
+    {
+      "sentence": "The e-NAM platform has also been instrumental in promoting organic farming.",
+      "role": "ContextObjective",
+      "confidence": 0.4218760132789612,
+      "similarities": {
+        "ContextObjective": 0.4218760132789612,
+        "BenefitsAssistance": 0.3496311902999878,
+        "Eligibility": 0.3640536963939667,
+        "ApplicationProcess": 0.359768807888031,
+        "TimelineFrequency": 0.3050937056541443,
+        "AuthoritiesGovernance": 0.3460097908973694,
+        "DefinitionsReferences": 0.37008151412010193
+      }
+    },
+    {
+      "sentence": "Farmers can sell organic produce at premium prices through the platform.",
+      "role": "Eligibility",
+      "confidence": 0.4385857582092285,
+      "similarities": {
+        "ContextObjective": 0.4336150884628296,
+        "BenefitsAssistance": 0.4282502830028534,
+        "Eligibility": 0.4385857582092285,
+        "ApplicationProcess": 0.42734384536743164,
+        "TimelineFrequency": 0.3552064299583435,
+        "AuthoritiesGovernance": 0.3189356327056885,
+        "DefinitionsReferences": 0.3740534782409668
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from farmers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.49473923444747925,
+      "similarities": {
+        "ContextObjective": 0.49473923444747925,
+        "BenefitsAssistance": 0.3972386121749878,
+        "Eligibility": 0.44963929057121277,
+        "ApplicationProcess": 0.3909110128879547,
+        "TimelineFrequency": 0.35461023449897766,
+        "AuthoritiesGovernance": 0.3964564800262451,
+        "DefinitionsReferences": 0.3747384548187256
+      }
+    },
+    {
+      "sentence": "Many farmers have reported increased income due to better price realization.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4408230781555176,
+      "similarities": {
+        "ContextObjective": 0.39013341069221497,
+        "BenefitsAssistance": 0.4408230781555176,
+        "Eligibility": 0.35755908489227295,
+        "ApplicationProcess": 0.344346821308136,
+        "TimelineFrequency": 0.30677396059036255,
+        "AuthoritiesGovernance": 0.31406110525131226,
+        "DefinitionsReferences": 0.36827272176742554
+      }
+    },
+    {
+      "sentence": "The government is continuously working to enhance the features of the e-NAM platform.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49022313952445984,
+      "similarities": {
+        "ContextObjective": 0.4772633910179138,
+        "BenefitsAssistance": 0.4507732093334198,
+        "Eligibility": 0.4339178800582886,
+        "ApplicationProcess": 0.4812197685241699,
+        "TimelineFrequency": 0.4234132170677185,
+        "AuthoritiesGovernance": 0.49022313952445984,
+        "DefinitionsReferences": 0.4691146910190582
+      }
+    },
+    {
+      "sentence": "New functionalities are being added to improve user experience.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5067437887191772,
+      "similarities": {
+        "ContextObjective": 0.5021040439605713,
+        "BenefitsAssistance": 0.49507272243499756,
+        "Eligibility": 0.45882558822631836,
+        "ApplicationProcess": 0.502341628074646,
+        "TimelineFrequency": 0.4958459734916687,
+        "AuthoritiesGovernance": 0.5063026547431946,
+        "DefinitionsReferences": 0.5067437887191772
+      }
+    },
+    {
+      "sentence": "The e-NAM scheme has also been linked with the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4193231463432312,
+      "similarities": {
+        "ContextObjective": 0.4193231463432312,
+        "BenefitsAssistance": 0.3897259831428528,
+        "Eligibility": 0.38875043392181396,
+        "ApplicationProcess": 0.376980185508728,
+        "TimelineFrequency": 0.34584876894950867,
+        "AuthoritiesGovernance": 0.3262253403663635,
+        "DefinitionsReferences": 0.3518420159816742
+      }
+    },
+    {
+      "sentence": "This linkage ensures that farmers receive direct financial assistance along with better market access.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44852161407470703,
+      "similarities": {
+        "ContextObjective": 0.3688432276248932,
+        "BenefitsAssistance": 0.44852161407470703,
+        "Eligibility": 0.4177725315093994,
+        "ApplicationProcess": 0.36465585231781006,
+        "TimelineFrequency": 0.33721041679382324,
+        "AuthoritiesGovernance": 0.3611055016517639,
+        "DefinitionsReferences": 0.3574647307395935
+      }
+    },
+    {
+      "sentence": "The government is also working on integrating e-NAM with the National Food Security Mission.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46421778202056885,
+      "similarities": {
+        "ContextObjective": 0.43348607420921326,
+        "BenefitsAssistance": 0.4015175402164459,
+        "Eligibility": 0.449521541595459,
+        "ApplicationProcess": 0.4573379456996918,
+        "TimelineFrequency": 0.3645375072956085,
+        "AuthoritiesGovernance": 0.46421778202056885,
+        "DefinitionsReferences": 0.3821861743927002
+      }
+    },
+    {
+      "sentence": "This integration aims to ensure food security while enhancing farmers' income.",
+      "role": "Eligibility",
+      "confidence": 0.4581995904445648,
+      "similarities": {
+        "ContextObjective": 0.4375135898590088,
+        "BenefitsAssistance": 0.44744306802749634,
+        "Eligibility": 0.4581995904445648,
+        "ApplicationProcess": 0.4115869998931885,
+        "TimelineFrequency": 0.35600024461746216,
+        "AuthoritiesGovernance": 0.4169979989528656,
+        "DefinitionsReferences": 0.3564612865447998
+      }
+    },
+    {
+      "sentence": "The e-NAM platform is expected to play a crucial role in achieving the goal of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4617529809474945,
+      "similarities": {
+        "ContextObjective": 0.4617529809474945,
+        "BenefitsAssistance": 0.39760035276412964,
+        "Eligibility": 0.42077118158340454,
+        "ApplicationProcess": 0.3815668225288391,
+        "TimelineFrequency": 0.36627697944641113,
+        "AuthoritiesGovernance": 0.36672860383987427,
+        "DefinitionsReferences": 0.3621697425842285
+      }
+    },
+    {
+      "sentence": "The government has set a target of increasing the share of agriculture in the GDP to 25% by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.4066612720489502,
+      "similarities": {
+        "ContextObjective": 0.4066612720489502,
+        "BenefitsAssistance": 0.3566164970397949,
+        "Eligibility": 0.36330172419548035,
+        "ApplicationProcess": 0.33421117067337036,
+        "TimelineFrequency": 0.3239031434059143,
+        "AuthoritiesGovernance": 0.340425580739975,
+        "DefinitionsReferences": 0.32750168442726135
+      }
+    },
+    {
+      "sentence": "The e-NAM scheme is a significant step towards achieving these targets.",
+      "role": "ContextObjective",
+      "confidence": 0.5246851444244385,
+      "similarities": {
+        "ContextObjective": 0.5246851444244385,
+        "BenefitsAssistance": 0.4283546507358551,
+        "Eligibility": 0.46121177077293396,
+        "ApplicationProcess": 0.46349918842315674,
+        "TimelineFrequency": 0.3989168107509613,
+        "AuthoritiesGovernance": 0.42248719930648804,
+        "DefinitionsReferences": 0.39918237924575806
+      }
+    },
+    {
+      "sentence": "The platform has also facilitated the export of agricultural commodities.",
+      "role": "ContextObjective",
+      "confidence": 0.4520874619483948,
+      "similarities": {
+        "ContextObjective": 0.4520874619483948,
+        "BenefitsAssistance": 0.4063722789287567,
+        "Eligibility": 0.42584019899368286,
+        "ApplicationProcess": 0.3974645733833313,
+        "TimelineFrequency": 0.343946635723114,
+        "AuthoritiesGovernance": 0.3489993214607239,
+        "DefinitionsReferences": 0.4040069580078125
+      }
+    },
+    {
+      "sentence": "Farmers can connect with international buyers through the e-NAM platform.",
+      "role": "Eligibility",
+      "confidence": 0.49072685837745667,
+      "similarities": {
+        "ContextObjective": 0.4333120584487915,
+        "BenefitsAssistance": 0.4032149016857147,
+        "Eligibility": 0.49072685837745667,
+        "ApplicationProcess": 0.45722541213035583,
+        "TimelineFrequency": 0.37880825996398926,
+        "AuthoritiesGovernance": 0.4016398787498474,
+        "DefinitionsReferences": 0.3750578761100769
+      }
+    },
+    {
+      "sentence": "The government is promoting e-NAM as a model for other countries to follow.",
+      "role": "ContextObjective",
+      "confidence": 0.5075136423110962,
+      "similarities": {
+        "ContextObjective": 0.5075136423110962,
+        "BenefitsAssistance": 0.41385164856910706,
+        "Eligibility": 0.485983669757843,
+        "ApplicationProcess": 0.47859615087509155,
+        "TimelineFrequency": 0.39288151264190674,
+        "AuthoritiesGovernance": 0.47893255949020386,
+        "DefinitionsReferences": 0.45565515756607056
+      }
+    },
+    {
+      "sentence": "The scheme has been recognized globally for its innovative approach to agricultural marketing.",
+      "role": "ContextObjective",
+      "confidence": 0.48626089096069336,
+      "similarities": {
+        "ContextObjective": 0.48626089096069336,
+        "BenefitsAssistance": 0.3522566556930542,
+        "Eligibility": 0.43157920241355896,
+        "ApplicationProcess": 0.3992801904678345,
+        "TimelineFrequency": 0.3554709553718567,
+        "AuthoritiesGovernance": 0.36798375844955444,
+        "DefinitionsReferences": 0.35493704676628113
+      }
+    },
+    {
+      "sentence": "The e-NAM platform has received several awards for its contribution to the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4238949418067932,
+      "similarities": {
+        "ContextObjective": 0.4238949418067932,
+        "BenefitsAssistance": 0.3965039849281311,
+        "Eligibility": 0.41695815324783325,
+        "ApplicationProcess": 0.3923870027065277,
+        "TimelineFrequency": 0.37645775079727173,
+        "AuthoritiesGovernance": 0.3831743001937866,
+        "DefinitionsReferences": 0.39364200830459595
+      }
+    },
+    {
+      "sentence": "The government is committed to expanding the reach of e-NAM to more farmers.",
+      "role": "Eligibility",
+      "confidence": 0.4527597725391388,
+      "similarities": {
+        "ContextObjective": 0.3963278532028198,
+        "BenefitsAssistance": 0.3688318729400635,
+        "Eligibility": 0.4527597725391388,
+        "ApplicationProcess": 0.4107019305229187,
+        "TimelineFrequency": 0.3436030149459839,
+        "AuthoritiesGovernance": 0.41317397356033325,
+        "DefinitionsReferences": 0.38329797983169556
+      }
+    },
+    {
+      "sentence": "Efforts are being made to include more agricultural commodities on the platform.",
+      "role": "ContextObjective",
+      "confidence": 0.5027521848678589,
+      "similarities": {
+        "ContextObjective": 0.5027521848678589,
+        "BenefitsAssistance": 0.47829681634902954,
+        "Eligibility": 0.4970453977584839,
+        "ApplicationProcess": 0.4697127044200897,
+        "TimelineFrequency": 0.44616198539733887,
+        "AuthoritiesGovernance": 0.44776254892349243,
+        "DefinitionsReferences": 0.4868150055408478
+      }
+    },
+    {
+      "sentence": "The e-NAM initiative is a game-changer for the agricultural sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.40460920333862305,
+      "similarities": {
+        "ContextObjective": 0.40460920333862305,
+        "BenefitsAssistance": 0.3344080150127411,
+        "Eligibility": 0.38506489992141724,
+        "ApplicationProcess": 0.3454045355319977,
+        "TimelineFrequency": 0.30515825748443604,
+        "AuthoritiesGovernance": 0.3575131893157959,
+        "DefinitionsReferences": 0.3207513391971588
+      }
+    },
+    {
+      "sentence": "It empowers farmers by providing them with the tools and resources needed for better market access.",
+      "role": "Eligibility",
+      "confidence": 0.4367116093635559,
+      "similarities": {
+        "ContextObjective": 0.422715425491333,
+        "BenefitsAssistance": 0.3974947929382324,
+        "Eligibility": 0.4367116093635559,
+        "ApplicationProcess": 0.4066893458366394,
+        "TimelineFrequency": 0.36365100741386414,
+        "AuthoritiesGovernance": 0.4138953983783722,
+        "DefinitionsReferences": 0.38637322187423706
+      }
+    },
+    {
+      "sentence": "The scheme is expected to transform the agricultural landscape in India.",
+      "role": "ContextObjective",
+      "confidence": 0.502606987953186,
+      "similarities": {
+        "ContextObjective": 0.502606987953186,
+        "BenefitsAssistance": 0.3561162054538727,
+        "Eligibility": 0.4470430314540863,
+        "ApplicationProcess": 0.39096152782440186,
+        "TimelineFrequency": 0.3502050042152405,
+        "AuthoritiesGovernance": 0.38546547293663025,
+        "DefinitionsReferences": 0.3447616696357727
+      }
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the progress of e-NAM regularly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4695289731025696,
+      "similarities": {
+        "ContextObjective": 0.4105403423309326,
+        "BenefitsAssistance": 0.435163676738739,
+        "Eligibility": 0.3986412286758423,
+        "ApplicationProcess": 0.4695289731025696,
+        "TimelineFrequency": 0.4032161831855774,
+        "AuthoritiesGovernance": 0.46246883273124695,
+        "DefinitionsReferences": 0.45309916138648987
+      }
+    },
+    {
+      "sentence": "Feedback from farmers is taken into consideration for further improvements.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4766991138458252,
+      "similarities": {
+        "ContextObjective": 0.437314510345459,
+        "BenefitsAssistance": 0.4234873950481415,
+        "Eligibility": 0.4356811046600342,
+        "ApplicationProcess": 0.4300829768180847,
+        "TimelineFrequency": 0.3943325877189636,
+        "AuthoritiesGovernance": 0.4766991138458252,
+        "DefinitionsReferences": 0.40630990266799927
+      }
+    },
+    {
+      "sentence": "The e-NAM platform is a testament to the government's commitment to improving the lives of farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.411257803440094,
+      "similarities": {
+        "ContextObjective": 0.411257803440094,
+        "BenefitsAssistance": 0.36020195484161377,
+        "Eligibility": 0.3958907723426819,
+        "ApplicationProcess": 0.37984275817871094,
+        "TimelineFrequency": 0.3121064603328705,
+        "AuthoritiesGovernance": 0.3862047493457794,
+        "DefinitionsReferences": 0.3746560513973236
+      }
+    },
+    {
+      "sentence": "The initiative is aligned with the broader goals of rural development and poverty alleviation.",
+      "role": "ContextObjective",
+      "confidence": 0.4832204580307007,
+      "similarities": {
+        "ContextObjective": 0.4832204580307007,
+        "BenefitsAssistance": 0.40163978934288025,
+        "Eligibility": 0.41415250301361084,
+        "ApplicationProcess": 0.37422436475753784,
+        "TimelineFrequency": 0.34895405173301697,
+        "AuthoritiesGovernance": 0.43275904655456543,
+        "DefinitionsReferences": 0.3674107789993286
+      }
+    },
+    {
+      "sentence": "The e-NAM scheme is a significant milestone in the journey towards a more robust agricultural economy in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4498075246810913,
+      "similarities": {
+        "ContextObjective": 0.4498075246810913,
+        "BenefitsAssistance": 0.38178586959838867,
+        "Eligibility": 0.4009380340576172,
+        "ApplicationProcess": 0.41333144903182983,
+        "TimelineFrequency": 0.35517650842666626,
+        "AuthoritiesGovernance": 0.36489689350128174,
+        "DefinitionsReferences": 0.3563137650489807
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 28,
+    "ApplicationProcess": 9,
+    "Eligibility": 14,
+    "BenefitsAssistance": 7,
+    "AuthoritiesGovernance": 6,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:48:42.278772"
+}

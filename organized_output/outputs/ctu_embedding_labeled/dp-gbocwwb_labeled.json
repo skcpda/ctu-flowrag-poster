@@ -1,0 +1,938 @@
+{
+  "scheme_name": "Disability Pension (GBOCWWB)",
+  "total_sentences": 66,
+  "labeled_sentences": [
+    {
+      "sentence": "The Disability Pension scheme under the Government of India is a significant welfare initiative aimed at providing financial support to individuals with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5507756471633911,
+      "similarities": {
+        "ContextObjective": 0.5507756471633911,
+        "BenefitsAssistance": 0.5362281799316406,
+        "Eligibility": 0.5162209272384644,
+        "ApplicationProcess": 0.44022464752197266,
+        "TimelineFrequency": 0.40760162472724915,
+        "AuthoritiesGovernance": 0.45819830894470215,
+        "DefinitionsReferences": 0.3837074935436249
+      }
+    },
+    {
+      "sentence": "This scheme is specifically designed for workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.46875646710395813,
+      "similarities": {
+        "ContextObjective": 0.46875646710395813,
+        "BenefitsAssistance": 0.44560039043426514,
+        "Eligibility": 0.46507900953292847,
+        "ApplicationProcess": 0.45144957304000854,
+        "TimelineFrequency": 0.4233804941177368,
+        "AuthoritiesGovernance": 0.4532662034034729,
+        "DefinitionsReferences": 0.3661966919898987
+      }
+    },
+    {
+      "sentence": "The scheme is administered by the Government of Bihar under the Bihar Building and Other Construction Workers Welfare Board (GBOCWWB).",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5106843113899231,
+      "similarities": {
+        "ContextObjective": 0.4741196036338806,
+        "BenefitsAssistance": 0.41583216190338135,
+        "Eligibility": 0.4828806519508362,
+        "ApplicationProcess": 0.44106000661849976,
+        "TimelineFrequency": 0.37814706563949585,
+        "AuthoritiesGovernance": 0.5106843113899231,
+        "DefinitionsReferences": 0.38329678773880005
+      }
+    },
+    {
+      "sentence": "It was launched to ensure that individuals with disabilities receive adequate financial assistance to lead a dignified life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5496683120727539,
+      "similarities": {
+        "ContextObjective": 0.5255663394927979,
+        "BenefitsAssistance": 0.5496683120727539,
+        "Eligibility": 0.5387802124023438,
+        "ApplicationProcess": 0.46823689341545105,
+        "TimelineFrequency": 0.422521710395813,
+        "AuthoritiesGovernance": 0.4354131519794464,
+        "DefinitionsReferences": 0.39108067750930786
+      }
+    },
+    {
+      "sentence": "The scheme recognizes the challenges faced by disabled individuals in securing employment and earning a livelihood.",
+      "role": "Eligibility",
+      "confidence": 0.5461384057998657,
+      "similarities": {
+        "ContextObjective": 0.5047450065612793,
+        "BenefitsAssistance": 0.48650088906288147,
+        "Eligibility": 0.5461384057998657,
+        "ApplicationProcess": 0.4663955867290497,
+        "TimelineFrequency": 0.4213027358055115,
+        "AuthoritiesGovernance": 0.42333465814590454,
+        "DefinitionsReferences": 0.3711159825325012
+      }
+    },
+    {
+      "sentence": "The Disability Pension scheme was officially launched on 1st April 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.5352792739868164,
+      "similarities": {
+        "ContextObjective": 0.5352792739868164,
+        "BenefitsAssistance": 0.4591408967971802,
+        "Eligibility": 0.4504876136779785,
+        "ApplicationProcess": 0.4260473847389221,
+        "TimelineFrequency": 0.3984934091567993,
+        "AuthoritiesGovernance": 0.39953455328941345,
+        "DefinitionsReferences": 0.31507736444473267
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide a monthly pension to individuals with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5890741944313049,
+      "similarities": {
+        "ContextObjective": 0.5890741944313049,
+        "BenefitsAssistance": 0.498174250125885,
+        "Eligibility": 0.5353158712387085,
+        "ApplicationProcess": 0.4413244128227234,
+        "TimelineFrequency": 0.4405253231525421,
+        "AuthoritiesGovernance": 0.4314354658126831,
+        "DefinitionsReferences": 0.3498912453651428
+      }
+    },
+    {
+      "sentence": "The pension amount is set at ₹1,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49930551648139954,
+      "similarities": {
+        "ContextObjective": 0.43962210416793823,
+        "BenefitsAssistance": 0.49930551648139954,
+        "Eligibility": 0.46987849473953247,
+        "ApplicationProcess": 0.4078410267829895,
+        "TimelineFrequency": 0.4060942828655243,
+        "AuthoritiesGovernance": 0.3750198781490326,
+        "DefinitionsReferences": 0.3394075036048889
+      }
+    },
+    {
+      "sentence": "This financial assistance aims to alleviate the economic burden on disabled individuals and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5651735067367554,
+      "similarities": {
+        "ContextObjective": 0.4497256278991699,
+        "BenefitsAssistance": 0.5651735067367554,
+        "Eligibility": 0.4976898431777954,
+        "ApplicationProcess": 0.3958757519721985,
+        "TimelineFrequency": 0.37915754318237305,
+        "AuthoritiesGovernance": 0.4055127203464508,
+        "DefinitionsReferences": 0.33822786808013916
+      }
+    },
+    {
+      "sentence": "The scheme targets individuals who are unable to work due to their disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.5847786068916321,
+      "similarities": {
+        "ContextObjective": 0.5329554080963135,
+        "BenefitsAssistance": 0.49473804235458374,
+        "Eligibility": 0.5847786068916321,
+        "ApplicationProcess": 0.4538789689540863,
+        "TimelineFrequency": 0.45049262046813965,
+        "AuthoritiesGovernance": 0.4240817427635193,
+        "DefinitionsReferences": 0.3657273054122925
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Disability Pension scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.5976557731628418,
+      "similarities": {
+        "ContextObjective": 0.5485747456550598,
+        "BenefitsAssistance": 0.5048526525497437,
+        "Eligibility": 0.5976557731628418,
+        "ApplicationProcess": 0.48572319746017456,
+        "TimelineFrequency": 0.4640630781650543,
+        "AuthoritiesGovernance": 0.4069463610649109,
+        "DefinitionsReferences": 0.38933444023132324
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Bihar.",
+      "role": "Eligibility",
+      "confidence": 0.6104122400283813,
+      "similarities": {
+        "ContextObjective": 0.4530789256095886,
+        "BenefitsAssistance": 0.41910797357559204,
+        "Eligibility": 0.6104122400283813,
+        "ApplicationProcess": 0.5457005500793457,
+        "TimelineFrequency": 0.47328588366508484,
+        "AuthoritiesGovernance": 0.4215050935745239,
+        "DefinitionsReferences": 0.39523133635520935
+      }
+    },
+    {
+      "sentence": "Only individuals who are registered as construction workers with the Bihar Building and Other Construction Workers Welfare Board are eligible.",
+      "role": "Eligibility",
+      "confidence": 0.5153835415840149,
+      "similarities": {
+        "ContextObjective": 0.3310716152191162,
+        "BenefitsAssistance": 0.3369956612586975,
+        "Eligibility": 0.5153835415840149,
+        "ApplicationProcess": 0.38298553228378296,
+        "TimelineFrequency": 0.3468829393386841,
+        "AuthoritiesGovernance": 0.3602410554885864,
+        "DefinitionsReferences": 0.2772112786769867
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a minimum of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6041050553321838,
+      "similarities": {
+        "ContextObjective": 0.4702110290527344,
+        "BenefitsAssistance": 0.43510204553604126,
+        "Eligibility": 0.6041050553321838,
+        "ApplicationProcess": 0.545436680316925,
+        "TimelineFrequency": 0.5303551554679871,
+        "AuthoritiesGovernance": 0.3985854983329773,
+        "DefinitionsReferences": 0.3928983509540558
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5493156313896179,
+      "similarities": {
+        "ContextObjective": 0.4149925708770752,
+        "BenefitsAssistance": 0.3989633321762085,
+        "Eligibility": 0.5493156313896179,
+        "ApplicationProcess": 0.4681941270828247,
+        "TimelineFrequency": 0.4597724378108978,
+        "AuthoritiesGovernance": 0.36694443225860596,
+        "DefinitionsReferences": 0.34142953157424927
+      }
+    },
+    {
+      "sentence": "To qualify for the pension, individuals must have a disability that is certified by a recognized medical authority.",
+      "role": "Eligibility",
+      "confidence": 0.5560933351516724,
+      "similarities": {
+        "ContextObjective": 0.4091087877750397,
+        "BenefitsAssistance": 0.4990082383155823,
+        "Eligibility": 0.5560933351516724,
+        "ApplicationProcess": 0.5056865811347961,
+        "TimelineFrequency": 0.416498601436615,
+        "AuthoritiesGovernance": 0.40674901008605957,
+        "DefinitionsReferences": 0.3688789904117584
+      }
+    },
+    {
+      "sentence": "The disability must be at least 40% as per the guidelines of the Rights of Persons with Disabilities Act, 2016.",
+      "role": "Eligibility",
+      "confidence": 0.5492106676101685,
+      "similarities": {
+        "ContextObjective": 0.42128029465675354,
+        "BenefitsAssistance": 0.47230052947998047,
+        "Eligibility": 0.5492106676101685,
+        "ApplicationProcess": 0.4765273630619049,
+        "TimelineFrequency": 0.40542781352996826,
+        "AuthoritiesGovernance": 0.4074508249759674,
+        "DefinitionsReferences": 0.4335678815841675
+      }
+    },
+    {
+      "sentence": "The application process for the Disability Pension scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5478042960166931,
+      "similarities": {
+        "ContextObjective": 0.5299097895622253,
+        "BenefitsAssistance": 0.4806802272796631,
+        "Eligibility": 0.5194165706634521,
+        "ApplicationProcess": 0.5478042960166931,
+        "TimelineFrequency": 0.4728007912635803,
+        "AuthoritiesGovernance": 0.416007936000824,
+        "DefinitionsReferences": 0.34875333309173584
+      }
+    },
+    {
+      "sentence": "Interested individuals must fill out the application form available at the local office of the Bihar Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6323714852333069,
+      "similarities": {
+        "ContextObjective": 0.4535007178783417,
+        "BenefitsAssistance": 0.43400079011917114,
+        "Eligibility": 0.5594658255577087,
+        "ApplicationProcess": 0.6323714852333069,
+        "TimelineFrequency": 0.46368151903152466,
+        "AuthoritiesGovernance": 0.41088199615478516,
+        "DefinitionsReferences": 0.392339289188385
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6340897679328918,
+      "similarities": {
+        "ContextObjective": 0.458844393491745,
+        "BenefitsAssistance": 0.43695878982543945,
+        "Eligibility": 0.5245822072029114,
+        "ApplicationProcess": 0.6340897679328918,
+        "TimelineFrequency": 0.5205936431884766,
+        "AuthoritiesGovernance": 0.44382238388061523,
+        "DefinitionsReferences": 0.4636708199977875
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit specific documents along with their application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7409626245498657,
+      "similarities": {
+        "ContextObjective": 0.5263975262641907,
+        "BenefitsAssistance": 0.5681560039520264,
+        "Eligibility": 0.6617365479469299,
+        "ApplicationProcess": 0.7409626245498657,
+        "TimelineFrequency": 0.6412043571472168,
+        "AuthoritiesGovernance": 0.5113049745559692,
+        "DefinitionsReferences": 0.5648705959320068
+      }
+    },
+    {
+      "sentence": "These documents include a copy of the disability certificate issued by a recognized medical authority.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5199450254440308,
+      "similarities": {
+        "ContextObjective": 0.4008547067642212,
+        "BenefitsAssistance": 0.5199450254440308,
+        "Eligibility": 0.445790559053421,
+        "ApplicationProcess": 0.4831582307815552,
+        "TimelineFrequency": 0.39919453859329224,
+        "AuthoritiesGovernance": 0.4263315200805664,
+        "DefinitionsReferences": 0.48782050609588623
+      }
+    },
+    {
+      "sentence": "A copy of the identity proof such as an Aadhar card or voter ID is also necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5493488311767578,
+      "similarities": {
+        "ContextObjective": 0.4003791809082031,
+        "BenefitsAssistance": 0.45918187499046326,
+        "Eligibility": 0.4445657730102539,
+        "ApplicationProcess": 0.5493488311767578,
+        "TimelineFrequency": 0.4170205295085907,
+        "AuthoritiesGovernance": 0.4004448354244232,
+        "DefinitionsReferences": 0.4491158723831177
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must provide proof of registration as a construction worker with the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6001321077346802,
+      "similarities": {
+        "ContextObjective": 0.4334876537322998,
+        "BenefitsAssistance": 0.4259169399738312,
+        "Eligibility": 0.526330828666687,
+        "ApplicationProcess": 0.6001321077346802,
+        "TimelineFrequency": 0.49807971715927124,
+        "AuthoritiesGovernance": 0.3953804671764374,
+        "DefinitionsReferences": 0.43821752071380615
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes a verification process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.768665075302124,
+      "similarities": {
+        "ContextObjective": 0.5263299942016602,
+        "BenefitsAssistance": 0.5114541053771973,
+        "Eligibility": 0.6014893651008606,
+        "ApplicationProcess": 0.768665075302124,
+        "TimelineFrequency": 0.6038497686386108,
+        "AuthoritiesGovernance": 0.47729605436325073,
+        "DefinitionsReferences": 0.4919864237308502
+      }
+    },
+    {
+      "sentence": "The verification is conducted by officials from the Bihar Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.53916335105896,
+      "similarities": {
+        "ContextObjective": 0.41653406620025635,
+        "BenefitsAssistance": 0.42537349462509155,
+        "Eligibility": 0.4753955900669098,
+        "ApplicationProcess": 0.53916335105896,
+        "TimelineFrequency": 0.39397960901260376,
+        "AuthoritiesGovernance": 0.46101492643356323,
+        "DefinitionsReferences": 0.4264015257358551
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the pension is approved.",
+      "role": "ApplicationProcess",
+      "confidence": 0.564702033996582,
+      "similarities": {
+        "ContextObjective": 0.44441473484039307,
+        "BenefitsAssistance": 0.4924074411392212,
+        "Eligibility": 0.5110381245613098,
+        "ApplicationProcess": 0.564702033996582,
+        "TimelineFrequency": 0.4353182911872864,
+        "AuthoritiesGovernance": 0.41738033294677734,
+        "DefinitionsReferences": 0.39799320697784424
+      }
+    },
+    {
+      "sentence": "The disbursement of the pension occurs on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5667596459388733,
+      "similarities": {
+        "ContextObjective": 0.4842473864555359,
+        "BenefitsAssistance": 0.5667596459388733,
+        "Eligibility": 0.49113011360168457,
+        "ApplicationProcess": 0.47143352031707764,
+        "TimelineFrequency": 0.5280449390411377,
+        "AuthoritiesGovernance": 0.4683693051338196,
+        "DefinitionsReferences": 0.3965185880661011
+      }
+    },
+    {
+      "sentence": "The pension amount is directly credited to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5238433480262756,
+      "similarities": {
+        "ContextObjective": 0.4032943844795227,
+        "BenefitsAssistance": 0.5238433480262756,
+        "Eligibility": 0.46620672941207886,
+        "ApplicationProcess": 0.41882842779159546,
+        "TimelineFrequency": 0.38336122035980225,
+        "AuthoritiesGovernance": 0.37470680475234985,
+        "DefinitionsReferences": 0.3467628061771393
+      }
+    },
+    {
+      "sentence": "Beneficiaries must ensure that their bank account details are correctly provided in the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6461111903190613,
+      "similarities": {
+        "ContextObjective": 0.5074459910392761,
+        "BenefitsAssistance": 0.5641999244689941,
+        "Eligibility": 0.640692949295044,
+        "ApplicationProcess": 0.6461111903190613,
+        "TimelineFrequency": 0.5095321536064148,
+        "AuthoritiesGovernance": 0.4646822512149811,
+        "DefinitionsReferences": 0.46051034331321716
+      }
+    },
+    {
+      "sentence": "The scheme also mandates regular updates on the status of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5659369230270386,
+      "similarities": {
+        "ContextObjective": 0.4842342734336853,
+        "BenefitsAssistance": 0.5571461319923401,
+        "Eligibility": 0.5659369230270386,
+        "ApplicationProcess": 0.5009710788726807,
+        "TimelineFrequency": 0.49120032787323,
+        "AuthoritiesGovernance": 0.4610283672809601,
+        "DefinitionsReferences": 0.42630332708358765
+      }
+    },
+    {
+      "sentence": "This includes periodic medical assessments to verify the continued eligibility of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5902872085571289,
+      "similarities": {
+        "ContextObjective": 0.45041269063949585,
+        "BenefitsAssistance": 0.5670934915542603,
+        "Eligibility": 0.5902872085571289,
+        "ApplicationProcess": 0.5471668243408203,
+        "TimelineFrequency": 0.5613832473754883,
+        "AuthoritiesGovernance": 0.43275710940361023,
+        "DefinitionsReferences": 0.46023377776145935
+      }
+    },
+    {
+      "sentence": "The Bihar Building and Other Construction Workers Welfare Board is the implementing authority for this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5515271425247192,
+      "similarities": {
+        "ContextObjective": 0.46284687519073486,
+        "BenefitsAssistance": 0.40473759174346924,
+        "Eligibility": 0.47549182176589966,
+        "ApplicationProcess": 0.4187876582145691,
+        "TimelineFrequency": 0.3717748522758484,
+        "AuthoritiesGovernance": 0.5515271425247192,
+        "DefinitionsReferences": 0.3807104825973511
+      }
+    },
+    {
+      "sentence": "The board operates under the Department of Labour Resources, Government of Bihar.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49285149574279785,
+      "similarities": {
+        "ContextObjective": 0.4103092849254608,
+        "BenefitsAssistance": 0.39646559953689575,
+        "Eligibility": 0.4498634934425354,
+        "ApplicationProcess": 0.41768503189086914,
+        "TimelineFrequency": 0.4029691815376282,
+        "AuthoritiesGovernance": 0.49285149574279785,
+        "DefinitionsReferences": 0.40213441848754883
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, individuals can contact the board's office directly.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4932577311992645,
+      "similarities": {
+        "ContextObjective": 0.41050878167152405,
+        "BenefitsAssistance": 0.4750526547431946,
+        "Eligibility": 0.46638256311416626,
+        "ApplicationProcess": 0.48542505502700806,
+        "TimelineFrequency": 0.4175024628639221,
+        "AuthoritiesGovernance": 0.4932577311992645,
+        "DefinitionsReferences": 0.4023473858833313
+      }
+    },
+    {
+      "sentence": "The contact details for the Bihar Building and Other Construction Workers Welfare Board are available on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4888969361782074,
+      "similarities": {
+        "ContextObjective": 0.41031432151794434,
+        "BenefitsAssistance": 0.480955570936203,
+        "Eligibility": 0.45118966698646545,
+        "ApplicationProcess": 0.4799426198005676,
+        "TimelineFrequency": 0.3999789357185364,
+        "AuthoritiesGovernance": 0.4888969361782074,
+        "DefinitionsReferences": 0.42629867792129517
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing financial security to many individuals with disabilities in Bihar.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5123151540756226,
+      "similarities": {
+        "ContextObjective": 0.48731863498687744,
+        "BenefitsAssistance": 0.5123151540756226,
+        "Eligibility": 0.49842074513435364,
+        "ApplicationProcess": 0.3878844976425171,
+        "TimelineFrequency": 0.3465806841850281,
+        "AuthoritiesGovernance": 0.3694676458835602,
+        "DefinitionsReferences": 0.3724491000175476
+      }
+    },
+    {
+      "sentence": "As of the latest reports, over 50,000 individuals have benefited from the Disability Pension scheme since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.47210508584976196,
+      "similarities": {
+        "ContextObjective": 0.47210508584976196,
+        "BenefitsAssistance": 0.46790093183517456,
+        "Eligibility": 0.4273890256881714,
+        "ApplicationProcess": 0.37191328406333923,
+        "TimelineFrequency": 0.3446505069732666,
+        "AuthoritiesGovernance": 0.388618528842926,
+        "DefinitionsReferences": 0.3366820216178894
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who have expressed gratitude for the financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5095435976982117,
+      "similarities": {
+        "ContextObjective": 0.4954240322113037,
+        "BenefitsAssistance": 0.5095435976982117,
+        "Eligibility": 0.49020951986312866,
+        "ApplicationProcess": 0.4070746898651123,
+        "TimelineFrequency": 0.37316763401031494,
+        "AuthoritiesGovernance": 0.39118897914886475,
+        "DefinitionsReferences": 0.3882633447647095
+      }
+    },
+    {
+      "sentence": "The government continues to promote awareness about the scheme to ensure that eligible individuals can access the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5524354577064514,
+      "similarities": {
+        "ContextObjective": 0.5338252782821655,
+        "BenefitsAssistance": 0.4853617548942566,
+        "Eligibility": 0.5524354577064514,
+        "ApplicationProcess": 0.497324675321579,
+        "TimelineFrequency": 0.4362272620201111,
+        "AuthoritiesGovernance": 0.4709850251674652,
+        "DefinitionsReferences": 0.40800023078918457
+      }
+    },
+    {
+      "sentence": "In addition to the Disability Pension scheme, the Bihar Building and Other Construction Workers Welfare Board offers various other welfare measures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5293872356414795,
+      "similarities": {
+        "ContextObjective": 0.47503897547721863,
+        "BenefitsAssistance": 0.5293872356414795,
+        "Eligibility": 0.4688328802585602,
+        "ApplicationProcess": 0.4189646244049072,
+        "TimelineFrequency": 0.40208131074905396,
+        "AuthoritiesGovernance": 0.4319591522216797,
+        "DefinitionsReferences": 0.4257095456123352
+      }
+    },
+    {
+      "sentence": "These include health insurance, education assistance for children, and skill development programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5916398763656616,
+      "similarities": {
+        "ContextObjective": 0.45120617747306824,
+        "BenefitsAssistance": 0.5916398763656616,
+        "Eligibility": 0.47582757472991943,
+        "ApplicationProcess": 0.4258463978767395,
+        "TimelineFrequency": 0.4576702117919922,
+        "AuthoritiesGovernance": 0.45014065504074097,
+        "DefinitionsReferences": 0.4553377032279968
+      }
+    },
+    {
+      "sentence": "The Disability Pension scheme is part of a broader initiative to empower marginalized sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5187092423439026,
+      "similarities": {
+        "ContextObjective": 0.5187092423439026,
+        "BenefitsAssistance": 0.45849674940109253,
+        "Eligibility": 0.47143805027008057,
+        "ApplicationProcess": 0.3667708933353424,
+        "TimelineFrequency": 0.34836599230766296,
+        "AuthoritiesGovernance": 0.43713462352752686,
+        "DefinitionsReferences": 0.34144771099090576
+      }
+    },
+    {
+      "sentence": "The government aims to create an inclusive environment where individuals with disabilities can thrive.",
+      "role": "Eligibility",
+      "confidence": 0.5692465305328369,
+      "similarities": {
+        "ContextObjective": 0.5517760515213013,
+        "BenefitsAssistance": 0.4827263057231903,
+        "Eligibility": 0.5692465305328369,
+        "ApplicationProcess": 0.4602305591106415,
+        "TimelineFrequency": 0.42233651876449585,
+        "AuthoritiesGovernance": 0.5108407735824585,
+        "DefinitionsReferences": 0.4484943747520447
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the national policy of promoting the rights and welfare of persons with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5128823518753052,
+      "similarities": {
+        "ContextObjective": 0.5128823518753052,
+        "BenefitsAssistance": 0.4503017067909241,
+        "Eligibility": 0.49627965688705444,
+        "ApplicationProcess": 0.4283263683319092,
+        "TimelineFrequency": 0.3800264596939087,
+        "AuthoritiesGovernance": 0.4422469735145569,
+        "DefinitionsReferences": 0.42077282071113586
+      }
+    },
+    {
+      "sentence": "The Rights of Persons with Disabilities Act, 2016, emphasizes the need for social security measures for disabled individuals.",
+      "role": "Eligibility",
+      "confidence": 0.5079015493392944,
+      "similarities": {
+        "ContextObjective": 0.4425241947174072,
+        "BenefitsAssistance": 0.4968459904193878,
+        "Eligibility": 0.5079015493392944,
+        "ApplicationProcess": 0.4372066855430603,
+        "TimelineFrequency": 0.3928692936897278,
+        "AuthoritiesGovernance": 0.40310442447662354,
+        "DefinitionsReferences": 0.42563092708587646
+      }
+    },
+    {
+      "sentence": "The Disability Pension scheme is a step towards fulfilling the commitments made under this act.",
+      "role": "ContextObjective",
+      "confidence": 0.5164425373077393,
+      "similarities": {
+        "ContextObjective": 0.5164425373077393,
+        "BenefitsAssistance": 0.4762796461582184,
+        "Eligibility": 0.4791780412197113,
+        "ApplicationProcess": 0.4620164632797241,
+        "TimelineFrequency": 0.3933311104774475,
+        "AuthoritiesGovernance": 0.4208175837993622,
+        "DefinitionsReferences": 0.3963389992713928
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to enhance its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5446915626525879,
+      "similarities": {
+        "ContextObjective": 0.5446915626525879,
+        "BenefitsAssistance": 0.46211767196655273,
+        "Eligibility": 0.5099068880081177,
+        "ApplicationProcess": 0.4961022734642029,
+        "TimelineFrequency": 0.45592209696769714,
+        "AuthoritiesGovernance": 0.4925098717212677,
+        "DefinitionsReferences": 0.466414213180542
+      }
+    },
+    {
+      "sentence": "Efforts are being made to streamline the application process and reduce bureaucratic hurdles.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6304388046264648,
+      "similarities": {
+        "ContextObjective": 0.4731113612651825,
+        "BenefitsAssistance": 0.435741126537323,
+        "Eligibility": 0.5529935359954834,
+        "ApplicationProcess": 0.6304388046264648,
+        "TimelineFrequency": 0.558000922203064,
+        "AuthoritiesGovernance": 0.5285022258758545,
+        "DefinitionsReferences": 0.45573046803474426
+      }
+    },
+    {
+      "sentence": "The Bihar Building and Other Construction Workers Welfare Board is committed to ensuring transparency in the disbursement of pensions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4957730174064636,
+      "similarities": {
+        "ContextObjective": 0.42669522762298584,
+        "BenefitsAssistance": 0.4957730174064636,
+        "Eligibility": 0.4808425307273865,
+        "ApplicationProcess": 0.45711591839790344,
+        "TimelineFrequency": 0.387124627828598,
+        "AuthoritiesGovernance": 0.4692283570766449,
+        "DefinitionsReferences": 0.367387056350708
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to provide feedback on their experience with the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5534512996673584,
+      "similarities": {
+        "ContextObjective": 0.5368797779083252,
+        "BenefitsAssistance": 0.5308031439781189,
+        "Eligibility": 0.5534512996673584,
+        "ApplicationProcess": 0.48490869998931885,
+        "TimelineFrequency": 0.4409176707267761,
+        "AuthoritiesGovernance": 0.45777052640914917,
+        "DefinitionsReferences": 0.43142104148864746
+      }
+    },
+    {
+      "sentence": "This feedback is crucial for making necessary improvements to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5171458125114441,
+      "similarities": {
+        "ContextObjective": 0.5171458125114441,
+        "BenefitsAssistance": 0.4257805347442627,
+        "Eligibility": 0.43829119205474854,
+        "ApplicationProcess": 0.4500908851623535,
+        "TimelineFrequency": 0.43540331721305847,
+        "AuthoritiesGovernance": 0.4678897261619568,
+        "DefinitionsReferences": 0.4150310754776001
+      }
+    },
+    {
+      "sentence": "The government is also exploring the possibility of increasing the pension amount in the future.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4980401396751404,
+      "similarities": {
+        "ContextObjective": 0.48486292362213135,
+        "BenefitsAssistance": 0.4980401396751404,
+        "Eligibility": 0.43706202507019043,
+        "ApplicationProcess": 0.4258866310119629,
+        "TimelineFrequency": 0.41633090376853943,
+        "AuthoritiesGovernance": 0.39749234914779663,
+        "DefinitionsReferences": 0.391792356967926
+      }
+    },
+    {
+      "sentence": "This would further support individuals with disabilities in meeting their daily needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5605422258377075,
+      "similarities": {
+        "ContextObjective": 0.4801015257835388,
+        "BenefitsAssistance": 0.5605422258377075,
+        "Eligibility": 0.4967508912086487,
+        "ApplicationProcess": 0.4329181909561157,
+        "TimelineFrequency": 0.42010360956192017,
+        "AuthoritiesGovernance": 0.4741421341896057,
+        "DefinitionsReferences": 0.4470498263835907
+      }
+    },
+    {
+      "sentence": "The Disability Pension scheme under the GBOCWWB is a vital lifeline for many in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.46372684836387634,
+      "similarities": {
+        "ContextObjective": 0.46372684836387634,
+        "BenefitsAssistance": 0.43854159116744995,
+        "Eligibility": 0.45904695987701416,
+        "ApplicationProcess": 0.3840615153312683,
+        "TimelineFrequency": 0.34730440378189087,
+        "AuthoritiesGovernance": 0.39376312494277954,
+        "DefinitionsReferences": 0.3496362864971161
+      }
+    },
+    {
+      "sentence": "It exemplifies the government's commitment to social welfare and the upliftment of disadvantaged groups.",
+      "role": "ContextObjective",
+      "confidence": 0.4786221981048584,
+      "similarities": {
+        "ContextObjective": 0.4786221981048584,
+        "BenefitsAssistance": 0.4274944067001343,
+        "Eligibility": 0.43571537733078003,
+        "ApplicationProcess": 0.3630315363407135,
+        "TimelineFrequency": 0.3354167342185974,
+        "AuthoritiesGovernance": 0.4034123420715332,
+        "DefinitionsReferences": 0.3979209065437317
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also fosters a sense of dignity among beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5230329036712646,
+      "similarities": {
+        "ContextObjective": 0.5230329036712646,
+        "BenefitsAssistance": 0.5035780072212219,
+        "Eligibility": 0.48597490787506104,
+        "ApplicationProcess": 0.40518438816070557,
+        "TimelineFrequency": 0.36760449409484863,
+        "AuthoritiesGovernance": 0.37589725852012634,
+        "DefinitionsReferences": 0.3775132894515991
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it remains a crucial component of the welfare framework in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.4917272627353668,
+      "similarities": {
+        "ContextObjective": 0.4917272627353668,
+        "BenefitsAssistance": 0.4319552779197693,
+        "Eligibility": 0.4497928023338318,
+        "ApplicationProcess": 0.4059181809425354,
+        "TimelineFrequency": 0.3860779404640198,
+        "AuthoritiesGovernance": 0.4439132511615753,
+        "DefinitionsReferences": 0.40475767850875854
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible individuals to apply and benefit from this initiative.",
+      "role": "Eligibility",
+      "confidence": 0.574431836605072,
+      "similarities": {
+        "ContextObjective": 0.5199345946311951,
+        "BenefitsAssistance": 0.4726533889770508,
+        "Eligibility": 0.574431836605072,
+        "ApplicationProcess": 0.5110192894935608,
+        "TimelineFrequency": 0.46232157945632935,
+        "AuthoritiesGovernance": 0.44205617904663086,
+        "DefinitionsReferences": 0.3979637622833252
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are being conducted to ensure that no eligible individual is left behind.",
+      "role": "Eligibility",
+      "confidence": 0.5513286590576172,
+      "similarities": {
+        "ContextObjective": 0.4848385453224182,
+        "BenefitsAssistance": 0.46109718084335327,
+        "Eligibility": 0.5513286590576172,
+        "ApplicationProcess": 0.48455268144607544,
+        "TimelineFrequency": 0.4304370880126953,
+        "AuthoritiesGovernance": 0.46658360958099365,
+        "DefinitionsReferences": 0.3996967077255249
+      }
+    },
+    {
+      "sentence": "The Disability Pension scheme is a testament to the government's efforts in promoting inclusivity and social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.48255473375320435,
+      "similarities": {
+        "ContextObjective": 0.48255473375320435,
+        "BenefitsAssistance": 0.43669137358665466,
+        "Eligibility": 0.4414476752281189,
+        "ApplicationProcess": 0.36251676082611084,
+        "TimelineFrequency": 0.3254038691520691,
+        "AuthoritiesGovernance": 0.39220279455184937,
+        "DefinitionsReferences": 0.3499041795730591
+      }
+    },
+    {
+      "sentence": "Through this scheme, the government aims to empower individuals with disabilities to lead independent and fulfilling lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5482633113861084,
+      "similarities": {
+        "ContextObjective": 0.5482633113861084,
+        "BenefitsAssistance": 0.443630576133728,
+        "Eligibility": 0.47164514660835266,
+        "ApplicationProcess": 0.4279387891292572,
+        "TimelineFrequency": 0.3840566575527191,
+        "AuthoritiesGovernance": 0.4302469789981842,
+        "DefinitionsReferences": 0.37185609340667725
+      }
+    },
+    {
+      "sentence": "The Disability Pension scheme is an essential part of India's broader social security landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.49819710850715637,
+      "similarities": {
+        "ContextObjective": 0.49819710850715637,
+        "BenefitsAssistance": 0.4682541489601135,
+        "Eligibility": 0.4579494297504425,
+        "ApplicationProcess": 0.3959216773509979,
+        "TimelineFrequency": 0.36788833141326904,
+        "AuthoritiesGovernance": 0.3949515223503113,
+        "DefinitionsReferences": 0.3760227560997009
+      }
+    },
+    {
+      "sentence": "It reflects the country's commitment to upholding the rights of persons with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.4982569217681885,
+      "similarities": {
+        "ContextObjective": 0.4435540735721588,
+        "BenefitsAssistance": 0.43788957595825195,
+        "Eligibility": 0.4982569217681885,
+        "ApplicationProcess": 0.4304109215736389,
+        "TimelineFrequency": 0.3813830018043518,
+        "AuthoritiesGovernance": 0.4504539370536804,
+        "DefinitionsReferences": 0.45521801710128784
+      }
+    },
+    {
+      "sentence": "The scheme serves as a model for similar initiatives across other states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.531790018081665,
+      "similarities": {
+        "ContextObjective": 0.531790018081665,
+        "BenefitsAssistance": 0.409160315990448,
+        "Eligibility": 0.48141512274742126,
+        "ApplicationProcess": 0.4379291534423828,
+        "TimelineFrequency": 0.4184754490852356,
+        "AuthoritiesGovernance": 0.45649826526641846,
+        "DefinitionsReferences": 0.43182164430618286
+      }
+    },
+    {
+      "sentence": "The ongoing support and development of such welfare schemes are crucial for building a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.49953290820121765,
+      "similarities": {
+        "ContextObjective": 0.49953290820121765,
+        "BenefitsAssistance": 0.41752398014068604,
+        "Eligibility": 0.43497830629348755,
+        "ApplicationProcess": 0.38335323333740234,
+        "TimelineFrequency": 0.364327073097229,
+        "AuthoritiesGovernance": 0.4187793731689453,
+        "DefinitionsReferences": 0.37468552589416504
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 19,
+    "AuthoritiesGovernance": 5,
+    "BenefitsAssistance": 13,
+    "Eligibility": 18,
+    "ApplicationProcess": 11
+  },
+  "processing_timestamp": "2025-09-25T20:32:03.305801"
+}

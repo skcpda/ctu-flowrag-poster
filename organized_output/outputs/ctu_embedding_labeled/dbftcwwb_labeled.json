@@ -1,0 +1,770 @@
+{
+  "scheme_name": "Death Benefit",
+  "total_sentences": 54,
+  "labeled_sentences": [
+    {
+      "sentence": "The Death Benefit scheme is a significant welfare initiative launched by the Government of India to provide financial assistance to the families of deceased individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.5778293609619141,
+      "similarities": {
+        "ContextObjective": 0.5778293609619141,
+        "BenefitsAssistance": 0.5044073462486267,
+        "Eligibility": 0.5200687646865845,
+        "ApplicationProcess": 0.444062739610672,
+        "TimelineFrequency": 0.4192204475402832,
+        "AuthoritiesGovernance": 0.4634109437465668,
+        "DefinitionsReferences": 0.38528674840927124
+      }
+    },
+    {
+      "sentence": "This scheme is particularly aimed at supporting the families of workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4627607464790344,
+      "similarities": {
+        "ContextObjective": 0.4627607464790344,
+        "BenefitsAssistance": 0.4447619616985321,
+        "Eligibility": 0.4607503414154053,
+        "ApplicationProcess": 0.3964284658432007,
+        "TimelineFrequency": 0.3699415922164917,
+        "AuthoritiesGovernance": 0.43191593885421753,
+        "DefinitionsReferences": 0.3437919616699219
+      }
+    },
+    {
+      "sentence": "The initiative was launched on 1st January 2016 as part of the Pradhan Mantri Jeevan Jyoti Bima Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.4754863679409027,
+      "similarities": {
+        "ContextObjective": 0.4754863679409027,
+        "BenefitsAssistance": 0.3721959888935089,
+        "Eligibility": 0.40656450390815735,
+        "ApplicationProcess": 0.3951156735420227,
+        "TimelineFrequency": 0.3618391454219818,
+        "AuthoritiesGovernance": 0.3829728364944458,
+        "DefinitionsReferences": 0.3197784125804901
+      }
+    },
+    {
+      "sentence": "The primary objective of the Death Benefit scheme is to provide a safety net for the families of individuals who have lost their lives, ensuring that they do not face financial hardship during a difficult time.",
+      "role": "ContextObjective",
+      "confidence": 0.5548051595687866,
+      "similarities": {
+        "ContextObjective": 0.5548051595687866,
+        "BenefitsAssistance": 0.480049192905426,
+        "Eligibility": 0.5009801387786865,
+        "ApplicationProcess": 0.3973120450973511,
+        "TimelineFrequency": 0.3863580524921417,
+        "AuthoritiesGovernance": 0.38395386934280396,
+        "DefinitionsReferences": 0.3339635133743286
+      }
+    },
+    {
+      "sentence": "The scheme aims to offer a life insurance cover of ₹2 lakh to the nominee of the insured individual upon their death.",
+      "role": "ContextObjective",
+      "confidence": 0.4838294982910156,
+      "similarities": {
+        "ContextObjective": 0.4838294982910156,
+        "BenefitsAssistance": 0.4461425542831421,
+        "Eligibility": 0.4583314061164856,
+        "ApplicationProcess": 0.395388126373291,
+        "TimelineFrequency": 0.3721124827861786,
+        "AuthoritiesGovernance": 0.33600035309791565,
+        "DefinitionsReferences": 0.3296208381652832
+      }
+    },
+    {
+      "sentence": "This amount is intended to help the family manage immediate expenses and provide some financial stability in the aftermath of the loss.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6060104370117188,
+      "similarities": {
+        "ContextObjective": 0.45468777418136597,
+        "BenefitsAssistance": 0.6060104370117188,
+        "Eligibility": 0.46961086988449097,
+        "ApplicationProcess": 0.42254364490509033,
+        "TimelineFrequency": 0.40515199303627014,
+        "AuthoritiesGovernance": 0.3986015319824219,
+        "DefinitionsReferences": 0.42917710542678833
+      }
+    },
+    {
+      "sentence": "The Death Benefit is particularly crucial for low-income families who may rely heavily on the deceased's income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4734410047531128,
+      "similarities": {
+        "ContextObjective": 0.3482134938240051,
+        "BenefitsAssistance": 0.4734410047531128,
+        "Eligibility": 0.4627639055252075,
+        "ApplicationProcess": 0.34241217374801636,
+        "TimelineFrequency": 0.3362993896007538,
+        "AuthoritiesGovernance": 0.30933237075805664,
+        "DefinitionsReferences": 0.3335302770137787
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be affordable, with a premium of only ₹330 per annum.",
+      "role": "ContextObjective",
+      "confidence": 0.49159324169158936,
+      "similarities": {
+        "ContextObjective": 0.49159324169158936,
+        "BenefitsAssistance": 0.4703950881958008,
+        "Eligibility": 0.42771315574645996,
+        "ApplicationProcess": 0.4162118434906006,
+        "TimelineFrequency": 0.4094378352165222,
+        "AuthoritiesGovernance": 0.3346986770629883,
+        "DefinitionsReferences": 0.3040766716003418
+      }
+    },
+    {
+      "sentence": "This low premium makes it accessible to a large segment of the population, particularly those in the unorganized sector.",
+      "role": "Eligibility",
+      "confidence": 0.4322758913040161,
+      "similarities": {
+        "ContextObjective": 0.3840373754501343,
+        "BenefitsAssistance": 0.4213324189186096,
+        "Eligibility": 0.4322758913040161,
+        "ApplicationProcess": 0.3343510031700134,
+        "TimelineFrequency": 0.30966392159461975,
+        "AuthoritiesGovernance": 0.31738603115081787,
+        "DefinitionsReferences": 0.29388609528541565
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Death Benefit scheme are straightforward.",
+      "role": "Eligibility",
+      "confidence": 0.5593327283859253,
+      "similarities": {
+        "ContextObjective": 0.5280612707138062,
+        "BenefitsAssistance": 0.4569970965385437,
+        "Eligibility": 0.5593327283859253,
+        "ApplicationProcess": 0.46802961826324463,
+        "TimelineFrequency": 0.4438146948814392,
+        "AuthoritiesGovernance": 0.3755555748939514,
+        "DefinitionsReferences": 0.3610851764678955
+      }
+    },
+    {
+      "sentence": "Individuals aged between 18 and 50 years can enroll in the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5801911950111389,
+      "similarities": {
+        "ContextObjective": 0.5360576510429382,
+        "BenefitsAssistance": 0.5178132057189941,
+        "Eligibility": 0.5801911950111389,
+        "ApplicationProcess": 0.5054596662521362,
+        "TimelineFrequency": 0.4772214889526367,
+        "AuthoritiesGovernance": 0.4000495374202728,
+        "DefinitionsReferences": 0.3868222236633301
+      }
+    },
+    {
+      "sentence": "Applicants must have a bank account and must be a member of the Pradhan Mantri Jeevan Jyoti Bima Yojana.",
+      "role": "Eligibility",
+      "confidence": 0.5422655344009399,
+      "similarities": {
+        "ContextObjective": 0.3977780342102051,
+        "BenefitsAssistance": 0.42748117446899414,
+        "Eligibility": 0.5422655344009399,
+        "ApplicationProcess": 0.5311369895935059,
+        "TimelineFrequency": 0.4324656128883362,
+        "AuthoritiesGovernance": 0.37163400650024414,
+        "DefinitionsReferences": 0.3431888222694397
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to apply for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49285608530044556,
+      "similarities": {
+        "ContextObjective": 0.4720648527145386,
+        "BenefitsAssistance": 0.36657389998435974,
+        "Eligibility": 0.49285608530044556,
+        "ApplicationProcess": 0.4605320692062378,
+        "TimelineFrequency": 0.4035460352897644,
+        "AuthoritiesGovernance": 0.3252946734428406,
+        "DefinitionsReferences": 0.2905845642089844
+      }
+    },
+    {
+      "sentence": "The application process for the Death Benefit scheme is simple and can be completed online or offline.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6317821741104126,
+      "similarities": {
+        "ContextObjective": 0.49173489212989807,
+        "BenefitsAssistance": 0.479229211807251,
+        "Eligibility": 0.5288466811180115,
+        "ApplicationProcess": 0.6317821741104126,
+        "TimelineFrequency": 0.4961358308792114,
+        "AuthoritiesGovernance": 0.4011210799217224,
+        "DefinitionsReferences": 0.3585034906864166
+      }
+    },
+    {
+      "sentence": "Interested individuals can visit their nearest bank branch that offers the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.53346186876297,
+      "similarities": {
+        "ContextObjective": 0.5275444984436035,
+        "BenefitsAssistance": 0.4359615445137024,
+        "Eligibility": 0.53346186876297,
+        "ApplicationProcess": 0.507521390914917,
+        "TimelineFrequency": 0.4110911786556244,
+        "AuthoritiesGovernance": 0.39897018671035767,
+        "DefinitionsReferences": 0.3805694282054901
+      }
+    },
+    {
+      "sentence": "They must fill out the application form and provide necessary documents such as identity proof, address proof, and a passport-sized photograph.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6840208172798157,
+      "similarities": {
+        "ContextObjective": 0.47208479046821594,
+        "BenefitsAssistance": 0.4988900125026703,
+        "Eligibility": 0.5627297163009644,
+        "ApplicationProcess": 0.6840208172798157,
+        "TimelineFrequency": 0.4976368546485901,
+        "AuthoritiesGovernance": 0.4174361526966095,
+        "DefinitionsReferences": 0.4818710684776306
+      }
+    },
+    {
+      "sentence": "The application form must also include the details of the nominee who will receive the death benefit.",
+      "role": "Eligibility",
+      "confidence": 0.588387668132782,
+      "similarities": {
+        "ContextObjective": 0.46205732226371765,
+        "BenefitsAssistance": 0.5039771199226379,
+        "Eligibility": 0.588387668132782,
+        "ApplicationProcess": 0.5644335746765137,
+        "TimelineFrequency": 0.5064647793769836,
+        "AuthoritiesGovernance": 0.43787553906440735,
+        "DefinitionsReferences": 0.41160356998443604
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the bank will process it and provide confirmation of enrollment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6608432531356812,
+      "similarities": {
+        "ContextObjective": 0.47131624817848206,
+        "BenefitsAssistance": 0.5517318248748779,
+        "Eligibility": 0.5610595941543579,
+        "ApplicationProcess": 0.6608432531356812,
+        "TimelineFrequency": 0.5724697113037109,
+        "AuthoritiesGovernance": 0.4478326439857483,
+        "DefinitionsReferences": 0.42583948373794556
+      }
+    },
+    {
+      "sentence": "The coverage under the scheme is effective from the date of enrollment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5512287616729736,
+      "similarities": {
+        "ContextObjective": 0.5423873066902161,
+        "BenefitsAssistance": 0.5512287616729736,
+        "Eligibility": 0.5329171419143677,
+        "ApplicationProcess": 0.47590357065200806,
+        "TimelineFrequency": 0.4846881330013275,
+        "AuthoritiesGovernance": 0.43524450063705444,
+        "DefinitionsReferences": 0.41141682863235474
+      }
+    },
+    {
+      "sentence": "In the event of the policyholder's death, the nominee must submit a claim form along with the death certificate of the insured individual.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5105156302452087,
+      "similarities": {
+        "ContextObjective": 0.38400888442993164,
+        "BenefitsAssistance": 0.45699384808540344,
+        "Eligibility": 0.456647664308548,
+        "ApplicationProcess": 0.5105156302452087,
+        "TimelineFrequency": 0.4161846935749054,
+        "AuthoritiesGovernance": 0.3627580404281616,
+        "DefinitionsReferences": 0.39803850650787354
+      }
+    },
+    {
+      "sentence": "The claim process is designed to be straightforward to ensure that families receive the benefits without unnecessary delays.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4968584179878235,
+      "similarities": {
+        "ContextObjective": 0.4553406834602356,
+        "BenefitsAssistance": 0.483631432056427,
+        "Eligibility": 0.48098647594451904,
+        "ApplicationProcess": 0.4968584179878235,
+        "TimelineFrequency": 0.47715169191360474,
+        "AuthoritiesGovernance": 0.42161816358566284,
+        "DefinitionsReferences": 0.3591954708099365
+      }
+    },
+    {
+      "sentence": "The disbursement of the death benefit is typically completed within 30 days of the claim being approved.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5265438556671143,
+      "similarities": {
+        "ContextObjective": 0.4222477078437805,
+        "BenefitsAssistance": 0.5265438556671143,
+        "Eligibility": 0.4823285639286041,
+        "ApplicationProcess": 0.4558989405632019,
+        "TimelineFrequency": 0.4760195016860962,
+        "AuthoritiesGovernance": 0.4148503541946411,
+        "DefinitionsReferences": 0.3679596185684204
+      }
+    },
+    {
+      "sentence": "This prompt disbursement is critical for families who may need immediate financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5987551212310791,
+      "similarities": {
+        "ContextObjective": 0.4365963637828827,
+        "BenefitsAssistance": 0.5987551212310791,
+        "Eligibility": 0.5061638355255127,
+        "ApplicationProcess": 0.4343445301055908,
+        "TimelineFrequency": 0.4543004333972931,
+        "AuthoritiesGovernance": 0.39259034395217896,
+        "DefinitionsReferences": 0.36698368191719055
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Death Benefit scheme is the Ministry of Finance, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5475479364395142,
+      "similarities": {
+        "ContextObjective": 0.4517809748649597,
+        "BenefitsAssistance": 0.4702317714691162,
+        "Eligibility": 0.4852829575538635,
+        "ApplicationProcess": 0.40561366081237793,
+        "TimelineFrequency": 0.36482030153274536,
+        "AuthoritiesGovernance": 0.5475479364395142,
+        "DefinitionsReferences": 0.3901291489601135
+      }
+    },
+    {
+      "sentence": "The scheme is managed through various public sector banks, private banks, and insurance companies that have partnered with the government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5382183194160461,
+      "similarities": {
+        "ContextObjective": 0.4938827455043793,
+        "BenefitsAssistance": 0.5382183194160461,
+        "Eligibility": 0.4887601435184479,
+        "ApplicationProcess": 0.4501623213291168,
+        "TimelineFrequency": 0.42905980348587036,
+        "AuthoritiesGovernance": 0.5140702724456787,
+        "DefinitionsReferences": 0.45242488384246826
+      }
+    },
+    {
+      "sentence": "Individuals can contact their respective banks for more information about the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.603486180305481,
+      "similarities": {
+        "ContextObjective": 0.5553075075149536,
+        "BenefitsAssistance": 0.603486180305481,
+        "Eligibility": 0.6017759442329407,
+        "ApplicationProcess": 0.5568096041679382,
+        "TimelineFrequency": 0.4916585385799408,
+        "AuthoritiesGovernance": 0.5213420391082764,
+        "DefinitionsReferences": 0.44210904836654663
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant uptake since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.596278190612793,
+      "similarities": {
+        "ContextObjective": 0.596278190612793,
+        "BenefitsAssistance": 0.4695417582988739,
+        "Eligibility": 0.47387000918388367,
+        "ApplicationProcess": 0.45682641863822937,
+        "TimelineFrequency": 0.43408074975013733,
+        "AuthoritiesGovernance": 0.3928927779197693,
+        "DefinitionsReferences": 0.40944546461105347
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 14 crore people have enrolled in the Pradhan Mantri Jeevan Jyoti Bima Yojana, which includes the Death Benefit scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4617079496383667,
+      "similarities": {
+        "ContextObjective": 0.4617079496383667,
+        "BenefitsAssistance": 0.45752495527267456,
+        "Eligibility": 0.45195338129997253,
+        "ApplicationProcess": 0.38314658403396606,
+        "TimelineFrequency": 0.3812572956085205,
+        "AuthoritiesGovernance": 0.4038063883781433,
+        "DefinitionsReferences": 0.3520087003707886
+      }
+    },
+    {
+      "sentence": "This widespread participation indicates the scheme's importance and relevance to the population.",
+      "role": "ContextObjective",
+      "confidence": 0.556909441947937,
+      "similarities": {
+        "ContextObjective": 0.556909441947937,
+        "BenefitsAssistance": 0.4234619736671448,
+        "Eligibility": 0.4549051821231842,
+        "ApplicationProcess": 0.4156404137611389,
+        "TimelineFrequency": 0.4047732353210449,
+        "AuthoritiesGovernance": 0.4135706424713135,
+        "DefinitionsReferences": 0.39527428150177
+      }
+    },
+    {
+      "sentence": "The scheme has also been instrumental in raising awareness about the need for life insurance among low-income families.",
+      "role": "ContextObjective",
+      "confidence": 0.48121872544288635,
+      "similarities": {
+        "ContextObjective": 0.48121872544288635,
+        "BenefitsAssistance": 0.422279417514801,
+        "Eligibility": 0.3970939517021179,
+        "ApplicationProcess": 0.343965619802475,
+        "TimelineFrequency": 0.3010413944721222,
+        "AuthoritiesGovernance": 0.3030655086040497,
+        "DefinitionsReferences": 0.29915088415145874
+      }
+    },
+    {
+      "sentence": "The government has conducted various outreach programs to educate citizens about the benefits of enrolling in the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5408968925476074,
+      "similarities": {
+        "ContextObjective": 0.5408968925476074,
+        "BenefitsAssistance": 0.4800054430961609,
+        "Eligibility": 0.49115443229675293,
+        "ApplicationProcess": 0.471005380153656,
+        "TimelineFrequency": 0.41837942600250244,
+        "AuthoritiesGovernance": 0.47911447286605835,
+        "DefinitionsReferences": 0.4266965389251709
+      }
+    },
+    {
+      "sentence": "In addition to the financial assistance provided, the Death Benefit scheme also aims to promote a culture of savings and financial planning.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4961211681365967,
+      "similarities": {
+        "ContextObjective": 0.486111581325531,
+        "BenefitsAssistance": 0.4961211681365967,
+        "Eligibility": 0.4284566342830658,
+        "ApplicationProcess": 0.39478152990341187,
+        "TimelineFrequency": 0.3815656006336212,
+        "AuthoritiesGovernance": 0.3417774736881256,
+        "DefinitionsReferences": 0.36467480659484863
+      }
+    },
+    {
+      "sentence": "Families that receive the death benefit can use the funds for various purposes such as paying off debts, funding children's education, or covering daily living expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.539929211139679,
+      "similarities": {
+        "ContextObjective": 0.4388279318809509,
+        "BenefitsAssistance": 0.539929211139679,
+        "Eligibility": 0.49520695209503174,
+        "ApplicationProcess": 0.40276914834976196,
+        "TimelineFrequency": 0.40570640563964844,
+        "AuthoritiesGovernance": 0.3671559691429138,
+        "DefinitionsReferences": 0.39217066764831543
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for its role in reducing the financial burden on families during times of grief.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49065101146698,
+      "similarities": {
+        "ContextObjective": 0.4695982038974762,
+        "BenefitsAssistance": 0.49065101146698,
+        "Eligibility": 0.4142167568206787,
+        "ApplicationProcess": 0.3623354136943817,
+        "TimelineFrequency": 0.3663632869720459,
+        "AuthoritiesGovernance": 0.3248822093009949,
+        "DefinitionsReferences": 0.3397914171218872
+      }
+    },
+    {
+      "sentence": "It serves as a crucial tool in the government's broader strategy to enhance social security for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.46925288438796997,
+      "similarities": {
+        "ContextObjective": 0.4682357609272003,
+        "BenefitsAssistance": 0.45036613941192627,
+        "Eligibility": 0.46925288438796997,
+        "ApplicationProcess": 0.4007718563079834,
+        "TimelineFrequency": 0.3735376000404358,
+        "AuthoritiesGovernance": 0.4151040315628052,
+        "DefinitionsReferences": 0.38916972279548645
+      }
+    },
+    {
+      "sentence": "The Death Benefit scheme is part of a larger framework of welfare initiatives aimed at improving the quality of life for citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5297408699989319,
+      "similarities": {
+        "ContextObjective": 0.5297408699989319,
+        "BenefitsAssistance": 0.45814546942710876,
+        "Eligibility": 0.471515417098999,
+        "ApplicationProcess": 0.4071551561355591,
+        "TimelineFrequency": 0.3894806504249573,
+        "AuthoritiesGovernance": 0.4495081305503845,
+        "DefinitionsReferences": 0.3824259042739868
+      }
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the scheme to ensure its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5203443765640259,
+      "similarities": {
+        "ContextObjective": 0.5203443765640259,
+        "BenefitsAssistance": 0.44720596075057983,
+        "Eligibility": 0.5046636462211609,
+        "ApplicationProcess": 0.4967535138130188,
+        "TimelineFrequency": 0.4295845627784729,
+        "AuthoritiesGovernance": 0.5202762484550476,
+        "DefinitionsReferences": 0.4296626150608063
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to make necessary adjustments to improve the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5436879396438599,
+      "similarities": {
+        "ContextObjective": 0.4888688623905182,
+        "BenefitsAssistance": 0.519292950630188,
+        "Eligibility": 0.5436879396438599,
+        "ApplicationProcess": 0.4669882655143738,
+        "TimelineFrequency": 0.43740731477737427,
+        "AuthoritiesGovernance": 0.4968389868736267,
+        "DefinitionsReferences": 0.4229898750782013
+      }
+    },
+    {
+      "sentence": "The Death Benefit scheme is a testament to the government's commitment to providing social security to its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.46096789836883545,
+      "similarities": {
+        "ContextObjective": 0.46096789836883545,
+        "BenefitsAssistance": 0.43173056840896606,
+        "Eligibility": 0.42928868532180786,
+        "ApplicationProcess": 0.3902513384819031,
+        "TimelineFrequency": 0.3365134596824646,
+        "AuthoritiesGovernance": 0.36809003353118896,
+        "DefinitionsReferences": 0.3614458441734314
+      }
+    },
+    {
+      "sentence": "It reflects an understanding of the challenges faced by families in the event of a breadwinner's untimely demise.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47756579518318176,
+      "similarities": {
+        "ContextObjective": 0.43932682275772095,
+        "BenefitsAssistance": 0.47756579518318176,
+        "Eligibility": 0.4675801992416382,
+        "ApplicationProcess": 0.38030314445495605,
+        "TimelineFrequency": 0.3983498513698578,
+        "AuthoritiesGovernance": 0.3741071820259094,
+        "DefinitionsReferences": 0.3779170513153076
+      }
+    },
+    {
+      "sentence": "The scheme is a vital resource for ensuring that families have access to financial support during their most challenging times.",
+      "role": "Eligibility",
+      "confidence": 0.5586919188499451,
+      "similarities": {
+        "ContextObjective": 0.516248345375061,
+        "BenefitsAssistance": 0.5366725325584412,
+        "Eligibility": 0.5586919188499451,
+        "ApplicationProcess": 0.46869856119155884,
+        "TimelineFrequency": 0.4830724000930786,
+        "AuthoritiesGovernance": 0.4025581479072571,
+        "DefinitionsReferences": 0.40848544239997864
+      }
+    },
+    {
+      "sentence": "Overall, the Death Benefit scheme is an essential component of India's social welfare landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.481396347284317,
+      "similarities": {
+        "ContextObjective": 0.481396347284317,
+        "BenefitsAssistance": 0.4423118233680725,
+        "Eligibility": 0.44353926181793213,
+        "ApplicationProcess": 0.384937047958374,
+        "TimelineFrequency": 0.35220229625701904,
+        "AuthoritiesGovernance": 0.4000726342201233,
+        "DefinitionsReferences": 0.376322865486145
+      }
+    },
+    {
+      "sentence": "It highlights the government's proactive approach to addressing the needs of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5118466019630432,
+      "similarities": {
+        "ContextObjective": 0.5118466019630432,
+        "BenefitsAssistance": 0.4634533226490021,
+        "Eligibility": 0.47277402877807617,
+        "ApplicationProcess": 0.4477705657482147,
+        "TimelineFrequency": 0.41484886407852173,
+        "AuthoritiesGovernance": 0.49205172061920166,
+        "DefinitionsReferences": 0.43700098991394043
+      }
+    },
+    {
+      "sentence": "By providing a safety net for families, the scheme contributes to the overall economic stability of the country.",
+      "role": "ContextObjective",
+      "confidence": 0.47694116830825806,
+      "similarities": {
+        "ContextObjective": 0.47694116830825806,
+        "BenefitsAssistance": 0.47127649188041687,
+        "Eligibility": 0.44445350766181946,
+        "ApplicationProcess": 0.3844550848007202,
+        "TimelineFrequency": 0.3570307493209839,
+        "AuthoritiesGovernance": 0.3993282914161682,
+        "DefinitionsReferences": 0.34374141693115234
+      }
+    },
+    {
+      "sentence": "The Death Benefit scheme is a critical initiative that underscores the importance of life insurance in promoting financial security.",
+      "role": "ContextObjective",
+      "confidence": 0.5257440209388733,
+      "similarities": {
+        "ContextObjective": 0.5257440209388733,
+        "BenefitsAssistance": 0.4799398183822632,
+        "Eligibility": 0.4393923878669739,
+        "ApplicationProcess": 0.38978052139282227,
+        "TimelineFrequency": 0.36760419607162476,
+        "AuthoritiesGovernance": 0.35644108057022095,
+        "DefinitionsReferences": 0.34401094913482666
+      }
+    },
+    {
+      "sentence": "It empowers families to cope with loss while ensuring that they have the necessary resources to move forward.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4735286831855774,
+      "similarities": {
+        "ContextObjective": 0.4602615237236023,
+        "BenefitsAssistance": 0.4735286831855774,
+        "Eligibility": 0.4511973261833191,
+        "ApplicationProcess": 0.4086214005947113,
+        "TimelineFrequency": 0.41948407888412476,
+        "AuthoritiesGovernance": 0.4123656451702118,
+        "DefinitionsReferences": 0.4023236632347107
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it remains a crucial lifeline for millions of families across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4921295940876007,
+      "similarities": {
+        "ContextObjective": 0.4921295940876007,
+        "BenefitsAssistance": 0.42376768589019775,
+        "Eligibility": 0.46866095066070557,
+        "ApplicationProcess": 0.40633413195610046,
+        "TimelineFrequency": 0.37761420011520386,
+        "AuthoritiesGovernance": 0.4020419418811798,
+        "DefinitionsReferences": 0.38225942850112915
+      }
+    },
+    {
+      "sentence": "The government remains committed to enhancing the scheme and ensuring that it meets the needs of its beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.508008599281311,
+      "similarities": {
+        "ContextObjective": 0.508008599281311,
+        "BenefitsAssistance": 0.43599939346313477,
+        "Eligibility": 0.4857964515686035,
+        "ApplicationProcess": 0.4300234317779541,
+        "TimelineFrequency": 0.37671709060668945,
+        "AuthoritiesGovernance": 0.4779539108276367,
+        "DefinitionsReferences": 0.38425105810165405
+      }
+    },
+    {
+      "sentence": "Through ongoing efforts, the Death Benefit scheme aims to provide peace of mind to individuals and families throughout the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.5300083160400391,
+      "similarities": {
+        "ContextObjective": 0.5300083160400391,
+        "BenefitsAssistance": 0.46360310912132263,
+        "Eligibility": 0.47736769914627075,
+        "ApplicationProcess": 0.41895225644111633,
+        "TimelineFrequency": 0.36127397418022156,
+        "AuthoritiesGovernance": 0.41583383083343506,
+        "DefinitionsReferences": 0.3584762513637543
+      }
+    },
+    {
+      "sentence": "In conclusion, the Death Benefit scheme represents a significant step towards ensuring financial security for families in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4543180465698242,
+      "similarities": {
+        "ContextObjective": 0.4258628785610199,
+        "BenefitsAssistance": 0.4543180465698242,
+        "Eligibility": 0.41750216484069824,
+        "ApplicationProcess": 0.38999539613723755,
+        "TimelineFrequency": 0.3115628957748413,
+        "AuthoritiesGovernance": 0.3167288601398468,
+        "DefinitionsReferences": 0.3424745202064514
+      }
+    },
+    {
+      "sentence": "It is a vital initiative that addresses the immediate needs of families facing the loss of a loved one.",
+      "role": "ContextObjective",
+      "confidence": 0.5038438439369202,
+      "similarities": {
+        "ContextObjective": 0.5038438439369202,
+        "BenefitsAssistance": 0.4439862072467804,
+        "Eligibility": 0.45609211921691895,
+        "ApplicationProcess": 0.4185273349285126,
+        "TimelineFrequency": 0.40147849917411804,
+        "AuthoritiesGovernance": 0.4144779443740845,
+        "DefinitionsReferences": 0.3561040759086609
+      }
+    },
+    {
+      "sentence": "The scheme's affordability and accessibility make it a valuable resource for the population it serves.",
+      "role": "ContextObjective",
+      "confidence": 0.5534405708312988,
+      "similarities": {
+        "ContextObjective": 0.5534405708312988,
+        "BenefitsAssistance": 0.48706936836242676,
+        "Eligibility": 0.5240722894668579,
+        "ApplicationProcess": 0.43442878127098083,
+        "TimelineFrequency": 0.43657124042510986,
+        "AuthoritiesGovernance": 0.3941148519515991,
+        "DefinitionsReferences": 0.4055095314979553
+      }
+    },
+    {
+      "sentence": "With continued support and outreach, the Death Benefit scheme has the potential to impact countless lives positively.",
+      "role": "ContextObjective",
+      "confidence": 0.48822441697120667,
+      "similarities": {
+        "ContextObjective": 0.48822441697120667,
+        "BenefitsAssistance": 0.4375629425048828,
+        "Eligibility": 0.43969953060150146,
+        "ApplicationProcess": 0.33840298652648926,
+        "TimelineFrequency": 0.33860355615615845,
+        "AuthoritiesGovernance": 0.3488404452800751,
+        "DefinitionsReferences": 0.36394140124320984
+      }
+    },
+    {
+      "sentence": "The government's focus on social welfare through such initiatives is essential for building a more secure future for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.47874388098716736,
+      "similarities": {
+        "ContextObjective": 0.47874388098716736,
+        "BenefitsAssistance": 0.3830256164073944,
+        "Eligibility": 0.41426074504852295,
+        "ApplicationProcess": 0.3750627040863037,
+        "TimelineFrequency": 0.3361574113368988,
+        "AuthoritiesGovernance": 0.39142048358917236,
+        "DefinitionsReferences": 0.3787909150123596
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 25,
+    "BenefitsAssistance": 13,
+    "Eligibility": 10,
+    "ApplicationProcess": 5,
+    "AuthoritiesGovernance": 1
+  },
+  "processing_timestamp": "2025-09-25T20:46:49.977621"
+}

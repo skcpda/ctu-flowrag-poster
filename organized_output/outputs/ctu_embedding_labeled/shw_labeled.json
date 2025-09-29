@@ -1,0 +1,882 @@
+{
+  "scheme_name": "Shelter Home For Women (SHW)",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Shelter Home for Women (SHW) is a significant initiative launched by the Government of India to provide safe and secure accommodation for women in distress.",
+      "role": "ContextObjective",
+      "confidence": 0.48683708906173706,
+      "similarities": {
+        "ContextObjective": 0.48683708906173706,
+        "BenefitsAssistance": 0.4416293501853943,
+        "Eligibility": 0.44992703199386597,
+        "ApplicationProcess": 0.40255022048950195,
+        "TimelineFrequency": 0.3764415383338928,
+        "AuthoritiesGovernance": 0.4189995527267456,
+        "DefinitionsReferences": 0.3734385371208191
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched in 2015 under the Ministry of Women and Child Development.",
+      "role": "ContextObjective",
+      "confidence": 0.5069321990013123,
+      "similarities": {
+        "ContextObjective": 0.5069321990013123,
+        "BenefitsAssistance": 0.3907187283039093,
+        "Eligibility": 0.4245581030845642,
+        "ApplicationProcess": 0.4356444180011749,
+        "TimelineFrequency": 0.3849714398384094,
+        "AuthoritiesGovernance": 0.40323954820632935,
+        "DefinitionsReferences": 0.33237817883491516
+      }
+    },
+    {
+      "sentence": "It aims to address the needs of women who are victims of domestic violence, trafficking, or any form of abuse.",
+      "role": "ContextObjective",
+      "confidence": 0.47151437401771545,
+      "similarities": {
+        "ContextObjective": 0.47151437401771545,
+        "BenefitsAssistance": 0.4190317988395691,
+        "Eligibility": 0.4606364369392395,
+        "ApplicationProcess": 0.3730137348175049,
+        "TimelineFrequency": 0.3939315676689148,
+        "AuthoritiesGovernance": 0.4277804493904114,
+        "DefinitionsReferences": 0.3550749719142914
+      }
+    },
+    {
+      "sentence": "The SHW scheme is part of a broader strategy to empower women and ensure their safety and security in society.",
+      "role": "ContextObjective",
+      "confidence": 0.49348628520965576,
+      "similarities": {
+        "ContextObjective": 0.49348628520965576,
+        "BenefitsAssistance": 0.38187283277511597,
+        "Eligibility": 0.4206324517726898,
+        "ApplicationProcess": 0.3825693726539612,
+        "TimelineFrequency": 0.3452674448490143,
+        "AuthoritiesGovernance": 0.3867446780204773,
+        "DefinitionsReferences": 0.361194372177124
+      }
+    },
+    {
+      "sentence": "The primary objective of the SHW scheme is to provide temporary shelter to women in crisis situations.",
+      "role": "ContextObjective",
+      "confidence": 0.5206156969070435,
+      "similarities": {
+        "ContextObjective": 0.5206156969070435,
+        "BenefitsAssistance": 0.3988272547721863,
+        "Eligibility": 0.42614173889160156,
+        "ApplicationProcess": 0.37820950150489807,
+        "TimelineFrequency": 0.3793051242828369,
+        "AuthoritiesGovernance": 0.38134288787841797,
+        "DefinitionsReferences": 0.3484528362751007
+      }
+    },
+    {
+      "sentence": "The scheme also aims to facilitate rehabilitation and reintegration of these women into society.",
+      "role": "ContextObjective",
+      "confidence": 0.5109158158302307,
+      "similarities": {
+        "ContextObjective": 0.5109158158302307,
+        "BenefitsAssistance": 0.36736834049224854,
+        "Eligibility": 0.4295153319835663,
+        "ApplicationProcess": 0.396162211894989,
+        "TimelineFrequency": 0.35132211446762085,
+        "AuthoritiesGovernance": 0.40200477838516235,
+        "DefinitionsReferences": 0.31821632385253906
+      }
+    },
+    {
+      "sentence": "The SHW scheme is designed to provide not only shelter but also support services such as counseling and legal aid.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5099755525588989,
+      "similarities": {
+        "ContextObjective": 0.5097374320030212,
+        "BenefitsAssistance": 0.5099755525588989,
+        "Eligibility": 0.45707693696022034,
+        "ApplicationProcess": 0.4387655258178711,
+        "TimelineFrequency": 0.42159348726272583,
+        "AuthoritiesGovernance": 0.4177510142326355,
+        "DefinitionsReferences": 0.4200054109096527
+      }
+    },
+    {
+      "sentence": "The government has set a target to establish at least one shelter home in every district across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5021950006484985,
+      "similarities": {
+        "ContextObjective": 0.5021950006484985,
+        "BenefitsAssistance": 0.41444844007492065,
+        "Eligibility": 0.4834589958190918,
+        "ApplicationProcess": 0.41620269417762756,
+        "TimelineFrequency": 0.3839492201805115,
+        "AuthoritiesGovernance": 0.44623827934265137,
+        "DefinitionsReferences": 0.4108790159225464
+      }
+    },
+    {
+      "sentence": "As of October 2023, there are over 700 operational shelter homes across various states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4762285351753235,
+      "similarities": {
+        "ContextObjective": 0.4762285351753235,
+        "BenefitsAssistance": 0.4491782486438751,
+        "Eligibility": 0.4520316421985626,
+        "ApplicationProcess": 0.4144168496131897,
+        "TimelineFrequency": 0.4066978693008423,
+        "AuthoritiesGovernance": 0.41120070219039917,
+        "DefinitionsReferences": 0.40004125237464905
+      }
+    },
+    {
+      "sentence": "Each shelter home is expected to accommodate a minimum of 30 women at any given time.",
+      "role": "Eligibility",
+      "confidence": 0.45961275696754456,
+      "similarities": {
+        "ContextObjective": 0.39183229207992554,
+        "BenefitsAssistance": 0.41806334257125854,
+        "Eligibility": 0.45961275696754456,
+        "ApplicationProcess": 0.376991331577301,
+        "TimelineFrequency": 0.38670095801353455,
+        "AuthoritiesGovernance": 0.36141055822372437,
+        "DefinitionsReferences": 0.35402441024780273
+      }
+    },
+    {
+      "sentence": "The SHW scheme provides financial assistance to the shelter homes to ensure they can operate effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5155137777328491,
+      "similarities": {
+        "ContextObjective": 0.5043348073959351,
+        "BenefitsAssistance": 0.5155137777328491,
+        "Eligibility": 0.49143117666244507,
+        "ApplicationProcess": 0.4597797393798828,
+        "TimelineFrequency": 0.39645111560821533,
+        "AuthoritiesGovernance": 0.43814948201179504,
+        "DefinitionsReferences": 0.3604753613471985
+      }
+    },
+    {
+      "sentence": "The government allocates a budget of approximately INR 1.5 crore per shelter home for operational costs annually.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5204269289970398,
+      "similarities": {
+        "ContextObjective": 0.4143494963645935,
+        "BenefitsAssistance": 0.5204269289970398,
+        "Eligibility": 0.4150533974170685,
+        "ApplicationProcess": 0.4169192910194397,
+        "TimelineFrequency": 0.4147225022315979,
+        "AuthoritiesGovernance": 0.4180970788002014,
+        "DefinitionsReferences": 0.37398844957351685
+      }
+    },
+    {
+      "sentence": "Women residing in these homes are provided with basic amenities such as food, clothing, and healthcare services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48253268003463745,
+      "similarities": {
+        "ContextObjective": 0.357303261756897,
+        "BenefitsAssistance": 0.48253268003463745,
+        "Eligibility": 0.40609604120254517,
+        "ApplicationProcess": 0.3823587894439697,
+        "TimelineFrequency": 0.3589808940887451,
+        "AuthoritiesGovernance": 0.41516926884651184,
+        "DefinitionsReferences": 0.3960269093513489
+      }
+    },
+    {
+      "sentence": "The scheme also includes vocational training programs to help women become self-sufficient.",
+      "role": "ContextObjective",
+      "confidence": 0.47728341817855835,
+      "similarities": {
+        "ContextObjective": 0.47728341817855835,
+        "BenefitsAssistance": 0.41503626108169556,
+        "Eligibility": 0.39025312662124634,
+        "ApplicationProcess": 0.3759206533432007,
+        "TimelineFrequency": 0.3703007698059082,
+        "AuthoritiesGovernance": 0.3590115010738373,
+        "DefinitionsReferences": 0.3613160252571106
+      }
+    },
+    {
+      "sentence": "Women in shelter homes can receive training in various skills such as tailoring, beauty care, and computer literacy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46407854557037354,
+      "similarities": {
+        "ContextObjective": 0.3892982006072998,
+        "BenefitsAssistance": 0.46407854557037354,
+        "Eligibility": 0.40432679653167725,
+        "ApplicationProcess": 0.4156794250011444,
+        "TimelineFrequency": 0.4069252908229828,
+        "AuthoritiesGovernance": 0.4101674258708954,
+        "DefinitionsReferences": 0.40816041827201843
+      }
+    },
+    {
+      "sentence": "The SHW scheme also focuses on providing psychological support through counseling services.",
+      "role": "ContextObjective",
+      "confidence": 0.48389410972595215,
+      "similarities": {
+        "ContextObjective": 0.48389410972595215,
+        "BenefitsAssistance": 0.44594037532806396,
+        "Eligibility": 0.3929708003997803,
+        "ApplicationProcess": 0.40882617235183716,
+        "TimelineFrequency": 0.3866939842700958,
+        "AuthoritiesGovernance": 0.36503541469573975,
+        "DefinitionsReferences": 0.3644202947616577
+      }
+    },
+    {
+      "sentence": "Women are encouraged to participate in group therapy sessions and workshops to build their confidence.",
+      "role": "ContextObjective",
+      "confidence": 0.4125593304634094,
+      "similarities": {
+        "ContextObjective": 0.4125593304634094,
+        "BenefitsAssistance": 0.38929814100265503,
+        "Eligibility": 0.3699571490287781,
+        "ApplicationProcess": 0.37093639373779297,
+        "TimelineFrequency": 0.3879234194755554,
+        "AuthoritiesGovernance": 0.3992685079574585,
+        "DefinitionsReferences": 0.3602302372455597
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the SHW scheme include being a woman above the age of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.5780192017555237,
+      "similarities": {
+        "ContextObjective": 0.483101487159729,
+        "BenefitsAssistance": 0.4483635425567627,
+        "Eligibility": 0.5780192017555237,
+        "ApplicationProcess": 0.48258325457572937,
+        "TimelineFrequency": 0.4651499092578888,
+        "AuthoritiesGovernance": 0.37183356285095215,
+        "DefinitionsReferences": 0.38154709339141846
+      }
+    },
+    {
+      "sentence": "Women who are victims of domestic violence, trafficking, or any form of abuse can apply for shelter.",
+      "role": "Eligibility",
+      "confidence": 0.5489987730979919,
+      "similarities": {
+        "ContextObjective": 0.405617892742157,
+        "BenefitsAssistance": 0.47195881605148315,
+        "Eligibility": 0.5489987730979919,
+        "ApplicationProcess": 0.45958685874938965,
+        "TimelineFrequency": 0.4518756568431854,
+        "AuthoritiesGovernance": 0.388217031955719,
+        "DefinitionsReferences": 0.37870001792907715
+      }
+    },
+    {
+      "sentence": "There is no upper age limit for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5253661870956421,
+      "similarities": {
+        "ContextObjective": 0.4640620946884155,
+        "BenefitsAssistance": 0.40447962284088135,
+        "Eligibility": 0.5253661870956421,
+        "ApplicationProcess": 0.4164261221885681,
+        "TimelineFrequency": 0.4070724546909332,
+        "AuthoritiesGovernance": 0.32501909136772156,
+        "DefinitionsReferences": 0.31212183833122253
+      }
+    },
+    {
+      "sentence": "Income criteria are not strictly defined, but priority is given to women from economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.45781373977661133,
+      "similarities": {
+        "ContextObjective": 0.38234978914260864,
+        "BenefitsAssistance": 0.4199659824371338,
+        "Eligibility": 0.45781373977661133,
+        "ApplicationProcess": 0.3272089660167694,
+        "TimelineFrequency": 0.36252859234809875,
+        "AuthoritiesGovernance": 0.33947235345840454,
+        "DefinitionsReferences": 0.3257918953895569
+      }
+    },
+    {
+      "sentence": "The application process for the SHW scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5710047483444214,
+      "similarities": {
+        "ContextObjective": 0.5416290760040283,
+        "BenefitsAssistance": 0.407785028219223,
+        "Eligibility": 0.5217084884643555,
+        "ApplicationProcess": 0.5710047483444214,
+        "TimelineFrequency": 0.4912591576576233,
+        "AuthoritiesGovernance": 0.41961508989334106,
+        "DefinitionsReferences": 0.3651503622531891
+      }
+    },
+    {
+      "sentence": "Women seeking shelter can approach the nearest shelter home directly.",
+      "role": "Eligibility",
+      "confidence": 0.3992275297641754,
+      "similarities": {
+        "ContextObjective": 0.3802839517593384,
+        "BenefitsAssistance": 0.38137176632881165,
+        "Eligibility": 0.3992275297641754,
+        "ApplicationProcess": 0.3854941725730896,
+        "TimelineFrequency": 0.3347877264022827,
+        "AuthoritiesGovernance": 0.32741105556488037,
+        "DefinitionsReferences": 0.31589001417160034
+      }
+    },
+    {
+      "sentence": "They can also contact local authorities or NGOs working in the field of women's welfare for assistance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5313351154327393,
+      "similarities": {
+        "ContextObjective": 0.42473793029785156,
+        "BenefitsAssistance": 0.48912227153778076,
+        "Eligibility": 0.5086482763290405,
+        "ApplicationProcess": 0.44199490547180176,
+        "TimelineFrequency": 0.4020877182483673,
+        "AuthoritiesGovernance": 0.5313351154327393,
+        "DefinitionsReferences": 0.41046059131622314
+      }
+    },
+    {
+      "sentence": "Required documents for application include proof of identity such as an Aadhaar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6390913724899292,
+      "similarities": {
+        "ContextObjective": 0.46915382146835327,
+        "BenefitsAssistance": 0.5253790616989136,
+        "Eligibility": 0.5419442653656006,
+        "ApplicationProcess": 0.6390913724899292,
+        "TimelineFrequency": 0.5090376138687134,
+        "AuthoritiesGovernance": 0.44123587012290955,
+        "DefinitionsReferences": 0.5115041732788086
+      }
+    },
+    {
+      "sentence": "Women may also need to provide any documentation related to their case of abuse or distress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5623751282691956,
+      "similarities": {
+        "ContextObjective": 0.4347231984138489,
+        "BenefitsAssistance": 0.5623751282691956,
+        "Eligibility": 0.5106946229934692,
+        "ApplicationProcess": 0.5437130928039551,
+        "TimelineFrequency": 0.4652167558670044,
+        "AuthoritiesGovernance": 0.4770282804965973,
+        "DefinitionsReferences": 0.5088139772415161
+      }
+    },
+    {
+      "sentence": "Once an application is submitted, the shelter home staff conducts an assessment of the situation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5950506329536438,
+      "similarities": {
+        "ContextObjective": 0.4634140133857727,
+        "BenefitsAssistance": 0.49664580821990967,
+        "Eligibility": 0.5167179107666016,
+        "ApplicationProcess": 0.5950506329536438,
+        "TimelineFrequency": 0.5074147582054138,
+        "AuthoritiesGovernance": 0.45312780141830444,
+        "DefinitionsReferences": 0.41581863164901733
+      }
+    },
+    {
+      "sentence": "The assessment includes interviews and discussions to understand the woman's needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.493714839220047,
+      "similarities": {
+        "ContextObjective": 0.48017120361328125,
+        "BenefitsAssistance": 0.493714839220047,
+        "Eligibility": 0.4807101786136627,
+        "ApplicationProcess": 0.4578465521335602,
+        "TimelineFrequency": 0.4660479426383972,
+        "AuthoritiesGovernance": 0.45315659046173096,
+        "DefinitionsReferences": 0.42166024446487427
+      }
+    },
+    {
+      "sentence": "Based on the assessment, women are admitted to the shelter home for a specified period.",
+      "role": "Eligibility",
+      "confidence": 0.47333961725234985,
+      "similarities": {
+        "ContextObjective": 0.41872483491897583,
+        "BenefitsAssistance": 0.45718705654144287,
+        "Eligibility": 0.47333961725234985,
+        "ApplicationProcess": 0.45087072253227234,
+        "TimelineFrequency": 0.472356379032135,
+        "AuthoritiesGovernance": 0.3762573301792145,
+        "DefinitionsReferences": 0.3815126419067383
+      }
+    },
+    {
+      "sentence": "The duration of stay in a shelter home can range from a few days to several months.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.513725996017456,
+      "similarities": {
+        "ContextObjective": 0.4542471766471863,
+        "BenefitsAssistance": 0.513725996017456,
+        "Eligibility": 0.47658419609069824,
+        "ApplicationProcess": 0.47441720962524414,
+        "TimelineFrequency": 0.5003469586372375,
+        "AuthoritiesGovernance": 0.3942658603191376,
+        "DefinitionsReferences": 0.4472939670085907
+      }
+    },
+    {
+      "sentence": "The exact duration is determined based on individual circumstances and rehabilitation plans.",
+      "role": "Eligibility",
+      "confidence": 0.5476417541503906,
+      "similarities": {
+        "ContextObjective": 0.49769461154937744,
+        "BenefitsAssistance": 0.49489322304725647,
+        "Eligibility": 0.5476417541503906,
+        "ApplicationProcess": 0.45727336406707764,
+        "TimelineFrequency": 0.535919189453125,
+        "AuthoritiesGovernance": 0.4687715768814087,
+        "DefinitionsReferences": 0.41764360666275024
+      }
+    },
+    {
+      "sentence": "The SHW scheme is implemented by the Ministry of Women and Child Development at the national level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.516929030418396,
+      "similarities": {
+        "ContextObjective": 0.47728604078292847,
+        "BenefitsAssistance": 0.4094380736351013,
+        "Eligibility": 0.46879279613494873,
+        "ApplicationProcess": 0.4220157861709595,
+        "TimelineFrequency": 0.385067343711853,
+        "AuthoritiesGovernance": 0.516929030418396,
+        "DefinitionsReferences": 0.3716040253639221
+      }
+    },
+    {
+      "sentence": "At the state level, the respective State Women’s Development Corporations oversee the implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5726609230041504,
+      "similarities": {
+        "ContextObjective": 0.4198341369628906,
+        "BenefitsAssistance": 0.4038875699043274,
+        "Eligibility": 0.43020153045654297,
+        "ApplicationProcess": 0.3942411243915558,
+        "TimelineFrequency": 0.3591989576816559,
+        "AuthoritiesGovernance": 0.5726609230041504,
+        "DefinitionsReferences": 0.4074839651584625
+      }
+    },
+    {
+      "sentence": "Local NGOs often partner with the government to manage and operate shelter homes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.511838436126709,
+      "similarities": {
+        "ContextObjective": 0.4408259093761444,
+        "BenefitsAssistance": 0.4508761763572693,
+        "Eligibility": 0.46668770909309387,
+        "ApplicationProcess": 0.4322076439857483,
+        "TimelineFrequency": 0.3832223117351532,
+        "AuthoritiesGovernance": 0.511838436126709,
+        "DefinitionsReferences": 0.4295733869075775
+      }
+    },
+    {
+      "sentence": "The government conducts regular monitoring and evaluation of the shelter homes to ensure quality services.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49604707956314087,
+      "similarities": {
+        "ContextObjective": 0.4101870357990265,
+        "BenefitsAssistance": 0.4550168514251709,
+        "Eligibility": 0.4470325708389282,
+        "ApplicationProcess": 0.49604707956314087,
+        "TimelineFrequency": 0.41784244775772095,
+        "AuthoritiesGovernance": 0.4641004502773285,
+        "DefinitionsReferences": 0.4363207221031189
+      }
+    },
+    {
+      "sentence": "The SHW scheme also includes provisions for emergency shelter for women in immediate danger.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4408469796180725,
+      "similarities": {
+        "ContextObjective": 0.4348495900630951,
+        "BenefitsAssistance": 0.4408469796180725,
+        "Eligibility": 0.4228382110595703,
+        "ApplicationProcess": 0.36784660816192627,
+        "TimelineFrequency": 0.3525325655937195,
+        "AuthoritiesGovernance": 0.3308454155921936,
+        "DefinitionsReferences": 0.3659067153930664
+      }
+    },
+    {
+      "sentence": "In such cases, women can be admitted to a shelter home without prior documentation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47372838854789734,
+      "similarities": {
+        "ContextObjective": 0.36084598302841187,
+        "BenefitsAssistance": 0.47372838854789734,
+        "Eligibility": 0.4392836093902588,
+        "ApplicationProcess": 0.4581509530544281,
+        "TimelineFrequency": 0.3784025311470032,
+        "AuthoritiesGovernance": 0.36024802923202515,
+        "DefinitionsReferences": 0.3694104552268982
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to inform women about the availability of shelter homes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.450174480676651,
+      "similarities": {
+        "ContextObjective": 0.4310203790664673,
+        "BenefitsAssistance": 0.450174480676651,
+        "Eligibility": 0.4310368001461029,
+        "ApplicationProcess": 0.42046669125556946,
+        "TimelineFrequency": 0.3767831027507782,
+        "AuthoritiesGovernance": 0.42397481203079224,
+        "DefinitionsReferences": 0.39730119705200195
+      }
+    },
+    {
+      "sentence": "These campaigns aim to reach women in remote areas who may not be aware of their rights.",
+      "role": "ContextObjective",
+      "confidence": 0.4609375,
+      "similarities": {
+        "ContextObjective": 0.4609375,
+        "BenefitsAssistance": 0.3708299994468689,
+        "Eligibility": 0.4548433721065521,
+        "ApplicationProcess": 0.37147462368011475,
+        "TimelineFrequency": 0.36627763509750366,
+        "AuthoritiesGovernance": 0.4213981628417969,
+        "DefinitionsReferences": 0.3675774037837982
+      }
+    },
+    {
+      "sentence": "As of 2023, the SHW scheme has successfully provided shelter to over 100,000 women across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.45260971784591675,
+      "similarities": {
+        "ContextObjective": 0.45260971784591675,
+        "BenefitsAssistance": 0.39971399307250977,
+        "Eligibility": 0.42946192622184753,
+        "ApplicationProcess": 0.34493571519851685,
+        "TimelineFrequency": 0.3220812678337097,
+        "AuthoritiesGovernance": 0.34149661660194397,
+        "DefinitionsReferences": 0.3193168640136719
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback for its role in empowering women and providing them with a safe space.",
+      "role": "ContextObjective",
+      "confidence": 0.48448362946510315,
+      "similarities": {
+        "ContextObjective": 0.48448362946510315,
+        "BenefitsAssistance": 0.3834088146686554,
+        "Eligibility": 0.41716545820236206,
+        "ApplicationProcess": 0.3586428165435791,
+        "TimelineFrequency": 0.32315564155578613,
+        "AuthoritiesGovernance": 0.35894328355789185,
+        "DefinitionsReferences": 0.3663277328014374
+      }
+    },
+    {
+      "sentence": "In addition to shelter, women are also provided with legal assistance to pursue their rights.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5028733015060425,
+      "similarities": {
+        "ContextObjective": 0.4252378046512604,
+        "BenefitsAssistance": 0.5028733015060425,
+        "Eligibility": 0.4620601236820221,
+        "ApplicationProcess": 0.42564165592193604,
+        "TimelineFrequency": 0.3894127309322357,
+        "AuthoritiesGovernance": 0.45488250255584717,
+        "DefinitionsReferences": 0.4829028248786926
+      }
+    },
+    {
+      "sentence": "Legal aid is facilitated through tie-ups with local legal aid clinics and lawyers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49270105361938477,
+      "similarities": {
+        "ContextObjective": 0.4141821563243866,
+        "BenefitsAssistance": 0.49270105361938477,
+        "Eligibility": 0.4492458403110504,
+        "ApplicationProcess": 0.40925994515419006,
+        "TimelineFrequency": 0.38728752732276917,
+        "AuthoritiesGovernance": 0.4826039969921112,
+        "DefinitionsReferences": 0.47964709997177124
+      }
+    },
+    {
+      "sentence": "The SHW scheme has also been instrumental in creating a network of support services for women.",
+      "role": "ContextObjective",
+      "confidence": 0.44399940967559814,
+      "similarities": {
+        "ContextObjective": 0.44399940967559814,
+        "BenefitsAssistance": 0.39599281549453735,
+        "Eligibility": 0.3655319809913635,
+        "ApplicationProcess": 0.3166232705116272,
+        "TimelineFrequency": 0.3294616937637329,
+        "AuthoritiesGovernance": 0.3778711259365082,
+        "DefinitionsReferences": 0.35375893115997314
+      }
+    },
+    {
+      "sentence": "This includes collaboration with police departments to ensure the safety of women seeking shelter.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4275999367237091,
+      "similarities": {
+        "ContextObjective": 0.3802107870578766,
+        "BenefitsAssistance": 0.39721691608428955,
+        "Eligibility": 0.4020426869392395,
+        "ApplicationProcess": 0.3901975750923157,
+        "TimelineFrequency": 0.33693021535873413,
+        "AuthoritiesGovernance": 0.4275999367237091,
+        "DefinitionsReferences": 0.3934415578842163
+      }
+    },
+    {
+      "sentence": "The government has also introduced a toll-free helpline number for women in distress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43912261724472046,
+      "similarities": {
+        "ContextObjective": 0.3630355894565582,
+        "BenefitsAssistance": 0.43912261724472046,
+        "Eligibility": 0.3902716040611267,
+        "ApplicationProcess": 0.36407917737960815,
+        "TimelineFrequency": 0.33689114451408386,
+        "AuthoritiesGovernance": 0.40933212637901306,
+        "DefinitionsReferences": 0.337882399559021
+      }
+    },
+    {
+      "sentence": "The helpline is available 24/7 and provides immediate assistance and guidance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5020601749420166,
+      "similarities": {
+        "ContextObjective": 0.4395712912082672,
+        "BenefitsAssistance": 0.5020601749420166,
+        "Eligibility": 0.44112440943717957,
+        "ApplicationProcess": 0.4452430009841919,
+        "TimelineFrequency": 0.42471545934677124,
+        "AuthoritiesGovernance": 0.435161292552948,
+        "DefinitionsReferences": 0.3978685736656189
+      }
+    },
+    {
+      "sentence": "Women can call the helpline to report abuse or seek information about shelter homes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48048505187034607,
+      "similarities": {
+        "ContextObjective": 0.3784264326095581,
+        "BenefitsAssistance": 0.48048505187034607,
+        "Eligibility": 0.4432935118675232,
+        "ApplicationProcess": 0.42597877979278564,
+        "TimelineFrequency": 0.38677284121513367,
+        "AuthoritiesGovernance": 0.45641639828681946,
+        "DefinitionsReferences": 0.3696437478065491
+      }
+    },
+    {
+      "sentence": "The SHW scheme is part of a larger framework of women's welfare policies in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48735299706459045,
+      "similarities": {
+        "ContextObjective": 0.48735299706459045,
+        "BenefitsAssistance": 0.44160109758377075,
+        "Eligibility": 0.44528114795684814,
+        "ApplicationProcess": 0.38049235939979553,
+        "TimelineFrequency": 0.37657859921455383,
+        "AuthoritiesGovernance": 0.43573257327079773,
+        "DefinitionsReferences": 0.39566904306411743
+      }
+    },
+    {
+      "sentence": "It aligns with the objectives of the National Policy for Women, which aims to ensure women's empowerment and gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.48422080278396606,
+      "similarities": {
+        "ContextObjective": 0.48422080278396606,
+        "BenefitsAssistance": 0.35638272762298584,
+        "Eligibility": 0.42233720421791077,
+        "ApplicationProcess": 0.37813377380371094,
+        "TimelineFrequency": 0.3625977039337158,
+        "AuthoritiesGovernance": 0.42040562629699707,
+        "DefinitionsReferences": 0.37476199865341187
+      }
+    },
+    {
+      "sentence": "The government continues to seek feedback from beneficiaries to improve the services provided under the SHW scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5046498775482178,
+      "similarities": {
+        "ContextObjective": 0.4767831265926361,
+        "BenefitsAssistance": 0.4535149335861206,
+        "Eligibility": 0.4633788466453552,
+        "ApplicationProcess": 0.44442421197891235,
+        "TimelineFrequency": 0.40153974294662476,
+        "AuthoritiesGovernance": 0.5046498775482178,
+        "DefinitionsReferences": 0.3788846731185913
+      }
+    },
+    {
+      "sentence": "Regular training programs are conducted for shelter home staff to enhance their skills in handling sensitive cases.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.41561371088027954,
+      "similarities": {
+        "ContextObjective": 0.3857336640357971,
+        "BenefitsAssistance": 0.39942923188209534,
+        "Eligibility": 0.4128759503364563,
+        "ApplicationProcess": 0.3958362936973572,
+        "TimelineFrequency": 0.37079575657844543,
+        "AuthoritiesGovernance": 0.41561371088027954,
+        "DefinitionsReferences": 0.39940038323402405
+      }
+    },
+    {
+      "sentence": "The SHW scheme is funded through the National Mission for Women’s Empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.4844088852405548,
+      "similarities": {
+        "ContextObjective": 0.4844088852405548,
+        "BenefitsAssistance": 0.37107759714126587,
+        "Eligibility": 0.43376991152763367,
+        "ApplicationProcess": 0.3682924509048462,
+        "TimelineFrequency": 0.33576881885528564,
+        "AuthoritiesGovernance": 0.3662301301956177,
+        "DefinitionsReferences": 0.30191946029663086
+      }
+    },
+    {
+      "sentence": "This mission aims to create a conducive environment for women's development and empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.5115269422531128,
+      "similarities": {
+        "ContextObjective": 0.5115269422531128,
+        "BenefitsAssistance": 0.32283473014831543,
+        "Eligibility": 0.4234601557254791,
+        "ApplicationProcess": 0.36442774534225464,
+        "TimelineFrequency": 0.34821733832359314,
+        "AuthoritiesGovernance": 0.39713066816329956,
+        "DefinitionsReferences": 0.3449785113334656
+      }
+    },
+    {
+      "sentence": "The government is committed to increasing the number of shelter homes in underserved areas.",
+      "role": "Eligibility",
+      "confidence": 0.43188589811325073,
+      "similarities": {
+        "ContextObjective": 0.40967661142349243,
+        "BenefitsAssistance": 0.3933587074279785,
+        "Eligibility": 0.43188589811325073,
+        "ApplicationProcess": 0.38842087984085083,
+        "TimelineFrequency": 0.35025984048843384,
+        "AuthoritiesGovernance": 0.4032585620880127,
+        "DefinitionsReferences": 0.34883034229278564
+      }
+    },
+    {
+      "sentence": "Future plans include expanding the scope of services offered at shelter homes to include mental health support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49648380279541016,
+      "similarities": {
+        "ContextObjective": 0.44059085845947266,
+        "BenefitsAssistance": 0.49648380279541016,
+        "Eligibility": 0.4193952679634094,
+        "ApplicationProcess": 0.36792105436325073,
+        "TimelineFrequency": 0.38560229539871216,
+        "AuthoritiesGovernance": 0.3568703830242157,
+        "DefinitionsReferences": 0.3875272572040558
+      }
+    },
+    {
+      "sentence": "The SHW scheme is a crucial step towards creating a safer environment for women in India.",
+      "role": "ContextObjective",
+      "confidence": 0.45847591757774353,
+      "similarities": {
+        "ContextObjective": 0.45847591757774353,
+        "BenefitsAssistance": 0.3272240459918976,
+        "Eligibility": 0.42373043298721313,
+        "ApplicationProcess": 0.3927980661392212,
+        "TimelineFrequency": 0.3161144256591797,
+        "AuthoritiesGovernance": 0.3641565442085266,
+        "DefinitionsReferences": 0.33276185393333435
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to addressing issues of violence and discrimination against women.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4542880654335022,
+      "similarities": {
+        "ContextObjective": 0.44551026821136475,
+        "BenefitsAssistance": 0.41720786690711975,
+        "Eligibility": 0.4284617304801941,
+        "ApplicationProcess": 0.3870927095413208,
+        "TimelineFrequency": 0.3759908676147461,
+        "AuthoritiesGovernance": 0.4542880654335022,
+        "DefinitionsReferences": 0.4159858822822571
+      }
+    },
+    {
+      "sentence": "Through the SHW scheme, the government aims to ensure that no woman is left without support in times of crisis.",
+      "role": "ContextObjective",
+      "confidence": 0.48288917541503906,
+      "similarities": {
+        "ContextObjective": 0.48288917541503906,
+        "BenefitsAssistance": 0.42935681343078613,
+        "Eligibility": 0.4419063925743103,
+        "ApplicationProcess": 0.38485515117645264,
+        "TimelineFrequency": 0.34731340408325195,
+        "AuthoritiesGovernance": 0.39829644560813904,
+        "DefinitionsReferences": 0.35506102442741394
+      }
+    },
+    {
+      "sentence": "The initiative is a testament to the ongoing efforts to promote gender equality and women's rights in India.",
+      "role": "ContextObjective",
+      "confidence": 0.44618237018585205,
+      "similarities": {
+        "ContextObjective": 0.44618237018585205,
+        "BenefitsAssistance": 0.340273380279541,
+        "Eligibility": 0.3779287338256836,
+        "ApplicationProcess": 0.35651087760925293,
+        "TimelineFrequency": 0.3259701728820801,
+        "AuthoritiesGovernance": 0.3967588543891907,
+        "DefinitionsReferences": 0.3586808741092682
+      }
+    },
+    {
+      "sentence": "Overall, the Shelter Home for Women scheme represents a comprehensive approach to addressing the needs of vulnerable women.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47482454776763916,
+      "similarities": {
+        "ContextObjective": 0.46465638279914856,
+        "BenefitsAssistance": 0.47482454776763916,
+        "Eligibility": 0.45021817088127136,
+        "ApplicationProcess": 0.4216357171535492,
+        "TimelineFrequency": 0.3991440534591675,
+        "AuthoritiesGovernance": 0.3927546739578247,
+        "DefinitionsReferences": 0.36086344718933105
+      }
+    },
+    {
+      "sentence": "It combines immediate support with long-term rehabilitation strategies to empower women and help them regain their independence.",
+      "role": "ContextObjective",
+      "confidence": 0.4138610363006592,
+      "similarities": {
+        "ContextObjective": 0.4138610363006592,
+        "BenefitsAssistance": 0.39615291357040405,
+        "Eligibility": 0.3335398733615875,
+        "ApplicationProcess": 0.3266158103942871,
+        "TimelineFrequency": 0.33770036697387695,
+        "AuthoritiesGovernance": 0.34838593006134033,
+        "DefinitionsReferences": 0.3362499475479126
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "BenefitsAssistance": 18,
+    "Eligibility": 9,
+    "ApplicationProcess": 4,
+    "AuthoritiesGovernance": 8
+  },
+  "processing_timestamp": "2025-09-25T20:40:06.519953"
+}

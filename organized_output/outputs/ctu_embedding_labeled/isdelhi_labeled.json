@@ -1,0 +1,939 @@
+{
+  "scheme_name": "Internship Scheme",
+  "total_sentences": 66,
+  "labeled_sentences": [
+    {
+      "sentence": "The Internship Scheme was launched by the Government of India on 1st July 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5628855228424072,
+      "similarities": {
+        "ContextObjective": 0.5628855228424072,
+        "BenefitsAssistance": 0.42101725935935974,
+        "Eligibility": 0.47473612427711487,
+        "ApplicationProcess": 0.45585206151008606,
+        "TimelineFrequency": 0.4844955503940582,
+        "AuthoritiesGovernance": 0.4782326817512512,
+        "DefinitionsReferences": 0.37921789288520813
+      }
+    },
+    {
+      "sentence": "This initiative aims to provide opportunities for young graduates and students to gain practical experience in various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.5145308375358582,
+      "similarities": {
+        "ContextObjective": 0.5145308375358582,
+        "BenefitsAssistance": 0.3927123546600342,
+        "Eligibility": 0.4773731529712677,
+        "ApplicationProcess": 0.4509180188179016,
+        "TimelineFrequency": 0.4763804078102112,
+        "AuthoritiesGovernance": 0.4264650046825409,
+        "DefinitionsReferences": 0.4303281903266907
+      }
+    },
+    {
+      "sentence": "The scheme is designed to bridge the gap between academic learning and practical work experience.",
+      "role": "ContextObjective",
+      "confidence": 0.5066732168197632,
+      "similarities": {
+        "ContextObjective": 0.5066732168197632,
+        "BenefitsAssistance": 0.35146746039390564,
+        "Eligibility": 0.4099184274673462,
+        "ApplicationProcess": 0.428167462348938,
+        "TimelineFrequency": 0.42692437767982483,
+        "AuthoritiesGovernance": 0.3401326537132263,
+        "DefinitionsReferences": 0.3734892010688782
+      }
+    },
+    {
+      "sentence": "The primary objective of the Internship Scheme is to enhance the employability of youth in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5474005937576294,
+      "similarities": {
+        "ContextObjective": 0.5474005937576294,
+        "BenefitsAssistance": 0.34281909465789795,
+        "Eligibility": 0.4368269145488739,
+        "ApplicationProcess": 0.4002102017402649,
+        "TimelineFrequency": 0.4006137549877167,
+        "AuthoritiesGovernance": 0.3871001601219177,
+        "DefinitionsReferences": 0.34020882844924927
+      }
+    },
+    {
+      "sentence": "The government aims to provide internships to at least 50,000 students annually under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49924400448799133,
+      "similarities": {
+        "ContextObjective": 0.49924400448799133,
+        "BenefitsAssistance": 0.36390525102615356,
+        "Eligibility": 0.4375571310520172,
+        "ApplicationProcess": 0.42088112235069275,
+        "TimelineFrequency": 0.43195489048957825,
+        "AuthoritiesGovernance": 0.39400553703308105,
+        "DefinitionsReferences": 0.35814884305000305
+      }
+    },
+    {
+      "sentence": "The scheme targets students who are pursuing undergraduate and postgraduate degrees.",
+      "role": "ContextObjective",
+      "confidence": 0.5747793316841125,
+      "similarities": {
+        "ContextObjective": 0.5747793316841125,
+        "BenefitsAssistance": 0.45229828357696533,
+        "Eligibility": 0.5485196709632874,
+        "ApplicationProcess": 0.4870816469192505,
+        "TimelineFrequency": 0.512309193611145,
+        "AuthoritiesGovernance": 0.4093467593193054,
+        "DefinitionsReferences": 0.40197527408599854
+      }
+    },
+    {
+      "sentence": "It is particularly focused on those in their final year of study.",
+      "role": "TimelineFrequency",
+      "confidence": 0.45728230476379395,
+      "similarities": {
+        "ContextObjective": 0.4533637762069702,
+        "BenefitsAssistance": 0.4301125705242157,
+        "Eligibility": 0.4460056722164154,
+        "ApplicationProcess": 0.42769789695739746,
+        "TimelineFrequency": 0.45728230476379395,
+        "AuthoritiesGovernance": 0.3686630129814148,
+        "DefinitionsReferences": 0.410846471786499
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is open to students from recognized universities and colleges across India.",
+      "role": "Eligibility",
+      "confidence": 0.49453821778297424,
+      "similarities": {
+        "ContextObjective": 0.48036283254623413,
+        "BenefitsAssistance": 0.3935840129852295,
+        "Eligibility": 0.49453821778297424,
+        "ApplicationProcess": 0.4501400589942932,
+        "TimelineFrequency": 0.4419856369495392,
+        "AuthoritiesGovernance": 0.4232536554336548,
+        "DefinitionsReferences": 0.3915116786956787
+      }
+    },
+    {
+      "sentence": "Eligible candidates must be between the ages of 18 and 30 years.",
+      "role": "Eligibility",
+      "confidence": 0.6420581340789795,
+      "similarities": {
+        "ContextObjective": 0.49081653356552124,
+        "BenefitsAssistance": 0.46198874711990356,
+        "Eligibility": 0.6420581340789795,
+        "ApplicationProcess": 0.5627973079681396,
+        "TimelineFrequency": 0.5549283623695374,
+        "AuthoritiesGovernance": 0.4473388195037842,
+        "DefinitionsReferences": 0.43037939071655273
+      }
+    },
+    {
+      "sentence": "The scheme is inclusive and encourages applications from diverse backgrounds.",
+      "role": "Eligibility",
+      "confidence": 0.5980386734008789,
+      "similarities": {
+        "ContextObjective": 0.5642073154449463,
+        "BenefitsAssistance": 0.47570380568504333,
+        "Eligibility": 0.5980386734008789,
+        "ApplicationProcess": 0.4878009259700775,
+        "TimelineFrequency": 0.4939192235469818,
+        "AuthoritiesGovernance": 0.3897322118282318,
+        "DefinitionsReferences": 0.3841618299484253
+      }
+    },
+    {
+      "sentence": "Internships are offered in various sectors including agriculture, health, education, and technology.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4927603602409363,
+      "similarities": {
+        "ContextObjective": 0.46070900559425354,
+        "BenefitsAssistance": 0.45116257667541504,
+        "Eligibility": 0.4640927314758301,
+        "ApplicationProcess": 0.4432915151119232,
+        "TimelineFrequency": 0.4927603602409363,
+        "AuthoritiesGovernance": 0.467570960521698,
+        "DefinitionsReferences": 0.44855815172195435
+      }
+    },
+    {
+      "sentence": "The duration of the internships can range from three months to six months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5647656917572021,
+      "similarities": {
+        "ContextObjective": 0.48527950048446655,
+        "BenefitsAssistance": 0.4496375322341919,
+        "Eligibility": 0.48518455028533936,
+        "ApplicationProcess": 0.4701835811138153,
+        "TimelineFrequency": 0.5647656917572021,
+        "AuthoritiesGovernance": 0.4330245852470398,
+        "DefinitionsReferences": 0.4489032030105591
+      }
+    },
+    {
+      "sentence": "Interns will receive a stipend of ₹10,000 per month during their internship period.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47011876106262207,
+      "similarities": {
+        "ContextObjective": 0.3956976532936096,
+        "BenefitsAssistance": 0.47011876106262207,
+        "Eligibility": 0.46464410424232483,
+        "ApplicationProcess": 0.41026777029037476,
+        "TimelineFrequency": 0.42830297350883484,
+        "AuthoritiesGovernance": 0.3912122845649719,
+        "DefinitionsReferences": 0.37034398317337036
+      }
+    },
+    {
+      "sentence": "This stipend is intended to support the interns financially while they gain work experience.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47911325097084045,
+      "similarities": {
+        "ContextObjective": 0.4216674566268921,
+        "BenefitsAssistance": 0.47911325097084045,
+        "Eligibility": 0.42513224482536316,
+        "ApplicationProcess": 0.3973768651485443,
+        "TimelineFrequency": 0.41679638624191284,
+        "AuthoritiesGovernance": 0.3747255206108093,
+        "DefinitionsReferences": 0.3888292908668518
+      }
+    },
+    {
+      "sentence": "The application process for the Internship Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5527642965316772,
+      "similarities": {
+        "ContextObjective": 0.5344849228858948,
+        "BenefitsAssistance": 0.3884226381778717,
+        "Eligibility": 0.48406922817230225,
+        "ApplicationProcess": 0.5527642965316772,
+        "TimelineFrequency": 0.49659401178359985,
+        "AuthoritiesGovernance": 0.40947777032852173,
+        "DefinitionsReferences": 0.3693053424358368
+      }
+    },
+    {
+      "sentence": "Interested candidates must visit the official website of the Ministry of Youth Affairs and Sports.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5473384857177734,
+      "similarities": {
+        "ContextObjective": 0.45925894379615784,
+        "BenefitsAssistance": 0.35924363136291504,
+        "Eligibility": 0.4903598427772522,
+        "ApplicationProcess": 0.5473384857177734,
+        "TimelineFrequency": 0.4521893858909607,
+        "AuthoritiesGovernance": 0.42152172327041626,
+        "DefinitionsReferences": 0.41286149621009827
+      }
+    },
+    {
+      "sentence": "They need to fill out an online application form available on the site.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7552379369735718,
+      "similarities": {
+        "ContextObjective": 0.48569199442863464,
+        "BenefitsAssistance": 0.49796804785728455,
+        "Eligibility": 0.6160939335823059,
+        "ApplicationProcess": 0.7552379369735718,
+        "TimelineFrequency": 0.5727423429489136,
+        "AuthoritiesGovernance": 0.45186248421669006,
+        "DefinitionsReferences": 0.4528976380825043
+      }
+    },
+    {
+      "sentence": "The application form requires personal details, educational qualifications, and preferred sectors for internship.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6506040692329407,
+      "similarities": {
+        "ContextObjective": 0.4888078570365906,
+        "BenefitsAssistance": 0.4888744354248047,
+        "Eligibility": 0.5943617820739746,
+        "ApplicationProcess": 0.6506040692329407,
+        "TimelineFrequency": 0.5576614141464233,
+        "AuthoritiesGovernance": 0.444982647895813,
+        "DefinitionsReferences": 0.4778873324394226
+      }
+    },
+    {
+      "sentence": "Candidates must also upload relevant documents such as educational certificates and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.654792845249176,
+      "similarities": {
+        "ContextObjective": 0.46420028805732727,
+        "BenefitsAssistance": 0.5028046369552612,
+        "Eligibility": 0.565730631351471,
+        "ApplicationProcess": 0.654792845249176,
+        "TimelineFrequency": 0.5296332836151123,
+        "AuthoritiesGovernance": 0.4372323155403137,
+        "DefinitionsReferences": 0.508991003036499
+      }
+    },
+    {
+      "sentence": "The deadline for submitting applications is typically set at the end of each academic semester.",
+      "role": "TimelineFrequency",
+      "confidence": 0.686570942401886,
+      "similarities": {
+        "ContextObjective": 0.43585145473480225,
+        "BenefitsAssistance": 0.4314314126968384,
+        "Eligibility": 0.5258032083511353,
+        "ApplicationProcess": 0.5716791749000549,
+        "TimelineFrequency": 0.686570942401886,
+        "AuthoritiesGovernance": 0.4310610294342041,
+        "DefinitionsReferences": 0.4246206283569336
+      }
+    },
+    {
+      "sentence": "Once applications are submitted, they are reviewed by the respective implementing authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6547773480415344,
+      "similarities": {
+        "ContextObjective": 0.49660104513168335,
+        "BenefitsAssistance": 0.4583740234375,
+        "Eligibility": 0.5911545157432556,
+        "ApplicationProcess": 0.6547773480415344,
+        "TimelineFrequency": 0.5741960406303406,
+        "AuthoritiesGovernance": 0.6068698167800903,
+        "DefinitionsReferences": 0.4915105104446411
+      }
+    },
+    {
+      "sentence": "Shortlisted candidates will be notified via email or SMS regarding their selection.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5974375009536743,
+      "similarities": {
+        "ContextObjective": 0.5122438669204712,
+        "BenefitsAssistance": 0.46369898319244385,
+        "Eligibility": 0.5759682655334473,
+        "ApplicationProcess": 0.5974375009536743,
+        "TimelineFrequency": 0.5869189500808716,
+        "AuthoritiesGovernance": 0.4891696870326996,
+        "DefinitionsReferences": 0.44221919775009155
+      }
+    },
+    {
+      "sentence": "The selected interns will then be assigned to various organizations based on their preferences and qualifications.",
+      "role": "Eligibility",
+      "confidence": 0.5356509685516357,
+      "similarities": {
+        "ContextObjective": 0.45364195108413696,
+        "BenefitsAssistance": 0.37855347990989685,
+        "Eligibility": 0.5356509685516357,
+        "ApplicationProcess": 0.43967968225479126,
+        "TimelineFrequency": 0.4691394865512848,
+        "AuthoritiesGovernance": 0.48219749331474304,
+        "DefinitionsReferences": 0.41691693663597107
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is implemented by the Ministry of Youth Affairs and Sports.",
+      "role": "ContextObjective",
+      "confidence": 0.5020151138305664,
+      "similarities": {
+        "ContextObjective": 0.5020151138305664,
+        "BenefitsAssistance": 0.3642461895942688,
+        "Eligibility": 0.4249575734138489,
+        "ApplicationProcess": 0.44343769550323486,
+        "TimelineFrequency": 0.4134674072265625,
+        "AuthoritiesGovernance": 0.49383848905563354,
+        "DefinitionsReferences": 0.37807053327560425
+      }
+    },
+    {
+      "sentence": "The ministry collaborates with various government departments and private organizations to facilitate internships.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5333249568939209,
+      "similarities": {
+        "ContextObjective": 0.4587092995643616,
+        "BenefitsAssistance": 0.4176814556121826,
+        "Eligibility": 0.4399285912513733,
+        "ApplicationProcess": 0.4439088702201843,
+        "TimelineFrequency": 0.4550893306732178,
+        "AuthoritiesGovernance": 0.5333249568939209,
+        "DefinitionsReferences": 0.4545053243637085
+      }
+    },
+    {
+      "sentence": "Contact details for inquiries can be found on the official ministry website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5538142323493958,
+      "similarities": {
+        "ContextObjective": 0.45887482166290283,
+        "BenefitsAssistance": 0.4705241918563843,
+        "Eligibility": 0.46266862750053406,
+        "ApplicationProcess": 0.5479596257209778,
+        "TimelineFrequency": 0.44078168272972107,
+        "AuthoritiesGovernance": 0.5538142323493958,
+        "DefinitionsReferences": 0.4692293405532837
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance the skills of youth through hands-on experience in real-world scenarios.",
+      "role": "ContextObjective",
+      "confidence": 0.5331058502197266,
+      "similarities": {
+        "ContextObjective": 0.5331058502197266,
+        "BenefitsAssistance": 0.3532066345214844,
+        "Eligibility": 0.4289447069168091,
+        "ApplicationProcess": 0.4254041612148285,
+        "TimelineFrequency": 0.3904358148574829,
+        "AuthoritiesGovernance": 0.3606092631816864,
+        "DefinitionsReferences": 0.3797389268875122
+      }
+    },
+    {
+      "sentence": "It also seeks to foster a culture of innovation and entrepreneurship among young people.",
+      "role": "ContextObjective",
+      "confidence": 0.45986148715019226,
+      "similarities": {
+        "ContextObjective": 0.45986148715019226,
+        "BenefitsAssistance": 0.2966322898864746,
+        "Eligibility": 0.3386971652507782,
+        "ApplicationProcess": 0.341612845659256,
+        "TimelineFrequency": 0.3388892412185669,
+        "AuthoritiesGovernance": 0.35922521352767944,
+        "DefinitionsReferences": 0.33869314193725586
+      }
+    },
+    {
+      "sentence": "Interns will have the opportunity to work on projects that contribute to national development.",
+      "role": "ContextObjective",
+      "confidence": 0.4868116080760956,
+      "similarities": {
+        "ContextObjective": 0.4868116080760956,
+        "BenefitsAssistance": 0.3842313289642334,
+        "Eligibility": 0.47679591178894043,
+        "ApplicationProcess": 0.4239276051521301,
+        "TimelineFrequency": 0.4292113482952118,
+        "AuthoritiesGovernance": 0.4474906325340271,
+        "DefinitionsReferences": 0.3813175559043884
+      }
+    },
+    {
+      "sentence": "The scheme encourages mentorship by experienced professionals in the respective fields.",
+      "role": "ContextObjective",
+      "confidence": 0.5028434991836548,
+      "similarities": {
+        "ContextObjective": 0.5028434991836548,
+        "BenefitsAssistance": 0.3581853210926056,
+        "Eligibility": 0.4260958433151245,
+        "ApplicationProcess": 0.3850288689136505,
+        "TimelineFrequency": 0.37758395075798035,
+        "AuthoritiesGovernance": 0.3707912564277649,
+        "DefinitionsReferences": 0.3826617896556854
+      }
+    },
+    {
+      "sentence": "Interns will receive feedback and evaluations at the end of their internship period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49999168515205383,
+      "similarities": {
+        "ContextObjective": 0.44681185483932495,
+        "BenefitsAssistance": 0.447105348110199,
+        "Eligibility": 0.4499576985836029,
+        "ApplicationProcess": 0.4798264503479004,
+        "TimelineFrequency": 0.49999168515205383,
+        "AuthoritiesGovernance": 0.4807208776473999,
+        "DefinitionsReferences": 0.4330728352069855
+      }
+    },
+    {
+      "sentence": "This feedback is intended to help them improve their skills and enhance their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.47756510972976685,
+      "similarities": {
+        "ContextObjective": 0.47756510972976685,
+        "BenefitsAssistance": 0.4301599860191345,
+        "Eligibility": 0.4707617163658142,
+        "ApplicationProcess": 0.46126624941825867,
+        "TimelineFrequency": 0.4636850953102112,
+        "AuthoritiesGovernance": 0.4512695074081421,
+        "DefinitionsReferences": 0.45672446489334106
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is part of a broader initiative by the Government of India to empower youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5131136178970337,
+      "similarities": {
+        "ContextObjective": 0.5131136178970337,
+        "BenefitsAssistance": 0.3775942921638489,
+        "Eligibility": 0.4304277300834656,
+        "ApplicationProcess": 0.4051460325717926,
+        "TimelineFrequency": 0.39187073707580566,
+        "AuthoritiesGovernance": 0.43253809213638306,
+        "DefinitionsReferences": 0.3742242157459259
+      }
+    },
+    {
+      "sentence": "It aligns with the Skill India Mission launched in 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.4780440330505371,
+      "similarities": {
+        "ContextObjective": 0.4780440330505371,
+        "BenefitsAssistance": 0.33969685435295105,
+        "Eligibility": 0.41103264689445496,
+        "ApplicationProcess": 0.38645488023757935,
+        "TimelineFrequency": 0.34826332330703735,
+        "AuthoritiesGovernance": 0.3662445545196533,
+        "DefinitionsReferences": 0.351432204246521
+      }
+    },
+    {
+      "sentence": "The Skill India Mission aims to train over 400 million people in different skills by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4961578845977783,
+      "similarities": {
+        "ContextObjective": 0.4961578845977783,
+        "BenefitsAssistance": 0.3709903359413147,
+        "Eligibility": 0.4468379318714142,
+        "ApplicationProcess": 0.3736395239830017,
+        "TimelineFrequency": 0.3813462257385254,
+        "AuthoritiesGovernance": 0.4054564833641052,
+        "DefinitionsReferences": 0.3687257170677185
+      }
+    },
+    {
+      "sentence": "The Internship Scheme complements this mission by providing practical training opportunities.",
+      "role": "ContextObjective",
+      "confidence": 0.5400237441062927,
+      "similarities": {
+        "ContextObjective": 0.5400237441062927,
+        "BenefitsAssistance": 0.3769846260547638,
+        "Eligibility": 0.4075157046318054,
+        "ApplicationProcess": 0.4074704051017761,
+        "TimelineFrequency": 0.40083765983581543,
+        "AuthoritiesGovernance": 0.410214900970459,
+        "DefinitionsReferences": 0.392777681350708
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crores for the implementation of this scheme over five years.",
+      "role": "ContextObjective",
+      "confidence": 0.4854205250740051,
+      "similarities": {
+        "ContextObjective": 0.4854205250740051,
+        "BenefitsAssistance": 0.46849361062049866,
+        "Eligibility": 0.44880783557891846,
+        "ApplicationProcess": 0.426316499710083,
+        "TimelineFrequency": 0.42713022232055664,
+        "AuthoritiesGovernance": 0.4676862955093384,
+        "DefinitionsReferences": 0.3676075339317322
+      }
+    },
+    {
+      "sentence": "This funding will support the stipend payments and administrative costs associated with the internships.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5377904176712036,
+      "similarities": {
+        "ContextObjective": 0.4232017397880554,
+        "BenefitsAssistance": 0.5377904176712036,
+        "Eligibility": 0.4586034119129181,
+        "ApplicationProcess": 0.44271257519721985,
+        "TimelineFrequency": 0.46593210101127625,
+        "AuthoritiesGovernance": 0.4576253294944763,
+        "DefinitionsReferences": 0.4419364333152771
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create a database of interns and organizations offering internships.",
+      "role": "ContextObjective",
+      "confidence": 0.5691510438919067,
+      "similarities": {
+        "ContextObjective": 0.5691510438919067,
+        "BenefitsAssistance": 0.4491235017776489,
+        "Eligibility": 0.5275982618331909,
+        "ApplicationProcess": 0.4894678294658661,
+        "TimelineFrequency": 0.49843698740005493,
+        "AuthoritiesGovernance": 0.47039464116096497,
+        "DefinitionsReferences": 0.46475815773010254
+      }
+    },
+    {
+      "sentence": "This database will facilitate better matching of candidates with suitable internship opportunities.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5526509881019592,
+      "similarities": {
+        "ContextObjective": 0.4961014986038208,
+        "BenefitsAssistance": 0.4637599587440491,
+        "Eligibility": 0.546942949295044,
+        "ApplicationProcess": 0.5127459764480591,
+        "TimelineFrequency": 0.5526509881019592,
+        "AuthoritiesGovernance": 0.4489578604698181,
+        "DefinitionsReferences": 0.49244871735572815
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is expected to contribute to the overall economic development of the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5044324994087219,
+      "similarities": {
+        "ContextObjective": 0.5044324994087219,
+        "BenefitsAssistance": 0.4207901358604431,
+        "Eligibility": 0.4282420873641968,
+        "ApplicationProcess": 0.4255738854408264,
+        "TimelineFrequency": 0.40099069476127625,
+        "AuthoritiesGovernance": 0.4249001145362854,
+        "DefinitionsReferences": 0.38457047939300537
+      }
+    },
+    {
+      "sentence": "By enhancing the skills of youth, the government aims to reduce unemployment rates.",
+      "role": "ContextObjective",
+      "confidence": 0.4404761791229248,
+      "similarities": {
+        "ContextObjective": 0.4404761791229248,
+        "BenefitsAssistance": 0.3559701442718506,
+        "Eligibility": 0.3954583406448364,
+        "ApplicationProcess": 0.37472668290138245,
+        "TimelineFrequency": 0.4014204144477844,
+        "AuthoritiesGovernance": 0.4274914562702179,
+        "DefinitionsReferences": 0.3533216714859009
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to promote entrepreneurship among young graduates.",
+      "role": "ContextObjective",
+      "confidence": 0.493852436542511,
+      "similarities": {
+        "ContextObjective": 0.493852436542511,
+        "BenefitsAssistance": 0.3507556915283203,
+        "Eligibility": 0.40305495262145996,
+        "ApplicationProcess": 0.36144596338272095,
+        "TimelineFrequency": 0.36911171674728394,
+        "AuthoritiesGovernance": 0.3150293231010437,
+        "DefinitionsReferences": 0.32455766201019287
+      }
+    },
+    {
+      "sentence": "Interns will be encouraged to develop innovative solutions to real-world problems.",
+      "role": "ContextObjective",
+      "confidence": 0.443108469247818,
+      "similarities": {
+        "ContextObjective": 0.443108469247818,
+        "BenefitsAssistance": 0.3465222716331482,
+        "Eligibility": 0.40337085723876953,
+        "ApplicationProcess": 0.38828152418136597,
+        "TimelineFrequency": 0.3977530598640442,
+        "AuthoritiesGovernance": 0.41108962893486023,
+        "DefinitionsReferences": 0.350053608417511
+      }
+    },
+    {
+      "sentence": "The government plans to monitor the impact of the scheme through regular assessments.",
+      "role": "ContextObjective",
+      "confidence": 0.5035533308982849,
+      "similarities": {
+        "ContextObjective": 0.5035533308982849,
+        "BenefitsAssistance": 0.4789329767227173,
+        "Eligibility": 0.5009468197822571,
+        "ApplicationProcess": 0.48841428756713867,
+        "TimelineFrequency": 0.4603002965450287,
+        "AuthoritiesGovernance": 0.4851357638835907,
+        "DefinitionsReferences": 0.4324120879173279
+      }
+    },
+    {
+      "sentence": "These assessments will evaluate the effectiveness of internships in improving employability.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4514350891113281,
+      "similarities": {
+        "ContextObjective": 0.44755125045776367,
+        "BenefitsAssistance": 0.37648823857307434,
+        "Eligibility": 0.434633731842041,
+        "ApplicationProcess": 0.40313276648521423,
+        "TimelineFrequency": 0.4514350891113281,
+        "AuthoritiesGovernance": 0.4140215814113617,
+        "DefinitionsReferences": 0.3774886727333069
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is a significant step towards creating a skilled workforce in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5003946423530579,
+      "similarities": {
+        "ContextObjective": 0.5003946423530579,
+        "BenefitsAssistance": 0.3785003125667572,
+        "Eligibility": 0.43313246965408325,
+        "ApplicationProcess": 0.4269343614578247,
+        "TimelineFrequency": 0.394339382648468,
+        "AuthoritiesGovernance": 0.3896937966346741,
+        "DefinitionsReferences": 0.3700735569000244
+      }
+    },
+    {
+      "sentence": "It aims to empower young individuals to take charge of their careers.",
+      "role": "ContextObjective",
+      "confidence": 0.5145685076713562,
+      "similarities": {
+        "ContextObjective": 0.5145685076713562,
+        "BenefitsAssistance": 0.36940333247184753,
+        "Eligibility": 0.42126700282096863,
+        "ApplicationProcess": 0.41364365816116333,
+        "TimelineFrequency": 0.42636770009994507,
+        "AuthoritiesGovernance": 0.4308921694755554,
+        "DefinitionsReferences": 0.3763781189918518
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be flexible to accommodate the diverse needs of students.",
+      "role": "ContextObjective",
+      "confidence": 0.5593621730804443,
+      "similarities": {
+        "ContextObjective": 0.5593621730804443,
+        "BenefitsAssistance": 0.49168819189071655,
+        "Eligibility": 0.5446959137916565,
+        "ApplicationProcess": 0.46294525265693665,
+        "TimelineFrequency": 0.5176154375076294,
+        "AuthoritiesGovernance": 0.4266464114189148,
+        "DefinitionsReferences": 0.43549132347106934
+      }
+    },
+    {
+      "sentence": "Interns can choose their preferred sectors and organizations based on their interests.",
+      "role": "Eligibility",
+      "confidence": 0.5150524377822876,
+      "similarities": {
+        "ContextObjective": 0.512330174446106,
+        "BenefitsAssistance": 0.43760257959365845,
+        "Eligibility": 0.5150524377822876,
+        "ApplicationProcess": 0.4532191753387451,
+        "TimelineFrequency": 0.4815082550048828,
+        "AuthoritiesGovernance": 0.4699617624282837,
+        "DefinitionsReferences": 0.4548073410987854
+      }
+    },
+    {
+      "sentence": "The government encourages participation from both urban and rural students.",
+      "role": "Eligibility",
+      "confidence": 0.4711008667945862,
+      "similarities": {
+        "ContextObjective": 0.46690434217453003,
+        "BenefitsAssistance": 0.41046345233917236,
+        "Eligibility": 0.4711008667945862,
+        "ApplicationProcess": 0.42975449562072754,
+        "TimelineFrequency": 0.42680293321609497,
+        "AuthoritiesGovernance": 0.44344404339790344,
+        "DefinitionsReferences": 0.41522666811943054
+      }
+    },
+    {
+      "sentence": "This inclusivity is aimed at ensuring equal opportunities for all.",
+      "role": "Eligibility",
+      "confidence": 0.5362104773521423,
+      "similarities": {
+        "ContextObjective": 0.49396878480911255,
+        "BenefitsAssistance": 0.4113859534263611,
+        "Eligibility": 0.5362104773521423,
+        "ApplicationProcess": 0.4235614538192749,
+        "TimelineFrequency": 0.4206054210662842,
+        "AuthoritiesGovernance": 0.43188366293907166,
+        "DefinitionsReferences": 0.39182716608047485
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is a vital initiative for fostering youth development in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5074814558029175,
+      "similarities": {
+        "ContextObjective": 0.5074814558029175,
+        "BenefitsAssistance": 0.32764753699302673,
+        "Eligibility": 0.4096359610557556,
+        "ApplicationProcess": 0.38042253255844116,
+        "TimelineFrequency": 0.3790039122104645,
+        "AuthoritiesGovernance": 0.36860474944114685,
+        "DefinitionsReferences": 0.34589678049087524
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to investing in the future of its young population.",
+      "role": "ContextObjective",
+      "confidence": 0.43877846002578735,
+      "similarities": {
+        "ContextObjective": 0.43877846002578735,
+        "BenefitsAssistance": 0.3638308644294739,
+        "Eligibility": 0.386233925819397,
+        "ApplicationProcess": 0.35643842816352844,
+        "TimelineFrequency": 0.3456747233867645,
+        "AuthoritiesGovernance": 0.33638474345207214,
+        "DefinitionsReferences": 0.3538329601287842
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a long-lasting impact on the employability of graduates.",
+      "role": "ContextObjective",
+      "confidence": 0.48234492540359497,
+      "similarities": {
+        "ContextObjective": 0.48234492540359497,
+        "BenefitsAssistance": 0.388675332069397,
+        "Eligibility": 0.46275365352630615,
+        "ApplicationProcess": 0.40290290117263794,
+        "TimelineFrequency": 0.4256495237350464,
+        "AuthoritiesGovernance": 0.3591529130935669,
+        "DefinitionsReferences": 0.3691524267196655
+      }
+    },
+    {
+      "sentence": "By providing practical experience, it helps students transition smoothly from education to employment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4810256361961365,
+      "similarities": {
+        "ContextObjective": 0.4397883117198944,
+        "BenefitsAssistance": 0.40668177604675293,
+        "Eligibility": 0.42861026525497437,
+        "ApplicationProcess": 0.4810256361961365,
+        "TimelineFrequency": 0.44424980878829956,
+        "AuthoritiesGovernance": 0.3863449692726135,
+        "DefinitionsReferences": 0.420876145362854
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is a crucial component of India's strategy to harness the potential of its youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5136140584945679,
+      "similarities": {
+        "ContextObjective": 0.5136140584945679,
+        "BenefitsAssistance": 0.33675482869148254,
+        "Eligibility": 0.41960465908050537,
+        "ApplicationProcess": 0.39111876487731934,
+        "TimelineFrequency": 0.38669973611831665,
+        "AuthoritiesGovernance": 0.3626016676425934,
+        "DefinitionsReferences": 0.35038429498672485
+      }
+    },
+    {
+      "sentence": "It aims to create a generation of skilled professionals ready to contribute to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.510601282119751,
+      "similarities": {
+        "ContextObjective": 0.510601282119751,
+        "BenefitsAssistance": 0.37899941205978394,
+        "Eligibility": 0.4428693354129791,
+        "ApplicationProcess": 0.42000138759613037,
+        "TimelineFrequency": 0.4150469899177551,
+        "AuthoritiesGovernance": 0.3626558482646942,
+        "DefinitionsReferences": 0.34278368949890137
+      }
+    },
+    {
+      "sentence": "The government is optimistic about the positive outcomes of this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5063564777374268,
+      "similarities": {
+        "ContextObjective": 0.5063564777374268,
+        "BenefitsAssistance": 0.4276539087295532,
+        "Eligibility": 0.4445119798183441,
+        "ApplicationProcess": 0.43478867411613464,
+        "TimelineFrequency": 0.382323682308197,
+        "AuthoritiesGovernance": 0.46187251806259155,
+        "DefinitionsReferences": 0.3902755379676819
+      }
+    },
+    {
+      "sentence": "It seeks to create a sustainable model for internships in India.",
+      "role": "ContextObjective",
+      "confidence": 0.521332859992981,
+      "similarities": {
+        "ContextObjective": 0.521332859992981,
+        "BenefitsAssistance": 0.3399007320404053,
+        "Eligibility": 0.44015923142433167,
+        "ApplicationProcess": 0.4416200518608093,
+        "TimelineFrequency": 0.4210623502731323,
+        "AuthoritiesGovernance": 0.39922699332237244,
+        "DefinitionsReferences": 0.3641577363014221
+      }
+    },
+    {
+      "sentence": "The Internship Scheme is a proactive approach to addressing the challenges faced by young job seekers.",
+      "role": "ContextObjective",
+      "confidence": 0.5234902501106262,
+      "similarities": {
+        "ContextObjective": 0.5234902501106262,
+        "BenefitsAssistance": 0.3826420307159424,
+        "Eligibility": 0.46508365869522095,
+        "ApplicationProcess": 0.4491274356842041,
+        "TimelineFrequency": 0.44836097955703735,
+        "AuthoritiesGovernance": 0.41217777132987976,
+        "DefinitionsReferences": 0.3570605516433716
+      }
+    },
+    {
+      "sentence": "It represents a significant investment in human capital development in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.41532301902770996,
+      "similarities": {
+        "ContextObjective": 0.41532301902770996,
+        "BenefitsAssistance": 0.4059368371963501,
+        "Eligibility": 0.4116330146789551,
+        "ApplicationProcess": 0.370831698179245,
+        "TimelineFrequency": 0.3573155403137207,
+        "AuthoritiesGovernance": 0.3719880282878876,
+        "DefinitionsReferences": 0.40843942761421204
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve based on feedback and changing market needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5549011826515198,
+      "similarities": {
+        "ContextObjective": 0.5549011826515198,
+        "BenefitsAssistance": 0.4407740831375122,
+        "Eligibility": 0.5084048509597778,
+        "ApplicationProcess": 0.4659441113471985,
+        "TimelineFrequency": 0.4439195990562439,
+        "AuthoritiesGovernance": 0.4408530294895172,
+        "DefinitionsReferences": 0.424663782119751
+      }
+    },
+    {
+      "sentence": "In conclusion, the Internship Scheme is a comprehensive initiative aimed at empowering youth through practical experience.",
+      "role": "ContextObjective",
+      "confidence": 0.510219395160675,
+      "similarities": {
+        "ContextObjective": 0.510219395160675,
+        "BenefitsAssistance": 0.378980815410614,
+        "Eligibility": 0.3981556296348572,
+        "ApplicationProcess": 0.4116175174713135,
+        "TimelineFrequency": 0.3888683319091797,
+        "AuthoritiesGovernance": 0.39118003845214844,
+        "DefinitionsReferences": 0.3731713891029358
+      }
+    },
+    {
+      "sentence": "It provides a structured framework for internships across various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.5526686906814575,
+      "similarities": {
+        "ContextObjective": 0.5526686906814575,
+        "BenefitsAssistance": 0.47552552819252014,
+        "Eligibility": 0.5073055028915405,
+        "ApplicationProcess": 0.48334038257598877,
+        "TimelineFrequency": 0.5438686609268188,
+        "AuthoritiesGovernance": 0.4862014353275299,
+        "DefinitionsReferences": 0.4952230751514435
+      }
+    },
+    {
+      "sentence": "The scheme is designed to enhance the skills and employability of young graduates in India.",
+      "role": "ContextObjective",
+      "confidence": 0.515586256980896,
+      "similarities": {
+        "ContextObjective": 0.515586256980896,
+        "BenefitsAssistance": 0.3739519715309143,
+        "Eligibility": 0.45822829008102417,
+        "ApplicationProcess": 0.4014624357223511,
+        "TimelineFrequency": 0.4096181392669678,
+        "AuthoritiesGovernance": 0.3545910120010376,
+        "DefinitionsReferences": 0.3521164059638977
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 39,
+    "TimelineFrequency": 7,
+    "Eligibility": 7,
+    "BenefitsAssistance": 3,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:45:52.483319"
+}

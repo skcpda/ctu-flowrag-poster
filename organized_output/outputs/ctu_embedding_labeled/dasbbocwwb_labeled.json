@@ -1,0 +1,925 @@
+{
+  "scheme_name": "Death Assistance Scheme (BBOCWWB)",
+  "total_sentences": 65,
+  "labeled_sentences": [
+    {
+      "sentence": "The Death Assistance Scheme is a welfare initiative launched by the Building and Other Construction Workers Welfare Board in India.",
+      "role": "ContextObjective",
+      "confidence": 0.528410017490387,
+      "similarities": {
+        "ContextObjective": 0.528410017490387,
+        "BenefitsAssistance": 0.4675193428993225,
+        "Eligibility": 0.49318045377731323,
+        "ApplicationProcess": 0.4258694350719452,
+        "TimelineFrequency": 0.41178077459335327,
+        "AuthoritiesGovernance": 0.4649137854576111,
+        "DefinitionsReferences": 0.3588687777519226
+      }
+    },
+    {
+      "sentence": "The scheme was introduced to provide financial assistance to the families of construction workers who pass away due to various reasons.",
+      "role": "Eligibility",
+      "confidence": 0.503822922706604,
+      "similarities": {
+        "ContextObjective": 0.5011171698570251,
+        "BenefitsAssistance": 0.4880622625350952,
+        "Eligibility": 0.503822922706604,
+        "ApplicationProcess": 0.41135016083717346,
+        "TimelineFrequency": 0.39918163418769836,
+        "AuthoritiesGovernance": 0.3872957229614258,
+        "DefinitionsReferences": 0.3336344361305237
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st January 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.5791722536087036,
+      "similarities": {
+        "ContextObjective": 0.5791722536087036,
+        "BenefitsAssistance": 0.44681316614151,
+        "Eligibility": 0.47967374324798584,
+        "ApplicationProcess": 0.48946815729141235,
+        "TimelineFrequency": 0.4619898498058319,
+        "AuthoritiesGovernance": 0.4033360779285431,
+        "DefinitionsReferences": 0.36268430948257446
+      }
+    },
+    {
+      "sentence": "The primary objective of the Death Assistance Scheme is to provide immediate financial support to the bereaved families of deceased construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5037176012992859,
+      "similarities": {
+        "ContextObjective": 0.5037176012992859,
+        "BenefitsAssistance": 0.45241639018058777,
+        "Eligibility": 0.4158038794994354,
+        "ApplicationProcess": 0.37970179319381714,
+        "TimelineFrequency": 0.36751633882522583,
+        "AuthoritiesGovernance": 0.3757902979850769,
+        "DefinitionsReferences": 0.3123074173927307
+      }
+    },
+    {
+      "sentence": "The scheme aims to alleviate the financial burden faced by families after the loss of their primary breadwinner.",
+      "role": "ContextObjective",
+      "confidence": 0.5099279880523682,
+      "similarities": {
+        "ContextObjective": 0.5099279880523682,
+        "BenefitsAssistance": 0.4933541417121887,
+        "Eligibility": 0.4595438241958618,
+        "ApplicationProcess": 0.38555654883384705,
+        "TimelineFrequency": 0.36449599266052246,
+        "AuthoritiesGovernance": 0.37922608852386475,
+        "DefinitionsReferences": 0.32403409481048584
+      }
+    },
+    {
+      "sentence": "Under this scheme, a fixed amount of financial assistance is provided to the family of the deceased worker.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5095282196998596,
+      "similarities": {
+        "ContextObjective": 0.4095595180988312,
+        "BenefitsAssistance": 0.5095282196998596,
+        "Eligibility": 0.4704558551311493,
+        "ApplicationProcess": 0.39279764890670776,
+        "TimelineFrequency": 0.3690658509731293,
+        "AuthoritiesGovernance": 0.40150243043899536,
+        "DefinitionsReferences": 0.3579089045524597
+      }
+    },
+    {
+      "sentence": "The amount of assistance provided under the scheme is ₹2 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.54924076795578,
+      "similarities": {
+        "ContextObjective": 0.49091649055480957,
+        "BenefitsAssistance": 0.54924076795578,
+        "Eligibility": 0.4918892979621887,
+        "ApplicationProcess": 0.42576006054878235,
+        "TimelineFrequency": 0.3978757858276367,
+        "AuthoritiesGovernance": 0.43049824237823486,
+        "DefinitionsReferences": 0.39250487089157104
+      }
+    },
+    {
+      "sentence": "This assistance is intended to help families cover immediate expenses such as funeral costs and other financial obligations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6090058088302612,
+      "similarities": {
+        "ContextObjective": 0.45788782835006714,
+        "BenefitsAssistance": 0.6090058088302612,
+        "Eligibility": 0.5081057548522949,
+        "ApplicationProcess": 0.4497241973876953,
+        "TimelineFrequency": 0.45704567432403564,
+        "AuthoritiesGovernance": 0.4240109324455261,
+        "DefinitionsReferences": 0.4384954869747162
+      }
+    },
+    {
+      "sentence": "To be eligible for the benefits of the Death Assistance Scheme, the deceased must have been a registered construction worker.",
+      "role": "Eligibility",
+      "confidence": 0.5115014314651489,
+      "similarities": {
+        "ContextObjective": 0.4067800045013428,
+        "BenefitsAssistance": 0.3992346525192261,
+        "Eligibility": 0.5115014314651489,
+        "ApplicationProcess": 0.4498121738433838,
+        "TimelineFrequency": 0.39884495735168457,
+        "AuthoritiesGovernance": 0.3680044412612915,
+        "DefinitionsReferences": 0.3300364911556244
+      }
+    },
+    {
+      "sentence": "The worker must have been registered with the Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5567997097969055,
+      "similarities": {
+        "ContextObjective": 0.4173586666584015,
+        "BenefitsAssistance": 0.448976069688797,
+        "Eligibility": 0.5440369844436646,
+        "ApplicationProcess": 0.5567997097969055,
+        "TimelineFrequency": 0.4642169773578644,
+        "AuthoritiesGovernance": 0.43750467896461487,
+        "DefinitionsReferences": 0.4119073748588562
+      }
+    },
+    {
+      "sentence": "The age limit for eligibility is set at a minimum of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6080085039138794,
+      "similarities": {
+        "ContextObjective": 0.47014766931533813,
+        "BenefitsAssistance": 0.4567895829677582,
+        "Eligibility": 0.6080085039138794,
+        "ApplicationProcess": 0.5119717121124268,
+        "TimelineFrequency": 0.5043760538101196,
+        "AuthoritiesGovernance": 0.384856641292572,
+        "DefinitionsReferences": 0.3915547728538513
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for eligibility under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5290297865867615,
+      "similarities": {
+        "ContextObjective": 0.4624580144882202,
+        "BenefitsAssistance": 0.3985535502433777,
+        "Eligibility": 0.5290297865867615,
+        "ApplicationProcess": 0.402330219745636,
+        "TimelineFrequency": 0.40375611186027527,
+        "AuthoritiesGovernance": 0.33555537462234497,
+        "DefinitionsReferences": 0.30382049083709717
+      }
+    },
+    {
+      "sentence": "The family of the deceased worker must apply for the assistance within a specific time frame.",
+      "role": "Eligibility",
+      "confidence": 0.5813651084899902,
+      "similarities": {
+        "ContextObjective": 0.4390954375267029,
+        "BenefitsAssistance": 0.49025505781173706,
+        "Eligibility": 0.5813651084899902,
+        "ApplicationProcess": 0.533942461013794,
+        "TimelineFrequency": 0.5378553867340088,
+        "AuthoritiesGovernance": 0.41369932889938354,
+        "DefinitionsReferences": 0.37726259231567383
+      }
+    },
+    {
+      "sentence": "Applications must be submitted within 60 days of the worker's death.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5367685556411743,
+      "similarities": {
+        "ContextObjective": 0.4195224642753601,
+        "BenefitsAssistance": 0.40758782625198364,
+        "Eligibility": 0.5352867245674133,
+        "ApplicationProcess": 0.5293082594871521,
+        "TimelineFrequency": 0.5367685556411743,
+        "AuthoritiesGovernance": 0.4016653299331665,
+        "DefinitionsReferences": 0.3767232298851013
+      }
+    },
+    {
+      "sentence": "The application process involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7814483046531677,
+      "similarities": {
+        "ContextObjective": 0.5850433707237244,
+        "BenefitsAssistance": 0.5570007562637329,
+        "Eligibility": 0.6557300686836243,
+        "ApplicationProcess": 0.7814483046531677,
+        "TimelineFrequency": 0.690198540687561,
+        "AuthoritiesGovernance": 0.5501037240028381,
+        "DefinitionsReferences": 0.5526539087295532
+      }
+    },
+    {
+      "sentence": "First, the family must obtain a death certificate of the deceased worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5053325891494751,
+      "similarities": {
+        "ContextObjective": 0.3675890564918518,
+        "BenefitsAssistance": 0.4169073700904846,
+        "Eligibility": 0.4321560561656952,
+        "ApplicationProcess": 0.5053325891494751,
+        "TimelineFrequency": 0.3753865361213684,
+        "AuthoritiesGovernance": 0.402182012796402,
+        "DefinitionsReferences": 0.3775344789028168
+      }
+    },
+    {
+      "sentence": "Next, they must fill out the application form provided by the Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6254259347915649,
+      "similarities": {
+        "ContextObjective": 0.41975003480911255,
+        "BenefitsAssistance": 0.43303996324539185,
+        "Eligibility": 0.5098545551300049,
+        "ApplicationProcess": 0.6254259347915649,
+        "TimelineFrequency": 0.48290711641311646,
+        "AuthoritiesGovernance": 0.42371827363967896,
+        "DefinitionsReferences": 0.4013300836086273
+      }
+    },
+    {
+      "sentence": "The application form can be obtained from the local office of the Board or downloaded from the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6596711874008179,
+      "similarities": {
+        "ContextObjective": 0.4655497074127197,
+        "BenefitsAssistance": 0.44879236817359924,
+        "Eligibility": 0.5479652285575867,
+        "ApplicationProcess": 0.6596711874008179,
+        "TimelineFrequency": 0.5410555005073547,
+        "AuthoritiesGovernance": 0.4548308551311493,
+        "DefinitionsReferences": 0.4546120762825012
+      }
+    },
+    {
+      "sentence": "Along with the application form, the family must submit the death certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6058581471443176,
+      "similarities": {
+        "ContextObjective": 0.3939540982246399,
+        "BenefitsAssistance": 0.45757997035980225,
+        "Eligibility": 0.4905855059623718,
+        "ApplicationProcess": 0.6058581471443176,
+        "TimelineFrequency": 0.46029403805732727,
+        "AuthoritiesGovernance": 0.3939588963985443,
+        "DefinitionsReferences": 0.4114401936531067
+      }
+    },
+    {
+      "sentence": "They must also provide proof of the deceased worker's registration with the Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5101540684700012,
+      "similarities": {
+        "ContextObjective": 0.40486931800842285,
+        "BenefitsAssistance": 0.4266100227832794,
+        "Eligibility": 0.46200841665267944,
+        "ApplicationProcess": 0.5101540684700012,
+        "TimelineFrequency": 0.42788201570510864,
+        "AuthoritiesGovernance": 0.4032539129257202,
+        "DefinitionsReferences": 0.4216883182525635
+      }
+    },
+    {
+      "sentence": "Additional documents may include identity proof of the applicant and bank account details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6434117555618286,
+      "similarities": {
+        "ContextObjective": 0.4963114261627197,
+        "BenefitsAssistance": 0.6264501214027405,
+        "Eligibility": 0.5874932408332825,
+        "ApplicationProcess": 0.6434117555618286,
+        "TimelineFrequency": 0.5333307981491089,
+        "AuthoritiesGovernance": 0.45507916808128357,
+        "DefinitionsReferences": 0.5543555021286011
+      }
+    },
+    {
+      "sentence": "Once the application is completed with all necessary documents, it must be submitted to the local office of the Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6228986978530884,
+      "similarities": {
+        "ContextObjective": 0.4126282334327698,
+        "BenefitsAssistance": 0.4394683539867401,
+        "Eligibility": 0.5083816051483154,
+        "ApplicationProcess": 0.6228986978530884,
+        "TimelineFrequency": 0.4826902151107788,
+        "AuthoritiesGovernance": 0.43019574880599976,
+        "DefinitionsReferences": 0.39254122972488403
+      }
+    },
+    {
+      "sentence": "The application will then be processed by the Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6887916922569275,
+      "similarities": {
+        "ContextObjective": 0.5324825048446655,
+        "BenefitsAssistance": 0.4897809624671936,
+        "Eligibility": 0.6022059917449951,
+        "ApplicationProcess": 0.6887916922569275,
+        "TimelineFrequency": 0.6070905923843384,
+        "AuthoritiesGovernance": 0.5202769637107849,
+        "DefinitionsReferences": 0.48242872953414917
+      }
+    },
+    {
+      "sentence": "The processing time for the application is typically around 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6336891055107117,
+      "similarities": {
+        "ContextObjective": 0.4786032438278198,
+        "BenefitsAssistance": 0.48226723074913025,
+        "Eligibility": 0.5581216812133789,
+        "ApplicationProcess": 0.617018461227417,
+        "TimelineFrequency": 0.6336891055107117,
+        "AuthoritiesGovernance": 0.46537160873413086,
+        "DefinitionsReferences": 0.4517534375190735
+      }
+    },
+    {
+      "sentence": "Once approved, the financial assistance of ₹2 lakh will be disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5239140391349792,
+      "similarities": {
+        "ContextObjective": 0.378659188747406,
+        "BenefitsAssistance": 0.5239140391349792,
+        "Eligibility": 0.48342961072921753,
+        "ApplicationProcess": 0.4768972098827362,
+        "TimelineFrequency": 0.40890514850616455,
+        "AuthoritiesGovernance": 0.3832176625728607,
+        "DefinitionsReferences": 0.34058237075805664
+      }
+    },
+    {
+      "sentence": "The assistance is provided in a one-time payment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5914868116378784,
+      "similarities": {
+        "ContextObjective": 0.4602164626121521,
+        "BenefitsAssistance": 0.5914868116378784,
+        "Eligibility": 0.5151286125183105,
+        "ApplicationProcess": 0.48664289712905884,
+        "TimelineFrequency": 0.4921671152114868,
+        "AuthoritiesGovernance": 0.4548805058002472,
+        "DefinitionsReferences": 0.4149635136127472
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5071794986724854,
+      "similarities": {
+        "ContextObjective": 0.5034915208816528,
+        "BenefitsAssistance": 0.44014185667037964,
+        "Eligibility": 0.46377840638160706,
+        "ApplicationProcess": 0.44195616245269775,
+        "TimelineFrequency": 0.39744240045547485,
+        "AuthoritiesGovernance": 0.5071794986724854,
+        "DefinitionsReferences": 0.3725703954696655
+      }
+    },
+    {
+      "sentence": "Each state in India has its own Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.503706157207489,
+      "similarities": {
+        "ContextObjective": 0.4677080512046814,
+        "BenefitsAssistance": 0.4521937966346741,
+        "Eligibility": 0.49000251293182373,
+        "ApplicationProcess": 0.4384918212890625,
+        "TimelineFrequency": 0.4343631863594055,
+        "AuthoritiesGovernance": 0.503706157207489,
+        "DefinitionsReferences": 0.4450387954711914
+      }
+    },
+    {
+      "sentence": "These boards are responsible for the implementation and management of the scheme at the state level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6095311045646667,
+      "similarities": {
+        "ContextObjective": 0.527567446231842,
+        "BenefitsAssistance": 0.44612550735473633,
+        "Eligibility": 0.5326486229896545,
+        "ApplicationProcess": 0.4952596127986908,
+        "TimelineFrequency": 0.4565052092075348,
+        "AuthoritiesGovernance": 0.6095311045646667,
+        "DefinitionsReferences": 0.4422655701637268
+      }
+    },
+    {
+      "sentence": "For example, the Maharashtra Building and Other Construction Workers Welfare Board oversees the implementation in Maharashtra.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5722959041595459,
+      "similarities": {
+        "ContextObjective": 0.43613100051879883,
+        "BenefitsAssistance": 0.41821908950805664,
+        "Eligibility": 0.46814200282096863,
+        "ApplicationProcess": 0.42311960458755493,
+        "TimelineFrequency": 0.3791404962539673,
+        "AuthoritiesGovernance": 0.5722959041595459,
+        "DefinitionsReferences": 0.4068952798843384
+      }
+    },
+    {
+      "sentence": "The contact details for the Board can be found on their respective state government websites.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5407689809799194,
+      "similarities": {
+        "ContextObjective": 0.4624132513999939,
+        "BenefitsAssistance": 0.4787171483039856,
+        "Eligibility": 0.48192715644836426,
+        "ApplicationProcess": 0.4990560710430145,
+        "TimelineFrequency": 0.4672204852104187,
+        "AuthoritiesGovernance": 0.5407689809799194,
+        "DefinitionsReferences": 0.4947642982006073
+      }
+    },
+    {
+      "sentence": "The scheme is part of a larger framework of welfare initiatives aimed at supporting construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4964883327484131,
+      "similarities": {
+        "ContextObjective": 0.4964883327484131,
+        "BenefitsAssistance": 0.43328312039375305,
+        "Eligibility": 0.4539412558078766,
+        "ApplicationProcess": 0.40256479382514954,
+        "TimelineFrequency": 0.3787927031517029,
+        "AuthoritiesGovernance": 0.4231715202331543,
+        "DefinitionsReferences": 0.3588375449180603
+      }
+    },
+    {
+      "sentence": "The construction sector employs millions of workers across the country.",
+      "role": "Eligibility",
+      "confidence": 0.43142521381378174,
+      "similarities": {
+        "ContextObjective": 0.41576141119003296,
+        "BenefitsAssistance": 0.42052924633026123,
+        "Eligibility": 0.43142521381378174,
+        "ApplicationProcess": 0.3948550224304199,
+        "TimelineFrequency": 0.39812788367271423,
+        "AuthoritiesGovernance": 0.4243166446685791,
+        "DefinitionsReferences": 0.3967440724372864
+      }
+    },
+    {
+      "sentence": "Many of these workers face significant risks due to the nature of their work.",
+      "role": "Eligibility",
+      "confidence": 0.5002501606941223,
+      "similarities": {
+        "ContextObjective": 0.38993126153945923,
+        "BenefitsAssistance": 0.4467884302139282,
+        "Eligibility": 0.5002501606941223,
+        "ApplicationProcess": 0.42708757519721985,
+        "TimelineFrequency": 0.42128974199295044,
+        "AuthoritiesGovernance": 0.4202778935432434,
+        "DefinitionsReferences": 0.43788301944732666
+      }
+    },
+    {
+      "sentence": "The Death Assistance Scheme is a crucial safety net for families facing the sudden loss of income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4930049180984497,
+      "similarities": {
+        "ContextObjective": 0.43975722789764404,
+        "BenefitsAssistance": 0.4930049180984497,
+        "Eligibility": 0.4531534016132355,
+        "ApplicationProcess": 0.36008280515670776,
+        "TimelineFrequency": 0.35081905126571655,
+        "AuthoritiesGovernance": 0.3426927924156189,
+        "DefinitionsReferences": 0.31901127099990845
+      }
+    },
+    {
+      "sentence": "In addition to the Death Assistance Scheme, the Building and Other Construction Workers Welfare Board offers various other welfare schemes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4825485646724701,
+      "similarities": {
+        "ContextObjective": 0.47119295597076416,
+        "BenefitsAssistance": 0.4825485646724701,
+        "Eligibility": 0.44666925072669983,
+        "ApplicationProcess": 0.39862996339797974,
+        "TimelineFrequency": 0.41644302010536194,
+        "AuthoritiesGovernance": 0.41799306869506836,
+        "DefinitionsReferences": 0.4058040380477905
+      }
+    },
+    {
+      "sentence": "These include schemes for medical assistance, education for children, and housing assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6025992035865784,
+      "similarities": {
+        "ContextObjective": 0.531341552734375,
+        "BenefitsAssistance": 0.6025992035865784,
+        "Eligibility": 0.5270079374313354,
+        "ApplicationProcess": 0.48292094469070435,
+        "TimelineFrequency": 0.49228158593177795,
+        "AuthoritiesGovernance": 0.47230100631713867,
+        "DefinitionsReferences": 0.4510347247123718
+      }
+    },
+    {
+      "sentence": "The Death Assistance Scheme specifically addresses the immediate financial needs of families in distress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5208781361579895,
+      "similarities": {
+        "ContextObjective": 0.4699375033378601,
+        "BenefitsAssistance": 0.5208781361579895,
+        "Eligibility": 0.4777460992336273,
+        "ApplicationProcess": 0.3850337266921997,
+        "TimelineFrequency": 0.3784519135951996,
+        "AuthoritiesGovernance": 0.37064260244369507,
+        "DefinitionsReferences": 0.3131408989429474
+      }
+    },
+    {
+      "sentence": "The scheme is funded by the contributions made by the registered construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4683329164981842,
+      "similarities": {
+        "ContextObjective": 0.4683329164981842,
+        "BenefitsAssistance": 0.4510280191898346,
+        "Eligibility": 0.44546785950660706,
+        "ApplicationProcess": 0.4115942716598511,
+        "TimelineFrequency": 0.3711123466491699,
+        "AuthoritiesGovernance": 0.3942721486091614,
+        "DefinitionsReferences": 0.35314640402793884
+      }
+    },
+    {
+      "sentence": "Workers contribute a small percentage of their earnings to the welfare fund.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48319894075393677,
+      "similarities": {
+        "ContextObjective": 0.3824012577533722,
+        "BenefitsAssistance": 0.48319894075393677,
+        "Eligibility": 0.4288429915904999,
+        "ApplicationProcess": 0.338217169046402,
+        "TimelineFrequency": 0.3334220051765442,
+        "AuthoritiesGovernance": 0.39863985776901245,
+        "DefinitionsReferences": 0.31168174743652344
+      }
+    },
+    {
+      "sentence": "This fund is then utilized to provide benefits under various schemes, including the Death Assistance Scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5295113325119019,
+      "similarities": {
+        "ContextObjective": 0.4799785614013672,
+        "BenefitsAssistance": 0.5295113325119019,
+        "Eligibility": 0.4919888973236084,
+        "ApplicationProcess": 0.39778196811676025,
+        "TimelineFrequency": 0.39968782663345337,
+        "AuthoritiesGovernance": 0.42208391427993774,
+        "DefinitionsReferences": 0.38175350427627563
+      }
+    },
+    {
+      "sentence": "The scheme has been positively received by the construction worker community.",
+      "role": "ContextObjective",
+      "confidence": 0.4793630838394165,
+      "similarities": {
+        "ContextObjective": 0.4793630838394165,
+        "BenefitsAssistance": 0.38655996322631836,
+        "Eligibility": 0.4072592854499817,
+        "ApplicationProcess": 0.39494937658309937,
+        "TimelineFrequency": 0.34851717948913574,
+        "AuthoritiesGovernance": 0.37942731380462646,
+        "DefinitionsReferences": 0.34296271204948425
+      }
+    },
+    {
+      "sentence": "Many families have benefited from the financial assistance during difficult times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5664666295051575,
+      "similarities": {
+        "ContextObjective": 0.4509524405002594,
+        "BenefitsAssistance": 0.5664666295051575,
+        "Eligibility": 0.5141714811325073,
+        "ApplicationProcess": 0.41196903586387634,
+        "TimelineFrequency": 0.41274815797805786,
+        "AuthoritiesGovernance": 0.40623342990875244,
+        "DefinitionsReferences": 0.407707542181015
+      }
+    },
+    {
+      "sentence": "The assistance helps families to manage their financial obligations without falling into debt.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5554465055465698,
+      "similarities": {
+        "ContextObjective": 0.4232385456562042,
+        "BenefitsAssistance": 0.5554465055465698,
+        "Eligibility": 0.5012857913970947,
+        "ApplicationProcess": 0.43694645166397095,
+        "TimelineFrequency": 0.4086195230484009,
+        "AuthoritiesGovernance": 0.38757526874542236,
+        "DefinitionsReferences": 0.37593191862106323
+      }
+    },
+    {
+      "sentence": "The scheme also raises awareness about the importance of registration with the Building and Other Construction Workers Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.46868595480918884,
+      "similarities": {
+        "ContextObjective": 0.46868595480918884,
+        "BenefitsAssistance": 0.4029461145401001,
+        "Eligibility": 0.4232153296470642,
+        "ApplicationProcess": 0.42777711153030396,
+        "TimelineFrequency": 0.3878675699234009,
+        "AuthoritiesGovernance": 0.35187986493110657,
+        "DefinitionsReferences": 0.3490520715713501
+      }
+    },
+    {
+      "sentence": "Registered workers are eligible for various benefits that can provide support in times of need.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6205803155899048,
+      "similarities": {
+        "ContextObjective": 0.4994092881679535,
+        "BenefitsAssistance": 0.6205803155899048,
+        "Eligibility": 0.5846165418624878,
+        "ApplicationProcess": 0.49738630652427673,
+        "TimelineFrequency": 0.5257550477981567,
+        "AuthoritiesGovernance": 0.4883723258972168,
+        "DefinitionsReferences": 0.4993390440940857
+      }
+    },
+    {
+      "sentence": "The government continues to promote the scheme to ensure that more families are aware of the available assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.5046801567077637,
+      "similarities": {
+        "ContextObjective": 0.5046801567077637,
+        "BenefitsAssistance": 0.49357467889785767,
+        "Eligibility": 0.47315412759780884,
+        "ApplicationProcess": 0.4451636075973511,
+        "TimelineFrequency": 0.40093255043029785,
+        "AuthoritiesGovernance": 0.4540475606918335,
+        "DefinitionsReferences": 0.4000311493873596
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to educate workers about the benefits of registration and the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5032291412353516,
+      "similarities": {
+        "ContextObjective": 0.47072550654411316,
+        "BenefitsAssistance": 0.46193721890449524,
+        "Eligibility": 0.4970492124557495,
+        "ApplicationProcess": 0.5032291412353516,
+        "TimelineFrequency": 0.47659382224082947,
+        "AuthoritiesGovernance": 0.4571453928947449,
+        "DefinitionsReferences": 0.42071467638015747
+      }
+    },
+    {
+      "sentence": "The scheme is part of the government's broader commitment to improving the welfare of workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4517718553543091,
+      "similarities": {
+        "ContextObjective": 0.4517718553543091,
+        "BenefitsAssistance": 0.4026087522506714,
+        "Eligibility": 0.4186411499977112,
+        "ApplicationProcess": 0.3863111138343811,
+        "TimelineFrequency": 0.3530387282371521,
+        "AuthoritiesGovernance": 0.4420926570892334,
+        "DefinitionsReferences": 0.35988080501556396
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that no family is left without support in the event of a worker's death.",
+      "role": "Eligibility",
+      "confidence": 0.500169038772583,
+      "similarities": {
+        "ContextObjective": 0.457883358001709,
+        "BenefitsAssistance": 0.4849748909473419,
+        "Eligibility": 0.500169038772583,
+        "ApplicationProcess": 0.4390791654586792,
+        "TimelineFrequency": 0.3704574704170227,
+        "AuthoritiesGovernance": 0.43473637104034424,
+        "DefinitionsReferences": 0.412222683429718
+      }
+    },
+    {
+      "sentence": "The Death Assistance Scheme is a testament to this commitment.",
+      "role": "ContextObjective",
+      "confidence": 0.4477916359901428,
+      "similarities": {
+        "ContextObjective": 0.4477916359901428,
+        "BenefitsAssistance": 0.4428940415382385,
+        "Eligibility": 0.43090692162513733,
+        "ApplicationProcess": 0.3846483826637268,
+        "TimelineFrequency": 0.35250335931777954,
+        "AuthoritiesGovernance": 0.3580774962902069,
+        "DefinitionsReferences": 0.35448601841926575
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing timely financial assistance to families in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5414620637893677,
+      "similarities": {
+        "ContextObjective": 0.5414620637893677,
+        "BenefitsAssistance": 0.5358458161354065,
+        "Eligibility": 0.5033535361289978,
+        "ApplicationProcess": 0.4315558671951294,
+        "TimelineFrequency": 0.43312665820121765,
+        "AuthoritiesGovernance": 0.4125556945800781,
+        "DefinitionsReferences": 0.3742303252220154
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to ensure its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5477074384689331,
+      "similarities": {
+        "ContextObjective": 0.5477074384689331,
+        "BenefitsAssistance": 0.4760008454322815,
+        "Eligibility": 0.5459806323051453,
+        "ApplicationProcess": 0.5317422151565552,
+        "TimelineFrequency": 0.473150372505188,
+        "AuthoritiesGovernance": 0.511587381362915,
+        "DefinitionsReferences": 0.46878430247306824
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account for improvements.",
+      "role": "Eligibility",
+      "confidence": 0.5518271923065186,
+      "similarities": {
+        "ContextObjective": 0.499980628490448,
+        "BenefitsAssistance": 0.5518150925636292,
+        "Eligibility": 0.5518271923065186,
+        "ApplicationProcess": 0.4830554127693176,
+        "TimelineFrequency": 0.46611881256103516,
+        "AuthoritiesGovernance": 0.5280376672744751,
+        "DefinitionsReferences": 0.4734509587287903
+      }
+    },
+    {
+      "sentence": "The scheme is an essential component of the social safety net for construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.448707640171051,
+      "similarities": {
+        "ContextObjective": 0.448707640171051,
+        "BenefitsAssistance": 0.4305645823478699,
+        "Eligibility": 0.43553557991981506,
+        "ApplicationProcess": 0.38771283626556396,
+        "TimelineFrequency": 0.3491894602775574,
+        "AuthoritiesGovernance": 0.3607817590236664,
+        "DefinitionsReferences": 0.32767823338508606
+      }
+    },
+    {
+      "sentence": "It underscores the importance of supporting vulnerable populations in the workforce.",
+      "role": "Eligibility",
+      "confidence": 0.452319473028183,
+      "similarities": {
+        "ContextObjective": 0.41656893491744995,
+        "BenefitsAssistance": 0.4297676086425781,
+        "Eligibility": 0.452319473028183,
+        "ApplicationProcess": 0.34401318430900574,
+        "TimelineFrequency": 0.37898945808410645,
+        "AuthoritiesGovernance": 0.36817821860313416,
+        "DefinitionsReferences": 0.3580954074859619
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the scheme can make a significant difference in the lives of bereaved families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.530718207359314,
+      "similarities": {
+        "ContextObjective": 0.4673386812210083,
+        "BenefitsAssistance": 0.530718207359314,
+        "Eligibility": 0.4603831470012665,
+        "ApplicationProcess": 0.3837343454360962,
+        "TimelineFrequency": 0.38207340240478516,
+        "AuthoritiesGovernance": 0.3566662669181824,
+        "DefinitionsReferences": 0.352817565202713
+      }
+    },
+    {
+      "sentence": "It helps them to cope with the immediate aftermath of a loss.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45873624086380005,
+      "similarities": {
+        "ContextObjective": 0.4568033218383789,
+        "BenefitsAssistance": 0.45873624086380005,
+        "Eligibility": 0.4056072235107422,
+        "ApplicationProcess": 0.36990153789520264,
+        "TimelineFrequency": 0.3904404938220978,
+        "AuthoritiesGovernance": 0.4062758982181549,
+        "DefinitionsReferences": 0.39243215322494507
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's recognition of the risks faced by construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.47425809502601624,
+      "similarities": {
+        "ContextObjective": 0.43765297532081604,
+        "BenefitsAssistance": 0.43073877692222595,
+        "Eligibility": 0.47425809502601624,
+        "ApplicationProcess": 0.4375818967819214,
+        "TimelineFrequency": 0.3986034393310547,
+        "AuthoritiesGovernance": 0.38601720333099365,
+        "DefinitionsReferences": 0.37320247292518616
+      }
+    },
+    {
+      "sentence": "It also highlights the importance of social security measures in protecting workers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4895784258842468,
+      "similarities": {
+        "ContextObjective": 0.39469414949417114,
+        "BenefitsAssistance": 0.4895784258842468,
+        "Eligibility": 0.440957248210907,
+        "ApplicationProcess": 0.382399320602417,
+        "TimelineFrequency": 0.3504864573478699,
+        "AuthoritiesGovernance": 0.3385942578315735,
+        "DefinitionsReferences": 0.38979679346084595
+      }
+    },
+    {
+      "sentence": "In conclusion, the Death Assistance Scheme is a vital welfare initiative aimed at supporting the families of deceased construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4848731458187103,
+      "similarities": {
+        "ContextObjective": 0.4848731458187103,
+        "BenefitsAssistance": 0.3954956829547882,
+        "Eligibility": 0.4175181984901428,
+        "ApplicationProcess": 0.3735864758491516,
+        "TimelineFrequency": 0.33969977498054504,
+        "AuthoritiesGovernance": 0.36593496799468994,
+        "DefinitionsReferences": 0.31737154722213745
+      }
+    },
+    {
+      "sentence": "It provides essential financial assistance during a time of crisis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5730636119842529,
+      "similarities": {
+        "ContextObjective": 0.47571200132369995,
+        "BenefitsAssistance": 0.5730636119842529,
+        "Eligibility": 0.4879969656467438,
+        "ApplicationProcess": 0.4448719620704651,
+        "TimelineFrequency": 0.4395487606525421,
+        "AuthoritiesGovernance": 0.41930294036865234,
+        "DefinitionsReferences": 0.4173327088356018
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be accessible and straightforward for families to navigate.",
+      "role": "ContextObjective",
+      "confidence": 0.5582240223884583,
+      "similarities": {
+        "ContextObjective": 0.5582240223884583,
+        "BenefitsAssistance": 0.5128158926963806,
+        "Eligibility": 0.5345552563667297,
+        "ApplicationProcess": 0.521070122718811,
+        "TimelineFrequency": 0.46455785632133484,
+        "AuthoritiesGovernance": 0.4585457444190979,
+        "DefinitionsReferences": 0.42716270685195923
+      }
+    },
+    {
+      "sentence": "With a clear application process and defined eligibility criteria, the scheme aims to ensure that help reaches those who need it most.",
+      "role": "Eligibility",
+      "confidence": 0.6401994824409485,
+      "similarities": {
+        "ContextObjective": 0.5745417475700378,
+        "BenefitsAssistance": 0.4827095866203308,
+        "Eligibility": 0.6401994824409485,
+        "ApplicationProcess": 0.5513281226158142,
+        "TimelineFrequency": 0.48883605003356934,
+        "AuthoritiesGovernance": 0.4531131982803345,
+        "DefinitionsReferences": 0.3804028332233429
+      }
+    },
+    {
+      "sentence": "The government remains committed to enhancing the welfare of construction workers and their families through such initiatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4398914873600006,
+      "similarities": {
+        "ContextObjective": 0.3813057839870453,
+        "BenefitsAssistance": 0.3870287835597992,
+        "Eligibility": 0.38379085063934326,
+        "ApplicationProcess": 0.35477694869041443,
+        "TimelineFrequency": 0.3231096863746643,
+        "AuthoritiesGovernance": 0.4398914873600006,
+        "DefinitionsReferences": 0.3717331886291504
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 16,
+    "Eligibility": 12,
+    "BenefitsAssistance": 18,
+    "ApplicationProcess": 11,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-24T21:05:56.374652"
+}

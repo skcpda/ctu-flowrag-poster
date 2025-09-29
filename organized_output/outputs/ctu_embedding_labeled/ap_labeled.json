@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Artisan Promotion",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Artisan Promotion Scheme is a significant initiative launched by the Government of India to support and uplift traditional artisans and craftspeople across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5192424058914185,
+      "similarities": {
+        "ContextObjective": 0.5192424058914185,
+        "BenefitsAssistance": 0.41865718364715576,
+        "Eligibility": 0.4568709433078766,
+        "ApplicationProcess": 0.41649049520492554,
+        "TimelineFrequency": 0.3925955295562744,
+        "AuthoritiesGovernance": 0.43784964084625244,
+        "DefinitionsReferences": 0.3828642666339874
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in 2014 under the Ministry of Textiles.",
+      "role": "ContextObjective",
+      "confidence": 0.517443060874939,
+      "similarities": {
+        "ContextObjective": 0.517443060874939,
+        "BenefitsAssistance": 0.39038217067718506,
+        "Eligibility": 0.4105871915817261,
+        "ApplicationProcess": 0.4418210983276367,
+        "TimelineFrequency": 0.3973878026008606,
+        "AuthoritiesGovernance": 0.403043657541275,
+        "DefinitionsReferences": 0.3216755986213684
+      }
+    },
+    {
+      "sentence": "The primary objective of the Artisan Promotion Scheme is to enhance the livelihood of artisans by providing them with necessary skills, resources, and market access.",
+      "role": "ContextObjective",
+      "confidence": 0.5196430683135986,
+      "similarities": {
+        "ContextObjective": 0.5196430683135986,
+        "BenefitsAssistance": 0.39437949657440186,
+        "Eligibility": 0.4465934932231903,
+        "ApplicationProcess": 0.41528451442718506,
+        "TimelineFrequency": 0.38822388648986816,
+        "AuthoritiesGovernance": 0.41910213232040405,
+        "DefinitionsReferences": 0.37415117025375366
+      }
+    },
+    {
+      "sentence": "The scheme aims to promote traditional crafts and ensure that artisans receive fair compensation for their work.",
+      "role": "ContextObjective",
+      "confidence": 0.48192405700683594,
+      "similarities": {
+        "ContextObjective": 0.48192405700683594,
+        "BenefitsAssistance": 0.4133754372596741,
+        "Eligibility": 0.44624045491218567,
+        "ApplicationProcess": 0.43282362818717957,
+        "TimelineFrequency": 0.3974916338920593,
+        "AuthoritiesGovernance": 0.43412381410598755,
+        "DefinitionsReferences": 0.34846413135528564
+      }
+    },
+    {
+      "sentence": "One of the measurable targets of the scheme is to increase the income of artisans by at least 30 percent within three years of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.4731970429420471,
+      "similarities": {
+        "ContextObjective": 0.4731970429420471,
+        "BenefitsAssistance": 0.39639559388160706,
+        "Eligibility": 0.41466546058654785,
+        "ApplicationProcess": 0.3544532358646393,
+        "TimelineFrequency": 0.36886686086654663,
+        "AuthoritiesGovernance": 0.37090498208999634,
+        "DefinitionsReferences": 0.31297850608825684
+      }
+    },
+    {
+      "sentence": "The scheme also seeks to create sustainable employment opportunities for artisans, particularly in rural and semi-urban areas.",
+      "role": "ContextObjective",
+      "confidence": 0.4903099834918976,
+      "similarities": {
+        "ContextObjective": 0.4903099834918976,
+        "BenefitsAssistance": 0.3623000979423523,
+        "Eligibility": 0.46581801772117615,
+        "ApplicationProcess": 0.41887128353118896,
+        "TimelineFrequency": 0.3946166932582855,
+        "AuthoritiesGovernance": 0.3736504912376404,
+        "DefinitionsReferences": 0.32571613788604736
+      }
+    },
+    {
+      "sentence": "The benefits of the Artisan Promotion Scheme include financial assistance, skill development training, and marketing support for artisans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.506332516670227,
+      "similarities": {
+        "ContextObjective": 0.4232378900051117,
+        "BenefitsAssistance": 0.506332516670227,
+        "Eligibility": 0.41900569200515747,
+        "ApplicationProcess": 0.37872177362442017,
+        "TimelineFrequency": 0.3853294253349304,
+        "AuthoritiesGovernance": 0.3705230951309204,
+        "DefinitionsReferences": 0.3960322141647339
+      }
+    },
+    {
+      "sentence": "Artisans can receive up to INR 1 lakh as a one-time financial assistance to purchase tools and equipment necessary for their craft.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5094542503356934,
+      "similarities": {
+        "ContextObjective": 0.38344866037368774,
+        "BenefitsAssistance": 0.5094542503356934,
+        "Eligibility": 0.45857852697372437,
+        "ApplicationProcess": 0.42406028509140015,
+        "TimelineFrequency": 0.39199990034103394,
+        "AuthoritiesGovernance": 0.3765221834182739,
+        "DefinitionsReferences": 0.3713234066963196
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme provides a monthly stipend of INR 3,000 for artisans undergoing skill development training.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4202134907245636,
+      "similarities": {
+        "ContextObjective": 0.3979910910129547,
+        "BenefitsAssistance": 0.4202134907245636,
+        "Eligibility": 0.4075847268104553,
+        "ApplicationProcess": 0.3641437292098999,
+        "TimelineFrequency": 0.3578268885612488,
+        "AuthoritiesGovernance": 0.3564988970756531,
+        "DefinitionsReferences": 0.32602155208587646
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme also facilitates access to raw materials at subsidized rates, which can reduce production costs for artisans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43296608328819275,
+      "similarities": {
+        "ContextObjective": 0.3600551187992096,
+        "BenefitsAssistance": 0.43296608328819275,
+        "Eligibility": 0.3753850758075714,
+        "ApplicationProcess": 0.3724862337112427,
+        "TimelineFrequency": 0.3899058997631073,
+        "AuthoritiesGovernance": 0.33094000816345215,
+        "DefinitionsReferences": 0.3491407632827759
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Artisan Promotion Scheme include being a traditional artisan or craftsperson engaged in a recognized craft.",
+      "role": "Eligibility",
+      "confidence": 0.5418300628662109,
+      "similarities": {
+        "ContextObjective": 0.4552892744541168,
+        "BenefitsAssistance": 0.37861472368240356,
+        "Eligibility": 0.5418300628662109,
+        "ApplicationProcess": 0.48385462164878845,
+        "TimelineFrequency": 0.436781644821167,
+        "AuthoritiesGovernance": 0.38409489393234253,
+        "DefinitionsReferences": 0.3882063627243042
+      }
+    },
+    {
+      "sentence": "Applicants must be at least 18 years of age and should not exceed 60 years of age.",
+      "role": "Eligibility",
+      "confidence": 0.6414769887924194,
+      "similarities": {
+        "ContextObjective": 0.4685250520706177,
+        "BenefitsAssistance": 0.484960675239563,
+        "Eligibility": 0.6414769887924194,
+        "ApplicationProcess": 0.5971020460128784,
+        "TimelineFrequency": 0.5645014643669128,
+        "AuthoritiesGovernance": 0.4307224452495575,
+        "DefinitionsReferences": 0.41999679803848267
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at INR 2 lakh per annum for the artisan's family.",
+      "role": "Eligibility",
+      "confidence": 0.5292325615882874,
+      "similarities": {
+        "ContextObjective": 0.3633939027786255,
+        "BenefitsAssistance": 0.4328168034553528,
+        "Eligibility": 0.5292325615882874,
+        "ApplicationProcess": 0.4086274206638336,
+        "TimelineFrequency": 0.37289881706237793,
+        "AuthoritiesGovernance": 0.3284696936607361,
+        "DefinitionsReferences": 0.32963186502456665
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not a strict requirement, as the scheme is designed to support traditional skills rather than formal education.",
+      "role": "ContextObjective",
+      "confidence": 0.47233349084854126,
+      "similarities": {
+        "ContextObjective": 0.47233349084854126,
+        "BenefitsAssistance": 0.38889598846435547,
+        "Eligibility": 0.4228389263153076,
+        "ApplicationProcess": 0.4229181408882141,
+        "TimelineFrequency": 0.3855740427970886,
+        "AuthoritiesGovernance": 0.3640740215778351,
+        "DefinitionsReferences": 0.36085498332977295
+      }
+    },
+    {
+      "sentence": "The application process for the Artisan Promotion Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6657623648643494,
+      "similarities": {
+        "ContextObjective": 0.5585960149765015,
+        "BenefitsAssistance": 0.4757636785507202,
+        "Eligibility": 0.57628333568573,
+        "ApplicationProcess": 0.6657623648643494,
+        "TimelineFrequency": 0.5797345638275146,
+        "AuthoritiesGovernance": 0.47311273217201233,
+        "DefinitionsReferences": 0.48011523485183716
+      }
+    },
+    {
+      "sentence": "Interested artisans must first register on the official website of the Ministry of Textiles.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5116266012191772,
+      "similarities": {
+        "ContextObjective": 0.404291033744812,
+        "BenefitsAssistance": 0.37986889481544495,
+        "Eligibility": 0.45175251364707947,
+        "ApplicationProcess": 0.5116266012191772,
+        "TimelineFrequency": 0.41452786326408386,
+        "AuthoritiesGovernance": 0.411874383687973,
+        "DefinitionsReferences": 0.3656305968761444
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form and provide necessary documents such as proof of identity, proof of residence, and details of the craft they are involved in.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7148358821868896,
+      "similarities": {
+        "ContextObjective": 0.4982536733150482,
+        "BenefitsAssistance": 0.5231435298919678,
+        "Eligibility": 0.5851905345916748,
+        "ApplicationProcess": 0.7148358821868896,
+        "TimelineFrequency": 0.5387824773788452,
+        "AuthoritiesGovernance": 0.4730178117752075,
+        "DefinitionsReferences": 0.4990437626838684
+      }
+    },
+    {
+      "sentence": "Documents required include an Aadhar card, bank account details, and any certificates related to the craft.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6130979061126709,
+      "similarities": {
+        "ContextObjective": 0.44033220410346985,
+        "BenefitsAssistance": 0.5581595301628113,
+        "Eligibility": 0.5140087604522705,
+        "ApplicationProcess": 0.6130979061126709,
+        "TimelineFrequency": 0.4826272130012512,
+        "AuthoritiesGovernance": 0.4308062493801117,
+        "DefinitionsReferences": 0.5223462581634521
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the designated authorities at the local level.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6143325567245483,
+      "similarities": {
+        "ContextObjective": 0.4838946461677551,
+        "BenefitsAssistance": 0.4154128432273865,
+        "Eligibility": 0.5645490288734436,
+        "ApplicationProcess": 0.6143325567245483,
+        "TimelineFrequency": 0.5291662216186523,
+        "AuthoritiesGovernance": 0.5054319500923157,
+        "DefinitionsReferences": 0.4712059497833252
+      }
+    },
+    {
+      "sentence": "Artisans may be required to attend an interview or provide additional information if necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5773105621337891,
+      "similarities": {
+        "ContextObjective": 0.4523898959159851,
+        "BenefitsAssistance": 0.5235037803649902,
+        "Eligibility": 0.5524969696998596,
+        "ApplicationProcess": 0.5773105621337891,
+        "TimelineFrequency": 0.5110272169113159,
+        "AuthoritiesGovernance": 0.4866112470626831,
+        "DefinitionsReferences": 0.4509356915950775
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications typically ranges from 30 to 60 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6661196947097778,
+      "similarities": {
+        "ContextObjective": 0.48389381170272827,
+        "BenefitsAssistance": 0.4792368412017822,
+        "Eligibility": 0.5509811043739319,
+        "ApplicationProcess": 0.6123565435409546,
+        "TimelineFrequency": 0.6661196947097778,
+        "AuthoritiesGovernance": 0.4778752028942108,
+        "DefinitionsReferences": 0.46359729766845703
+      }
+    },
+    {
+      "sentence": "Disbursement of financial assistance occurs within two weeks of application approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5949983596801758,
+      "similarities": {
+        "ContextObjective": 0.46244701743125916,
+        "BenefitsAssistance": 0.5949983596801758,
+        "Eligibility": 0.5440242290496826,
+        "ApplicationProcess": 0.5041688680648804,
+        "TimelineFrequency": 0.5463733077049255,
+        "AuthoritiesGovernance": 0.4695582389831543,
+        "DefinitionsReferences": 0.40979522466659546
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme is implemented by the Ministry of Textiles in collaboration with various state governments and local bodies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5089603662490845,
+      "similarities": {
+        "ContextObjective": 0.4507872462272644,
+        "BenefitsAssistance": 0.4189679026603699,
+        "Eligibility": 0.43531590700149536,
+        "ApplicationProcess": 0.4228479266166687,
+        "TimelineFrequency": 0.4133278727531433,
+        "AuthoritiesGovernance": 0.5089603662490845,
+        "DefinitionsReferences": 0.4061599671840668
+      }
+    },
+    {
+      "sentence": "The National Handicrafts Development Programme is one of the key implementing agencies for this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.547067403793335,
+      "similarities": {
+        "ContextObjective": 0.46012091636657715,
+        "BenefitsAssistance": 0.394479900598526,
+        "Eligibility": 0.45121094584465027,
+        "ApplicationProcess": 0.4318045675754547,
+        "TimelineFrequency": 0.3882051706314087,
+        "AuthoritiesGovernance": 0.547067403793335,
+        "DefinitionsReferences": 0.4036051630973816
+      }
+    },
+    {
+      "sentence": "Contact details for the Ministry of Textiles can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5084728598594666,
+      "similarities": {
+        "ContextObjective": 0.42398369312286377,
+        "BenefitsAssistance": 0.46181923151016235,
+        "Eligibility": 0.42341381311416626,
+        "ApplicationProcess": 0.4777330160140991,
+        "TimelineFrequency": 0.4170679748058319,
+        "AuthoritiesGovernance": 0.5084728598594666,
+        "DefinitionsReferences": 0.44870394468307495
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of preserving traditional crafts and promoting them on national and international platforms.",
+      "role": "ContextObjective",
+      "confidence": 0.4957791566848755,
+      "similarities": {
+        "ContextObjective": 0.4957791566848755,
+        "BenefitsAssistance": 0.36312398314476013,
+        "Eligibility": 0.42636650800704956,
+        "ApplicationProcess": 0.4274091422557831,
+        "TimelineFrequency": 0.36902040243148804,
+        "AuthoritiesGovernance": 0.369456946849823,
+        "DefinitionsReferences": 0.3872565031051636
+      }
+    },
+    {
+      "sentence": "Artisans are encouraged to participate in exhibitions and trade fairs organized by the government to showcase their work.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.43819284439086914,
+      "similarities": {
+        "ContextObjective": 0.4331398010253906,
+        "BenefitsAssistance": 0.3899954557418823,
+        "Eligibility": 0.4114951491355896,
+        "ApplicationProcess": 0.41811099648475647,
+        "TimelineFrequency": 0.4013350009918213,
+        "AuthoritiesGovernance": 0.43819284439086914,
+        "DefinitionsReferences": 0.4002755284309387
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme has seen participation from over 50,000 artisans since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.4363897442817688,
+      "similarities": {
+        "ContextObjective": 0.4363897442817688,
+        "BenefitsAssistance": 0.3656807541847229,
+        "Eligibility": 0.37623685598373413,
+        "ApplicationProcess": 0.37240704894065857,
+        "TimelineFrequency": 0.34574317932128906,
+        "AuthoritiesGovernance": 0.36017462611198425,
+        "DefinitionsReferences": 0.32629045844078064
+      }
+    },
+    {
+      "sentence": "In 2022 alone, the scheme provided financial assistance to approximately 10,000 artisans across various states.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4635579288005829,
+      "similarities": {
+        "ContextObjective": 0.40643227100372314,
+        "BenefitsAssistance": 0.4635579288005829,
+        "Eligibility": 0.4551463723182678,
+        "ApplicationProcess": 0.3551143407821655,
+        "TimelineFrequency": 0.3672001361846924,
+        "AuthoritiesGovernance": 0.38252782821655273,
+        "DefinitionsReferences": 0.33993083238601685
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 200 crore for the Artisan Promotion Scheme for the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.439209520816803,
+      "similarities": {
+        "ContextObjective": 0.439209520816803,
+        "BenefitsAssistance": 0.42762893438339233,
+        "Eligibility": 0.4241546392440796,
+        "ApplicationProcess": 0.3757617473602295,
+        "TimelineFrequency": 0.3889715373516083,
+        "AuthoritiesGovernance": 0.3819693922996521,
+        "DefinitionsReferences": 0.35805416107177734
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create a digital platform for artisans to sell their products directly to consumers.",
+      "role": "ContextObjective",
+      "confidence": 0.49315696954727173,
+      "similarities": {
+        "ContextObjective": 0.49315696954727173,
+        "BenefitsAssistance": 0.3841373026371002,
+        "Eligibility": 0.397928386926651,
+        "ApplicationProcess": 0.4325098991394043,
+        "TimelineFrequency": 0.3491191864013672,
+        "AuthoritiesGovernance": 0.3441252112388611,
+        "DefinitionsReferences": 0.320385217666626
+      }
+    },
+    {
+      "sentence": "This digital initiative is expected to increase the market reach of artisans and improve their income.",
+      "role": "ContextObjective",
+      "confidence": 0.4116804599761963,
+      "similarities": {
+        "ContextObjective": 0.4116804599761963,
+        "BenefitsAssistance": 0.40186595916748047,
+        "Eligibility": 0.37748271226882935,
+        "ApplicationProcess": 0.3764331638813019,
+        "TimelineFrequency": 0.3325897455215454,
+        "AuthoritiesGovernance": 0.35659611225128174,
+        "DefinitionsReferences": 0.3402460813522339
+      }
+    },
+    {
+      "sentence": "Training programs under the scheme are conducted in collaboration with various skill development organizations.",
+      "role": "ContextObjective",
+      "confidence": 0.4901914596557617,
+      "similarities": {
+        "ContextObjective": 0.4901914596557617,
+        "BenefitsAssistance": 0.4152083992958069,
+        "Eligibility": 0.4395751953125,
+        "ApplicationProcess": 0.4027790129184723,
+        "TimelineFrequency": 0.41444528102874756,
+        "AuthoritiesGovernance": 0.4851130545139313,
+        "DefinitionsReferences": 0.4244099259376526
+      }
+    },
+    {
+      "sentence": "These programs focus on enhancing the quality of crafts and introducing modern techniques to traditional artisans.",
+      "role": "ApplicationProcess",
+      "confidence": 0.3983931243419647,
+      "similarities": {
+        "ContextObjective": 0.3867638111114502,
+        "BenefitsAssistance": 0.3525521159172058,
+        "Eligibility": 0.36860191822052,
+        "ApplicationProcess": 0.3983931243419647,
+        "TimelineFrequency": 0.36758750677108765,
+        "AuthoritiesGovernance": 0.3887959122657776,
+        "DefinitionsReferences": 0.36075741052627563
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme also includes provisions for providing design support to artisans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4783030152320862,
+      "similarities": {
+        "ContextObjective": 0.43843796849250793,
+        "BenefitsAssistance": 0.4783030152320862,
+        "Eligibility": 0.43881767988204956,
+        "ApplicationProcess": 0.3959847092628479,
+        "TimelineFrequency": 0.38352757692337036,
+        "AuthoritiesGovernance": 0.37395668029785156,
+        "DefinitionsReferences": 0.3909718096256256
+      }
+    },
+    {
+      "sentence": "This design support helps artisans create products that are more appealing to contemporary consumers.",
+      "role": "ContextObjective",
+      "confidence": 0.4087333083152771,
+      "similarities": {
+        "ContextObjective": 0.4087333083152771,
+        "BenefitsAssistance": 0.4060962200164795,
+        "Eligibility": 0.3691859245300293,
+        "ApplicationProcess": 0.3734515607357025,
+        "TimelineFrequency": 0.367245078086853,
+        "AuthoritiesGovernance": 0.35447800159454346,
+        "DefinitionsReferences": 0.3437671363353729
+      }
+    },
+    {
+      "sentence": "The government has partnered with various NGOs and cooperatives to ensure effective implementation of the scheme at the grassroots level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5788519382476807,
+      "similarities": {
+        "ContextObjective": 0.5008995532989502,
+        "BenefitsAssistance": 0.4515458345413208,
+        "Eligibility": 0.4775320291519165,
+        "ApplicationProcess": 0.4360019564628601,
+        "TimelineFrequency": 0.380043625831604,
+        "AuthoritiesGovernance": 0.5788519382476807,
+        "DefinitionsReferences": 0.45146438479423523
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme are conducted regularly to assess its impact on the livelihoods of artisans.",
+      "role": "Eligibility",
+      "confidence": 0.4593536853790283,
+      "similarities": {
+        "ContextObjective": 0.4507221579551697,
+        "BenefitsAssistance": 0.45899486541748047,
+        "Eligibility": 0.4593536853790283,
+        "ApplicationProcess": 0.4278230667114258,
+        "TimelineFrequency": 0.42123401165008545,
+        "AuthoritiesGovernance": 0.4520639181137085,
+        "DefinitionsReferences": 0.39356377720832825
+      }
+    },
+    {
+      "sentence": "Feedback from artisans is collected to make necessary adjustments to the scheme for better outcomes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.512180507183075,
+      "similarities": {
+        "ContextObjective": 0.45250093936920166,
+        "BenefitsAssistance": 0.45612120628356934,
+        "Eligibility": 0.4488700032234192,
+        "ApplicationProcess": 0.45754486322402954,
+        "TimelineFrequency": 0.4260590374469757,
+        "AuthoritiesGovernance": 0.512180507183075,
+        "DefinitionsReferences": 0.42343300580978394
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme is part of the broader initiative to promote 'Make in India' and 'Atmanirbhar Bharat' (self-reliant India).",
+      "role": "ContextObjective",
+      "confidence": 0.47083914279937744,
+      "similarities": {
+        "ContextObjective": 0.47083914279937744,
+        "BenefitsAssistance": 0.37870529294013977,
+        "Eligibility": 0.39176690578460693,
+        "ApplicationProcess": 0.3752702474594116,
+        "TimelineFrequency": 0.3498545289039612,
+        "AuthoritiesGovernance": 0.357384592294693,
+        "DefinitionsReferences": 0.3433515429496765
+      }
+    },
+    {
+      "sentence": "By focusing on traditional crafts, the government aims to boost the rural economy and create sustainable livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.43057239055633545,
+      "similarities": {
+        "ContextObjective": 0.43057239055633545,
+        "BenefitsAssistance": 0.3489524722099304,
+        "Eligibility": 0.3553004860877991,
+        "ApplicationProcess": 0.3563883900642395,
+        "TimelineFrequency": 0.32614392042160034,
+        "AuthoritiesGovernance": 0.4078388810157776,
+        "DefinitionsReferences": 0.35158973932266235
+      }
+    },
+    {
+      "sentence": "The scheme also plays a crucial role in promoting cultural heritage and preserving traditional crafts that are at risk of fading away.",
+      "role": "ContextObjective",
+      "confidence": 0.46880537271499634,
+      "similarities": {
+        "ContextObjective": 0.46880537271499634,
+        "BenefitsAssistance": 0.3403538763523102,
+        "Eligibility": 0.41037824749946594,
+        "ApplicationProcess": 0.4090862572193146,
+        "TimelineFrequency": 0.3774028420448303,
+        "AuthoritiesGovernance": 0.35065317153930664,
+        "DefinitionsReferences": 0.3443354368209839
+      }
+    },
+    {
+      "sentence": "Artisans are encouraged to form cooperatives to enhance their bargaining power and access to markets.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.42112207412719727,
+      "similarities": {
+        "ContextObjective": 0.4173962473869324,
+        "BenefitsAssistance": 0.41111570596694946,
+        "Eligibility": 0.40980520844459534,
+        "ApplicationProcess": 0.3903028070926666,
+        "TimelineFrequency": 0.38259947299957275,
+        "AuthoritiesGovernance": 0.42112207412719727,
+        "DefinitionsReferences": 0.3845202624797821
+      }
+    },
+    {
+      "sentence": "The government provides support for the establishment of these cooperatives, including training in management and marketing.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4771592617034912,
+      "similarities": {
+        "ContextObjective": 0.4574078619480133,
+        "BenefitsAssistance": 0.45815616846084595,
+        "Eligibility": 0.4287475347518921,
+        "ApplicationProcess": 0.3986991345882416,
+        "TimelineFrequency": 0.38841837644577026,
+        "AuthoritiesGovernance": 0.4771592617034912,
+        "DefinitionsReferences": 0.439101904630661
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme is aligned with the Sustainable Development Goals set by the United Nations, particularly in promoting decent work and economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.4445728063583374,
+      "similarities": {
+        "ContextObjective": 0.4445728063583374,
+        "BenefitsAssistance": 0.36768344044685364,
+        "Eligibility": 0.40054887533187866,
+        "ApplicationProcess": 0.35948896408081055,
+        "TimelineFrequency": 0.35174453258514404,
+        "AuthoritiesGovernance": 0.379699170589447,
+        "DefinitionsReferences": 0.34235143661499023
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various stakeholders, including artisans, NGOs, and industry experts.",
+      "role": "ContextObjective",
+      "confidence": 0.5214936137199402,
+      "similarities": {
+        "ContextObjective": 0.5214936137199402,
+        "BenefitsAssistance": 0.43876829743385315,
+        "Eligibility": 0.4577130675315857,
+        "ApplicationProcess": 0.4086154103279114,
+        "TimelineFrequency": 0.38044893741607666,
+        "AuthoritiesGovernance": 0.4387072026729584,
+        "DefinitionsReferences": 0.4027489423751831
+      }
+    },
+    {
+      "sentence": "Artisans have reported increased income and better market access as a result of the support provided under this scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4777074158191681,
+      "similarities": {
+        "ContextObjective": 0.4299977421760559,
+        "BenefitsAssistance": 0.4777074158191681,
+        "Eligibility": 0.4088994264602661,
+        "ApplicationProcess": 0.38312193751335144,
+        "TimelineFrequency": 0.3337585926055908,
+        "AuthoritiesGovernance": 0.35473713278770447,
+        "DefinitionsReferences": 0.3769819736480713
+      }
+    },
+    {
+      "sentence": "The government continues to explore new avenues for enhancing the effectiveness of the Artisan Promotion Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.48414164781570435,
+      "similarities": {
+        "ContextObjective": 0.48414164781570435,
+        "BenefitsAssistance": 0.3976975679397583,
+        "Eligibility": 0.42261242866516113,
+        "ApplicationProcess": 0.4271126389503479,
+        "TimelineFrequency": 0.3949539065361023,
+        "AuthoritiesGovernance": 0.4724297523498535,
+        "DefinitionsReferences": 0.4235282838344574
+      }
+    },
+    {
+      "sentence": "This includes leveraging technology for better marketing and distribution of artisan products.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.40759867429733276,
+      "similarities": {
+        "ContextObjective": 0.39676910638809204,
+        "BenefitsAssistance": 0.40759867429733276,
+        "Eligibility": 0.3874989151954651,
+        "ApplicationProcess": 0.38763993978500366,
+        "TimelineFrequency": 0.35732293128967285,
+        "AuthoritiesGovernance": 0.39133545756340027,
+        "DefinitionsReferences": 0.4033970236778259
+      }
+    },
+    {
+      "sentence": "The Artisan Promotion Scheme represents a significant step towards empowering traditional artisans and ensuring their economic sustainability.",
+      "role": "ContextObjective",
+      "confidence": 0.4451112151145935,
+      "similarities": {
+        "ContextObjective": 0.4451112151145935,
+        "BenefitsAssistance": 0.38233351707458496,
+        "Eligibility": 0.3870851695537567,
+        "ApplicationProcess": 0.37880808115005493,
+        "TimelineFrequency": 0.3386625051498413,
+        "AuthoritiesGovernance": 0.38209080696105957,
+        "DefinitionsReferences": 0.34888672828674316
+      }
+    },
+    {
+      "sentence": "By providing targeted support and resources, the scheme aims to create a thriving ecosystem for artisans in India.",
+      "role": "ContextObjective",
+      "confidence": 0.510784387588501,
+      "similarities": {
+        "ContextObjective": 0.510784387588501,
+        "BenefitsAssistance": 0.39596259593963623,
+        "Eligibility": 0.4734707772731781,
+        "ApplicationProcess": 0.3748616576194763,
+        "TimelineFrequency": 0.3676970601081848,
+        "AuthoritiesGovernance": 0.3930731415748596,
+        "DefinitionsReferences": 0.3603907823562622
+      }
+    },
+    {
+      "sentence": "The government remains committed to the welfare of artisans and will continue to invest in their development through initiatives like the Artisan Promotion Scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4219977855682373,
+      "similarities": {
+        "ContextObjective": 0.3747764229774475,
+        "BenefitsAssistance": 0.3853800296783447,
+        "Eligibility": 0.3760170042514801,
+        "ApplicationProcess": 0.3498229384422302,
+        "TimelineFrequency": 0.32033389806747437,
+        "AuthoritiesGovernance": 0.4219977855682373,
+        "DefinitionsReferences": 0.357931911945343
+      }
+    },
+    {
+      "sentence": "Overall, the Artisan Promotion Scheme is a comprehensive approach to uplift artisans and promote traditional crafts in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48152413964271545,
+      "similarities": {
+        "ContextObjective": 0.48152413964271545,
+        "BenefitsAssistance": 0.41085535287857056,
+        "Eligibility": 0.42050060629844666,
+        "ApplicationProcess": 0.41655677556991577,
+        "TimelineFrequency": 0.3866739571094513,
+        "AuthoritiesGovernance": 0.4224928319454193,
+        "DefinitionsReferences": 0.37799912691116333
+      }
+    },
+    {
+      "sentence": "It combines financial assistance, skill development, and market access to create a sustainable livelihood for artisans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4646047055721283,
+      "similarities": {
+        "ContextObjective": 0.4296343922615051,
+        "BenefitsAssistance": 0.4646047055721283,
+        "Eligibility": 0.43018507957458496,
+        "ApplicationProcess": 0.40014755725860596,
+        "TimelineFrequency": 0.36373788118362427,
+        "AuthoritiesGovernance": 0.38607922196388245,
+        "DefinitionsReferences": 0.3478853106498718
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to preserving India's rich cultural heritage while promoting economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.45533883571624756,
+      "similarities": {
+        "ContextObjective": 0.45533883571624756,
+        "BenefitsAssistance": 0.36706238985061646,
+        "Eligibility": 0.3797880709171295,
+        "ApplicationProcess": 0.382298082113266,
+        "TimelineFrequency": 0.3284109830856323,
+        "AuthoritiesGovernance": 0.3093660771846771,
+        "DefinitionsReferences": 0.3559979796409607
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "BenefitsAssistance": 10,
+    "Eligibility": 4,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 9
+  },
+  "processing_timestamp": "2025-09-25T20:32:18.723290"
+}

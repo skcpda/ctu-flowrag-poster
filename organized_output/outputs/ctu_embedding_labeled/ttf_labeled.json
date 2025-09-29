@@ -1,0 +1,996 @@
+{
+  "scheme_name": "Training to Farmers",
+  "total_sentences": 70,
+  "labeled_sentences": [
+    {
+      "sentence": "The \"Training to Farmers\" scheme is an initiative launched by the Government of India to enhance the skills and knowledge of farmers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5266902446746826,
+      "similarities": {
+        "ContextObjective": 0.5266902446746826,
+        "BenefitsAssistance": 0.38478243350982666,
+        "Eligibility": 0.4634213149547577,
+        "ApplicationProcess": 0.40794503688812256,
+        "TimelineFrequency": 0.40714436769485474,
+        "AuthoritiesGovernance": 0.46463972330093384,
+        "DefinitionsReferences": 0.39793825149536133
+      }
+    },
+    {
+      "sentence": "This scheme aims to improve agricultural productivity and ensure sustainable farming practices.",
+      "role": "ContextObjective",
+      "confidence": 0.5467240214347839,
+      "similarities": {
+        "ContextObjective": 0.5467240214347839,
+        "BenefitsAssistance": 0.40214622020721436,
+        "Eligibility": 0.4427306354045868,
+        "ApplicationProcess": 0.4544966220855713,
+        "TimelineFrequency": 0.42408061027526855,
+        "AuthoritiesGovernance": 0.43364307284355164,
+        "DefinitionsReferences": 0.3854074478149414
+      }
+    },
+    {
+      "sentence": "The initiative was officially launched in 2014 as part of the National Mission on Agricultural Extension and Technology.",
+      "role": "ContextObjective",
+      "confidence": 0.4557127356529236,
+      "similarities": {
+        "ContextObjective": 0.4557127356529236,
+        "BenefitsAssistance": 0.31713563203811646,
+        "Eligibility": 0.39321935176849365,
+        "ApplicationProcess": 0.4023779034614563,
+        "TimelineFrequency": 0.342906653881073,
+        "AuthoritiesGovernance": 0.3838890492916107,
+        "DefinitionsReferences": 0.3118321895599365
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide farmers with the necessary training to adopt modern agricultural techniques.",
+      "role": "ContextObjective",
+      "confidence": 0.5406041145324707,
+      "similarities": {
+        "ContextObjective": 0.5406041145324707,
+        "BenefitsAssistance": 0.3623533546924591,
+        "Eligibility": 0.45525920391082764,
+        "ApplicationProcess": 0.4569828510284424,
+        "TimelineFrequency": 0.39657068252563477,
+        "AuthoritiesGovernance": 0.4263487458229065,
+        "DefinitionsReferences": 0.3735176622867584
+      }
+    },
+    {
+      "sentence": "The government aims to train approximately 1.5 crore farmers by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.4301157593727112,
+      "similarities": {
+        "ContextObjective": 0.4301157593727112,
+        "BenefitsAssistance": 0.3501417636871338,
+        "Eligibility": 0.39030081033706665,
+        "ApplicationProcess": 0.36782369017601013,
+        "TimelineFrequency": 0.37444138526916504,
+        "AuthoritiesGovernance": 0.40947017073631287,
+        "DefinitionsReferences": 0.33183127641677856
+      }
+    },
+    {
+      "sentence": "This training will cover various aspects of agriculture including crop management, pest control, and sustainable farming practices.",
+      "role": "TimelineFrequency",
+      "confidence": 0.47906312346458435,
+      "similarities": {
+        "ContextObjective": 0.45459842681884766,
+        "BenefitsAssistance": 0.4734020233154297,
+        "Eligibility": 0.46000492572784424,
+        "ApplicationProcess": 0.45829248428344727,
+        "TimelineFrequency": 0.47906312346458435,
+        "AuthoritiesGovernance": 0.4560704231262207,
+        "DefinitionsReferences": 0.470699667930603
+      }
+    },
+    {
+      "sentence": "The scheme also focuses on promoting the use of technology in agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.5149410963058472,
+      "similarities": {
+        "ContextObjective": 0.5149410963058472,
+        "BenefitsAssistance": 0.3820933699607849,
+        "Eligibility": 0.42635077238082886,
+        "ApplicationProcess": 0.43565502762794495,
+        "TimelineFrequency": 0.4021906852722168,
+        "AuthoritiesGovernance": 0.37296831607818604,
+        "DefinitionsReferences": 0.39333364367485046
+      }
+    },
+    {
+      "sentence": "Farmers will be trained on the use of mobile applications and other digital tools that can assist in farming.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4221976697444916,
+      "similarities": {
+        "ContextObjective": 0.3982051610946655,
+        "BenefitsAssistance": 0.3874949812889099,
+        "Eligibility": 0.41099125146865845,
+        "ApplicationProcess": 0.4173947870731354,
+        "TimelineFrequency": 0.4130883514881134,
+        "AuthoritiesGovernance": 0.4221976697444916,
+        "DefinitionsReferences": 0.4038960337638855
+      }
+    },
+    {
+      "sentence": "The benefits of the scheme include increased crop yields and improved income for farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.47463780641555786,
+      "similarities": {
+        "ContextObjective": 0.47463780641555786,
+        "BenefitsAssistance": 0.4485730528831482,
+        "Eligibility": 0.43361830711364746,
+        "ApplicationProcess": 0.37095755338668823,
+        "TimelineFrequency": 0.3783265948295593,
+        "AuthoritiesGovernance": 0.36019936203956604,
+        "DefinitionsReferences": 0.352520614862442
+      }
+    },
+    {
+      "sentence": "Farmers who participate in the training can expect to see an increase in productivity by up to 30 percent.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.36313319206237793,
+      "similarities": {
+        "ContextObjective": 0.359266459941864,
+        "BenefitsAssistance": 0.3232722580432892,
+        "Eligibility": 0.3444901704788208,
+        "ApplicationProcess": 0.3048775792121887,
+        "TimelineFrequency": 0.3150024712085724,
+        "AuthoritiesGovernance": 0.36313319206237793,
+        "DefinitionsReferences": 0.3187309503555298
+      }
+    },
+    {
+      "sentence": "The training sessions are designed to be practical and hands-on.",
+      "role": "ContextObjective",
+      "confidence": 0.47513315081596375,
+      "similarities": {
+        "ContextObjective": 0.47513315081596375,
+        "BenefitsAssistance": 0.43095171451568604,
+        "Eligibility": 0.44579049944877625,
+        "ApplicationProcess": 0.46790724992752075,
+        "TimelineFrequency": 0.4563741683959961,
+        "AuthoritiesGovernance": 0.46293509006500244,
+        "DefinitionsReferences": 0.4667162299156189
+      }
+    },
+    {
+      "sentence": "Farmers will have the opportunity to learn directly from agricultural experts and experienced practitioners.",
+      "role": "Eligibility",
+      "confidence": 0.4485383629798889,
+      "similarities": {
+        "ContextObjective": 0.42801719903945923,
+        "BenefitsAssistance": 0.36825108528137207,
+        "Eligibility": 0.4485383629798889,
+        "ApplicationProcess": 0.39807382225990295,
+        "TimelineFrequency": 0.3901771306991577,
+        "AuthoritiesGovernance": 0.42826569080352783,
+        "DefinitionsReferences": 0.389257550239563
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of organic farming and sustainable practices.",
+      "role": "ContextObjective",
+      "confidence": 0.5070935487747192,
+      "similarities": {
+        "ContextObjective": 0.5070935487747192,
+        "BenefitsAssistance": 0.4068298935890198,
+        "Eligibility": 0.4098397195339203,
+        "ApplicationProcess": 0.4331241846084595,
+        "TimelineFrequency": 0.38804805278778076,
+        "AuthoritiesGovernance": 0.35548579692840576,
+        "DefinitionsReferences": 0.40102386474609375
+      }
+    },
+    {
+      "sentence": "Farmers will be educated on the benefits of organic fertilizers and pesticides.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.40698927640914917,
+      "similarities": {
+        "ContextObjective": 0.4008423388004303,
+        "BenefitsAssistance": 0.40698927640914917,
+        "Eligibility": 0.40385085344314575,
+        "ApplicationProcess": 0.369586706161499,
+        "TimelineFrequency": 0.34994012117385864,
+        "AuthoritiesGovernance": 0.3685450553894043,
+        "DefinitionsReferences": 0.3847811222076416
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the scheme are quite inclusive.",
+      "role": "Eligibility",
+      "confidence": 0.6798475980758667,
+      "similarities": {
+        "ContextObjective": 0.6030827760696411,
+        "BenefitsAssistance": 0.5610772371292114,
+        "Eligibility": 0.6798475980758667,
+        "ApplicationProcess": 0.5505909323692322,
+        "TimelineFrequency": 0.5503839254379272,
+        "AuthoritiesGovernance": 0.42669638991355896,
+        "DefinitionsReferences": 0.4597925543785095
+      }
+    },
+    {
+      "sentence": "Any farmer who is a resident of India can apply for the training.",
+      "role": "Eligibility",
+      "confidence": 0.5393463373184204,
+      "similarities": {
+        "ContextObjective": 0.3931044936180115,
+        "BenefitsAssistance": 0.3453051745891571,
+        "Eligibility": 0.5393463373184204,
+        "ApplicationProcess": 0.4746040105819702,
+        "TimelineFrequency": 0.40971270203590393,
+        "AuthoritiesGovernance": 0.38627108931541443,
+        "DefinitionsReferences": 0.3455653190612793
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for participation in the training programs.",
+      "role": "Eligibility",
+      "confidence": 0.45209720730781555,
+      "similarities": {
+        "ContextObjective": 0.3787706792354584,
+        "BenefitsAssistance": 0.3460236191749573,
+        "Eligibility": 0.45209720730781555,
+        "ApplicationProcess": 0.35590294003486633,
+        "TimelineFrequency": 0.3862917125225067,
+        "AuthoritiesGovernance": 0.357286274433136,
+        "DefinitionsReferences": 0.3054182529449463
+      }
+    },
+    {
+      "sentence": "However, preference may be given to small and marginal farmers.",
+      "role": "Eligibility",
+      "confidence": 0.43926823139190674,
+      "similarities": {
+        "ContextObjective": 0.3888567090034485,
+        "BenefitsAssistance": 0.3560316562652588,
+        "Eligibility": 0.43926823139190674,
+        "ApplicationProcess": 0.3432733416557312,
+        "TimelineFrequency": 0.35958635807037354,
+        "AuthoritiesGovernance": 0.3707870841026306,
+        "DefinitionsReferences": 0.32462799549102783
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6248906850814819,
+      "similarities": {
+        "ContextObjective": 0.5111405849456787,
+        "BenefitsAssistance": 0.47189027070999146,
+        "Eligibility": 0.5617039203643799,
+        "ApplicationProcess": 0.6248906850814819,
+        "TimelineFrequency": 0.5460981130599976,
+        "AuthoritiesGovernance": 0.43740105628967285,
+        "DefinitionsReferences": 0.43209201097488403
+      }
+    },
+    {
+      "sentence": "Farmers can apply through the official website of the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "ApplicationProcess",
+      "confidence": 0.561604917049408,
+      "similarities": {
+        "ContextObjective": 0.4587206244468689,
+        "BenefitsAssistance": 0.4303903579711914,
+        "Eligibility": 0.5602924823760986,
+        "ApplicationProcess": 0.561604917049408,
+        "TimelineFrequency": 0.4761533737182617,
+        "AuthoritiesGovernance": 0.45497652888298035,
+        "DefinitionsReferences": 0.40721726417541504
+      }
+    },
+    {
+      "sentence": "They can also visit local agricultural extension offices to obtain information about upcoming training sessions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48098376393318176,
+      "similarities": {
+        "ContextObjective": 0.40092045068740845,
+        "BenefitsAssistance": 0.40192359685897827,
+        "Eligibility": 0.4522840976715088,
+        "ApplicationProcess": 0.4467144012451172,
+        "TimelineFrequency": 0.4583110213279724,
+        "AuthoritiesGovernance": 0.48098376393318176,
+        "DefinitionsReferences": 0.44115474820137024
+      }
+    },
+    {
+      "sentence": "Required documents typically include proof of identity and land ownership.",
+      "role": "ApplicationProcess",
+      "confidence": 0.622843861579895,
+      "similarities": {
+        "ContextObjective": 0.510708212852478,
+        "BenefitsAssistance": 0.546091616153717,
+        "Eligibility": 0.5616562962532043,
+        "ApplicationProcess": 0.622843861579895,
+        "TimelineFrequency": 0.5076000690460205,
+        "AuthoritiesGovernance": 0.46185436844825745,
+        "DefinitionsReferences": 0.5846394896507263
+      }
+    },
+    {
+      "sentence": "Farmers may also need to provide details about their current farming practices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5490870475769043,
+      "similarities": {
+        "ContextObjective": 0.48772814869880676,
+        "BenefitsAssistance": 0.5490870475769043,
+        "Eligibility": 0.5413615107536316,
+        "ApplicationProcess": 0.5374144911766052,
+        "TimelineFrequency": 0.486710786819458,
+        "AuthoritiesGovernance": 0.4803956151008606,
+        "DefinitionsReferences": 0.49449869990348816
+      }
+    },
+    {
+      "sentence": "The training programs are conducted at various locations across the country.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5517916679382324,
+      "similarities": {
+        "ContextObjective": 0.506861686706543,
+        "BenefitsAssistance": 0.45723801851272583,
+        "Eligibility": 0.5371010303497314,
+        "ApplicationProcess": 0.4778420627117157,
+        "TimelineFrequency": 0.5161839127540588,
+        "AuthoritiesGovernance": 0.5517916679382324,
+        "DefinitionsReferences": 0.4776913523674011
+      }
+    },
+    {
+      "sentence": "The frequency of training sessions varies by region but is generally held multiple times a year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5788096189498901,
+      "similarities": {
+        "ContextObjective": 0.4755975604057312,
+        "BenefitsAssistance": 0.4059803783893585,
+        "Eligibility": 0.46686190366744995,
+        "ApplicationProcess": 0.4263075888156891,
+        "TimelineFrequency": 0.5788096189498901,
+        "AuthoritiesGovernance": 0.46708279848098755,
+        "DefinitionsReferences": 0.4446549415588379
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crores for the implementation of this scheme in the fiscal year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.4965217411518097,
+      "similarities": {
+        "ContextObjective": 0.4965217411518097,
+        "BenefitsAssistance": 0.4651830792427063,
+        "Eligibility": 0.46083372831344604,
+        "ApplicationProcess": 0.4138369560241699,
+        "TimelineFrequency": 0.43358734250068665,
+        "AuthoritiesGovernance": 0.46998149156570435,
+        "DefinitionsReferences": 0.34926921129226685
+      }
+    },
+    {
+      "sentence": "Disbursement of funds for training programs is scheduled to occur quarterly.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5741677284240723,
+      "similarities": {
+        "ContextObjective": 0.4677596092224121,
+        "BenefitsAssistance": 0.5213606357574463,
+        "Eligibility": 0.4947134554386139,
+        "ApplicationProcess": 0.45290613174438477,
+        "TimelineFrequency": 0.5741677284240723,
+        "AuthoritiesGovernance": 0.5052167177200317,
+        "DefinitionsReferences": 0.4131075441837311
+      }
+    },
+    {
+      "sentence": "The implementing authority for the \"Training to Farmers\" scheme is the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5465521216392517,
+      "similarities": {
+        "ContextObjective": 0.4399832487106323,
+        "BenefitsAssistance": 0.35742634534835815,
+        "Eligibility": 0.45290619134902954,
+        "ApplicationProcess": 0.39578792452812195,
+        "TimelineFrequency": 0.36249175667762756,
+        "AuthoritiesGovernance": 0.5465521216392517,
+        "DefinitionsReferences": 0.38291501998901367
+      }
+    },
+    {
+      "sentence": "The Directorate of Extension is responsible for overseeing the training programs at the national level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5371285676956177,
+      "similarities": {
+        "ContextObjective": 0.4693148136138916,
+        "BenefitsAssistance": 0.3824306130409241,
+        "Eligibility": 0.4828765392303467,
+        "ApplicationProcess": 0.42660394310951233,
+        "TimelineFrequency": 0.42228400707244873,
+        "AuthoritiesGovernance": 0.5371285676956177,
+        "DefinitionsReferences": 0.4367596507072449
+      }
+    },
+    {
+      "sentence": "State agricultural universities and local agricultural departments also play a crucial role in executing the training.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5085017085075378,
+      "similarities": {
+        "ContextObjective": 0.3996174931526184,
+        "BenefitsAssistance": 0.36208873987197876,
+        "Eligibility": 0.42890769243240356,
+        "ApplicationProcess": 0.4053249955177307,
+        "TimelineFrequency": 0.38384711742401123,
+        "AuthoritiesGovernance": 0.5085017085075378,
+        "DefinitionsReferences": 0.4204493463039398
+      }
+    },
+    {
+      "sentence": "Farmers can contact their local agricultural extension officer for more information about the training schedule.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5087085962295532,
+      "similarities": {
+        "ContextObjective": 0.39559751749038696,
+        "BenefitsAssistance": 0.4071531891822815,
+        "Eligibility": 0.4511529505252838,
+        "ApplicationProcess": 0.43643254041671753,
+        "TimelineFrequency": 0.48023971915245056,
+        "AuthoritiesGovernance": 0.5087085962295532,
+        "DefinitionsReferences": 0.3900284171104431
+      }
+    },
+    {
+      "sentence": "The government also collaborates with various NGOs and agricultural organizations to enhance the outreach of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5131936073303223,
+      "similarities": {
+        "ContextObjective": 0.47809740900993347,
+        "BenefitsAssistance": 0.4154151678085327,
+        "Eligibility": 0.44146794080734253,
+        "ApplicationProcess": 0.39894962310791016,
+        "TimelineFrequency": 0.37192344665527344,
+        "AuthoritiesGovernance": 0.5131936073303223,
+        "DefinitionsReferences": 0.42827120423316956
+      }
+    },
+    {
+      "sentence": "In addition to training, the scheme provides farmers with access to resources and materials.",
+      "role": "ContextObjective",
+      "confidence": 0.4821122884750366,
+      "similarities": {
+        "ContextObjective": 0.4821122884750366,
+        "BenefitsAssistance": 0.44294464588165283,
+        "Eligibility": 0.47223353385925293,
+        "ApplicationProcess": 0.4332963526248932,
+        "TimelineFrequency": 0.43461325764656067,
+        "AuthoritiesGovernance": 0.43766915798187256,
+        "DefinitionsReferences": 0.4499436318874359
+      }
+    },
+    {
+      "sentence": "Farmers will receive manuals and guides that summarize the training content.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5294443368911743,
+      "similarities": {
+        "ContextObjective": 0.4696977734565735,
+        "BenefitsAssistance": 0.49041128158569336,
+        "Eligibility": 0.45381301641464233,
+        "ApplicationProcess": 0.4553808867931366,
+        "TimelineFrequency": 0.4605095684528351,
+        "AuthoritiesGovernance": 0.5044671297073364,
+        "DefinitionsReferences": 0.5294443368911743
+      }
+    },
+    {
+      "sentence": "These materials are designed to be user-friendly and easy to understand.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.521569013595581,
+      "similarities": {
+        "ContextObjective": 0.4773480296134949,
+        "BenefitsAssistance": 0.48832327127456665,
+        "Eligibility": 0.4472362995147705,
+        "ApplicationProcess": 0.4756060838699341,
+        "TimelineFrequency": 0.5045232772827148,
+        "AuthoritiesGovernance": 0.4282452166080475,
+        "DefinitionsReferences": 0.521569013595581
+      }
+    },
+    {
+      "sentence": "The scheme also promotes the establishment of farmer producer organizations.",
+      "role": "ContextObjective",
+      "confidence": 0.4831734895706177,
+      "similarities": {
+        "ContextObjective": 0.4831734895706177,
+        "BenefitsAssistance": 0.36228781938552856,
+        "Eligibility": 0.4206444025039673,
+        "ApplicationProcess": 0.3778333067893982,
+        "TimelineFrequency": 0.34415486454963684,
+        "AuthoritiesGovernance": 0.41210198402404785,
+        "DefinitionsReferences": 0.3557928204536438
+      }
+    },
+    {
+      "sentence": "These organizations help farmers to collectively market their produce.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4828141927719116,
+      "similarities": {
+        "ContextObjective": 0.4485020637512207,
+        "BenefitsAssistance": 0.42481476068496704,
+        "Eligibility": 0.42818325757980347,
+        "ApplicationProcess": 0.3852453827857971,
+        "TimelineFrequency": 0.37455570697784424,
+        "AuthoritiesGovernance": 0.4828141927719116,
+        "DefinitionsReferences": 0.4006345868110657
+      }
+    },
+    {
+      "sentence": "By participating in such organizations, farmers can increase their bargaining power.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.447174608707428,
+      "similarities": {
+        "ContextObjective": 0.3992920517921448,
+        "BenefitsAssistance": 0.3806193470954895,
+        "Eligibility": 0.40430474281311035,
+        "ApplicationProcess": 0.36095041036605835,
+        "TimelineFrequency": 0.3620370030403137,
+        "AuthoritiesGovernance": 0.447174608707428,
+        "DefinitionsReferences": 0.39417552947998047
+      }
+    },
+    {
+      "sentence": "The training program includes modules on financial literacy for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48180675506591797,
+      "similarities": {
+        "ContextObjective": 0.43166810274124146,
+        "BenefitsAssistance": 0.48180675506591797,
+        "Eligibility": 0.4442044794559479,
+        "ApplicationProcess": 0.39728042483329773,
+        "TimelineFrequency": 0.4021950960159302,
+        "AuthoritiesGovernance": 0.3829859495162964,
+        "DefinitionsReferences": 0.39119601249694824
+      }
+    },
+    {
+      "sentence": "Farmers will learn about managing finances and accessing credit facilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.546653687953949,
+      "similarities": {
+        "ContextObjective": 0.4420667290687561,
+        "BenefitsAssistance": 0.546653687953949,
+        "Eligibility": 0.5087066888809204,
+        "ApplicationProcess": 0.47829997539520264,
+        "TimelineFrequency": 0.4691299796104431,
+        "AuthoritiesGovernance": 0.4601365923881531,
+        "DefinitionsReferences": 0.45435377955436707
+      }
+    },
+    {
+      "sentence": "The scheme also encourages the adoption of climate-resilient farming practices.",
+      "role": "ContextObjective",
+      "confidence": 0.4449504017829895,
+      "similarities": {
+        "ContextObjective": 0.4449504017829895,
+        "BenefitsAssistance": 0.3520798683166504,
+        "Eligibility": 0.4038460850715637,
+        "ApplicationProcess": 0.3829400837421417,
+        "TimelineFrequency": 0.3370133638381958,
+        "AuthoritiesGovernance": 0.3489312529563904,
+        "DefinitionsReferences": 0.34328049421310425
+      }
+    },
+    {
+      "sentence": "Farmers will be trained on how to adapt to changing weather patterns.",
+      "role": "Eligibility",
+      "confidence": 0.47768983244895935,
+      "similarities": {
+        "ContextObjective": 0.42697790265083313,
+        "BenefitsAssistance": 0.39560621976852417,
+        "Eligibility": 0.47768983244895935,
+        "ApplicationProcess": 0.42713117599487305,
+        "TimelineFrequency": 0.4657435417175293,
+        "AuthoritiesGovernance": 0.4262116849422455,
+        "DefinitionsReferences": 0.3973349928855896
+      }
+    },
+    {
+      "sentence": "The government aims to create a network of trained farmers who can share knowledge with their peers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5036599636077881,
+      "similarities": {
+        "ContextObjective": 0.4939970076084137,
+        "BenefitsAssistance": 0.3632442355155945,
+        "Eligibility": 0.46726295351982117,
+        "ApplicationProcess": 0.40936222672462463,
+        "TimelineFrequency": 0.3831678032875061,
+        "AuthoritiesGovernance": 0.5036599636077881,
+        "DefinitionsReferences": 0.420850932598114
+      }
+    },
+    {
+      "sentence": "This peer-to-peer learning approach is expected to enhance the overall impact of the training.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4527442455291748,
+      "similarities": {
+        "ContextObjective": 0.45181456208229065,
+        "BenefitsAssistance": 0.38645243644714355,
+        "Eligibility": 0.40229904651641846,
+        "ApplicationProcess": 0.4019497334957123,
+        "TimelineFrequency": 0.38575804233551025,
+        "AuthoritiesGovernance": 0.4527442455291748,
+        "DefinitionsReferences": 0.41576796770095825
+      }
+    },
+    {
+      "sentence": "The scheme also includes a feedback mechanism to assess the effectiveness of the training.",
+      "role": "ContextObjective",
+      "confidence": 0.5010877847671509,
+      "similarities": {
+        "ContextObjective": 0.5010877847671509,
+        "BenefitsAssistance": 0.4092652499675751,
+        "Eligibility": 0.4503965377807617,
+        "ApplicationProcess": 0.4201492667198181,
+        "TimelineFrequency": 0.43340766429901123,
+        "AuthoritiesGovernance": 0.47337841987609863,
+        "DefinitionsReferences": 0.4119336009025574
+      }
+    },
+    {
+      "sentence": "Farmers will be encouraged to provide feedback on the training sessions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.448294073343277,
+      "similarities": {
+        "ContextObjective": 0.4184671640396118,
+        "BenefitsAssistance": 0.37493401765823364,
+        "Eligibility": 0.4120909869670868,
+        "ApplicationProcess": 0.39865097403526306,
+        "TimelineFrequency": 0.4071250259876251,
+        "AuthoritiesGovernance": 0.448294073343277,
+        "DefinitionsReferences": 0.3991779088973999
+      }
+    },
+    {
+      "sentence": "This feedback will be used to improve future training programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47982046008110046,
+      "similarities": {
+        "ContextObjective": 0.4741332232952118,
+        "BenefitsAssistance": 0.42368990182876587,
+        "Eligibility": 0.4344003200531006,
+        "ApplicationProcess": 0.42565762996673584,
+        "TimelineFrequency": 0.4651294946670532,
+        "AuthoritiesGovernance": 0.47982046008110046,
+        "DefinitionsReferences": 0.4488983452320099
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the training is relevant to the needs of farmers.",
+      "role": "Eligibility",
+      "confidence": 0.46827566623687744,
+      "similarities": {
+        "ContextObjective": 0.44226449728012085,
+        "BenefitsAssistance": 0.3652117848396301,
+        "Eligibility": 0.46827566623687744,
+        "ApplicationProcess": 0.4216318726539612,
+        "TimelineFrequency": 0.3883838951587677,
+        "AuthoritiesGovernance": 0.4554201066493988,
+        "DefinitionsReferences": 0.41649994254112244
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader strategy to achieve food security in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5446360111236572,
+      "similarities": {
+        "ContextObjective": 0.5446360111236572,
+        "BenefitsAssistance": 0.40290531516075134,
+        "Eligibility": 0.47268766164779663,
+        "ApplicationProcess": 0.4179336130619049,
+        "TimelineFrequency": 0.377265989780426,
+        "AuthoritiesGovernance": 0.4216562509536743,
+        "DefinitionsReferences": 0.3700690269470215
+      }
+    },
+    {
+      "sentence": "By enhancing the skills of farmers, the government aims to increase agricultural productivity.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4488983452320099,
+      "similarities": {
+        "ContextObjective": 0.4437180757522583,
+        "BenefitsAssistance": 0.364205002784729,
+        "Eligibility": 0.39085903763771057,
+        "ApplicationProcess": 0.3922269344329834,
+        "TimelineFrequency": 0.3831900358200073,
+        "AuthoritiesGovernance": 0.4488983452320099,
+        "DefinitionsReferences": 0.4039660394191742
+      }
+    },
+    {
+      "sentence": "This is crucial for meeting the food demands of a growing population.",
+      "role": "Eligibility",
+      "confidence": 0.466877818107605,
+      "similarities": {
+        "ContextObjective": 0.4404292404651642,
+        "BenefitsAssistance": 0.40900760889053345,
+        "Eligibility": 0.466877818107605,
+        "ApplicationProcess": 0.43537959456443787,
+        "TimelineFrequency": 0.42350277304649353,
+        "AuthoritiesGovernance": 0.38390201330184937,
+        "DefinitionsReferences": 0.3841403126716614
+      }
+    },
+    {
+      "sentence": "The training to farmers scheme is aligned with the Sustainable Development Goals.",
+      "role": "ContextObjective",
+      "confidence": 0.4967835545539856,
+      "similarities": {
+        "ContextObjective": 0.4967835545539856,
+        "BenefitsAssistance": 0.33655086159706116,
+        "Eligibility": 0.4340263605117798,
+        "ApplicationProcess": 0.3706154227256775,
+        "TimelineFrequency": 0.37089860439300537,
+        "AuthoritiesGovernance": 0.4193042516708374,
+        "DefinitionsReferences": 0.3617646098136902
+      }
+    },
+    {
+      "sentence": "It specifically targets goals related to zero hunger and sustainable agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.4982750713825226,
+      "similarities": {
+        "ContextObjective": 0.4982750713825226,
+        "BenefitsAssistance": 0.3723783791065216,
+        "Eligibility": 0.45282816886901855,
+        "ApplicationProcess": 0.38248568773269653,
+        "TimelineFrequency": 0.37989920377731323,
+        "AuthoritiesGovernance": 0.39056164026260376,
+        "DefinitionsReferences": 0.3510190546512604
+      }
+    },
+    {
+      "sentence": "The government is also exploring partnerships with international organizations for knowledge sharing.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5171482563018799,
+      "similarities": {
+        "ContextObjective": 0.4746280610561371,
+        "BenefitsAssistance": 0.42305439710617065,
+        "Eligibility": 0.45921218395233154,
+        "ApplicationProcess": 0.4128533601760864,
+        "TimelineFrequency": 0.3783150911331177,
+        "AuthoritiesGovernance": 0.5171482563018799,
+        "DefinitionsReferences": 0.4652014374732971
+      }
+    },
+    {
+      "sentence": "These partnerships aim to bring global best practices to Indian farmers.",
+      "role": "Eligibility",
+      "confidence": 0.42754578590393066,
+      "similarities": {
+        "ContextObjective": 0.42420363426208496,
+        "BenefitsAssistance": 0.31279826164245605,
+        "Eligibility": 0.42754578590393066,
+        "ApplicationProcess": 0.3582726716995239,
+        "TimelineFrequency": 0.3263404071331024,
+        "AuthoritiesGovernance": 0.3996197581291199,
+        "DefinitionsReferences": 0.3731309771537781
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from farmers who have participated in training sessions.",
+      "role": "ContextObjective",
+      "confidence": 0.47776347398757935,
+      "similarities": {
+        "ContextObjective": 0.47776347398757935,
+        "BenefitsAssistance": 0.3706609308719635,
+        "Eligibility": 0.4229784607887268,
+        "ApplicationProcess": 0.39179497957229614,
+        "TimelineFrequency": 0.36480528116226196,
+        "AuthoritiesGovernance": 0.40046030282974243,
+        "DefinitionsReferences": 0.3719721734523773
+      }
+    },
+    {
+      "sentence": "Many farmers report increased confidence in their farming practices after completing the training.",
+      "role": "ContextObjective",
+      "confidence": 0.39347177743911743,
+      "similarities": {
+        "ContextObjective": 0.39347177743911743,
+        "BenefitsAssistance": 0.34210988879203796,
+        "Eligibility": 0.3471364974975586,
+        "ApplicationProcess": 0.37964826822280884,
+        "TimelineFrequency": 0.31961488723754883,
+        "AuthoritiesGovernance": 0.35881441831588745,
+        "DefinitionsReferences": 0.37297725677490234
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring the progress of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5377883911132812,
+      "similarities": {
+        "ContextObjective": 0.5377883911132812,
+        "BenefitsAssistance": 0.4759300947189331,
+        "Eligibility": 0.4813738465309143,
+        "ApplicationProcess": 0.5184592604637146,
+        "TimelineFrequency": 0.4523971378803253,
+        "AuthoritiesGovernance": 0.5027860403060913,
+        "DefinitionsReferences": 0.44355863332748413
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact on farmers' productivity.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4461839199066162,
+      "similarities": {
+        "ContextObjective": 0.3753509521484375,
+        "BenefitsAssistance": 0.4346997141838074,
+        "Eligibility": 0.42705008387565613,
+        "ApplicationProcess": 0.4198046922683716,
+        "TimelineFrequency": 0.4461839199066162,
+        "AuthoritiesGovernance": 0.4300118684768677,
+        "DefinitionsReferences": 0.41666552424430847
+      }
+    },
+    {
+      "sentence": "The \"Training to Farmers\" scheme represents a significant investment in the future of Indian agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.4210902750492096,
+      "similarities": {
+        "ContextObjective": 0.4210902750492096,
+        "BenefitsAssistance": 0.33660703897476196,
+        "Eligibility": 0.3534518778324127,
+        "ApplicationProcess": 0.3111950159072876,
+        "TimelineFrequency": 0.3074096441268921,
+        "AuthoritiesGovernance": 0.309726357460022,
+        "DefinitionsReferences": 0.33025476336479187
+      }
+    },
+    {
+      "sentence": "By focusing on skill development, the government aims to empower farmers economically.",
+      "role": "ContextObjective",
+      "confidence": 0.4330495595932007,
+      "similarities": {
+        "ContextObjective": 0.4330495595932007,
+        "BenefitsAssistance": 0.3727800250053406,
+        "Eligibility": 0.40447938442230225,
+        "ApplicationProcess": 0.3691633641719818,
+        "TimelineFrequency": 0.3442703187465668,
+        "AuthoritiesGovernance": 0.41858428716659546,
+        "DefinitionsReferences": 0.3869153559207916
+      }
+    },
+    {
+      "sentence": "This empowerment is expected to lead to improved livelihoods for farming families across the country.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.43929293751716614,
+      "similarities": {
+        "ContextObjective": 0.4230383038520813,
+        "BenefitsAssistance": 0.38168203830718994,
+        "Eligibility": 0.4201269745826721,
+        "ApplicationProcess": 0.3208329677581787,
+        "TimelineFrequency": 0.3144557476043701,
+        "AuthoritiesGovernance": 0.43929293751716614,
+        "DefinitionsReferences": 0.3612367510795593
+      }
+    },
+    {
+      "sentence": "The scheme is a vital component of India's agricultural policy framework.",
+      "role": "ContextObjective",
+      "confidence": 0.5179567337036133,
+      "similarities": {
+        "ContextObjective": 0.5179567337036133,
+        "BenefitsAssistance": 0.39837875962257385,
+        "Eligibility": 0.4635675847530365,
+        "ApplicationProcess": 0.42466670274734497,
+        "TimelineFrequency": 0.39268362522125244,
+        "AuthoritiesGovernance": 0.4001379907131195,
+        "DefinitionsReferences": 0.3982071578502655
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to supporting the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4405752420425415,
+      "similarities": {
+        "ContextObjective": 0.4405752420425415,
+        "BenefitsAssistance": 0.4200330376625061,
+        "Eligibility": 0.41477805376052856,
+        "ApplicationProcess": 0.4032433331012726,
+        "TimelineFrequency": 0.3673343062400818,
+        "AuthoritiesGovernance": 0.40969035029411316,
+        "DefinitionsReferences": 0.4314175248146057
+      }
+    },
+    {
+      "sentence": "Overall, the \"Training to Farmers\" scheme is a comprehensive initiative aimed at transforming the agricultural landscape in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4593861699104309,
+      "similarities": {
+        "ContextObjective": 0.4593861699104309,
+        "BenefitsAssistance": 0.3256092667579651,
+        "Eligibility": 0.40087267756462097,
+        "ApplicationProcess": 0.3654143810272217,
+        "TimelineFrequency": 0.34956124424934387,
+        "AuthoritiesGovernance": 0.4024806320667267,
+        "DefinitionsReferences": 0.3422223925590515
+      }
+    },
+    {
+      "sentence": "Through targeted training and support, the government seeks to create a more resilient and productive farming community.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45949527621269226,
+      "similarities": {
+        "ContextObjective": 0.43909716606140137,
+        "BenefitsAssistance": 0.3663126230239868,
+        "Eligibility": 0.41359275579452515,
+        "ApplicationProcess": 0.3757220506668091,
+        "TimelineFrequency": 0.35750892758369446,
+        "AuthoritiesGovernance": 0.45949527621269226,
+        "DefinitionsReferences": 0.38692033290863037
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of this opportunity to enhance their skills and knowledge.",
+      "role": "ContextObjective",
+      "confidence": 0.4527570605278015,
+      "similarities": {
+        "ContextObjective": 0.4527570605278015,
+        "BenefitsAssistance": 0.3925178647041321,
+        "Eligibility": 0.44147631525993347,
+        "ApplicationProcess": 0.4130481481552124,
+        "TimelineFrequency": 0.4079490602016449,
+        "AuthoritiesGovernance": 0.38861703872680664,
+        "DefinitionsReferences": 0.4245643615722656
+      }
+    },
+    {
+      "sentence": "The success of the scheme will ultimately depend on the active participation of farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.48970815539360046,
+      "similarities": {
+        "ContextObjective": 0.48970815539360046,
+        "BenefitsAssistance": 0.3838827610015869,
+        "Eligibility": 0.4811408519744873,
+        "ApplicationProcess": 0.438926637172699,
+        "TimelineFrequency": 0.37739819288253784,
+        "AuthoritiesGovernance": 0.4270934462547302,
+        "DefinitionsReferences": 0.3492732048034668
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to providing the necessary resources and support for this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5014282464981079,
+      "similarities": {
+        "ContextObjective": 0.5014282464981079,
+        "BenefitsAssistance": 0.4708526134490967,
+        "Eligibility": 0.4665204882621765,
+        "ApplicationProcess": 0.4561779499053955,
+        "TimelineFrequency": 0.4037092924118042,
+        "AuthoritiesGovernance": 0.4933372139930725,
+        "DefinitionsReferences": 0.45901602506637573
+      }
+    },
+    {
+      "sentence": "By investing in farmer training, India aims to secure its agricultural future.",
+      "role": "ContextObjective",
+      "confidence": 0.45106375217437744,
+      "similarities": {
+        "ContextObjective": 0.45106375217437744,
+        "BenefitsAssistance": 0.3377799391746521,
+        "Eligibility": 0.4024300277233124,
+        "ApplicationProcess": 0.36160364747047424,
+        "TimelineFrequency": 0.3284395933151245,
+        "AuthoritiesGovernance": 0.38166552782058716,
+        "DefinitionsReferences": 0.35240769386291504
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 29,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 19,
+    "Eligibility": 9,
+    "BenefitsAssistance": 4,
+    "ApplicationProcess": 3,
+    "DefinitionsReferences": 2
+  },
+  "processing_timestamp": "2025-09-25T20:47:28.362578"
+}

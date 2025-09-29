@@ -1,0 +1,854 @@
+{
+  "scheme_name": "MMKY-Financial Assistance for New Boat, Engine, and Net",
+  "total_sentences": 60,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mukhyamantri Matsya Kalyan Yojana (MMKY) is a welfare scheme initiated by the Government of Madhya Pradesh aimed at enhancing the livelihood of fishermen in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4976857900619507,
+      "similarities": {
+        "ContextObjective": 0.4976857900619507,
+        "BenefitsAssistance": 0.44051963090896606,
+        "Eligibility": 0.48985329270362854,
+        "ApplicationProcess": 0.4222434163093567,
+        "TimelineFrequency": 0.42950281500816345,
+        "AuthoritiesGovernance": 0.43254733085632324,
+        "DefinitionsReferences": 0.3905690014362335
+      }
+    },
+    {
+      "sentence": "The scheme was launched on 1st April 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.6045759320259094,
+      "similarities": {
+        "ContextObjective": 0.6045759320259094,
+        "BenefitsAssistance": 0.46445831656455994,
+        "Eligibility": 0.5022769570350647,
+        "ApplicationProcess": 0.46723562479019165,
+        "TimelineFrequency": 0.4952831268310547,
+        "AuthoritiesGovernance": 0.42003369331359863,
+        "DefinitionsReferences": 0.3555011451244354
+      }
+    },
+    {
+      "sentence": "It was introduced to provide financial assistance to fishermen for purchasing new boats, engines, and fishing nets.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4884208142757416,
+      "similarities": {
+        "ContextObjective": 0.4192426800727844,
+        "BenefitsAssistance": 0.4884208142757416,
+        "Eligibility": 0.44519397616386414,
+        "ApplicationProcess": 0.40342313051223755,
+        "TimelineFrequency": 0.37657296657562256,
+        "AuthoritiesGovernance": 0.3798295855522156,
+        "DefinitionsReferences": 0.364145964384079
+      }
+    },
+    {
+      "sentence": "The primary objective of MMKY is to increase the income of fishermen by facilitating access to modern fishing equipment.",
+      "role": "ContextObjective",
+      "confidence": 0.4508245587348938,
+      "similarities": {
+        "ContextObjective": 0.4508245587348938,
+        "BenefitsAssistance": 0.37761127948760986,
+        "Eligibility": 0.37781381607055664,
+        "ApplicationProcess": 0.3747000992298126,
+        "TimelineFrequency": 0.32036980986595154,
+        "AuthoritiesGovernance": 0.3337414562702179,
+        "DefinitionsReferences": 0.32631927728652954
+      }
+    },
+    {
+      "sentence": "The scheme aims to improve the overall productivity of the fishing sector in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4698840379714966,
+      "similarities": {
+        "ContextObjective": 0.4698840379714966,
+        "BenefitsAssistance": 0.38757947087287903,
+        "Eligibility": 0.39014238119125366,
+        "ApplicationProcess": 0.3848152458667755,
+        "TimelineFrequency": 0.3700389266014099,
+        "AuthoritiesGovernance": 0.4036828875541687,
+        "DefinitionsReferences": 0.3303118050098419
+      }
+    },
+    {
+      "sentence": "The government has set a target to provide assistance to approximately 10,000 fishermen under this scheme annually.",
+      "role": "Eligibility",
+      "confidence": 0.49847495555877686,
+      "similarities": {
+        "ContextObjective": 0.4694451689720154,
+        "BenefitsAssistance": 0.43118488788604736,
+        "Eligibility": 0.49847495555877686,
+        "ApplicationProcess": 0.40314769744873047,
+        "TimelineFrequency": 0.3824392557144165,
+        "AuthoritiesGovernance": 0.396845281124115,
+        "DefinitionsReferences": 0.3484884202480316
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under MMKY is structured to cover a significant portion of the costs associated with acquiring new fishing boats, engines, and nets.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.540570855140686,
+      "similarities": {
+        "ContextObjective": 0.3981497287750244,
+        "BenefitsAssistance": 0.540570855140686,
+        "Eligibility": 0.44500732421875,
+        "ApplicationProcess": 0.4132426381111145,
+        "TimelineFrequency": 0.3966940641403198,
+        "AuthoritiesGovernance": 0.37235844135284424,
+        "DefinitionsReferences": 0.40129518508911133
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries can receive up to ₹1 lakh for purchasing a new fishing boat.",
+      "role": "Eligibility",
+      "confidence": 0.49627071619033813,
+      "similarities": {
+        "ContextObjective": 0.41169214248657227,
+        "BenefitsAssistance": 0.46252524852752686,
+        "Eligibility": 0.49627071619033813,
+        "ApplicationProcess": 0.3987902104854584,
+        "TimelineFrequency": 0.3452342748641968,
+        "AuthoritiesGovernance": 0.3249523937702179,
+        "DefinitionsReferences": 0.33226901292800903
+      }
+    },
+    {
+      "sentence": "For the purchase of a new engine, the assistance can go up to ₹50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5110412836074829,
+      "similarities": {
+        "ContextObjective": 0.43185076117515564,
+        "BenefitsAssistance": 0.5110412836074829,
+        "Eligibility": 0.4387405812740326,
+        "ApplicationProcess": 0.42752254009246826,
+        "TimelineFrequency": 0.39291733503341675,
+        "AuthoritiesGovernance": 0.3513880968093872,
+        "DefinitionsReferences": 0.376982182264328
+      }
+    },
+    {
+      "sentence": "Additionally, fishermen can receive up to ₹25,000 for purchasing fishing nets.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4564393162727356,
+      "similarities": {
+        "ContextObjective": 0.31479939818382263,
+        "BenefitsAssistance": 0.4564393162727356,
+        "Eligibility": 0.4088503122329712,
+        "ApplicationProcess": 0.34700626134872437,
+        "TimelineFrequency": 0.3260882496833801,
+        "AuthoritiesGovernance": 0.31070882081985474,
+        "DefinitionsReferences": 0.3502684235572815
+      }
+    },
+    {
+      "sentence": "This financial support is aimed at enabling fishermen to upgrade their equipment, thereby enhancing their fishing capacity and income potential.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4749869406223297,
+      "similarities": {
+        "ContextObjective": 0.4286767840385437,
+        "BenefitsAssistance": 0.4749869406223297,
+        "Eligibility": 0.42673319578170776,
+        "ApplicationProcess": 0.3794615864753723,
+        "TimelineFrequency": 0.35261011123657227,
+        "AuthoritiesGovernance": 0.3311923146247864,
+        "DefinitionsReferences": 0.3641250729560852
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the MMKY scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.6029097437858582,
+      "similarities": {
+        "ContextObjective": 0.5540781617164612,
+        "BenefitsAssistance": 0.45859724283218384,
+        "Eligibility": 0.6029097437858582,
+        "ApplicationProcess": 0.5131598114967346,
+        "TimelineFrequency": 0.4851798713207245,
+        "AuthoritiesGovernance": 0.3913809061050415,
+        "DefinitionsReferences": 0.4082787036895752
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5896622538566589,
+      "similarities": {
+        "ContextObjective": 0.45834505558013916,
+        "BenefitsAssistance": 0.4093993902206421,
+        "Eligibility": 0.5896622538566589,
+        "ApplicationProcess": 0.5452151298522949,
+        "TimelineFrequency": 0.49028509855270386,
+        "AuthoritiesGovernance": 0.4206381142139435,
+        "DefinitionsReferences": 0.3890303373336792
+      }
+    },
+    {
+      "sentence": "They must belong to the fishing community.",
+      "role": "Eligibility",
+      "confidence": 0.4187024235725403,
+      "similarities": {
+        "ContextObjective": 0.3773629367351532,
+        "BenefitsAssistance": 0.3393939137458801,
+        "Eligibility": 0.4187024235725403,
+        "ApplicationProcess": 0.3746802806854248,
+        "TimelineFrequency": 0.3352411389350891,
+        "AuthoritiesGovernance": 0.3613736927509308,
+        "DefinitionsReferences": 0.36025717854499817
+      }
+    },
+    {
+      "sentence": "The age of the applicant should be at least 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6245297193527222,
+      "similarities": {
+        "ContextObjective": 0.5133240222930908,
+        "BenefitsAssistance": 0.4976646304130554,
+        "Eligibility": 0.6245297193527222,
+        "ApplicationProcess": 0.6122758984565735,
+        "TimelineFrequency": 0.5763012170791626,
+        "AuthoritiesGovernance": 0.4370380938053131,
+        "DefinitionsReferences": 0.43523359298706055
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.553550660610199,
+      "similarities": {
+        "ContextObjective": 0.4173370897769928,
+        "BenefitsAssistance": 0.43030470609664917,
+        "Eligibility": 0.553550660610199,
+        "ApplicationProcess": 0.43465837836265564,
+        "TimelineFrequency": 0.4378731846809387,
+        "AuthoritiesGovernance": 0.35705387592315674,
+        "DefinitionsReferences": 0.3461036682128906
+      }
+    },
+    {
+      "sentence": "The applicant must have a valid fishing license issued by the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5888681411743164,
+      "similarities": {
+        "ContextObjective": 0.43782415986061096,
+        "BenefitsAssistance": 0.39830803871154785,
+        "Eligibility": 0.5617262721061707,
+        "ApplicationProcess": 0.5888681411743164,
+        "TimelineFrequency": 0.473673552274704,
+        "AuthoritiesGovernance": 0.4256986975669861,
+        "DefinitionsReferences": 0.42872652411460876
+      }
+    },
+    {
+      "sentence": "Furthermore, the applicant's annual income should not exceed ₹2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5605872869491577,
+      "similarities": {
+        "ContextObjective": 0.4219101667404175,
+        "BenefitsAssistance": 0.4819355010986328,
+        "Eligibility": 0.5605872869491577,
+        "ApplicationProcess": 0.5018638372421265,
+        "TimelineFrequency": 0.452070415019989,
+        "AuthoritiesGovernance": 0.35173356533050537,
+        "DefinitionsReferences": 0.3768393397331238
+      }
+    },
+    {
+      "sentence": "This income limit ensures that the assistance is targeted towards economically weaker sections of the fishing community.",
+      "role": "Eligibility",
+      "confidence": 0.46127232909202576,
+      "similarities": {
+        "ContextObjective": 0.3357829749584198,
+        "BenefitsAssistance": 0.38554227352142334,
+        "Eligibility": 0.46127232909202576,
+        "ApplicationProcess": 0.3107698857784271,
+        "TimelineFrequency": 0.3178631067276001,
+        "AuthoritiesGovernance": 0.32027775049209595,
+        "DefinitionsReferences": 0.2658655643463135
+      }
+    },
+    {
+      "sentence": "To apply for the MMKY scheme, interested beneficiaries must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6232700347900391,
+      "similarities": {
+        "ContextObjective": 0.5357308387756348,
+        "BenefitsAssistance": 0.4470621943473816,
+        "Eligibility": 0.6209243535995483,
+        "ApplicationProcess": 0.6232700347900391,
+        "TimelineFrequency": 0.5295372009277344,
+        "AuthoritiesGovernance": 0.43117010593414307,
+        "DefinitionsReferences": 0.39027172327041626
+      }
+    },
+    {
+      "sentence": "The first step is to obtain the application form from the local fisheries department office or the official government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6808195114135742,
+      "similarities": {
+        "ContextObjective": 0.4598287343978882,
+        "BenefitsAssistance": 0.4348105490207672,
+        "Eligibility": 0.5171442031860352,
+        "ApplicationProcess": 0.6808195114135742,
+        "TimelineFrequency": 0.5060532689094543,
+        "AuthoritiesGovernance": 0.46577638387680054,
+        "DefinitionsReferences": 0.42868053913116455
+      }
+    },
+    {
+      "sentence": "The application form must be filled out completely and accurately.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7220059633255005,
+      "similarities": {
+        "ContextObjective": 0.5188881754875183,
+        "BenefitsAssistance": 0.5269145369529724,
+        "Eligibility": 0.5915389060974121,
+        "ApplicationProcess": 0.7220059633255005,
+        "TimelineFrequency": 0.5815486311912537,
+        "AuthoritiesGovernance": 0.46353375911712646,
+        "DefinitionsReferences": 0.4754585921764374
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit several documents along with their application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.744735598564148,
+      "similarities": {
+        "ContextObjective": 0.5294138193130493,
+        "BenefitsAssistance": 0.57308030128479,
+        "Eligibility": 0.6454969644546509,
+        "ApplicationProcess": 0.744735598564148,
+        "TimelineFrequency": 0.6504718661308289,
+        "AuthoritiesGovernance": 0.5102971792221069,
+        "DefinitionsReferences": 0.5837584733963013
+      }
+    },
+    {
+      "sentence": "These documents include a copy of the applicant's Aadhar card for identity verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5597909688949585,
+      "similarities": {
+        "ContextObjective": 0.4208710193634033,
+        "BenefitsAssistance": 0.47706812620162964,
+        "Eligibility": 0.42991259694099426,
+        "ApplicationProcess": 0.5597909688949585,
+        "TimelineFrequency": 0.4313470721244812,
+        "AuthoritiesGovernance": 0.385452538728714,
+        "DefinitionsReferences": 0.46908998489379883
+      }
+    },
+    {
+      "sentence": "A copy of the fishing license must also be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5829747915267944,
+      "similarities": {
+        "ContextObjective": 0.36444687843322754,
+        "BenefitsAssistance": 0.41442185640335083,
+        "Eligibility": 0.4647292494773865,
+        "ApplicationProcess": 0.5829747915267944,
+        "TimelineFrequency": 0.45062366127967834,
+        "AuthoritiesGovernance": 0.38168027997016907,
+        "DefinitionsReferences": 0.45319876074790955
+      }
+    },
+    {
+      "sentence": "Proof of residence such as a utility bill or a ration card is required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6265705823898315,
+      "similarities": {
+        "ContextObjective": 0.4441131353378296,
+        "BenefitsAssistance": 0.5541849136352539,
+        "Eligibility": 0.5431274771690369,
+        "ApplicationProcess": 0.6265705823898315,
+        "TimelineFrequency": 0.49007412791252136,
+        "AuthoritiesGovernance": 0.4642437994480133,
+        "DefinitionsReferences": 0.4776712954044342
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must provide income proof such as an income certificate issued by the local revenue department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.549826979637146,
+      "similarities": {
+        "ContextObjective": 0.4175374507904053,
+        "BenefitsAssistance": 0.47499462962150574,
+        "Eligibility": 0.509316086769104,
+        "ApplicationProcess": 0.549826979637146,
+        "TimelineFrequency": 0.4407555162906647,
+        "AuthoritiesGovernance": 0.36197251081466675,
+        "DefinitionsReferences": 0.405342161655426
+      }
+    },
+    {
+      "sentence": "Once the application form and documents are submitted, the local fisheries department will verify the information provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.65801602602005,
+      "similarities": {
+        "ContextObjective": 0.43569743633270264,
+        "BenefitsAssistance": 0.4585433006286621,
+        "Eligibility": 0.5102346539497375,
+        "ApplicationProcess": 0.65801602602005,
+        "TimelineFrequency": 0.4938305914402008,
+        "AuthoritiesGovernance": 0.463347852230072,
+        "DefinitionsReferences": 0.4429178833961487
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 to 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6170081496238708,
+      "similarities": {
+        "ContextObjective": 0.4187864065170288,
+        "BenefitsAssistance": 0.4725809693336487,
+        "Eligibility": 0.49795427918434143,
+        "ApplicationProcess": 0.6170081496238708,
+        "TimelineFrequency": 0.5579826831817627,
+        "AuthoritiesGovernance": 0.4405880570411682,
+        "DefinitionsReferences": 0.4455951750278473
+      }
+    },
+    {
+      "sentence": "If the application is approved, the financial assistance is disbursed directly into the applicant's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5489025712013245,
+      "similarities": {
+        "ContextObjective": 0.3936695456504822,
+        "BenefitsAssistance": 0.5489025712013245,
+        "Eligibility": 0.5152679681777954,
+        "ApplicationProcess": 0.5368853807449341,
+        "TimelineFrequency": 0.4603080153465271,
+        "AuthoritiesGovernance": 0.4045456051826477,
+        "DefinitionsReferences": 0.3504966199398041
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is usually completed within 15 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5533365607261658,
+      "similarities": {
+        "ContextObjective": 0.4240837097167969,
+        "BenefitsAssistance": 0.5533365607261658,
+        "Eligibility": 0.47688591480255127,
+        "ApplicationProcess": 0.4788596034049988,
+        "TimelineFrequency": 0.5126299858093262,
+        "AuthoritiesGovernance": 0.4376315772533417,
+        "DefinitionsReferences": 0.39669787883758545
+      }
+    },
+    {
+      "sentence": "This ensures that the beneficiaries receive timely support to purchase the necessary fishing equipment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5156514644622803,
+      "similarities": {
+        "ContextObjective": 0.4481522738933563,
+        "BenefitsAssistance": 0.5156514644622803,
+        "Eligibility": 0.49895191192626953,
+        "ApplicationProcess": 0.4568863809108734,
+        "TimelineFrequency": 0.42442381381988525,
+        "AuthoritiesGovernance": 0.41842904686927795,
+        "DefinitionsReferences": 0.4020933508872986
+      }
+    },
+    {
+      "sentence": "The MMKY scheme is implemented by the Fisheries Department of Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4585375487804413,
+      "similarities": {
+        "ContextObjective": 0.44879528880119324,
+        "BenefitsAssistance": 0.3934367597103119,
+        "Eligibility": 0.43929368257522583,
+        "ApplicationProcess": 0.4127354025840759,
+        "TimelineFrequency": 0.3752291202545166,
+        "AuthoritiesGovernance": 0.4585375487804413,
+        "DefinitionsReferences": 0.35701003670692444
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and disbursing funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.617039144039154,
+      "similarities": {
+        "ContextObjective": 0.4945739507675171,
+        "BenefitsAssistance": 0.6006165146827698,
+        "Eligibility": 0.5855244994163513,
+        "ApplicationProcess": 0.617039144039154,
+        "TimelineFrequency": 0.5650648474693298,
+        "AuthoritiesGovernance": 0.5698592662811279,
+        "DefinitionsReferences": 0.46181175112724304
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, beneficiaries can contact the Fisheries Department at their local office.",
+      "role": "Eligibility",
+      "confidence": 0.5193144083023071,
+      "similarities": {
+        "ContextObjective": 0.3914490342140198,
+        "BenefitsAssistance": 0.4912903904914856,
+        "Eligibility": 0.5193144083023071,
+        "ApplicationProcess": 0.4616467356681824,
+        "TimelineFrequency": 0.3873443007469177,
+        "AuthoritiesGovernance": 0.4909144639968872,
+        "DefinitionsReferences": 0.37953728437423706
+      }
+    },
+    {
+      "sentence": "The contact details for the Fisheries Department can be found on the official Madhya Pradesh government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4812507629394531,
+      "similarities": {
+        "ContextObjective": 0.397311270236969,
+        "BenefitsAssistance": 0.4497239589691162,
+        "Eligibility": 0.4208030104637146,
+        "ApplicationProcess": 0.47220271825790405,
+        "TimelineFrequency": 0.3950949013233185,
+        "AuthoritiesGovernance": 0.4812507629394531,
+        "DefinitionsReferences": 0.4388243854045868
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to promote sustainable fishing practices and improve the livelihoods of fishermen in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4834793508052826,
+      "similarities": {
+        "ContextObjective": 0.4834793508052826,
+        "BenefitsAssistance": 0.3812951147556305,
+        "Eligibility": 0.4061422049999237,
+        "ApplicationProcess": 0.4000290036201477,
+        "TimelineFrequency": 0.3557736873626709,
+        "AuthoritiesGovernance": 0.4014030694961548,
+        "DefinitionsReferences": 0.3463761508464813
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹50 crore for the implementation of the MMKY scheme for the financial year 2020-2021.",
+      "role": "ContextObjective",
+      "confidence": 0.4818655252456665,
+      "similarities": {
+        "ContextObjective": 0.4818655252456665,
+        "BenefitsAssistance": 0.4633214473724365,
+        "Eligibility": 0.45698273181915283,
+        "ApplicationProcess": 0.40530717372894287,
+        "TimelineFrequency": 0.4207940101623535,
+        "AuthoritiesGovernance": 0.45586317777633667,
+        "DefinitionsReferences": 0.34588101506233215
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that a substantial number of fishermen can benefit from the financial assistance provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5044262409210205,
+      "similarities": {
+        "ContextObjective": 0.4109218716621399,
+        "BenefitsAssistance": 0.5044262409210205,
+        "Eligibility": 0.4673689007759094,
+        "ApplicationProcess": 0.3739437460899353,
+        "TimelineFrequency": 0.37550756335258484,
+        "AuthoritiesGovernance": 0.39724844694137573,
+        "DefinitionsReferences": 0.3455001711845398
+      }
+    },
+    {
+      "sentence": "The MMKY scheme is expected to not only improve the economic condition of fishermen but also contribute to the overall development of the fishing sector in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.44331568479537964,
+      "similarities": {
+        "ContextObjective": 0.44331568479537964,
+        "BenefitsAssistance": 0.40933847427368164,
+        "Eligibility": 0.3961370289325714,
+        "ApplicationProcess": 0.3732706904411316,
+        "TimelineFrequency": 0.3502752482891083,
+        "AuthoritiesGovernance": 0.36920469999313354,
+        "DefinitionsReferences": 0.3534329831600189
+      }
+    },
+    {
+      "sentence": "By providing modern equipment, the government aims to enhance the quality and quantity of fish production in the state.",
+      "role": "Eligibility",
+      "confidence": 0.40794795751571655,
+      "similarities": {
+        "ContextObjective": 0.3938699960708618,
+        "BenefitsAssistance": 0.3864918351173401,
+        "Eligibility": 0.40794795751571655,
+        "ApplicationProcess": 0.4076559543609619,
+        "TimelineFrequency": 0.3418284058570862,
+        "AuthoritiesGovernance": 0.3909740447998047,
+        "DefinitionsReferences": 0.373835027217865
+      }
+    },
+    {
+      "sentence": "This, in turn, is expected to lead to increased employment opportunities within the fishing industry.",
+      "role": "Eligibility",
+      "confidence": 0.3942314684391022,
+      "similarities": {
+        "ContextObjective": 0.38008368015289307,
+        "BenefitsAssistance": 0.359066367149353,
+        "Eligibility": 0.3942314684391022,
+        "ApplicationProcess": 0.3693200945854187,
+        "TimelineFrequency": 0.367052286863327,
+        "AuthoritiesGovernance": 0.330064982175827,
+        "DefinitionsReferences": 0.36972808837890625
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the government's vision of promoting self-reliance among fishermen.",
+      "role": "ContextObjective",
+      "confidence": 0.5213672518730164,
+      "similarities": {
+        "ContextObjective": 0.5213672518730164,
+        "BenefitsAssistance": 0.3721044957637787,
+        "Eligibility": 0.40503501892089844,
+        "ApplicationProcess": 0.38062387704849243,
+        "TimelineFrequency": 0.31876224279403687,
+        "AuthoritiesGovernance": 0.3684312701225281,
+        "DefinitionsReferences": 0.33574238419532776
+      }
+    },
+    {
+      "sentence": "It encourages them to invest in better equipment, thereby improving their productivity and income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41374754905700684,
+      "similarities": {
+        "ContextObjective": 0.3809107542037964,
+        "BenefitsAssistance": 0.41374754905700684,
+        "Eligibility": 0.35039234161376953,
+        "ApplicationProcess": 0.3454635739326477,
+        "TimelineFrequency": 0.31989824771881104,
+        "AuthoritiesGovernance": 0.3393252193927765,
+        "DefinitionsReferences": 0.33527669310569763
+      }
+    },
+    {
+      "sentence": "The MMKY scheme is a significant step towards empowering the fishing community in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4358692467212677,
+      "similarities": {
+        "ContextObjective": 0.4358692467212677,
+        "BenefitsAssistance": 0.3737174868583679,
+        "Eligibility": 0.40359485149383545,
+        "ApplicationProcess": 0.35879963636398315,
+        "TimelineFrequency": 0.3210718631744385,
+        "AuthoritiesGovernance": 0.3604113459587097,
+        "DefinitionsReferences": 0.337014377117157
+      }
+    },
+    {
+      "sentence": "It addresses the challenges faced by fishermen, such as outdated equipment and low income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4551468789577484,
+      "similarities": {
+        "ContextObjective": 0.39086782932281494,
+        "BenefitsAssistance": 0.4551468789577484,
+        "Eligibility": 0.45405423641204834,
+        "ApplicationProcess": 0.41451191902160645,
+        "TimelineFrequency": 0.3685730993747711,
+        "AuthoritiesGovernance": 0.3861602544784546,
+        "DefinitionsReferences": 0.3380630910396576
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government is facilitating a transition towards more sustainable and profitable fishing practices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46977829933166504,
+      "similarities": {
+        "ContextObjective": 0.43483492732048035,
+        "BenefitsAssistance": 0.46977829933166504,
+        "Eligibility": 0.4342472553253174,
+        "ApplicationProcess": 0.4309059977531433,
+        "TimelineFrequency": 0.3693961501121521,
+        "AuthoritiesGovernance": 0.40535950660705566,
+        "DefinitionsReferences": 0.3828281760215759
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a positive impact on the socio-economic conditions of the fishing community.",
+      "role": "ContextObjective",
+      "confidence": 0.46514391899108887,
+      "similarities": {
+        "ContextObjective": 0.46514391899108887,
+        "BenefitsAssistance": 0.40831258893013,
+        "Eligibility": 0.4390185475349426,
+        "ApplicationProcess": 0.37818092107772827,
+        "TimelineFrequency": 0.34143030643463135,
+        "AuthoritiesGovernance": 0.3734663724899292,
+        "DefinitionsReferences": 0.34212976694107056
+      }
+    },
+    {
+      "sentence": "It aims to uplift the standard of living of fishermen and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.4416261613368988,
+      "similarities": {
+        "ContextObjective": 0.4416261613368988,
+        "BenefitsAssistance": 0.39741846919059753,
+        "Eligibility": 0.39993762969970703,
+        "ApplicationProcess": 0.37700170278549194,
+        "TimelineFrequency": 0.317960262298584,
+        "AuthoritiesGovernance": 0.37689343094825745,
+        "DefinitionsReferences": 0.3283456563949585
+      }
+    },
+    {
+      "sentence": "The government is committed to monitoring the implementation of the MMKY scheme closely.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4756268560886383,
+      "similarities": {
+        "ContextObjective": 0.43750008940696716,
+        "BenefitsAssistance": 0.4194325804710388,
+        "Eligibility": 0.45396173000335693,
+        "ApplicationProcess": 0.468794584274292,
+        "TimelineFrequency": 0.38116544485092163,
+        "AuthoritiesGovernance": 0.4756268560886383,
+        "DefinitionsReferences": 0.4042801558971405
+      }
+    },
+    {
+      "sentence": "Regular assessments will be conducted to evaluate the effectiveness of the financial assistance provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.572080135345459,
+      "similarities": {
+        "ContextObjective": 0.4532884955406189,
+        "BenefitsAssistance": 0.572080135345459,
+        "Eligibility": 0.5393761396408081,
+        "ApplicationProcess": 0.49992597103118896,
+        "TimelineFrequency": 0.49732714891433716,
+        "AuthoritiesGovernance": 0.49197664856910706,
+        "DefinitionsReferences": 0.4466744065284729
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5384361147880554,
+      "similarities": {
+        "ContextObjective": 0.5384361147880554,
+        "BenefitsAssistance": 0.5036500692367554,
+        "Eligibility": 0.5350629687309265,
+        "ApplicationProcess": 0.481128066778183,
+        "TimelineFrequency": 0.4394797086715698,
+        "AuthoritiesGovernance": 0.4984210133552551,
+        "DefinitionsReferences": 0.43036162853240967
+      }
+    },
+    {
+      "sentence": "The MMKY scheme is a testament to the government's commitment to supporting the livelihoods of marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.457601398229599,
+      "similarities": {
+        "ContextObjective": 0.457601398229599,
+        "BenefitsAssistance": 0.39970123767852783,
+        "Eligibility": 0.4254487156867981,
+        "ApplicationProcess": 0.3424437344074249,
+        "TimelineFrequency": 0.3102444112300873,
+        "AuthoritiesGovernance": 0.378070592880249,
+        "DefinitionsReferences": 0.3679952621459961
+      }
+    },
+    {
+      "sentence": "It reflects a proactive approach towards addressing the needs of fishermen in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4382033348083496,
+      "similarities": {
+        "ContextObjective": 0.4382033348083496,
+        "BenefitsAssistance": 0.3763991892337799,
+        "Eligibility": 0.40457022190093994,
+        "ApplicationProcess": 0.38422590494155884,
+        "TimelineFrequency": 0.35585087537765503,
+        "AuthoritiesGovernance": 0.3978436589241028,
+        "DefinitionsReferences": 0.3557291626930237
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to create a more equitable and prosperous fishing sector in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4498057961463928,
+      "similarities": {
+        "ContextObjective": 0.4498057961463928,
+        "BenefitsAssistance": 0.33155179023742676,
+        "Eligibility": 0.39586135745048523,
+        "ApplicationProcess": 0.3756157457828522,
+        "TimelineFrequency": 0.31644004583358765,
+        "AuthoritiesGovernance": 0.40348029136657715,
+        "DefinitionsReferences": 0.3221900463104248
+      }
+    },
+    {
+      "sentence": "Overall, the Mukhyamantri Matsya Kalyan Yojana represents a significant investment in the future of fishermen in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.41834497451782227,
+      "similarities": {
+        "ContextObjective": 0.41834497451782227,
+        "BenefitsAssistance": 0.4016767740249634,
+        "Eligibility": 0.4015926122665405,
+        "ApplicationProcess": 0.3288399577140808,
+        "TimelineFrequency": 0.3297099173069,
+        "AuthoritiesGovernance": 0.3366270065307617,
+        "DefinitionsReferences": 0.3439257740974426
+      }
+    },
+    {
+      "sentence": "It provides them with the necessary tools to succeed in their profession.",
+      "role": "ContextObjective",
+      "confidence": 0.4836694300174713,
+      "similarities": {
+        "ContextObjective": 0.4836694300174713,
+        "BenefitsAssistance": 0.44881269335746765,
+        "Eligibility": 0.4659583866596222,
+        "ApplicationProcess": 0.48129382729530334,
+        "TimelineFrequency": 0.4484374523162842,
+        "AuthoritiesGovernance": 0.45489996671676636,
+        "DefinitionsReferences": 0.4678635001182556
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial part of the government's broader strategy to promote economic development and social welfare in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5596063733100891,
+      "similarities": {
+        "ContextObjective": 0.5596063733100891,
+        "BenefitsAssistance": 0.4274974465370178,
+        "Eligibility": 0.45675331354141235,
+        "ApplicationProcess": 0.4287925958633423,
+        "TimelineFrequency": 0.38850098848342896,
+        "AuthoritiesGovernance": 0.43157872557640076,
+        "DefinitionsReferences": 0.4109554886817932
+      }
+    },
+    {
+      "sentence": "By empowering fishermen, the MMKY scheme contributes to the sustainable development of the fishing industry in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4486364424228668,
+      "similarities": {
+        "ContextObjective": 0.4486364424228668,
+        "BenefitsAssistance": 0.36616721749305725,
+        "Eligibility": 0.3880719542503357,
+        "ApplicationProcess": 0.35539621114730835,
+        "TimelineFrequency": 0.33800429105758667,
+        "AuthoritiesGovernance": 0.3640347719192505,
+        "DefinitionsReferences": 0.33503568172454834
+      }
+    },
+    {
+      "sentence": "This initiative is expected to pave the way for a more resilient and thriving fishing community in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.40867918729782104,
+      "similarities": {
+        "ContextObjective": 0.40867918729782104,
+        "BenefitsAssistance": 0.3296797275543213,
+        "Eligibility": 0.38733795285224915,
+        "ApplicationProcess": 0.33922815322875977,
+        "TimelineFrequency": 0.32854658365249634,
+        "AuthoritiesGovernance": 0.37533441185951233,
+        "DefinitionsReferences": 0.32699456810951233
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "BenefitsAssistance": 13,
+    "Eligibility": 12,
+    "ApplicationProcess": 12,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:46:03.417036"
+}

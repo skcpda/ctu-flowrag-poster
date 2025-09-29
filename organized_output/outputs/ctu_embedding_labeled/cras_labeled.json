@@ -1,0 +1,799 @@
+{
+  "scheme_name": "Campus Recruitment Assistance Scheme",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "The Campus Recruitment Assistance Scheme was launched by the Government of India in 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.5216496586799622,
+      "similarities": {
+        "ContextObjective": 0.5216496586799622,
+        "BenefitsAssistance": 0.4076741933822632,
+        "Eligibility": 0.4891898036003113,
+        "ApplicationProcess": 0.4638892710208893,
+        "TimelineFrequency": 0.44649574160575867,
+        "AuthoritiesGovernance": 0.41675227880477905,
+        "DefinitionsReferences": 0.3717116117477417
+      }
+    },
+    {
+      "sentence": "This scheme aims to enhance the employability of graduates and postgraduates from various educational institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.5746102333068848,
+      "similarities": {
+        "ContextObjective": 0.5746102333068848,
+        "BenefitsAssistance": 0.4209147095680237,
+        "Eligibility": 0.5332070589065552,
+        "ApplicationProcess": 0.4583524465560913,
+        "TimelineFrequency": 0.47670239210128784,
+        "AuthoritiesGovernance": 0.458448588848114,
+        "DefinitionsReferences": 0.3964787721633911
+      }
+    },
+    {
+      "sentence": "The primary objective is to facilitate job placements for students in their final year of study.",
+      "role": "ContextObjective",
+      "confidence": 0.543784499168396,
+      "similarities": {
+        "ContextObjective": 0.543784499168396,
+        "BenefitsAssistance": 0.4194104075431824,
+        "Eligibility": 0.49818137288093567,
+        "ApplicationProcess": 0.4869994819164276,
+        "TimelineFrequency": 0.49883419275283813,
+        "AuthoritiesGovernance": 0.44564956426620483,
+        "DefinitionsReferences": 0.41467979550361633
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students from Scheduled Castes, Scheduled Tribes, Other Backward Classes, and economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.5173053741455078,
+      "similarities": {
+        "ContextObjective": 0.4896581768989563,
+        "BenefitsAssistance": 0.39419296383857727,
+        "Eligibility": 0.5173053741455078,
+        "ApplicationProcess": 0.39485788345336914,
+        "TimelineFrequency": 0.44299960136413574,
+        "AuthoritiesGovernance": 0.371931254863739,
+        "DefinitionsReferences": 0.3533679246902466
+      }
+    },
+    {
+      "sentence": "The initiative is designed to bridge the gap between education and employment.",
+      "role": "ContextObjective",
+      "confidence": 0.49526774883270264,
+      "similarities": {
+        "ContextObjective": 0.49526774883270264,
+        "BenefitsAssistance": 0.38440847396850586,
+        "Eligibility": 0.44060108065605164,
+        "ApplicationProcess": 0.43518736958503723,
+        "TimelineFrequency": 0.4353314936161041,
+        "AuthoritiesGovernance": 0.3829978108406067,
+        "DefinitionsReferences": 0.3455933928489685
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of assisting at least 1 lakh students annually through this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49565136432647705,
+      "similarities": {
+        "ContextObjective": 0.49565136432647705,
+        "BenefitsAssistance": 0.39990735054016113,
+        "Eligibility": 0.46433794498443604,
+        "ApplicationProcess": 0.4029584527015686,
+        "TimelineFrequency": 0.3881955146789551,
+        "AuthoritiesGovernance": 0.36893901228904724,
+        "DefinitionsReferences": 0.3337485194206238
+      }
+    },
+    {
+      "sentence": "The Campus Recruitment Assistance Scheme provides financial assistance to educational institutions.",
+      "role": "Eligibility",
+      "confidence": 0.5207147598266602,
+      "similarities": {
+        "ContextObjective": 0.503244936466217,
+        "BenefitsAssistance": 0.5087360143661499,
+        "Eligibility": 0.5207147598266602,
+        "ApplicationProcess": 0.4597727656364441,
+        "TimelineFrequency": 0.46198728680610657,
+        "AuthoritiesGovernance": 0.41675126552581787,
+        "DefinitionsReferences": 0.38139039278030396
+      }
+    },
+    {
+      "sentence": "This financial support is aimed at organizing campus recruitment drives.",
+      "role": "ContextObjective",
+      "confidence": 0.4896737337112427,
+      "similarities": {
+        "ContextObjective": 0.4896737337112427,
+        "BenefitsAssistance": 0.46337616443634033,
+        "Eligibility": 0.47413408756256104,
+        "ApplicationProcess": 0.4230060577392578,
+        "TimelineFrequency": 0.4644930362701416,
+        "AuthoritiesGovernance": 0.42331162095069885,
+        "DefinitionsReferences": 0.392964631319046
+      }
+    },
+    {
+      "sentence": "The amount allocated for each recruitment drive can go up to ₹50,000.",
+      "role": "Eligibility",
+      "confidence": 0.5024765729904175,
+      "similarities": {
+        "ContextObjective": 0.4792928993701935,
+        "BenefitsAssistance": 0.4670083224773407,
+        "Eligibility": 0.5024765729904175,
+        "ApplicationProcess": 0.4410613179206848,
+        "TimelineFrequency": 0.4710097908973694,
+        "AuthoritiesGovernance": 0.38297712802886963,
+        "DefinitionsReferences": 0.3927682638168335
+      }
+    },
+    {
+      "sentence": "The scheme covers expenses related to logistics, advertisements, and honorariums for recruiters.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5474337339401245,
+      "similarities": {
+        "ContextObjective": 0.5237966775894165,
+        "BenefitsAssistance": 0.5474337339401245,
+        "Eligibility": 0.507337212562561,
+        "ApplicationProcess": 0.5067927837371826,
+        "TimelineFrequency": 0.5238410830497742,
+        "AuthoritiesGovernance": 0.42718908190727234,
+        "DefinitionsReferences": 0.4573848843574524
+      }
+    },
+    {
+      "sentence": "Eligible institutions must be recognized by the Ministry of Education or equivalent state government bodies.",
+      "role": "Eligibility",
+      "confidence": 0.6027103066444397,
+      "similarities": {
+        "ContextObjective": 0.4789367914199829,
+        "BenefitsAssistance": 0.4574751555919647,
+        "Eligibility": 0.6027103066444397,
+        "ApplicationProcess": 0.573268473148346,
+        "TimelineFrequency": 0.4954390227794647,
+        "AuthoritiesGovernance": 0.4950815737247467,
+        "DefinitionsReferences": 0.4713684916496277
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to both public and private institutions.",
+      "role": "Eligibility",
+      "confidence": 0.5737125277519226,
+      "similarities": {
+        "ContextObjective": 0.5620876550674438,
+        "BenefitsAssistance": 0.5358840823173523,
+        "Eligibility": 0.5737125277519226,
+        "ApplicationProcess": 0.5155748128890991,
+        "TimelineFrequency": 0.5079479813575745,
+        "AuthoritiesGovernance": 0.5133774876594543,
+        "DefinitionsReferences": 0.48799222707748413
+      }
+    },
+    {
+      "sentence": "To qualify for assistance, institutions must have a minimum of 50 students in their final year.",
+      "role": "Eligibility",
+      "confidence": 0.5426676273345947,
+      "similarities": {
+        "ContextObjective": 0.4348090887069702,
+        "BenefitsAssistance": 0.45998281240463257,
+        "Eligibility": 0.5426676273345947,
+        "ApplicationProcess": 0.49157869815826416,
+        "TimelineFrequency": 0.49189329147338867,
+        "AuthoritiesGovernance": 0.38163459300994873,
+        "DefinitionsReferences": 0.36713290214538574
+      }
+    },
+    {
+      "sentence": "The application process for the Campus Recruitment Assistance Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5384657382965088,
+      "similarities": {
+        "ContextObjective": 0.49866175651550293,
+        "BenefitsAssistance": 0.39194774627685547,
+        "Eligibility": 0.49570825695991516,
+        "ApplicationProcess": 0.5384657382965088,
+        "TimelineFrequency": 0.49315762519836426,
+        "AuthoritiesGovernance": 0.39287441968917847,
+        "DefinitionsReferences": 0.34199434518814087
+      }
+    },
+    {
+      "sentence": "Institutions must submit an online application through the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7029012441635132,
+      "similarities": {
+        "ContextObjective": 0.4743558466434479,
+        "BenefitsAssistance": 0.4669201970100403,
+        "Eligibility": 0.5986557006835938,
+        "ApplicationProcess": 0.7029012441635132,
+        "TimelineFrequency": 0.557567834854126,
+        "AuthoritiesGovernance": 0.49812909960746765,
+        "DefinitionsReferences": 0.458629310131073
+      }
+    },
+    {
+      "sentence": "The application must include details of the institution, number of students, and planned recruitment drive dates.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6610614657402039,
+      "similarities": {
+        "ContextObjective": 0.5507053136825562,
+        "BenefitsAssistance": 0.5232671499252319,
+        "Eligibility": 0.631670355796814,
+        "ApplicationProcess": 0.6258893013000488,
+        "TimelineFrequency": 0.6610614657402039,
+        "AuthoritiesGovernance": 0.43167948722839355,
+        "DefinitionsReferences": 0.474795401096344
+      }
+    },
+    {
+      "sentence": "Institutions are required to provide documentation proving their recognition by the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.641577959060669,
+      "similarities": {
+        "ContextObjective": 0.5018143653869629,
+        "BenefitsAssistance": 0.5297867655754089,
+        "Eligibility": 0.584266722202301,
+        "ApplicationProcess": 0.641577959060669,
+        "TimelineFrequency": 0.50788813829422,
+        "AuthoritiesGovernance": 0.5395556688308716,
+        "DefinitionsReferences": 0.5684106945991516
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes scrutiny by the designated government officials.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6679667234420776,
+      "similarities": {
+        "ContextObjective": 0.5098237991333008,
+        "BenefitsAssistance": 0.4555917978286743,
+        "Eligibility": 0.6034157872200012,
+        "ApplicationProcess": 0.6679667234420776,
+        "TimelineFrequency": 0.5377044677734375,
+        "AuthoritiesGovernance": 0.5375788807868958,
+        "DefinitionsReferences": 0.5100629925727844
+      }
+    },
+    {
+      "sentence": "Upon approval, the financial assistance is disbursed directly to the institution's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5453739166259766,
+      "similarities": {
+        "ContextObjective": 0.36865323781967163,
+        "BenefitsAssistance": 0.5453739166259766,
+        "Eligibility": 0.4639388620853424,
+        "ApplicationProcess": 0.4659574627876282,
+        "TimelineFrequency": 0.3997322618961334,
+        "AuthoritiesGovernance": 0.42703771591186523,
+        "DefinitionsReferences": 0.35520994663238525
+      }
+    },
+    {
+      "sentence": "The timeline for application submissions typically aligns with the academic calendar.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6815475821495056,
+      "similarities": {
+        "ContextObjective": 0.4646243453025818,
+        "BenefitsAssistance": 0.4046880602836609,
+        "Eligibility": 0.4736928939819336,
+        "ApplicationProcess": 0.5266103744506836,
+        "TimelineFrequency": 0.6815475821495056,
+        "AuthoritiesGovernance": 0.41868412494659424,
+        "DefinitionsReferences": 0.4330099821090698
+      }
+    },
+    {
+      "sentence": "Institutions are encouraged to apply at least two months before the planned recruitment drive.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5503153800964355,
+      "similarities": {
+        "ContextObjective": 0.4768519997596741,
+        "BenefitsAssistance": 0.3775874972343445,
+        "Eligibility": 0.5335588455200195,
+        "ApplicationProcess": 0.4880412220954895,
+        "TimelineFrequency": 0.5503153800964355,
+        "AuthoritiesGovernance": 0.3670958876609802,
+        "DefinitionsReferences": 0.3600783944129944
+      }
+    },
+    {
+      "sentence": "This allows adequate time for processing and disbursement of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5878949165344238,
+      "similarities": {
+        "ContextObjective": 0.4619811475276947,
+        "BenefitsAssistance": 0.5878949165344238,
+        "Eligibility": 0.5080949068069458,
+        "ApplicationProcess": 0.5023671388626099,
+        "TimelineFrequency": 0.5235210657119751,
+        "AuthoritiesGovernance": 0.4659527540206909,
+        "DefinitionsReferences": 0.43163394927978516
+      }
+    },
+    {
+      "sentence": "The Campus Recruitment Assistance Scheme is implemented by the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5048650503158569,
+      "similarities": {
+        "ContextObjective": 0.49801647663116455,
+        "BenefitsAssistance": 0.40701824426651,
+        "Eligibility": 0.4884742200374603,
+        "ApplicationProcess": 0.452863872051239,
+        "TimelineFrequency": 0.4198770225048065,
+        "AuthoritiesGovernance": 0.5048650503158569,
+        "DefinitionsReferences": 0.371356725692749
+      }
+    },
+    {
+      "sentence": "The National Scheduled Castes Finance and Development Corporation is the nodal agency for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4665921926498413,
+      "similarities": {
+        "ContextObjective": 0.4665921926498413,
+        "BenefitsAssistance": 0.40060409903526306,
+        "Eligibility": 0.4562567472457886,
+        "ApplicationProcess": 0.3949072062969208,
+        "TimelineFrequency": 0.37473565340042114,
+        "AuthoritiesGovernance": 0.40919893980026245,
+        "DefinitionsReferences": 0.36246442794799805
+      }
+    },
+    {
+      "sentence": "Contact details for the National Scheduled Castes Finance and Development Corporation are available on their official website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47565045952796936,
+      "similarities": {
+        "ContextObjective": 0.4173832833766937,
+        "BenefitsAssistance": 0.47565045952796936,
+        "Eligibility": 0.4451110363006592,
+        "ApplicationProcess": 0.459586501121521,
+        "TimelineFrequency": 0.38414251804351807,
+        "AuthoritiesGovernance": 0.44609561562538147,
+        "DefinitionsReferences": 0.4163733124732971
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in increasing the placement rates among marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5034525394439697,
+      "similarities": {
+        "ContextObjective": 0.5034525394439697,
+        "BenefitsAssistance": 0.3871898055076599,
+        "Eligibility": 0.44468438625335693,
+        "ApplicationProcess": 0.36413878202438354,
+        "TimelineFrequency": 0.36741483211517334,
+        "AuthoritiesGovernance": 0.42071443796157837,
+        "DefinitionsReferences": 0.369296669960022
+      }
+    },
+    {
+      "sentence": "Statistical data indicates that the placement rates for SC and ST students have improved by approximately 20% since the launch of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.3906692862510681,
+      "similarities": {
+        "ContextObjective": 0.3906692862510681,
+        "BenefitsAssistance": 0.3620860278606415,
+        "Eligibility": 0.3623705804347992,
+        "ApplicationProcess": 0.3364405632019043,
+        "TimelineFrequency": 0.34576964378356934,
+        "AuthoritiesGovernance": 0.3154427409172058,
+        "DefinitionsReferences": 0.3203747570514679
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹50 crores for the scheme in the financial year 2022-2023.",
+      "role": "ContextObjective",
+      "confidence": 0.5127814412117004,
+      "similarities": {
+        "ContextObjective": 0.5127814412117004,
+        "BenefitsAssistance": 0.4471757113933563,
+        "Eligibility": 0.4558567404747009,
+        "ApplicationProcess": 0.3997385501861572,
+        "TimelineFrequency": 0.4223252534866333,
+        "AuthoritiesGovernance": 0.4079831838607788,
+        "DefinitionsReferences": 0.33821219205856323
+      }
+    },
+    {
+      "sentence": "This funding is intended to support the recruitment drives across various states in India.",
+      "role": "Eligibility",
+      "confidence": 0.5542182922363281,
+      "similarities": {
+        "ContextObjective": 0.5256620049476624,
+        "BenefitsAssistance": 0.46612614393234253,
+        "Eligibility": 0.5542182922363281,
+        "ApplicationProcess": 0.46055173873901367,
+        "TimelineFrequency": 0.48814836144447327,
+        "AuthoritiesGovernance": 0.4654359221458435,
+        "DefinitionsReferences": 0.4208660125732422
+      }
+    },
+    {
+      "sentence": "The scheme also encourages partnerships between educational institutions and industries.",
+      "role": "ContextObjective",
+      "confidence": 0.47504839301109314,
+      "similarities": {
+        "ContextObjective": 0.47504839301109314,
+        "BenefitsAssistance": 0.3913898468017578,
+        "Eligibility": 0.4060012698173523,
+        "ApplicationProcess": 0.3778802156448364,
+        "TimelineFrequency": 0.3888886272907257,
+        "AuthoritiesGovernance": 0.35575157403945923,
+        "DefinitionsReferences": 0.3842776417732239
+      }
+    },
+    {
+      "sentence": "Such collaborations are vital for creating a robust employment ecosystem.",
+      "role": "Eligibility",
+      "confidence": 0.4425213038921356,
+      "similarities": {
+        "ContextObjective": 0.44118964672088623,
+        "BenefitsAssistance": 0.3626648187637329,
+        "Eligibility": 0.4425213038921356,
+        "ApplicationProcess": 0.38555270433425903,
+        "TimelineFrequency": 0.41375136375427246,
+        "AuthoritiesGovernance": 0.4040740132331848,
+        "DefinitionsReferences": 0.3753507435321808
+      }
+    },
+    {
+      "sentence": "The Campus Recruitment Assistance Scheme is part of the broader initiative to promote skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.48502838611602783,
+      "similarities": {
+        "ContextObjective": 0.48502838611602783,
+        "BenefitsAssistance": 0.3918479084968567,
+        "Eligibility": 0.44608351588249207,
+        "ApplicationProcess": 0.4201262891292572,
+        "TimelineFrequency": 0.4335125684738159,
+        "AuthoritiesGovernance": 0.40561631321907043,
+        "DefinitionsReferences": 0.39395999908447266
+      }
+    },
+    {
+      "sentence": "The Skill India Mission complements this scheme by enhancing the skills of youth.",
+      "role": "ContextObjective",
+      "confidence": 0.4792684018611908,
+      "similarities": {
+        "ContextObjective": 0.4792684018611908,
+        "BenefitsAssistance": 0.35084331035614014,
+        "Eligibility": 0.37986987829208374,
+        "ApplicationProcess": 0.34871020913124084,
+        "TimelineFrequency": 0.3343130648136139,
+        "AuthoritiesGovernance": 0.34964457154273987,
+        "DefinitionsReferences": 0.34112825989723206
+      }
+    },
+    {
+      "sentence": "The scheme has been positively received by educational institutions across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5343917012214661,
+      "similarities": {
+        "ContextObjective": 0.5343917012214661,
+        "BenefitsAssistance": 0.4281975030899048,
+        "Eligibility": 0.47184205055236816,
+        "ApplicationProcess": 0.42888063192367554,
+        "TimelineFrequency": 0.4074481725692749,
+        "AuthoritiesGovernance": 0.4233563542366028,
+        "DefinitionsReferences": 0.4034547209739685
+      }
+    },
+    {
+      "sentence": "Feedback from institutions indicates that the financial assistance has significantly reduced their burden.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4982830882072449,
+      "similarities": {
+        "ContextObjective": 0.3597329258918762,
+        "BenefitsAssistance": 0.4982830882072449,
+        "Eligibility": 0.3894016742706299,
+        "ApplicationProcess": 0.3287951946258545,
+        "TimelineFrequency": 0.3190245032310486,
+        "AuthoritiesGovernance": 0.35923874378204346,
+        "DefinitionsReferences": 0.3418864905834198
+      }
+    },
+    {
+      "sentence": "Many institutions have reported an increase in the number of companies participating in their recruitment drives.",
+      "role": "ContextObjective",
+      "confidence": 0.46732431650161743,
+      "similarities": {
+        "ContextObjective": 0.46732431650161743,
+        "BenefitsAssistance": 0.4099833369255066,
+        "Eligibility": 0.464016854763031,
+        "ApplicationProcess": 0.4526869058609009,
+        "TimelineFrequency": 0.46372801065444946,
+        "AuthoritiesGovernance": 0.42865344882011414,
+        "DefinitionsReferences": 0.4228571057319641
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of soft skills training for students.",
+      "role": "ContextObjective",
+      "confidence": 0.43748778104782104,
+      "similarities": {
+        "ContextObjective": 0.43748778104782104,
+        "BenefitsAssistance": 0.35156646370887756,
+        "Eligibility": 0.3536621928215027,
+        "ApplicationProcess": 0.36005163192749023,
+        "TimelineFrequency": 0.36805087327957153,
+        "AuthoritiesGovernance": 0.31303873658180237,
+        "DefinitionsReferences": 0.363436222076416
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are often organized alongside recruitment drives.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5217982530593872,
+      "similarities": {
+        "ContextObjective": 0.5073142647743225,
+        "BenefitsAssistance": 0.42138737440109253,
+        "Eligibility": 0.4835139513015747,
+        "ApplicationProcess": 0.47078922390937805,
+        "TimelineFrequency": 0.5217982530593872,
+        "AuthoritiesGovernance": 0.5100961923599243,
+        "DefinitionsReferences": 0.4571768641471863
+      }
+    },
+    {
+      "sentence": "These activities aim to prepare students for the competitive job market.",
+      "role": "ContextObjective",
+      "confidence": 0.5046642422676086,
+      "similarities": {
+        "ContextObjective": 0.5046642422676086,
+        "BenefitsAssistance": 0.40317538380622864,
+        "Eligibility": 0.47821110486984253,
+        "ApplicationProcess": 0.4872788190841675,
+        "TimelineFrequency": 0.49619272351264954,
+        "AuthoritiesGovernance": 0.3823619484901428,
+        "DefinitionsReferences": 0.4186302721500397
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the performance of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5296933650970459,
+      "similarities": {
+        "ContextObjective": 0.5296933650970459,
+        "BenefitsAssistance": 0.49485015869140625,
+        "Eligibility": 0.5115343928337097,
+        "ApplicationProcess": 0.5156692862510681,
+        "TimelineFrequency": 0.4818701446056366,
+        "AuthoritiesGovernance": 0.47401848435401917,
+        "DefinitionsReferences": 0.4633210301399231
+      }
+    },
+    {
+      "sentence": "This review process helps in making necessary adjustments to improve its effectiveness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5200839042663574,
+      "similarities": {
+        "ContextObjective": 0.4572347402572632,
+        "BenefitsAssistance": 0.4495316445827484,
+        "Eligibility": 0.4720308184623718,
+        "ApplicationProcess": 0.5200839042663574,
+        "TimelineFrequency": 0.48126766085624695,
+        "AuthoritiesGovernance": 0.5015567541122437,
+        "DefinitionsReferences": 0.4669017493724823
+      }
+    },
+    {
+      "sentence": "The Campus Recruitment Assistance Scheme is a vital tool in promoting social equity.",
+      "role": "ContextObjective",
+      "confidence": 0.5019350051879883,
+      "similarities": {
+        "ContextObjective": 0.5019350051879883,
+        "BenefitsAssistance": 0.383914977312088,
+        "Eligibility": 0.46901097893714905,
+        "ApplicationProcess": 0.41530460119247437,
+        "TimelineFrequency": 0.40993279218673706,
+        "AuthoritiesGovernance": 0.40059369802474976,
+        "DefinitionsReferences": 0.3644135594367981
+      }
+    },
+    {
+      "sentence": "By focusing on marginalized communities, the scheme aims to create a more inclusive workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.5229768753051758,
+      "similarities": {
+        "ContextObjective": 0.5229768753051758,
+        "BenefitsAssistance": 0.40566393733024597,
+        "Eligibility": 0.4927816390991211,
+        "ApplicationProcess": 0.3716488778591156,
+        "TimelineFrequency": 0.3775222897529602,
+        "AuthoritiesGovernance": 0.419446736574173,
+        "DefinitionsReferences": 0.34206002950668335
+      }
+    },
+    {
+      "sentence": "The scheme's success is measured not only by the number of placements but also by the quality of jobs secured.",
+      "role": "ContextObjective",
+      "confidence": 0.5005754232406616,
+      "similarities": {
+        "ContextObjective": 0.5005754232406616,
+        "BenefitsAssistance": 0.4130287170410156,
+        "Eligibility": 0.4848959743976593,
+        "ApplicationProcess": 0.4390825629234314,
+        "TimelineFrequency": 0.4223517179489136,
+        "AuthoritiesGovernance": 0.3820429742336273,
+        "DefinitionsReferences": 0.3764556050300598
+      }
+    },
+    {
+      "sentence": "Institutions are encouraged to track the employment outcomes of their graduates.",
+      "role": "Eligibility",
+      "confidence": 0.508805513381958,
+      "similarities": {
+        "ContextObjective": 0.45416259765625,
+        "BenefitsAssistance": 0.4680165648460388,
+        "Eligibility": 0.508805513381958,
+        "ApplicationProcess": 0.4787832498550415,
+        "TimelineFrequency": 0.48707446455955505,
+        "AuthoritiesGovernance": 0.46679314970970154,
+        "DefinitionsReferences": 0.4446333348751068
+      }
+    },
+    {
+      "sentence": "This data is crucial for assessing the long-term impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5116989016532898,
+      "similarities": {
+        "ContextObjective": 0.5116989016532898,
+        "BenefitsAssistance": 0.50052410364151,
+        "Eligibility": 0.48652052879333496,
+        "ApplicationProcess": 0.45802444219589233,
+        "TimelineFrequency": 0.4576866924762726,
+        "AuthoritiesGovernance": 0.41776716709136963,
+        "DefinitionsReferences": 0.4546341598033905
+      }
+    },
+    {
+      "sentence": "The government has also initiated awareness campaigns to inform students about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.516599714756012,
+      "similarities": {
+        "ContextObjective": 0.516599714756012,
+        "BenefitsAssistance": 0.4407652020454407,
+        "Eligibility": 0.4541287422180176,
+        "ApplicationProcess": 0.4582194685935974,
+        "TimelineFrequency": 0.42407017946243286,
+        "AuthoritiesGovernance": 0.43977081775665283,
+        "DefinitionsReferences": 0.40966618061065674
+      }
+    },
+    {
+      "sentence": "These campaigns are conducted through various media channels and educational fairs.",
+      "role": "ContextObjective",
+      "confidence": 0.4976215958595276,
+      "similarities": {
+        "ContextObjective": 0.4976215958595276,
+        "BenefitsAssistance": 0.4449877142906189,
+        "Eligibility": 0.4594605267047882,
+        "ApplicationProcess": 0.45082271099090576,
+        "TimelineFrequency": 0.47709622979164124,
+        "AuthoritiesGovernance": 0.4769267439842224,
+        "DefinitionsReferences": 0.47396013140678406
+      }
+    },
+    {
+      "sentence": "The aim is to ensure that eligible students are aware of the opportunities available to them.",
+      "role": "Eligibility",
+      "confidence": 0.6218113899230957,
+      "similarities": {
+        "ContextObjective": 0.5852919816970825,
+        "BenefitsAssistance": 0.48216158151626587,
+        "Eligibility": 0.6218113899230957,
+        "ApplicationProcess": 0.56223464012146,
+        "TimelineFrequency": 0.5646820664405823,
+        "AuthoritiesGovernance": 0.44195955991744995,
+        "DefinitionsReferences": 0.44970589876174927
+      }
+    },
+    {
+      "sentence": "In conclusion, the Campus Recruitment Assistance Scheme is a comprehensive initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4919295608997345,
+      "similarities": {
+        "ContextObjective": 0.4919295608997345,
+        "BenefitsAssistance": 0.4538043737411499,
+        "Eligibility": 0.4599963128566742,
+        "ApplicationProcess": 0.4541487693786621,
+        "TimelineFrequency": 0.44448816776275635,
+        "AuthoritiesGovernance": 0.4188234508037567,
+        "DefinitionsReferences": 0.3844645619392395
+      }
+    },
+    {
+      "sentence": "It addresses the critical issue of unemployment among graduates from disadvantaged backgrounds.",
+      "role": "Eligibility",
+      "confidence": 0.45959192514419556,
+      "similarities": {
+        "ContextObjective": 0.44303402304649353,
+        "BenefitsAssistance": 0.3877391517162323,
+        "Eligibility": 0.45959192514419556,
+        "ApplicationProcess": 0.36548179388046265,
+        "TimelineFrequency": 0.41204941272735596,
+        "AuthoritiesGovernance": 0.3556656837463379,
+        "DefinitionsReferences": 0.3094952702522278
+      }
+    },
+    {
+      "sentence": "With specific financial assistance and a clear application process, the scheme aims to empower students.",
+      "role": "ContextObjective",
+      "confidence": 0.5305845141410828,
+      "similarities": {
+        "ContextObjective": 0.5305845141410828,
+        "BenefitsAssistance": 0.49559175968170166,
+        "Eligibility": 0.5302768349647522,
+        "ApplicationProcess": 0.5146176218986511,
+        "TimelineFrequency": 0.4649408459663391,
+        "AuthoritiesGovernance": 0.3815467357635498,
+        "DefinitionsReferences": 0.36067086458206177
+      }
+    },
+    {
+      "sentence": "By facilitating job placements, the scheme contributes to the overall economic development of the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5079591870307922,
+      "similarities": {
+        "ContextObjective": 0.5079591870307922,
+        "BenefitsAssistance": 0.4287630319595337,
+        "Eligibility": 0.4467436671257019,
+        "ApplicationProcess": 0.433684378862381,
+        "TimelineFrequency": 0.39779412746429443,
+        "AuthoritiesGovernance": 0.452075719833374,
+        "DefinitionsReferences": 0.39435821771621704
+      }
+    },
+    {
+      "sentence": "The government remains committed to enhancing the employability of all students.",
+      "role": "Eligibility",
+      "confidence": 0.4540022313594818,
+      "similarities": {
+        "ContextObjective": 0.43998900055885315,
+        "BenefitsAssistance": 0.3819403648376465,
+        "Eligibility": 0.4540022313594818,
+        "ApplicationProcess": 0.41184020042419434,
+        "TimelineFrequency": 0.4030070900917053,
+        "AuthoritiesGovernance": 0.44119536876678467,
+        "DefinitionsReferences": 0.4079917371273041
+      }
+    },
+    {
+      "sentence": "This commitment is reflected in the continued funding and support for the Campus Recruitment Assistance Scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.419849693775177,
+      "similarities": {
+        "ContextObjective": 0.4063662886619568,
+        "BenefitsAssistance": 0.419849693775177,
+        "Eligibility": 0.41065335273742676,
+        "ApplicationProcess": 0.38013148307800293,
+        "TimelineFrequency": 0.40204596519470215,
+        "AuthoritiesGovernance": 0.3535483777523041,
+        "DefinitionsReferences": 0.3663513958454132
+      }
+    },
+    {
+      "sentence": "The scheme represents a significant step towards achieving social justice and equality in employment opportunities.",
+      "role": "ContextObjective",
+      "confidence": 0.5264235734939575,
+      "similarities": {
+        "ContextObjective": 0.5264235734939575,
+        "BenefitsAssistance": 0.3855534791946411,
+        "Eligibility": 0.46316683292388916,
+        "ApplicationProcess": 0.43511736392974854,
+        "TimelineFrequency": 0.39264780282974243,
+        "AuthoritiesGovernance": 0.40423887968063354,
+        "DefinitionsReferences": 0.3843368887901306
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 28,
+    "Eligibility": 12,
+    "BenefitsAssistance": 6,
+    "ApplicationProcess": 5,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 1
+  },
+  "processing_timestamp": "2025-09-25T20:45:25.838369"
+}

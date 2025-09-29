@@ -1,0 +1,716 @@
+{
+  "scheme_name": "Government Special School for the Visually Handicapped and the Hearing Impaired",
+  "total_sentences": 50,
+  "labeled_sentences": [
+    {
+      "sentence": "The Government Special School for the Visually Handicapped and the Hearing Impaired is a significant initiative by the Indian government aimed at providing education and support to children with visual and hearing impairments.",
+      "role": "ContextObjective",
+      "confidence": 0.5221490859985352,
+      "similarities": {
+        "ContextObjective": 0.5221490859985352,
+        "BenefitsAssistance": 0.4862433671951294,
+        "Eligibility": 0.5069276094436646,
+        "ApplicationProcess": 0.43552401661872864,
+        "TimelineFrequency": 0.4257314205169678,
+        "AuthoritiesGovernance": 0.46014517545700073,
+        "DefinitionsReferences": 0.4158640205860138
+      }
+    },
+    {
+      "sentence": "This scheme was launched in 1974 as part of the broader efforts to enhance educational opportunities for children with disabilities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.546594500541687,
+      "similarities": {
+        "ContextObjective": 0.546594500541687,
+        "BenefitsAssistance": 0.41953861713409424,
+        "Eligibility": 0.4506247639656067,
+        "ApplicationProcess": 0.4024445712566376,
+        "TimelineFrequency": 0.4003905951976776,
+        "AuthoritiesGovernance": 0.3768569231033325,
+        "DefinitionsReferences": 0.3525015711784363
+      }
+    },
+    {
+      "sentence": "The primary objective of this initiative is to ensure that children with visual and hearing impairments receive quality education tailored to their specific needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5467774868011475,
+      "similarities": {
+        "ContextObjective": 0.5467774868011475,
+        "BenefitsAssistance": 0.4309231638908386,
+        "Eligibility": 0.49787700176239014,
+        "ApplicationProcess": 0.4431818127632141,
+        "TimelineFrequency": 0.43152695894241333,
+        "AuthoritiesGovernance": 0.4620772898197174,
+        "DefinitionsReferences": 0.37237876653671265
+      }
+    },
+    {
+      "sentence": "The scheme aims to create an inclusive educational environment that promotes learning and development for children with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5520841479301453,
+      "similarities": {
+        "ContextObjective": 0.5520841479301453,
+        "BenefitsAssistance": 0.41747891902923584,
+        "Eligibility": 0.48840853571891785,
+        "ApplicationProcess": 0.39681944251060486,
+        "TimelineFrequency": 0.39584076404571533,
+        "AuthoritiesGovernance": 0.3699629306793213,
+        "DefinitionsReferences": 0.38034331798553467
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target to enroll at least 100,000 children with disabilities in special schools across the country by the end of the fiscal year 2024.",
+      "role": "Eligibility",
+      "confidence": 0.5108577609062195,
+      "similarities": {
+        "ContextObjective": 0.4808414578437805,
+        "BenefitsAssistance": 0.44597452878952026,
+        "Eligibility": 0.5108577609062195,
+        "ApplicationProcess": 0.39460551738739014,
+        "TimelineFrequency": 0.41478458046913147,
+        "AuthoritiesGovernance": 0.39241302013397217,
+        "DefinitionsReferences": 0.3560570478439331
+      }
+    },
+    {
+      "sentence": "The scheme also aims to provide vocational training to at least 20,000 students with disabilities by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.4501504898071289,
+      "similarities": {
+        "ContextObjective": 0.4501504898071289,
+        "BenefitsAssistance": 0.3980066180229187,
+        "Eligibility": 0.4320208728313446,
+        "ApplicationProcess": 0.3796754479408264,
+        "TimelineFrequency": 0.3942621946334839,
+        "AuthoritiesGovernance": 0.3522518575191498,
+        "DefinitionsReferences": 0.33771398663520813
+      }
+    },
+    {
+      "sentence": "Benefits under this scheme include free education for children with visual and hearing impairments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4929162263870239,
+      "similarities": {
+        "ContextObjective": 0.48465490341186523,
+        "BenefitsAssistance": 0.4929162263870239,
+        "Eligibility": 0.4727318286895752,
+        "ApplicationProcess": 0.3971633315086365,
+        "TimelineFrequency": 0.4046059250831604,
+        "AuthoritiesGovernance": 0.36109551787376404,
+        "DefinitionsReferences": 0.3663403391838074
+      }
+    },
+    {
+      "sentence": "Students enrolled in these schools receive free textbooks and learning materials.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4415718913078308,
+      "similarities": {
+        "ContextObjective": 0.38616758584976196,
+        "BenefitsAssistance": 0.4415718913078308,
+        "Eligibility": 0.42362892627716064,
+        "ApplicationProcess": 0.3854617476463318,
+        "TimelineFrequency": 0.4374101161956787,
+        "AuthoritiesGovernance": 0.3933815062046051,
+        "DefinitionsReferences": 0.43732547760009766
+      }
+    },
+    {
+      "sentence": "The government provides financial assistance of up to INR 1,500 per month to cover transportation costs for students attending special schools.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5504982471466064,
+      "similarities": {
+        "ContextObjective": 0.42196017503738403,
+        "BenefitsAssistance": 0.5504982471466064,
+        "Eligibility": 0.4735807478427887,
+        "ApplicationProcess": 0.4176589250564575,
+        "TimelineFrequency": 0.43335485458374023,
+        "AuthoritiesGovernance": 0.40461838245391846,
+        "DefinitionsReferences": 0.38131192326545715
+      }
+    },
+    {
+      "sentence": "Additionally, students are provided with free meals under the Mid-Day Meal Scheme, which ensures they receive proper nutrition.",
+      "role": "ContextObjective",
+      "confidence": 0.42717331647872925,
+      "similarities": {
+        "ContextObjective": 0.42717331647872925,
+        "BenefitsAssistance": 0.4145047068595886,
+        "Eligibility": 0.4168184697628021,
+        "ApplicationProcess": 0.3888404965400696,
+        "TimelineFrequency": 0.38707900047302246,
+        "AuthoritiesGovernance": 0.3561517894268036,
+        "DefinitionsReferences": 0.3563491702079773
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for scholarships for students who excel academically.",
+      "role": "ContextObjective",
+      "confidence": 0.5262793302536011,
+      "similarities": {
+        "ContextObjective": 0.5262793302536011,
+        "BenefitsAssistance": 0.43074291944503784,
+        "Eligibility": 0.4944583773612976,
+        "ApplicationProcess": 0.4334943890571594,
+        "TimelineFrequency": 0.43237483501434326,
+        "AuthoritiesGovernance": 0.32790714502334595,
+        "DefinitionsReferences": 0.386346697807312
+      }
+    },
+    {
+      "sentence": "Scholarships can range from INR 5,000 to INR 10,000 annually depending on the level of education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5258369445800781,
+      "similarities": {
+        "ContextObjective": 0.4542023241519928,
+        "BenefitsAssistance": 0.5258369445800781,
+        "Eligibility": 0.5083304643630981,
+        "ApplicationProcess": 0.46374720335006714,
+        "TimelineFrequency": 0.47286808490753174,
+        "AuthoritiesGovernance": 0.3705587387084961,
+        "DefinitionsReferences": 0.41864511370658875
+      }
+    },
+    {
+      "sentence": "Eligibility for this scheme includes children aged between 6 to 18 years who have been diagnosed with visual or hearing impairments.",
+      "role": "Eligibility",
+      "confidence": 0.6098366975784302,
+      "similarities": {
+        "ContextObjective": 0.5090141296386719,
+        "BenefitsAssistance": 0.5032839775085449,
+        "Eligibility": 0.6098366975784302,
+        "ApplicationProcess": 0.503227949142456,
+        "TimelineFrequency": 0.5050301551818848,
+        "AuthoritiesGovernance": 0.39308109879493713,
+        "DefinitionsReferences": 0.38502952456474304
+      }
+    },
+    {
+      "sentence": "Parents or guardians must provide medical certificates confirming the disability to qualify for enrollment in the special schools.",
+      "role": "ApplicationProcess",
+      "confidence": 0.550844669342041,
+      "similarities": {
+        "ContextObjective": 0.40297019481658936,
+        "BenefitsAssistance": 0.4965134263038635,
+        "Eligibility": 0.547632098197937,
+        "ApplicationProcess": 0.550844669342041,
+        "TimelineFrequency": 0.4479612410068512,
+        "AuthoritiesGovernance": 0.389793336391449,
+        "DefinitionsReferences": 0.385001003742218
+      }
+    },
+    {
+      "sentence": "There are no income criteria for eligibility under this scheme, making it accessible to all families regardless of their financial status.",
+      "role": "Eligibility",
+      "confidence": 0.4931966960430145,
+      "similarities": {
+        "ContextObjective": 0.42002785205841064,
+        "BenefitsAssistance": 0.4284500181674957,
+        "Eligibility": 0.4931966960430145,
+        "ApplicationProcess": 0.3853730857372284,
+        "TimelineFrequency": 0.36550241708755493,
+        "AuthoritiesGovernance": 0.29214227199554443,
+        "DefinitionsReferences": 0.28258761763572693
+      }
+    },
+    {
+      "sentence": "The application process begins with parents or guardians submitting an application form to the nearest special school.",
+      "role": "ApplicationProcess",
+      "confidence": 0.627730131149292,
+      "similarities": {
+        "ContextObjective": 0.5009667873382568,
+        "BenefitsAssistance": 0.4248541593551636,
+        "Eligibility": 0.5601330995559692,
+        "ApplicationProcess": 0.627730131149292,
+        "TimelineFrequency": 0.5058090090751648,
+        "AuthoritiesGovernance": 0.4276997148990631,
+        "DefinitionsReferences": 0.3917601704597473
+      }
+    },
+    {
+      "sentence": "Required documents include the child's birth certificate, medical certificate, and proof of residence.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6493159532546997,
+      "similarities": {
+        "ContextObjective": 0.4688425064086914,
+        "BenefitsAssistance": 0.5873477458953857,
+        "Eligibility": 0.5658934712409973,
+        "ApplicationProcess": 0.6493159532546997,
+        "TimelineFrequency": 0.5231570601463318,
+        "AuthoritiesGovernance": 0.4588404595851898,
+        "DefinitionsReferences": 0.5498444437980652
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the school conducts an assessment to determine the child's specific needs and suitability for the program.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6200068593025208,
+      "similarities": {
+        "ContextObjective": 0.5171905755996704,
+        "BenefitsAssistance": 0.47329485416412354,
+        "Eligibility": 0.5891826152801514,
+        "ApplicationProcess": 0.6200068593025208,
+        "TimelineFrequency": 0.5658977627754211,
+        "AuthoritiesGovernance": 0.4240530729293823,
+        "DefinitionsReferences": 0.413871169090271
+      }
+    },
+    {
+      "sentence": "The timeline for the application process typically spans from April to June each year, coinciding with the academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6555407047271729,
+      "similarities": {
+        "ContextObjective": 0.455264151096344,
+        "BenefitsAssistance": 0.40583375096321106,
+        "Eligibility": 0.4691793918609619,
+        "ApplicationProcess": 0.5179736614227295,
+        "TimelineFrequency": 0.6555407047271729,
+        "AuthoritiesGovernance": 0.4018785357475281,
+        "DefinitionsReferences": 0.43353450298309326
+      }
+    },
+    {
+      "sentence": "Disbursement of financial assistance is done on a quarterly basis to ensure that families receive timely support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5876646637916565,
+      "similarities": {
+        "ContextObjective": 0.4513407349586487,
+        "BenefitsAssistance": 0.5876646637916565,
+        "Eligibility": 0.5146023631095886,
+        "ApplicationProcess": 0.4673212766647339,
+        "TimelineFrequency": 0.5371967554092407,
+        "AuthoritiesGovernance": 0.4896504282951355,
+        "DefinitionsReferences": 0.4003697633743286
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5862178206443787,
+      "similarities": {
+        "ContextObjective": 0.5125948786735535,
+        "BenefitsAssistance": 0.39659979939460754,
+        "Eligibility": 0.4805564284324646,
+        "ApplicationProcess": 0.425779789686203,
+        "TimelineFrequency": 0.3661656677722931,
+        "AuthoritiesGovernance": 0.5862178206443787,
+        "DefinitionsReferences": 0.40394139289855957
+      }
+    },
+    {
+      "sentence": "The National Institute for the Empowerment of Persons with Visual Disabilities oversees the implementation of programs for visually impaired students.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5082945227622986,
+      "similarities": {
+        "ContextObjective": 0.4527207016944885,
+        "BenefitsAssistance": 0.4395824074745178,
+        "Eligibility": 0.47950223088264465,
+        "ApplicationProcess": 0.4184640944004059,
+        "TimelineFrequency": 0.4081662893295288,
+        "AuthoritiesGovernance": 0.5082945227622986,
+        "DefinitionsReferences": 0.38910630345344543
+      }
+    },
+    {
+      "sentence": "For hearing-impaired students, the National Institute of Speech and Hearing Disabilities is responsible for program implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5070767402648926,
+      "similarities": {
+        "ContextObjective": 0.4281284213066101,
+        "BenefitsAssistance": 0.45322078466415405,
+        "Eligibility": 0.48654288053512573,
+        "ApplicationProcess": 0.4308416247367859,
+        "TimelineFrequency": 0.407956063747406,
+        "AuthoritiesGovernance": 0.5070767402648926,
+        "DefinitionsReferences": 0.37692099809646606
+      }
+    },
+    {
+      "sentence": "Parents can contact these institutes for further information and assistance regarding the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.586504340171814,
+      "similarities": {
+        "ContextObjective": 0.4842453598976135,
+        "BenefitsAssistance": 0.5212721824645996,
+        "Eligibility": 0.5465946197509766,
+        "ApplicationProcess": 0.586504340171814,
+        "TimelineFrequency": 0.5252195596694946,
+        "AuthoritiesGovernance": 0.5210592746734619,
+        "DefinitionsReferences": 0.4459606409072876
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crores for the fiscal year 2023-2024 to enhance the facilities and resources available in special schools.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47901296615600586,
+      "similarities": {
+        "ContextObjective": 0.4506698250770569,
+        "BenefitsAssistance": 0.47901296615600586,
+        "Eligibility": 0.4517625570297241,
+        "ApplicationProcess": 0.3703930974006653,
+        "TimelineFrequency": 0.41725823283195496,
+        "AuthoritiesGovernance": 0.4185531437397003,
+        "DefinitionsReferences": 0.38764488697052
+      }
+    },
+    {
+      "sentence": "This budget is aimed at improving infrastructure and providing better training for teachers in special education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4392673373222351,
+      "similarities": {
+        "ContextObjective": 0.40501388907432556,
+        "BenefitsAssistance": 0.4392673373222351,
+        "Eligibility": 0.38071417808532715,
+        "ApplicationProcess": 0.32147571444511414,
+        "TimelineFrequency": 0.3882794976234436,
+        "AuthoritiesGovernance": 0.417319655418396,
+        "DefinitionsReferences": 0.35433459281921387
+      }
+    },
+    {
+      "sentence": "The scheme also focuses on training teachers to effectively cater to the needs of visually and hearing-impaired students.",
+      "role": "ContextObjective",
+      "confidence": 0.4930686354637146,
+      "similarities": {
+        "ContextObjective": 0.4930686354637146,
+        "BenefitsAssistance": 0.38648977875709534,
+        "Eligibility": 0.4542955160140991,
+        "ApplicationProcess": 0.38587599992752075,
+        "TimelineFrequency": 0.4036180377006531,
+        "AuthoritiesGovernance": 0.39741837978363037,
+        "DefinitionsReferences": 0.34568238258361816
+      }
+    },
+    {
+      "sentence": "Workshops and training sessions are conducted regularly to equip educators with the necessary skills.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48149532079696655,
+      "similarities": {
+        "ContextObjective": 0.445134699344635,
+        "BenefitsAssistance": 0.3887506127357483,
+        "Eligibility": 0.4248703718185425,
+        "ApplicationProcess": 0.43728670477867126,
+        "TimelineFrequency": 0.473307728767395,
+        "AuthoritiesGovernance": 0.48149532079696655,
+        "DefinitionsReferences": 0.4539596736431122
+      }
+    },
+    {
+      "sentence": "In addition to academic support, the scheme emphasizes the importance of social integration for children with disabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4752480387687683,
+      "similarities": {
+        "ContextObjective": 0.4743001461029053,
+        "BenefitsAssistance": 0.4752480387687683,
+        "Eligibility": 0.4416069984436035,
+        "ApplicationProcess": 0.38454192876815796,
+        "TimelineFrequency": 0.3824731111526489,
+        "AuthoritiesGovernance": 0.3606829047203064,
+        "DefinitionsReferences": 0.3922158479690552
+      }
+    },
+    {
+      "sentence": "Extracurricular activities are organized to promote social skills and confidence among students.",
+      "role": "ContextObjective",
+      "confidence": 0.4827992916107178,
+      "similarities": {
+        "ContextObjective": 0.4827992916107178,
+        "BenefitsAssistance": 0.3838099241256714,
+        "Eligibility": 0.3794882893562317,
+        "ApplicationProcess": 0.3996274471282959,
+        "TimelineFrequency": 0.43358713388442993,
+        "AuthoritiesGovernance": 0.37629640102386475,
+        "DefinitionsReferences": 0.41706717014312744
+      }
+    },
+    {
+      "sentence": "The government also collaborates with NGOs to provide additional resources and support to special schools.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4678940773010254,
+      "similarities": {
+        "ContextObjective": 0.44282668828964233,
+        "BenefitsAssistance": 0.4678940773010254,
+        "Eligibility": 0.44316330552101135,
+        "ApplicationProcess": 0.37239134311676025,
+        "TimelineFrequency": 0.369751900434494,
+        "AuthoritiesGovernance": 0.4634641110897064,
+        "DefinitionsReferences": 0.44297611713409424
+      }
+    },
+    {
+      "sentence": "As of 2023, there are over 1,200 special schools across India catering to visually and hearing-impaired children.",
+      "role": "ContextObjective",
+      "confidence": 0.44309836626052856,
+      "similarities": {
+        "ContextObjective": 0.44309836626052856,
+        "BenefitsAssistance": 0.4236677289009094,
+        "Eligibility": 0.43728893995285034,
+        "ApplicationProcess": 0.36394140124320984,
+        "TimelineFrequency": 0.3948403596878052,
+        "AuthoritiesGovernance": 0.3747292757034302,
+        "DefinitionsReferences": 0.3811054825782776
+      }
+    },
+    {
+      "sentence": "These schools are equipped with specialized teaching aids and technology to facilitate learning.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4665142297744751,
+      "similarities": {
+        "ContextObjective": 0.43419772386550903,
+        "BenefitsAssistance": 0.4411155879497528,
+        "Eligibility": 0.41154056787490845,
+        "ApplicationProcess": 0.38158929347991943,
+        "TimelineFrequency": 0.4183586835861206,
+        "AuthoritiesGovernance": 0.4055894613265991,
+        "DefinitionsReferences": 0.4665142297744751
+      }
+    },
+    {
+      "sentence": "The curriculum is designed to be inclusive and adaptive to the needs of each child.",
+      "role": "ContextObjective",
+      "confidence": 0.5226298570632935,
+      "similarities": {
+        "ContextObjective": 0.5226298570632935,
+        "BenefitsAssistance": 0.4972609579563141,
+        "Eligibility": 0.5150104761123657,
+        "ApplicationProcess": 0.4347597360610962,
+        "TimelineFrequency": 0.48296505212783813,
+        "AuthoritiesGovernance": 0.46138668060302734,
+        "DefinitionsReferences": 0.4517728388309479
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to monitor the progress of students and make necessary adjustments to their learning plans.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5067862272262573,
+      "similarities": {
+        "ContextObjective": 0.419719934463501,
+        "BenefitsAssistance": 0.4394102990627289,
+        "Eligibility": 0.45028746128082275,
+        "ApplicationProcess": 0.48493218421936035,
+        "TimelineFrequency": 0.5067862272262573,
+        "AuthoritiesGovernance": 0.4386873245239258,
+        "DefinitionsReferences": 0.46504658460617065
+      }
+    },
+    {
+      "sentence": "The scheme also encourages parental involvement in the education of children with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.460080623626709,
+      "similarities": {
+        "ContextObjective": 0.460080623626709,
+        "BenefitsAssistance": 0.3982606530189514,
+        "Eligibility": 0.4207029938697815,
+        "ApplicationProcess": 0.37955015897750854,
+        "TimelineFrequency": 0.3543258309364319,
+        "AuthoritiesGovernance": 0.3498542904853821,
+        "DefinitionsReferences": 0.3301031291484833
+      }
+    },
+    {
+      "sentence": "Workshops for parents are organized to educate them about the rights and resources available for their children.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5179046392440796,
+      "similarities": {
+        "ContextObjective": 0.45231565833091736,
+        "BenefitsAssistance": 0.45250487327575684,
+        "Eligibility": 0.4888686239719391,
+        "ApplicationProcess": 0.4551876187324524,
+        "TimelineFrequency": 0.4466154873371124,
+        "AuthoritiesGovernance": 0.5179046392440796,
+        "DefinitionsReferences": 0.4761272072792053
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to reduce stigma associated with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.45224469900131226,
+      "similarities": {
+        "ContextObjective": 0.4421963691711426,
+        "BenefitsAssistance": 0.4436515271663666,
+        "Eligibility": 0.45224469900131226,
+        "ApplicationProcess": 0.4051491320133209,
+        "TimelineFrequency": 0.36450088024139404,
+        "AuthoritiesGovernance": 0.45118248462677,
+        "DefinitionsReferences": 0.4038182497024536
+      }
+    },
+    {
+      "sentence": "These campaigns aim to promote acceptance and inclusion of children with disabilities in society.",
+      "role": "ContextObjective",
+      "confidence": 0.502846360206604,
+      "similarities": {
+        "ContextObjective": 0.502846360206604,
+        "BenefitsAssistance": 0.432056725025177,
+        "Eligibility": 0.49318617582321167,
+        "ApplicationProcess": 0.4137606620788574,
+        "TimelineFrequency": 0.4060894250869751,
+        "AuthoritiesGovernance": 0.4347059428691864,
+        "DefinitionsReferences": 0.4045579433441162
+      }
+    },
+    {
+      "sentence": "The Special School scheme aligns with the Rights of Persons with Disabilities Act 2016, which emphasizes the right to education for all children.",
+      "role": "Eligibility",
+      "confidence": 0.4641464352607727,
+      "similarities": {
+        "ContextObjective": 0.4639747738838196,
+        "BenefitsAssistance": 0.39104580879211426,
+        "Eligibility": 0.4641464352607727,
+        "ApplicationProcess": 0.37850791215896606,
+        "TimelineFrequency": 0.3644963204860687,
+        "AuthoritiesGovernance": 0.35514819622039795,
+        "DefinitionsReferences": 0.38744795322418213
+      }
+    },
+    {
+      "sentence": "The Act mandates that children with disabilities should have access to free and compulsory education.",
+      "role": "Eligibility",
+      "confidence": 0.4747506082057953,
+      "similarities": {
+        "ContextObjective": 0.42899495363235474,
+        "BenefitsAssistance": 0.4256536364555359,
+        "Eligibility": 0.4747506082057953,
+        "ApplicationProcess": 0.4153463840484619,
+        "TimelineFrequency": 0.3881451487541199,
+        "AuthoritiesGovernance": 0.3777353763580322,
+        "DefinitionsReferences": 0.3902677297592163
+      }
+    },
+    {
+      "sentence": "This initiative is part of a larger framework of the Indian government to promote inclusive education.",
+      "role": "ContextObjective",
+      "confidence": 0.5211519002914429,
+      "similarities": {
+        "ContextObjective": 0.5211519002914429,
+        "BenefitsAssistance": 0.4518781900405884,
+        "Eligibility": 0.47939494252204895,
+        "ApplicationProcess": 0.4280322790145874,
+        "TimelineFrequency": 0.4041687846183777,
+        "AuthoritiesGovernance": 0.4584363102912903,
+        "DefinitionsReferences": 0.42696577310562134
+      }
+    },
+    {
+      "sentence": "The government also collaborates with international organizations to enhance the quality of education for children with disabilities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4738638699054718,
+      "similarities": {
+        "ContextObjective": 0.43670952320098877,
+        "BenefitsAssistance": 0.4150986671447754,
+        "Eligibility": 0.4436575770378113,
+        "ApplicationProcess": 0.3952101469039917,
+        "TimelineFrequency": 0.3837079405784607,
+        "AuthoritiesGovernance": 0.4738638699054718,
+        "DefinitionsReferences": 0.413491427898407
+      }
+    },
+    {
+      "sentence": "The Special School for the Visually Handicapped and the Hearing Impaired is a crucial step towards achieving educational equity in India.",
+      "role": "ContextObjective",
+      "confidence": 0.47168147563934326,
+      "similarities": {
+        "ContextObjective": 0.47168147563934326,
+        "BenefitsAssistance": 0.41615477204322815,
+        "Eligibility": 0.4650694727897644,
+        "ApplicationProcess": 0.3937661647796631,
+        "TimelineFrequency": 0.36222508549690247,
+        "AuthoritiesGovernance": 0.4093658924102783,
+        "DefinitionsReferences": 0.3659032881259918
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve with the changing needs of society and advancements in educational practices.",
+      "role": "ContextObjective",
+      "confidence": 0.5862878561019897,
+      "similarities": {
+        "ContextObjective": 0.5862878561019897,
+        "BenefitsAssistance": 0.43188828229904175,
+        "Eligibility": 0.45490095019340515,
+        "ApplicationProcess": 0.4630562365055084,
+        "TimelineFrequency": 0.44170135259628296,
+        "AuthoritiesGovernance": 0.4330490827560425,
+        "DefinitionsReferences": 0.4357752501964569
+      }
+    },
+    {
+      "sentence": "Feedback from parents and educators is regularly sought to improve the program and its implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5100399255752563,
+      "similarities": {
+        "ContextObjective": 0.4356424808502197,
+        "BenefitsAssistance": 0.4111642837524414,
+        "Eligibility": 0.4172493517398834,
+        "ApplicationProcess": 0.4499330520629883,
+        "TimelineFrequency": 0.4306401312351227,
+        "AuthoritiesGovernance": 0.5100399255752563,
+        "DefinitionsReferences": 0.3997817933559418
+      }
+    },
+    {
+      "sentence": "The government aims to create a supportive environment where children with disabilities can thrive academically and socially.",
+      "role": "ContextObjective",
+      "confidence": 0.5353637933731079,
+      "similarities": {
+        "ContextObjective": 0.5353637933731079,
+        "BenefitsAssistance": 0.46036991477012634,
+        "Eligibility": 0.5124184489250183,
+        "ApplicationProcess": 0.4264284372329712,
+        "TimelineFrequency": 0.41171789169311523,
+        "AuthoritiesGovernance": 0.45162850618362427,
+        "DefinitionsReferences": 0.4390052556991577
+      }
+    },
+    {
+      "sentence": "In conclusion, the Government Special School for the Visually Handicapped and the Hearing Impaired is a comprehensive initiative aimed at providing quality education and support to children with disabilities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5160336494445801,
+      "similarities": {
+        "ContextObjective": 0.5160336494445801,
+        "BenefitsAssistance": 0.47061169147491455,
+        "Eligibility": 0.49060821533203125,
+        "ApplicationProcess": 0.4300200939178467,
+        "TimelineFrequency": 0.395801305770874,
+        "AuthoritiesGovernance": 0.44542956352233887,
+        "DefinitionsReferences": 0.3940393626689911
+      }
+    },
+    {
+      "sentence": "With specific benefits, eligibility criteria, and a structured application process, the scheme is designed to be accessible and effective.",
+      "role": "Eligibility",
+      "confidence": 0.6283223628997803,
+      "similarities": {
+        "ContextObjective": 0.6028550267219543,
+        "BenefitsAssistance": 0.5012174844741821,
+        "Eligibility": 0.6283223628997803,
+        "ApplicationProcess": 0.5855067372322083,
+        "TimelineFrequency": 0.5355249643325806,
+        "AuthoritiesGovernance": 0.4603462815284729,
+        "DefinitionsReferences": 0.42999792098999023
+      }
+    },
+    {
+      "sentence": "The ongoing commitment of the Indian government to enhance the educational landscape for children with disabilities reflects a progressive approach to inclusivity and empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.4665331244468689,
+      "similarities": {
+        "ContextObjective": 0.4665331244468689,
+        "BenefitsAssistance": 0.41642940044403076,
+        "Eligibility": 0.4464193284511566,
+        "ApplicationProcess": 0.39682090282440186,
+        "TimelineFrequency": 0.378335177898407,
+        "AuthoritiesGovernance": 0.4298691749572754,
+        "DefinitionsReferences": 0.4100865125656128
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 19,
+    "Eligibility": 7,
+    "BenefitsAssistance": 9,
+    "ApplicationProcess": 5,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 7,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-24T21:08:54.712000"
+}

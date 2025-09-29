@@ -1,0 +1,798 @@
+{
+  "scheme_name": "Mill Gate Price Subsidy Scheme",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mill Gate Price Subsidy Scheme is an initiative launched by the Government of India to support the agricultural sector, particularly focusing on the procurement of essential food grains.",
+      "role": "ContextObjective",
+      "confidence": 0.4893184304237366,
+      "similarities": {
+        "ContextObjective": 0.4893184304237366,
+        "BenefitsAssistance": 0.44791147112846375,
+        "Eligibility": 0.48302754759788513,
+        "ApplicationProcess": 0.4384317696094513,
+        "TimelineFrequency": 0.4361017644405365,
+        "AuthoritiesGovernance": 0.4304744601249695,
+        "DefinitionsReferences": 0.39967477321624756
+      }
+    },
+    {
+      "sentence": "This scheme was introduced in 2018 as part of the larger framework of agricultural reforms aimed at ensuring food security and stabilizing prices for both farmers and consumers.",
+      "role": "ContextObjective",
+      "confidence": 0.459628701210022,
+      "similarities": {
+        "ContextObjective": 0.459628701210022,
+        "BenefitsAssistance": 0.40457475185394287,
+        "Eligibility": 0.44002828001976013,
+        "ApplicationProcess": 0.4292765259742737,
+        "TimelineFrequency": 0.3904076814651489,
+        "AuthoritiesGovernance": 0.44173210859298706,
+        "DefinitionsReferences": 0.35766035318374634
+      }
+    },
+    {
+      "sentence": "The primary objective of the Mill Gate Price Subsidy Scheme is to provide financial assistance to millers and processors of food grains.",
+      "role": "ContextObjective",
+      "confidence": 0.45836424827575684,
+      "similarities": {
+        "ContextObjective": 0.45836424827575684,
+        "BenefitsAssistance": 0.4526498019695282,
+        "Eligibility": 0.45142853260040283,
+        "ApplicationProcess": 0.3852950930595398,
+        "TimelineFrequency": 0.38136494159698486,
+        "AuthoritiesGovernance": 0.3869078755378723,
+        "DefinitionsReferences": 0.3293569087982178
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce the cost of production for millers which in turn helps in stabilizing the prices of essential commodities in the market.",
+      "role": "ContextObjective",
+      "confidence": 0.4396785497665405,
+      "similarities": {
+        "ContextObjective": 0.4396785497665405,
+        "BenefitsAssistance": 0.40174999833106995,
+        "Eligibility": 0.37459224462509155,
+        "ApplicationProcess": 0.37167927622795105,
+        "TimelineFrequency": 0.34987953305244446,
+        "AuthoritiesGovernance": 0.3686146140098572,
+        "DefinitionsReferences": 0.33910298347473145
+      }
+    },
+    {
+      "sentence": "The government has set a target to cover at least 1 million metric tons of food grains under this subsidy scheme annually.",
+      "role": "Eligibility",
+      "confidence": 0.46569228172302246,
+      "similarities": {
+        "ContextObjective": 0.4625195562839508,
+        "BenefitsAssistance": 0.4240249693393707,
+        "Eligibility": 0.46569228172302246,
+        "ApplicationProcess": 0.39848294854164124,
+        "TimelineFrequency": 0.3902736306190491,
+        "AuthoritiesGovernance": 0.38889867067337036,
+        "DefinitionsReferences": 0.3595145046710968
+      }
+    },
+    {
+      "sentence": "The subsidy is designed to ensure that consumers have access to affordable food grains while also ensuring that farmers receive a fair price for their produce.",
+      "role": "Eligibility",
+      "confidence": 0.45703646540641785,
+      "similarities": {
+        "ContextObjective": 0.40776461362838745,
+        "BenefitsAssistance": 0.42196542024612427,
+        "Eligibility": 0.45703646540641785,
+        "ApplicationProcess": 0.415054053068161,
+        "TimelineFrequency": 0.39530396461486816,
+        "AuthoritiesGovernance": 0.40490639209747314,
+        "DefinitionsReferences": 0.3473002314567566
+      }
+    },
+    {
+      "sentence": "The benefits under this scheme include a direct subsidy on the mill gate price of food grains.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44660747051239014,
+      "similarities": {
+        "ContextObjective": 0.41661566495895386,
+        "BenefitsAssistance": 0.44660747051239014,
+        "Eligibility": 0.4167664051055908,
+        "ApplicationProcess": 0.35656219720840454,
+        "TimelineFrequency": 0.3673504889011383,
+        "AuthoritiesGovernance": 0.33585870265960693,
+        "DefinitionsReferences": 0.3413095474243164
+      }
+    },
+    {
+      "sentence": "The subsidy amount is fixed at ₹100 per quintal of food grains procured by millers.",
+      "role": "Eligibility",
+      "confidence": 0.4321567416191101,
+      "similarities": {
+        "ContextObjective": 0.33281901478767395,
+        "BenefitsAssistance": 0.41204410791397095,
+        "Eligibility": 0.4321567416191101,
+        "ApplicationProcess": 0.3310621380805969,
+        "TimelineFrequency": 0.33576536178588867,
+        "AuthoritiesGovernance": 0.3490772247314453,
+        "DefinitionsReferences": 0.32661715149879456
+      }
+    },
+    {
+      "sentence": "This subsidy is applicable to rice, wheat, and pulses which are staple food items in the Indian diet.",
+      "role": "Eligibility",
+      "confidence": 0.4404999911785126,
+      "similarities": {
+        "ContextObjective": 0.3715369403362274,
+        "BenefitsAssistance": 0.4161812663078308,
+        "Eligibility": 0.4404999911785126,
+        "ApplicationProcess": 0.35364294052124023,
+        "TimelineFrequency": 0.3948723375797272,
+        "AuthoritiesGovernance": 0.39134424924850464,
+        "DefinitionsReferences": 0.3967397212982178
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit approximately 50,000 millers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.459388792514801,
+      "similarities": {
+        "ContextObjective": 0.459388792514801,
+        "BenefitsAssistance": 0.4143744111061096,
+        "Eligibility": 0.4561271071434021,
+        "ApplicationProcess": 0.3687018156051636,
+        "TimelineFrequency": 0.3639020621776581,
+        "AuthoritiesGovernance": 0.3783315420150757,
+        "DefinitionsReferences": 0.32590776681900024
+      }
+    },
+    {
+      "sentence": "Eligibility for the Mill Gate Price Subsidy Scheme is primarily based on the registration of millers with the Food Corporation of India (FCI).",
+      "role": "Eligibility",
+      "confidence": 0.5098011493682861,
+      "similarities": {
+        "ContextObjective": 0.39059874415397644,
+        "BenefitsAssistance": 0.4043223261833191,
+        "Eligibility": 0.5098011493682861,
+        "ApplicationProcess": 0.43086034059524536,
+        "TimelineFrequency": 0.39077073335647583,
+        "AuthoritiesGovernance": 0.3423900604248047,
+        "DefinitionsReferences": 0.3428407907485962
+      }
+    },
+    {
+      "sentence": "Millers must possess a valid license to operate and must be engaged in the milling of food grains.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4681978225708008,
+      "similarities": {
+        "ContextObjective": 0.372886598110199,
+        "BenefitsAssistance": 0.36941367387771606,
+        "Eligibility": 0.4613472521305084,
+        "ApplicationProcess": 0.4681978225708008,
+        "TimelineFrequency": 0.4029298722743988,
+        "AuthoritiesGovernance": 0.4027557373046875,
+        "DefinitionsReferences": 0.4019814133644104
+      }
+    },
+    {
+      "sentence": "There are no specific age limits or educational qualifications required for millers to apply for this subsidy.",
+      "role": "Eligibility",
+      "confidence": 0.4655610918998718,
+      "similarities": {
+        "ContextObjective": 0.3392535448074341,
+        "BenefitsAssistance": 0.3647300601005554,
+        "Eligibility": 0.4655610918998718,
+        "ApplicationProcess": 0.38097989559173584,
+        "TimelineFrequency": 0.3552287817001343,
+        "AuthoritiesGovernance": 0.30478569865226746,
+        "DefinitionsReferences": 0.26212194561958313
+      }
+    },
+    {
+      "sentence": "However, millers must demonstrate a consistent procurement of food grains to qualify for the subsidy.",
+      "role": "Eligibility",
+      "confidence": 0.4731020927429199,
+      "similarities": {
+        "ContextObjective": 0.39939355850219727,
+        "BenefitsAssistance": 0.39554113149642944,
+        "Eligibility": 0.4731020927429199,
+        "ApplicationProcess": 0.447589248418808,
+        "TimelineFrequency": 0.41643962264060974,
+        "AuthoritiesGovernance": 0.40433555841445923,
+        "DefinitionsReferences": 0.3642042279243469
+      }
+    },
+    {
+      "sentence": "The application process for the Mill Gate Price Subsidy Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6514805555343628,
+      "similarities": {
+        "ContextObjective": 0.5364222526550293,
+        "BenefitsAssistance": 0.5080764889717102,
+        "Eligibility": 0.5782850980758667,
+        "ApplicationProcess": 0.6514805555343628,
+        "TimelineFrequency": 0.5793380737304688,
+        "AuthoritiesGovernance": 0.4718325436115265,
+        "DefinitionsReferences": 0.46836280822753906
+      }
+    },
+    {
+      "sentence": "First, millers must register with the Food Corporation of India.",
+      "role": "ApplicationProcess",
+      "confidence": 0.43589919805526733,
+      "similarities": {
+        "ContextObjective": 0.3594481647014618,
+        "BenefitsAssistance": 0.35218673944473267,
+        "Eligibility": 0.42284059524536133,
+        "ApplicationProcess": 0.43589919805526733,
+        "TimelineFrequency": 0.32943445444107056,
+        "AuthoritiesGovernance": 0.3558766841888428,
+        "DefinitionsReferences": 0.35713696479797363
+      }
+    },
+    {
+      "sentence": "Registration can be done online through the FCI's official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5612876415252686,
+      "similarities": {
+        "ContextObjective": 0.4195212125778198,
+        "BenefitsAssistance": 0.4838153123855591,
+        "Eligibility": 0.47384220361709595,
+        "ApplicationProcess": 0.5612876415252686,
+        "TimelineFrequency": 0.44499391317367554,
+        "AuthoritiesGovernance": 0.3949572443962097,
+        "DefinitionsReferences": 0.4114801287651062
+      }
+    },
+    {
+      "sentence": "Millers must submit their application along with necessary documents such as the mill license, bank account details, and proof of food grain procurement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6277027130126953,
+      "similarities": {
+        "ContextObjective": 0.4029100835323334,
+        "BenefitsAssistance": 0.48831707239151,
+        "Eligibility": 0.5379893779754639,
+        "ApplicationProcess": 0.6277027130126953,
+        "TimelineFrequency": 0.5027234554290771,
+        "AuthoritiesGovernance": 0.4092957377433777,
+        "DefinitionsReferences": 0.4530748128890991
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the FCI.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6310200095176697,
+      "similarities": {
+        "ContextObjective": 0.4733419418334961,
+        "BenefitsAssistance": 0.46928805112838745,
+        "Eligibility": 0.5462626814842224,
+        "ApplicationProcess": 0.6310200095176697,
+        "TimelineFrequency": 0.5200549364089966,
+        "AuthoritiesGovernance": 0.43684837222099304,
+        "DefinitionsReferences": 0.4133334755897522
+      }
+    },
+    {
+      "sentence": "If approved, millers will receive the subsidy amount directly in their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46450555324554443,
+      "similarities": {
+        "ContextObjective": 0.3445510268211365,
+        "BenefitsAssistance": 0.46450555324554443,
+        "Eligibility": 0.44484537839889526,
+        "ApplicationProcess": 0.40278536081314087,
+        "TimelineFrequency": 0.34412503242492676,
+        "AuthoritiesGovernance": 0.36887896060943604,
+        "DefinitionsReferences": 0.3023641109466553
+      }
+    },
+    {
+      "sentence": "The disbursement of subsidies occurs on a quarterly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5602436065673828,
+      "similarities": {
+        "ContextObjective": 0.48858126997947693,
+        "BenefitsAssistance": 0.5602436065673828,
+        "Eligibility": 0.5049260854721069,
+        "ApplicationProcess": 0.4410691559314728,
+        "TimelineFrequency": 0.5380915403366089,
+        "AuthoritiesGovernance": 0.49299418926239014,
+        "DefinitionsReferences": 0.4166766107082367
+      }
+    },
+    {
+      "sentence": "Millers must submit their claims for subsidy within 30 days of procurement to ensure timely processing.",
+      "role": "Eligibility",
+      "confidence": 0.48169010877609253,
+      "similarities": {
+        "ContextObjective": 0.3844647705554962,
+        "BenefitsAssistance": 0.42795830965042114,
+        "Eligibility": 0.48169010877609253,
+        "ApplicationProcess": 0.4667671024799347,
+        "TimelineFrequency": 0.46883100271224976,
+        "AuthoritiesGovernance": 0.4005618691444397,
+        "DefinitionsReferences": 0.35227563977241516
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Mill Gate Price Subsidy Scheme is the Food Corporation of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47941720485687256,
+      "similarities": {
+        "ContextObjective": 0.37740230560302734,
+        "BenefitsAssistance": 0.3670038878917694,
+        "Eligibility": 0.421737402677536,
+        "ApplicationProcess": 0.3555198311805725,
+        "TimelineFrequency": 0.3216303586959839,
+        "AuthoritiesGovernance": 0.47941720485687256,
+        "DefinitionsReferences": 0.35790666937828064
+      }
+    },
+    {
+      "sentence": "The FCI operates under the Ministry of Consumer Affairs, Food and Public Distribution.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48648491501808167,
+      "similarities": {
+        "ContextObjective": 0.38526803255081177,
+        "BenefitsAssistance": 0.4253959655761719,
+        "Eligibility": 0.4386483430862427,
+        "ApplicationProcess": 0.4100860059261322,
+        "TimelineFrequency": 0.3142738342285156,
+        "AuthoritiesGovernance": 0.48648491501808167,
+        "DefinitionsReferences": 0.34078484773635864
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, millers can contact the FCI through their helpline number which is 1800 180 4200.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4599708318710327,
+      "similarities": {
+        "ContextObjective": 0.32722049951553345,
+        "BenefitsAssistance": 0.4599708318710327,
+        "Eligibility": 0.392037034034729,
+        "ApplicationProcess": 0.36252403259277344,
+        "TimelineFrequency": 0.30458688735961914,
+        "AuthoritiesGovernance": 0.35898178815841675,
+        "DefinitionsReferences": 0.2984445095062256
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance the agricultural supply chain and ensure that food grains reach consumers at reasonable prices.",
+      "role": "ContextObjective",
+      "confidence": 0.47810640931129456,
+      "similarities": {
+        "ContextObjective": 0.47810640931129456,
+        "BenefitsAssistance": 0.37643176317214966,
+        "Eligibility": 0.42079299688339233,
+        "ApplicationProcess": 0.39953696727752686,
+        "TimelineFrequency": 0.37022703886032104,
+        "AuthoritiesGovernance": 0.40832823514938354,
+        "DefinitionsReferences": 0.3365204334259033
+      }
+    },
+    {
+      "sentence": "The government has allocated ₹1,500 crore for the implementation of this scheme in the financial year 2022-2023.",
+      "role": "ContextObjective",
+      "confidence": 0.48244231939315796,
+      "similarities": {
+        "ContextObjective": 0.48244231939315796,
+        "BenefitsAssistance": 0.47165560722351074,
+        "Eligibility": 0.45264285802841187,
+        "ApplicationProcess": 0.39648711681365967,
+        "TimelineFrequency": 0.4088583290576935,
+        "AuthoritiesGovernance": 0.44133302569389343,
+        "DefinitionsReferences": 0.3409033417701721
+      }
+    },
+    {
+      "sentence": "This funding is aimed at supporting the subsidy disbursement and ensuring that the scheme reaches its intended beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5452370047569275,
+      "similarities": {
+        "ContextObjective": 0.5452370047569275,
+        "BenefitsAssistance": 0.5233234167098999,
+        "Eligibility": 0.533198356628418,
+        "ApplicationProcess": 0.4474889039993286,
+        "TimelineFrequency": 0.44065916538238525,
+        "AuthoritiesGovernance": 0.4709377884864807,
+        "DefinitionsReferences": 0.385240375995636
+      }
+    },
+    {
+      "sentence": "The Mill Gate Price Subsidy Scheme is expected to play a crucial role in stabilizing food prices in the market.",
+      "role": "ContextObjective",
+      "confidence": 0.42847558856010437,
+      "similarities": {
+        "ContextObjective": 0.42847558856010437,
+        "BenefitsAssistance": 0.3798508644104004,
+        "Eligibility": 0.4037095308303833,
+        "ApplicationProcess": 0.37620845437049866,
+        "TimelineFrequency": 0.3572520613670349,
+        "AuthoritiesGovernance": 0.3740454316139221,
+        "DefinitionsReferences": 0.3510640561580658
+      }
+    },
+    {
+      "sentence": "By providing financial assistance to millers, the government aims to reduce the burden of production costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48554927110671997,
+      "similarities": {
+        "ContextObjective": 0.3896934986114502,
+        "BenefitsAssistance": 0.48554927110671997,
+        "Eligibility": 0.4182620644569397,
+        "ApplicationProcess": 0.3724891245365143,
+        "TimelineFrequency": 0.34453779458999634,
+        "AuthoritiesGovernance": 0.39488908648490906,
+        "DefinitionsReferences": 0.3475465178489685
+      }
+    },
+    {
+      "sentence": "This, in turn, is anticipated to lead to lower prices for consumers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4212459623813629,
+      "similarities": {
+        "ContextObjective": 0.3701099157333374,
+        "BenefitsAssistance": 0.4212459623813629,
+        "Eligibility": 0.3656541705131531,
+        "ApplicationProcess": 0.3589579164981842,
+        "TimelineFrequency": 0.34190821647644043,
+        "AuthoritiesGovernance": 0.3476293385028839,
+        "DefinitionsReferences": 0.3648573160171509
+      }
+    },
+    {
+      "sentence": "The scheme also encourages millers to procure more food grains from farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.4346607029438019,
+      "similarities": {
+        "ContextObjective": 0.4346607029438019,
+        "BenefitsAssistance": 0.3734813928604126,
+        "Eligibility": 0.41705751419067383,
+        "ApplicationProcess": 0.38422343134880066,
+        "TimelineFrequency": 0.36126604676246643,
+        "AuthoritiesGovernance": 0.3462769389152527,
+        "DefinitionsReferences": 0.32695841789245605
+      }
+    },
+    {
+      "sentence": "This helps to ensure that farmers receive a fair price for their produce.",
+      "role": "Eligibility",
+      "confidence": 0.45780718326568604,
+      "similarities": {
+        "ContextObjective": 0.41012367606163025,
+        "BenefitsAssistance": 0.4457203447818756,
+        "Eligibility": 0.45780718326568604,
+        "ApplicationProcess": 0.4485628604888916,
+        "TimelineFrequency": 0.4136528968811035,
+        "AuthoritiesGovernance": 0.42737025022506714,
+        "DefinitionsReferences": 0.39870309829711914
+      }
+    },
+    {
+      "sentence": "The subsidy is a significant step towards achieving the goal of food security in India.",
+      "role": "ContextObjective",
+      "confidence": 0.45863863825798035,
+      "similarities": {
+        "ContextObjective": 0.45863863825798035,
+        "BenefitsAssistance": 0.41281986236572266,
+        "Eligibility": 0.4466502368450165,
+        "ApplicationProcess": 0.40577155351638794,
+        "TimelineFrequency": 0.34982484579086304,
+        "AuthoritiesGovernance": 0.4031527638435364,
+        "DefinitionsReferences": 0.3741742968559265
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the government's vision of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.48198845982551575,
+      "similarities": {
+        "ContextObjective": 0.48198845982551575,
+        "BenefitsAssistance": 0.36479848623275757,
+        "Eligibility": 0.38898199796676636,
+        "ApplicationProcess": 0.34876346588134766,
+        "TimelineFrequency": 0.3428879976272583,
+        "AuthoritiesGovernance": 0.3137158155441284,
+        "DefinitionsReferences": 0.3116016983985901
+      }
+    },
+    {
+      "sentence": "By supporting millers, the government indirectly supports farmers, creating a more robust agricultural economy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3907889127731323,
+      "similarities": {
+        "ContextObjective": 0.3492426574230194,
+        "BenefitsAssistance": 0.3907889127731323,
+        "Eligibility": 0.3470008373260498,
+        "ApplicationProcess": 0.30576932430267334,
+        "TimelineFrequency": 0.28514936566352844,
+        "AuthoritiesGovernance": 0.36599916219711304,
+        "DefinitionsReferences": 0.33377331495285034
+      }
+    },
+    {
+      "sentence": "The Mill Gate Price Subsidy Scheme is a vital component of the government's efforts to enhance the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4511755406856537,
+      "similarities": {
+        "ContextObjective": 0.4511755406856537,
+        "BenefitsAssistance": 0.4088089168071747,
+        "Eligibility": 0.4191938042640686,
+        "ApplicationProcess": 0.40980133414268494,
+        "TimelineFrequency": 0.3797001242637634,
+        "AuthoritiesGovernance": 0.3968738317489624,
+        "DefinitionsReferences": 0.40218019485473633
+      }
+    },
+    {
+      "sentence": "It addresses the challenges faced by millers in terms of rising operational costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49304646253585815,
+      "similarities": {
+        "ContextObjective": 0.384524405002594,
+        "BenefitsAssistance": 0.49304646253585815,
+        "Eligibility": 0.41465601325035095,
+        "ApplicationProcess": 0.39839693903923035,
+        "TimelineFrequency": 0.39958542585372925,
+        "AuthoritiesGovernance": 0.4105008840560913,
+        "DefinitionsReferences": 0.3738262951374054
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be transparent and efficient in its implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.5719887018203735,
+      "similarities": {
+        "ContextObjective": 0.5719887018203735,
+        "BenefitsAssistance": 0.47461405396461487,
+        "Eligibility": 0.48129042983055115,
+        "ApplicationProcess": 0.4873775839805603,
+        "TimelineFrequency": 0.455729603767395,
+        "AuthoritiesGovernance": 0.489907443523407,
+        "DefinitionsReferences": 0.4062468409538269
+      }
+    },
+    {
+      "sentence": "Regular audits and monitoring are conducted to ensure that the subsidies are disbursed correctly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5007537007331848,
+      "similarities": {
+        "ContextObjective": 0.4124237596988678,
+        "BenefitsAssistance": 0.5007537007331848,
+        "Eligibility": 0.4605531692504883,
+        "ApplicationProcess": 0.4754510521888733,
+        "TimelineFrequency": 0.4297958314418793,
+        "AuthoritiesGovernance": 0.4817315638065338,
+        "DefinitionsReferences": 0.4107895493507385
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the benefits of this scheme reach the intended beneficiaries without any delays.",
+      "role": "ContextObjective",
+      "confidence": 0.4757062494754791,
+      "similarities": {
+        "ContextObjective": 0.4757062494754791,
+        "BenefitsAssistance": 0.41722384095191956,
+        "Eligibility": 0.47184693813323975,
+        "ApplicationProcess": 0.3984740376472473,
+        "TimelineFrequency": 0.3879917860031128,
+        "AuthoritiesGovernance": 0.4030603766441345,
+        "DefinitionsReferences": 0.32614409923553467
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to create employment opportunities in the milling sector.",
+      "role": "ContextObjective",
+      "confidence": 0.47269558906555176,
+      "similarities": {
+        "ContextObjective": 0.47269558906555176,
+        "BenefitsAssistance": 0.38978004455566406,
+        "Eligibility": 0.4485447406768799,
+        "ApplicationProcess": 0.3917563557624817,
+        "TimelineFrequency": 0.40225091576576233,
+        "AuthoritiesGovernance": 0.3437989056110382,
+        "DefinitionsReferences": 0.3301037847995758
+      }
+    },
+    {
+      "sentence": "As millers expand their operations due to the subsidy, they may require additional workforce.",
+      "role": "Eligibility",
+      "confidence": 0.47421547770500183,
+      "similarities": {
+        "ContextObjective": 0.3956787586212158,
+        "BenefitsAssistance": 0.4580206871032715,
+        "Eligibility": 0.47421547770500183,
+        "ApplicationProcess": 0.39892739057540894,
+        "TimelineFrequency": 0.3941856026649475,
+        "AuthoritiesGovernance": 0.3838912546634674,
+        "DefinitionsReferences": 0.37455523014068604
+      }
+    },
+    {
+      "sentence": "This can lead to increased job opportunities in rural areas where these mills are often located.",
+      "role": "Eligibility",
+      "confidence": 0.43301188945770264,
+      "similarities": {
+        "ContextObjective": 0.3825702667236328,
+        "BenefitsAssistance": 0.36690962314605713,
+        "Eligibility": 0.43301188945770264,
+        "ApplicationProcess": 0.36975228786468506,
+        "TimelineFrequency": 0.4067602753639221,
+        "AuthoritiesGovernance": 0.3466532826423645,
+        "DefinitionsReferences": 0.3834226131439209
+      }
+    },
+    {
+      "sentence": "The Mill Gate Price Subsidy Scheme is a proactive measure to address the challenges of food inflation.",
+      "role": "ContextObjective",
+      "confidence": 0.4472630023956299,
+      "similarities": {
+        "ContextObjective": 0.4472630023956299,
+        "BenefitsAssistance": 0.4241054654121399,
+        "Eligibility": 0.4333459138870239,
+        "ApplicationProcess": 0.38771528005599976,
+        "TimelineFrequency": 0.37891387939453125,
+        "AuthoritiesGovernance": 0.37589403986930847,
+        "DefinitionsReferences": 0.34044936299324036
+      }
+    },
+    {
+      "sentence": "By stabilizing prices, the government aims to protect consumers from the volatility of the market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4239828288555145,
+      "similarities": {
+        "ContextObjective": 0.40294739603996277,
+        "BenefitsAssistance": 0.4239828288555145,
+        "Eligibility": 0.4133567214012146,
+        "ApplicationProcess": 0.40754157304763794,
+        "TimelineFrequency": 0.37214425206184387,
+        "AuthoritiesGovernance": 0.4113379716873169,
+        "DefinitionsReferences": 0.3835285007953644
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to encourage investment in the milling sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4408731162548065,
+      "similarities": {
+        "ContextObjective": 0.4408731162548065,
+        "BenefitsAssistance": 0.404238760471344,
+        "Eligibility": 0.39803358912467957,
+        "ApplicationProcess": 0.34358352422714233,
+        "TimelineFrequency": 0.3484218120574951,
+        "AuthoritiesGovernance": 0.32913607358932495,
+        "DefinitionsReferences": 0.3311604857444763
+      }
+    },
+    {
+      "sentence": "With the assurance of subsidies, millers may be more inclined to upgrade their facilities and technology.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4657245874404907,
+      "similarities": {
+        "ContextObjective": 0.4081341624259949,
+        "BenefitsAssistance": 0.4657245874404907,
+        "Eligibility": 0.45558953285217285,
+        "ApplicationProcess": 0.4202437698841095,
+        "TimelineFrequency": 0.3899421691894531,
+        "AuthoritiesGovernance": 0.3841051161289215,
+        "DefinitionsReferences": 0.3981809616088867
+      }
+    },
+    {
+      "sentence": "This can lead to improved efficiency and productivity in the milling process.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4159564673900604,
+      "similarities": {
+        "ContextObjective": 0.410542756319046,
+        "BenefitsAssistance": 0.4159564673900604,
+        "Eligibility": 0.3584781289100647,
+        "ApplicationProcess": 0.3768243193626404,
+        "TimelineFrequency": 0.4076486825942993,
+        "AuthoritiesGovernance": 0.38327378034591675,
+        "DefinitionsReferences": 0.3842206597328186
+      }
+    },
+    {
+      "sentence": "The government continuously evaluates the impact of the Mill Gate Price Subsidy Scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4269087016582489,
+      "similarities": {
+        "ContextObjective": 0.3941800594329834,
+        "BenefitsAssistance": 0.4269087016582489,
+        "Eligibility": 0.39635783433914185,
+        "ApplicationProcess": 0.3884204030036926,
+        "TimelineFrequency": 0.38778364658355713,
+        "AuthoritiesGovernance": 0.39715874195098877,
+        "DefinitionsReferences": 0.3927619457244873
+      }
+    },
+    {
+      "sentence": "Feedback from millers and consumers is taken into account to make necessary adjustments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5107488632202148,
+      "similarities": {
+        "ContextObjective": 0.4067910313606262,
+        "BenefitsAssistance": 0.4805937111377716,
+        "Eligibility": 0.47438907623291016,
+        "ApplicationProcess": 0.45512887835502625,
+        "TimelineFrequency": 0.4189472496509552,
+        "AuthoritiesGovernance": 0.5107488632202148,
+        "DefinitionsReferences": 0.4510871171951294
+      }
+    },
+    {
+      "sentence": "The scheme is part of a comprehensive approach to agricultural development in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5072683095932007,
+      "similarities": {
+        "ContextObjective": 0.5072683095932007,
+        "BenefitsAssistance": 0.4206535816192627,
+        "Eligibility": 0.4607928991317749,
+        "ApplicationProcess": 0.44756579399108887,
+        "TimelineFrequency": 0.3883496820926666,
+        "AuthoritiesGovernance": 0.43244874477386475,
+        "DefinitionsReferences": 0.3911021947860718
+      }
+    },
+    {
+      "sentence": "It complements other initiatives aimed at enhancing food security and supporting farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.46337223052978516,
+      "similarities": {
+        "ContextObjective": 0.46337223052978516,
+        "BenefitsAssistance": 0.42418545484542847,
+        "Eligibility": 0.3959434926509857,
+        "ApplicationProcess": 0.37337127327919006,
+        "TimelineFrequency": 0.34148943424224854,
+        "AuthoritiesGovernance": 0.3928508162498474,
+        "DefinitionsReferences": 0.392403781414032
+      }
+    },
+    {
+      "sentence": "Overall, the Mill Gate Price Subsidy Scheme represents a significant effort by the Government of India to stabilize food prices.",
+      "role": "ContextObjective",
+      "confidence": 0.43040525913238525,
+      "similarities": {
+        "ContextObjective": 0.43040525913238525,
+        "BenefitsAssistance": 0.39709317684173584,
+        "Eligibility": 0.39667898416519165,
+        "ApplicationProcess": 0.3899132013320923,
+        "TimelineFrequency": 0.3543866276741028,
+        "AuthoritiesGovernance": 0.39310234785079956,
+        "DefinitionsReferences": 0.36113712191581726
+      }
+    },
+    {
+      "sentence": "It provides essential support to millers while ensuring that consumers have access to affordable food grains.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47427117824554443,
+      "similarities": {
+        "ContextObjective": 0.4117441475391388,
+        "BenefitsAssistance": 0.47427117824554443,
+        "Eligibility": 0.4396860897541046,
+        "ApplicationProcess": 0.4017401933670044,
+        "TimelineFrequency": 0.3610176146030426,
+        "AuthoritiesGovernance": 0.4116298258304596,
+        "DefinitionsReferences": 0.38366585969924927
+      }
+    },
+    {
+      "sentence": "Through this scheme, the government aims to create a sustainable agricultural economy that benefits all stakeholders involved.",
+      "role": "ContextObjective",
+      "confidence": 0.5527887344360352,
+      "similarities": {
+        "ContextObjective": 0.5527887344360352,
+        "BenefitsAssistance": 0.38827231526374817,
+        "Eligibility": 0.4521273970603943,
+        "ApplicationProcess": 0.41173744201660156,
+        "TimelineFrequency": 0.3674843907356262,
+        "AuthoritiesGovernance": 0.43700557947158813,
+        "DefinitionsReferences": 0.35993218421936035
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "Eligibility": 11,
+    "BenefitsAssistance": 14,
+    "ApplicationProcess": 6,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-24T21:05:27.924699"
+}

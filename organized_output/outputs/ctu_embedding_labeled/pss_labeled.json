@@ -1,0 +1,911 @@
+{
+  "scheme_name": "Price Support Scheme",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "The Price Support Scheme is a significant initiative launched by the Government of India to ensure the welfare of farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.5544706583023071,
+      "similarities": {
+        "ContextObjective": 0.5544706583023071,
+        "BenefitsAssistance": 0.4822421669960022,
+        "Eligibility": 0.4641212224960327,
+        "ApplicationProcess": 0.4220670461654663,
+        "TimelineFrequency": 0.3868787884712219,
+        "AuthoritiesGovernance": 0.447672963142395,
+        "DefinitionsReferences": 0.3889639973640442
+      }
+    },
+    {
+      "sentence": "It was introduced in the year 2003.",
+      "role": "ContextObjective",
+      "confidence": 0.49001187086105347,
+      "similarities": {
+        "ContextObjective": 0.49001187086105347,
+        "BenefitsAssistance": 0.45043566823005676,
+        "Eligibility": 0.4444584250450134,
+        "ApplicationProcess": 0.4794297516345978,
+        "TimelineFrequency": 0.4403032660484314,
+        "AuthoritiesGovernance": 0.41854020953178406,
+        "DefinitionsReferences": 0.43242645263671875
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide financial assistance to farmers by guaranteeing a minimum support price for certain agricultural commodities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4943506717681885,
+      "similarities": {
+        "ContextObjective": 0.49015066027641296,
+        "BenefitsAssistance": 0.4943506717681885,
+        "Eligibility": 0.48673707246780396,
+        "ApplicationProcess": 0.430586040019989,
+        "TimelineFrequency": 0.4128718078136444,
+        "AuthoritiesGovernance": 0.3864970803260803,
+        "DefinitionsReferences": 0.3708876371383667
+      }
+    },
+    {
+      "sentence": "The primary objective of the Price Support Scheme is to protect farmers from fluctuations in market prices.",
+      "role": "ContextObjective",
+      "confidence": 0.46737340092658997,
+      "similarities": {
+        "ContextObjective": 0.46737340092658997,
+        "BenefitsAssistance": 0.4255713224411011,
+        "Eligibility": 0.40286633372306824,
+        "ApplicationProcess": 0.3721410036087036,
+        "TimelineFrequency": 0.37469956278800964,
+        "AuthoritiesGovernance": 0.36211931705474854,
+        "DefinitionsReferences": 0.33298301696777344
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that farmers receive a fair price for their produce.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49195030331611633,
+      "similarities": {
+        "ContextObjective": 0.4656253457069397,
+        "BenefitsAssistance": 0.4520169496536255,
+        "Eligibility": 0.491540789604187,
+        "ApplicationProcess": 0.4711161255836487,
+        "TimelineFrequency": 0.4283057153224945,
+        "AuthoritiesGovernance": 0.49195030331611633,
+        "DefinitionsReferences": 0.4173799157142639
+      }
+    },
+    {
+      "sentence": "This is particularly crucial during periods of bumper harvests, which can lead to a sharp decline in market prices.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4037911593914032,
+      "similarities": {
+        "ContextObjective": 0.3215528130531311,
+        "BenefitsAssistance": 0.3652247488498688,
+        "Eligibility": 0.3731827437877655,
+        "ApplicationProcess": 0.33750611543655396,
+        "TimelineFrequency": 0.4037911593914032,
+        "AuthoritiesGovernance": 0.28155142068862915,
+        "DefinitionsReferences": 0.31098541617393494
+      }
+    },
+    {
+      "sentence": "The scheme covers a variety of crops including cereals, pulses, oilseeds, and cotton.",
+      "role": "Eligibility",
+      "confidence": 0.5057997703552246,
+      "similarities": {
+        "ContextObjective": 0.5011142492294312,
+        "BenefitsAssistance": 0.49845123291015625,
+        "Eligibility": 0.5057997703552246,
+        "ApplicationProcess": 0.4256839454174042,
+        "TimelineFrequency": 0.4832209348678589,
+        "AuthoritiesGovernance": 0.3906514048576355,
+        "DefinitionsReferences": 0.44372642040252686
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government announces a minimum support price before the sowing season.",
+      "role": "ContextObjective",
+      "confidence": 0.4352417588233948,
+      "similarities": {
+        "ContextObjective": 0.4352417588233948,
+        "BenefitsAssistance": 0.4059741497039795,
+        "Eligibility": 0.4103984236717224,
+        "ApplicationProcess": 0.3772573471069336,
+        "TimelineFrequency": 0.4338037371635437,
+        "AuthoritiesGovernance": 0.33170610666275024,
+        "DefinitionsReferences": 0.32398757338523865
+      }
+    },
+    {
+      "sentence": "The minimum support price is determined based on the cost of production and is usually set at a minimum of 1.5 times the cost of production.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44245046377182007,
+      "similarities": {
+        "ContextObjective": 0.35634922981262207,
+        "BenefitsAssistance": 0.44245046377182007,
+        "Eligibility": 0.3484032154083252,
+        "ApplicationProcess": 0.3440265655517578,
+        "TimelineFrequency": 0.36578747630119324,
+        "AuthoritiesGovernance": 0.2913476824760437,
+        "DefinitionsReferences": 0.3632720112800598
+      }
+    },
+    {
+      "sentence": "For example, the minimum support price for paddy was set at INR 1,940 per quintal for the Kharif marketing season of 2021-22.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4363310635089874,
+      "similarities": {
+        "ContextObjective": 0.3785380721092224,
+        "BenefitsAssistance": 0.4363310635089874,
+        "Eligibility": 0.41536322236061096,
+        "ApplicationProcess": 0.35756218433380127,
+        "TimelineFrequency": 0.3710111975669861,
+        "AuthoritiesGovernance": 0.3326232433319092,
+        "DefinitionsReferences": 0.3415006995201111
+      }
+    },
+    {
+      "sentence": "For wheat, the minimum support price was set at INR 2,015 per quintal for the Rabi marketing season of 2021-22.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4498264789581299,
+      "similarities": {
+        "ContextObjective": 0.38003426790237427,
+        "BenefitsAssistance": 0.4498264789581299,
+        "Eligibility": 0.41816872358322144,
+        "ApplicationProcess": 0.35561972856521606,
+        "TimelineFrequency": 0.378842830657959,
+        "AuthoritiesGovernance": 0.34266000986099243,
+        "DefinitionsReferences": 0.3300383687019348
+      }
+    },
+    {
+      "sentence": "The government procures these crops directly from farmers at the announced minimum support price.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.38870689272880554,
+      "similarities": {
+        "ContextObjective": 0.3712012469768524,
+        "BenefitsAssistance": 0.38870689272880554,
+        "Eligibility": 0.3834679126739502,
+        "ApplicationProcess": 0.3597332239151001,
+        "TimelineFrequency": 0.321293443441391,
+        "AuthoritiesGovernance": 0.33881494402885437,
+        "DefinitionsReferences": 0.3269863724708557
+      }
+    },
+    {
+      "sentence": "This procurement is carried out through various agencies including the Food Corporation of India and state government agencies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5172204971313477,
+      "similarities": {
+        "ContextObjective": 0.44719862937927246,
+        "BenefitsAssistance": 0.4536226987838745,
+        "Eligibility": 0.4772089421749115,
+        "ApplicationProcess": 0.48867350816726685,
+        "TimelineFrequency": 0.4348556697368622,
+        "AuthoritiesGovernance": 0.5172204971313477,
+        "DefinitionsReferences": 0.4467334449291229
+      }
+    },
+    {
+      "sentence": "Farmers can sell their produce to these agencies at the minimum support price.",
+      "role": "Eligibility",
+      "confidence": 0.44439566135406494,
+      "similarities": {
+        "ContextObjective": 0.3859776258468628,
+        "BenefitsAssistance": 0.43995022773742676,
+        "Eligibility": 0.44439566135406494,
+        "ApplicationProcess": 0.395334392786026,
+        "TimelineFrequency": 0.36025574803352356,
+        "AuthoritiesGovernance": 0.37812116742134094,
+        "DefinitionsReferences": 0.34792155027389526
+      }
+    },
+    {
+      "sentence": "This ensures that they do not have to sell their crops at a loss during times of market distress.",
+      "role": "Eligibility",
+      "confidence": 0.43280458450317383,
+      "similarities": {
+        "ContextObjective": 0.3739648461341858,
+        "BenefitsAssistance": 0.401915967464447,
+        "Eligibility": 0.43280458450317383,
+        "ApplicationProcess": 0.37259209156036377,
+        "TimelineFrequency": 0.3571925461292267,
+        "AuthoritiesGovernance": 0.333503782749176,
+        "DefinitionsReferences": 0.324657678604126
+      }
+    },
+    {
+      "sentence": "The Price Support Scheme also plays a vital role in stabilizing the prices of essential commodities in the market.",
+      "role": "ContextObjective",
+      "confidence": 0.46808022260665894,
+      "similarities": {
+        "ContextObjective": 0.46808022260665894,
+        "BenefitsAssistance": 0.4240668714046478,
+        "Eligibility": 0.3940504193305969,
+        "ApplicationProcess": 0.38214096426963806,
+        "TimelineFrequency": 0.3612535893917084,
+        "AuthoritiesGovernance": 0.3651241064071655,
+        "DefinitionsReferences": 0.39661264419555664
+      }
+    },
+    {
+      "sentence": "By procuring crops at a guaranteed price, the government can manage supply and demand effectively.",
+      "role": "Eligibility",
+      "confidence": 0.44968050718307495,
+      "similarities": {
+        "ContextObjective": 0.4296397864818573,
+        "BenefitsAssistance": 0.4142085909843445,
+        "Eligibility": 0.44968050718307495,
+        "ApplicationProcess": 0.4235800504684448,
+        "TimelineFrequency": 0.42059457302093506,
+        "AuthoritiesGovernance": 0.43366914987564087,
+        "DefinitionsReferences": 0.38052207231521606
+      }
+    },
+    {
+      "sentence": "This helps in preventing inflation and ensuring food security for the nation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4748431444168091,
+      "similarities": {
+        "ContextObjective": 0.4717106223106384,
+        "BenefitsAssistance": 0.4748431444168091,
+        "Eligibility": 0.4650900363922119,
+        "ApplicationProcess": 0.43836861848831177,
+        "TimelineFrequency": 0.39155566692352295,
+        "AuthoritiesGovernance": 0.4087856709957123,
+        "DefinitionsReferences": 0.383243203163147
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for farmers under the Price Support Scheme are quite inclusive.",
+      "role": "Eligibility",
+      "confidence": 0.5893296003341675,
+      "similarities": {
+        "ContextObjective": 0.5020473599433899,
+        "BenefitsAssistance": 0.518983006477356,
+        "Eligibility": 0.5893296003341675,
+        "ApplicationProcess": 0.459084153175354,
+        "TimelineFrequency": 0.4586382508277893,
+        "AuthoritiesGovernance": 0.3852144479751587,
+        "DefinitionsReferences": 0.41732269525527954
+      }
+    },
+    {
+      "sentence": "Any farmer who cultivates the notified crops is eligible to participate in the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5171822309494019,
+      "similarities": {
+        "ContextObjective": 0.44488993287086487,
+        "BenefitsAssistance": 0.39275848865509033,
+        "Eligibility": 0.5171822309494019,
+        "ApplicationProcess": 0.42219164967536926,
+        "TimelineFrequency": 0.3819190263748169,
+        "AuthoritiesGovernance": 0.36623066663742065,
+        "DefinitionsReferences": 0.3267744481563568
+      }
+    },
+    {
+      "sentence": "There are no specific age limits or educational requirements for farmers to qualify.",
+      "role": "Eligibility",
+      "confidence": 0.46619758009910583,
+      "similarities": {
+        "ContextObjective": 0.33896923065185547,
+        "BenefitsAssistance": 0.3365386128425598,
+        "Eligibility": 0.46619758009910583,
+        "ApplicationProcess": 0.36518168449401855,
+        "TimelineFrequency": 0.3453402817249298,
+        "AuthoritiesGovernance": 0.3087870478630066,
+        "DefinitionsReferences": 0.2753322422504425
+      }
+    },
+    {
+      "sentence": "However, farmers must have valid land ownership documents to sell their produce under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5202504396438599,
+      "similarities": {
+        "ContextObjective": 0.4667329490184784,
+        "BenefitsAssistance": 0.42124342918395996,
+        "Eligibility": 0.5202504396438599,
+        "ApplicationProcess": 0.5184866189956665,
+        "TimelineFrequency": 0.40489691495895386,
+        "AuthoritiesGovernance": 0.38948166370391846,
+        "DefinitionsReferences": 0.43064191937446594
+      }
+    },
+    {
+      "sentence": "The application process for the Price Support Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.563678503036499,
+      "similarities": {
+        "ContextObjective": 0.5270284414291382,
+        "BenefitsAssistance": 0.48936212062835693,
+        "Eligibility": 0.5010079145431519,
+        "ApplicationProcess": 0.563678503036499,
+        "TimelineFrequency": 0.48636704683303833,
+        "AuthoritiesGovernance": 0.4202590584754944,
+        "DefinitionsReferences": 0.3908606469631195
+      }
+    },
+    {
+      "sentence": "Farmers need to approach the nearest procurement center established by the government.",
+      "role": "Eligibility",
+      "confidence": 0.5206094980239868,
+      "similarities": {
+        "ContextObjective": 0.4386773407459259,
+        "BenefitsAssistance": 0.3896326422691345,
+        "Eligibility": 0.5206094980239868,
+        "ApplicationProcess": 0.5004928708076477,
+        "TimelineFrequency": 0.4240332543849945,
+        "AuthoritiesGovernance": 0.49463993310928345,
+        "DefinitionsReferences": 0.40233108401298523
+      }
+    },
+    {
+      "sentence": "They must present their land ownership documents and any other required identification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5658358335494995,
+      "similarities": {
+        "ContextObjective": 0.44075828790664673,
+        "BenefitsAssistance": 0.469228595495224,
+        "Eligibility": 0.5304825305938721,
+        "ApplicationProcess": 0.5658358335494995,
+        "TimelineFrequency": 0.42440927028656006,
+        "AuthoritiesGovernance": 0.41322001814842224,
+        "DefinitionsReferences": 0.4903753995895386
+      }
+    },
+    {
+      "sentence": "The procurement centers are usually set up in mandis or local markets.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4684556722640991,
+      "similarities": {
+        "ContextObjective": 0.43900859355926514,
+        "BenefitsAssistance": 0.40034180879592896,
+        "Eligibility": 0.45850926637649536,
+        "ApplicationProcess": 0.4229920506477356,
+        "TimelineFrequency": 0.4196862578392029,
+        "AuthoritiesGovernance": 0.4684556722640991,
+        "DefinitionsReferences": 0.42950817942619324
+      }
+    },
+    {
+      "sentence": "Farmers can also check the official website of the Ministry of Agriculture and Farmers' Welfare for details on procurement centers.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49170026183128357,
+      "similarities": {
+        "ContextObjective": 0.3994256258010864,
+        "BenefitsAssistance": 0.4589400291442871,
+        "Eligibility": 0.4741659164428711,
+        "ApplicationProcess": 0.49170026183128357,
+        "TimelineFrequency": 0.43285486102104187,
+        "AuthoritiesGovernance": 0.4634137451648712,
+        "DefinitionsReferences": 0.45638859272003174
+      }
+    },
+    {
+      "sentence": "The timeline for the Price Support Scheme aligns with the agricultural calendar.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5272589921951294,
+      "similarities": {
+        "ContextObjective": 0.4850102365016937,
+        "BenefitsAssistance": 0.4617989957332611,
+        "Eligibility": 0.4141657054424286,
+        "ApplicationProcess": 0.39315351843833923,
+        "TimelineFrequency": 0.5272589921951294,
+        "AuthoritiesGovernance": 0.41579669713974,
+        "DefinitionsReferences": 0.4148145020008087
+      }
+    },
+    {
+      "sentence": "The government announces the minimum support prices for Kharif crops usually in July.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42461472749710083,
+      "similarities": {
+        "ContextObjective": 0.36667752265930176,
+        "BenefitsAssistance": 0.42461472749710083,
+        "Eligibility": 0.39321082830429077,
+        "ApplicationProcess": 0.36582744121551514,
+        "TimelineFrequency": 0.4080893099308014,
+        "AuthoritiesGovernance": 0.35676276683807373,
+        "DefinitionsReferences": 0.3586454391479492
+      }
+    },
+    {
+      "sentence": "For Rabi crops, the announcement is typically made in December.",
+      "role": "TimelineFrequency",
+      "confidence": 0.46194320917129517,
+      "similarities": {
+        "ContextObjective": 0.39581549167633057,
+        "BenefitsAssistance": 0.3785134553909302,
+        "Eligibility": 0.4028652012348175,
+        "ApplicationProcess": 0.3954083323478699,
+        "TimelineFrequency": 0.46194320917129517,
+        "AuthoritiesGovernance": 0.35885876417160034,
+        "DefinitionsReferences": 0.3423796594142914
+      }
+    },
+    {
+      "sentence": "The procurement of Kharif crops usually takes place from October to December.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49343621730804443,
+      "similarities": {
+        "ContextObjective": 0.4084281027317047,
+        "BenefitsAssistance": 0.38267388939857483,
+        "Eligibility": 0.4357302486896515,
+        "ApplicationProcess": 0.4264758229255676,
+        "TimelineFrequency": 0.49343621730804443,
+        "AuthoritiesGovernance": 0.38614752888679504,
+        "DefinitionsReferences": 0.3704681992530823
+      }
+    },
+    {
+      "sentence": "For Rabi crops, procurement occurs from April to June.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4924326539039612,
+      "similarities": {
+        "ContextObjective": 0.4112020432949066,
+        "BenefitsAssistance": 0.3785632848739624,
+        "Eligibility": 0.4372124671936035,
+        "ApplicationProcess": 0.40677669644355774,
+        "TimelineFrequency": 0.4924326539039612,
+        "AuthoritiesGovernance": 0.3920804262161255,
+        "DefinitionsReferences": 0.34694039821624756
+      }
+    },
+    {
+      "sentence": "The disbursement of payments to farmers is generally made within a week of the sale.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47237640619277954,
+      "similarities": {
+        "ContextObjective": 0.4022263288497925,
+        "BenefitsAssistance": 0.47237640619277954,
+        "Eligibility": 0.4090096950531006,
+        "ApplicationProcess": 0.3646743893623352,
+        "TimelineFrequency": 0.4265555143356323,
+        "AuthoritiesGovernance": 0.3966066837310791,
+        "DefinitionsReferences": 0.36157047748565674
+      }
+    },
+    {
+      "sentence": "This ensures that farmers receive timely payments for their produce.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45864757895469666,
+      "similarities": {
+        "ContextObjective": 0.3924126625061035,
+        "BenefitsAssistance": 0.45864757895469666,
+        "Eligibility": 0.45658326148986816,
+        "ApplicationProcess": 0.4342171549797058,
+        "TimelineFrequency": 0.4485940933227539,
+        "AuthoritiesGovernance": 0.4171685576438904,
+        "DefinitionsReferences": 0.36423608660697937
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Price Support Scheme is the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5528067946434021,
+      "similarities": {
+        "ContextObjective": 0.4588184356689453,
+        "BenefitsAssistance": 0.4574352502822876,
+        "Eligibility": 0.45012640953063965,
+        "ApplicationProcess": 0.40638574957847595,
+        "TimelineFrequency": 0.3623007535934448,
+        "AuthoritiesGovernance": 0.5528067946434021,
+        "DefinitionsReferences": 0.3975987434387207
+      }
+    },
+    {
+      "sentence": "The Food Corporation of India plays a crucial role in the procurement process.",
+      "role": "Eligibility",
+      "confidence": 0.45467934012413025,
+      "similarities": {
+        "ContextObjective": 0.4497073292732239,
+        "BenefitsAssistance": 0.402400404214859,
+        "Eligibility": 0.45467934012413025,
+        "ApplicationProcess": 0.45146381855010986,
+        "TimelineFrequency": 0.389575719833374,
+        "AuthoritiesGovernance": 0.4395833909511566,
+        "DefinitionsReferences": 0.4109928011894226
+      }
+    },
+    {
+      "sentence": "State governments also have their respective agencies that facilitate the procurement of crops.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5503379702568054,
+      "similarities": {
+        "ContextObjective": 0.4551149606704712,
+        "BenefitsAssistance": 0.4527127742767334,
+        "Eligibility": 0.516213595867157,
+        "ApplicationProcess": 0.47911494970321655,
+        "TimelineFrequency": 0.46889591217041016,
+        "AuthoritiesGovernance": 0.5503379702568054,
+        "DefinitionsReferences": 0.461310476064682
+      }
+    },
+    {
+      "sentence": "Farmers can contact the Ministry of Agriculture and Farmers' Welfare at their official helpline number 1800 180 1551 for assistance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45496848225593567,
+      "similarities": {
+        "ContextObjective": 0.3773793578147888,
+        "BenefitsAssistance": 0.44253551959991455,
+        "Eligibility": 0.43908175826072693,
+        "ApplicationProcess": 0.4271371066570282,
+        "TimelineFrequency": 0.3770117163658142,
+        "AuthoritiesGovernance": 0.45496848225593567,
+        "DefinitionsReferences": 0.3575935959815979
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant participation from farmers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4976500868797302,
+      "similarities": {
+        "ContextObjective": 0.4976500868797302,
+        "BenefitsAssistance": 0.4222298562526703,
+        "Eligibility": 0.47431012988090515,
+        "ApplicationProcess": 0.4148162007331848,
+        "TimelineFrequency": 0.38112038373947144,
+        "AuthoritiesGovernance": 0.4173097610473633,
+        "DefinitionsReferences": 0.37780076265335083
+      }
+    },
+    {
+      "sentence": "In the Kharif marketing season of 2020-21, the government procured over 77.44 million tonnes of paddy.",
+      "role": "Eligibility",
+      "confidence": 0.4202329218387604,
+      "similarities": {
+        "ContextObjective": 0.3857167065143585,
+        "BenefitsAssistance": 0.37624895572662354,
+        "Eligibility": 0.4202329218387604,
+        "ApplicationProcess": 0.36625364422798157,
+        "TimelineFrequency": 0.3954695463180542,
+        "AuthoritiesGovernance": 0.36418622732162476,
+        "DefinitionsReferences": 0.36151206493377686
+      }
+    },
+    {
+      "sentence": "This reflects the scheme's effectiveness in providing financial security to farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.4997755289077759,
+      "similarities": {
+        "ContextObjective": 0.4997755289077759,
+        "BenefitsAssistance": 0.46060144901275635,
+        "Eligibility": 0.43818724155426025,
+        "ApplicationProcess": 0.3848271667957306,
+        "TimelineFrequency": 0.3516600728034973,
+        "AuthoritiesGovernance": 0.36452406644821167,
+        "DefinitionsReferences": 0.349457323551178
+      }
+    },
+    {
+      "sentence": "The Price Support Scheme has also been instrumental in increasing the production of food grains in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4320947527885437,
+      "similarities": {
+        "ContextObjective": 0.4320947527885437,
+        "BenefitsAssistance": 0.4042256772518158,
+        "Eligibility": 0.36551177501678467,
+        "ApplicationProcess": 0.3202950954437256,
+        "TimelineFrequency": 0.3101555109024048,
+        "AuthoritiesGovernance": 0.3463501036167145,
+        "DefinitionsReferences": 0.36157405376434326
+      }
+    },
+    {
+      "sentence": "The government has reported a steady increase in the production of pulses and oilseeds due to the support provided under this scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4422447681427002,
+      "similarities": {
+        "ContextObjective": 0.43941235542297363,
+        "BenefitsAssistance": 0.4422447681427002,
+        "Eligibility": 0.3822495937347412,
+        "ApplicationProcess": 0.36724400520324707,
+        "TimelineFrequency": 0.3777540624141693,
+        "AuthoritiesGovernance": 0.3776828348636627,
+        "DefinitionsReferences": 0.4025871753692627
+      }
+    },
+    {
+      "sentence": "In the year 2020-21, the total production of pulses was estimated at 25.23 million tonnes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4083567261695862,
+      "similarities": {
+        "ContextObjective": 0.348097562789917,
+        "BenefitsAssistance": 0.4083567261695862,
+        "Eligibility": 0.3702358305454254,
+        "ApplicationProcess": 0.3470569849014282,
+        "TimelineFrequency": 0.3898589313030243,
+        "AuthoritiesGovernance": 0.3210733234882355,
+        "DefinitionsReferences": 0.34919339418411255
+      }
+    },
+    {
+      "sentence": "The scheme has also contributed to the overall growth of the agricultural sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4648250937461853,
+      "similarities": {
+        "ContextObjective": 0.4648250937461853,
+        "BenefitsAssistance": 0.4038601815700531,
+        "Eligibility": 0.37452077865600586,
+        "ApplicationProcess": 0.3656192421913147,
+        "TimelineFrequency": 0.34379976987838745,
+        "AuthoritiesGovernance": 0.3717377185821533,
+        "DefinitionsReferences": 0.3693353831768036
+      }
+    },
+    {
+      "sentence": "It has encouraged farmers to adopt modern agricultural practices and invest in better quality seeds.",
+      "role": "ContextObjective",
+      "confidence": 0.3725975453853607,
+      "similarities": {
+        "ContextObjective": 0.3725975453853607,
+        "BenefitsAssistance": 0.337685763835907,
+        "Eligibility": 0.36228805780410767,
+        "ApplicationProcess": 0.3620832860469818,
+        "TimelineFrequency": 0.30324655771255493,
+        "AuthoritiesGovernance": 0.32444000244140625,
+        "DefinitionsReferences": 0.35686832666397095
+      }
+    },
+    {
+      "sentence": "The Price Support Scheme is part of a broader strategy to enhance the income of farmers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49948590993881226,
+      "similarities": {
+        "ContextObjective": 0.49948590993881226,
+        "BenefitsAssistance": 0.4600066542625427,
+        "Eligibility": 0.4178647994995117,
+        "ApplicationProcess": 0.36934250593185425,
+        "TimelineFrequency": 0.35408589243888855,
+        "AuthoritiesGovernance": 0.3966899514198303,
+        "DefinitionsReferences": 0.39138349890708923
+      }
+    },
+    {
+      "sentence": "The government has set a target to double farmers' income by the year 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4328624904155731,
+      "similarities": {
+        "ContextObjective": 0.4328624904155731,
+        "BenefitsAssistance": 0.3594778776168823,
+        "Eligibility": 0.3940151035785675,
+        "ApplicationProcess": 0.32685166597366333,
+        "TimelineFrequency": 0.34565824270248413,
+        "AuthoritiesGovernance": 0.32115012407302856,
+        "DefinitionsReferences": 0.3222445845603943
+      }
+    },
+    {
+      "sentence": "This initiative is aligned with the vision of the Prime Minister to make agriculture a profitable venture.",
+      "role": "ContextObjective",
+      "confidence": 0.5133643746376038,
+      "similarities": {
+        "ContextObjective": 0.5133643746376038,
+        "BenefitsAssistance": 0.3551315665245056,
+        "Eligibility": 0.40702611207962036,
+        "ApplicationProcess": 0.37852662801742554,
+        "TimelineFrequency": 0.3297432065010071,
+        "AuthoritiesGovernance": 0.36295783519744873,
+        "DefinitionsReferences": 0.34957003593444824
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various farmer organizations and agricultural experts.",
+      "role": "ContextObjective",
+      "confidence": 0.4794974625110626,
+      "similarities": {
+        "ContextObjective": 0.4794974625110626,
+        "BenefitsAssistance": 0.40325939655303955,
+        "Eligibility": 0.4317259192466736,
+        "ApplicationProcess": 0.3841319978237152,
+        "TimelineFrequency": 0.34666281938552856,
+        "AuthoritiesGovernance": 0.43415331840515137,
+        "DefinitionsReferences": 0.38780441880226135
+      }
+    },
+    {
+      "sentence": "They highlight the importance of price support in ensuring the sustainability of farming as a livelihood.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47156792879104614,
+      "similarities": {
+        "ContextObjective": 0.4539909362792969,
+        "BenefitsAssistance": 0.47156792879104614,
+        "Eligibility": 0.3975277245044708,
+        "ApplicationProcess": 0.37866342067718506,
+        "TimelineFrequency": 0.3771909773349762,
+        "AuthoritiesGovernance": 0.38756173849105835,
+        "DefinitionsReferences": 0.4120165705680847
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the implementation of the scheme to ensure its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5670633912086487,
+      "similarities": {
+        "ContextObjective": 0.515927791595459,
+        "BenefitsAssistance": 0.4482343792915344,
+        "Eligibility": 0.4838012158870697,
+        "ApplicationProcess": 0.49569636583328247,
+        "TimelineFrequency": 0.4215759038925171,
+        "AuthoritiesGovernance": 0.5670633912086487,
+        "DefinitionsReferences": 0.43055468797683716
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact of the scheme on farmers' incomes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4638826549053192,
+      "similarities": {
+        "ContextObjective": 0.4197937250137329,
+        "BenefitsAssistance": 0.4638826549053192,
+        "Eligibility": 0.46020057797431946,
+        "ApplicationProcess": 0.41708338260650635,
+        "TimelineFrequency": 0.40696093440055847,
+        "AuthoritiesGovernance": 0.4045713543891907,
+        "DefinitionsReferences": 0.38839757442474365
+      }
+    },
+    {
+      "sentence": "The Price Support Scheme is a vital component of India's agricultural policy framework.",
+      "role": "ContextObjective",
+      "confidence": 0.4920194745063782,
+      "similarities": {
+        "ContextObjective": 0.4920194745063782,
+        "BenefitsAssistance": 0.44156360626220703,
+        "Eligibility": 0.43562930822372437,
+        "ApplicationProcess": 0.39604222774505615,
+        "TimelineFrequency": 0.3806847333908081,
+        "AuthoritiesGovernance": 0.40706947445869446,
+        "DefinitionsReferences": 0.4121548533439636
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to supporting the farming community.",
+      "role": "ContextObjective",
+      "confidence": 0.42851853370666504,
+      "similarities": {
+        "ContextObjective": 0.42851853370666504,
+        "BenefitsAssistance": 0.4032250642776489,
+        "Eligibility": 0.41523826122283936,
+        "ApplicationProcess": 0.3817691206932068,
+        "TimelineFrequency": 0.3431309461593628,
+        "AuthoritiesGovernance": 0.40724897384643555,
+        "DefinitionsReferences": 0.4110305905342102
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also promotes food security in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.518447756767273,
+      "similarities": {
+        "ContextObjective": 0.518447756767273,
+        "BenefitsAssistance": 0.47302573919296265,
+        "Eligibility": 0.5015155076980591,
+        "ApplicationProcess": 0.42694056034088135,
+        "TimelineFrequency": 0.384369432926178,
+        "AuthoritiesGovernance": 0.39180320501327515,
+        "DefinitionsReferences": 0.36306631565093994
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to utilize the benefits of the scheme to improve their economic conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.49719399213790894,
+      "similarities": {
+        "ContextObjective": 0.49719399213790894,
+        "BenefitsAssistance": 0.4561502933502197,
+        "Eligibility": 0.4588877558708191,
+        "ApplicationProcess": 0.41098257899284363,
+        "TimelineFrequency": 0.37820711731910706,
+        "AuthoritiesGovernance": 0.4002826511859894,
+        "DefinitionsReferences": 0.3980879783630371
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to enhancing the welfare of farmers through various initiatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.472528874874115,
+      "similarities": {
+        "ContextObjective": 0.45126575231552124,
+        "BenefitsAssistance": 0.40595054626464844,
+        "Eligibility": 0.4140157699584961,
+        "ApplicationProcess": 0.4049469530582428,
+        "TimelineFrequency": 0.3557971715927124,
+        "AuthoritiesGovernance": 0.472528874874115,
+        "DefinitionsReferences": 0.42387664318084717
+      }
+    },
+    {
+      "sentence": "The Price Support Scheme is a testament to this commitment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46782374382019043,
+      "similarities": {
+        "ContextObjective": 0.453764945268631,
+        "BenefitsAssistance": 0.46782374382019043,
+        "Eligibility": 0.3944384455680847,
+        "ApplicationProcess": 0.37918007373809814,
+        "TimelineFrequency": 0.35281193256378174,
+        "AuthoritiesGovernance": 0.3548493981361389,
+        "DefinitionsReferences": 0.3932379484176636
+      }
+    },
+    {
+      "sentence": "Farmers are urged to stay informed about the minimum support prices and procurement processes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5146260261535645,
+      "similarities": {
+        "ContextObjective": 0.4137424826622009,
+        "BenefitsAssistance": 0.5146260261535645,
+        "Eligibility": 0.47055941820144653,
+        "ApplicationProcess": 0.462706983089447,
+        "TimelineFrequency": 0.43138158321380615,
+        "AuthoritiesGovernance": 0.4589947760105133,
+        "DefinitionsReferences": 0.4186750650405884
+      }
+    },
+    {
+      "sentence": "This will enable them to make the most of the opportunities provided by the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5740838646888733,
+      "similarities": {
+        "ContextObjective": 0.5740838646888733,
+        "BenefitsAssistance": 0.47149062156677246,
+        "Eligibility": 0.546177864074707,
+        "ApplicationProcess": 0.4641808867454529,
+        "TimelineFrequency": 0.4727863371372223,
+        "AuthoritiesGovernance": 0.4191943407058716,
+        "DefinitionsReferences": 0.40702706575393677
+      }
+    },
+    {
+      "sentence": "In conclusion, the Price Support Scheme is a comprehensive initiative aimed at safeguarding the interests of farmers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5159947276115417,
+      "similarities": {
+        "ContextObjective": 0.5159947276115417,
+        "BenefitsAssistance": 0.4794490933418274,
+        "Eligibility": 0.45078161358833313,
+        "ApplicationProcess": 0.4204324781894684,
+        "TimelineFrequency": 0.36196449398994446,
+        "AuthoritiesGovernance": 0.4188011884689331,
+        "DefinitionsReferences": 0.40028297901153564
+      }
+    },
+    {
+      "sentence": "It plays a crucial role in ensuring that farmers receive fair compensation for their hard work and investment.",
+      "role": "Eligibility",
+      "confidence": 0.4666142463684082,
+      "similarities": {
+        "ContextObjective": 0.4280532896518707,
+        "BenefitsAssistance": 0.439693421125412,
+        "Eligibility": 0.4666142463684082,
+        "ApplicationProcess": 0.42929255962371826,
+        "TimelineFrequency": 0.3826568126678467,
+        "AuthoritiesGovernance": 0.4549248218536377,
+        "DefinitionsReferences": 0.38296541571617126
+      }
+    },
+    {
+      "sentence": "The scheme is a vital tool for promoting agricultural sustainability and economic growth in the rural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5266258120536804,
+      "similarities": {
+        "ContextObjective": 0.5266258120536804,
+        "BenefitsAssistance": 0.39692598581314087,
+        "Eligibility": 0.4318353533744812,
+        "ApplicationProcess": 0.4175053536891937,
+        "TimelineFrequency": 0.38696950674057007,
+        "AuthoritiesGovernance": 0.3747895061969757,
+        "DefinitionsReferences": 0.36473938822746277
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "BenefitsAssistance": 15,
+    "AuthoritiesGovernance": 8,
+    "TimelineFrequency": 5,
+    "Eligibility": 12,
+    "ApplicationProcess": 3
+  },
+  "processing_timestamp": "2025-09-25T20:51:24.213110"
+}

@@ -1,0 +1,883 @@
+{
+  "scheme_name": "Interest Subsidy Scheme, 2008",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Interest Subsidy Scheme was launched by the Government of India in 2008.",
+      "role": "ContextObjective",
+      "confidence": 0.5427829027175903,
+      "similarities": {
+        "ContextObjective": 0.5427829027175903,
+        "BenefitsAssistance": 0.4687420129776001,
+        "Eligibility": 0.4464316666126251,
+        "ApplicationProcess": 0.41682589054107666,
+        "TimelineFrequency": 0.41263407468795776,
+        "AuthoritiesGovernance": 0.4163961112499237,
+        "DefinitionsReferences": 0.3755810856819153
+      }
+    },
+    {
+      "sentence": "This scheme was specifically designed to provide financial assistance to students pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.526547372341156,
+      "similarities": {
+        "ContextObjective": 0.526547372341156,
+        "BenefitsAssistance": 0.5218764543533325,
+        "Eligibility": 0.5008273720741272,
+        "ApplicationProcess": 0.4620758891105652,
+        "TimelineFrequency": 0.44581425189971924,
+        "AuthoritiesGovernance": 0.3652113676071167,
+        "DefinitionsReferences": 0.36927369236946106
+      }
+    },
+    {
+      "sentence": "The primary aim of the scheme is to make education accessible to students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5649593472480774,
+      "similarities": {
+        "ContextObjective": 0.5649593472480774,
+        "BenefitsAssistance": 0.40801241993904114,
+        "Eligibility": 0.4976080656051636,
+        "ApplicationProcess": 0.41736364364624023,
+        "TimelineFrequency": 0.4003000557422638,
+        "AuthoritiesGovernance": 0.3901273012161255,
+        "DefinitionsReferences": 0.32957005500793457
+      }
+    },
+    {
+      "sentence": "The scheme provides an interest subsidy on educational loans taken by students.",
+      "role": "ContextObjective",
+      "confidence": 0.5006700158119202,
+      "similarities": {
+        "ContextObjective": 0.5006700158119202,
+        "BenefitsAssistance": 0.4805432856082916,
+        "Eligibility": 0.4859699606895447,
+        "ApplicationProcess": 0.4199236035346985,
+        "TimelineFrequency": 0.45328760147094727,
+        "AuthoritiesGovernance": 0.3696293234825134,
+        "DefinitionsReferences": 0.3913857340812683
+      }
+    },
+    {
+      "sentence": "The interest subsidy is applicable during the period of moratorium.",
+      "role": "Eligibility",
+      "confidence": 0.5082685351371765,
+      "similarities": {
+        "ContextObjective": 0.442511647939682,
+        "BenefitsAssistance": 0.4926227629184723,
+        "Eligibility": 0.5082685351371765,
+        "ApplicationProcess": 0.4262085556983948,
+        "TimelineFrequency": 0.5071678161621094,
+        "AuthoritiesGovernance": 0.43736356496810913,
+        "DefinitionsReferences": 0.41716480255126953
+      }
+    },
+    {
+      "sentence": "The moratorium period is defined as the time frame during which students are not required to start repaying their loans.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5334494709968567,
+      "similarities": {
+        "ContextObjective": 0.3631758689880371,
+        "BenefitsAssistance": 0.41832292079925537,
+        "Eligibility": 0.4849737584590912,
+        "ApplicationProcess": 0.4113231301307678,
+        "TimelineFrequency": 0.5334494709968567,
+        "AuthoritiesGovernance": 0.3570388853549957,
+        "DefinitionsReferences": 0.3647346496582031
+      }
+    },
+    {
+      "sentence": "This period typically lasts for the duration of the course plus an additional year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5862999558448792,
+      "similarities": {
+        "ContextObjective": 0.4919573664665222,
+        "BenefitsAssistance": 0.4949118494987488,
+        "Eligibility": 0.4474892020225525,
+        "ApplicationProcess": 0.4811607003211975,
+        "TimelineFrequency": 0.5862999558448792,
+        "AuthoritiesGovernance": 0.40122151374816895,
+        "DefinitionsReferences": 0.4911835789680481
+      }
+    },
+    {
+      "sentence": "The scheme is particularly beneficial for students from families with an annual income of less than INR 4.5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.4647800326347351,
+      "similarities": {
+        "ContextObjective": 0.43452757596969604,
+        "BenefitsAssistance": 0.45093804597854614,
+        "Eligibility": 0.4647800326347351,
+        "ApplicationProcess": 0.4024185240268707,
+        "TimelineFrequency": 0.39014095067977905,
+        "AuthoritiesGovernance": 0.31772783398628235,
+        "DefinitionsReferences": 0.31904980540275574
+      }
+    },
+    {
+      "sentence": "The interest subsidy covers loans taken for professional courses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5000699758529663,
+      "similarities": {
+        "ContextObjective": 0.43223893642425537,
+        "BenefitsAssistance": 0.5000699758529663,
+        "Eligibility": 0.45575928688049316,
+        "ApplicationProcess": 0.38439756631851196,
+        "TimelineFrequency": 0.4407343566417694,
+        "AuthoritiesGovernance": 0.3545917272567749,
+        "DefinitionsReferences": 0.41885390877723694
+      }
+    },
+    {
+      "sentence": "These professional courses include engineering, medical, management, and other vocational training programs.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4521018862724304,
+      "similarities": {
+        "ContextObjective": 0.42978519201278687,
+        "BenefitsAssistance": 0.4287456274032593,
+        "Eligibility": 0.39562833309173584,
+        "ApplicationProcess": 0.38908451795578003,
+        "TimelineFrequency": 0.4521018862724304,
+        "AuthoritiesGovernance": 0.4063875079154968,
+        "DefinitionsReferences": 0.4403533935546875
+      }
+    },
+    {
+      "sentence": "The maximum amount of loan eligible for the interest subsidy is INR 7.5 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4703473746776581,
+      "similarities": {
+        "ContextObjective": 0.4046202600002289,
+        "BenefitsAssistance": 0.4703473746776581,
+        "Eligibility": 0.46997764706611633,
+        "ApplicationProcess": 0.38045549392700195,
+        "TimelineFrequency": 0.4047051668167114,
+        "AuthoritiesGovernance": 0.30863112211227417,
+        "DefinitionsReferences": 0.35342901945114136
+      }
+    },
+    {
+      "sentence": "The subsidy is provided on the interest charged on the loan amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5354189872741699,
+      "similarities": {
+        "ContextObjective": 0.44893932342529297,
+        "BenefitsAssistance": 0.5354189872741699,
+        "Eligibility": 0.47569456696510315,
+        "ApplicationProcess": 0.4135894179344177,
+        "TimelineFrequency": 0.4544799327850342,
+        "AuthoritiesGovernance": 0.39339447021484375,
+        "DefinitionsReferences": 0.4120533764362335
+      }
+    },
+    {
+      "sentence": "The interest subsidy is credited directly to the bank account of the lending institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46618208289146423,
+      "similarities": {
+        "ContextObjective": 0.38294559717178345,
+        "BenefitsAssistance": 0.46618208289146423,
+        "Eligibility": 0.4096551835536957,
+        "ApplicationProcess": 0.38457977771759033,
+        "TimelineFrequency": 0.3778502941131592,
+        "AuthoritiesGovernance": 0.36493954062461853,
+        "DefinitionsReferences": 0.34782665967941284
+      }
+    },
+    {
+      "sentence": "This ensures that the students do not have to bear the burden of interest payments during their studies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4022807478904724,
+      "similarities": {
+        "ContextObjective": 0.35863935947418213,
+        "BenefitsAssistance": 0.4022807478904724,
+        "Eligibility": 0.3800938129425049,
+        "ApplicationProcess": 0.34296953678131104,
+        "TimelineFrequency": 0.36578071117401123,
+        "AuthoritiesGovernance": 0.27767056226730347,
+        "DefinitionsReferences": 0.3175269365310669
+      }
+    },
+    {
+      "sentence": "The scheme aims to encourage students to pursue higher education without financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5429778695106506,
+      "similarities": {
+        "ContextObjective": 0.5429778695106506,
+        "BenefitsAssistance": 0.4436712861061096,
+        "Eligibility": 0.44928523898124695,
+        "ApplicationProcess": 0.43625548481941223,
+        "TimelineFrequency": 0.40840205550193787,
+        "AuthoritiesGovernance": 0.28794753551483154,
+        "DefinitionsReferences": 0.3268364369869232
+      }
+    },
+    {
+      "sentence": "The government has set a target to cover a significant number of students under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5496385097503662,
+      "similarities": {
+        "ContextObjective": 0.5424951314926147,
+        "BenefitsAssistance": 0.47819989919662476,
+        "Eligibility": 0.5496385097503662,
+        "ApplicationProcess": 0.45311877131462097,
+        "TimelineFrequency": 0.44627875089645386,
+        "AuthoritiesGovernance": 0.4045725166797638,
+        "DefinitionsReferences": 0.40677714347839355
+      }
+    },
+    {
+      "sentence": "The implementation of the scheme is overseen by the Ministry of Human Resource Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6079369783401489,
+      "similarities": {
+        "ContextObjective": 0.500988245010376,
+        "BenefitsAssistance": 0.4162752628326416,
+        "Eligibility": 0.4963347315788269,
+        "ApplicationProcess": 0.4774392545223236,
+        "TimelineFrequency": 0.41228753328323364,
+        "AuthoritiesGovernance": 0.6079369783401489,
+        "DefinitionsReferences": 0.4003870189189911
+      }
+    },
+    {
+      "sentence": "The Ministry of Education is responsible for the overall administration of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5637739896774292,
+      "similarities": {
+        "ContextObjective": 0.5413068532943726,
+        "BenefitsAssistance": 0.4773920774459839,
+        "Eligibility": 0.4781571328639984,
+        "ApplicationProcess": 0.5028799772262573,
+        "TimelineFrequency": 0.4614725112915039,
+        "AuthoritiesGovernance": 0.5637739896774292,
+        "DefinitionsReferences": 0.43796506524086
+      }
+    },
+    {
+      "sentence": "Eligible students must apply for educational loans through recognized banks.",
+      "role": "Eligibility",
+      "confidence": 0.5908905267715454,
+      "similarities": {
+        "ContextObjective": 0.4479847252368927,
+        "BenefitsAssistance": 0.476322203874588,
+        "Eligibility": 0.5908905267715454,
+        "ApplicationProcess": 0.5626083016395569,
+        "TimelineFrequency": 0.5292776823043823,
+        "AuthoritiesGovernance": 0.4019985795021057,
+        "DefinitionsReferences": 0.4363216459751129
+      }
+    },
+    {
+      "sentence": "The application process requires students to submit specific documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7072222232818604,
+      "similarities": {
+        "ContextObjective": 0.5027774572372437,
+        "BenefitsAssistance": 0.5203734636306763,
+        "Eligibility": 0.6185029149055481,
+        "ApplicationProcess": 0.7072222232818604,
+        "TimelineFrequency": 0.6416897773742676,
+        "AuthoritiesGovernance": 0.4806124269962311,
+        "DefinitionsReferences": 0.5261163711547852
+      }
+    },
+    {
+      "sentence": "These documents include proof of admission to a recognized institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6070053577423096,
+      "similarities": {
+        "ContextObjective": 0.48434978723526,
+        "BenefitsAssistance": 0.532415509223938,
+        "Eligibility": 0.5445570349693298,
+        "ApplicationProcess": 0.6070053577423096,
+        "TimelineFrequency": 0.5250041484832764,
+        "AuthoritiesGovernance": 0.4336630403995514,
+        "DefinitionsReferences": 0.538460373878479
+      }
+    },
+    {
+      "sentence": "Students must also provide income certificates to establish eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.6004151105880737,
+      "similarities": {
+        "ContextObjective": 0.4559115469455719,
+        "BenefitsAssistance": 0.5272584557533264,
+        "Eligibility": 0.6004151105880737,
+        "ApplicationProcess": 0.5669996738433838,
+        "TimelineFrequency": 0.5069321393966675,
+        "AuthoritiesGovernance": 0.380953848361969,
+        "DefinitionsReferences": 0.43639951944351196
+      }
+    },
+    {
+      "sentence": "The application for the interest subsidy must be submitted to the bank along with the loan application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5768051147460938,
+      "similarities": {
+        "ContextObjective": 0.4516827464103699,
+        "BenefitsAssistance": 0.4686894416809082,
+        "Eligibility": 0.5165292024612427,
+        "ApplicationProcess": 0.5768051147460938,
+        "TimelineFrequency": 0.5049906373023987,
+        "AuthoritiesGovernance": 0.3975578546524048,
+        "DefinitionsReferences": 0.4107791781425476
+      }
+    },
+    {
+      "sentence": "Once the loan is sanctioned, the bank will process the interest subsidy application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5542005300521851,
+      "similarities": {
+        "ContextObjective": 0.4645441770553589,
+        "BenefitsAssistance": 0.48603129386901855,
+        "Eligibility": 0.5401272773742676,
+        "ApplicationProcess": 0.5542005300521851,
+        "TimelineFrequency": 0.5059579610824585,
+        "AuthoritiesGovernance": 0.4433688521385193,
+        "DefinitionsReferences": 0.42557668685913086
+      }
+    },
+    {
+      "sentence": "The subsidy is disbursed at the end of each academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5185195207595825,
+      "similarities": {
+        "ContextObjective": 0.4299844205379486,
+        "BenefitsAssistance": 0.5182169675827026,
+        "Eligibility": 0.4455263614654541,
+        "ApplicationProcess": 0.4219096302986145,
+        "TimelineFrequency": 0.5185195207595825,
+        "AuthoritiesGovernance": 0.436495304107666,
+        "DefinitionsReferences": 0.40552741289138794
+      }
+    },
+    {
+      "sentence": "Students must ensure that they meet the eligibility criteria to benefit from the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6768021583557129,
+      "similarities": {
+        "ContextObjective": 0.5683282017707825,
+        "BenefitsAssistance": 0.5094068646430969,
+        "Eligibility": 0.6768021583557129,
+        "ApplicationProcess": 0.605225145816803,
+        "TimelineFrequency": 0.5643040537834167,
+        "AuthoritiesGovernance": 0.43677666783332825,
+        "DefinitionsReferences": 0.4404863715171814
+      }
+    },
+    {
+      "sentence": "The interest subsidy is calculated based on the prevailing interest rates.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5161112546920776,
+      "similarities": {
+        "ContextObjective": 0.4456254839897156,
+        "BenefitsAssistance": 0.5161112546920776,
+        "Eligibility": 0.46314358711242676,
+        "ApplicationProcess": 0.4021386504173279,
+        "TimelineFrequency": 0.48574379086494446,
+        "AuthoritiesGovernance": 0.3847197890281677,
+        "DefinitionsReferences": 0.4182877540588379
+      }
+    },
+    {
+      "sentence": "The government periodically reviews the scheme to ensure its effectiveness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5631082653999329,
+      "similarities": {
+        "ContextObjective": 0.5572316646575928,
+        "BenefitsAssistance": 0.4876326322555542,
+        "Eligibility": 0.5506579875946045,
+        "ApplicationProcess": 0.5631082653999329,
+        "TimelineFrequency": 0.5285441279411316,
+        "AuthoritiesGovernance": 0.5236740112304688,
+        "DefinitionsReferences": 0.46667981147766113
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in increasing enrollment in higher education institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.5322525501251221,
+      "similarities": {
+        "ContextObjective": 0.5322525501251221,
+        "BenefitsAssistance": 0.4314523935317993,
+        "Eligibility": 0.4326832890510559,
+        "ApplicationProcess": 0.4209170639514923,
+        "TimelineFrequency": 0.41091400384902954,
+        "AuthoritiesGovernance": 0.3812243938446045,
+        "DefinitionsReferences": 0.388049453496933
+      }
+    },
+    {
+      "sentence": "According to reports, the scheme has benefited thousands of students since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5202160477638245,
+      "similarities": {
+        "ContextObjective": 0.5202160477638245,
+        "BenefitsAssistance": 0.44699734449386597,
+        "Eligibility": 0.4427248239517212,
+        "ApplicationProcess": 0.38941100239753723,
+        "TimelineFrequency": 0.3979056477546692,
+        "AuthoritiesGovernance": 0.364767849445343,
+        "DefinitionsReferences": 0.3688361346721649
+      }
+    },
+    {
+      "sentence": "The government has allocated substantial funds for the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5259830951690674,
+      "similarities": {
+        "ContextObjective": 0.5259830951690674,
+        "BenefitsAssistance": 0.505057156085968,
+        "Eligibility": 0.5069635510444641,
+        "ApplicationProcess": 0.454845130443573,
+        "TimelineFrequency": 0.40599504113197327,
+        "AuthoritiesGovernance": 0.4912581443786621,
+        "DefinitionsReferences": 0.40912187099456787
+      }
+    },
+    {
+      "sentence": "In the financial year 2021-2022, the allocation for the scheme was approximately INR 1,000 crore.",
+      "role": "ContextObjective",
+      "confidence": 0.4884116053581238,
+      "similarities": {
+        "ContextObjective": 0.4884116053581238,
+        "BenefitsAssistance": 0.4831236004829407,
+        "Eligibility": 0.4779444634914398,
+        "ApplicationProcess": 0.39035293459892273,
+        "TimelineFrequency": 0.41943252086639404,
+        "AuthoritiesGovernance": 0.4013058841228485,
+        "DefinitionsReferences": 0.33804798126220703
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to promoting education.",
+      "role": "ContextObjective",
+      "confidence": 0.44480931758880615,
+      "similarities": {
+        "ContextObjective": 0.44480931758880615,
+        "BenefitsAssistance": 0.42562034726142883,
+        "Eligibility": 0.417486310005188,
+        "ApplicationProcess": 0.36025795340538025,
+        "TimelineFrequency": 0.36792588233947754,
+        "AuthoritiesGovernance": 0.3961995244026184,
+        "DefinitionsReferences": 0.3901110291481018
+      }
+    },
+    {
+      "sentence": "The scheme has also been included in various educational policies over the years.",
+      "role": "ContextObjective",
+      "confidence": 0.548078715801239,
+      "similarities": {
+        "ContextObjective": 0.548078715801239,
+        "BenefitsAssistance": 0.49401041865348816,
+        "Eligibility": 0.48376038670539856,
+        "ApplicationProcess": 0.4613226652145386,
+        "TimelineFrequency": 0.49097174406051636,
+        "AuthoritiesGovernance": 0.44680652022361755,
+        "DefinitionsReferences": 0.5043500661849976
+      }
+    },
+    {
+      "sentence": "It aligns with the National Education Policy 2020, which emphasizes equitable access to education.",
+      "role": "ContextObjective",
+      "confidence": 0.41142725944519043,
+      "similarities": {
+        "ContextObjective": 0.41142725944519043,
+        "BenefitsAssistance": 0.37273794412612915,
+        "Eligibility": 0.409734308719635,
+        "ApplicationProcess": 0.3567820191383362,
+        "TimelineFrequency": 0.3716648817062378,
+        "AuthoritiesGovernance": 0.3493732213973999,
+        "DefinitionsReferences": 0.35207560658454895
+      }
+    },
+    {
+      "sentence": "The scheme is also aimed at reducing the dropout rates among students from economically weaker sections.",
+      "role": "ContextObjective",
+      "confidence": 0.44724899530410767,
+      "similarities": {
+        "ContextObjective": 0.44724899530410767,
+        "BenefitsAssistance": 0.39140719175338745,
+        "Eligibility": 0.4420577883720398,
+        "ApplicationProcess": 0.3784705102443695,
+        "TimelineFrequency": 0.40256333351135254,
+        "AuthoritiesGovernance": 0.3747851252555847,
+        "DefinitionsReferences": 0.3027227222919464
+      }
+    },
+    {
+      "sentence": "The government has set up a dedicated helpline for students seeking information about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4943851828575134,
+      "similarities": {
+        "ContextObjective": 0.4943851828575134,
+        "BenefitsAssistance": 0.4733821749687195,
+        "Eligibility": 0.489055335521698,
+        "ApplicationProcess": 0.4790343940258026,
+        "TimelineFrequency": 0.4274504780769348,
+        "AuthoritiesGovernance": 0.4511997103691101,
+        "DefinitionsReferences": 0.4033159017562866
+      }
+    },
+    {
+      "sentence": "The helpline provides assistance regarding application procedures and eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6666097640991211,
+      "similarities": {
+        "ContextObjective": 0.5451493263244629,
+        "BenefitsAssistance": 0.580910325050354,
+        "Eligibility": 0.6666097640991211,
+        "ApplicationProcess": 0.6389266848564148,
+        "TimelineFrequency": 0.6123322248458862,
+        "AuthoritiesGovernance": 0.5380517244338989,
+        "DefinitionsReferences": 0.4958738684654236
+      }
+    },
+    {
+      "sentence": "Students can also visit the official website for more information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5486649870872498,
+      "similarities": {
+        "ContextObjective": 0.46815910935401917,
+        "BenefitsAssistance": 0.5203128457069397,
+        "Eligibility": 0.47044187784194946,
+        "ApplicationProcess": 0.5486649870872498,
+        "TimelineFrequency": 0.5113728046417236,
+        "AuthoritiesGovernance": 0.4743591547012329,
+        "DefinitionsReferences": 0.5346214175224304
+      }
+    },
+    {
+      "sentence": "The website contains detailed guidelines and FAQs related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.6374866962432861,
+      "similarities": {
+        "ContextObjective": 0.6374866962432861,
+        "BenefitsAssistance": 0.6033825874328613,
+        "Eligibility": 0.613871157169342,
+        "ApplicationProcess": 0.6224067211151123,
+        "TimelineFrequency": 0.5582150816917419,
+        "AuthoritiesGovernance": 0.5123772025108337,
+        "DefinitionsReferences": 0.5839086174964905
+      }
+    },
+    {
+      "sentence": "The interest subsidy is a significant step towards achieving financial inclusion in education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5124654173851013,
+      "similarities": {
+        "ContextObjective": 0.48458170890808105,
+        "BenefitsAssistance": 0.5124654173851013,
+        "Eligibility": 0.47292470932006836,
+        "ApplicationProcess": 0.3955724537372589,
+        "TimelineFrequency": 0.4024762511253357,
+        "AuthoritiesGovernance": 0.3864865303039551,
+        "DefinitionsReferences": 0.38315850496292114
+      }
+    },
+    {
+      "sentence": "It empowers students to pursue their academic aspirations without the fear of financial burden.",
+      "role": "ContextObjective",
+      "confidence": 0.4353894591331482,
+      "similarities": {
+        "ContextObjective": 0.4353894591331482,
+        "BenefitsAssistance": 0.4136521816253662,
+        "Eligibility": 0.37093958258628845,
+        "ApplicationProcess": 0.3641955256462097,
+        "TimelineFrequency": 0.35733121633529663,
+        "AuthoritiesGovernance": 0.26230481266975403,
+        "DefinitionsReferences": 0.3233255445957184
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries and educational institutions alike.",
+      "role": "ContextObjective",
+      "confidence": 0.5208069682121277,
+      "similarities": {
+        "ContextObjective": 0.5208069682121277,
+        "BenefitsAssistance": 0.4540180563926697,
+        "Eligibility": 0.46737509965896606,
+        "ApplicationProcess": 0.4023989140987396,
+        "TimelineFrequency": 0.3802136480808258,
+        "AuthoritiesGovernance": 0.40082985162734985,
+        "DefinitionsReferences": 0.4033099412918091
+      }
+    },
+    {
+      "sentence": "Many students have reported that the interest subsidy has made a substantial difference in their educational journey.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46426165103912354,
+      "similarities": {
+        "ContextObjective": 0.3976411819458008,
+        "BenefitsAssistance": 0.46426165103912354,
+        "Eligibility": 0.40640002489089966,
+        "ApplicationProcess": 0.37739384174346924,
+        "TimelineFrequency": 0.3925560712814331,
+        "AuthoritiesGovernance": 0.3105860650539398,
+        "DefinitionsReferences": 0.380218505859375
+      }
+    },
+    {
+      "sentence": "The government continues to promote awareness about the scheme through various channels.",
+      "role": "ContextObjective",
+      "confidence": 0.5740445852279663,
+      "similarities": {
+        "ContextObjective": 0.5740445852279663,
+        "BenefitsAssistance": 0.48616504669189453,
+        "Eligibility": 0.47736525535583496,
+        "ApplicationProcess": 0.4889812171459198,
+        "TimelineFrequency": 0.4250998795032501,
+        "AuthoritiesGovernance": 0.5115014910697937,
+        "DefinitionsReferences": 0.46849164366722107
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are organized to educate students about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5176595449447632,
+      "similarities": {
+        "ContextObjective": 0.5176595449447632,
+        "BenefitsAssistance": 0.4402313828468323,
+        "Eligibility": 0.44566935300827026,
+        "ApplicationProcess": 0.4220665395259857,
+        "TimelineFrequency": 0.42795243859291077,
+        "AuthoritiesGovernance": 0.4603224992752075,
+        "DefinitionsReferences": 0.415621817111969
+      }
+    },
+    {
+      "sentence": "The Interest Subsidy Scheme is a crucial component of the government's broader strategy to enhance educational opportunities.",
+      "role": "ContextObjective",
+      "confidence": 0.534588098526001,
+      "similarities": {
+        "ContextObjective": 0.534588098526001,
+        "BenefitsAssistance": 0.4510713219642639,
+        "Eligibility": 0.44367608428001404,
+        "ApplicationProcess": 0.41071152687072754,
+        "TimelineFrequency": 0.4437099099159241,
+        "AuthoritiesGovernance": 0.4025319814682007,
+        "DefinitionsReferences": 0.4299966096878052
+      }
+    },
+    {
+      "sentence": "It reflects the government's recognition of education as a fundamental right.",
+      "role": "ContextObjective",
+      "confidence": 0.43817341327667236,
+      "similarities": {
+        "ContextObjective": 0.43817341327667236,
+        "BenefitsAssistance": 0.389741986989975,
+        "Eligibility": 0.402691125869751,
+        "ApplicationProcess": 0.3921445906162262,
+        "TimelineFrequency": 0.3734651207923889,
+        "AuthoritiesGovernance": 0.386638343334198,
+        "DefinitionsReferences": 0.4181417226791382
+      }
+    },
+    {
+      "sentence": "The scheme has also inspired similar initiatives in various states across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5633177757263184,
+      "similarities": {
+        "ContextObjective": 0.5633177757263184,
+        "BenefitsAssistance": 0.4118075966835022,
+        "Eligibility": 0.4787482023239136,
+        "ApplicationProcess": 0.42716509103775024,
+        "TimelineFrequency": 0.4163318872451782,
+        "AuthoritiesGovernance": 0.4539572298526764,
+        "DefinitionsReferences": 0.4313945174217224
+      }
+    },
+    {
+      "sentence": "State governments have launched their own interest subsidy programs to complement the central scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5011329650878906,
+      "similarities": {
+        "ContextObjective": 0.5011329650878906,
+        "BenefitsAssistance": 0.4663924276828766,
+        "Eligibility": 0.4123145639896393,
+        "ApplicationProcess": 0.39106836915016174,
+        "TimelineFrequency": 0.37990906834602356,
+        "AuthoritiesGovernance": 0.4216204881668091,
+        "DefinitionsReferences": 0.40718668699264526
+      }
+    },
+    {
+      "sentence": "This collaborative approach aims to maximize the reach and impact of educational financing.",
+      "role": "ContextObjective",
+      "confidence": 0.4765281677246094,
+      "similarities": {
+        "ContextObjective": 0.4765281677246094,
+        "BenefitsAssistance": 0.4393807053565979,
+        "Eligibility": 0.44195806980133057,
+        "ApplicationProcess": 0.39124947786331177,
+        "TimelineFrequency": 0.39917781949043274,
+        "AuthoritiesGovernance": 0.42016953229904175,
+        "DefinitionsReferences": 0.3630519509315491
+      }
+    },
+    {
+      "sentence": "Overall, the Interest Subsidy Scheme serves as a vital resource for students seeking higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.48815271258354187,
+      "similarities": {
+        "ContextObjective": 0.48815271258354187,
+        "BenefitsAssistance": 0.4428129196166992,
+        "Eligibility": 0.469454288482666,
+        "ApplicationProcess": 0.43134286999702454,
+        "TimelineFrequency": 0.45703670382499695,
+        "AuthoritiesGovernance": 0.3500913083553314,
+        "DefinitionsReferences": 0.420074462890625
+      }
+    },
+    {
+      "sentence": "It plays a pivotal role in shaping the future of countless young individuals in India.",
+      "role": "ContextObjective",
+      "confidence": 0.46952205896377563,
+      "similarities": {
+        "ContextObjective": 0.46952205896377563,
+        "BenefitsAssistance": 0.35639774799346924,
+        "Eligibility": 0.40070420503616333,
+        "ApplicationProcess": 0.35507625341415405,
+        "TimelineFrequency": 0.36040884256362915,
+        "AuthoritiesGovernance": 0.34008926153182983,
+        "DefinitionsReferences": 0.3866978883743286
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve to meet the changing needs of students and the education sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5673426985740662,
+      "similarities": {
+        "ContextObjective": 0.5673426985740662,
+        "BenefitsAssistance": 0.45690521597862244,
+        "Eligibility": 0.47256651520729065,
+        "ApplicationProcess": 0.4566519260406494,
+        "TimelineFrequency": 0.4664001166820526,
+        "AuthoritiesGovernance": 0.4254012107849121,
+        "DefinitionsReferences": 0.41031816601753235
+      }
+    },
+    {
+      "sentence": "The government remains committed to ensuring that financial barriers do not hinder educational pursuits.",
+      "role": "Eligibility",
+      "confidence": 0.453153133392334,
+      "similarities": {
+        "ContextObjective": 0.42786502838134766,
+        "BenefitsAssistance": 0.443814754486084,
+        "Eligibility": 0.453153133392334,
+        "ApplicationProcess": 0.4091606140136719,
+        "TimelineFrequency": 0.3804139494895935,
+        "AuthoritiesGovernance": 0.39422303438186646,
+        "DefinitionsReferences": 0.3798513412475586
+      }
+    },
+    {
+      "sentence": "The Interest Subsidy Scheme is a testament to India's dedication to fostering a knowledgeable and skilled workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.42717599868774414,
+      "similarities": {
+        "ContextObjective": 0.42717599868774414,
+        "BenefitsAssistance": 0.42369958758354187,
+        "Eligibility": 0.4181860685348511,
+        "ApplicationProcess": 0.35303986072540283,
+        "TimelineFrequency": 0.3484647870063782,
+        "AuthoritiesGovernance": 0.34326794743537903,
+        "DefinitionsReferences": 0.36791181564331055
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme remains operational and continues to support students across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.521998405456543,
+      "similarities": {
+        "ContextObjective": 0.521998405456543,
+        "BenefitsAssistance": 0.4368167817592621,
+        "Eligibility": 0.46052154898643494,
+        "ApplicationProcess": 0.39721179008483887,
+        "TimelineFrequency": 0.4181853234767914,
+        "AuthoritiesGovernance": 0.40569475293159485,
+        "DefinitionsReferences": 0.386446088552475
+      }
+    },
+    {
+      "sentence": "The ongoing success of the scheme is a reflection of the government's focus on education as a priority area.",
+      "role": "ContextObjective",
+      "confidence": 0.5276499390602112,
+      "similarities": {
+        "ContextObjective": 0.5276499390602112,
+        "BenefitsAssistance": 0.3836739659309387,
+        "Eligibility": 0.41171085834503174,
+        "ApplicationProcess": 0.38270142674446106,
+        "TimelineFrequency": 0.36904287338256836,
+        "AuthoritiesGovernance": 0.37904083728790283,
+        "DefinitionsReferences": 0.39180782437324524
+      }
+    },
+    {
+      "sentence": "In conclusion, the Interest Subsidy Scheme launched in 2008 is a significant initiative aimed at promoting higher education among economically disadvantaged students.",
+      "role": "ContextObjective",
+      "confidence": 0.4988541007041931,
+      "similarities": {
+        "ContextObjective": 0.4988541007041931,
+        "BenefitsAssistance": 0.4199296534061432,
+        "Eligibility": 0.40776437520980835,
+        "ApplicationProcess": 0.3604276776313782,
+        "TimelineFrequency": 0.37992024421691895,
+        "AuthoritiesGovernance": 0.3255302608013153,
+        "DefinitionsReferences": 0.3315127491950989
+      }
+    },
+    {
+      "sentence": "It provides much-needed financial assistance through interest subsidies on educational loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5031630992889404,
+      "similarities": {
+        "ContextObjective": 0.4433092474937439,
+        "BenefitsAssistance": 0.5031630992889404,
+        "Eligibility": 0.44224822521209717,
+        "ApplicationProcess": 0.396356463432312,
+        "TimelineFrequency": 0.4120209813117981,
+        "AuthoritiesGovernance": 0.3595402240753174,
+        "DefinitionsReferences": 0.39387235045433044
+      }
+    },
+    {
+      "sentence": "This scheme has transformed the educational landscape in India by making higher education more accessible.",
+      "role": "ContextObjective",
+      "confidence": 0.45526939630508423,
+      "similarities": {
+        "ContextObjective": 0.45526939630508423,
+        "BenefitsAssistance": 0.3521290421485901,
+        "Eligibility": 0.4030921161174774,
+        "ApplicationProcess": 0.36862751841545105,
+        "TimelineFrequency": 0.3214399516582489,
+        "AuthoritiesGovernance": 0.32796579599380493,
+        "DefinitionsReferences": 0.32932841777801514
+      }
+    },
+    {
+      "sentence": "Students are encouraged to take advantage of this scheme to fulfill their academic goals.",
+      "role": "ContextObjective",
+      "confidence": 0.553368330001831,
+      "similarities": {
+        "ContextObjective": 0.553368330001831,
+        "BenefitsAssistance": 0.4513580799102783,
+        "Eligibility": 0.4716499447822571,
+        "ApplicationProcess": 0.4652787148952484,
+        "TimelineFrequency": 0.4783957600593567,
+        "AuthoritiesGovernance": 0.38908207416534424,
+        "DefinitionsReferences": 0.4328053593635559
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 33,
+    "Eligibility": 8,
+    "TimelineFrequency": 4,
+    "BenefitsAssistance": 9,
+    "AuthoritiesGovernance": 2,
+    "ApplicationProcess": 6
+  },
+  "processing_timestamp": "2025-09-25T20:42:26.395276"
+}

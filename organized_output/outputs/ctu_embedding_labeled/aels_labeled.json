@@ -1,0 +1,855 @@
+{
+  "scheme_name": "Arivu Education Loan Scheme ",
+  "total_sentences": 60,
+  "labeled_sentences": [
+    {
+      "sentence": "The Arivu Education Loan Scheme is a significant initiative launched by the Government of Karnataka on October 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5166395306587219,
+      "similarities": {
+        "ContextObjective": 0.5166395306587219,
+        "BenefitsAssistance": 0.45486965775489807,
+        "Eligibility": 0.47067975997924805,
+        "ApplicationProcess": 0.4462476968765259,
+        "TimelineFrequency": 0.4750937819480896,
+        "AuthoritiesGovernance": 0.4206291139125824,
+        "DefinitionsReferences": 0.38739728927612305
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5205177068710327,
+      "similarities": {
+        "ContextObjective": 0.5205177068710327,
+        "BenefitsAssistance": 0.480535089969635,
+        "Eligibility": 0.5154662132263184,
+        "ApplicationProcess": 0.42906707525253296,
+        "TimelineFrequency": 0.4324643909931183,
+        "AuthoritiesGovernance": 0.39051851630210876,
+        "DefinitionsReferences": 0.344163715839386
+      }
+    },
+    {
+      "sentence": "The primary objective of the Arivu Education Loan Scheme is to ensure that students have access to quality education without the burden of financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5453817844390869,
+      "similarities": {
+        "ContextObjective": 0.5453817844390869,
+        "BenefitsAssistance": 0.45869559049606323,
+        "Eligibility": 0.4821396470069885,
+        "ApplicationProcess": 0.4483145475387573,
+        "TimelineFrequency": 0.42389369010925293,
+        "AuthoritiesGovernance": 0.3627740144729614,
+        "DefinitionsReferences": 0.3577699661254883
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students pursuing higher education in professional courses such as engineering, medicine, and management.",
+      "role": "ContextObjective",
+      "confidence": 0.5035255551338196,
+      "similarities": {
+        "ContextObjective": 0.5035255551338196,
+        "BenefitsAssistance": 0.395280659198761,
+        "Eligibility": 0.4793645441532135,
+        "ApplicationProcess": 0.4103832244873047,
+        "TimelineFrequency": 0.4361191987991333,
+        "AuthoritiesGovernance": 0.34889036417007446,
+        "DefinitionsReferences": 0.3513963520526886
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible students can avail of loans up to ₹1 lakh per year for a maximum of four years.",
+      "role": "Eligibility",
+      "confidence": 0.5184805393218994,
+      "similarities": {
+        "ContextObjective": 0.4671013355255127,
+        "BenefitsAssistance": 0.4664909839630127,
+        "Eligibility": 0.5184805393218994,
+        "ApplicationProcess": 0.4493361711502075,
+        "TimelineFrequency": 0.46352052688598633,
+        "AuthoritiesGovernance": 0.31452956795692444,
+        "DefinitionsReferences": 0.37025752663612366
+      }
+    },
+    {
+      "sentence": "This means that a student can receive a total loan amount of up to ₹4 lakh during their course of study.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5093574523925781,
+      "similarities": {
+        "ContextObjective": 0.3939554989337921,
+        "BenefitsAssistance": 0.5093574523925781,
+        "Eligibility": 0.4630442261695862,
+        "ApplicationProcess": 0.4269734025001526,
+        "TimelineFrequency": 0.4330308139324188,
+        "AuthoritiesGovernance": 0.3219417333602905,
+        "DefinitionsReferences": 0.41025784611701965
+      }
+    },
+    {
+      "sentence": "The loan amount is disbursed directly to the educational institutions to cover tuition fees and other related expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5673642754554749,
+      "similarities": {
+        "ContextObjective": 0.42211782932281494,
+        "BenefitsAssistance": 0.5673642754554749,
+        "Eligibility": 0.43828266859054565,
+        "ApplicationProcess": 0.41024622321128845,
+        "TimelineFrequency": 0.4267183542251587,
+        "AuthoritiesGovernance": 0.42394834756851196,
+        "DefinitionsReferences": 0.40318000316619873
+      }
+    },
+    {
+      "sentence": "The interest rate on the loan is set at a nominal rate of 4% per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4723465144634247,
+      "similarities": {
+        "ContextObjective": 0.4283427894115448,
+        "BenefitsAssistance": 0.4723465144634247,
+        "Eligibility": 0.4387592673301697,
+        "ApplicationProcess": 0.4236820340156555,
+        "TimelineFrequency": 0.4598984122276306,
+        "AuthoritiesGovernance": 0.36795157194137573,
+        "DefinitionsReferences": 0.38450491428375244
+      }
+    },
+    {
+      "sentence": "This is significantly lower than the market rates offered by banks and financial institutions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4255430996417999,
+      "similarities": {
+        "ContextObjective": 0.30889835953712463,
+        "BenefitsAssistance": 0.4255430996417999,
+        "Eligibility": 0.3739286959171295,
+        "ApplicationProcess": 0.35125207901000977,
+        "TimelineFrequency": 0.345478892326355,
+        "AuthoritiesGovernance": 0.31287410855293274,
+        "DefinitionsReferences": 0.2990191876888275
+      }
+    },
+    {
+      "sentence": "The government has also introduced a repayment period of 10 years after the completion of the course.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4570234715938568,
+      "similarities": {
+        "ContextObjective": 0.3873451054096222,
+        "BenefitsAssistance": 0.4317885637283325,
+        "Eligibility": 0.45489293336868286,
+        "ApplicationProcess": 0.43172967433929443,
+        "TimelineFrequency": 0.4570234715938568,
+        "AuthoritiesGovernance": 0.37859660387039185,
+        "DefinitionsReferences": 0.39651399850845337
+      }
+    },
+    {
+      "sentence": "This extended repayment period is designed to ease the financial burden on students after they graduate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47550106048583984,
+      "similarities": {
+        "ContextObjective": 0.38248956203460693,
+        "BenefitsAssistance": 0.47550106048583984,
+        "Eligibility": 0.418457567691803,
+        "ApplicationProcess": 0.38391822576522827,
+        "TimelineFrequency": 0.44423454999923706,
+        "AuthoritiesGovernance": 0.3401585817337036,
+        "DefinitionsReferences": 0.3465033769607544
+      }
+    },
+    {
+      "sentence": "To be eligible for the Arivu Education Loan Scheme, students must meet specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6280211210250854,
+      "similarities": {
+        "ContextObjective": 0.5333803296089172,
+        "BenefitsAssistance": 0.49776849150657654,
+        "Eligibility": 0.6280211210250854,
+        "ApplicationProcess": 0.5661211013793945,
+        "TimelineFrequency": 0.5347428917884827,
+        "AuthoritiesGovernance": 0.39621078968048096,
+        "DefinitionsReferences": 0.4266136884689331
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Karnataka and belong to families with an annual income of less than ₹8 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5562185645103455,
+      "similarities": {
+        "ContextObjective": 0.423086941242218,
+        "BenefitsAssistance": 0.4349272847175598,
+        "Eligibility": 0.5562185645103455,
+        "ApplicationProcess": 0.4941249489784241,
+        "TimelineFrequency": 0.45748069882392883,
+        "AuthoritiesGovernance": 0.3846581280231476,
+        "DefinitionsReferences": 0.3465460538864136
+      }
+    },
+    {
+      "sentence": "Additionally, students must have secured admission to recognized professional courses in government or private institutions.",
+      "role": "ApplicationProcess",
+      "confidence": 0.502167820930481,
+      "similarities": {
+        "ContextObjective": 0.43022623658180237,
+        "BenefitsAssistance": 0.40576183795928955,
+        "Eligibility": 0.49751394987106323,
+        "ApplicationProcess": 0.502167820930481,
+        "TimelineFrequency": 0.4491778016090393,
+        "AuthoritiesGovernance": 0.3797445297241211,
+        "DefinitionsReferences": 0.4503585696220398
+      }
+    },
+    {
+      "sentence": "The scheme is open to students who are in the age group of 18 to 35 years.",
+      "role": "Eligibility",
+      "confidence": 0.5659443140029907,
+      "similarities": {
+        "ContextObjective": 0.5429033041000366,
+        "BenefitsAssistance": 0.48953163623809814,
+        "Eligibility": 0.5659443140029907,
+        "ApplicationProcess": 0.5024742484092712,
+        "TimelineFrequency": 0.5034377574920654,
+        "AuthoritiesGovernance": 0.39626848697662354,
+        "DefinitionsReferences": 0.3846542239189148
+      }
+    },
+    {
+      "sentence": "To apply for the Arivu Education Loan Scheme, students must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6332333087921143,
+      "similarities": {
+        "ContextObjective": 0.5071009397506714,
+        "BenefitsAssistance": 0.4626743793487549,
+        "Eligibility": 0.57862389087677,
+        "ApplicationProcess": 0.6332333087921143,
+        "TimelineFrequency": 0.5584360957145691,
+        "AuthoritiesGovernance": 0.4180030822753906,
+        "DefinitionsReferences": 0.4189964532852173
+      }
+    },
+    {
+      "sentence": "The application can be submitted online through the official website of the Karnataka Government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6378228664398193,
+      "similarities": {
+        "ContextObjective": 0.4405231475830078,
+        "BenefitsAssistance": 0.42911475896835327,
+        "Eligibility": 0.5103375911712646,
+        "ApplicationProcess": 0.6378228664398193,
+        "TimelineFrequency": 0.4980895519256592,
+        "AuthoritiesGovernance": 0.43188029527664185,
+        "DefinitionsReferences": 0.4083603024482727
+      }
+    },
+    {
+      "sentence": "Applicants need to provide necessary documents such as proof of income, admission letter from the educational institution, and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.680481493473053,
+      "similarities": {
+        "ContextObjective": 0.49397194385528564,
+        "BenefitsAssistance": 0.5577588081359863,
+        "Eligibility": 0.5863063335418701,
+        "ApplicationProcess": 0.680481493473053,
+        "TimelineFrequency": 0.5631083846092224,
+        "AuthoritiesGovernance": 0.4457629323005676,
+        "DefinitionsReferences": 0.5029149055480957
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The loan is sanctioned based on the eligibility criteria and the availability of funds.",
+      "role": "Eligibility",
+      "confidence": 0.67637038230896,
+      "similarities": {
+        "ContextObjective": 0.535102128982544,
+        "BenefitsAssistance": 0.5558323860168457,
+        "Eligibility": 0.67637038230896,
+        "ApplicationProcess": 0.5447126030921936,
+        "TimelineFrequency": 0.5450485348701477,
+        "AuthoritiesGovernance": 0.42917484045028687,
+        "DefinitionsReferences": 0.46095889806747437
+      }
+    },
+    {
+      "sentence": "The disbursement of the loan amount is typically done in two installments each academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5479931235313416,
+      "similarities": {
+        "ContextObjective": 0.4453214704990387,
+        "BenefitsAssistance": 0.5457180142402649,
+        "Eligibility": 0.44339069724082947,
+        "ApplicationProcess": 0.4483107924461365,
+        "TimelineFrequency": 0.5479931235313416,
+        "AuthoritiesGovernance": 0.4202287197113037,
+        "DefinitionsReferences": 0.433265745639801
+      }
+    },
+    {
+      "sentence": "The first installment is released at the beginning of the academic year, while the second installment is disbursed after the completion of the first semester.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5294320583343506,
+      "similarities": {
+        "ContextObjective": 0.44284966588020325,
+        "BenefitsAssistance": 0.49550363421440125,
+        "Eligibility": 0.401223361492157,
+        "ApplicationProcess": 0.41769474744796753,
+        "TimelineFrequency": 0.5294320583343506,
+        "AuthoritiesGovernance": 0.39312684535980225,
+        "DefinitionsReferences": 0.3841651678085327
+      }
+    },
+    {
+      "sentence": "The Arivu Education Loan Scheme is implemented by the Department of Higher Education, Government of Karnataka.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4757445454597473,
+      "similarities": {
+        "ContextObjective": 0.45893269777297974,
+        "BenefitsAssistance": 0.4542025625705719,
+        "Eligibility": 0.4620562493801117,
+        "ApplicationProcess": 0.4470463991165161,
+        "TimelineFrequency": 0.4199410676956177,
+        "AuthoritiesGovernance": 0.4757445454597473,
+        "DefinitionsReferences": 0.3990354835987091
+      }
+    },
+    {
+      "sentence": "Students can contact the department for any queries or assistance regarding the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5681068897247314,
+      "similarities": {
+        "ContextObjective": 0.44435083866119385,
+        "BenefitsAssistance": 0.48660603165626526,
+        "Eligibility": 0.5267273187637329,
+        "ApplicationProcess": 0.5681068897247314,
+        "TimelineFrequency": 0.5162188410758972,
+        "AuthoritiesGovernance": 0.5119979381561279,
+        "DefinitionsReferences": 0.4176356792449951
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Higher Education can be found on the official Karnataka Government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4817504584789276,
+      "similarities": {
+        "ContextObjective": 0.400287002325058,
+        "BenefitsAssistance": 0.4535638689994812,
+        "Eligibility": 0.4164198637008667,
+        "ApplicationProcess": 0.45567238330841064,
+        "TimelineFrequency": 0.3978339731693268,
+        "AuthoritiesGovernance": 0.4817504584789276,
+        "DefinitionsReferences": 0.4357680082321167
+      }
+    },
+    {
+      "sentence": "The scheme has been designed to empower students from economically disadvantaged backgrounds.",
+      "role": "ContextObjective",
+      "confidence": 0.5475233793258667,
+      "similarities": {
+        "ContextObjective": 0.5475233793258667,
+        "BenefitsAssistance": 0.45004981756210327,
+        "Eligibility": 0.5067765712738037,
+        "ApplicationProcess": 0.40560412406921387,
+        "TimelineFrequency": 0.4184633791446686,
+        "AuthoritiesGovernance": 0.384857177734375,
+        "DefinitionsReferences": 0.3589203357696533
+      }
+    },
+    {
+      "sentence": "By providing financial support, the government aims to increase the enrollment of students in higher education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49882811307907104,
+      "similarities": {
+        "ContextObjective": 0.48371464014053345,
+        "BenefitsAssistance": 0.49882811307907104,
+        "Eligibility": 0.4617343544960022,
+        "ApplicationProcess": 0.4374515414237976,
+        "TimelineFrequency": 0.43420863151550293,
+        "AuthoritiesGovernance": 0.4113709330558777,
+        "DefinitionsReferences": 0.39682823419570923
+      }
+    },
+    {
+      "sentence": "The initiative is also expected to reduce dropout rates among students due to financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45278650522232056,
+      "similarities": {
+        "ContextObjective": 0.39136403799057007,
+        "BenefitsAssistance": 0.45278650522232056,
+        "Eligibility": 0.43937188386917114,
+        "ApplicationProcess": 0.3597857356071472,
+        "TimelineFrequency": 0.39852118492126465,
+        "AuthoritiesGovernance": 0.36620813608169556,
+        "DefinitionsReferences": 0.3089185655117035
+      }
+    },
+    {
+      "sentence": "Since its launch, the Arivu Education Loan Scheme has received positive feedback from students and educational institutions alike.",
+      "role": "ContextObjective",
+      "confidence": 0.4983336627483368,
+      "similarities": {
+        "ContextObjective": 0.4983336627483368,
+        "BenefitsAssistance": 0.4333440363407135,
+        "Eligibility": 0.41186290979385376,
+        "ApplicationProcess": 0.40516388416290283,
+        "TimelineFrequency": 0.3859143853187561,
+        "AuthoritiesGovernance": 0.35643088817596436,
+        "DefinitionsReferences": 0.3874056339263916
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹100 crore for the implementation of this scheme in the initial phase.",
+      "role": "ContextObjective",
+      "confidence": 0.4869152307510376,
+      "similarities": {
+        "ContextObjective": 0.4869152307510376,
+        "BenefitsAssistance": 0.4728281497955322,
+        "Eligibility": 0.47865042090415955,
+        "ApplicationProcess": 0.42516809701919556,
+        "TimelineFrequency": 0.40081989765167236,
+        "AuthoritiesGovernance": 0.46693161129951477,
+        "DefinitionsReferences": 0.34616851806640625
+      }
+    },
+    {
+      "sentence": "This budget is expected to cover the loan requirements of approximately 25,000 students in the first year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4926168918609619,
+      "similarities": {
+        "ContextObjective": 0.38085561990737915,
+        "BenefitsAssistance": 0.4926168918609619,
+        "Eligibility": 0.43902787566185,
+        "ApplicationProcess": 0.3985229730606079,
+        "TimelineFrequency": 0.42823201417922974,
+        "AuthoritiesGovernance": 0.33696436882019043,
+        "DefinitionsReferences": 0.37492865324020386
+      }
+    },
+    {
+      "sentence": "The scheme is part of the Karnataka Government's broader efforts to enhance educational opportunities for all.",
+      "role": "ContextObjective",
+      "confidence": 0.5069077014923096,
+      "similarities": {
+        "ContextObjective": 0.5069077014923096,
+        "BenefitsAssistance": 0.4185042381286621,
+        "Eligibility": 0.4616686999797821,
+        "ApplicationProcess": 0.4076816439628601,
+        "TimelineFrequency": 0.40026548504829407,
+        "AuthoritiesGovernance": 0.41643810272216797,
+        "DefinitionsReferences": 0.392128586769104
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the government also provides career counseling and guidance to students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49253159761428833,
+      "similarities": {
+        "ContextObjective": 0.4651647210121155,
+        "BenefitsAssistance": 0.49253159761428833,
+        "Eligibility": 0.4381415843963623,
+        "ApplicationProcess": 0.4441647231578827,
+        "TimelineFrequency": 0.4388657212257385,
+        "AuthoritiesGovernance": 0.42968785762786865,
+        "DefinitionsReferences": 0.4238431453704834
+      }
+    },
+    {
+      "sentence": "This holistic approach aims to prepare students for the job market and ensure their successful transition from education to employment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49426907300949097,
+      "similarities": {
+        "ContextObjective": 0.4910033047199249,
+        "BenefitsAssistance": 0.3862234950065613,
+        "Eligibility": 0.45861226320266724,
+        "ApplicationProcess": 0.49426907300949097,
+        "TimelineFrequency": 0.4458913207054138,
+        "AuthoritiesGovernance": 0.376803457736969,
+        "DefinitionsReferences": 0.38320958614349365
+      }
+    },
+    {
+      "sentence": "The Arivu Education Loan Scheme is a step towards achieving the Sustainable Development Goal of ensuring inclusive and equitable quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.5312595367431641,
+      "similarities": {
+        "ContextObjective": 0.5312595367431641,
+        "BenefitsAssistance": 0.4536542296409607,
+        "Eligibility": 0.49481698870658875,
+        "ApplicationProcess": 0.457929790019989,
+        "TimelineFrequency": 0.4201675057411194,
+        "AuthoritiesGovernance": 0.4245866537094116,
+        "DefinitionsReferences": 0.38910382986068726
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring the implementation of the scheme to ensure its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5659474730491638,
+      "similarities": {
+        "ContextObjective": 0.5188103318214417,
+        "BenefitsAssistance": 0.4557083547115326,
+        "Eligibility": 0.49280858039855957,
+        "ApplicationProcess": 0.5090727806091309,
+        "TimelineFrequency": 0.4381707012653351,
+        "AuthoritiesGovernance": 0.5659474730491638,
+        "DefinitionsReferences": 0.4376191794872284
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to make necessary improvements to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5386133790016174,
+      "similarities": {
+        "ContextObjective": 0.5319986343383789,
+        "BenefitsAssistance": 0.5090575218200684,
+        "Eligibility": 0.5386133790016174,
+        "ApplicationProcess": 0.4923650622367859,
+        "TimelineFrequency": 0.4439464807510376,
+        "AuthoritiesGovernance": 0.5221499800682068,
+        "DefinitionsReferences": 0.4387526512145996
+      }
+    },
+    {
+      "sentence": "The Arivu Education Loan Scheme is a crucial initiative in the context of rising education costs in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49440640211105347,
+      "similarities": {
+        "ContextObjective": 0.49440640211105347,
+        "BenefitsAssistance": 0.4701792299747467,
+        "Eligibility": 0.44787687063217163,
+        "ApplicationProcess": 0.42724359035491943,
+        "TimelineFrequency": 0.419206827878952,
+        "AuthoritiesGovernance": 0.3733654022216797,
+        "DefinitionsReferences": 0.37498098611831665
+      }
+    },
+    {
+      "sentence": "By offering affordable loans, the government is making higher education accessible to a larger segment of the population.",
+      "role": "Eligibility",
+      "confidence": 0.4828021228313446,
+      "similarities": {
+        "ContextObjective": 0.4415040612220764,
+        "BenefitsAssistance": 0.4631478190422058,
+        "Eligibility": 0.4828021228313446,
+        "ApplicationProcess": 0.42062652111053467,
+        "TimelineFrequency": 0.39735233783721924,
+        "AuthoritiesGovernance": 0.3817649781703949,
+        "DefinitionsReferences": 0.3763376772403717
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the national objective of promoting skill development and entrepreneurship among youth.",
+      "role": "ContextObjective",
+      "confidence": 0.52559494972229,
+      "similarities": {
+        "ContextObjective": 0.52559494972229,
+        "BenefitsAssistance": 0.3354152739048004,
+        "Eligibility": 0.3922545611858368,
+        "ApplicationProcess": 0.3693855106830597,
+        "TimelineFrequency": 0.3445667028427124,
+        "AuthoritiesGovernance": 0.3380868434906006,
+        "DefinitionsReferences": 0.3487860858440399
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to operate and support students in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.49723702669143677,
+      "similarities": {
+        "ContextObjective": 0.49723702669143677,
+        "BenefitsAssistance": 0.42011600732803345,
+        "Eligibility": 0.449532687664032,
+        "ApplicationProcess": 0.39712393283843994,
+        "TimelineFrequency": 0.4212764799594879,
+        "AuthoritiesGovernance": 0.4044567048549652,
+        "DefinitionsReferences": 0.37724292278289795
+      }
+    },
+    {
+      "sentence": "The government is committed to expanding the reach of the scheme to include more beneficiaries in the future.",
+      "role": "Eligibility",
+      "confidence": 0.541945219039917,
+      "similarities": {
+        "ContextObjective": 0.5061019659042358,
+        "BenefitsAssistance": 0.4473259449005127,
+        "Eligibility": 0.541945219039917,
+        "ApplicationProcess": 0.41833043098449707,
+        "TimelineFrequency": 0.3869200646877289,
+        "AuthoritiesGovernance": 0.4071844220161438,
+        "DefinitionsReferences": 0.39281201362609863
+      }
+    },
+    {
+      "sentence": "In conclusion, the Arivu Education Loan Scheme is a transformative initiative aimed at promoting higher education among economically disadvantaged students.",
+      "role": "ContextObjective",
+      "confidence": 0.49461913108825684,
+      "similarities": {
+        "ContextObjective": 0.49461913108825684,
+        "BenefitsAssistance": 0.41370493173599243,
+        "Eligibility": 0.42560529708862305,
+        "ApplicationProcess": 0.39007288217544556,
+        "TimelineFrequency": 0.3699686527252197,
+        "AuthoritiesGovernance": 0.34834253787994385,
+        "DefinitionsReferences": 0.34723132848739624
+      }
+    },
+    {
+      "sentence": "With its comprehensive support structure, the scheme is poised to make a lasting impact on the educational landscape of Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4721703827381134,
+      "similarities": {
+        "ContextObjective": 0.4721703827381134,
+        "BenefitsAssistance": 0.43018007278442383,
+        "Eligibility": 0.42035427689552307,
+        "ApplicationProcess": 0.36120012402534485,
+        "TimelineFrequency": 0.37155449390411377,
+        "AuthoritiesGovernance": 0.3691432476043701,
+        "DefinitionsReferences": 0.3899649977684021
+      }
+    },
+    {
+      "sentence": "Students interested in applying for the scheme are encouraged to visit the official website for detailed information and updates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5823853015899658,
+      "similarities": {
+        "ContextObjective": 0.5335444808006287,
+        "BenefitsAssistance": 0.48509520292282104,
+        "Eligibility": 0.5246989727020264,
+        "ApplicationProcess": 0.5823853015899658,
+        "TimelineFrequency": 0.5315485000610352,
+        "AuthoritiesGovernance": 0.42917609214782715,
+        "DefinitionsReferences": 0.43969857692718506
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to ensuring that financial barriers do not hinder the pursuit of education for deserving students.",
+      "role": "Eligibility",
+      "confidence": 0.4692855179309845,
+      "similarities": {
+        "ContextObjective": 0.4410269856452942,
+        "BenefitsAssistance": 0.4426390528678894,
+        "Eligibility": 0.4692855179309845,
+        "ApplicationProcess": 0.41564685106277466,
+        "TimelineFrequency": 0.3859124779701233,
+        "AuthoritiesGovernance": 0.3859659433364868,
+        "DefinitionsReferences": 0.3677496910095215
+      }
+    },
+    {
+      "sentence": "Through initiatives like the Arivu Education Loan Scheme, the Government of Karnataka is paving the way for a more educated and skilled workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.4480293393135071,
+      "similarities": {
+        "ContextObjective": 0.4480293393135071,
+        "BenefitsAssistance": 0.4061957001686096,
+        "Eligibility": 0.4076489210128784,
+        "ApplicationProcess": 0.40029916167259216,
+        "TimelineFrequency": 0.3734056055545807,
+        "AuthoritiesGovernance": 0.400349497795105,
+        "DefinitionsReferences": 0.3972167372703552
+      }
+    },
+    {
+      "sentence": "This scheme represents a significant investment in the future of the youth of Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4630034565925598,
+      "similarities": {
+        "ContextObjective": 0.4630034565925598,
+        "BenefitsAssistance": 0.3784983158111572,
+        "Eligibility": 0.384120911359787,
+        "ApplicationProcess": 0.34277498722076416,
+        "TimelineFrequency": 0.3374864459037781,
+        "AuthoritiesGovernance": 0.3002772927284241,
+        "DefinitionsReferences": 0.3333780765533447
+      }
+    },
+    {
+      "sentence": "The government is optimistic that the scheme will contribute to the overall development of the state by fostering education and skill acquisition.",
+      "role": "ContextObjective",
+      "confidence": 0.5013813972473145,
+      "similarities": {
+        "ContextObjective": 0.5013813972473145,
+        "BenefitsAssistance": 0.4070815145969391,
+        "Eligibility": 0.4062569737434387,
+        "ApplicationProcess": 0.41697433590888977,
+        "TimelineFrequency": 0.3816640079021454,
+        "AuthoritiesGovernance": 0.41385895013809204,
+        "DefinitionsReferences": 0.38447314500808716
+      }
+    },
+    {
+      "sentence": "In summary, the Arivu Education Loan Scheme is a vital tool for empowering students and promoting educational equity in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.48291295766830444,
+      "similarities": {
+        "ContextObjective": 0.48291295766830444,
+        "BenefitsAssistance": 0.4205642640590668,
+        "Eligibility": 0.4420865774154663,
+        "ApplicationProcess": 0.3950415253639221,
+        "TimelineFrequency": 0.4011647403240204,
+        "AuthoritiesGovernance": 0.3847923278808594,
+        "DefinitionsReferences": 0.38253095746040344
+      }
+    },
+    {
+      "sentence": "The scheme's focus on affordability and accessibility is crucial in today's rapidly changing educational environment.",
+      "role": "ContextObjective",
+      "confidence": 0.5070824027061462,
+      "similarities": {
+        "ContextObjective": 0.5070824027061462,
+        "BenefitsAssistance": 0.471260666847229,
+        "Eligibility": 0.48520734906196594,
+        "ApplicationProcess": 0.4558698832988739,
+        "TimelineFrequency": 0.44139471650123596,
+        "AuthoritiesGovernance": 0.35071390867233276,
+        "DefinitionsReferences": 0.4064447581768036
+      }
+    },
+    {
+      "sentence": "Students are encouraged to take advantage of this opportunity to secure their educational aspirations without financial stress.",
+      "role": "ContextObjective",
+      "confidence": 0.4708769917488098,
+      "similarities": {
+        "ContextObjective": 0.4708769917488098,
+        "BenefitsAssistance": 0.4411548376083374,
+        "Eligibility": 0.43676936626434326,
+        "ApplicationProcess": 0.4286959171295166,
+        "TimelineFrequency": 0.4293573498725891,
+        "AuthoritiesGovernance": 0.28372716903686523,
+        "DefinitionsReferences": 0.35378390550613403
+      }
+    },
+    {
+      "sentence": "The Arivu Education Loan Scheme is a testament to the government's commitment to education as a fundamental right for all.",
+      "role": "ContextObjective",
+      "confidence": 0.4453147351741791,
+      "similarities": {
+        "ContextObjective": 0.4453147351741791,
+        "BenefitsAssistance": 0.4111068844795227,
+        "Eligibility": 0.42770373821258545,
+        "ApplicationProcess": 0.38781851530075073,
+        "TimelineFrequency": 0.3649066984653473,
+        "AuthoritiesGovernance": 0.3575623631477356,
+        "DefinitionsReferences": 0.38920968770980835
+      }
+    },
+    {
+      "sentence": "As the scheme evolves, it is expected to adapt to the changing needs of students and the educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.5453705787658691,
+      "similarities": {
+        "ContextObjective": 0.5453705787658691,
+        "BenefitsAssistance": 0.43957290053367615,
+        "Eligibility": 0.5115694403648376,
+        "ApplicationProcess": 0.4713366627693176,
+        "TimelineFrequency": 0.48911112546920776,
+        "AuthoritiesGovernance": 0.4261813163757324,
+        "DefinitionsReferences": 0.4248354136943817
+      }
+    },
+    {
+      "sentence": "The government is hopeful that this initiative will inspire other states to implement similar programs to support their students.",
+      "role": "ContextObjective",
+      "confidence": 0.49720221757888794,
+      "similarities": {
+        "ContextObjective": 0.49720221757888794,
+        "BenefitsAssistance": 0.38924700021743774,
+        "Eligibility": 0.4341098666191101,
+        "ApplicationProcess": 0.40326985716819763,
+        "TimelineFrequency": 0.36346182227134705,
+        "AuthoritiesGovernance": 0.4279308319091797,
+        "DefinitionsReferences": 0.38603389263153076
+      }
+    },
+    {
+      "sentence": "The Arivu Education Loan Scheme stands as a beacon of hope for many aspiring students in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4774916172027588,
+      "similarities": {
+        "ContextObjective": 0.4774916172027588,
+        "BenefitsAssistance": 0.38360852003097534,
+        "Eligibility": 0.4245476722717285,
+        "ApplicationProcess": 0.3809816539287567,
+        "TimelineFrequency": 0.3685402274131775,
+        "AuthoritiesGovernance": 0.31911352276802063,
+        "DefinitionsReferences": 0.3490542769432068
+      }
+    },
+    {
+      "sentence": "By facilitating access to education, the scheme is contributing to the overall socio-economic development of the region.",
+      "role": "ContextObjective",
+      "confidence": 0.4982263445854187,
+      "similarities": {
+        "ContextObjective": 0.4982263445854187,
+        "BenefitsAssistance": 0.43080776929855347,
+        "Eligibility": 0.44057202339172363,
+        "ApplicationProcess": 0.407457172870636,
+        "TimelineFrequency": 0.3979032635688782,
+        "AuthoritiesGovernance": 0.4144393801689148,
+        "DefinitionsReferences": 0.36225220561027527
+      }
+    },
+    {
+      "sentence": "The government is determined to make higher education a reality for every deserving student in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4523884356021881,
+      "similarities": {
+        "ContextObjective": 0.4523884356021881,
+        "BenefitsAssistance": 0.3584933280944824,
+        "Eligibility": 0.4497328996658325,
+        "ApplicationProcess": 0.41048574447631836,
+        "TimelineFrequency": 0.3675272762775421,
+        "AuthoritiesGovernance": 0.3842104375362396,
+        "DefinitionsReferences": 0.3491283059120178
+      }
+    },
+    {
+      "sentence": "Through this scheme, the dream of higher education is becoming a tangible reality for many families.",
+      "role": "ContextObjective",
+      "confidence": 0.5029352307319641,
+      "similarities": {
+        "ContextObjective": 0.5029352307319641,
+        "BenefitsAssistance": 0.41186368465423584,
+        "Eligibility": 0.4512503743171692,
+        "ApplicationProcess": 0.44193923473358154,
+        "TimelineFrequency": 0.38258814811706543,
+        "AuthoritiesGovernance": 0.3343568444252014,
+        "DefinitionsReferences": 0.3468273878097534
+      }
+    },
+    {
+      "sentence": "The Arivu Education Loan Scheme is not just a financial aid program; it is a pathway to a brighter future for students in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.48065775632858276,
+      "similarities": {
+        "ContextObjective": 0.48065775632858276,
+        "BenefitsAssistance": 0.4116160273551941,
+        "Eligibility": 0.42581379413604736,
+        "ApplicationProcess": 0.4002515375614166,
+        "TimelineFrequency": 0.39556023478507996,
+        "AuthoritiesGovernance": 0.34246301651000977,
+        "DefinitionsReferences": 0.35998332500457764
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 28,
+    "Eligibility": 9,
+    "BenefitsAssistance": 9,
+    "TimelineFrequency": 3,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:39:02.709117"
+}

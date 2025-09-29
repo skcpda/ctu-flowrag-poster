@@ -1,0 +1,939 @@
+{
+  "scheme_name": "Madilu Kit",
+  "total_sentences": 66,
+  "labeled_sentences": [
+    {
+      "sentence": "The Madilu Kit scheme is an initiative launched by the Government of Karnataka in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5101544857025146,
+      "similarities": {
+        "ContextObjective": 0.5101544857025146,
+        "BenefitsAssistance": 0.3883140981197357,
+        "Eligibility": 0.44292426109313965,
+        "ApplicationProcess": 0.4256592094898224,
+        "TimelineFrequency": 0.394955575466156,
+        "AuthoritiesGovernance": 0.43249982595443726,
+        "DefinitionsReferences": 0.37431931495666504
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on December 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5629976987838745,
+      "similarities": {
+        "ContextObjective": 0.5629976987838745,
+        "BenefitsAssistance": 0.4469376802444458,
+        "Eligibility": 0.4713870584964752,
+        "ApplicationProcess": 0.4703757166862488,
+        "TimelineFrequency": 0.47458261251449585,
+        "AuthoritiesGovernance": 0.4062739312648773,
+        "DefinitionsReferences": 0.3409090042114258
+      }
+    },
+    {
+      "sentence": "It aims to provide essential items for newborns and their mothers.",
+      "role": "ContextObjective",
+      "confidence": 0.5112292766571045,
+      "similarities": {
+        "ContextObjective": 0.5112292766571045,
+        "BenefitsAssistance": 0.503259539604187,
+        "Eligibility": 0.4950166344642639,
+        "ApplicationProcess": 0.44734519720077515,
+        "TimelineFrequency": 0.45336946845054626,
+        "AuthoritiesGovernance": 0.4462222456932068,
+        "DefinitionsReferences": 0.4497606158256531
+      }
+    },
+    {
+      "sentence": "The Madilu Kit is designed to support mothers during the critical postnatal period.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4519868791103363,
+      "similarities": {
+        "ContextObjective": 0.42722320556640625,
+        "BenefitsAssistance": 0.4519868791103363,
+        "Eligibility": 0.397570937871933,
+        "ApplicationProcess": 0.3984849452972412,
+        "TimelineFrequency": 0.4092906713485718,
+        "AuthoritiesGovernance": 0.3594709634780884,
+        "DefinitionsReferences": 0.38030967116355896
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to reduce maternal and infant mortality rates in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5143488049507141,
+      "similarities": {
+        "ContextObjective": 0.5143488049507141,
+        "BenefitsAssistance": 0.39837437868118286,
+        "Eligibility": 0.44549813866615295,
+        "ApplicationProcess": 0.40147650241851807,
+        "TimelineFrequency": 0.3902927041053772,
+        "AuthoritiesGovernance": 0.42587870359420776,
+        "DefinitionsReferences": 0.32407838106155396
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote the health and nutrition of mothers and newborns.",
+      "role": "ContextObjective",
+      "confidence": 0.5010244846343994,
+      "similarities": {
+        "ContextObjective": 0.5010244846343994,
+        "BenefitsAssistance": 0.4246218204498291,
+        "Eligibility": 0.4654848575592041,
+        "ApplicationProcess": 0.40506428480148315,
+        "TimelineFrequency": 0.3997284173965454,
+        "AuthoritiesGovernance": 0.37972062826156616,
+        "DefinitionsReferences": 0.3737480640411377
+      }
+    },
+    {
+      "sentence": "The Karnataka government has set measurable targets to ensure the effective implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5098822712898254,
+      "similarities": {
+        "ContextObjective": 0.5098822712898254,
+        "BenefitsAssistance": 0.3960295617580414,
+        "Eligibility": 0.48538732528686523,
+        "ApplicationProcess": 0.44153469800949097,
+        "TimelineFrequency": 0.39896824955940247,
+        "AuthoritiesGovernance": 0.504804790019989,
+        "DefinitionsReferences": 0.3764573931694031
+      }
+    },
+    {
+      "sentence": "The goal is to distribute the kits to at least 1.5 million mothers annually.",
+      "role": "ContextObjective",
+      "confidence": 0.45347753167152405,
+      "similarities": {
+        "ContextObjective": 0.45347753167152405,
+        "BenefitsAssistance": 0.40235984325408936,
+        "Eligibility": 0.43116509914398193,
+        "ApplicationProcess": 0.36833181977272034,
+        "TimelineFrequency": 0.38483163714408875,
+        "AuthoritiesGovernance": 0.39965447783470154,
+        "DefinitionsReferences": 0.32902729511260986
+      }
+    },
+    {
+      "sentence": "Each kit contains essential items that are crucial for the health and well-being of newborns.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48009276390075684,
+      "similarities": {
+        "ContextObjective": 0.4366646111011505,
+        "BenefitsAssistance": 0.48009276390075684,
+        "Eligibility": 0.4458256959915161,
+        "ApplicationProcess": 0.4186965525150299,
+        "TimelineFrequency": 0.44246339797973633,
+        "AuthoritiesGovernance": 0.39211657643318176,
+        "DefinitionsReferences": 0.47079676389694214
+      }
+    },
+    {
+      "sentence": "The kit includes items such as baby clothes, diapers, and hygiene products.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4886937141418457,
+      "similarities": {
+        "ContextObjective": 0.4264746904373169,
+        "BenefitsAssistance": 0.4886937141418457,
+        "Eligibility": 0.4402112364768982,
+        "ApplicationProcess": 0.4362252950668335,
+        "TimelineFrequency": 0.42381834983825684,
+        "AuthoritiesGovernance": 0.3861030042171478,
+        "DefinitionsReferences": 0.47672945261001587
+      }
+    },
+    {
+      "sentence": "It also contains nutritional supplements for mothers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48861363530158997,
+      "similarities": {
+        "ContextObjective": 0.3692975342273712,
+        "BenefitsAssistance": 0.48861363530158997,
+        "Eligibility": 0.39469215273857117,
+        "ApplicationProcess": 0.350772500038147,
+        "TimelineFrequency": 0.3719007968902588,
+        "AuthoritiesGovernance": 0.33831775188446045,
+        "DefinitionsReferences": 0.42499274015426636
+      }
+    },
+    {
+      "sentence": "The total cost of each Madilu Kit is approximately INR 1,500.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4842260181903839,
+      "similarities": {
+        "ContextObjective": 0.39764949679374695,
+        "BenefitsAssistance": 0.4842260181903839,
+        "Eligibility": 0.3533196747303009,
+        "ApplicationProcess": 0.40900686383247375,
+        "TimelineFrequency": 0.3959615230560303,
+        "AuthoritiesGovernance": 0.35061144828796387,
+        "DefinitionsReferences": 0.36800289154052734
+      }
+    },
+    {
+      "sentence": "This amount covers the procurement of all items included in the kit.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5881250500679016,
+      "similarities": {
+        "ContextObjective": 0.4373881220817566,
+        "BenefitsAssistance": 0.5881250500679016,
+        "Eligibility": 0.46537262201309204,
+        "ApplicationProcess": 0.45516830682754517,
+        "TimelineFrequency": 0.4402158856391907,
+        "AuthoritiesGovernance": 0.4121147394180298,
+        "DefinitionsReferences": 0.45905929803848267
+      }
+    },
+    {
+      "sentence": "The government allocates a budget of around INR 225 crore annually for this scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49064838886260986,
+      "similarities": {
+        "ContextObjective": 0.4687843322753906,
+        "BenefitsAssistance": 0.49064838886260986,
+        "Eligibility": 0.4374645948410034,
+        "ApplicationProcess": 0.4165150821208954,
+        "TimelineFrequency": 0.4497506022453308,
+        "AuthoritiesGovernance": 0.4230361580848694,
+        "DefinitionsReferences": 0.3699110746383667
+      }
+    },
+    {
+      "sentence": "Eligibility for receiving the Madilu Kit is primarily based on residency in Karnataka.",
+      "role": "Eligibility",
+      "confidence": 0.5178285837173462,
+      "similarities": {
+        "ContextObjective": 0.41352760791778564,
+        "BenefitsAssistance": 0.3781895041465759,
+        "Eligibility": 0.5178285837173462,
+        "ApplicationProcess": 0.4466889202594757,
+        "TimelineFrequency": 0.41123056411743164,
+        "AuthoritiesGovernance": 0.3676513433456421,
+        "DefinitionsReferences": 0.363689124584198
+      }
+    },
+    {
+      "sentence": "Women who have delivered a child in a government hospital are eligible for the kit.",
+      "role": "Eligibility",
+      "confidence": 0.5191456079483032,
+      "similarities": {
+        "ContextObjective": 0.44096890091896057,
+        "BenefitsAssistance": 0.45115265250205994,
+        "Eligibility": 0.5191456079483032,
+        "ApplicationProcess": 0.45846498012542725,
+        "TimelineFrequency": 0.4168279767036438,
+        "AuthoritiesGovernance": 0.4335790276527405,
+        "DefinitionsReferences": 0.37360090017318726
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5692411661148071,
+      "similarities": {
+        "ContextObjective": 0.4365747570991516,
+        "BenefitsAssistance": 0.4491996169090271,
+        "Eligibility": 0.5692411661148071,
+        "ApplicationProcess": 0.45013654232025146,
+        "TimelineFrequency": 0.4708372950553894,
+        "AuthoritiesGovernance": 0.3620491325855255,
+        "DefinitionsReferences": 0.3656080961227417
+      }
+    },
+    {
+      "sentence": "However, the scheme targets mothers who are economically disadvantaged.",
+      "role": "Eligibility",
+      "confidence": 0.5086312890052795,
+      "similarities": {
+        "ContextObjective": 0.4771236777305603,
+        "BenefitsAssistance": 0.44117432832717896,
+        "Eligibility": 0.5086312890052795,
+        "ApplicationProcess": 0.37544912099838257,
+        "TimelineFrequency": 0.40148019790649414,
+        "AuthoritiesGovernance": 0.36603009700775146,
+        "DefinitionsReferences": 0.3166956305503845
+      }
+    },
+    {
+      "sentence": "Income criteria for eligibility are set at below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.6434138417243958,
+      "similarities": {
+        "ContextObjective": 0.48354214429855347,
+        "BenefitsAssistance": 0.5158805847167969,
+        "Eligibility": 0.6434138417243958,
+        "ApplicationProcess": 0.48647335171699524,
+        "TimelineFrequency": 0.4624808728694916,
+        "AuthoritiesGovernance": 0.41590696573257446,
+        "DefinitionsReferences": 0.4104403555393219
+      }
+    },
+    {
+      "sentence": "Women who are part of the National Food Security Act are also eligible.",
+      "role": "Eligibility",
+      "confidence": 0.5255172252655029,
+      "similarities": {
+        "ContextObjective": 0.3776227831840515,
+        "BenefitsAssistance": 0.40326470136642456,
+        "Eligibility": 0.5255172252655029,
+        "ApplicationProcess": 0.3964483141899109,
+        "TimelineFrequency": 0.3696419596672058,
+        "AuthoritiesGovernance": 0.36962997913360596,
+        "DefinitionsReferences": 0.36715689301490784
+      }
+    },
+    {
+      "sentence": "The application process for the Madilu Kit is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.565200686454773,
+      "similarities": {
+        "ContextObjective": 0.4866488575935364,
+        "BenefitsAssistance": 0.4203261733055115,
+        "Eligibility": 0.4817892611026764,
+        "ApplicationProcess": 0.565200686454773,
+        "TimelineFrequency": 0.48101115226745605,
+        "AuthoritiesGovernance": 0.3990061283111572,
+        "DefinitionsReferences": 0.38987791538238525
+      }
+    },
+    {
+      "sentence": "Eligible mothers need to apply through the hospital where they delivered.",
+      "role": "Eligibility",
+      "confidence": 0.6104110479354858,
+      "similarities": {
+        "ContextObjective": 0.43798941373825073,
+        "BenefitsAssistance": 0.4539838433265686,
+        "Eligibility": 0.6104110479354858,
+        "ApplicationProcess": 0.5594280958175659,
+        "TimelineFrequency": 0.49413126707077026,
+        "AuthoritiesGovernance": 0.4405054748058319,
+        "DefinitionsReferences": 0.3680146336555481
+      }
+    },
+    {
+      "sentence": "The hospital staff assists in the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6162174344062805,
+      "similarities": {
+        "ContextObjective": 0.4596729576587677,
+        "BenefitsAssistance": 0.49594229459762573,
+        "Eligibility": 0.5690878629684448,
+        "ApplicationProcess": 0.6162174344062805,
+        "TimelineFrequency": 0.5448355078697205,
+        "AuthoritiesGovernance": 0.5239452123641968,
+        "DefinitionsReferences": 0.43814587593078613
+      }
+    },
+    {
+      "sentence": "Required documents include the mother's Aadhar card and the birth certificate of the newborn.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5681971907615662,
+      "similarities": {
+        "ContextObjective": 0.4275607168674469,
+        "BenefitsAssistance": 0.539269745349884,
+        "Eligibility": 0.5021503567695618,
+        "ApplicationProcess": 0.5681971907615662,
+        "TimelineFrequency": 0.47292372584342957,
+        "AuthoritiesGovernance": 0.4253374934196472,
+        "DefinitionsReferences": 0.5064332485198975
+      }
+    },
+    {
+      "sentence": "The application must be submitted within 30 days of the child's birth.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5707613229751587,
+      "similarities": {
+        "ContextObjective": 0.4622919261455536,
+        "BenefitsAssistance": 0.45515087246894836,
+        "Eligibility": 0.5675846338272095,
+        "ApplicationProcess": 0.5573511123657227,
+        "TimelineFrequency": 0.5707613229751587,
+        "AuthoritiesGovernance": 0.4141567349433899,
+        "DefinitionsReferences": 0.41048943996429443
+      }
+    },
+    {
+      "sentence": "Once the application is approved, the kit is provided to the mother.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5897550582885742,
+      "similarities": {
+        "ContextObjective": 0.46725499629974365,
+        "BenefitsAssistance": 0.5166350603103638,
+        "Eligibility": 0.5561574697494507,
+        "ApplicationProcess": 0.5897550582885742,
+        "TimelineFrequency": 0.505520224571228,
+        "AuthoritiesGovernance": 0.4441130459308624,
+        "DefinitionsReferences": 0.4251171946525574
+      }
+    },
+    {
+      "sentence": "The distribution of the kits occurs at the hospital itself.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46740227937698364,
+      "similarities": {
+        "ContextObjective": 0.416523814201355,
+        "BenefitsAssistance": 0.43308621644973755,
+        "Eligibility": 0.42872804403305054,
+        "ApplicationProcess": 0.4003763794898987,
+        "TimelineFrequency": 0.3837442100048065,
+        "AuthoritiesGovernance": 0.46740227937698364,
+        "DefinitionsReferences": 0.3762839436531067
+      }
+    },
+    {
+      "sentence": "The Madilu Kit is distributed free of cost to eligible mothers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4434242844581604,
+      "similarities": {
+        "ContextObjective": 0.39307475090026855,
+        "BenefitsAssistance": 0.4434242844581604,
+        "Eligibility": 0.41972026228904724,
+        "ApplicationProcess": 0.3793639540672302,
+        "TimelineFrequency": 0.36096417903900146,
+        "AuthoritiesGovernance": 0.3271167278289795,
+        "DefinitionsReferences": 0.3208215832710266
+      }
+    },
+    {
+      "sentence": "The frequency of distribution aligns with the birth of children in government hospitals.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4335029721260071,
+      "similarities": {
+        "ContextObjective": 0.40754714608192444,
+        "BenefitsAssistance": 0.3999921679496765,
+        "Eligibility": 0.42168092727661133,
+        "ApplicationProcess": 0.3772379159927368,
+        "TimelineFrequency": 0.4335029721260071,
+        "AuthoritiesGovernance": 0.42655646800994873,
+        "DefinitionsReferences": 0.38853639364242554
+      }
+    },
+    {
+      "sentence": "The Karnataka government has partnered with various NGOs for effective distribution.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5284503698348999,
+      "similarities": {
+        "ContextObjective": 0.45669668912887573,
+        "BenefitsAssistance": 0.4553355276584625,
+        "Eligibility": 0.47825121879577637,
+        "ApplicationProcess": 0.3962796926498413,
+        "TimelineFrequency": 0.3761213421821594,
+        "AuthoritiesGovernance": 0.5284503698348999,
+        "DefinitionsReferences": 0.43363434076309204
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Madilu Kit scheme is the Department of Health and Family Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5222632884979248,
+      "similarities": {
+        "ContextObjective": 0.40856167674064636,
+        "BenefitsAssistance": 0.41185474395751953,
+        "Eligibility": 0.4651794135570526,
+        "ApplicationProcess": 0.3970951437950134,
+        "TimelineFrequency": 0.34737512469291687,
+        "AuthoritiesGovernance": 0.5222632884979248,
+        "DefinitionsReferences": 0.37865692377090454
+      }
+    },
+    {
+      "sentence": "The Director of Health and Family Welfare Services oversees the scheme's implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5446360111236572,
+      "similarities": {
+        "ContextObjective": 0.49176961183547974,
+        "BenefitsAssistance": 0.4550768733024597,
+        "Eligibility": 0.4914928674697876,
+        "ApplicationProcess": 0.43632426857948303,
+        "TimelineFrequency": 0.3801158666610718,
+        "AuthoritiesGovernance": 0.5446360111236572,
+        "DefinitionsReferences": 0.36175528168678284
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Health and Family Welfare can be found on their official website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5125063061714172,
+      "similarities": {
+        "ContextObjective": 0.3958595395088196,
+        "BenefitsAssistance": 0.5125063061714172,
+        "Eligibility": 0.4681120812892914,
+        "ApplicationProcess": 0.48309484124183655,
+        "TimelineFrequency": 0.4151138365268707,
+        "AuthoritiesGovernance": 0.5014057159423828,
+        "DefinitionsReferences": 0.44744107127189636
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.5936596393585205,
+      "similarities": {
+        "ContextObjective": 0.5936596393585205,
+        "BenefitsAssistance": 0.42664939165115356,
+        "Eligibility": 0.4543163776397705,
+        "ApplicationProcess": 0.436822772026062,
+        "TimelineFrequency": 0.3904264271259308,
+        "AuthoritiesGovernance": 0.41232579946517944,
+        "DefinitionsReferences": 0.385079562664032
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries indicates satisfaction with the quality of items in the kit.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4852742552757263,
+      "similarities": {
+        "ContextObjective": 0.47123950719833374,
+        "BenefitsAssistance": 0.4852742552757263,
+        "Eligibility": 0.48475828766822815,
+        "ApplicationProcess": 0.4395639896392822,
+        "TimelineFrequency": 0.4066517651081085,
+        "AuthoritiesGovernance": 0.42393821477890015,
+        "DefinitionsReferences": 0.44395342469215393
+      }
+    },
+    {
+      "sentence": "The government has reported a significant increase in the number of mothers utilizing government health facilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4384152889251709,
+      "similarities": {
+        "ContextObjective": 0.357971727848053,
+        "BenefitsAssistance": 0.4384152889251709,
+        "Eligibility": 0.38352763652801514,
+        "ApplicationProcess": 0.3768082857131958,
+        "TimelineFrequency": 0.353195458650589,
+        "AuthoritiesGovernance": 0.4004547595977783,
+        "DefinitionsReferences": 0.40056610107421875
+      }
+    },
+    {
+      "sentence": "This increase is attributed to the incentives provided by the Madilu Kit scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4314608573913574,
+      "similarities": {
+        "ContextObjective": 0.4314608573913574,
+        "BenefitsAssistance": 0.39344269037246704,
+        "Eligibility": 0.3676985502243042,
+        "ApplicationProcess": 0.3427317142486572,
+        "TimelineFrequency": 0.35138458013534546,
+        "AuthoritiesGovernance": 0.31633710861206055,
+        "DefinitionsReferences": 0.34651249647140503
+      }
+    },
+    {
+      "sentence": "The scheme also includes awareness programs about maternal and child health.",
+      "role": "ContextObjective",
+      "confidence": 0.5079553127288818,
+      "similarities": {
+        "ContextObjective": 0.5079553127288818,
+        "BenefitsAssistance": 0.48694711923599243,
+        "Eligibility": 0.47874876856803894,
+        "ApplicationProcess": 0.4410943388938904,
+        "TimelineFrequency": 0.40991535782814026,
+        "AuthoritiesGovernance": 0.41948115825653076,
+        "DefinitionsReferences": 0.3981056809425354
+      }
+    },
+    {
+      "sentence": "These programs aim to educate mothers about the importance of nutrition and hygiene.",
+      "role": "ContextObjective",
+      "confidence": 0.43999385833740234,
+      "similarities": {
+        "ContextObjective": 0.43999385833740234,
+        "BenefitsAssistance": 0.4101775586605072,
+        "Eligibility": 0.42018142342567444,
+        "ApplicationProcess": 0.4076535105705261,
+        "TimelineFrequency": 0.40096956491470337,
+        "AuthoritiesGovernance": 0.38887566328048706,
+        "DefinitionsReferences": 0.3753347396850586
+      }
+    },
+    {
+      "sentence": "The government conducts regular monitoring and evaluation of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5411275029182434,
+      "similarities": {
+        "ContextObjective": 0.510275661945343,
+        "BenefitsAssistance": 0.49715322256088257,
+        "Eligibility": 0.5160537958145142,
+        "ApplicationProcess": 0.5411275029182434,
+        "TimelineFrequency": 0.475774347782135,
+        "AuthoritiesGovernance": 0.5091065764427185,
+        "DefinitionsReferences": 0.4673217833042145
+      }
+    },
+    {
+      "sentence": "Data is collected to assess the impact on maternal and infant health outcomes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5274848341941833,
+      "similarities": {
+        "ContextObjective": 0.4295364022254944,
+        "BenefitsAssistance": 0.5274848341941833,
+        "Eligibility": 0.497906357049942,
+        "ApplicationProcess": 0.4517318308353424,
+        "TimelineFrequency": 0.45343828201293945,
+        "AuthoritiesGovernance": 0.4766008257865906,
+        "DefinitionsReferences": 0.4446243345737457
+      }
+    },
+    {
+      "sentence": "The Madilu Kit scheme is part of a broader initiative to improve health services in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4503323435783386,
+      "similarities": {
+        "ContextObjective": 0.4503323435783386,
+        "BenefitsAssistance": 0.40445250272750854,
+        "Eligibility": 0.397577702999115,
+        "ApplicationProcess": 0.3799407482147217,
+        "TimelineFrequency": 0.35163936018943787,
+        "AuthoritiesGovernance": 0.4169294238090515,
+        "DefinitionsReferences": 0.34778839349746704
+      }
+    },
+    {
+      "sentence": "It aligns with the National Health Mission's objectives to enhance maternal and child health.",
+      "role": "ContextObjective",
+      "confidence": 0.4717600345611572,
+      "similarities": {
+        "ContextObjective": 0.4717600345611572,
+        "BenefitsAssistance": 0.3867870271205902,
+        "Eligibility": 0.42570263147354126,
+        "ApplicationProcess": 0.3947570025920868,
+        "TimelineFrequency": 0.3627506196498871,
+        "AuthoritiesGovernance": 0.41594910621643066,
+        "DefinitionsReferences": 0.37097635865211487
+      }
+    },
+    {
+      "sentence": "The scheme contributes to the Sustainable Development Goals related to health.",
+      "role": "ContextObjective",
+      "confidence": 0.547980546951294,
+      "similarities": {
+        "ContextObjective": 0.547980546951294,
+        "BenefitsAssistance": 0.44784367084503174,
+        "Eligibility": 0.47296130657196045,
+        "ApplicationProcess": 0.41107651591300964,
+        "TimelineFrequency": 0.3877111077308655,
+        "AuthoritiesGovernance": 0.43335282802581787,
+        "DefinitionsReferences": 0.3730480670928955
+      }
+    },
+    {
+      "sentence": "The Karnataka government continues to seek ways to improve and expand the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5082461833953857,
+      "similarities": {
+        "ContextObjective": 0.5082461833953857,
+        "BenefitsAssistance": 0.4251658022403717,
+        "Eligibility": 0.4494630992412567,
+        "ApplicationProcess": 0.45690011978149414,
+        "TimelineFrequency": 0.4227249324321747,
+        "AuthoritiesGovernance": 0.4886738061904907,
+        "DefinitionsReferences": 0.4023623466491699
+      }
+    },
+    {
+      "sentence": "Plans are in place to increase the number of items in the kit based on feedback.",
+      "role": "ContextObjective",
+      "confidence": 0.5181757211685181,
+      "similarities": {
+        "ContextObjective": 0.5181757211685181,
+        "BenefitsAssistance": 0.4742618799209595,
+        "Eligibility": 0.472281813621521,
+        "ApplicationProcess": 0.4679899215698242,
+        "TimelineFrequency": 0.48209959268569946,
+        "AuthoritiesGovernance": 0.4816199541091919,
+        "DefinitionsReferences": 0.48051851987838745
+      }
+    },
+    {
+      "sentence": "The government aims to include more nutritional supplements in future distributions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5078491568565369,
+      "similarities": {
+        "ContextObjective": 0.4704511761665344,
+        "BenefitsAssistance": 0.5078491568565369,
+        "Eligibility": 0.4952070713043213,
+        "ApplicationProcess": 0.40238597989082336,
+        "TimelineFrequency": 0.4112430810928345,
+        "AuthoritiesGovernance": 0.45812931656837463,
+        "DefinitionsReferences": 0.44894033670425415
+      }
+    },
+    {
+      "sentence": "The Madilu Kit scheme is a crucial step towards ensuring the health of mothers and infants.",
+      "role": "ContextObjective",
+      "confidence": 0.46236902475357056,
+      "similarities": {
+        "ContextObjective": 0.46236902475357056,
+        "BenefitsAssistance": 0.4283110499382019,
+        "Eligibility": 0.4441992938518524,
+        "ApplicationProcess": 0.435945987701416,
+        "TimelineFrequency": 0.3825092911720276,
+        "AuthoritiesGovernance": 0.3953506350517273,
+        "DefinitionsReferences": 0.3810194134712219
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to reducing health disparities in the state.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.429169237613678,
+      "similarities": {
+        "ContextObjective": 0.3972243666648865,
+        "BenefitsAssistance": 0.4080224633216858,
+        "Eligibility": 0.42453891038894653,
+        "ApplicationProcess": 0.38983768224716187,
+        "TimelineFrequency": 0.34983792901039124,
+        "AuthoritiesGovernance": 0.429169237613678,
+        "DefinitionsReferences": 0.36878538131713867
+      }
+    },
+    {
+      "sentence": "The scheme has the potential to significantly impact the lives of many families.",
+      "role": "Eligibility",
+      "confidence": 0.5689917802810669,
+      "similarities": {
+        "ContextObjective": 0.5546077489852905,
+        "BenefitsAssistance": 0.5190001726150513,
+        "Eligibility": 0.5689917802810669,
+        "ApplicationProcess": 0.45494598150253296,
+        "TimelineFrequency": 0.4447362422943115,
+        "AuthoritiesGovernance": 0.4208697974681854,
+        "DefinitionsReferences": 0.4177609980106354
+      }
+    },
+    {
+      "sentence": "By providing essential items, the Madilu Kit supports mothers during a vulnerable time.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5045552849769592,
+      "similarities": {
+        "ContextObjective": 0.41749894618988037,
+        "BenefitsAssistance": 0.5045552849769592,
+        "Eligibility": 0.44579577445983887,
+        "ApplicationProcess": 0.406697154045105,
+        "TimelineFrequency": 0.4074743092060089,
+        "AuthoritiesGovernance": 0.3805234134197235,
+        "DefinitionsReferences": 0.39898648858070374
+      }
+    },
+    {
+      "sentence": "The initiative is a testament to the importance of government support in healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4638679325580597,
+      "similarities": {
+        "ContextObjective": 0.44815492630004883,
+        "BenefitsAssistance": 0.4638679325580597,
+        "Eligibility": 0.40711137652397156,
+        "ApplicationProcess": 0.3751290738582611,
+        "TimelineFrequency": 0.3444518446922302,
+        "AuthoritiesGovernance": 0.4121853709220886,
+        "DefinitionsReferences": 0.38895541429519653
+      }
+    },
+    {
+      "sentence": "The Madilu Kit scheme exemplifies a targeted approach to welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.5170543193817139,
+      "similarities": {
+        "ContextObjective": 0.5170543193817139,
+        "BenefitsAssistance": 0.43168583512306213,
+        "Eligibility": 0.46809813380241394,
+        "ApplicationProcess": 0.38669002056121826,
+        "TimelineFrequency": 0.36938410997390747,
+        "AuthoritiesGovernance": 0.40859317779541016,
+        "DefinitionsReferences": 0.36871564388275146
+      }
+    },
+    {
+      "sentence": "It addresses specific needs of mothers and newborns in Karnataka.",
+      "role": "Eligibility",
+      "confidence": 0.5133339762687683,
+      "similarities": {
+        "ContextObjective": 0.47148430347442627,
+        "BenefitsAssistance": 0.4575778841972351,
+        "Eligibility": 0.5133339762687683,
+        "ApplicationProcess": 0.41497284173965454,
+        "TimelineFrequency": 0.4208085536956787,
+        "AuthoritiesGovernance": 0.43753212690353394,
+        "DefinitionsReferences": 0.38936787843704224
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time based on changing needs.",
+      "role": "ContextObjective",
+      "confidence": 0.6382308006286621,
+      "similarities": {
+        "ContextObjective": 0.6382308006286621,
+        "BenefitsAssistance": 0.5219974517822266,
+        "Eligibility": 0.5574889183044434,
+        "ApplicationProcess": 0.5301785469055176,
+        "TimelineFrequency": 0.5536133646965027,
+        "AuthoritiesGovernance": 0.49617186188697815,
+        "DefinitionsReferences": 0.4762158989906311
+      }
+    },
+    {
+      "sentence": "Overall, the Madilu Kit scheme represents a significant investment in public health.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41053569316864014,
+      "similarities": {
+        "ContextObjective": 0.40518665313720703,
+        "BenefitsAssistance": 0.41053569316864014,
+        "Eligibility": 0.3715243339538574,
+        "ApplicationProcess": 0.34896600246429443,
+        "TimelineFrequency": 0.3098423182964325,
+        "AuthoritiesGovernance": 0.35912731289863586,
+        "DefinitionsReferences": 0.3425340950489044
+      }
+    },
+    {
+      "sentence": "It aims to create a healthier future for the next generation in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.46636509895324707,
+      "similarities": {
+        "ContextObjective": 0.46636509895324707,
+        "BenefitsAssistance": 0.3280333876609802,
+        "Eligibility": 0.4062191843986511,
+        "ApplicationProcess": 0.37121278047561646,
+        "TimelineFrequency": 0.32886290550231934,
+        "AuthoritiesGovernance": 0.35431182384490967,
+        "DefinitionsReferences": 0.3255184292793274
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible mothers to take advantage of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5118148326873779,
+      "similarities": {
+        "ContextObjective": 0.4940575957298279,
+        "BenefitsAssistance": 0.45741575956344604,
+        "Eligibility": 0.5118148326873779,
+        "ApplicationProcess": 0.44620415568351746,
+        "TimelineFrequency": 0.42908647656440735,
+        "AuthoritiesGovernance": 0.378372460603714,
+        "DefinitionsReferences": 0.38605213165283203
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are ongoing to ensure that the information reaches all potential beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5528903007507324,
+      "similarities": {
+        "ContextObjective": 0.5203591585159302,
+        "BenefitsAssistance": 0.5337599515914917,
+        "Eligibility": 0.5528903007507324,
+        "ApplicationProcess": 0.47275200486183167,
+        "TimelineFrequency": 0.42323005199432373,
+        "AuthoritiesGovernance": 0.4870367646217346,
+        "DefinitionsReferences": 0.42533254623413086
+      }
+    },
+    {
+      "sentence": "The Madilu Kit scheme is a model for similar initiatives across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4912647604942322,
+      "similarities": {
+        "ContextObjective": 0.4912647604942322,
+        "BenefitsAssistance": 0.3896936774253845,
+        "Eligibility": 0.42951685190200806,
+        "ApplicationProcess": 0.4118815064430237,
+        "TimelineFrequency": 0.3853183090686798,
+        "AuthoritiesGovernance": 0.40505290031433105,
+        "DefinitionsReferences": 0.39674824476242065
+      }
+    },
+    {
+      "sentence": "It showcases the importance of government intervention in healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4558357000350952,
+      "similarities": {
+        "ContextObjective": 0.42238110303878784,
+        "BenefitsAssistance": 0.4558357000350952,
+        "Eligibility": 0.40672338008880615,
+        "ApplicationProcess": 0.3722938299179077,
+        "TimelineFrequency": 0.3650895357131958,
+        "AuthoritiesGovernance": 0.43106719851493835,
+        "DefinitionsReferences": 0.4094146192073822
+      }
+    },
+    {
+      "sentence": "The success of the scheme could inspire other states to implement similar programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5532692074775696,
+      "similarities": {
+        "ContextObjective": 0.5532692074775696,
+        "BenefitsAssistance": 0.405784547328949,
+        "Eligibility": 0.471844345331192,
+        "ApplicationProcess": 0.4145568013191223,
+        "TimelineFrequency": 0.36631983518600464,
+        "AuthoritiesGovernance": 0.4270339012145996,
+        "DefinitionsReferences": 0.3945048451423645
+      }
+    },
+    {
+      "sentence": "The Madilu Kit scheme is a vital resource for mothers in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4437377154827118,
+      "similarities": {
+        "ContextObjective": 0.4437377154827118,
+        "BenefitsAssistance": 0.4003174304962158,
+        "Eligibility": 0.44119855761528015,
+        "ApplicationProcess": 0.37974071502685547,
+        "TimelineFrequency": 0.37973397970199585,
+        "AuthoritiesGovernance": 0.35421687364578247,
+        "DefinitionsReferences": 0.3714028000831604
+      }
+    },
+    {
+      "sentence": "It plays a crucial role in promoting maternal and child health in the region.",
+      "role": "Eligibility",
+      "confidence": 0.4637260437011719,
+      "similarities": {
+        "ContextObjective": 0.4382978081703186,
+        "BenefitsAssistance": 0.40746739506721497,
+        "Eligibility": 0.4637260437011719,
+        "ApplicationProcess": 0.3920109272003174,
+        "TimelineFrequency": 0.39496850967407227,
+        "AuthoritiesGovernance": 0.42814087867736816,
+        "DefinitionsReferences": 0.3885631859302521
+      }
+    },
+    {
+      "sentence": "The ongoing support from the government is essential for the scheme's sustainability.",
+      "role": "ContextObjective",
+      "confidence": 0.5522105693817139,
+      "similarities": {
+        "ContextObjective": 0.5522105693817139,
+        "BenefitsAssistance": 0.469788521528244,
+        "Eligibility": 0.4549870789051056,
+        "ApplicationProcess": 0.4602293074131012,
+        "TimelineFrequency": 0.4114757180213928,
+        "AuthoritiesGovernance": 0.44729167222976685,
+        "DefinitionsReferences": 0.4251022934913635
+      }
+    },
+    {
+      "sentence": "The Madilu Kit scheme is a clear example of how targeted welfare initiatives can make a difference.",
+      "role": "ContextObjective",
+      "confidence": 0.4936056137084961,
+      "similarities": {
+        "ContextObjective": 0.4936056137084961,
+        "BenefitsAssistance": 0.38626259565353394,
+        "Eligibility": 0.4396176338195801,
+        "ApplicationProcess": 0.3425791263580322,
+        "TimelineFrequency": 0.3279961347579956,
+        "AuthoritiesGovernance": 0.3654489815235138,
+        "DefinitionsReferences": 0.32703322172164917
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 25,
+    "BenefitsAssistance": 17,
+    "Eligibility": 12,
+    "ApplicationProcess": 5,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-24T21:04:42.503220"
+}

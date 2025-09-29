@@ -1,0 +1,743 @@
+{
+  "scheme_name": "Shaadi Mubarak Scheme",
+  "total_sentences": 52,
+  "labeled_sentences": [
+    {
+      "sentence": "The Shaadi Mubarak Scheme is a welfare initiative launched by the Government of Telangana in the year 2014.",
+      "role": "ContextObjective",
+      "confidence": 0.4945117235183716,
+      "similarities": {
+        "ContextObjective": 0.4945117235183716,
+        "BenefitsAssistance": 0.4083937108516693,
+        "Eligibility": 0.43169817328453064,
+        "ApplicationProcess": 0.39775532484054565,
+        "TimelineFrequency": 0.369770348072052,
+        "AuthoritiesGovernance": 0.4383937120437622,
+        "DefinitionsReferences": 0.3161669969558716
+      }
+    },
+    {
+      "sentence": "The scheme was introduced to provide financial assistance to economically disadvantaged families for the marriage of their daughters.",
+      "role": "Eligibility",
+      "confidence": 0.5064839124679565,
+      "similarities": {
+        "ContextObjective": 0.49628809094429016,
+        "BenefitsAssistance": 0.45472413301467896,
+        "Eligibility": 0.5064839124679565,
+        "ApplicationProcess": 0.4217555522918701,
+        "TimelineFrequency": 0.4119657874107361,
+        "AuthoritiesGovernance": 0.38768643140792847,
+        "DefinitionsReferences": 0.3212469220161438
+      }
+    },
+    {
+      "sentence": "The primary objective of the Shaadi Mubarak Scheme is to alleviate the financial burden on families when it comes to the marriage of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.48915570974349976,
+      "similarities": {
+        "ContextObjective": 0.48915570974349976,
+        "BenefitsAssistance": 0.4262710511684418,
+        "Eligibility": 0.4174267649650574,
+        "ApplicationProcess": 0.378360778093338,
+        "TimelineFrequency": 0.35361844301223755,
+        "AuthoritiesGovernance": 0.35495299100875854,
+        "DefinitionsReferences": 0.28208279609680176
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower women by ensuring that they are married with dignity and that their families do not face undue financial stress.",
+      "role": "ContextObjective",
+      "confidence": 0.4933347702026367,
+      "similarities": {
+        "ContextObjective": 0.4933347702026367,
+        "BenefitsAssistance": 0.4515533447265625,
+        "Eligibility": 0.46040135622024536,
+        "ApplicationProcess": 0.4033682644367218,
+        "TimelineFrequency": 0.3685877323150635,
+        "AuthoritiesGovernance": 0.3426015079021454,
+        "DefinitionsReferences": 0.31287023425102234
+      }
+    },
+    {
+      "sentence": "The Telangana government has set a target to assist at least 1 lakh families annually through this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.48660919070243835,
+      "similarities": {
+        "ContextObjective": 0.48660919070243835,
+        "BenefitsAssistance": 0.43308934569358826,
+        "Eligibility": 0.48098474740982056,
+        "ApplicationProcess": 0.3959857225418091,
+        "TimelineFrequency": 0.36918386816978455,
+        "AuthoritiesGovernance": 0.3965906500816345,
+        "DefinitionsReferences": 0.3327024579048157
+      }
+    },
+    {
+      "sentence": "Under the Shaadi Mubarak Scheme, the government provides a financial assistance of ₹1,00,116 for the marriage of each eligible girl.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45051753520965576,
+      "similarities": {
+        "ContextObjective": 0.4038419723510742,
+        "BenefitsAssistance": 0.45051753520965576,
+        "Eligibility": 0.45051729679107666,
+        "ApplicationProcess": 0.3973442018032074,
+        "TimelineFrequency": 0.3708488643169403,
+        "AuthoritiesGovernance": 0.3629707396030426,
+        "DefinitionsReferences": 0.3055340647697449
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover various expenses related to the wedding ceremony, including but not limited to, venue, catering, and other essential costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5960853099822998,
+      "similarities": {
+        "ContextObjective": 0.47428831458091736,
+        "BenefitsAssistance": 0.5960853099822998,
+        "Eligibility": 0.4872044324874878,
+        "ApplicationProcess": 0.45593103766441345,
+        "TimelineFrequency": 0.4816621243953705,
+        "AuthoritiesGovernance": 0.40953320264816284,
+        "DefinitionsReferences": 0.48315438628196716
+      }
+    },
+    {
+      "sentence": "The assistance is directly credited to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5949941873550415,
+      "similarities": {
+        "ContextObjective": 0.43024134635925293,
+        "BenefitsAssistance": 0.5949941873550415,
+        "Eligibility": 0.5345336198806763,
+        "ApplicationProcess": 0.4720125198364258,
+        "TimelineFrequency": 0.4159879982471466,
+        "AuthoritiesGovernance": 0.42780157923698425,
+        "DefinitionsReferences": 0.4042896032333374
+      }
+    },
+    {
+      "sentence": "To be eligible for the Shaadi Mubarak Scheme, the applicant must be a resident of Telangana.",
+      "role": "Eligibility",
+      "confidence": 0.5570826530456543,
+      "similarities": {
+        "ContextObjective": 0.42220786213874817,
+        "BenefitsAssistance": 0.3631332218647003,
+        "Eligibility": 0.5570826530456543,
+        "ApplicationProcess": 0.5040683746337891,
+        "TimelineFrequency": 0.4076281785964966,
+        "AuthoritiesGovernance": 0.3593752384185791,
+        "DefinitionsReferences": 0.29391205310821533
+      }
+    },
+    {
+      "sentence": "The girl must be at least 18 years old at the time of marriage.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48544061183929443,
+      "similarities": {
+        "ContextObjective": 0.4035071134567261,
+        "BenefitsAssistance": 0.4040878415107727,
+        "Eligibility": 0.47656652331352234,
+        "ApplicationProcess": 0.48544061183929443,
+        "TimelineFrequency": 0.4498750865459442,
+        "AuthoritiesGovernance": 0.36550331115722656,
+        "DefinitionsReferences": 0.3655585050582886
+      }
+    },
+    {
+      "sentence": "The family income of the applicant should not exceed ₹2,00,000 per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5747830867767334,
+      "similarities": {
+        "ContextObjective": 0.4328361451625824,
+        "BenefitsAssistance": 0.5000180006027222,
+        "Eligibility": 0.5747830867767334,
+        "ApplicationProcess": 0.4970346689224243,
+        "TimelineFrequency": 0.46344655752182007,
+        "AuthoritiesGovernance": 0.38102883100509644,
+        "DefinitionsReferences": 0.39136430621147156
+      }
+    },
+    {
+      "sentence": "This income limit is set to ensure that the scheme benefits those who are genuinely in need of financial support.",
+      "role": "Eligibility",
+      "confidence": 0.5448987483978271,
+      "similarities": {
+        "ContextObjective": 0.475763201713562,
+        "BenefitsAssistance": 0.5262345671653748,
+        "Eligibility": 0.5448987483978271,
+        "ApplicationProcess": 0.417420357465744,
+        "TimelineFrequency": 0.4096371829509735,
+        "AuthoritiesGovernance": 0.34217163920402527,
+        "DefinitionsReferences": 0.31390249729156494
+      }
+    },
+    {
+      "sentence": "The applicant must also possess a valid certificate of marriage issued by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6077159643173218,
+      "similarities": {
+        "ContextObjective": 0.45497947931289673,
+        "BenefitsAssistance": 0.4217364192008972,
+        "Eligibility": 0.5448596477508545,
+        "ApplicationProcess": 0.6077159643173218,
+        "TimelineFrequency": 0.4832543730735779,
+        "AuthoritiesGovernance": 0.4355114698410034,
+        "DefinitionsReferences": 0.4470530152320862
+      }
+    },
+    {
+      "sentence": "The application process for the Shaadi Mubarak Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5518826246261597,
+      "similarities": {
+        "ContextObjective": 0.5026100277900696,
+        "BenefitsAssistance": 0.3876563012599945,
+        "Eligibility": 0.4879602789878845,
+        "ApplicationProcess": 0.5518826246261597,
+        "TimelineFrequency": 0.4468020796775818,
+        "AuthoritiesGovernance": 0.40345871448516846,
+        "DefinitionsReferences": 0.33699676394462585
+      }
+    },
+    {
+      "sentence": "Interested applicants must fill out the application form available at the local Mandal Revenue Office or online through the official Telangana government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6634103059768677,
+      "similarities": {
+        "ContextObjective": 0.42734813690185547,
+        "BenefitsAssistance": 0.443779855966568,
+        "Eligibility": 0.5258986949920654,
+        "ApplicationProcess": 0.6634103059768677,
+        "TimelineFrequency": 0.49463796615600586,
+        "AuthoritiesGovernance": 0.40621140599250793,
+        "DefinitionsReferences": 0.39724308252334595
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the applicant's name, address, income proof, and marriage details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.708433985710144,
+      "similarities": {
+        "ContextObjective": 0.5147281885147095,
+        "BenefitsAssistance": 0.5738264322280884,
+        "Eligibility": 0.621126115322113,
+        "ApplicationProcess": 0.708433985710144,
+        "TimelineFrequency": 0.5636507272720337,
+        "AuthoritiesGovernance": 0.44601982831954956,
+        "DefinitionsReferences": 0.5037722587585449
+      }
+    },
+    {
+      "sentence": "Applicants must also submit supporting documents including income certificate, Aadhaar card, and marriage invitation card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6191549301147461,
+      "similarities": {
+        "ContextObjective": 0.4532248377799988,
+        "BenefitsAssistance": 0.528592050075531,
+        "Eligibility": 0.5208193063735962,
+        "ApplicationProcess": 0.6191549301147461,
+        "TimelineFrequency": 0.495146781206131,
+        "AuthoritiesGovernance": 0.3882898688316345,
+        "DefinitionsReferences": 0.48489075899124146
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7232561111450195,
+      "similarities": {
+        "ContextObjective": 0.5142143964767456,
+        "BenefitsAssistance": 0.47200608253479004,
+        "Eligibility": 0.5876018404960632,
+        "ApplicationProcess": 0.7232561111450195,
+        "TimelineFrequency": 0.5488145351409912,
+        "AuthoritiesGovernance": 0.48696058988571167,
+        "DefinitionsReferences": 0.49431416392326355
+      }
+    },
+    {
+      "sentence": "The verification process includes checking the authenticity of the documents provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6543551087379456,
+      "similarities": {
+        "ContextObjective": 0.4718543589115143,
+        "BenefitsAssistance": 0.4952338933944702,
+        "Eligibility": 0.5111299753189087,
+        "ApplicationProcess": 0.6543551087379456,
+        "TimelineFrequency": 0.5094703435897827,
+        "AuthoritiesGovernance": 0.46753329038619995,
+        "DefinitionsReferences": 0.5333156585693359
+      }
+    },
+    {
+      "sentence": "After successful verification, the financial assistance is disbursed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5763128995895386,
+      "similarities": {
+        "ContextObjective": 0.42054611444473267,
+        "BenefitsAssistance": 0.5763128995895386,
+        "Eligibility": 0.5171768069267273,
+        "ApplicationProcess": 0.5468645095825195,
+        "TimelineFrequency": 0.4423558712005615,
+        "AuthoritiesGovernance": 0.4533703327178955,
+        "DefinitionsReferences": 0.40161406993865967
+      }
+    },
+    {
+      "sentence": "The disbursement of funds typically occurs within a few weeks of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5663625001907349,
+      "similarities": {
+        "ContextObjective": 0.4765903949737549,
+        "BenefitsAssistance": 0.5653152465820312,
+        "Eligibility": 0.533536434173584,
+        "ApplicationProcess": 0.5358447432518005,
+        "TimelineFrequency": 0.5663625001907349,
+        "AuthoritiesGovernance": 0.4654335379600525,
+        "DefinitionsReferences": 0.4131646752357483
+      }
+    },
+    {
+      "sentence": "The Telangana government has made provisions for the scheme to be implemented through the Women Development and Child Welfare Department.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5215506553649902,
+      "similarities": {
+        "ContextObjective": 0.4441920518875122,
+        "BenefitsAssistance": 0.46017247438430786,
+        "Eligibility": 0.4698169231414795,
+        "ApplicationProcess": 0.4071962833404541,
+        "TimelineFrequency": 0.37363719940185547,
+        "AuthoritiesGovernance": 0.5215506553649902,
+        "DefinitionsReferences": 0.39778953790664673
+      }
+    },
+    {
+      "sentence": "This department is responsible for overseeing the application process and ensuring that the funds reach the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.6192185878753662,
+      "similarities": {
+        "ContextObjective": 0.4974119961261749,
+        "BenefitsAssistance": 0.5261052846908569,
+        "Eligibility": 0.6192185878753662,
+        "ApplicationProcess": 0.5823745131492615,
+        "TimelineFrequency": 0.5115236043930054,
+        "AuthoritiesGovernance": 0.5449040532112122,
+        "DefinitionsReferences": 0.4216442108154297
+      }
+    },
+    {
+      "sentence": "The Shaadi Mubarak Scheme has been well-received since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5060571432113647,
+      "similarities": {
+        "ContextObjective": 0.5060571432113647,
+        "BenefitsAssistance": 0.38295313715934753,
+        "Eligibility": 0.3884933590888977,
+        "ApplicationProcess": 0.36820587515830994,
+        "TimelineFrequency": 0.32905077934265137,
+        "AuthoritiesGovernance": 0.39810478687286377,
+        "DefinitionsReferences": 0.35146084427833557
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme has reportedly assisted over 1.5 million families.",
+      "role": "ContextObjective",
+      "confidence": 0.4829278290271759,
+      "similarities": {
+        "ContextObjective": 0.4829278290271759,
+        "BenefitsAssistance": 0.47303515672683716,
+        "Eligibility": 0.45669132471084595,
+        "ApplicationProcess": 0.38641300797462463,
+        "TimelineFrequency": 0.37370964884757996,
+        "AuthoritiesGovernance": 0.3781496286392212,
+        "DefinitionsReferences": 0.33701789379119873
+      }
+    },
+    {
+      "sentence": "The scheme has contributed to reducing the financial strain on families during weddings.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46552732586860657,
+      "similarities": {
+        "ContextObjective": 0.4409509599208832,
+        "BenefitsAssistance": 0.46552732586860657,
+        "Eligibility": 0.4306696355342865,
+        "ApplicationProcess": 0.3980744779109955,
+        "TimelineFrequency": 0.40198034048080444,
+        "AuthoritiesGovernance": 0.34614628553390503,
+        "DefinitionsReferences": 0.3315192461013794
+      }
+    },
+    {
+      "sentence": "It has also played a role in promoting the education and empowerment of women in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.415733277797699,
+      "similarities": {
+        "ContextObjective": 0.415733277797699,
+        "BenefitsAssistance": 0.3613525331020355,
+        "Eligibility": 0.3467317223548889,
+        "ApplicationProcess": 0.3386273682117462,
+        "TimelineFrequency": 0.3404557704925537,
+        "AuthoritiesGovernance": 0.3742874562740326,
+        "DefinitionsReferences": 0.3549930453300476
+      }
+    },
+    {
+      "sentence": "The government has also emphasized the importance of timely applications to ensure that families do not miss out on the benefits.",
+      "role": "TimelineFrequency",
+      "confidence": 0.54175865650177,
+      "similarities": {
+        "ContextObjective": 0.454562783241272,
+        "BenefitsAssistance": 0.47830408811569214,
+        "Eligibility": 0.5330908298492432,
+        "ApplicationProcess": 0.5125771760940552,
+        "TimelineFrequency": 0.54175865650177,
+        "AuthoritiesGovernance": 0.4109386205673218,
+        "DefinitionsReferences": 0.3893370032310486
+      }
+    },
+    {
+      "sentence": "The Shaadi Mubarak Scheme is part of a broader initiative by the Telangana government to support women and promote gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.45416346192359924,
+      "similarities": {
+        "ContextObjective": 0.45416346192359924,
+        "BenefitsAssistance": 0.3994216024875641,
+        "Eligibility": 0.3993312120437622,
+        "ApplicationProcess": 0.36022359132766724,
+        "TimelineFrequency": 0.3433220386505127,
+        "AuthoritiesGovernance": 0.4067763686180115,
+        "DefinitionsReferences": 0.33881980180740356
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the Sustainable Development Goals set by the United Nations, particularly those related to gender equality and poverty alleviation.",
+      "role": "ContextObjective",
+      "confidence": 0.5353388786315918,
+      "similarities": {
+        "ContextObjective": 0.5353388786315918,
+        "BenefitsAssistance": 0.41698703169822693,
+        "Eligibility": 0.4696425795555115,
+        "ApplicationProcess": 0.4054269790649414,
+        "TimelineFrequency": 0.3902106285095215,
+        "AuthoritiesGovernance": 0.4375823140144348,
+        "DefinitionsReferences": 0.3822178244590759
+      }
+    },
+    {
+      "sentence": "In addition to the financial assistance, the scheme also aims to create awareness about the importance of education for girls.",
+      "role": "ContextObjective",
+      "confidence": 0.5134199857711792,
+      "similarities": {
+        "ContextObjective": 0.5134199857711792,
+        "BenefitsAssistance": 0.4686427712440491,
+        "Eligibility": 0.41537177562713623,
+        "ApplicationProcess": 0.39588549733161926,
+        "TimelineFrequency": 0.37817347049713135,
+        "AuthoritiesGovernance": 0.34608399868011475,
+        "DefinitionsReferences": 0.3444417119026184
+      }
+    },
+    {
+      "sentence": "The government encourages families to invest in the education of their daughters as a means to improve their future prospects.",
+      "role": "ContextObjective",
+      "confidence": 0.4552169740200043,
+      "similarities": {
+        "ContextObjective": 0.4552169740200043,
+        "BenefitsAssistance": 0.38447657227516174,
+        "Eligibility": 0.4087827801704407,
+        "ApplicationProcess": 0.38279858231544495,
+        "TimelineFrequency": 0.36755234003067017,
+        "AuthoritiesGovernance": 0.3745056986808777,
+        "DefinitionsReferences": 0.3673641085624695
+      }
+    },
+    {
+      "sentence": "The Shaadi Mubarak Scheme has also been linked with other welfare schemes aimed at women and children.",
+      "role": "ContextObjective",
+      "confidence": 0.4514703154563904,
+      "similarities": {
+        "ContextObjective": 0.4514703154563904,
+        "BenefitsAssistance": 0.41627249121665955,
+        "Eligibility": 0.42113178968429565,
+        "ApplicationProcess": 0.3349529504776001,
+        "TimelineFrequency": 0.3584982752799988,
+        "AuthoritiesGovernance": 0.3854350447654724,
+        "DefinitionsReferences": 0.36903002858161926
+      }
+    },
+    {
+      "sentence": "This holistic approach ensures that beneficiaries receive comprehensive support beyond just financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5385667085647583,
+      "similarities": {
+        "ContextObjective": 0.4531543254852295,
+        "BenefitsAssistance": 0.5385667085647583,
+        "Eligibility": 0.5019033551216125,
+        "ApplicationProcess": 0.4271969497203827,
+        "TimelineFrequency": 0.3856006860733032,
+        "AuthoritiesGovernance": 0.4316548705101013,
+        "DefinitionsReferences": 0.41644901037216187
+      }
+    },
+    {
+      "sentence": "The government has set up helplines and support centers to assist applicants with queries related to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5772299766540527,
+      "similarities": {
+        "ContextObjective": 0.542567253112793,
+        "BenefitsAssistance": 0.5278258919715881,
+        "Eligibility": 0.5772299766540527,
+        "ApplicationProcess": 0.570827066898346,
+        "TimelineFrequency": 0.5173009634017944,
+        "AuthoritiesGovernance": 0.5312938094139099,
+        "DefinitionsReferences": 0.46939539909362793
+      }
+    },
+    {
+      "sentence": "These helplines provide guidance on the application process and help resolve any issues that may arise.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5931093692779541,
+      "similarities": {
+        "ContextObjective": 0.5093239545822144,
+        "BenefitsAssistance": 0.5071725249290466,
+        "Eligibility": 0.5618972182273865,
+        "ApplicationProcess": 0.5931093692779541,
+        "TimelineFrequency": 0.557604193687439,
+        "AuthoritiesGovernance": 0.528420090675354,
+        "DefinitionsReferences": 0.48822110891342163
+      }
+    },
+    {
+      "sentence": "The Telangana government has also been proactive in promoting the scheme through various outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.47060227394104004,
+      "similarities": {
+        "ContextObjective": 0.47060227394104004,
+        "BenefitsAssistance": 0.41277188062667847,
+        "Eligibility": 0.4314230680465698,
+        "ApplicationProcess": 0.41323018074035645,
+        "TimelineFrequency": 0.3823898136615753,
+        "AuthoritiesGovernance": 0.43877553939819336,
+        "DefinitionsReferences": 0.40033090114593506
+      }
+    },
+    {
+      "sentence": "These programs aim to educate families about the benefits of the Shaadi Mubarak Scheme and how to apply for it.",
+      "role": "ContextObjective",
+      "confidence": 0.518284797668457,
+      "similarities": {
+        "ContextObjective": 0.518284797668457,
+        "BenefitsAssistance": 0.4525388479232788,
+        "Eligibility": 0.5042420625686646,
+        "ApplicationProcess": 0.5077396035194397,
+        "TimelineFrequency": 0.4331117272377014,
+        "AuthoritiesGovernance": 0.42295128107070923,
+        "DefinitionsReferences": 0.35888001322746277
+      }
+    },
+    {
+      "sentence": "The government has conducted numerous workshops and seminars to raise awareness among the public.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5052399635314941,
+      "similarities": {
+        "ContextObjective": 0.4710247814655304,
+        "BenefitsAssistance": 0.42953383922576904,
+        "Eligibility": 0.42477744817733765,
+        "ApplicationProcess": 0.42488881945610046,
+        "TimelineFrequency": 0.385698527097702,
+        "AuthoritiesGovernance": 0.5052399635314941,
+        "DefinitionsReferences": 0.44520801305770874
+      }
+    },
+    {
+      "sentence": "The Shaadi Mubarak Scheme is a significant step towards ensuring that no girl is denied a dignified marriage due to financial constraints.",
+      "role": "Eligibility",
+      "confidence": 0.43395304679870605,
+      "similarities": {
+        "ContextObjective": 0.4238073229789734,
+        "BenefitsAssistance": 0.4272117614746094,
+        "Eligibility": 0.43395304679870605,
+        "ApplicationProcess": 0.417281836271286,
+        "TimelineFrequency": 0.3375921845436096,
+        "AuthoritiesGovernance": 0.33761394023895264,
+        "DefinitionsReferences": 0.31346651911735535
+      }
+    },
+    {
+      "sentence": "It reflects the commitment of the Telangana government to empower women and promote social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.38712194561958313,
+      "similarities": {
+        "ContextObjective": 0.38712194561958313,
+        "BenefitsAssistance": 0.3584485948085785,
+        "Eligibility": 0.37684643268585205,
+        "ApplicationProcess": 0.3328847885131836,
+        "TimelineFrequency": 0.3044916093349457,
+        "AuthoritiesGovernance": 0.3832609951496124,
+        "DefinitionsReferences": 0.3613285422325134
+      }
+    },
+    {
+      "sentence": "The scheme has also been instrumental in changing societal perceptions regarding the financial aspects of marriage.",
+      "role": "ContextObjective",
+      "confidence": 0.46985137462615967,
+      "similarities": {
+        "ContextObjective": 0.46985137462615967,
+        "BenefitsAssistance": 0.4337308704853058,
+        "Eligibility": 0.39160245656967163,
+        "ApplicationProcess": 0.35215872526168823,
+        "TimelineFrequency": 0.33203598856925964,
+        "AuthoritiesGovernance": 0.33279499411582947,
+        "DefinitionsReferences": 0.34492483735084534
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government aims to reduce the practice of dowry and encourage families to focus on the well-being of their daughters.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44165337085723877,
+      "similarities": {
+        "ContextObjective": 0.38597315549850464,
+        "BenefitsAssistance": 0.44165337085723877,
+        "Eligibility": 0.41605648398399353,
+        "ApplicationProcess": 0.3647193908691406,
+        "TimelineFrequency": 0.33138740062713623,
+        "AuthoritiesGovernance": 0.38505443930625916,
+        "DefinitionsReferences": 0.32011425495147705
+      }
+    },
+    {
+      "sentence": "The success of the Shaadi Mubarak Scheme has led to discussions about similar initiatives in other states across India.",
+      "role": "ContextObjective",
+      "confidence": 0.49422767758369446,
+      "similarities": {
+        "ContextObjective": 0.49422767758369446,
+        "BenefitsAssistance": 0.38357600569725037,
+        "Eligibility": 0.43527790904045105,
+        "ApplicationProcess": 0.3905850946903229,
+        "TimelineFrequency": 0.33067750930786133,
+        "AuthoritiesGovernance": 0.42710036039352417,
+        "DefinitionsReferences": 0.36902672052383423
+      }
+    },
+    {
+      "sentence": "The Telangana government continues to monitor and evaluate the scheme to ensure its effectiveness and reach.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5017789602279663,
+      "similarities": {
+        "ContextObjective": 0.4857339859008789,
+        "BenefitsAssistance": 0.4289412200450897,
+        "Eligibility": 0.4793233871459961,
+        "ApplicationProcess": 0.4702479839324951,
+        "TimelineFrequency": 0.41366833448410034,
+        "AuthoritiesGovernance": 0.5017789602279663,
+        "DefinitionsReferences": 0.4135107398033142
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme and address any challenges faced during implementation.",
+      "role": "Eligibility",
+      "confidence": 0.5291937589645386,
+      "similarities": {
+        "ContextObjective": 0.5107967853546143,
+        "BenefitsAssistance": 0.4956596791744232,
+        "Eligibility": 0.5291937589645386,
+        "ApplicationProcess": 0.4664968252182007,
+        "TimelineFrequency": 0.4066028892993927,
+        "AuthoritiesGovernance": 0.5120416283607483,
+        "DefinitionsReferences": 0.412990540266037
+      }
+    },
+    {
+      "sentence": "The Shaadi Mubarak Scheme is an example of how targeted welfare initiatives can make a significant difference in the lives of individuals and families.",
+      "role": "ContextObjective",
+      "confidence": 0.47286152839660645,
+      "similarities": {
+        "ContextObjective": 0.47286152839660645,
+        "BenefitsAssistance": 0.4230939745903015,
+        "Eligibility": 0.4677196145057678,
+        "ApplicationProcess": 0.3650669455528259,
+        "TimelineFrequency": 0.33954912424087524,
+        "AuthoritiesGovernance": 0.370200514793396,
+        "DefinitionsReferences": 0.334122896194458
+      }
+    },
+    {
+      "sentence": "It serves as a model for other states looking to implement similar programs aimed at supporting women and families.",
+      "role": "Eligibility",
+      "confidence": 0.48728007078170776,
+      "similarities": {
+        "ContextObjective": 0.4626883268356323,
+        "BenefitsAssistance": 0.4331780672073364,
+        "Eligibility": 0.48728007078170776,
+        "ApplicationProcess": 0.4114057421684265,
+        "TimelineFrequency": 0.4134513735771179,
+        "AuthoritiesGovernance": 0.46803244948387146,
+        "DefinitionsReferences": 0.4267733097076416
+      }
+    },
+    {
+      "sentence": "In conclusion, the Shaadi Mubarak Scheme represents a crucial effort by the Telangana government to support economically disadvantaged families during a significant life event.",
+      "role": "ContextObjective",
+      "confidence": 0.4658263325691223,
+      "similarities": {
+        "ContextObjective": 0.4658263325691223,
+        "BenefitsAssistance": 0.4332091808319092,
+        "Eligibility": 0.4393712282180786,
+        "ApplicationProcess": 0.3847535252571106,
+        "TimelineFrequency": 0.3611743748188019,
+        "AuthoritiesGovernance": 0.35602688789367676,
+        "DefinitionsReferences": 0.34399449825286865
+      }
+    },
+    {
+      "sentence": "With its comprehensive approach and focus on empowerment, the scheme has the potential to create lasting positive impacts on society.",
+      "role": "ContextObjective",
+      "confidence": 0.5617650747299194,
+      "similarities": {
+        "ContextObjective": 0.5617650747299194,
+        "BenefitsAssistance": 0.41235214471817017,
+        "Eligibility": 0.45567232370376587,
+        "ApplicationProcess": 0.3988579511642456,
+        "TimelineFrequency": 0.3733324706554413,
+        "AuthoritiesGovernance": 0.39602288603782654,
+        "DefinitionsReferences": 0.36175113916397095
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is not just a monetary benefit but a step towards ensuring dignity and respect for women in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49654367566108704,
+      "similarities": {
+        "ContextObjective": 0.45761799812316895,
+        "BenefitsAssistance": 0.49654367566108704,
+        "Eligibility": 0.4706503450870514,
+        "ApplicationProcess": 0.4234619736671448,
+        "TimelineFrequency": 0.3737233877182007,
+        "AuthoritiesGovernance": 0.40057677030563354,
+        "DefinitionsReferences": 0.3991158902645111
+      }
+    },
+    {
+      "sentence": "The ongoing success and expansion of the Shaadi Mubarak Scheme will continue to play a vital role in promoting gender equality and social welfare in Telangana.",
+      "role": "ContextObjective",
+      "confidence": 0.4683545231819153,
+      "similarities": {
+        "ContextObjective": 0.4683545231819153,
+        "BenefitsAssistance": 0.39947593212127686,
+        "Eligibility": 0.41544288396835327,
+        "ApplicationProcess": 0.3661426603794098,
+        "TimelineFrequency": 0.34782376885414124,
+        "AuthoritiesGovernance": 0.4124326705932617,
+        "DefinitionsReferences": 0.37713807821273804
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "Eligibility": 9,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-24T21:04:24.224820"
+}

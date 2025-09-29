@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Farmer Suicide Ex-Gratia",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Farmer Suicide Ex-Gratia scheme is a welfare initiative implemented by the Government of India to provide financial assistance to the families of farmers who have committed suicide due to agrarian distress.",
+      "role": "ContextObjective",
+      "confidence": 0.5104764699935913,
+      "similarities": {
+        "ContextObjective": 0.5104764699935913,
+        "BenefitsAssistance": 0.46332690119743347,
+        "Eligibility": 0.4741515815258026,
+        "ApplicationProcess": 0.4142053723335266,
+        "TimelineFrequency": 0.4095081686973572,
+        "AuthoritiesGovernance": 0.4852669835090637,
+        "DefinitionsReferences": 0.3815252184867859
+      }
+    },
+    {
+      "sentence": "The scheme was formally launched in 2006 as a response to the increasing number of farmer suicides across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.47488272190093994,
+      "similarities": {
+        "ContextObjective": 0.47488272190093994,
+        "BenefitsAssistance": 0.3580377399921417,
+        "Eligibility": 0.40505674481391907,
+        "ApplicationProcess": 0.3877405524253845,
+        "TimelineFrequency": 0.36637529730796814,
+        "AuthoritiesGovernance": 0.3592613935470581,
+        "DefinitionsReferences": 0.3098551034927368
+      }
+    },
+    {
+      "sentence": "The backdrop of this initiative stems from the agrarian crisis that has plagued Indian agriculture for decades.",
+      "role": "ContextObjective",
+      "confidence": 0.4640991687774658,
+      "similarities": {
+        "ContextObjective": 0.4640991687774658,
+        "BenefitsAssistance": 0.3518824875354767,
+        "Eligibility": 0.40740323066711426,
+        "ApplicationProcess": 0.3465142250061035,
+        "TimelineFrequency": 0.34623706340789795,
+        "AuthoritiesGovernance": 0.3906092643737793,
+        "DefinitionsReferences": 0.33311933279037476
+      }
+    },
+    {
+      "sentence": "The crisis has been attributed to various factors including debt, crop failure, and fluctuating market prices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.459850013256073,
+      "similarities": {
+        "ContextObjective": 0.3987980782985687,
+        "BenefitsAssistance": 0.459850013256073,
+        "Eligibility": 0.4179600179195404,
+        "ApplicationProcess": 0.3536607623100281,
+        "TimelineFrequency": 0.427964448928833,
+        "AuthoritiesGovernance": 0.36586856842041016,
+        "DefinitionsReferences": 0.3875836730003357
+      }
+    },
+    {
+      "sentence": "The primary objective of the Farmer Suicide Ex-Gratia scheme is to provide immediate financial relief to the families of farmers who have taken their own lives.",
+      "role": "ContextObjective",
+      "confidence": 0.49751296639442444,
+      "similarities": {
+        "ContextObjective": 0.49751296639442444,
+        "BenefitsAssistance": 0.4114963710308075,
+        "Eligibility": 0.40086090564727783,
+        "ApplicationProcess": 0.32614731788635254,
+        "TimelineFrequency": 0.3249717354774475,
+        "AuthoritiesGovernance": 0.3772949278354645,
+        "DefinitionsReferences": 0.2771984040737152
+      }
+    },
+    {
+      "sentence": "The scheme aims to alleviate the financial burden on these families and help them cope with the loss of their primary breadwinner.",
+      "role": "ContextObjective",
+      "confidence": 0.5053353309631348,
+      "similarities": {
+        "ContextObjective": 0.5053353309631348,
+        "BenefitsAssistance": 0.49947667121887207,
+        "Eligibility": 0.4667815566062927,
+        "ApplicationProcess": 0.3880433738231659,
+        "TimelineFrequency": 0.36444199085235596,
+        "AuthoritiesGovernance": 0.38539063930511475,
+        "DefinitionsReferences": 0.3248825669288635
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government provides an ex-gratia payment of ₹2 lakh to the family of the deceased farmer.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.38589444756507874,
+      "similarities": {
+        "ContextObjective": 0.3575718402862549,
+        "BenefitsAssistance": 0.38589444756507874,
+        "Eligibility": 0.38405388593673706,
+        "ApplicationProcess": 0.3170599937438965,
+        "TimelineFrequency": 0.2853740155696869,
+        "AuthoritiesGovernance": 0.3725000321865082,
+        "DefinitionsReferences": 0.2981163561344147
+      }
+    },
+    {
+      "sentence": "In cases where the farmer was a member of a Scheduled Caste or Scheduled Tribe, the ex-gratia amount is increased to ₹3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.3966110646724701,
+      "similarities": {
+        "ContextObjective": 0.3455362915992737,
+        "BenefitsAssistance": 0.39304766058921814,
+        "Eligibility": 0.3966110646724701,
+        "ApplicationProcess": 0.3158443570137024,
+        "TimelineFrequency": 0.30395594239234924,
+        "AuthoritiesGovernance": 0.3281261920928955,
+        "DefinitionsReferences": 0.3416990637779236
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for this scheme are specific and include the following requirements.",
+      "role": "Eligibility",
+      "confidence": 0.687048614025116,
+      "similarities": {
+        "ContextObjective": 0.6151363849639893,
+        "BenefitsAssistance": 0.5409939885139465,
+        "Eligibility": 0.687048614025116,
+        "ApplicationProcess": 0.5972498655319214,
+        "TimelineFrequency": 0.5734906792640686,
+        "AuthoritiesGovernance": 0.437544047832489,
+        "DefinitionsReferences": 0.4546474814414978
+      }
+    },
+    {
+      "sentence": "The deceased farmer must have been engaged in agriculture as their primary occupation.",
+      "role": "Eligibility",
+      "confidence": 0.37324967980384827,
+      "similarities": {
+        "ContextObjective": 0.369981586933136,
+        "BenefitsAssistance": 0.3437284827232361,
+        "Eligibility": 0.37324967980384827,
+        "ApplicationProcess": 0.3636319637298584,
+        "TimelineFrequency": 0.32690736651420593,
+        "AuthoritiesGovernance": 0.3341720700263977,
+        "DefinitionsReferences": 0.34178459644317627
+      }
+    },
+    {
+      "sentence": "The farmer must have committed suicide due to circumstances arising from agrarian distress.",
+      "role": "Eligibility",
+      "confidence": 0.3838784098625183,
+      "similarities": {
+        "ContextObjective": 0.3514396548271179,
+        "BenefitsAssistance": 0.35140448808670044,
+        "Eligibility": 0.3838784098625183,
+        "ApplicationProcess": 0.33114850521087646,
+        "TimelineFrequency": 0.31067177653312683,
+        "AuthoritiesGovernance": 0.3210635483264923,
+        "DefinitionsReferences": 0.3071467876434326
+      }
+    },
+    {
+      "sentence": "The family of the deceased farmer must provide proof of the suicide which can include a police report or a post-mortem report.",
+      "role": "ApplicationProcess",
+      "confidence": 0.44341129064559937,
+      "similarities": {
+        "ContextObjective": 0.36413222551345825,
+        "BenefitsAssistance": 0.4122055768966675,
+        "Eligibility": 0.4149724245071411,
+        "ApplicationProcess": 0.44341129064559937,
+        "TimelineFrequency": 0.3384109139442444,
+        "AuthoritiesGovernance": 0.34394145011901855,
+        "DefinitionsReferences": 0.3782273530960083
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to farmers across all states in India.",
+      "role": "Eligibility",
+      "confidence": 0.5269493460655212,
+      "similarities": {
+        "ContextObjective": 0.4954913258552551,
+        "BenefitsAssistance": 0.4462154507637024,
+        "Eligibility": 0.5269493460655212,
+        "ApplicationProcess": 0.4468457102775574,
+        "TimelineFrequency": 0.4304749071598053,
+        "AuthoritiesGovernance": 0.451469749212265,
+        "DefinitionsReferences": 0.4197532534599304
+      }
+    },
+    {
+      "sentence": "However, the implementation of the scheme is primarily the responsibility of individual state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5754747986793518,
+      "similarities": {
+        "ContextObjective": 0.4913923144340515,
+        "BenefitsAssistance": 0.4110288619995117,
+        "Eligibility": 0.4680481553077698,
+        "ApplicationProcess": 0.4246247112751007,
+        "TimelineFrequency": 0.3705860376358032,
+        "AuthoritiesGovernance": 0.5754747986793518,
+        "DefinitionsReferences": 0.3748449683189392
+      }
+    },
+    {
+      "sentence": "Each state has its own procedures and timelines for processing applications and disbursing funds.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6349735260009766,
+      "similarities": {
+        "ContextObjective": 0.4970231056213379,
+        "BenefitsAssistance": 0.6299658417701721,
+        "Eligibility": 0.6146103143692017,
+        "ApplicationProcess": 0.621941328048706,
+        "TimelineFrequency": 0.6349735260009766,
+        "AuthoritiesGovernance": 0.5631828904151917,
+        "DefinitionsReferences": 0.5132321119308472
+      }
+    },
+    {
+      "sentence": "The application process typically involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7708578109741211,
+      "similarities": {
+        "ContextObjective": 0.5777326822280884,
+        "BenefitsAssistance": 0.5446885824203491,
+        "Eligibility": 0.637744665145874,
+        "ApplicationProcess": 0.7708578109741211,
+        "TimelineFrequency": 0.6886008977890015,
+        "AuthoritiesGovernance": 0.5422056317329407,
+        "DefinitionsReferences": 0.5617443323135376
+      }
+    },
+    {
+      "sentence": "Firstly, the family of the deceased farmer must approach the local revenue office or the designated authority in their district.",
+      "role": "Eligibility",
+      "confidence": 0.44699984788894653,
+      "similarities": {
+        "ContextObjective": 0.37228822708129883,
+        "BenefitsAssistance": 0.38422954082489014,
+        "Eligibility": 0.44699984788894653,
+        "ApplicationProcess": 0.43791043758392334,
+        "TimelineFrequency": 0.35395315289497375,
+        "AuthoritiesGovernance": 0.4352836012840271,
+        "DefinitionsReferences": 0.3494868278503418
+      }
+    },
+    {
+      "sentence": "They must submit a formal application along with the required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7322540283203125,
+      "similarities": {
+        "ContextObjective": 0.5048409700393677,
+        "BenefitsAssistance": 0.510708212852478,
+        "Eligibility": 0.6150541305541992,
+        "ApplicationProcess": 0.7322540283203125,
+        "TimelineFrequency": 0.5828791260719299,
+        "AuthoritiesGovernance": 0.48009583353996277,
+        "DefinitionsReferences": 0.5134251117706299
+      }
+    },
+    {
+      "sentence": "These documents usually include proof of the farmer's identity, proof of occupation, and evidence of the suicide.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48670849204063416,
+      "similarities": {
+        "ContextObjective": 0.39456143975257874,
+        "BenefitsAssistance": 0.48670849204063416,
+        "Eligibility": 0.39354074001312256,
+        "ApplicationProcess": 0.45789021253585815,
+        "TimelineFrequency": 0.3949930667877197,
+        "AuthoritiesGovernance": 0.3698226809501648,
+        "DefinitionsReferences": 0.4842149317264557
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is verified by the local authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6985230445861816,
+      "similarities": {
+        "ContextObjective": 0.5089774131774902,
+        "BenefitsAssistance": 0.4578607678413391,
+        "Eligibility": 0.5797121524810791,
+        "ApplicationProcess": 0.6985230445861816,
+        "TimelineFrequency": 0.5562617778778076,
+        "AuthoritiesGovernance": 0.4951348304748535,
+        "DefinitionsReferences": 0.47534117102622986
+      }
+    },
+    {
+      "sentence": "This verification process may include inquiries and assessments to confirm the circumstances of the suicide.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5597994923591614,
+      "similarities": {
+        "ContextObjective": 0.4683937728404999,
+        "BenefitsAssistance": 0.49261170625686646,
+        "Eligibility": 0.4835960268974304,
+        "ApplicationProcess": 0.5597994923591614,
+        "TimelineFrequency": 0.4753316044807434,
+        "AuthoritiesGovernance": 0.4208637773990631,
+        "DefinitionsReferences": 0.43681085109710693
+      }
+    },
+    {
+      "sentence": "After verification, the application is forwarded to the district collector or the relevant authority for approval.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6546860337257385,
+      "similarities": {
+        "ContextObjective": 0.472618967294693,
+        "BenefitsAssistance": 0.4616631865501404,
+        "Eligibility": 0.5590832233428955,
+        "ApplicationProcess": 0.6546860337257385,
+        "TimelineFrequency": 0.5116452574729919,
+        "AuthoritiesGovernance": 0.4851776957511902,
+        "DefinitionsReferences": 0.4413294196128845
+      }
+    },
+    {
+      "sentence": "Once approved, the ex-gratia amount is disbursed to the family.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5115015506744385,
+      "similarities": {
+        "ContextObjective": 0.36976373195648193,
+        "BenefitsAssistance": 0.5115015506744385,
+        "Eligibility": 0.4940492510795593,
+        "ApplicationProcess": 0.44546669721603394,
+        "TimelineFrequency": 0.38085365295410156,
+        "AuthoritiesGovernance": 0.4396640658378601,
+        "DefinitionsReferences": 0.36798325181007385
+      }
+    },
+    {
+      "sentence": "The timeline for the entire process can vary significantly from state to state.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6018444895744324,
+      "similarities": {
+        "ContextObjective": 0.47838541865348816,
+        "BenefitsAssistance": 0.5103343725204468,
+        "Eligibility": 0.5495783686637878,
+        "ApplicationProcess": 0.5558450222015381,
+        "TimelineFrequency": 0.6018444895744324,
+        "AuthoritiesGovernance": 0.5240689516067505,
+        "DefinitionsReferences": 0.5073103904724121
+      }
+    },
+    {
+      "sentence": "In some states, the disbursement can happen within a month of application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5806268453598022,
+      "similarities": {
+        "ContextObjective": 0.45587438344955444,
+        "BenefitsAssistance": 0.5367355346679688,
+        "Eligibility": 0.5631892085075378,
+        "ApplicationProcess": 0.5256694555282593,
+        "TimelineFrequency": 0.5806268453598022,
+        "AuthoritiesGovernance": 0.43557652831077576,
+        "DefinitionsReferences": 0.4111509323120117
+      }
+    },
+    {
+      "sentence": "In others, it may take several months depending on the administrative processes involved.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6112271547317505,
+      "similarities": {
+        "ContextObjective": 0.44999274611473083,
+        "BenefitsAssistance": 0.499472439289093,
+        "Eligibility": 0.5444020628929138,
+        "ApplicationProcess": 0.598320722579956,
+        "TimelineFrequency": 0.6112271547317505,
+        "AuthoritiesGovernance": 0.5206379890441895,
+        "DefinitionsReferences": 0.4934390187263489
+      }
+    },
+    {
+      "sentence": "The scheme is funded by the central government but is executed by state governments.",
+      "role": "ContextObjective",
+      "confidence": 0.5650153160095215,
+      "similarities": {
+        "ContextObjective": 0.5650153160095215,
+        "BenefitsAssistance": 0.4805317521095276,
+        "Eligibility": 0.5427827835083008,
+        "ApplicationProcess": 0.46992227435112,
+        "TimelineFrequency": 0.4494776129722595,
+        "AuthoritiesGovernance": 0.5563023090362549,
+        "DefinitionsReferences": 0.4205588400363922
+      }
+    },
+    {
+      "sentence": "Each state is responsible for maintaining records of applications and disbursements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6048262119293213,
+      "similarities": {
+        "ContextObjective": 0.48224446177482605,
+        "BenefitsAssistance": 0.6048262119293213,
+        "Eligibility": 0.5987870693206787,
+        "ApplicationProcess": 0.5996375679969788,
+        "TimelineFrequency": 0.5812128782272339,
+        "AuthoritiesGovernance": 0.5722429752349854,
+        "DefinitionsReferences": 0.5326942205429077
+      }
+    },
+    {
+      "sentence": "The Ministry of Agriculture and Farmers' Welfare is the central authority overseeing the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5976292490959167,
+      "similarities": {
+        "ContextObjective": 0.4793030023574829,
+        "BenefitsAssistance": 0.4292689561843872,
+        "Eligibility": 0.47597819566726685,
+        "ApplicationProcess": 0.454630583524704,
+        "TimelineFrequency": 0.3815271258354187,
+        "AuthoritiesGovernance": 0.5976292490959167,
+        "DefinitionsReferences": 0.39442455768585205
+      }
+    },
+    {
+      "sentence": "The scheme has been subject to various reviews and assessments to ensure its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5797621011734009,
+      "similarities": {
+        "ContextObjective": 0.5797621011734009,
+        "BenefitsAssistance": 0.5095898509025574,
+        "Eligibility": 0.561530590057373,
+        "ApplicationProcess": 0.5405153632164001,
+        "TimelineFrequency": 0.5234581828117371,
+        "AuthoritiesGovernance": 0.5189992785453796,
+        "DefinitionsReferences": 0.4835689961910248
+      }
+    },
+    {
+      "sentence": "Reports indicate that the scheme has provided relief to thousands of families since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.507716953754425,
+      "similarities": {
+        "ContextObjective": 0.507716953754425,
+        "BenefitsAssistance": 0.5046287775039673,
+        "Eligibility": 0.4649731516838074,
+        "ApplicationProcess": 0.3803393244743347,
+        "TimelineFrequency": 0.3645288050174713,
+        "AuthoritiesGovernance": 0.41237130761146545,
+        "DefinitionsReferences": 0.3684316575527191
+      }
+    },
+    {
+      "sentence": "However, challenges remain in terms of reaching all eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.6099006533622742,
+      "similarities": {
+        "ContextObjective": 0.4849604368209839,
+        "BenefitsAssistance": 0.4885244369506836,
+        "Eligibility": 0.6099006533622742,
+        "ApplicationProcess": 0.43480294942855835,
+        "TimelineFrequency": 0.44006624817848206,
+        "AuthoritiesGovernance": 0.472780704498291,
+        "DefinitionsReferences": 0.3981444537639618
+      }
+    },
+    {
+      "sentence": "There have been instances of delays in processing applications and disbursing funds.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6143687963485718,
+      "similarities": {
+        "ContextObjective": 0.46531638503074646,
+        "BenefitsAssistance": 0.5723424553871155,
+        "Eligibility": 0.5537640452384949,
+        "ApplicationProcess": 0.5603424310684204,
+        "TimelineFrequency": 0.6143687963485718,
+        "AuthoritiesGovernance": 0.4979607164859772,
+        "DefinitionsReferences": 0.4270135164260864
+      }
+    },
+    {
+      "sentence": "The government has been working to streamline the process to ensure timely assistance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5912890434265137,
+      "similarities": {
+        "ContextObjective": 0.5013185739517212,
+        "BenefitsAssistance": 0.5487245321273804,
+        "Eligibility": 0.5454066395759583,
+        "ApplicationProcess": 0.5676944255828857,
+        "TimelineFrequency": 0.536324143409729,
+        "AuthoritiesGovernance": 0.5912890434265137,
+        "DefinitionsReferences": 0.48599597811698914
+      }
+    },
+    {
+      "sentence": "In addition to the ex-gratia payment, the government has also introduced other measures to support farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5035989880561829,
+      "similarities": {
+        "ContextObjective": 0.4199773073196411,
+        "BenefitsAssistance": 0.5035989880561829,
+        "Eligibility": 0.45644327998161316,
+        "ApplicationProcess": 0.408500611782074,
+        "TimelineFrequency": 0.38592010736465454,
+        "AuthoritiesGovernance": 0.4683351218700409,
+        "DefinitionsReferences": 0.44246983528137207
+      }
+    },
+    {
+      "sentence": "These measures include loan waivers and crop insurance schemes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5595946311950684,
+      "similarities": {
+        "ContextObjective": 0.47859060764312744,
+        "BenefitsAssistance": 0.5595946311950684,
+        "Eligibility": 0.5575858354568481,
+        "ApplicationProcess": 0.4855048656463623,
+        "TimelineFrequency": 0.49984967708587646,
+        "AuthoritiesGovernance": 0.44920897483825684,
+        "DefinitionsReferences": 0.4475085139274597
+      }
+    },
+    {
+      "sentence": "The Farmer Suicide Ex-Gratia scheme is part of a broader strategy to address agrarian distress in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4723029136657715,
+      "similarities": {
+        "ContextObjective": 0.4723029136657715,
+        "BenefitsAssistance": 0.3955584168434143,
+        "Eligibility": 0.4025522470474243,
+        "ApplicationProcess": 0.3420473635196686,
+        "TimelineFrequency": 0.33603206276893616,
+        "AuthoritiesGovernance": 0.42397791147232056,
+        "DefinitionsReferences": 0.34570640325546265
+      }
+    },
+    {
+      "sentence": "The government has recognized that financial assistance alone may not be sufficient.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5882579684257507,
+      "similarities": {
+        "ContextObjective": 0.48018985986709595,
+        "BenefitsAssistance": 0.5882579684257507,
+        "Eligibility": 0.5447983741760254,
+        "ApplicationProcess": 0.4618370532989502,
+        "TimelineFrequency": 0.43161970376968384,
+        "AuthoritiesGovernance": 0.46820032596588135,
+        "DefinitionsReferences": 0.43595120310783386
+      }
+    },
+    {
+      "sentence": "Therefore, it is also focusing on improving agricultural practices and market access for farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.39856547117233276,
+      "similarities": {
+        "ContextObjective": 0.3870667815208435,
+        "BenefitsAssistance": 0.37521594762802124,
+        "Eligibility": 0.3955528736114502,
+        "ApplicationProcess": 0.39504992961883545,
+        "TimelineFrequency": 0.33819258213043213,
+        "AuthoritiesGovernance": 0.39856547117233276,
+        "DefinitionsReferences": 0.38711249828338623
+      }
+    },
+    {
+      "sentence": "The scheme has been a critical lifeline for many families facing the devastating impact of farmer suicides.",
+      "role": "Eligibility",
+      "confidence": 0.4278716444969177,
+      "similarities": {
+        "ContextObjective": 0.417066752910614,
+        "BenefitsAssistance": 0.38293659687042236,
+        "Eligibility": 0.4278716444969177,
+        "ApplicationProcess": 0.35665589570999146,
+        "TimelineFrequency": 0.32519590854644775,
+        "AuthoritiesGovernance": 0.33347147703170776,
+        "DefinitionsReferences": 0.3111279010772705
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme continues to be operational and remains relevant in addressing the ongoing agrarian crisis.",
+      "role": "ContextObjective",
+      "confidence": 0.5075461864471436,
+      "similarities": {
+        "ContextObjective": 0.5075461864471436,
+        "BenefitsAssistance": 0.4034962058067322,
+        "Eligibility": 0.4370291829109192,
+        "ApplicationProcess": 0.38628220558166504,
+        "TimelineFrequency": 0.39390498399734497,
+        "AuthoritiesGovernance": 0.43809041380882263,
+        "DefinitionsReferences": 0.3683328926563263
+      }
+    },
+    {
+      "sentence": "The government has also been proactive in raising awareness about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.541366457939148,
+      "similarities": {
+        "ContextObjective": 0.541366457939148,
+        "BenefitsAssistance": 0.45774635672569275,
+        "Eligibility": 0.46534454822540283,
+        "ApplicationProcess": 0.4670284390449524,
+        "TimelineFrequency": 0.3893943727016449,
+        "AuthoritiesGovernance": 0.4332054853439331,
+        "DefinitionsReferences": 0.39689913392066956
+      }
+    },
+    {
+      "sentence": "Efforts have been made to ensure that families of deceased farmers are informed about their eligibility and the application process.",
+      "role": "Eligibility",
+      "confidence": 0.5578646659851074,
+      "similarities": {
+        "ContextObjective": 0.44525793194770813,
+        "BenefitsAssistance": 0.44164255261421204,
+        "Eligibility": 0.5578646659851074,
+        "ApplicationProcess": 0.5348380208015442,
+        "TimelineFrequency": 0.45893269777297974,
+        "AuthoritiesGovernance": 0.4626997113227844,
+        "DefinitionsReferences": 0.39142942428588867
+      }
+    },
+    {
+      "sentence": "Local governments have been encouraged to conduct outreach programs to educate communities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5191032886505127,
+      "similarities": {
+        "ContextObjective": 0.5107560753822327,
+        "BenefitsAssistance": 0.40946564078330994,
+        "Eligibility": 0.4685840308666229,
+        "ApplicationProcess": 0.4264479875564575,
+        "TimelineFrequency": 0.416788786649704,
+        "AuthoritiesGovernance": 0.5191032886505127,
+        "DefinitionsReferences": 0.43352654576301575
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing a safety net for families during difficult times.",
+      "role": "ContextObjective",
+      "confidence": 0.5169787406921387,
+      "similarities": {
+        "ContextObjective": 0.5169787406921387,
+        "BenefitsAssistance": 0.501710832118988,
+        "Eligibility": 0.49419575929641724,
+        "ApplicationProcess": 0.3999139666557312,
+        "TimelineFrequency": 0.39555972814559937,
+        "AuthoritiesGovernance": 0.3810909688472748,
+        "DefinitionsReferences": 0.3666383624076843
+      }
+    },
+    {
+      "sentence": "It serves as a recognition of the hardships faced by farmers in India.",
+      "role": "Eligibility",
+      "confidence": 0.42676565051078796,
+      "similarities": {
+        "ContextObjective": 0.40338316559791565,
+        "BenefitsAssistance": 0.4075267016887665,
+        "Eligibility": 0.42676565051078796,
+        "ApplicationProcess": 0.37946200370788574,
+        "TimelineFrequency": 0.3597509264945984,
+        "AuthoritiesGovernance": 0.3781179189682007,
+        "DefinitionsReferences": 0.3778380751609802
+      }
+    },
+    {
+      "sentence": "The ex-gratia payment is intended to provide immediate financial relief.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5250815749168396,
+      "similarities": {
+        "ContextObjective": 0.4461711049079895,
+        "BenefitsAssistance": 0.5250815749168396,
+        "Eligibility": 0.4381159543991089,
+        "ApplicationProcess": 0.3826419711112976,
+        "TimelineFrequency": 0.3799703121185303,
+        "AuthoritiesGovernance": 0.4067257046699524,
+        "DefinitionsReferences": 0.3556213974952698
+      }
+    },
+    {
+      "sentence": "This financial assistance can help families cover basic expenses such as education and healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.627675473690033,
+      "similarities": {
+        "ContextObjective": 0.4424058198928833,
+        "BenefitsAssistance": 0.627675473690033,
+        "Eligibility": 0.5118110179901123,
+        "ApplicationProcess": 0.4392179250717163,
+        "TimelineFrequency": 0.43061625957489014,
+        "AuthoritiesGovernance": 0.42879509925842285,
+        "DefinitionsReferences": 0.4177294969558716
+      }
+    },
+    {
+      "sentence": "The scheme has also been linked to broader discussions about mental health and farmer welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4807010293006897,
+      "similarities": {
+        "ContextObjective": 0.4807010293006897,
+        "BenefitsAssistance": 0.43441352248191833,
+        "Eligibility": 0.4232807755470276,
+        "ApplicationProcess": 0.35194921493530273,
+        "TimelineFrequency": 0.36086612939834595,
+        "AuthoritiesGovernance": 0.38360658288002014,
+        "DefinitionsReferences": 0.3840590715408325
+      }
+    },
+    {
+      "sentence": "The government acknowledges the psychological impact of agrarian distress on farmers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4052653908729553,
+      "similarities": {
+        "ContextObjective": 0.329509973526001,
+        "BenefitsAssistance": 0.4052653908729553,
+        "Eligibility": 0.38308218121528625,
+        "ApplicationProcess": 0.35370761156082153,
+        "TimelineFrequency": 0.3244062066078186,
+        "AuthoritiesGovernance": 0.37663233280181885,
+        "DefinitionsReferences": 0.3468344211578369
+      }
+    },
+    {
+      "sentence": "In conclusion, the Farmer Suicide Ex-Gratia scheme is a vital initiative aimed at supporting the families of farmers who have tragically taken their own lives due to agrarian distress.",
+      "role": "ContextObjective",
+      "confidence": 0.4672453999519348,
+      "similarities": {
+        "ContextObjective": 0.4672453999519348,
+        "BenefitsAssistance": 0.35833868384361267,
+        "Eligibility": 0.39114564657211304,
+        "ApplicationProcess": 0.332946240901947,
+        "TimelineFrequency": 0.3117954730987549,
+        "AuthoritiesGovernance": 0.3559791147708893,
+        "DefinitionsReferences": 0.300534725189209
+      }
+    },
+    {
+      "sentence": "The scheme provides essential financial assistance and highlights the need for comprehensive measures to address the challenges faced by farmers in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5125492215156555,
+      "similarities": {
+        "ContextObjective": 0.48008793592453003,
+        "BenefitsAssistance": 0.5125492215156555,
+        "Eligibility": 0.4985464811325073,
+        "ApplicationProcess": 0.43911367654800415,
+        "TimelineFrequency": 0.38470757007598877,
+        "AuthoritiesGovernance": 0.39140763878822327,
+        "DefinitionsReferences": 0.359904408454895
+      }
+    },
+    {
+      "sentence": "The ongoing efforts to improve the scheme and its implementation reflect the government's commitment to farmer welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4753865599632263,
+      "similarities": {
+        "ContextObjective": 0.46058890223503113,
+        "BenefitsAssistance": 0.39514198899269104,
+        "Eligibility": 0.4190961420536041,
+        "ApplicationProcess": 0.42413532733917236,
+        "TimelineFrequency": 0.3607999384403229,
+        "AuthoritiesGovernance": 0.4753865599632263,
+        "DefinitionsReferences": 0.3738343119621277
+      }
+    },
+    {
+      "sentence": "The ex-gratia payments serve as a crucial support mechanism for affected families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5037437081336975,
+      "similarities": {
+        "ContextObjective": 0.411227822303772,
+        "BenefitsAssistance": 0.5037437081336975,
+        "Eligibility": 0.4527469277381897,
+        "ApplicationProcess": 0.3494563698768616,
+        "TimelineFrequency": 0.3483492136001587,
+        "AuthoritiesGovernance": 0.4368281662464142,
+        "DefinitionsReferences": 0.368738055229187
+      }
+    },
+    {
+      "sentence": "The scheme's continued relevance underscores the importance of addressing the root causes of agrarian distress in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5076913833618164,
+      "similarities": {
+        "ContextObjective": 0.5076913833618164,
+        "BenefitsAssistance": 0.36793071031570435,
+        "Eligibility": 0.4076438248157501,
+        "ApplicationProcess": 0.3544318377971649,
+        "TimelineFrequency": 0.35610252618789673,
+        "AuthoritiesGovernance": 0.41245919466018677,
+        "DefinitionsReferences": 0.3798890709877014
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 15,
+    "BenefitsAssistance": 13,
+    "Eligibility": 10,
+    "ApplicationProcess": 6,
+    "AuthoritiesGovernance": 6,
+    "TimelineFrequency": 5
+  },
+  "processing_timestamp": "2025-09-25T20:40:04.490029"
+}

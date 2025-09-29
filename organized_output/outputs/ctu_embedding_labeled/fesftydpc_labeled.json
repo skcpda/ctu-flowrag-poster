@@ -1,0 +1,687 @@
+{
+  "scheme_name": "Free Education Scholarship for Three-Year Diploma (Polytechnic Courses)",
+  "total_sentences": 48,
+  "labeled_sentences": [
+    {
+      "sentence": "The Free Education Scholarship for Three-Year Diploma in Polytechnic Courses is a significant initiative by the Government of India aimed at promoting technical education among students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5192497372627258,
+      "similarities": {
+        "ContextObjective": 0.5192497372627258,
+        "BenefitsAssistance": 0.455810010433197,
+        "Eligibility": 0.4790087342262268,
+        "ApplicationProcess": 0.45233261585235596,
+        "TimelineFrequency": 0.4777991771697998,
+        "AuthoritiesGovernance": 0.40920424461364746,
+        "DefinitionsReferences": 0.3967905044555664
+      }
+    },
+    {
+      "sentence": "This scheme was launched in 2014 as part of the broader efforts to enhance skill development and technical education in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5319235920906067,
+      "similarities": {
+        "ContextObjective": 0.5319235920906067,
+        "BenefitsAssistance": 0.393847793340683,
+        "Eligibility": 0.40591663122177124,
+        "ApplicationProcess": 0.4086272716522217,
+        "TimelineFrequency": 0.39654016494750977,
+        "AuthoritiesGovernance": 0.410444974899292,
+        "DefinitionsReferences": 0.36824026703834534
+      }
+    },
+    {
+      "sentence": "The primary objective of this scholarship is to provide financial assistance to students who are unable to afford the tuition fees for diploma courses in polytechnic institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.4999552369117737,
+      "similarities": {
+        "ContextObjective": 0.4999552369117737,
+        "BenefitsAssistance": 0.4703505039215088,
+        "Eligibility": 0.47023171186447144,
+        "ApplicationProcess": 0.4273727834224701,
+        "TimelineFrequency": 0.4321172833442688,
+        "AuthoritiesGovernance": 0.3498397469520569,
+        "DefinitionsReferences": 0.3307114243507385
+      }
+    },
+    {
+      "sentence": "The scholarship aims to cover the full tuition fees for eligible students pursuing three-year diploma courses in various technical fields.",
+      "role": "Eligibility",
+      "confidence": 0.48935073614120483,
+      "similarities": {
+        "ContextObjective": 0.4749675989151001,
+        "BenefitsAssistance": 0.4831884503364563,
+        "Eligibility": 0.48935073614120483,
+        "ApplicationProcess": 0.44676584005355835,
+        "TimelineFrequency": 0.46502381563186646,
+        "AuthoritiesGovernance": 0.34025412797927856,
+        "DefinitionsReferences": 0.38727205991744995
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students from families with an annual income of less than INR 2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5037939548492432,
+      "similarities": {
+        "ContextObjective": 0.4637714922428131,
+        "BenefitsAssistance": 0.44936394691467285,
+        "Eligibility": 0.5037939548492432,
+        "ApplicationProcess": 0.41294214129447937,
+        "TimelineFrequency": 0.42636317014694214,
+        "AuthoritiesGovernance": 0.33109402656555176,
+        "DefinitionsReferences": 0.30855312943458557
+      }
+    },
+    {
+      "sentence": "This income criterion ensures that the benefits reach those who are genuinely in need of financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5259432196617126,
+      "similarities": {
+        "ContextObjective": 0.4749496579170227,
+        "BenefitsAssistance": 0.5259432196617126,
+        "Eligibility": 0.5232096910476685,
+        "ApplicationProcess": 0.4250798225402832,
+        "TimelineFrequency": 0.4096127152442932,
+        "AuthoritiesGovernance": 0.34682905673980713,
+        "DefinitionsReferences": 0.33888643980026245
+      }
+    },
+    {
+      "sentence": "Eligible courses under this scheme include engineering diplomas in fields such as mechanical engineering, civil engineering, electrical engineering, and computer science.",
+      "role": "Eligibility",
+      "confidence": 0.5149095058441162,
+      "similarities": {
+        "ContextObjective": 0.5083367228507996,
+        "BenefitsAssistance": 0.4387167692184448,
+        "Eligibility": 0.5149095058441162,
+        "ApplicationProcess": 0.4742162823677063,
+        "TimelineFrequency": 0.49081629514694214,
+        "AuthoritiesGovernance": 0.37906816601753235,
+        "DefinitionsReferences": 0.4166169762611389
+      }
+    },
+    {
+      "sentence": "The scholarship also aims to encourage female students to pursue technical education by providing additional incentives.",
+      "role": "ContextObjective",
+      "confidence": 0.4100109934806824,
+      "similarities": {
+        "ContextObjective": 0.4100109934806824,
+        "BenefitsAssistance": 0.37513038516044617,
+        "Eligibility": 0.39173901081085205,
+        "ApplicationProcess": 0.3768460154533386,
+        "TimelineFrequency": 0.4087475836277008,
+        "AuthoritiesGovernance": 0.30306610465049744,
+        "DefinitionsReferences": 0.33386072516441345
+      }
+    },
+    {
+      "sentence": "Female candidates are given preference in the selection process to promote gender equality in technical education.",
+      "role": "Eligibility",
+      "confidence": 0.4433109760284424,
+      "similarities": {
+        "ContextObjective": 0.42062175273895264,
+        "BenefitsAssistance": 0.3335331678390503,
+        "Eligibility": 0.4433109760284424,
+        "ApplicationProcess": 0.42082643508911133,
+        "TimelineFrequency": 0.44288262724876404,
+        "AuthoritiesGovernance": 0.38941723108291626,
+        "DefinitionsReferences": 0.34891653060913086
+      }
+    },
+    {
+      "sentence": "The application process for the Free Education Scholarship is straightforward and designed to be accessible to all eligible students.",
+      "role": "Eligibility",
+      "confidence": 0.5163357853889465,
+      "similarities": {
+        "ContextObjective": 0.4769676625728607,
+        "BenefitsAssistance": 0.4187602698802948,
+        "Eligibility": 0.5163357853889465,
+        "ApplicationProcess": 0.5019574165344238,
+        "TimelineFrequency": 0.4653146266937256,
+        "AuthoritiesGovernance": 0.3575253486633301,
+        "DefinitionsReferences": 0.36535078287124634
+      }
+    },
+    {
+      "sentence": "Students must fill out an online application form available on the official website of the respective state technical education department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6657891869544983,
+      "similarities": {
+        "ContextObjective": 0.39592164754867554,
+        "BenefitsAssistance": 0.42146557569503784,
+        "Eligibility": 0.49535179138183594,
+        "ApplicationProcess": 0.6657891869544983,
+        "TimelineFrequency": 0.4998742341995239,
+        "AuthoritiesGovernance": 0.3903520703315735,
+        "DefinitionsReferences": 0.40691637992858887
+      }
+    },
+    {
+      "sentence": "The application form requires students to provide personal details such as name, age, address, and family income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6362102031707764,
+      "similarities": {
+        "ContextObjective": 0.44683316349983215,
+        "BenefitsAssistance": 0.5569429993629456,
+        "Eligibility": 0.5867701768875122,
+        "ApplicationProcess": 0.6362102031707764,
+        "TimelineFrequency": 0.549656867980957,
+        "AuthoritiesGovernance": 0.4091634452342987,
+        "DefinitionsReferences": 0.47850489616394043
+      }
+    },
+    {
+      "sentence": "Additionally, students must submit documents such as income certificates, caste certificates, and proof of admission to a polytechnic institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6101298332214355,
+      "similarities": {
+        "ContextObjective": 0.4259258508682251,
+        "BenefitsAssistance": 0.4960874319076538,
+        "Eligibility": 0.5161111354827881,
+        "ApplicationProcess": 0.6101298332214355,
+        "TimelineFrequency": 0.5001345276832581,
+        "AuthoritiesGovernance": 0.376806378364563,
+        "DefinitionsReferences": 0.4587847590446472
+      }
+    },
+    {
+      "sentence": "The deadline for submitting applications typically falls within the first quarter of the academic year, usually around July to August.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6458948850631714,
+      "similarities": {
+        "ContextObjective": 0.4220753312110901,
+        "BenefitsAssistance": 0.4259500503540039,
+        "Eligibility": 0.5016152858734131,
+        "ApplicationProcess": 0.5348551869392395,
+        "TimelineFrequency": 0.6458948850631714,
+        "AuthoritiesGovernance": 0.4026402533054352,
+        "DefinitionsReferences": 0.3841099739074707
+      }
+    },
+    {
+      "sentence": "Once applications are submitted, they are reviewed by the respective state technical education authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5947378277778625,
+      "similarities": {
+        "ContextObjective": 0.4457405209541321,
+        "BenefitsAssistance": 0.42450374364852905,
+        "Eligibility": 0.504663348197937,
+        "ApplicationProcess": 0.5947378277778625,
+        "TimelineFrequency": 0.5487669706344604,
+        "AuthoritiesGovernance": 0.4723847508430481,
+        "DefinitionsReferences": 0.4448930025100708
+      }
+    },
+    {
+      "sentence": "The disbursement of scholarship funds is usually conducted at the beginning of each academic semester.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5651664733886719,
+      "similarities": {
+        "ContextObjective": 0.4562830328941345,
+        "BenefitsAssistance": 0.5200832486152649,
+        "Eligibility": 0.44993722438812256,
+        "ApplicationProcess": 0.44050654768943787,
+        "TimelineFrequency": 0.5651664733886719,
+        "AuthoritiesGovernance": 0.42904752492904663,
+        "DefinitionsReferences": 0.4059106111526489
+      }
+    },
+    {
+      "sentence": "Students can expect to receive the scholarship amount directly credited to their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.506888210773468,
+      "similarities": {
+        "ContextObjective": 0.43210598826408386,
+        "BenefitsAssistance": 0.506888210773468,
+        "Eligibility": 0.48310649394989014,
+        "ApplicationProcess": 0.45618557929992676,
+        "TimelineFrequency": 0.4465487599372864,
+        "AuthoritiesGovernance": 0.37471646070480347,
+        "DefinitionsReferences": 0.3756449222564697
+      }
+    },
+    {
+      "sentence": "The scholarship covers the entire duration of the three-year diploma course, provided the student maintains satisfactory academic performance.",
+      "role": "TimelineFrequency",
+      "confidence": 0.44514214992523193,
+      "similarities": {
+        "ContextObjective": 0.44165265560150146,
+        "BenefitsAssistance": 0.43323367834091187,
+        "Eligibility": 0.44456976652145386,
+        "ApplicationProcess": 0.4334234297275543,
+        "TimelineFrequency": 0.44514214992523193,
+        "AuthoritiesGovernance": 0.3000124990940094,
+        "DefinitionsReferences": 0.36872541904449463
+      }
+    },
+    {
+      "sentence": "Students must achieve a minimum attendance of 75% to remain eligible for the scholarship in subsequent years.",
+      "role": "Eligibility",
+      "confidence": 0.4799615740776062,
+      "similarities": {
+        "ContextObjective": 0.3983317017555237,
+        "BenefitsAssistance": 0.39124682545661926,
+        "Eligibility": 0.4799615740776062,
+        "ApplicationProcess": 0.4203455448150635,
+        "TimelineFrequency": 0.4427372217178345,
+        "AuthoritiesGovernance": 0.3182246685028076,
+        "DefinitionsReferences": 0.32810646295547485
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme varies by state but is generally managed by the Department of Technical Education.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5771258473396301,
+      "similarities": {
+        "ContextObjective": 0.4543360471725464,
+        "BenefitsAssistance": 0.45459628105163574,
+        "Eligibility": 0.5231103897094727,
+        "ApplicationProcess": 0.4677978754043579,
+        "TimelineFrequency": 0.4861603081226349,
+        "AuthoritiesGovernance": 0.5771258473396301,
+        "DefinitionsReferences": 0.44592374563217163
+      }
+    },
+    {
+      "sentence": "Each state has its own set of guidelines and procedures for administering the scholarship.",
+      "role": "Eligibility",
+      "confidence": 0.621976375579834,
+      "similarities": {
+        "ContextObjective": 0.5186963081359863,
+        "BenefitsAssistance": 0.5286585688591003,
+        "Eligibility": 0.621976375579834,
+        "ApplicationProcess": 0.5618292689323425,
+        "TimelineFrequency": 0.5360813140869141,
+        "AuthoritiesGovernance": 0.5287715196609497,
+        "DefinitionsReferences": 0.5340026021003723
+      }
+    },
+    {
+      "sentence": "For instance, in Maharashtra, the Directorate of Technical Education oversees the implementation of the scholarship scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5221433639526367,
+      "similarities": {
+        "ContextObjective": 0.50577712059021,
+        "BenefitsAssistance": 0.4296673834323883,
+        "Eligibility": 0.48626041412353516,
+        "ApplicationProcess": 0.4555705785751343,
+        "TimelineFrequency": 0.4339187741279602,
+        "AuthoritiesGovernance": 0.5221433639526367,
+        "DefinitionsReferences": 0.4082271158695221
+      }
+    },
+    {
+      "sentence": "In Tamil Nadu, the scheme is managed by the Directorate of Technical Education and Training.",
+      "role": "ContextObjective",
+      "confidence": 0.4702896475791931,
+      "similarities": {
+        "ContextObjective": 0.4702896475791931,
+        "BenefitsAssistance": 0.38695040345191956,
+        "Eligibility": 0.42427170276641846,
+        "ApplicationProcess": 0.4062421917915344,
+        "TimelineFrequency": 0.4023110866546631,
+        "AuthoritiesGovernance": 0.43586504459381104,
+        "DefinitionsReferences": 0.36267656087875366
+      }
+    },
+    {
+      "sentence": "Students can contact their respective state technical education offices for more information and assistance regarding the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5774456262588501,
+      "similarities": {
+        "ContextObjective": 0.4455062747001648,
+        "BenefitsAssistance": 0.49362698197364807,
+        "Eligibility": 0.5219869017601013,
+        "ApplicationProcess": 0.5774456262588501,
+        "TimelineFrequency": 0.5458340048789978,
+        "AuthoritiesGovernance": 0.5024974346160889,
+        "DefinitionsReferences": 0.43646949529647827
+      }
+    },
+    {
+      "sentence": "The scholarship has significantly increased enrollment in polytechnic courses since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.4275570511817932,
+      "similarities": {
+        "ContextObjective": 0.4275570511817932,
+        "BenefitsAssistance": 0.37996071577072144,
+        "Eligibility": 0.33767205476760864,
+        "ApplicationProcess": 0.34890425205230713,
+        "TimelineFrequency": 0.3660019338130951,
+        "AuthoritiesGovernance": 0.263690322637558,
+        "DefinitionsReferences": 0.3168712258338928
+      }
+    },
+    {
+      "sentence": "According to reports, enrollment in polytechnic institutions increased by approximately 30% in the first two years following the launch of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.432233601808548,
+      "similarities": {
+        "ContextObjective": 0.432233601808548,
+        "BenefitsAssistance": 0.3764388859272003,
+        "Eligibility": 0.3553043603897095,
+        "ApplicationProcess": 0.36675211787223816,
+        "TimelineFrequency": 0.35793212056159973,
+        "AuthoritiesGovernance": 0.3261650502681732,
+        "DefinitionsReferences": 0.3024308979511261
+      }
+    },
+    {
+      "sentence": "This increase is indicative of the scheme's effectiveness in making technical education more accessible to underprivileged students.",
+      "role": "ContextObjective",
+      "confidence": 0.4417155385017395,
+      "similarities": {
+        "ContextObjective": 0.4417155385017395,
+        "BenefitsAssistance": 0.3788691759109497,
+        "Eligibility": 0.37561947107315063,
+        "ApplicationProcess": 0.336093008518219,
+        "TimelineFrequency": 0.3413868546485901,
+        "AuthoritiesGovernance": 0.3271527886390686,
+        "DefinitionsReferences": 0.3126114308834076
+      }
+    },
+    {
+      "sentence": "The government allocates a substantial budget for this scholarship scheme each year.",
+      "role": "ContextObjective",
+      "confidence": 0.5000233054161072,
+      "similarities": {
+        "ContextObjective": 0.5000233054161072,
+        "BenefitsAssistance": 0.46863293647766113,
+        "Eligibility": 0.45131468772888184,
+        "ApplicationProcess": 0.39694732427597046,
+        "TimelineFrequency": 0.45388275384902954,
+        "AuthoritiesGovernance": 0.36852946877479553,
+        "DefinitionsReferences": 0.37603235244750977
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the government allocated approximately INR 500 crores for the Free Education Scholarship for Polytechnic Courses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4641144275665283,
+      "similarities": {
+        "ContextObjective": 0.4552750587463379,
+        "BenefitsAssistance": 0.4641144275665283,
+        "Eligibility": 0.43962234258651733,
+        "ApplicationProcess": 0.3978089690208435,
+        "TimelineFrequency": 0.4449416995048523,
+        "AuthoritiesGovernance": 0.36024612188339233,
+        "DefinitionsReferences": 0.35533851385116577
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to enhancing technical education and skill development in the country.",
+      "role": "Eligibility",
+      "confidence": 0.40242695808410645,
+      "similarities": {
+        "ContextObjective": 0.3975757956504822,
+        "BenefitsAssistance": 0.3921886086463928,
+        "Eligibility": 0.40242695808410645,
+        "ApplicationProcess": 0.3634299337863922,
+        "TimelineFrequency": 0.3702136278152466,
+        "AuthoritiesGovernance": 0.39833205938339233,
+        "DefinitionsReferences": 0.3860779404640198
+      }
+    },
+    {
+      "sentence": "The scholarship not only helps students financially but also contributes to the overall development of skilled manpower in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42522820830345154,
+      "similarities": {
+        "ContextObjective": 0.4234611690044403,
+        "BenefitsAssistance": 0.42522820830345154,
+        "Eligibility": 0.4185119867324829,
+        "ApplicationProcess": 0.3743179440498352,
+        "TimelineFrequency": 0.3687296211719513,
+        "AuthoritiesGovernance": 0.3239120841026306,
+        "DefinitionsReferences": 0.36935967206954956
+      }
+    },
+    {
+      "sentence": "By providing free education in technical fields, the scheme aims to bridge the skill gap in various industries.",
+      "role": "ContextObjective",
+      "confidence": 0.46244728565216064,
+      "similarities": {
+        "ContextObjective": 0.46244728565216064,
+        "BenefitsAssistance": 0.4008740782737732,
+        "Eligibility": 0.43042728304862976,
+        "ApplicationProcess": 0.3923848271369934,
+        "TimelineFrequency": 0.4033660292625427,
+        "AuthoritiesGovernance": 0.3397795557975769,
+        "DefinitionsReferences": 0.3478543758392334
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the National Policy on Skill Development and Entrepreneurship, which emphasizes the importance of technical education.",
+      "role": "ContextObjective",
+      "confidence": 0.4560476541519165,
+      "similarities": {
+        "ContextObjective": 0.4560476541519165,
+        "BenefitsAssistance": 0.3635086417198181,
+        "Eligibility": 0.380778968334198,
+        "ApplicationProcess": 0.3641573190689087,
+        "TimelineFrequency": 0.36019110679626465,
+        "AuthoritiesGovernance": 0.33748406171798706,
+        "DefinitionsReferences": 0.3700382113456726
+      }
+    },
+    {
+      "sentence": "The government regularly reviews and updates the scheme to ensure it meets the changing needs of students and the job market.",
+      "role": "ApplicationProcess",
+      "confidence": 0.525242030620575,
+      "similarities": {
+        "ContextObjective": 0.4959564507007599,
+        "BenefitsAssistance": 0.46577563881874084,
+        "Eligibility": 0.5167441368103027,
+        "ApplicationProcess": 0.525242030620575,
+        "TimelineFrequency": 0.50429767370224,
+        "AuthoritiesGovernance": 0.4251124858856201,
+        "DefinitionsReferences": 0.4308002293109894
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation process and address any challenges faced by students.",
+      "role": "Eligibility",
+      "confidence": 0.5087150931358337,
+      "similarities": {
+        "ContextObjective": 0.43978646397590637,
+        "BenefitsAssistance": 0.4865410327911377,
+        "Eligibility": 0.5087150931358337,
+        "ApplicationProcess": 0.4651646614074707,
+        "TimelineFrequency": 0.4293331503868103,
+        "AuthoritiesGovernance": 0.506334662437439,
+        "DefinitionsReferences": 0.43045473098754883
+      }
+    },
+    {
+      "sentence": "The Free Education Scholarship for Three-Year Diploma in Polytechnic Courses is a crucial step towards empowering youth through education.",
+      "role": "ContextObjective",
+      "confidence": 0.46827614307403564,
+      "similarities": {
+        "ContextObjective": 0.46827614307403564,
+        "BenefitsAssistance": 0.390296995639801,
+        "Eligibility": 0.409130334854126,
+        "ApplicationProcess": 0.40026408433914185,
+        "TimelineFrequency": 0.4040670096874237,
+        "AuthoritiesGovernance": 0.32689324021339417,
+        "DefinitionsReferences": 0.3458886742591858
+      }
+    },
+    {
+      "sentence": "It plays a vital role in reducing unemployment rates by equipping students with the necessary skills for the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.4294876754283905,
+      "similarities": {
+        "ContextObjective": 0.4294876754283905,
+        "BenefitsAssistance": 0.38125550746917725,
+        "Eligibility": 0.38924866914749146,
+        "ApplicationProcess": 0.38399171829223633,
+        "TimelineFrequency": 0.4181241989135742,
+        "AuthoritiesGovernance": 0.36200469732284546,
+        "DefinitionsReferences": 0.3508826196193695
+      }
+    },
+    {
+      "sentence": "The scholarship has also been instrumental in promoting self-employment among graduates by encouraging entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.4266734719276428,
+      "similarities": {
+        "ContextObjective": 0.4266734719276428,
+        "BenefitsAssistance": 0.34248974919319153,
+        "Eligibility": 0.3366966247558594,
+        "ApplicationProcess": 0.3160213232040405,
+        "TimelineFrequency": 0.315520703792572,
+        "AuthoritiesGovernance": 0.26960551738739014,
+        "DefinitionsReferences": 0.3113383650779724
+      }
+    },
+    {
+      "sentence": "Students who complete their diploma courses often find better job opportunities in various sectors such as manufacturing, construction, and information technology.",
+      "role": "TimelineFrequency",
+      "confidence": 0.47311192750930786,
+      "similarities": {
+        "ContextObjective": 0.4361008107662201,
+        "BenefitsAssistance": 0.40215951204299927,
+        "Eligibility": 0.4425836205482483,
+        "ApplicationProcess": 0.4339026212692261,
+        "TimelineFrequency": 0.47311192750930786,
+        "AuthoritiesGovernance": 0.3786846995353699,
+        "DefinitionsReferences": 0.40376174449920654
+      }
+    },
+    {
+      "sentence": "The scheme has also led to the establishment of more polytechnic institutions across the country to accommodate the growing demand for technical education.",
+      "role": "ContextObjective",
+      "confidence": 0.476731538772583,
+      "similarities": {
+        "ContextObjective": 0.476731538772583,
+        "BenefitsAssistance": 0.38210058212280273,
+        "Eligibility": 0.4060288965702057,
+        "ApplicationProcess": 0.40722256898880005,
+        "TimelineFrequency": 0.39809393882751465,
+        "AuthoritiesGovernance": 0.36913180351257324,
+        "DefinitionsReferences": 0.3526113033294678
+      }
+    },
+    {
+      "sentence": "In addition to the scholarship, the government also provides various skill development programs to further enhance the employability of graduates.",
+      "role": "ContextObjective",
+      "confidence": 0.4486449658870697,
+      "similarities": {
+        "ContextObjective": 0.4486449658870697,
+        "BenefitsAssistance": 0.43392714858055115,
+        "Eligibility": 0.4485134482383728,
+        "ApplicationProcess": 0.4226341247558594,
+        "TimelineFrequency": 0.43119877576828003,
+        "AuthoritiesGovernance": 0.39724504947662354,
+        "DefinitionsReferences": 0.4459909200668335
+      }
+    },
+    {
+      "sentence": "The integration of practical training and internships in polytechnic courses is emphasized to ensure students gain hands-on experience.",
+      "role": "ApplicationProcess",
+      "confidence": 0.42295122146606445,
+      "similarities": {
+        "ContextObjective": 0.3947514295578003,
+        "BenefitsAssistance": 0.37200167775154114,
+        "Eligibility": 0.3856455981731415,
+        "ApplicationProcess": 0.42295122146606445,
+        "TimelineFrequency": 0.4099913239479065,
+        "AuthoritiesGovernance": 0.3886451721191406,
+        "DefinitionsReferences": 0.38789844512939453
+      }
+    },
+    {
+      "sentence": "The Free Education Scholarship for Polytechnic Courses is a testament to the government's commitment to inclusive education.",
+      "role": "ContextObjective",
+      "confidence": 0.4408707618713379,
+      "similarities": {
+        "ContextObjective": 0.4408707618713379,
+        "BenefitsAssistance": 0.4344579577445984,
+        "Eligibility": 0.4317755699157715,
+        "ApplicationProcess": 0.37610119581222534,
+        "TimelineFrequency": 0.3613503575325012,
+        "AuthoritiesGovernance": 0.29937422275543213,
+        "DefinitionsReferences": 0.36159151792526245
+      }
+    },
+    {
+      "sentence": "It aims to create a more equitable society by providing equal opportunities for students from all backgrounds.",
+      "role": "ContextObjective",
+      "confidence": 0.5296997427940369,
+      "similarities": {
+        "ContextObjective": 0.5296997427940369,
+        "BenefitsAssistance": 0.36276501417160034,
+        "Eligibility": 0.4695051908493042,
+        "ApplicationProcess": 0.38321664929389954,
+        "TimelineFrequency": 0.4024560749530792,
+        "AuthoritiesGovernance": 0.3854072690010071,
+        "DefinitionsReferences": 0.3610333800315857
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from students and parents alike for its impact on educational access.",
+      "role": "ContextObjective",
+      "confidence": 0.45837682485580444,
+      "similarities": {
+        "ContextObjective": 0.45837682485580444,
+        "BenefitsAssistance": 0.40829646587371826,
+        "Eligibility": 0.42615824937820435,
+        "ApplicationProcess": 0.3798518180847168,
+        "TimelineFrequency": 0.3631942570209503,
+        "AuthoritiesGovernance": 0.3412354290485382,
+        "DefinitionsReferences": 0.364734411239624
+      }
+    },
+    {
+      "sentence": "Overall, the Free Education Scholarship for Three-Year Diploma in Polytechnic Courses is a comprehensive initiative that addresses the financial barriers to technical education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4948582649230957,
+      "similarities": {
+        "ContextObjective": 0.4800124168395996,
+        "BenefitsAssistance": 0.4948582649230957,
+        "Eligibility": 0.4474356174468994,
+        "ApplicationProcess": 0.4375198185443878,
+        "TimelineFrequency": 0.4514167904853821,
+        "AuthoritiesGovernance": 0.35084640979766846,
+        "DefinitionsReferences": 0.3552776575088501
+      }
+    },
+    {
+      "sentence": "It empowers students from economically disadvantaged backgrounds to pursue their dreams and contribute to the nation's development.",
+      "role": "ContextObjective",
+      "confidence": 0.49693891406059265,
+      "similarities": {
+        "ContextObjective": 0.49693891406059265,
+        "BenefitsAssistance": 0.3788309693336487,
+        "Eligibility": 0.4544907808303833,
+        "ApplicationProcess": 0.36895596981048584,
+        "TimelineFrequency": 0.3672422468662262,
+        "AuthoritiesGovernance": 0.3541886508464813,
+        "DefinitionsReferences": 0.33579325675964355
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial component of India's strategy to enhance its human capital and foster economic growth through skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.49287116527557373,
+      "similarities": {
+        "ContextObjective": 0.49287116527557373,
+        "BenefitsAssistance": 0.37068623304367065,
+        "Eligibility": 0.40082061290740967,
+        "ApplicationProcess": 0.3731842041015625,
+        "TimelineFrequency": 0.3568536639213562,
+        "AuthoritiesGovernance": 0.3421585261821747,
+        "DefinitionsReferences": 0.3655068874359131
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "Eligibility": 9,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:56:23.141187"
+}

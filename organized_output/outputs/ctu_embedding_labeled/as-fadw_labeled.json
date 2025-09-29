@@ -1,0 +1,813 @@
+{
+  "scheme_name": "Abhayakiranam Scheme-Financial Assistance To Destitute Widows",
+  "total_sentences": 57,
+  "labeled_sentences": [
+    {
+      "sentence": "The Abhayakiranam Scheme is a welfare initiative launched by the Government of Kerala in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5427090525627136,
+      "similarities": {
+        "ContextObjective": 0.5427090525627136,
+        "BenefitsAssistance": 0.4001968801021576,
+        "Eligibility": 0.4710456132888794,
+        "ApplicationProcess": 0.39873558282852173,
+        "TimelineFrequency": 0.3809519410133362,
+        "AuthoritiesGovernance": 0.44264376163482666,
+        "DefinitionsReferences": 0.33409401774406433
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st March 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.5957171320915222,
+      "similarities": {
+        "ContextObjective": 0.5957171320915222,
+        "BenefitsAssistance": 0.439231276512146,
+        "Eligibility": 0.48707059025764465,
+        "ApplicationProcess": 0.48316237330436707,
+        "TimelineFrequency": 0.46105682849884033,
+        "AuthoritiesGovernance": 0.3988732695579529,
+        "DefinitionsReferences": 0.35843726992607117
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance to destitute widows who are in dire need of support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49590545892715454,
+      "similarities": {
+        "ContextObjective": 0.4855160117149353,
+        "BenefitsAssistance": 0.49590545892715454,
+        "Eligibility": 0.46936023235321045,
+        "ApplicationProcess": 0.38128724694252014,
+        "TimelineFrequency": 0.382618248462677,
+        "AuthoritiesGovernance": 0.41370320320129395,
+        "DefinitionsReferences": 0.3474143445491791
+      }
+    },
+    {
+      "sentence": "The primary objective of the Abhayakiranam Scheme is to empower widows by providing them with a monthly financial aid.",
+      "role": "ContextObjective",
+      "confidence": 0.5166970491409302,
+      "similarities": {
+        "ContextObjective": 0.5166970491409302,
+        "BenefitsAssistance": 0.438382625579834,
+        "Eligibility": 0.4277879595756531,
+        "ApplicationProcess": 0.3771107792854309,
+        "TimelineFrequency": 0.3965752422809601,
+        "AuthoritiesGovernance": 0.38034772872924805,
+        "DefinitionsReferences": 0.3130856156349182
+      }
+    },
+    {
+      "sentence": "This financial aid is intended to help them meet their basic needs and improve their living conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.557992696762085,
+      "similarities": {
+        "ContextObjective": 0.47020143270492554,
+        "BenefitsAssistance": 0.557992696762085,
+        "Eligibility": 0.5284188985824585,
+        "ApplicationProcess": 0.4660366177558899,
+        "TimelineFrequency": 0.43364694714546204,
+        "AuthoritiesGovernance": 0.471905380487442,
+        "DefinitionsReferences": 0.4200603663921356
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets widows who do not have any source of income or support.",
+      "role": "Eligibility",
+      "confidence": 0.4752974808216095,
+      "similarities": {
+        "ContextObjective": 0.46796655654907227,
+        "BenefitsAssistance": 0.43229734897613525,
+        "Eligibility": 0.4752974808216095,
+        "ApplicationProcess": 0.3819357752799988,
+        "TimelineFrequency": 0.38313016295433044,
+        "AuthoritiesGovernance": 0.36466601490974426,
+        "DefinitionsReferences": 0.31614333391189575
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹1,500 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5625993013381958,
+      "similarities": {
+        "ContextObjective": 0.4488533139228821,
+        "BenefitsAssistance": 0.5625993013381958,
+        "Eligibility": 0.4925726056098938,
+        "ApplicationProcess": 0.43056631088256836,
+        "TimelineFrequency": 0.4395942687988281,
+        "AuthoritiesGovernance": 0.3815343379974365,
+        "DefinitionsReferences": 0.3515143394470215
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover essential expenses such as food, clothing, and healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6492058038711548,
+      "similarities": {
+        "ContextObjective": 0.4660208225250244,
+        "BenefitsAssistance": 0.6492058038711548,
+        "Eligibility": 0.49005982279777527,
+        "ApplicationProcess": 0.4635354280471802,
+        "TimelineFrequency": 0.4481123983860016,
+        "AuthoritiesGovernance": 0.4265933036804199,
+        "DefinitionsReferences": 0.4761257767677307
+      }
+    },
+    {
+      "sentence": "The scheme aims to support approximately 50,000 widows across the state of Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.49168962240219116,
+      "similarities": {
+        "ContextObjective": 0.49168962240219116,
+        "BenefitsAssistance": 0.40977033972740173,
+        "Eligibility": 0.44691863656044006,
+        "ApplicationProcess": 0.3746671676635742,
+        "TimelineFrequency": 0.38907837867736816,
+        "AuthoritiesGovernance": 0.3903091251850128,
+        "DefinitionsReferences": 0.3165864944458008
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹90 crores for the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46913862228393555,
+      "similarities": {
+        "ContextObjective": 0.4682774841785431,
+        "BenefitsAssistance": 0.456243634223938,
+        "Eligibility": 0.4618855118751526,
+        "ApplicationProcess": 0.411961168050766,
+        "TimelineFrequency": 0.3796032667160034,
+        "AuthoritiesGovernance": 0.46913862228393555,
+        "DefinitionsReferences": 0.3509065508842468
+      }
+    },
+    {
+      "sentence": "To be eligible for the Abhayakiranam Scheme, applicants must meet certain criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6662290096282959,
+      "similarities": {
+        "ContextObjective": 0.5607645511627197,
+        "BenefitsAssistance": 0.45695823431015015,
+        "Eligibility": 0.6662290096282959,
+        "ApplicationProcess": 0.6092731952667236,
+        "TimelineFrequency": 0.5463320016860962,
+        "AuthoritiesGovernance": 0.42724907398223877,
+        "DefinitionsReferences": 0.4094450771808624
+      }
+    },
+    {
+      "sentence": "Applicants must be widows aged between 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5941083431243896,
+      "similarities": {
+        "ContextObjective": 0.46326786279678345,
+        "BenefitsAssistance": 0.4837530851364136,
+        "Eligibility": 0.5941083431243896,
+        "ApplicationProcess": 0.5264424085617065,
+        "TimelineFrequency": 0.5300938487052917,
+        "AuthoritiesGovernance": 0.42871618270874023,
+        "DefinitionsReferences": 0.39372459053993225
+      }
+    },
+    {
+      "sentence": "They must be residents of Kerala and must not be receiving any other pension or financial assistance from the government.",
+      "role": "Eligibility",
+      "confidence": 0.49189549684524536,
+      "similarities": {
+        "ContextObjective": 0.3387247920036316,
+        "BenefitsAssistance": 0.3808819651603699,
+        "Eligibility": 0.49189549684524536,
+        "ApplicationProcess": 0.38295799493789673,
+        "TimelineFrequency": 0.31144797801971436,
+        "AuthoritiesGovernance": 0.33601388335227966,
+        "DefinitionsReferences": 0.2819643020629883
+      }
+    },
+    {
+      "sentence": "The annual income of the applicant's family should not exceed ₹1 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5745587944984436,
+      "similarities": {
+        "ContextObjective": 0.44244584441185,
+        "BenefitsAssistance": 0.5011993646621704,
+        "Eligibility": 0.5745587944984436,
+        "ApplicationProcess": 0.5148546099662781,
+        "TimelineFrequency": 0.4489313066005707,
+        "AuthoritiesGovernance": 0.36357107758522034,
+        "DefinitionsReferences": 0.3670802116394043
+      }
+    },
+    {
+      "sentence": "This income limit is set to ensure that the assistance reaches those who are truly in need.",
+      "role": "Eligibility",
+      "confidence": 0.5722754597663879,
+      "similarities": {
+        "ContextObjective": 0.4470462203025818,
+        "BenefitsAssistance": 0.5272501111030579,
+        "Eligibility": 0.5722754597663879,
+        "ApplicationProcess": 0.4295356273651123,
+        "TimelineFrequency": 0.408230185508728,
+        "AuthoritiesGovernance": 0.40286126732826233,
+        "DefinitionsReferences": 0.35786157846450806
+      }
+    },
+    {
+      "sentence": "The application process for the Abhayakiranam Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5463930368423462,
+      "similarities": {
+        "ContextObjective": 0.5222299098968506,
+        "BenefitsAssistance": 0.395263135433197,
+        "Eligibility": 0.4914926290512085,
+        "ApplicationProcess": 0.5463930368423462,
+        "TimelineFrequency": 0.46528172492980957,
+        "AuthoritiesGovernance": 0.39759889245033264,
+        "DefinitionsReferences": 0.3493976891040802
+      }
+    },
+    {
+      "sentence": "Interested applicants must fill out an application form available at local government offices or online on the official Kerala government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6766070127487183,
+      "similarities": {
+        "ContextObjective": 0.45055121183395386,
+        "BenefitsAssistance": 0.4137749671936035,
+        "Eligibility": 0.529906153678894,
+        "ApplicationProcess": 0.6766070127487183,
+        "TimelineFrequency": 0.4960673749446869,
+        "AuthoritiesGovernance": 0.429490327835083,
+        "DefinitionsReferences": 0.416720449924469
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7019224166870117,
+      "similarities": {
+        "ContextObjective": 0.5078127980232239,
+        "BenefitsAssistance": 0.5981009006500244,
+        "Eligibility": 0.645250678062439,
+        "ApplicationProcess": 0.7019224166870117,
+        "TimelineFrequency": 0.5861561894416809,
+        "AuthoritiesGovernance": 0.46677321195602417,
+        "DefinitionsReferences": 0.527523398399353
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of widowhood, which can be a death certificate of the spouse.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5472603440284729,
+      "similarities": {
+        "ContextObjective": 0.40988636016845703,
+        "BenefitsAssistance": 0.4802931845188141,
+        "Eligibility": 0.5036032795906067,
+        "ApplicationProcess": 0.5472603440284729,
+        "TimelineFrequency": 0.4771501421928406,
+        "AuthoritiesGovernance": 0.37015974521636963,
+        "DefinitionsReferences": 0.4339228868484497
+      }
+    },
+    {
+      "sentence": "Additionally, proof of income must be submitted, which can include income certificates or tax returns.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6115399599075317,
+      "similarities": {
+        "ContextObjective": 0.4428452253341675,
+        "BenefitsAssistance": 0.5602681636810303,
+        "Eligibility": 0.5397696495056152,
+        "ApplicationProcess": 0.6115399599075317,
+        "TimelineFrequency": 0.48652854561805725,
+        "AuthoritiesGovernance": 0.3791418671607971,
+        "DefinitionsReferences": 0.48151832818984985
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the local Social Justice Department office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5932837724685669,
+      "similarities": {
+        "ContextObjective": 0.4341118633747101,
+        "BenefitsAssistance": 0.40583693981170654,
+        "Eligibility": 0.5301507115364075,
+        "ApplicationProcess": 0.5932837724685669,
+        "TimelineFrequency": 0.4870658814907074,
+        "AuthoritiesGovernance": 0.47627368569374084,
+        "DefinitionsReferences": 0.38211309909820557
+      }
+    },
+    {
+      "sentence": "The application will be reviewed by the officials, and eligible candidates will be notified.",
+      "role": "ApplicationProcess",
+      "confidence": 0.658519983291626,
+      "similarities": {
+        "ContextObjective": 0.46796590089797974,
+        "BenefitsAssistance": 0.44738659262657166,
+        "Eligibility": 0.6458635330200195,
+        "ApplicationProcess": 0.658519983291626,
+        "TimelineFrequency": 0.6002103090286255,
+        "AuthoritiesGovernance": 0.48132750391960144,
+        "DefinitionsReferences": 0.43274885416030884
+      }
+    },
+    {
+      "sentence": "The financial assistance is disbursed monthly through direct bank transfers to the beneficiaries' accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.572921872138977,
+      "similarities": {
+        "ContextObjective": 0.41510671377182007,
+        "BenefitsAssistance": 0.572921872138977,
+        "Eligibility": 0.51585453748703,
+        "ApplicationProcess": 0.43883055448532104,
+        "TimelineFrequency": 0.4445253610610962,
+        "AuthoritiesGovernance": 0.4261739253997803,
+        "DefinitionsReferences": 0.3621550500392914
+      }
+    },
+    {
+      "sentence": "The first disbursement is typically made within one month of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5233801603317261,
+      "similarities": {
+        "ContextObjective": 0.4352048337459564,
+        "BenefitsAssistance": 0.5074584484100342,
+        "Eligibility": 0.48205792903900146,
+        "ApplicationProcess": 0.4958651661872864,
+        "TimelineFrequency": 0.5233801603317261,
+        "AuthoritiesGovernance": 0.3943817615509033,
+        "DefinitionsReferences": 0.35803520679473877
+      }
+    },
+    {
+      "sentence": "Subsequent payments are made on the first of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5511820316314697,
+      "similarities": {
+        "ContextObjective": 0.4513816237449646,
+        "BenefitsAssistance": 0.527184247970581,
+        "Eligibility": 0.45640209317207336,
+        "ApplicationProcess": 0.47370845079421997,
+        "TimelineFrequency": 0.5511820316314697,
+        "AuthoritiesGovernance": 0.4035834074020386,
+        "DefinitionsReferences": 0.41788583993911743
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Social Justice of the Government of Kerala.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5192294120788574,
+      "similarities": {
+        "ContextObjective": 0.5052551031112671,
+        "BenefitsAssistance": 0.40449368953704834,
+        "Eligibility": 0.4660176932811737,
+        "ApplicationProcess": 0.42368656396865845,
+        "TimelineFrequency": 0.3678695261478424,
+        "AuthoritiesGovernance": 0.5192294120788574,
+        "DefinitionsReferences": 0.3714215159416199
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and ensuring timely disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6007668972015381,
+      "similarities": {
+        "ContextObjective": 0.48434001207351685,
+        "BenefitsAssistance": 0.5535733699798584,
+        "Eligibility": 0.571347713470459,
+        "ApplicationProcess": 0.6007668972015381,
+        "TimelineFrequency": 0.5713136792182922,
+        "AuthoritiesGovernance": 0.556552529335022,
+        "DefinitionsReferences": 0.43250417709350586
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the Social Justice Department at their official helpline number: 0471-2322022.",
+      "role": "Eligibility",
+      "confidence": 0.4737251400947571,
+      "similarities": {
+        "ContextObjective": 0.37562793493270874,
+        "BenefitsAssistance": 0.42734330892562866,
+        "Eligibility": 0.4737251400947571,
+        "ApplicationProcess": 0.46364402770996094,
+        "TimelineFrequency": 0.40495726466178894,
+        "AuthoritiesGovernance": 0.4634174704551697,
+        "DefinitionsReferences": 0.3582640290260315
+      }
+    },
+    {
+      "sentence": "The Abhayakiranam Scheme is part of a broader initiative by the Kerala government to support marginalized sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.4919123947620392,
+      "similarities": {
+        "ContextObjective": 0.4919123947620392,
+        "BenefitsAssistance": 0.40477731823921204,
+        "Eligibility": 0.4535318911075592,
+        "ApplicationProcess": 0.35850656032562256,
+        "TimelineFrequency": 0.33489376306533813,
+        "AuthoritiesGovernance": 0.4287847578525543,
+        "DefinitionsReferences": 0.34293195605278015
+      }
+    },
+    {
+      "sentence": "The government has been proactive in addressing the needs of widows and other vulnerable groups.",
+      "role": "Eligibility",
+      "confidence": 0.4955584406852722,
+      "similarities": {
+        "ContextObjective": 0.4840555787086487,
+        "BenefitsAssistance": 0.4895040988922119,
+        "Eligibility": 0.4955584406852722,
+        "ApplicationProcess": 0.4136635363101959,
+        "TimelineFrequency": 0.40395912528038025,
+        "AuthoritiesGovernance": 0.49142298102378845,
+        "DefinitionsReferences": 0.418084979057312
+      }
+    },
+    {
+      "sentence": "The scheme is designed to provide not just financial aid but also to restore dignity and self-respect to widows.",
+      "role": "ContextObjective",
+      "confidence": 0.49535316228866577,
+      "similarities": {
+        "ContextObjective": 0.49535316228866577,
+        "BenefitsAssistance": 0.4538728594779968,
+        "Eligibility": 0.44450974464416504,
+        "ApplicationProcess": 0.39824551343917847,
+        "TimelineFrequency": 0.3847101628780365,
+        "AuthoritiesGovernance": 0.37510791420936584,
+        "DefinitionsReferences": 0.34184324741363525
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the government also aims to provide skill development programs for widows.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4783034920692444,
+      "similarities": {
+        "ContextObjective": 0.4441782534122467,
+        "BenefitsAssistance": 0.4783034920692444,
+        "Eligibility": 0.4232140779495239,
+        "ApplicationProcess": 0.3776209056377411,
+        "TimelineFrequency": 0.39761269092559814,
+        "AuthoritiesGovernance": 0.4336555600166321,
+        "DefinitionsReferences": 0.4027506113052368
+      }
+    },
+    {
+      "sentence": "These programs are intended to help them become self-sufficient and financially independent.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5330960750579834,
+      "similarities": {
+        "ContextObjective": 0.5226430296897888,
+        "BenefitsAssistance": 0.5330960750579834,
+        "Eligibility": 0.49458563327789307,
+        "ApplicationProcess": 0.4578552842140198,
+        "TimelineFrequency": 0.43924480676651,
+        "AuthoritiesGovernance": 0.422882616519928,
+        "DefinitionsReferences": 0.4079069495201111
+      }
+    },
+    {
+      "sentence": "The Abhayakiranam Scheme has received positive feedback from beneficiaries and social workers alike.",
+      "role": "ContextObjective",
+      "confidence": 0.4694257378578186,
+      "similarities": {
+        "ContextObjective": 0.4694257378578186,
+        "BenefitsAssistance": 0.4118431508541107,
+        "Eligibility": 0.43036651611328125,
+        "ApplicationProcess": 0.3574545681476593,
+        "TimelineFrequency": 0.3169981837272644,
+        "AuthoritiesGovernance": 0.3771634101867676,
+        "DefinitionsReferences": 0.35491469502449036
+      }
+    },
+    {
+      "sentence": "Many widows have reported improvements in their quality of life since receiving assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49685874581336975,
+      "similarities": {
+        "ContextObjective": 0.4313855767250061,
+        "BenefitsAssistance": 0.49685874581336975,
+        "Eligibility": 0.43004217743873596,
+        "ApplicationProcess": 0.3803367614746094,
+        "TimelineFrequency": 0.37504997849464417,
+        "AuthoritiesGovernance": 0.41413530707359314,
+        "DefinitionsReferences": 0.3823728561401367
+      }
+    },
+    {
+      "sentence": "The scheme has also raised awareness about the challenges faced by widows in society.",
+      "role": "ContextObjective",
+      "confidence": 0.4990214705467224,
+      "similarities": {
+        "ContextObjective": 0.4990214705467224,
+        "BenefitsAssistance": 0.43096351623535156,
+        "Eligibility": 0.43925902247428894,
+        "ApplicationProcess": 0.3873191177845001,
+        "TimelineFrequency": 0.3715118169784546,
+        "AuthoritiesGovernance": 0.37337759137153625,
+        "DefinitionsReferences": 0.3356791138648987
+      }
+    },
+    {
+      "sentence": "It highlights the need for continued support and advocacy for women's rights and welfare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4686512351036072,
+      "similarities": {
+        "ContextObjective": 0.45159590244293213,
+        "BenefitsAssistance": 0.4686512351036072,
+        "Eligibility": 0.40871715545654297,
+        "ApplicationProcess": 0.3586850166320801,
+        "TimelineFrequency": 0.381320983171463,
+        "AuthoritiesGovernance": 0.41675668954849243,
+        "DefinitionsReferences": 0.4384320378303528
+      }
+    },
+    {
+      "sentence": "The government plans to monitor the scheme's impact regularly and make adjustments as necessary.",
+      "role": "Eligibility",
+      "confidence": 0.5038227438926697,
+      "similarities": {
+        "ContextObjective": 0.47674036026000977,
+        "BenefitsAssistance": 0.49920231103897095,
+        "Eligibility": 0.5038227438926697,
+        "ApplicationProcess": 0.4907653033733368,
+        "TimelineFrequency": 0.4543265104293823,
+        "AuthoritiesGovernance": 0.4784679710865021,
+        "DefinitionsReferences": 0.42616963386535645
+      }
+    },
+    {
+      "sentence": "Data collected from beneficiaries will be used to assess the effectiveness of the program.",
+      "role": "Eligibility",
+      "confidence": 0.6128866076469421,
+      "similarities": {
+        "ContextObjective": 0.5304375886917114,
+        "BenefitsAssistance": 0.5713090896606445,
+        "Eligibility": 0.6128866076469421,
+        "ApplicationProcess": 0.5123779773712158,
+        "TimelineFrequency": 0.49422505497932434,
+        "AuthoritiesGovernance": 0.5262141227722168,
+        "DefinitionsReferences": 0.4607991874217987
+      }
+    },
+    {
+      "sentence": "The Abhayakiranam Scheme is a significant step towards gender equality and social justice in Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.45361316204071045,
+      "similarities": {
+        "ContextObjective": 0.45361316204071045,
+        "BenefitsAssistance": 0.3380724787712097,
+        "Eligibility": 0.39641475677490234,
+        "ApplicationProcess": 0.3451686501502991,
+        "TimelineFrequency": 0.3207993507385254,
+        "AuthoritiesGovernance": 0.3681921362876892,
+        "DefinitionsReferences": 0.3169180154800415
+      }
+    },
+    {
+      "sentence": "It acknowledges the unique challenges faced by widows and provides them with the necessary support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4780355393886566,
+      "similarities": {
+        "ContextObjective": 0.43184328079223633,
+        "BenefitsAssistance": 0.4780355393886566,
+        "Eligibility": 0.43289318680763245,
+        "ApplicationProcess": 0.3699612617492676,
+        "TimelineFrequency": 0.38042575120925903,
+        "AuthoritiesGovernance": 0.3844214081764221,
+        "DefinitionsReferences": 0.37832528352737427
+      }
+    },
+    {
+      "sentence": "The scheme is expected to reduce poverty levels among widows in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4705902636051178,
+      "similarities": {
+        "ContextObjective": 0.4705902636051178,
+        "BenefitsAssistance": 0.42562898993492126,
+        "Eligibility": 0.44332271814346313,
+        "ApplicationProcess": 0.3695884346961975,
+        "TimelineFrequency": 0.3482961654663086,
+        "AuthoritiesGovernance": 0.41456347703933716,
+        "DefinitionsReferences": 0.32137131690979004
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government aims to empower widows to lead independent lives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5128594040870667,
+      "similarities": {
+        "ContextObjective": 0.4743623733520508,
+        "BenefitsAssistance": 0.5128594040870667,
+        "Eligibility": 0.4463534355163574,
+        "ApplicationProcess": 0.39074963331222534,
+        "TimelineFrequency": 0.37871110439300537,
+        "AuthoritiesGovernance": 0.4292531907558441,
+        "DefinitionsReferences": 0.3610783815383911
+      }
+    },
+    {
+      "sentence": "The initiative aligns with the United Nations Sustainable Development Goals, particularly Goal 5, which focuses on gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.4716767966747284,
+      "similarities": {
+        "ContextObjective": 0.4716767966747284,
+        "BenefitsAssistance": 0.36676231026649475,
+        "Eligibility": 0.4190804064273834,
+        "ApplicationProcess": 0.38792914152145386,
+        "TimelineFrequency": 0.3740285038948059,
+        "AuthoritiesGovernance": 0.41663557291030884,
+        "DefinitionsReferences": 0.3580682873725891
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that all widows have access to the resources they need to thrive.",
+      "role": "Eligibility",
+      "confidence": 0.507041335105896,
+      "similarities": {
+        "ContextObjective": 0.4548652768135071,
+        "BenefitsAssistance": 0.4527209997177124,
+        "Eligibility": 0.507041335105896,
+        "ApplicationProcess": 0.42859822511672974,
+        "TimelineFrequency": 0.415591299533844,
+        "AuthoritiesGovernance": 0.47377464175224304,
+        "DefinitionsReferences": 0.4381113648414612
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to operate and support thousands of widows across Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.4903697669506073,
+      "similarities": {
+        "ContextObjective": 0.4903697669506073,
+        "BenefitsAssistance": 0.4214286208152771,
+        "Eligibility": 0.42734193801879883,
+        "ApplicationProcess": 0.3401581645011902,
+        "TimelineFrequency": 0.38304567337036133,
+        "AuthoritiesGovernance": 0.404826283454895,
+        "DefinitionsReferences": 0.3416650891304016
+      }
+    },
+    {
+      "sentence": "The Abhayakiranam Scheme is an example of how targeted welfare programs can make a difference in people's lives.",
+      "role": "ContextObjective",
+      "confidence": 0.49552619457244873,
+      "similarities": {
+        "ContextObjective": 0.49552619457244873,
+        "BenefitsAssistance": 0.42202913761138916,
+        "Eligibility": 0.48872601985931396,
+        "ApplicationProcess": 0.3706643581390381,
+        "TimelineFrequency": 0.3530558943748474,
+        "AuthoritiesGovernance": 0.38665318489074707,
+        "DefinitionsReferences": 0.3388049900531769
+      }
+    },
+    {
+      "sentence": "It serves as a model for other states in India to consider similar initiatives for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.47757911682128906,
+      "similarities": {
+        "ContextObjective": 0.4368082880973816,
+        "BenefitsAssistance": 0.3905869424343109,
+        "Eligibility": 0.47757911682128906,
+        "ApplicationProcess": 0.39364492893218994,
+        "TimelineFrequency": 0.36975201964378357,
+        "AuthoritiesGovernance": 0.42013031244277954,
+        "DefinitionsReferences": 0.38838261365890503
+      }
+    },
+    {
+      "sentence": "The scheme's success is a testament to the importance of government intervention in social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.48368823528289795,
+      "similarities": {
+        "ContextObjective": 0.48368823528289795,
+        "BenefitsAssistance": 0.41449061036109924,
+        "Eligibility": 0.4228473901748657,
+        "ApplicationProcess": 0.37585458159446716,
+        "TimelineFrequency": 0.31237781047821045,
+        "AuthoritiesGovernance": 0.41110897064208984,
+        "DefinitionsReferences": 0.36103373765945435
+      }
+    },
+    {
+      "sentence": "Overall, the Abhayakiranam Scheme represents a significant commitment by the Kerala government to support destitute widows.",
+      "role": "ContextObjective",
+      "confidence": 0.43097788095474243,
+      "similarities": {
+        "ContextObjective": 0.43097788095474243,
+        "BenefitsAssistance": 0.41615965962409973,
+        "Eligibility": 0.405640184879303,
+        "ApplicationProcess": 0.3567904233932495,
+        "TimelineFrequency": 0.3589818477630615,
+        "AuthoritiesGovernance": 0.3611222207546234,
+        "DefinitionsReferences": 0.34805577993392944
+      }
+    },
+    {
+      "sentence": "It reflects a broader understanding of the social dynamics that affect women's lives in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4073839783668518,
+      "similarities": {
+        "ContextObjective": 0.4073839783668518,
+        "BenefitsAssistance": 0.38995280861854553,
+        "Eligibility": 0.38014835119247437,
+        "ApplicationProcess": 0.3212469220161438,
+        "TimelineFrequency": 0.3514792025089264,
+        "AuthoritiesGovernance": 0.3688467741012573,
+        "DefinitionsReferences": 0.40060681104660034
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial part of Kerala's efforts to promote social equity and justice.",
+      "role": "ContextObjective",
+      "confidence": 0.5242890119552612,
+      "similarities": {
+        "ContextObjective": 0.5242890119552612,
+        "BenefitsAssistance": 0.3693459630012512,
+        "Eligibility": 0.45061194896698,
+        "ApplicationProcess": 0.3929450213909149,
+        "TimelineFrequency": 0.3644864857196808,
+        "AuthoritiesGovernance": 0.4062263071537018,
+        "DefinitionsReferences": 0.3626207113265991
+      }
+    },
+    {
+      "sentence": "The ongoing support for widows through this scheme is vital for their empowerment and well-being.",
+      "role": "ContextObjective",
+      "confidence": 0.5082977414131165,
+      "similarities": {
+        "ContextObjective": 0.5082977414131165,
+        "BenefitsAssistance": 0.445126473903656,
+        "Eligibility": 0.42691168189048767,
+        "ApplicationProcess": 0.37425345182418823,
+        "TimelineFrequency": 0.385575532913208,
+        "AuthoritiesGovernance": 0.41354361176490784,
+        "DefinitionsReferences": 0.3714700937271118
+      }
+    },
+    {
+      "sentence": "In conclusion, the Abhayakiranam Scheme is a comprehensive initiative aimed at providing financial stability to widows in Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.4918406307697296,
+      "similarities": {
+        "ContextObjective": 0.4918406307697296,
+        "BenefitsAssistance": 0.4623478651046753,
+        "Eligibility": 0.4248143136501312,
+        "ApplicationProcess": 0.38170111179351807,
+        "TimelineFrequency": 0.3677803575992584,
+        "AuthoritiesGovernance": 0.3829202651977539,
+        "DefinitionsReferences": 0.33473819494247437
+      }
+    },
+    {
+      "sentence": "It is a crucial step in addressing the socio-economic challenges faced by this vulnerable group.",
+      "role": "Eligibility",
+      "confidence": 0.474856972694397,
+      "similarities": {
+        "ContextObjective": 0.45541149377822876,
+        "BenefitsAssistance": 0.4486888647079468,
+        "Eligibility": 0.474856972694397,
+        "ApplicationProcess": 0.4301009774208069,
+        "TimelineFrequency": 0.3642863631248474,
+        "AuthoritiesGovernance": 0.42749351263046265,
+        "DefinitionsReferences": 0.368694007396698
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also aims to uplift and empower widows.",
+      "role": "ContextObjective",
+      "confidence": 0.5157996416091919,
+      "similarities": {
+        "ContextObjective": 0.5157996416091919,
+        "BenefitsAssistance": 0.48367542028427124,
+        "Eligibility": 0.4493868350982666,
+        "ApplicationProcess": 0.3872983157634735,
+        "TimelineFrequency": 0.38692542910575867,
+        "AuthoritiesGovernance": 0.3826693296432495,
+        "DefinitionsReferences": 0.337348997592926
+      }
+    },
+    {
+      "sentence": "The commitment of the Kerala government to this cause is commendable and sets a precedent for future welfare initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.44553661346435547,
+      "similarities": {
+        "ContextObjective": 0.44553661346435547,
+        "BenefitsAssistance": 0.3520049452781677,
+        "Eligibility": 0.3855694830417633,
+        "ApplicationProcess": 0.3297906517982483,
+        "TimelineFrequency": 0.3046904504299164,
+        "AuthoritiesGovernance": 0.3519132137298584,
+        "DefinitionsReferences": 0.3565079867839813
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "BenefitsAssistance": 11,
+    "Eligibility": 13,
+    "AuthoritiesGovernance": 2,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 2
+  },
+  "processing_timestamp": "2025-09-24T21:05:13.799170"
+}

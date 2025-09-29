@@ -1,0 +1,897 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Energy Efficiency",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Incentive Scheme for Micro Small and Medium Enterprises in the Powerloom Sector was launched by the Government of India in 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.5127471685409546,
+      "similarities": {
+        "ContextObjective": 0.5127471685409546,
+        "BenefitsAssistance": 0.4425085783004761,
+        "Eligibility": 0.4921927750110626,
+        "ApplicationProcess": 0.44214391708374023,
+        "TimelineFrequency": 0.44520172476768494,
+        "AuthoritiesGovernance": 0.4599262773990631,
+        "DefinitionsReferences": 0.394427627325058
+      }
+    },
+    {
+      "sentence": "This scheme aims to promote energy efficiency in the powerloom sector which is a significant contributor to the textile industry in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4572024941444397,
+      "similarities": {
+        "ContextObjective": 0.4572024941444397,
+        "BenefitsAssistance": 0.3586413264274597,
+        "Eligibility": 0.38881129026412964,
+        "ApplicationProcess": 0.36633941531181335,
+        "TimelineFrequency": 0.35587260127067566,
+        "AuthoritiesGovernance": 0.3556423783302307,
+        "DefinitionsReferences": 0.32792264223098755
+      }
+    },
+    {
+      "sentence": "The powerloom sector is one of the largest segments of the textile industry and plays a crucial role in employment generation.",
+      "role": "Eligibility",
+      "confidence": 0.42449355125427246,
+      "similarities": {
+        "ContextObjective": 0.41668209433555603,
+        "BenefitsAssistance": 0.385463684797287,
+        "Eligibility": 0.42449355125427246,
+        "ApplicationProcess": 0.3845633268356323,
+        "TimelineFrequency": 0.4002654254436493,
+        "AuthoritiesGovernance": 0.3894152045249939,
+        "DefinitionsReferences": 0.3897315263748169
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance to MSMEs in the powerloom sector for adopting energy-efficient technologies.",
+      "role": "ContextObjective",
+      "confidence": 0.5095023512840271,
+      "similarities": {
+        "ContextObjective": 0.5095023512840271,
+        "BenefitsAssistance": 0.4599570631980896,
+        "Eligibility": 0.47153687477111816,
+        "ApplicationProcess": 0.45510172843933105,
+        "TimelineFrequency": 0.42481088638305664,
+        "AuthoritiesGovernance": 0.4144132435321808,
+        "DefinitionsReferences": 0.36328524351119995
+      }
+    },
+    {
+      "sentence": "The government aims to reduce energy consumption in the powerloom sector by promoting the use of energy-efficient machinery and equipment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.40172722935676575,
+      "similarities": {
+        "ContextObjective": 0.4008967876434326,
+        "BenefitsAssistance": 0.34995409846305847,
+        "Eligibility": 0.36471083760261536,
+        "ApplicationProcess": 0.37683749198913574,
+        "TimelineFrequency": 0.36501607298851013,
+        "AuthoritiesGovernance": 0.40172722935676575,
+        "DefinitionsReferences": 0.36832308769226074
+      }
+    },
+    {
+      "sentence": "The specific target is to achieve a reduction in energy consumption by at least 20 percent in the powerloom units that adopt these technologies.",
+      "role": "Eligibility",
+      "confidence": 0.3845561742782593,
+      "similarities": {
+        "ContextObjective": 0.3680395781993866,
+        "BenefitsAssistance": 0.35766005516052246,
+        "Eligibility": 0.3845561742782593,
+        "ApplicationProcess": 0.3619835078716278,
+        "TimelineFrequency": 0.36994898319244385,
+        "AuthoritiesGovernance": 0.37353238463401794,
+        "DefinitionsReferences": 0.3218054175376892
+      }
+    },
+    {
+      "sentence": "The scheme provides a subsidy of up to 30 percent on the cost of energy-efficient machinery.",
+      "role": "ContextObjective",
+      "confidence": 0.3966805040836334,
+      "similarities": {
+        "ContextObjective": 0.3966805040836334,
+        "BenefitsAssistance": 0.3929745852947235,
+        "Eligibility": 0.3865330219268799,
+        "ApplicationProcess": 0.35006028413772583,
+        "TimelineFrequency": 0.3572884500026703,
+        "AuthoritiesGovernance": 0.32833030819892883,
+        "DefinitionsReferences": 0.3291834592819214
+      }
+    },
+    {
+      "sentence": "The maximum subsidy amount is capped at INR 15 lakh per unit.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.483892023563385,
+      "similarities": {
+        "ContextObjective": 0.36152002215385437,
+        "BenefitsAssistance": 0.483892023563385,
+        "Eligibility": 0.4347437620162964,
+        "ApplicationProcess": 0.34914255142211914,
+        "TimelineFrequency": 0.38053005933761597,
+        "AuthoritiesGovernance": 0.3289485275745392,
+        "DefinitionsReferences": 0.3453419804573059
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to all registered MSMEs operating in the powerloom sector.",
+      "role": "Eligibility",
+      "confidence": 0.4823456406593323,
+      "similarities": {
+        "ContextObjective": 0.4438687562942505,
+        "BenefitsAssistance": 0.4028790593147278,
+        "Eligibility": 0.4823456406593323,
+        "ApplicationProcess": 0.42155104875564575,
+        "TimelineFrequency": 0.4162823557853699,
+        "AuthoritiesGovernance": 0.42888200283050537,
+        "DefinitionsReferences": 0.40506941080093384
+      }
+    },
+    {
+      "sentence": "Eligible applicants must have a valid Udyog Aadhaar registration.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5807474255561829,
+      "similarities": {
+        "ContextObjective": 0.4572884738445282,
+        "BenefitsAssistance": 0.4284735321998596,
+        "Eligibility": 0.5776050090789795,
+        "ApplicationProcess": 0.5807474255561829,
+        "TimelineFrequency": 0.49655479192733765,
+        "AuthoritiesGovernance": 0.39722728729248047,
+        "DefinitionsReferences": 0.39954525232315063
+      }
+    },
+    {
+      "sentence": "The applicant must also be engaged in the manufacturing of powerloom fabrics.",
+      "role": "Eligibility",
+      "confidence": 0.5227808952331543,
+      "similarities": {
+        "ContextObjective": 0.4156795144081116,
+        "BenefitsAssistance": 0.4118863642215729,
+        "Eligibility": 0.5227808952331543,
+        "ApplicationProcess": 0.5087282657623291,
+        "TimelineFrequency": 0.4700859487056732,
+        "AuthoritiesGovernance": 0.39414817094802856,
+        "DefinitionsReferences": 0.38953346014022827
+      }
+    },
+    {
+      "sentence": "The scheme is open to both new and existing powerloom units.",
+      "role": "Eligibility",
+      "confidence": 0.5072839260101318,
+      "similarities": {
+        "ContextObjective": 0.48471134901046753,
+        "BenefitsAssistance": 0.45617347955703735,
+        "Eligibility": 0.5072839260101318,
+        "ApplicationProcess": 0.4585414230823517,
+        "TimelineFrequency": 0.4482816457748413,
+        "AuthoritiesGovernance": 0.41101717948913574,
+        "DefinitionsReferences": 0.38068366050720215
+      }
+    },
+    {
+      "sentence": "To qualify for the subsidy, the machinery must be certified as energy-efficient by the Bureau of Energy Efficiency.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4902380704879761,
+      "similarities": {
+        "ContextObjective": 0.3745613694190979,
+        "BenefitsAssistance": 0.3823472857475281,
+        "Eligibility": 0.47336339950561523,
+        "ApplicationProcess": 0.4902380704879761,
+        "TimelineFrequency": 0.4244661033153534,
+        "AuthoritiesGovernance": 0.3415182828903198,
+        "DefinitionsReferences": 0.3531097173690796
+      }
+    },
+    {
+      "sentence": "The application process involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7814483642578125,
+      "similarities": {
+        "ContextObjective": 0.5850433707237244,
+        "BenefitsAssistance": 0.5570006370544434,
+        "Eligibility": 0.655730128288269,
+        "ApplicationProcess": 0.7814483642578125,
+        "TimelineFrequency": 0.6901986002922058,
+        "AuthoritiesGovernance": 0.5501036643981934,
+        "DefinitionsReferences": 0.5526537895202637
+      }
+    },
+    {
+      "sentence": "First, the applicant must fill out the application form available on the official website of the Ministry of Textiles.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6665143966674805,
+      "similarities": {
+        "ContextObjective": 0.45668166875839233,
+        "BenefitsAssistance": 0.41102391481399536,
+        "Eligibility": 0.527988851070404,
+        "ApplicationProcess": 0.6665143966674805,
+        "TimelineFrequency": 0.4951736330986023,
+        "AuthoritiesGovernance": 0.43310922384262085,
+        "DefinitionsReferences": 0.4008304476737976
+      }
+    },
+    {
+      "sentence": "Next, the applicant must submit the required documents including Udyog Aadhaar registration, a copy of the electricity bill, and a quotation for the energy-efficient machinery.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6040603518486023,
+      "similarities": {
+        "ContextObjective": 0.427907258272171,
+        "BenefitsAssistance": 0.4781303107738495,
+        "Eligibility": 0.48578977584838867,
+        "ApplicationProcess": 0.6040603518486023,
+        "TimelineFrequency": 0.4934162497520447,
+        "AuthoritiesGovernance": 0.3902113437652588,
+        "DefinitionsReferences": 0.4607040286064148
+      }
+    },
+    {
+      "sentence": "The applicant must also provide a detailed project report outlining the expected energy savings and the impact on production.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5169386863708496,
+      "similarities": {
+        "ContextObjective": 0.41956180334091187,
+        "BenefitsAssistance": 0.4542529881000519,
+        "Eligibility": 0.46444612741470337,
+        "ApplicationProcess": 0.5169386863708496,
+        "TimelineFrequency": 0.45531195402145386,
+        "AuthoritiesGovernance": 0.35002437233924866,
+        "DefinitionsReferences": 0.3749832510948181
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the designated authority in the Ministry of Textiles.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5726042985916138,
+      "similarities": {
+        "ContextObjective": 0.43982353806495667,
+        "BenefitsAssistance": 0.3858017325401306,
+        "Eligibility": 0.5157283544540405,
+        "ApplicationProcess": 0.5726042985916138,
+        "TimelineFrequency": 0.478910356760025,
+        "AuthoritiesGovernance": 0.4680916666984558,
+        "DefinitionsReferences": 0.4183485805988312
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5619117617607117,
+      "similarities": {
+        "ContextObjective": 0.4352940320968628,
+        "BenefitsAssistance": 0.4509149491786957,
+        "Eligibility": 0.47341489791870117,
+        "ApplicationProcess": 0.5501819849014282,
+        "TimelineFrequency": 0.5619117617607117,
+        "AuthoritiesGovernance": 0.46758198738098145,
+        "DefinitionsReferences": 0.4665638506412506
+      }
+    },
+    {
+      "sentence": "Once approved, the subsidy amount will be disbursed directly to the applicant's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5005637407302856,
+      "similarities": {
+        "ContextObjective": 0.3592689037322998,
+        "BenefitsAssistance": 0.5005637407302856,
+        "Eligibility": 0.47611838579177856,
+        "ApplicationProcess": 0.48326051235198975,
+        "TimelineFrequency": 0.42117422819137573,
+        "AuthoritiesGovernance": 0.37955909967422485,
+        "DefinitionsReferences": 0.3183968961238861
+      }
+    },
+    {
+      "sentence": "The disbursement is usually made within 15 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5507842302322388,
+      "similarities": {
+        "ContextObjective": 0.42098289728164673,
+        "BenefitsAssistance": 0.5507842302322388,
+        "Eligibility": 0.4774976968765259,
+        "ApplicationProcess": 0.46584266424179077,
+        "TimelineFrequency": 0.5225216150283813,
+        "AuthoritiesGovernance": 0.43118005990982056,
+        "DefinitionsReferences": 0.40375038981437683
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Textiles in collaboration with the Bureau of Energy Efficiency.",
+      "role": "ContextObjective",
+      "confidence": 0.4554513692855835,
+      "similarities": {
+        "ContextObjective": 0.4554513692855835,
+        "BenefitsAssistance": 0.3976259231567383,
+        "Eligibility": 0.40013039112091064,
+        "ApplicationProcess": 0.41863328218460083,
+        "TimelineFrequency": 0.37750357389450073,
+        "AuthoritiesGovernance": 0.4420761168003082,
+        "DefinitionsReferences": 0.3477901816368103
+      }
+    },
+    {
+      "sentence": "The Ministry of Textiles is responsible for the overall administration and monitoring of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5456522703170776,
+      "similarities": {
+        "ContextObjective": 0.49679216742515564,
+        "BenefitsAssistance": 0.47256264090538025,
+        "Eligibility": 0.46928462386131287,
+        "ApplicationProcess": 0.49628880620002747,
+        "TimelineFrequency": 0.448516845703125,
+        "AuthoritiesGovernance": 0.5456522703170776,
+        "DefinitionsReferences": 0.4177723526954651
+      }
+    },
+    {
+      "sentence": "The Bureau of Energy Efficiency plays a critical role in evaluating the energy efficiency of the machinery.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4373111128807068,
+      "similarities": {
+        "ContextObjective": 0.3982373774051666,
+        "BenefitsAssistance": 0.39810484647750854,
+        "Eligibility": 0.40749818086624146,
+        "ApplicationProcess": 0.4373111128807068,
+        "TimelineFrequency": 0.40741127729415894,
+        "AuthoritiesGovernance": 0.40822166204452515,
+        "DefinitionsReferences": 0.3867129683494568
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger initiative to promote sustainable practices in the textile industry.",
+      "role": "ContextObjective",
+      "confidence": 0.5035896301269531,
+      "similarities": {
+        "ContextObjective": 0.5035896301269531,
+        "BenefitsAssistance": 0.39209574460983276,
+        "Eligibility": 0.40563130378723145,
+        "ApplicationProcess": 0.41188502311706543,
+        "TimelineFrequency": 0.3765237331390381,
+        "AuthoritiesGovernance": 0.3984677791595459,
+        "DefinitionsReferences": 0.3790014982223511
+      }
+    },
+    {
+      "sentence": "The powerloom sector employs over 4.5 million people across India.",
+      "role": "Eligibility",
+      "confidence": 0.3760192394256592,
+      "similarities": {
+        "ContextObjective": 0.34047484397888184,
+        "BenefitsAssistance": 0.3572154641151428,
+        "Eligibility": 0.3760192394256592,
+        "ApplicationProcess": 0.3271029591560364,
+        "TimelineFrequency": 0.3136211037635803,
+        "AuthoritiesGovernance": 0.36591729521751404,
+        "DefinitionsReferences": 0.3356103301048279
+      }
+    },
+    {
+      "sentence": "It contributes significantly to the country's GDP and export earnings.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4489177465438843,
+      "similarities": {
+        "ContextObjective": 0.39875125885009766,
+        "BenefitsAssistance": 0.4489177465438843,
+        "Eligibility": 0.37962228059768677,
+        "ApplicationProcess": 0.3537147343158722,
+        "TimelineFrequency": 0.31737321615219116,
+        "AuthoritiesGovernance": 0.3430797755718231,
+        "DefinitionsReferences": 0.37504521012306213
+      }
+    },
+    {
+      "sentence": "The government has recognized the need for modernization in this sector to remain competitive globally.",
+      "role": "ApplicationProcess",
+      "confidence": 0.47819191217422485,
+      "similarities": {
+        "ContextObjective": 0.4400116503238678,
+        "BenefitsAssistance": 0.4145250916481018,
+        "Eligibility": 0.4694986641407013,
+        "ApplicationProcess": 0.47819191217422485,
+        "TimelineFrequency": 0.40786629915237427,
+        "AuthoritiesGovernance": 0.45013558864593506,
+        "DefinitionsReferences": 0.4043327569961548
+      }
+    },
+    {
+      "sentence": "Energy efficiency is a key area where improvements can lead to substantial cost savings for MSMEs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4164522886276245,
+      "similarities": {
+        "ContextObjective": 0.39434510469436646,
+        "BenefitsAssistance": 0.4164522886276245,
+        "Eligibility": 0.36509546637535095,
+        "ApplicationProcess": 0.38717415928840637,
+        "TimelineFrequency": 0.3983534574508667,
+        "AuthoritiesGovernance": 0.3624202311038971,
+        "DefinitionsReferences": 0.38075995445251465
+      }
+    },
+    {
+      "sentence": "The scheme encourages powerloom units to invest in modern technology that reduces energy consumption.",
+      "role": "ContextObjective",
+      "confidence": 0.38045239448547363,
+      "similarities": {
+        "ContextObjective": 0.38045239448547363,
+        "BenefitsAssistance": 0.3675117492675781,
+        "Eligibility": 0.36365097761154175,
+        "ApplicationProcess": 0.37032029032707214,
+        "TimelineFrequency": 0.3465208113193512,
+        "AuthoritiesGovernance": 0.3096795678138733,
+        "DefinitionsReferences": 0.3040771484375
+      }
+    },
+    {
+      "sentence": "This not only helps in lowering operational costs but also contributes to environmental sustainability.",
+      "role": "ContextObjective",
+      "confidence": 0.4149819612503052,
+      "similarities": {
+        "ContextObjective": 0.4149819612503052,
+        "BenefitsAssistance": 0.4095217287540436,
+        "Eligibility": 0.3652656078338623,
+        "ApplicationProcess": 0.39340007305145264,
+        "TimelineFrequency": 0.3720071613788605,
+        "AuthoritiesGovernance": 0.3503333330154419,
+        "DefinitionsReferences": 0.3686038851737976
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit around 10,000 powerloom units across the country.",
+      "role": "Eligibility",
+      "confidence": 0.45509350299835205,
+      "similarities": {
+        "ContextObjective": 0.43154972791671753,
+        "BenefitsAssistance": 0.41235587000846863,
+        "Eligibility": 0.45509350299835205,
+        "ApplicationProcess": 0.3586152195930481,
+        "TimelineFrequency": 0.36830365657806396,
+        "AuthoritiesGovernance": 0.3766602873802185,
+        "DefinitionsReferences": 0.34282660484313965
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 200 crore for the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4672648310661316,
+      "similarities": {
+        "ContextObjective": 0.4672648310661316,
+        "BenefitsAssistance": 0.4516245424747467,
+        "Eligibility": 0.45961472392082214,
+        "ApplicationProcess": 0.4218951165676117,
+        "TimelineFrequency": 0.3924291133880615,
+        "AuthoritiesGovernance": 0.4614109694957733,
+        "DefinitionsReferences": 0.37510624527931213
+      }
+    },
+    {
+      "sentence": "The scheme is expected to run for a period of five years from its launch date in 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.5896474719047546,
+      "similarities": {
+        "ContextObjective": 0.5896474719047546,
+        "BenefitsAssistance": 0.4869869351387024,
+        "Eligibility": 0.5077821612358093,
+        "ApplicationProcess": 0.48594343662261963,
+        "TimelineFrequency": 0.5274510979652405,
+        "AuthoritiesGovernance": 0.40962180495262146,
+        "DefinitionsReferences": 0.3971390128135681
+      }
+    },
+    {
+      "sentence": "The government is actively promoting awareness about this scheme through workshops and seminars.",
+      "role": "ContextObjective",
+      "confidence": 0.48864084482192993,
+      "similarities": {
+        "ContextObjective": 0.48864084482192993,
+        "BenefitsAssistance": 0.4248966574668884,
+        "Eligibility": 0.41794681549072266,
+        "ApplicationProcess": 0.4226212501525879,
+        "TimelineFrequency": 0.37861716747283936,
+        "AuthoritiesGovernance": 0.48851478099823,
+        "DefinitionsReferences": 0.4198535084724426
+      }
+    },
+    {
+      "sentence": "These initiatives aim to educate MSMEs about the benefits of energy efficiency and the application process.",
+      "role": "ContextObjective",
+      "confidence": 0.507861852645874,
+      "similarities": {
+        "ContextObjective": 0.507861852645874,
+        "BenefitsAssistance": 0.41841524839401245,
+        "Eligibility": 0.46865057945251465,
+        "ApplicationProcess": 0.48712360858917236,
+        "TimelineFrequency": 0.47491711378097534,
+        "AuthoritiesGovernance": 0.4478863775730133,
+        "DefinitionsReferences": 0.39912673830986023
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the government's broader vision of promoting Make in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5512831211090088,
+      "similarities": {
+        "ContextObjective": 0.5512831211090088,
+        "BenefitsAssistance": 0.36121946573257446,
+        "Eligibility": 0.4156563878059387,
+        "ApplicationProcess": 0.39139628410339355,
+        "TimelineFrequency": 0.34128206968307495,
+        "AuthoritiesGovernance": 0.39278751611709595,
+        "DefinitionsReferences": 0.36352190375328064
+      }
+    },
+    {
+      "sentence": "It aims to enhance the competitiveness of Indian textiles in the global market.",
+      "role": "ContextObjective",
+      "confidence": 0.4642954468727112,
+      "similarities": {
+        "ContextObjective": 0.4642954468727112,
+        "BenefitsAssistance": 0.332014799118042,
+        "Eligibility": 0.4024527072906494,
+        "ApplicationProcess": 0.3846816420555115,
+        "TimelineFrequency": 0.3475795090198517,
+        "AuthoritiesGovernance": 0.35843533277511597,
+        "DefinitionsReferences": 0.34551292657852173
+      }
+    },
+    {
+      "sentence": "The implementation of energy-efficient technologies is expected to lead to a reduction in carbon emissions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4203367829322815,
+      "similarities": {
+        "ContextObjective": 0.41276246309280396,
+        "BenefitsAssistance": 0.3697924315929413,
+        "Eligibility": 0.3971242904663086,
+        "ApplicationProcess": 0.4074133336544037,
+        "TimelineFrequency": 0.390247642993927,
+        "AuthoritiesGovernance": 0.4203367829322815,
+        "DefinitionsReferences": 0.3617033362388611
+      }
+    },
+    {
+      "sentence": "This aligns with India's commitment to the Paris Agreement on climate change.",
+      "role": "Eligibility",
+      "confidence": 0.37484210729599,
+      "similarities": {
+        "ContextObjective": 0.3634897470474243,
+        "BenefitsAssistance": 0.33703821897506714,
+        "Eligibility": 0.37484210729599,
+        "ApplicationProcess": 0.36738070845603943,
+        "TimelineFrequency": 0.3279041051864624,
+        "AuthoritiesGovernance": 0.3225780129432678,
+        "DefinitionsReferences": 0.3731086850166321
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to create a ripple effect in the supply chain of the textile industry.",
+      "role": "ContextObjective",
+      "confidence": 0.44216781854629517,
+      "similarities": {
+        "ContextObjective": 0.44216781854629517,
+        "BenefitsAssistance": 0.36120539903640747,
+        "Eligibility": 0.39780449867248535,
+        "ApplicationProcess": 0.3396543264389038,
+        "TimelineFrequency": 0.3690977990627289,
+        "AuthoritiesGovernance": 0.3424084186553955,
+        "DefinitionsReferences": 0.3452192544937134
+      }
+    },
+    {
+      "sentence": "By promoting energy efficiency, the scheme encourages sustainable practices among suppliers and manufacturers.",
+      "role": "ContextObjective",
+      "confidence": 0.4810203015804291,
+      "similarities": {
+        "ContextObjective": 0.4810203015804291,
+        "BenefitsAssistance": 0.3726990520954132,
+        "Eligibility": 0.40704095363616943,
+        "ApplicationProcess": 0.39637261629104614,
+        "TimelineFrequency": 0.3774556517601013,
+        "AuthoritiesGovernance": 0.3954108953475952,
+        "DefinitionsReferences": 0.3538171648979187
+      }
+    },
+    {
+      "sentence": "The government is also working on additional incentives for MSMEs that adopt green technologies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47595685720443726,
+      "similarities": {
+        "ContextObjective": 0.4502716064453125,
+        "BenefitsAssistance": 0.44663017988204956,
+        "Eligibility": 0.4689143896102905,
+        "ApplicationProcess": 0.45939522981643677,
+        "TimelineFrequency": 0.42225182056427,
+        "AuthoritiesGovernance": 0.47595685720443726,
+        "DefinitionsReferences": 0.4281551241874695
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from industry stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5468228459358215,
+      "similarities": {
+        "ContextObjective": 0.5468228459358215,
+        "BenefitsAssistance": 0.443767249584198,
+        "Eligibility": 0.46847283840179443,
+        "ApplicationProcess": 0.43989500403404236,
+        "TimelineFrequency": 0.3964868187904358,
+        "AuthoritiesGovernance": 0.4304560720920563,
+        "DefinitionsReferences": 0.409140408039093
+      }
+    },
+    {
+      "sentence": "Many MSME owners have expressed their interest in upgrading their machinery.",
+      "role": "ContextObjective",
+      "confidence": 0.4590432047843933,
+      "similarities": {
+        "ContextObjective": 0.4590432047843933,
+        "BenefitsAssistance": 0.426212877035141,
+        "Eligibility": 0.44754859805107117,
+        "ApplicationProcess": 0.44852542877197266,
+        "TimelineFrequency": 0.4349922835826874,
+        "AuthoritiesGovernance": 0.40238064527511597,
+        "DefinitionsReferences": 0.40042614936828613
+      }
+    },
+    {
+      "sentence": "The government has set up a dedicated helpline for queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.520784318447113,
+      "similarities": {
+        "ContextObjective": 0.520784318447113,
+        "BenefitsAssistance": 0.502573549747467,
+        "Eligibility": 0.5170714259147644,
+        "ApplicationProcess": 0.5035505294799805,
+        "TimelineFrequency": 0.4302481412887573,
+        "AuthoritiesGovernance": 0.4890681207180023,
+        "DefinitionsReferences": 0.4263377785682678
+      }
+    },
+    {
+      "sentence": "This helpline provides assistance to applicants throughout the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.63444983959198,
+      "similarities": {
+        "ContextObjective": 0.5087584853172302,
+        "BenefitsAssistance": 0.5388784408569336,
+        "Eligibility": 0.5874844193458557,
+        "ApplicationProcess": 0.63444983959198,
+        "TimelineFrequency": 0.6088265180587769,
+        "AuthoritiesGovernance": 0.4977593719959259,
+        "DefinitionsReferences": 0.48060598969459534
+      }
+    },
+    {
+      "sentence": "The Ministry of Textiles regularly reviews the progress of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4763467311859131,
+      "similarities": {
+        "ContextObjective": 0.47162193059921265,
+        "BenefitsAssistance": 0.43504464626312256,
+        "Eligibility": 0.41458699107170105,
+        "ApplicationProcess": 0.4763467311859131,
+        "TimelineFrequency": 0.4402802288532257,
+        "AuthoritiesGovernance": 0.4332732558250427,
+        "DefinitionsReferences": 0.4143737256526947
+      }
+    },
+    {
+      "sentence": "It aims to ensure that the benefits reach the intended beneficiaries in a timely manner.",
+      "role": "Eligibility",
+      "confidence": 0.5513577461242676,
+      "similarities": {
+        "ContextObjective": 0.5440977811813354,
+        "BenefitsAssistance": 0.519118070602417,
+        "Eligibility": 0.5513577461242676,
+        "ApplicationProcess": 0.4865579307079315,
+        "TimelineFrequency": 0.5168684124946594,
+        "AuthoritiesGovernance": 0.4923447370529175,
+        "DefinitionsReferences": 0.40731459856033325
+      }
+    },
+    {
+      "sentence": "The scheme is part of the government's broader strategy to enhance the overall productivity of the textile sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5067046880722046,
+      "similarities": {
+        "ContextObjective": 0.5067046880722046,
+        "BenefitsAssistance": 0.41420114040374756,
+        "Eligibility": 0.39040517807006836,
+        "ApplicationProcess": 0.39487382769584656,
+        "TimelineFrequency": 0.3941234350204468,
+        "AuthoritiesGovernance": 0.4184458255767822,
+        "DefinitionsReferences": 0.38561221957206726
+      }
+    },
+    {
+      "sentence": "The powerloom sector has been facing challenges due to rising energy costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4756803512573242,
+      "similarities": {
+        "ContextObjective": 0.40943288803100586,
+        "BenefitsAssistance": 0.4756803512573242,
+        "Eligibility": 0.42423415184020996,
+        "ApplicationProcess": 0.4115699529647827,
+        "TimelineFrequency": 0.4287659525871277,
+        "AuthoritiesGovernance": 0.3993054926395416,
+        "DefinitionsReferences": 0.3999269902706146
+      }
+    },
+    {
+      "sentence": "This scheme addresses these challenges by providing financial support for energy-efficient investments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5225834846496582,
+      "similarities": {
+        "ContextObjective": 0.4943191111087799,
+        "BenefitsAssistance": 0.5225834846496582,
+        "Eligibility": 0.45873722434043884,
+        "ApplicationProcess": 0.4120921492576599,
+        "TimelineFrequency": 0.3912120461463928,
+        "AuthoritiesGovernance": 0.38023093342781067,
+        "DefinitionsReferences": 0.34993791580200195
+      }
+    },
+    {
+      "sentence": "The government is committed to supporting the growth of MSMEs in the powerloom sector.",
+      "role": "Eligibility",
+      "confidence": 0.41256362199783325,
+      "similarities": {
+        "ContextObjective": 0.40761232376098633,
+        "BenefitsAssistance": 0.40384647250175476,
+        "Eligibility": 0.41256362199783325,
+        "ApplicationProcess": 0.39078959822654724,
+        "TimelineFrequency": 0.3656456172466278,
+        "AuthoritiesGovernance": 0.4030801057815552,
+        "DefinitionsReferences": 0.39650607109069824
+      }
+    },
+    {
+      "sentence": "This commitment is reflected in the various initiatives and schemes launched over the years.",
+      "role": "ContextObjective",
+      "confidence": 0.5419533252716064,
+      "similarities": {
+        "ContextObjective": 0.5419533252716064,
+        "BenefitsAssistance": 0.4417995512485504,
+        "Eligibility": 0.4526817500591278,
+        "ApplicationProcess": 0.45221567153930664,
+        "TimelineFrequency": 0.47700321674346924,
+        "AuthoritiesGovernance": 0.4353306293487549,
+        "DefinitionsReferences": 0.45798009634017944
+      }
+    },
+    {
+      "sentence": "The Incentive Scheme for MSMEs in the Powerloom Sector is a significant step towards achieving these goals.",
+      "role": "ContextObjective",
+      "confidence": 0.4808977544307709,
+      "similarities": {
+        "ContextObjective": 0.4808977544307709,
+        "BenefitsAssistance": 0.393452525138855,
+        "Eligibility": 0.4297577440738678,
+        "ApplicationProcess": 0.4031636714935303,
+        "TimelineFrequency": 0.3865703046321869,
+        "AuthoritiesGovernance": 0.41817206144332886,
+        "DefinitionsReferences": 0.3727889955043793
+      }
+    },
+    {
+      "sentence": "It not only supports economic growth but also promotes sustainable development.",
+      "role": "ContextObjective",
+      "confidence": 0.4579916000366211,
+      "similarities": {
+        "ContextObjective": 0.4579916000366211,
+        "BenefitsAssistance": 0.4213346242904663,
+        "Eligibility": 0.37355363368988037,
+        "ApplicationProcess": 0.3649858832359314,
+        "TimelineFrequency": 0.35774144530296326,
+        "AuthoritiesGovernance": 0.3482425808906555,
+        "DefinitionsReferences": 0.38923022150993347
+      }
+    },
+    {
+      "sentence": "The scheme is expected to play a vital role in transforming the powerloom sector into a more energy-efficient and competitive industry.",
+      "role": "ContextObjective",
+      "confidence": 0.4564726948738098,
+      "similarities": {
+        "ContextObjective": 0.4564726948738098,
+        "BenefitsAssistance": 0.3449355363845825,
+        "Eligibility": 0.38739490509033203,
+        "ApplicationProcess": 0.40592730045318604,
+        "TimelineFrequency": 0.36661267280578613,
+        "AuthoritiesGovernance": 0.3542815148830414,
+        "DefinitionsReferences": 0.33630165457725525
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the impact of the scheme on energy consumption and productivity.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4399709701538086,
+      "similarities": {
+        "ContextObjective": 0.41717714071273804,
+        "BenefitsAssistance": 0.4311884343624115,
+        "Eligibility": 0.3736576735973358,
+        "ApplicationProcess": 0.40609586238861084,
+        "TimelineFrequency": 0.3874596357345581,
+        "AuthoritiesGovernance": 0.4399709701538086,
+        "DefinitionsReferences": 0.40207231044769287
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the effectiveness of the subsidy program.",
+      "role": "Eligibility",
+      "confidence": 0.5081785321235657,
+      "similarities": {
+        "ContextObjective": 0.4713551998138428,
+        "BenefitsAssistance": 0.4822986125946045,
+        "Eligibility": 0.5081785321235657,
+        "ApplicationProcess": 0.491841584444046,
+        "TimelineFrequency": 0.4934502840042114,
+        "AuthoritiesGovernance": 0.46808093786239624,
+        "DefinitionsReferences": 0.43905341625213623
+      }
+    },
+    {
+      "sentence": "This ensures that the scheme remains relevant and beneficial to the stakeholders involved.",
+      "role": "ContextObjective",
+      "confidence": 0.5876597166061401,
+      "similarities": {
+        "ContextObjective": 0.5876597166061401,
+        "BenefitsAssistance": 0.4157944619655609,
+        "Eligibility": 0.5159819722175598,
+        "ApplicationProcess": 0.43487349152565,
+        "TimelineFrequency": 0.4158838093280792,
+        "AuthoritiesGovernance": 0.4710213541984558,
+        "DefinitionsReferences": 0.4290289282798767
+      }
+    },
+    {
+      "sentence": "The success of the scheme will be measured by the number of units adopting energy-efficient technologies.",
+      "role": "ContextObjective",
+      "confidence": 0.43758976459503174,
+      "similarities": {
+        "ContextObjective": 0.43758976459503174,
+        "BenefitsAssistance": 0.3831052780151367,
+        "Eligibility": 0.4000176787376404,
+        "ApplicationProcess": 0.412766695022583,
+        "TimelineFrequency": 0.3797212839126587,
+        "AuthoritiesGovernance": 0.41839003562927246,
+        "DefinitionsReferences": 0.36189785599708557
+      }
+    },
+    {
+      "sentence": "It will also be assessed based on the reduction in energy consumption across the sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.40243610739707947,
+      "similarities": {
+        "ContextObjective": 0.3854113221168518,
+        "BenefitsAssistance": 0.40243610739707947,
+        "Eligibility": 0.395550012588501,
+        "ApplicationProcess": 0.3828350901603699,
+        "TimelineFrequency": 0.40112388134002686,
+        "AuthoritiesGovernance": 0.38485944271087646,
+        "DefinitionsReferences": 0.3671501576900482
+      }
+    },
+    {
+      "sentence": "Overall, the Incentive Scheme for MSMEs in the Powerloom Sector is a comprehensive initiative aimed at fostering growth and sustainability.",
+      "role": "ContextObjective",
+      "confidence": 0.5007458925247192,
+      "similarities": {
+        "ContextObjective": 0.5007458925247192,
+        "BenefitsAssistance": 0.42935144901275635,
+        "Eligibility": 0.4372192323207855,
+        "ApplicationProcess": 0.4219942092895508,
+        "TimelineFrequency": 0.4244827926158905,
+        "AuthoritiesGovernance": 0.42481502890586853,
+        "DefinitionsReferences": 0.37790223956108093
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 27,
+    "Eligibility": 11,
+    "AuthoritiesGovernance": 5,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 11,
+    "TimelineFrequency": 1
+  },
+  "processing_timestamp": "2025-09-25T20:30:41.028244"
+}

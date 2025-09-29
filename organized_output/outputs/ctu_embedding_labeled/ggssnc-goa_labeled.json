@@ -1,0 +1,883 @@
+{
+  "scheme_name": "Government of Goa State Scholarship to NDA Cadets",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Government of Goa State Scholarship to NDA Cadets is a welfare scheme designed to support students from Goa who are pursuing their education at the National Defence Academy (NDA) in Khadakwasla, Pune.",
+      "role": "ContextObjective",
+      "confidence": 0.49112844467163086,
+      "similarities": {
+        "ContextObjective": 0.49112844467163086,
+        "BenefitsAssistance": 0.414672315120697,
+        "Eligibility": 0.4552147090435028,
+        "ApplicationProcess": 0.44245588779449463,
+        "TimelineFrequency": 0.42800045013427734,
+        "AuthoritiesGovernance": 0.4193583130836487,
+        "DefinitionsReferences": 0.3901642858982086
+      }
+    },
+    {
+      "sentence": "This scholarship was initiated to encourage and facilitate the youth of Goa to join the Indian Armed Forces.",
+      "role": "ContextObjective",
+      "confidence": 0.45790717005729675,
+      "similarities": {
+        "ContextObjective": 0.45790717005729675,
+        "BenefitsAssistance": 0.3198586702346802,
+        "Eligibility": 0.3740151822566986,
+        "ApplicationProcess": 0.3706359565258026,
+        "TimelineFrequency": 0.33507198095321655,
+        "AuthoritiesGovernance": 0.2702034115791321,
+        "DefinitionsReferences": 0.29767554998397827
+      }
+    },
+    {
+      "sentence": "The scheme was formally launched in the year 2014.",
+      "role": "ContextObjective",
+      "confidence": 0.6172524690628052,
+      "similarities": {
+        "ContextObjective": 0.6172524690628052,
+        "BenefitsAssistance": 0.449730783700943,
+        "Eligibility": 0.4747498631477356,
+        "ApplicationProcess": 0.48572659492492676,
+        "TimelineFrequency": 0.45459529757499695,
+        "AuthoritiesGovernance": 0.4127856194972992,
+        "DefinitionsReferences": 0.3752058744430542
+      }
+    },
+    {
+      "sentence": "The primary objective of this scholarship is to provide financial assistance to deserving students who are selected for admission to the NDA.",
+      "role": "Eligibility",
+      "confidence": 0.5385087728500366,
+      "similarities": {
+        "ContextObjective": 0.5343160629272461,
+        "BenefitsAssistance": 0.47978824377059937,
+        "Eligibility": 0.5385087728500366,
+        "ApplicationProcess": 0.49384164810180664,
+        "TimelineFrequency": 0.46788710355758667,
+        "AuthoritiesGovernance": 0.3685629963874817,
+        "DefinitionsReferences": 0.3833441734313965
+      }
+    },
+    {
+      "sentence": "The scholarship aims to alleviate the financial burden on families of cadets who may find it challenging to support their children’s education at the NDA.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44186949729919434,
+      "similarities": {
+        "ContextObjective": 0.42380431294441223,
+        "BenefitsAssistance": 0.44186949729919434,
+        "Eligibility": 0.4393629729747772,
+        "ApplicationProcess": 0.38492119312286377,
+        "TimelineFrequency": 0.3775041997432709,
+        "AuthoritiesGovernance": 0.3192301392555237,
+        "DefinitionsReferences": 0.3049575388431549
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students who have completed their 10+2 education and have secured admission to the NDA.",
+      "role": "ContextObjective",
+      "confidence": 0.5103358030319214,
+      "similarities": {
+        "ContextObjective": 0.5103358030319214,
+        "BenefitsAssistance": 0.39223790168762207,
+        "Eligibility": 0.509896457195282,
+        "ApplicationProcess": 0.4709388017654419,
+        "TimelineFrequency": 0.4423871636390686,
+        "AuthoritiesGovernance": 0.3285093903541565,
+        "DefinitionsReferences": 0.34649986028671265
+      }
+    },
+    {
+      "sentence": "The scholarship provides a monthly financial assistance of ₹5,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5264516472816467,
+      "similarities": {
+        "ContextObjective": 0.4436810612678528,
+        "BenefitsAssistance": 0.5264516472816467,
+        "Eligibility": 0.4617964029312134,
+        "ApplicationProcess": 0.43527740240097046,
+        "TimelineFrequency": 0.4358522891998291,
+        "AuthoritiesGovernance": 0.3444439470767975,
+        "DefinitionsReferences": 0.361141562461853
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover various educational expenses incurred by the cadets during their training at the NDA.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5337289571762085,
+      "similarities": {
+        "ContextObjective": 0.45140519738197327,
+        "BenefitsAssistance": 0.5337289571762085,
+        "Eligibility": 0.42503517866134644,
+        "ApplicationProcess": 0.41876477003097534,
+        "TimelineFrequency": 0.44728749990463257,
+        "AuthoritiesGovernance": 0.3934391140937805,
+        "DefinitionsReferences": 0.432780921459198
+      }
+    },
+    {
+      "sentence": "The scholarship is awarded for the duration of the cadet's training, which typically lasts for three years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.47688519954681396,
+      "similarities": {
+        "ContextObjective": 0.45176076889038086,
+        "BenefitsAssistance": 0.3704812526702881,
+        "Eligibility": 0.4094908535480499,
+        "ApplicationProcess": 0.4012107253074646,
+        "TimelineFrequency": 0.47688519954681396,
+        "AuthoritiesGovernance": 0.3393957316875458,
+        "DefinitionsReferences": 0.37482696771621704
+      }
+    },
+    {
+      "sentence": "To be eligible for this scholarship, applicants must be residents of Goa.",
+      "role": "Eligibility",
+      "confidence": 0.5783088207244873,
+      "similarities": {
+        "ContextObjective": 0.4543505907058716,
+        "BenefitsAssistance": 0.3815236985683441,
+        "Eligibility": 0.5783088207244873,
+        "ApplicationProcess": 0.5213299989700317,
+        "TimelineFrequency": 0.4434618651866913,
+        "AuthoritiesGovernance": 0.35881924629211426,
+        "DefinitionsReferences": 0.35679155588150024
+      }
+    },
+    {
+      "sentence": "Applicants must have secured admission to the NDA through the UPSC examination.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5553053617477417,
+      "similarities": {
+        "ContextObjective": 0.4669593274593353,
+        "BenefitsAssistance": 0.3836561441421509,
+        "Eligibility": 0.5110001564025879,
+        "ApplicationProcess": 0.5553053617477417,
+        "TimelineFrequency": 0.4442490339279175,
+        "AuthoritiesGovernance": 0.3769206404685974,
+        "DefinitionsReferences": 0.3952872157096863
+      }
+    },
+    {
+      "sentence": "The scheme is open to both male and female candidates.",
+      "role": "Eligibility",
+      "confidence": 0.5733177661895752,
+      "similarities": {
+        "ContextObjective": 0.5394096374511719,
+        "BenefitsAssistance": 0.45987775921821594,
+        "Eligibility": 0.5733177661895752,
+        "ApplicationProcess": 0.511813223361969,
+        "TimelineFrequency": 0.5097149610519409,
+        "AuthoritiesGovernance": 0.42037272453308105,
+        "DefinitionsReferences": 0.3825685381889343
+      }
+    },
+    {
+      "sentence": "There is no specific age limit mentioned for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5882000923156738,
+      "similarities": {
+        "ContextObjective": 0.45451605319976807,
+        "BenefitsAssistance": 0.4675154685974121,
+        "Eligibility": 0.5882000923156738,
+        "ApplicationProcess": 0.4691614508628845,
+        "TimelineFrequency": 0.4834321141242981,
+        "AuthoritiesGovernance": 0.3748213052749634,
+        "DefinitionsReferences": 0.3784538209438324
+      }
+    },
+    {
+      "sentence": "However, candidates must meet the age criteria set by the NDA for admission.",
+      "role": "Eligibility",
+      "confidence": 0.5545849204063416,
+      "similarities": {
+        "ContextObjective": 0.43621593713760376,
+        "BenefitsAssistance": 0.3861905336380005,
+        "Eligibility": 0.5545849204063416,
+        "ApplicationProcess": 0.5321238040924072,
+        "TimelineFrequency": 0.47013452649116516,
+        "AuthoritiesGovernance": 0.3626001477241516,
+        "DefinitionsReferences": 0.39498966932296753
+      }
+    },
+    {
+      "sentence": "The income limit for applicants is set at ₹8 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.542824387550354,
+      "similarities": {
+        "ContextObjective": 0.43356984853744507,
+        "BenefitsAssistance": 0.44562992453575134,
+        "Eligibility": 0.542824387550354,
+        "ApplicationProcess": 0.46007442474365234,
+        "TimelineFrequency": 0.44818344712257385,
+        "AuthoritiesGovernance": 0.364951491355896,
+        "DefinitionsReferences": 0.3563849925994873
+      }
+    },
+    {
+      "sentence": "This income limit is applicable to the total family income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5461345314979553,
+      "similarities": {
+        "ContextObjective": 0.39785605669021606,
+        "BenefitsAssistance": 0.5461345314979553,
+        "Eligibility": 0.5381123423576355,
+        "ApplicationProcess": 0.4328395426273346,
+        "TimelineFrequency": 0.43742692470550537,
+        "AuthoritiesGovernance": 0.3819103240966797,
+        "DefinitionsReferences": 0.4035632610321045
+      }
+    },
+    {
+      "sentence": "Candidates must provide proof of income while applying for the scholarship.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6161903738975525,
+      "similarities": {
+        "ContextObjective": 0.4988532066345215,
+        "BenefitsAssistance": 0.5372452139854431,
+        "Eligibility": 0.5919545292854309,
+        "ApplicationProcess": 0.6161903738975525,
+        "TimelineFrequency": 0.5170198678970337,
+        "AuthoritiesGovernance": 0.36333534121513367,
+        "DefinitionsReferences": 0.43845900893211365
+      }
+    },
+    {
+      "sentence": "The application process for the Government of Goa State Scholarship to NDA Cadets involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6263169050216675,
+      "similarities": {
+        "ContextObjective": 0.5359194278717041,
+        "BenefitsAssistance": 0.45024585723876953,
+        "Eligibility": 0.5406700968742371,
+        "ApplicationProcess": 0.6263169050216675,
+        "TimelineFrequency": 0.5469983816146851,
+        "AuthoritiesGovernance": 0.4484536647796631,
+        "DefinitionsReferences": 0.4569242596626282
+      }
+    },
+    {
+      "sentence": "Interested candidates must first obtain the scholarship application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.662043571472168,
+      "similarities": {
+        "ContextObjective": 0.5272279977798462,
+        "BenefitsAssistance": 0.467122346162796,
+        "Eligibility": 0.5726832747459412,
+        "ApplicationProcess": 0.662043571472168,
+        "TimelineFrequency": 0.5408602952957153,
+        "AuthoritiesGovernance": 0.4036194384098053,
+        "DefinitionsReferences": 0.40474921464920044
+      }
+    },
+    {
+      "sentence": "The application form can be downloaded from the official website of the Directorate of Higher Education, Goa.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5761663317680359,
+      "similarities": {
+        "ContextObjective": 0.4403109550476074,
+        "BenefitsAssistance": 0.40960031747817993,
+        "Eligibility": 0.4908329248428345,
+        "ApplicationProcess": 0.5761663317680359,
+        "TimelineFrequency": 0.45397958159446716,
+        "AuthoritiesGovernance": 0.3793659806251526,
+        "DefinitionsReferences": 0.3987305164337158
+      }
+    },
+    {
+      "sentence": "Candidates must fill out the application form with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7075057029724121,
+      "similarities": {
+        "ContextObjective": 0.5114195942878723,
+        "BenefitsAssistance": 0.5101997256278992,
+        "Eligibility": 0.6010962724685669,
+        "ApplicationProcess": 0.7075057029724121,
+        "TimelineFrequency": 0.5819994211196899,
+        "AuthoritiesGovernance": 0.45282232761383057,
+        "DefinitionsReferences": 0.49451372027397156
+      }
+    },
+    {
+      "sentence": "Along with the application form, candidates must submit several required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7259296178817749,
+      "similarities": {
+        "ContextObjective": 0.5065855383872986,
+        "BenefitsAssistance": 0.5328084230422974,
+        "Eligibility": 0.6149934530258179,
+        "ApplicationProcess": 0.7259296178817749,
+        "TimelineFrequency": 0.6211357712745667,
+        "AuthoritiesGovernance": 0.4677235186100006,
+        "DefinitionsReferences": 0.5615506768226624
+      }
+    },
+    {
+      "sentence": "These documents include a copy of the admission letter from the NDA.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5279703140258789,
+      "similarities": {
+        "ContextObjective": 0.43045657873153687,
+        "BenefitsAssistance": 0.4755932688713074,
+        "Eligibility": 0.43722906708717346,
+        "ApplicationProcess": 0.5279703140258789,
+        "TimelineFrequency": 0.448091596364975,
+        "AuthoritiesGovernance": 0.37942543625831604,
+        "DefinitionsReferences": 0.4953794479370117
+      }
+    },
+    {
+      "sentence": "Candidates must also provide a copy of their 10+2 mark sheet.",
+      "role": "ApplicationProcess",
+      "confidence": 0.535345196723938,
+      "similarities": {
+        "ContextObjective": 0.42909571528434753,
+        "BenefitsAssistance": 0.4648618996143341,
+        "Eligibility": 0.5203942060470581,
+        "ApplicationProcess": 0.535345196723938,
+        "TimelineFrequency": 0.5046481490135193,
+        "AuthoritiesGovernance": 0.39054805040359497,
+        "DefinitionsReferences": 0.4972549378871918
+      }
+    },
+    {
+      "sentence": "Proof of residence in Goa is required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5956623554229736,
+      "similarities": {
+        "ContextObjective": 0.46840184926986694,
+        "BenefitsAssistance": 0.45888543128967285,
+        "Eligibility": 0.5434259176254272,
+        "ApplicationProcess": 0.5956623554229736,
+        "TimelineFrequency": 0.4536250829696655,
+        "AuthoritiesGovernance": 0.42730218172073364,
+        "DefinitionsReferences": 0.45244044065475464
+      }
+    },
+    {
+      "sentence": "A certificate indicating the family income must also be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5826956629753113,
+      "similarities": {
+        "ContextObjective": 0.42123520374298096,
+        "BenefitsAssistance": 0.556754469871521,
+        "Eligibility": 0.5327286720275879,
+        "ApplicationProcess": 0.5826956629753113,
+        "TimelineFrequency": 0.46623116731643677,
+        "AuthoritiesGovernance": 0.39145249128341675,
+        "DefinitionsReferences": 0.43331754207611084
+      }
+    },
+    {
+      "sentence": "Once the application form and documents are ready, candidates must submit them to the Directorate of Higher Education.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6097073554992676,
+      "similarities": {
+        "ContextObjective": 0.45224082469940186,
+        "BenefitsAssistance": 0.4198741912841797,
+        "Eligibility": 0.5092846155166626,
+        "ApplicationProcess": 0.6097073554992676,
+        "TimelineFrequency": 0.49908679723739624,
+        "AuthoritiesGovernance": 0.43710774183273315,
+        "DefinitionsReferences": 0.39238688349723816
+      }
+    },
+    {
+      "sentence": "The deadline for submitting the application is typically set at the beginning of the academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6543653011322021,
+      "similarities": {
+        "ContextObjective": 0.46697521209716797,
+        "BenefitsAssistance": 0.427446186542511,
+        "Eligibility": 0.5250355005264282,
+        "ApplicationProcess": 0.5633018016815186,
+        "TimelineFrequency": 0.6543653011322021,
+        "AuthoritiesGovernance": 0.403462290763855,
+        "DefinitionsReferences": 0.39349400997161865
+      }
+    },
+    {
+      "sentence": "Candidates are advised to check the official website for specific dates.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6429373025894165,
+      "similarities": {
+        "ContextObjective": 0.47784894704818726,
+        "BenefitsAssistance": 0.48133015632629395,
+        "Eligibility": 0.5720301866531372,
+        "ApplicationProcess": 0.5993459224700928,
+        "TimelineFrequency": 0.6429373025894165,
+        "AuthoritiesGovernance": 0.47535866498947144,
+        "DefinitionsReferences": 0.5090875625610352
+      }
+    },
+    {
+      "sentence": "The scholarship amount is disbursed on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5639236569404602,
+      "similarities": {
+        "ContextObjective": 0.48277050256729126,
+        "BenefitsAssistance": 0.5639236569404602,
+        "Eligibility": 0.5070786476135254,
+        "ApplicationProcess": 0.4749267101287842,
+        "TimelineFrequency": 0.5387241244316101,
+        "AuthoritiesGovernance": 0.42950552701950073,
+        "DefinitionsReferences": 0.4050312638282776
+      }
+    },
+    {
+      "sentence": "Disbursement usually begins after the verification of applications is completed.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6322007179260254,
+      "similarities": {
+        "ContextObjective": 0.48415204882621765,
+        "BenefitsAssistance": 0.562019407749176,
+        "Eligibility": 0.5382391214370728,
+        "ApplicationProcess": 0.6322007179260254,
+        "TimelineFrequency": 0.5571692585945129,
+        "AuthoritiesGovernance": 0.4587880074977875,
+        "DefinitionsReferences": 0.42536312341690063
+      }
+    },
+    {
+      "sentence": "The verification process may take several weeks.",
+      "role": "ApplicationProcess",
+      "confidence": 0.629938006401062,
+      "similarities": {
+        "ContextObjective": 0.4461643099784851,
+        "BenefitsAssistance": 0.5024344325065613,
+        "Eligibility": 0.5314684510231018,
+        "ApplicationProcess": 0.629938006401062,
+        "TimelineFrequency": 0.5666348934173584,
+        "AuthoritiesGovernance": 0.46558520197868347,
+        "DefinitionsReferences": 0.4820612668991089
+      }
+    },
+    {
+      "sentence": "The scholarship amount is credited directly to the bank account of the cadet.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4566655158996582,
+      "similarities": {
+        "ContextObjective": 0.39517632126808167,
+        "BenefitsAssistance": 0.4566655158996582,
+        "Eligibility": 0.41164904832839966,
+        "ApplicationProcess": 0.4174807667732239,
+        "TimelineFrequency": 0.4011189341545105,
+        "AuthoritiesGovernance": 0.31094446778297424,
+        "DefinitionsReferences": 0.33099085092544556
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scholarship scheme is the Directorate of Higher Education, Goa.",
+      "role": "ContextObjective",
+      "confidence": 0.48041659593582153,
+      "similarities": {
+        "ContextObjective": 0.48041659593582153,
+        "BenefitsAssistance": 0.3908235728740692,
+        "Eligibility": 0.4645498991012573,
+        "ApplicationProcess": 0.4106175899505615,
+        "TimelineFrequency": 0.3715251684188843,
+        "AuthoritiesGovernance": 0.47757893800735474,
+        "DefinitionsReferences": 0.3815918564796448
+      }
+    },
+    {
+      "sentence": "The Directorate is responsible for overseeing the application process and disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5963835716247559,
+      "similarities": {
+        "ContextObjective": 0.5182355642318726,
+        "BenefitsAssistance": 0.5575308799743652,
+        "Eligibility": 0.5811160802841187,
+        "ApplicationProcess": 0.5963835716247559,
+        "TimelineFrequency": 0.5411784648895264,
+        "AuthoritiesGovernance": 0.555050253868103,
+        "DefinitionsReferences": 0.440125048160553
+      }
+    },
+    {
+      "sentence": "For any queries related to the scholarship, candidates can contact the Directorate of Higher Education.",
+      "role": "Eligibility",
+      "confidence": 0.5250779986381531,
+      "similarities": {
+        "ContextObjective": 0.4984307885169983,
+        "BenefitsAssistance": 0.4657358229160309,
+        "Eligibility": 0.5250779986381531,
+        "ApplicationProcess": 0.5215110182762146,
+        "TimelineFrequency": 0.46519288420677185,
+        "AuthoritiesGovernance": 0.4462631642818451,
+        "DefinitionsReferences": 0.4107259213924408
+      }
+    },
+    {
+      "sentence": "The contact details for the Directorate are available on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5345999598503113,
+      "similarities": {
+        "ContextObjective": 0.4618927538394928,
+        "BenefitsAssistance": 0.4861210584640503,
+        "Eligibility": 0.4662741720676422,
+        "ApplicationProcess": 0.5164685249328613,
+        "TimelineFrequency": 0.43397825956344604,
+        "AuthoritiesGovernance": 0.5345999598503113,
+        "DefinitionsReferences": 0.4767606258392334
+      }
+    },
+    {
+      "sentence": "The Government of Goa aims to promote the spirit of patriotism and service among the youth through this scholarship.",
+      "role": "ContextObjective",
+      "confidence": 0.4969167113304138,
+      "similarities": {
+        "ContextObjective": 0.4969167113304138,
+        "BenefitsAssistance": 0.3194541931152344,
+        "Eligibility": 0.3813578486442566,
+        "ApplicationProcess": 0.39001911878585815,
+        "TimelineFrequency": 0.3318824768066406,
+        "AuthoritiesGovernance": 0.32310158014297485,
+        "DefinitionsReferences": 0.352411687374115
+      }
+    },
+    {
+      "sentence": "By providing financial support, the government hopes to increase the number of Goan cadets in the Indian Armed Forces.",
+      "role": "ContextObjective",
+      "confidence": 0.4072151780128479,
+      "similarities": {
+        "ContextObjective": 0.4072151780128479,
+        "BenefitsAssistance": 0.39535143971443176,
+        "Eligibility": 0.3660253882408142,
+        "ApplicationProcess": 0.3537423610687256,
+        "TimelineFrequency": 0.32836243510246277,
+        "AuthoritiesGovernance": 0.3194064199924469,
+        "DefinitionsReferences": 0.31197860836982727
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme has seen a steady increase in the number of applicants each year.",
+      "role": "ContextObjective",
+      "confidence": 0.5298439264297485,
+      "similarities": {
+        "ContextObjective": 0.5298439264297485,
+        "BenefitsAssistance": 0.4153657555580139,
+        "Eligibility": 0.4765547513961792,
+        "ApplicationProcess": 0.4813171625137329,
+        "TimelineFrequency": 0.5057985186576843,
+        "AuthoritiesGovernance": 0.3798387348651886,
+        "DefinitionsReferences": 0.3793504238128662
+      }
+    },
+    {
+      "sentence": "The scholarship has been instrumental in enabling many students to pursue their dreams of serving in the military.",
+      "role": "ContextObjective",
+      "confidence": 0.4813601076602936,
+      "similarities": {
+        "ContextObjective": 0.4813601076602936,
+        "BenefitsAssistance": 0.369049072265625,
+        "Eligibility": 0.4178922772407532,
+        "ApplicationProcess": 0.39479538798332214,
+        "TimelineFrequency": 0.3854031562805176,
+        "AuthoritiesGovernance": 0.29685544967651367,
+        "DefinitionsReferences": 0.358097642660141
+      }
+    },
+    {
+      "sentence": "The government encourages students to take advantage of this opportunity.",
+      "role": "ContextObjective",
+      "confidence": 0.5155239105224609,
+      "similarities": {
+        "ContextObjective": 0.5155239105224609,
+        "BenefitsAssistance": 0.4381851553916931,
+        "Eligibility": 0.4883059859275818,
+        "ApplicationProcess": 0.4693760573863983,
+        "TimelineFrequency": 0.46692079305648804,
+        "AuthoritiesGovernance": 0.4110780358314514,
+        "DefinitionsReferences": 0.43644118309020996
+      }
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Government of Goa to support education and career development in the defence sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4848896265029907,
+      "similarities": {
+        "ContextObjective": 0.4848896265029907,
+        "BenefitsAssistance": 0.37621009349823,
+        "Eligibility": 0.4027327597141266,
+        "ApplicationProcess": 0.41248828172683716,
+        "TimelineFrequency": 0.3659684956073761,
+        "AuthoritiesGovernance": 0.32815176248550415,
+        "DefinitionsReferences": 0.3633352816104889
+      }
+    },
+    {
+      "sentence": "The scholarship is part of a broader initiative to enhance the quality of education and training for youth in Goa.",
+      "role": "ContextObjective",
+      "confidence": 0.44833171367645264,
+      "similarities": {
+        "ContextObjective": 0.44833171367645264,
+        "BenefitsAssistance": 0.3354167938232422,
+        "Eligibility": 0.38788101077079773,
+        "ApplicationProcess": 0.36367613077163696,
+        "TimelineFrequency": 0.33812156319618225,
+        "AuthoritiesGovernance": 0.3490804433822632,
+        "DefinitionsReferences": 0.34959274530410767
+      }
+    },
+    {
+      "sentence": "The NDA is one of the premier institutions for training future leaders of the Indian Armed Forces.",
+      "role": "ContextObjective",
+      "confidence": 0.4265195429325104,
+      "similarities": {
+        "ContextObjective": 0.4265195429325104,
+        "BenefitsAssistance": 0.333263099193573,
+        "Eligibility": 0.3856254816055298,
+        "ApplicationProcess": 0.3568215072154999,
+        "TimelineFrequency": 0.3569418787956238,
+        "AuthoritiesGovernance": 0.3791730999946594,
+        "DefinitionsReferences": 0.38370296359062195
+      }
+    },
+    {
+      "sentence": "The financial assistance provided through this scholarship can significantly ease the burden of educational expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5199490189552307,
+      "similarities": {
+        "ContextObjective": 0.4100757837295532,
+        "BenefitsAssistance": 0.5199490189552307,
+        "Eligibility": 0.411047101020813,
+        "ApplicationProcess": 0.3796199560165405,
+        "TimelineFrequency": 0.3781506419181824,
+        "AuthoritiesGovernance": 0.29113447666168213,
+        "DefinitionsReferences": 0.3533477187156677
+      }
+    },
+    {
+      "sentence": "The Government of Goa continuously reviews the scheme to ensure it meets the needs of the cadets.",
+      "role": "ContextObjective",
+      "confidence": 0.4839692711830139,
+      "similarities": {
+        "ContextObjective": 0.4839692711830139,
+        "BenefitsAssistance": 0.39713460206985474,
+        "Eligibility": 0.43792256712913513,
+        "ApplicationProcess": 0.4763966500759125,
+        "TimelineFrequency": 0.4307834208011627,
+        "AuthoritiesGovernance": 0.41991013288497925,
+        "DefinitionsReferences": 0.4059683680534363
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account for improving the scholarship process.",
+      "role": "Eligibility",
+      "confidence": 0.5219570398330688,
+      "similarities": {
+        "ContextObjective": 0.47343331575393677,
+        "BenefitsAssistance": 0.4940599799156189,
+        "Eligibility": 0.5219570398330688,
+        "ApplicationProcess": 0.47367146611213684,
+        "TimelineFrequency": 0.45186251401901245,
+        "AuthoritiesGovernance": 0.4575151205062866,
+        "DefinitionsReferences": 0.43280482292175293
+      }
+    },
+    {
+      "sentence": "The scholarship is a testament to the government's dedication to fostering a strong defence culture in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4188719391822815,
+      "similarities": {
+        "ContextObjective": 0.4188719391822815,
+        "BenefitsAssistance": 0.32898658514022827,
+        "Eligibility": 0.36332592368125916,
+        "ApplicationProcess": 0.36354005336761475,
+        "TimelineFrequency": 0.3110710382461548,
+        "AuthoritiesGovernance": 0.31663239002227783,
+        "DefinitionsReferences": 0.367855966091156
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote gender equality by encouraging female candidates to apply.",
+      "role": "ContextObjective",
+      "confidence": 0.5067359209060669,
+      "similarities": {
+        "ContextObjective": 0.5067359209060669,
+        "BenefitsAssistance": 0.32052135467529297,
+        "Eligibility": 0.44766947627067566,
+        "ApplicationProcess": 0.4383726119995117,
+        "TimelineFrequency": 0.4335938096046448,
+        "AuthoritiesGovernance": 0.3332667350769043,
+        "DefinitionsReferences": 0.3001507520675659
+      }
+    },
+    {
+      "sentence": "The Government of Goa has set a target to increase the number of scholarship recipients by 20% over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.43026217818260193,
+      "similarities": {
+        "ContextObjective": 0.43026217818260193,
+        "BenefitsAssistance": 0.3680993914604187,
+        "Eligibility": 0.4234042167663574,
+        "ApplicationProcess": 0.3710011839866638,
+        "TimelineFrequency": 0.3738115429878235,
+        "AuthoritiesGovernance": 0.32475751638412476,
+        "DefinitionsReferences": 0.31512731313705444
+      }
+    },
+    {
+      "sentence": "This target is part of a larger strategy to enhance youth participation in defence services.",
+      "role": "ContextObjective",
+      "confidence": 0.5054115056991577,
+      "similarities": {
+        "ContextObjective": 0.5054115056991577,
+        "BenefitsAssistance": 0.34517431259155273,
+        "Eligibility": 0.40115442872047424,
+        "ApplicationProcess": 0.3864709734916687,
+        "TimelineFrequency": 0.36584800481796265,
+        "AuthoritiesGovernance": 0.37605196237564087,
+        "DefinitionsReferences": 0.3444923162460327
+      }
+    },
+    {
+      "sentence": "The scholarship is not only a financial aid but also serves as a recognition of the hard work and dedication of the cadets.",
+      "role": "ContextObjective",
+      "confidence": 0.44740039110183716,
+      "similarities": {
+        "ContextObjective": 0.44740039110183716,
+        "BenefitsAssistance": 0.4273260831832886,
+        "Eligibility": 0.4149879813194275,
+        "ApplicationProcess": 0.42133140563964844,
+        "TimelineFrequency": 0.43423992395401,
+        "AuthoritiesGovernance": 0.3186008036136627,
+        "DefinitionsReferences": 0.39624327421188354
+      }
+    },
+    {
+      "sentence": "The Government of Goa is committed to ensuring that no deserving student is deprived of the opportunity to serve the nation due to financial constraints.",
+      "role": "Eligibility",
+      "confidence": 0.4887107014656067,
+      "similarities": {
+        "ContextObjective": 0.41361284255981445,
+        "BenefitsAssistance": 0.4316849708557129,
+        "Eligibility": 0.4887107014656067,
+        "ApplicationProcess": 0.4038626551628113,
+        "TimelineFrequency": 0.37194162607192993,
+        "AuthoritiesGovernance": 0.35600191354751587,
+        "DefinitionsReferences": 0.3500564396381378
+      }
+    },
+    {
+      "sentence": "The scholarship has garnered positive feedback from both students and parents.",
+      "role": "ContextObjective",
+      "confidence": 0.4365702271461487,
+      "similarities": {
+        "ContextObjective": 0.4365702271461487,
+        "BenefitsAssistance": 0.4076511263847351,
+        "Eligibility": 0.42166072130203247,
+        "ApplicationProcess": 0.39018145203590393,
+        "TimelineFrequency": 0.36813318729400635,
+        "AuthoritiesGovernance": 0.3098593056201935,
+        "DefinitionsReferences": 0.36351463198661804
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have reported that the financial support has allowed them to focus on their studies without worrying about expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5202975869178772,
+      "similarities": {
+        "ContextObjective": 0.4095696806907654,
+        "BenefitsAssistance": 0.5202975869178772,
+        "Eligibility": 0.41399216651916504,
+        "ApplicationProcess": 0.35625913739204407,
+        "TimelineFrequency": 0.3425513505935669,
+        "AuthoritiesGovernance": 0.3044315278530121,
+        "DefinitionsReferences": 0.37465327978134155
+      }
+    },
+    {
+      "sentence": "The Government of Goa is proud of its cadets who have gone on to serve in various capacities in the Indian Armed Forces.",
+      "role": "ContextObjective",
+      "confidence": 0.41308891773223877,
+      "similarities": {
+        "ContextObjective": 0.41308891773223877,
+        "BenefitsAssistance": 0.33313095569610596,
+        "Eligibility": 0.37161320447921753,
+        "ApplicationProcess": 0.37511157989501953,
+        "TimelineFrequency": 0.3467744290828705,
+        "AuthoritiesGovernance": 0.3632085919380188,
+        "DefinitionsReferences": 0.356281042098999
+      }
+    },
+    {
+      "sentence": "This scholarship is a step towards building a strong and capable military force.",
+      "role": "ContextObjective",
+      "confidence": 0.4820045232772827,
+      "similarities": {
+        "ContextObjective": 0.4820045232772827,
+        "BenefitsAssistance": 0.37941843271255493,
+        "Eligibility": 0.4181630313396454,
+        "ApplicationProcess": 0.4003986716270447,
+        "TimelineFrequency": 0.37535858154296875,
+        "AuthoritiesGovernance": 0.3363800644874573,
+        "DefinitionsReferences": 0.39849919080734253
+      }
+    },
+    {
+      "sentence": "The Government of Goa encourages all eligible students to apply for this scholarship.",
+      "role": "Eligibility",
+      "confidence": 0.5028597116470337,
+      "similarities": {
+        "ContextObjective": 0.47570207715034485,
+        "BenefitsAssistance": 0.3983001410961151,
+        "Eligibility": 0.5028597116470337,
+        "ApplicationProcess": 0.4848526120185852,
+        "TimelineFrequency": 0.4300834536552429,
+        "AuthoritiesGovernance": 0.3459380865097046,
+        "DefinitionsReferences": 0.369329035282135
+      }
+    },
+    {
+      "sentence": "The application process is designed to be straightforward and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6448320746421814,
+      "similarities": {
+        "ContextObjective": 0.5327168703079224,
+        "BenefitsAssistance": 0.48585888743400574,
+        "Eligibility": 0.5793018341064453,
+        "ApplicationProcess": 0.6448320746421814,
+        "TimelineFrequency": 0.5681957602500916,
+        "AuthoritiesGovernance": 0.45981231331825256,
+        "DefinitionsReferences": 0.45673006772994995
+      }
+    },
+    {
+      "sentence": "The scholarship is a vital resource for those aspiring to join the NDA and serve the nation.",
+      "role": "Eligibility",
+      "confidence": 0.49509352445602417,
+      "similarities": {
+        "ContextObjective": 0.49124377965927124,
+        "BenefitsAssistance": 0.39669179916381836,
+        "Eligibility": 0.49509352445602417,
+        "ApplicationProcess": 0.4695529639720917,
+        "TimelineFrequency": 0.4292396605014801,
+        "AuthoritiesGovernance": 0.34221595525741577,
+        "DefinitionsReferences": 0.4029776453971863
+      }
+    },
+    {
+      "sentence": "In conclusion, the Government of Goa State Scholarship to NDA Cadets is a significant initiative aimed at supporting the education of future leaders in the Indian Armed Forces.",
+      "role": "ContextObjective",
+      "confidence": 0.4795072078704834,
+      "similarities": {
+        "ContextObjective": 0.4795072078704834,
+        "BenefitsAssistance": 0.36550748348236084,
+        "Eligibility": 0.39422935247421265,
+        "ApplicationProcess": 0.3800448775291443,
+        "TimelineFrequency": 0.3646068871021271,
+        "AuthoritiesGovernance": 0.35443317890167236,
+        "DefinitionsReferences": 0.36401158571243286
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "Eligibility": 11,
+    "BenefitsAssistance": 8,
+    "TimelineFrequency": 3,
+    "ApplicationProcess": 16,
+    "AuthoritiesGovernance": 1
+  },
+  "processing_timestamp": "2025-09-25T20:27:58.959270"
+}

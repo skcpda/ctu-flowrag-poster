@@ -1,0 +1,911 @@
+{
+  "scheme_name": "State Food Scheme (Yellow Ration Card)",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "The State Food Scheme, commonly referred to as the Yellow Ration Card scheme, is an essential initiative launched by the Government of India to provide food security to the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5671942830085754,
+      "similarities": {
+        "ContextObjective": 0.5671942830085754,
+        "BenefitsAssistance": 0.45836126804351807,
+        "Eligibility": 0.5125482082366943,
+        "ApplicationProcess": 0.4684140980243683,
+        "TimelineFrequency": 0.43867215514183044,
+        "AuthoritiesGovernance": 0.4926656484603882,
+        "DefinitionsReferences": 0.4147149920463562
+      }
+    },
+    {
+      "sentence": "The scheme was first introduced in the year 2000 under the National Food Security Act.",
+      "role": "ContextObjective",
+      "confidence": 0.4852593243122101,
+      "similarities": {
+        "ContextObjective": 0.4852593243122101,
+        "BenefitsAssistance": 0.3895145654678345,
+        "Eligibility": 0.4454559087753296,
+        "ApplicationProcess": 0.4273850619792938,
+        "TimelineFrequency": 0.39255961775779724,
+        "AuthoritiesGovernance": 0.37759509682655334,
+        "DefinitionsReferences": 0.3465084433555603
+      }
+    },
+    {
+      "sentence": "The primary objective of the Yellow Ration Card scheme is to ensure that every citizen has access to sufficient food at affordable prices.",
+      "role": "ContextObjective",
+      "confidence": 0.5079176425933838,
+      "similarities": {
+        "ContextObjective": 0.5079176425933838,
+        "BenefitsAssistance": 0.41536134481430054,
+        "Eligibility": 0.46831873059272766,
+        "ApplicationProcess": 0.4271430969238281,
+        "TimelineFrequency": 0.3838168978691101,
+        "AuthoritiesGovernance": 0.4222121238708496,
+        "DefinitionsReferences": 0.35888224840164185
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide subsidized food grains to low-income families.",
+      "role": "Eligibility",
+      "confidence": 0.5044355392456055,
+      "similarities": {
+        "ContextObjective": 0.4898165762424469,
+        "BenefitsAssistance": 0.4442290961742401,
+        "Eligibility": 0.5044355392456055,
+        "ApplicationProcess": 0.4000588059425354,
+        "TimelineFrequency": 0.3901101350784302,
+        "AuthoritiesGovernance": 0.39395642280578613,
+        "DefinitionsReferences": 0.3185667395591736
+      }
+    },
+    {
+      "sentence": "Under this scheme, beneficiaries are entitled to receive food grains at highly subsidized rates.",
+      "role": "Eligibility",
+      "confidence": 0.5295109152793884,
+      "similarities": {
+        "ContextObjective": 0.439755380153656,
+        "BenefitsAssistance": 0.4871874451637268,
+        "Eligibility": 0.5295109152793884,
+        "ApplicationProcess": 0.4074230194091797,
+        "TimelineFrequency": 0.4063318967819214,
+        "AuthoritiesGovernance": 0.39869651198387146,
+        "DefinitionsReferences": 0.3696655035018921
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card holders can purchase food grains such as wheat and rice at a price of ₹2 per kilogram for wheat and ₹3 per kilogram for rice.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4443620443344116,
+      "similarities": {
+        "ContextObjective": 0.383636474609375,
+        "BenefitsAssistance": 0.4443620443344116,
+        "Eligibility": 0.4237091541290283,
+        "ApplicationProcess": 0.37053388357162476,
+        "TimelineFrequency": 0.35488754510879517,
+        "AuthoritiesGovernance": 0.3351054787635803,
+        "DefinitionsReferences": 0.3543926775455475
+      }
+    },
+    {
+      "sentence": "The scheme targets families living below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.554061770439148,
+      "similarities": {
+        "ContextObjective": 0.5382289886474609,
+        "BenefitsAssistance": 0.4725911021232605,
+        "Eligibility": 0.554061770439148,
+        "ApplicationProcess": 0.43092232942581177,
+        "TimelineFrequency": 0.399837851524353,
+        "AuthoritiesGovernance": 0.40416112542152405,
+        "DefinitionsReferences": 0.34206366539001465
+      }
+    },
+    {
+      "sentence": "As of 2023, approximately 800 million individuals are covered under the National Food Security Act.",
+      "role": "Eligibility",
+      "confidence": 0.4909144341945648,
+      "similarities": {
+        "ContextObjective": 0.4486478567123413,
+        "BenefitsAssistance": 0.4762433171272278,
+        "Eligibility": 0.4909144341945648,
+        "ApplicationProcess": 0.40672558546066284,
+        "TimelineFrequency": 0.3792349398136139,
+        "AuthoritiesGovernance": 0.4281967282295227,
+        "DefinitionsReferences": 0.4113386869430542
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card specifically caters to the needs of the poorest households.",
+      "role": "Eligibility",
+      "confidence": 0.444245308637619,
+      "similarities": {
+        "ContextObjective": 0.40164458751678467,
+        "BenefitsAssistance": 0.4144808053970337,
+        "Eligibility": 0.444245308637619,
+        "ApplicationProcess": 0.3520950675010681,
+        "TimelineFrequency": 0.3271263837814331,
+        "AuthoritiesGovernance": 0.38593432307243347,
+        "DefinitionsReferences": 0.29505154490470886
+      }
+    },
+    {
+      "sentence": "Eligibility for the Yellow Ration Card includes families with an annual income below ₹1 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5357686877250671,
+      "similarities": {
+        "ContextObjective": 0.41222625970840454,
+        "BenefitsAssistance": 0.4712687134742737,
+        "Eligibility": 0.5357686877250671,
+        "ApplicationProcess": 0.4326174557209015,
+        "TimelineFrequency": 0.4054523706436157,
+        "AuthoritiesGovernance": 0.35473597049713135,
+        "DefinitionsReferences": 0.33270227909088135
+      }
+    },
+    {
+      "sentence": "The scheme is designed to support vulnerable groups including Scheduled Castes, Scheduled Tribes, and women-headed households.",
+      "role": "Eligibility",
+      "confidence": 0.5397252440452576,
+      "similarities": {
+        "ContextObjective": 0.49750667810440063,
+        "BenefitsAssistance": 0.4745858609676361,
+        "Eligibility": 0.5397252440452576,
+        "ApplicationProcess": 0.40246325731277466,
+        "TimelineFrequency": 0.4096291661262512,
+        "AuthoritiesGovernance": 0.4271872043609619,
+        "DefinitionsReferences": 0.3665189743041992
+      }
+    },
+    {
+      "sentence": "To apply for a Yellow Ration Card, applicants must visit the local food supply office or the designated government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6040289998054504,
+      "similarities": {
+        "ContextObjective": 0.42918670177459717,
+        "BenefitsAssistance": 0.4207988977432251,
+        "Eligibility": 0.5670719146728516,
+        "ApplicationProcess": 0.6040289998054504,
+        "TimelineFrequency": 0.4974660873413086,
+        "AuthoritiesGovernance": 0.45951923727989197,
+        "DefinitionsReferences": 0.41573089361190796
+      }
+    },
+    {
+      "sentence": "The application process requires the submission of specific documents including proof of identity, proof of residence, and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7216740250587463,
+      "similarities": {
+        "ContextObjective": 0.5050897598266602,
+        "BenefitsAssistance": 0.5585179328918457,
+        "Eligibility": 0.6106728315353394,
+        "ApplicationProcess": 0.7216740250587463,
+        "TimelineFrequency": 0.5775579810142517,
+        "AuthoritiesGovernance": 0.4589390456676483,
+        "DefinitionsReferences": 0.5050991773605347
+      }
+    },
+    {
+      "sentence": "Applicants must fill out the prescribed application form available at the local food supply office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6300491094589233,
+      "similarities": {
+        "ContextObjective": 0.42182865738868713,
+        "BenefitsAssistance": 0.42133229970932007,
+        "Eligibility": 0.5548051595687866,
+        "ApplicationProcess": 0.6300491094589233,
+        "TimelineFrequency": 0.4902934432029724,
+        "AuthoritiesGovernance": 0.42107999324798584,
+        "DefinitionsReferences": 0.43532198667526245
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7513390183448792,
+      "similarities": {
+        "ContextObjective": 0.5247284173965454,
+        "BenefitsAssistance": 0.49542367458343506,
+        "Eligibility": 0.6096973419189453,
+        "ApplicationProcess": 0.7513390183448792,
+        "TimelineFrequency": 0.5764989256858826,
+        "AuthoritiesGovernance": 0.503167986869812,
+        "DefinitionsReferences": 0.517536997795105
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6120513081550598,
+      "similarities": {
+        "ContextObjective": 0.428957998752594,
+        "BenefitsAssistance": 0.4635840654373169,
+        "Eligibility": 0.503865122795105,
+        "ApplicationProcess": 0.6120513081550598,
+        "TimelineFrequency": 0.5609571933746338,
+        "AuthoritiesGovernance": 0.44735193252563477,
+        "DefinitionsReferences": 0.45105642080307007
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5494616031646729,
+      "similarities": {
+        "ContextObjective": 0.43238553404808044,
+        "BenefitsAssistance": 0.43054574728012085,
+        "Eligibility": 0.49960023164749146,
+        "ApplicationProcess": 0.5494616031646729,
+        "TimelineFrequency": 0.43085068464279175,
+        "AuthoritiesGovernance": 0.4218622148036957,
+        "DefinitionsReferences": 0.38987135887145996
+      }
+    },
+    {
+      "sentence": "The card is usually delivered to the applicant's registered address.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5727989673614502,
+      "similarities": {
+        "ContextObjective": 0.46336686611175537,
+        "BenefitsAssistance": 0.4610432982444763,
+        "Eligibility": 0.5382834076881409,
+        "ApplicationProcess": 0.5727989673614502,
+        "TimelineFrequency": 0.513518750667572,
+        "AuthoritiesGovernance": 0.4694908559322357,
+        "DefinitionsReferences": 0.430656373500824
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card is valid for a period of five years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45103776454925537,
+      "similarities": {
+        "ContextObjective": 0.4214780628681183,
+        "BenefitsAssistance": 0.45103776454925537,
+        "Eligibility": 0.448780357837677,
+        "ApplicationProcess": 0.4220651686191559,
+        "TimelineFrequency": 0.4249831438064575,
+        "AuthoritiesGovernance": 0.3950129747390747,
+        "DefinitionsReferences": 0.3947655260562897
+      }
+    },
+    {
+      "sentence": "Renewal of the card is required after the expiry period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5503628253936768,
+      "similarities": {
+        "ContextObjective": 0.4262012243270874,
+        "BenefitsAssistance": 0.47707536816596985,
+        "Eligibility": 0.49488914012908936,
+        "ApplicationProcess": 0.522212028503418,
+        "TimelineFrequency": 0.5503628253936768,
+        "AuthoritiesGovernance": 0.42663776874542236,
+        "DefinitionsReferences": 0.4055677652359009
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for the inclusion of new members in the family.",
+      "role": "Eligibility",
+      "confidence": 0.5543098449707031,
+      "similarities": {
+        "ContextObjective": 0.5098345279693604,
+        "BenefitsAssistance": 0.5134371519088745,
+        "Eligibility": 0.5543098449707031,
+        "ApplicationProcess": 0.4671785831451416,
+        "TimelineFrequency": 0.44874677062034607,
+        "AuthoritiesGovernance": 0.4089350402355194,
+        "DefinitionsReferences": 0.4156430959701538
+      }
+    },
+    {
+      "sentence": "In such cases, the family must apply for an amendment to the existing card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5559760332107544,
+      "similarities": {
+        "ContextObjective": 0.41149353981018066,
+        "BenefitsAssistance": 0.45003509521484375,
+        "Eligibility": 0.5348126888275146,
+        "ApplicationProcess": 0.5559760332107544,
+        "TimelineFrequency": 0.4711841642856598,
+        "AuthoritiesGovernance": 0.41652777791023254,
+        "DefinitionsReferences": 0.41195666790008545
+      }
+    },
+    {
+      "sentence": "The frequency of food grain distribution under the Yellow Ration Card scheme is monthly.",
+      "role": "TimelineFrequency",
+      "confidence": 0.46969008445739746,
+      "similarities": {
+        "ContextObjective": 0.3906412124633789,
+        "BenefitsAssistance": 0.4141807556152344,
+        "Eligibility": 0.4259403944015503,
+        "ApplicationProcess": 0.3918812870979309,
+        "TimelineFrequency": 0.46969008445739746,
+        "AuthoritiesGovernance": 0.39346984028816223,
+        "DefinitionsReferences": 0.3583905100822449
+      }
+    },
+    {
+      "sentence": "Each eligible household can receive a specific quantity of food grains each month.",
+      "role": "Eligibility",
+      "confidence": 0.5806460380554199,
+      "similarities": {
+        "ContextObjective": 0.4738381803035736,
+        "BenefitsAssistance": 0.5164921283721924,
+        "Eligibility": 0.5806460380554199,
+        "ApplicationProcess": 0.4777178168296814,
+        "TimelineFrequency": 0.5101807117462158,
+        "AuthoritiesGovernance": 0.46263015270233154,
+        "DefinitionsReferences": 0.40979769825935364
+      }
+    },
+    {
+      "sentence": "For example, a family of five can receive up to 25 kilograms of food grains monthly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47503650188446045,
+      "similarities": {
+        "ContextObjective": 0.38364115357398987,
+        "BenefitsAssistance": 0.47503650188446045,
+        "Eligibility": 0.4697037935256958,
+        "ApplicationProcess": 0.3851779103279114,
+        "TimelineFrequency": 0.3984300494194031,
+        "AuthoritiesGovernance": 0.37327927350997925,
+        "DefinitionsReferences": 0.3743189573287964
+      }
+    },
+    {
+      "sentence": "The distribution of food grains is managed through a network of fair price shops.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47858789563179016,
+      "similarities": {
+        "ContextObjective": 0.3769521713256836,
+        "BenefitsAssistance": 0.4155697226524353,
+        "Eligibility": 0.446641743183136,
+        "ApplicationProcess": 0.3868775963783264,
+        "TimelineFrequency": 0.3854042887687683,
+        "AuthoritiesGovernance": 0.47858789563179016,
+        "DefinitionsReferences": 0.3929753303527832
+      }
+    },
+    {
+      "sentence": "These shops are spread across rural and urban areas to ensure accessibility.",
+      "role": "Eligibility",
+      "confidence": 0.4893161952495575,
+      "similarities": {
+        "ContextObjective": 0.45464324951171875,
+        "BenefitsAssistance": 0.43700605630874634,
+        "Eligibility": 0.4893161952495575,
+        "ApplicationProcess": 0.44481927156448364,
+        "TimelineFrequency": 0.4201388359069824,
+        "AuthoritiesGovernance": 0.44167810678482056,
+        "DefinitionsReferences": 0.46030735969543457
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Yellow Ration Card scheme is the Department of Food and Public Distribution.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5610235929489136,
+      "similarities": {
+        "ContextObjective": 0.39255574345588684,
+        "BenefitsAssistance": 0.38412392139434814,
+        "Eligibility": 0.45569759607315063,
+        "ApplicationProcess": 0.3868408799171448,
+        "TimelineFrequency": 0.33725595474243164,
+        "AuthoritiesGovernance": 0.5610235929489136,
+        "DefinitionsReferences": 0.36786890029907227
+      }
+    },
+    {
+      "sentence": "Each state has its own food and civil supplies department to oversee the implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6101128458976746,
+      "similarities": {
+        "ContextObjective": 0.4369052052497864,
+        "BenefitsAssistance": 0.451700896024704,
+        "Eligibility": 0.481426864862442,
+        "ApplicationProcess": 0.446895569562912,
+        "TimelineFrequency": 0.4200558066368103,
+        "AuthoritiesGovernance": 0.6101128458976746,
+        "DefinitionsReferences": 0.4360458552837372
+      }
+    },
+    {
+      "sentence": "The scheme is funded by the central government and state governments in a cost-sharing ratio.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5141777992248535,
+      "similarities": {
+        "ContextObjective": 0.504798173904419,
+        "BenefitsAssistance": 0.5141777992248535,
+        "Eligibility": 0.46461594104766846,
+        "ApplicationProcess": 0.4225499927997589,
+        "TimelineFrequency": 0.4171380400657654,
+        "AuthoritiesGovernance": 0.46902996301651,
+        "DefinitionsReferences": 0.3977486193180084
+      }
+    },
+    {
+      "sentence": "The central government bears 75 percent of the cost while the states bear 25 percent.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4784194231033325,
+      "similarities": {
+        "ContextObjective": 0.3648582994937897,
+        "BenefitsAssistance": 0.4784194231033325,
+        "Eligibility": 0.3700680732727051,
+        "ApplicationProcess": 0.32756945490837097,
+        "TimelineFrequency": 0.3426779508590698,
+        "AuthoritiesGovernance": 0.41265028715133667,
+        "DefinitionsReferences": 0.35463085770606995
+      }
+    },
+    {
+      "sentence": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4706771671772003,
+      "similarities": {
+        "ContextObjective": 0.42300164699554443,
+        "BenefitsAssistance": 0.4706771671772003,
+        "Eligibility": 0.45093393325805664,
+        "ApplicationProcess": 0.36878424882888794,
+        "TimelineFrequency": 0.3637878894805908,
+        "AuthoritiesGovernance": 0.38750559091567993,
+        "DefinitionsReferences": 0.3686405420303345
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is part of a broader strategy to eliminate hunger and malnutrition.",
+      "role": "ContextObjective",
+      "confidence": 0.4747849702835083,
+      "similarities": {
+        "ContextObjective": 0.4747849702835083,
+        "BenefitsAssistance": 0.4171251058578491,
+        "Eligibility": 0.43431228399276733,
+        "ApplicationProcess": 0.379033625125885,
+        "TimelineFrequency": 0.36175453662872314,
+        "AuthoritiesGovernance": 0.42810434103012085,
+        "DefinitionsReferences": 0.3536565899848938
+      }
+    },
+    {
+      "sentence": "The scheme also aims to improve nutritional standards among the poor.",
+      "role": "ContextObjective",
+      "confidence": 0.5006446838378906,
+      "similarities": {
+        "ContextObjective": 0.5006446838378906,
+        "BenefitsAssistance": 0.4190415143966675,
+        "Eligibility": 0.47117140889167786,
+        "ApplicationProcess": 0.40765631198883057,
+        "TimelineFrequency": 0.35901570320129395,
+        "AuthoritiesGovernance": 0.4330529272556305,
+        "DefinitionsReferences": 0.35523340106010437
+      }
+    },
+    {
+      "sentence": "In addition to food grains, the scheme may also provide pulses and cooking oil in some states.",
+      "role": "Eligibility",
+      "confidence": 0.4994708001613617,
+      "similarities": {
+        "ContextObjective": 0.46409162878990173,
+        "BenefitsAssistance": 0.466570109128952,
+        "Eligibility": 0.4994708001613617,
+        "ApplicationProcess": 0.42190104722976685,
+        "TimelineFrequency": 0.4315072000026703,
+        "AuthoritiesGovernance": 0.41072964668273926,
+        "DefinitionsReferences": 0.43425971269607544
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card is distinguished from other ration cards by its color and specific eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.5348224639892578,
+      "similarities": {
+        "ContextObjective": 0.44633013010025024,
+        "BenefitsAssistance": 0.44744887948036194,
+        "Eligibility": 0.5348224639892578,
+        "ApplicationProcess": 0.4367455840110779,
+        "TimelineFrequency": 0.44652852416038513,
+        "AuthoritiesGovernance": 0.367281973361969,
+        "DefinitionsReferences": 0.38703399896621704
+      }
+    },
+    {
+      "sentence": "The card serves as an essential document for various government schemes and services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5897108316421509,
+      "similarities": {
+        "ContextObjective": 0.5736983418464661,
+        "BenefitsAssistance": 0.5897108316421509,
+        "Eligibility": 0.5282776355743408,
+        "ApplicationProcess": 0.5622768998146057,
+        "TimelineFrequency": 0.5249719023704529,
+        "AuthoritiesGovernance": 0.5037890672683716,
+        "DefinitionsReferences": 0.5630272626876831
+      }
+    },
+    {
+      "sentence": "It is also used to access benefits under the Pradhan Mantri Garib Kalyan Anna Yojana.",
+      "role": "Eligibility",
+      "confidence": 0.5015227794647217,
+      "similarities": {
+        "ContextObjective": 0.4458983242511749,
+        "BenefitsAssistance": 0.48265713453292847,
+        "Eligibility": 0.5015227794647217,
+        "ApplicationProcess": 0.45150288939476013,
+        "TimelineFrequency": 0.41032087802886963,
+        "AuthoritiesGovernance": 0.41958945989608765,
+        "DefinitionsReferences": 0.41535627841949463
+      }
+    },
+    {
+      "sentence": "This scheme was launched in March 2020 in response to the COVID-19 pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.5672451257705688,
+      "similarities": {
+        "ContextObjective": 0.5672451257705688,
+        "BenefitsAssistance": 0.4589780867099762,
+        "Eligibility": 0.5114420652389526,
+        "ApplicationProcess": 0.4685021638870239,
+        "TimelineFrequency": 0.48599475622177124,
+        "AuthoritiesGovernance": 0.42169955372810364,
+        "DefinitionsReferences": 0.3532232642173767
+      }
+    },
+    {
+      "sentence": "Under the Pradhan Mantri Garib Kalyan Anna Yojana, additional food grains were provided to existing ration card holders.",
+      "role": "Eligibility",
+      "confidence": 0.4189387857913971,
+      "similarities": {
+        "ContextObjective": 0.38802802562713623,
+        "BenefitsAssistance": 0.4184718430042267,
+        "Eligibility": 0.4189387857913971,
+        "ApplicationProcess": 0.37291577458381653,
+        "TimelineFrequency": 0.3504375219345093,
+        "AuthoritiesGovernance": 0.3917827308177948,
+        "DefinitionsReferences": 0.3604125380516052
+      }
+    },
+    {
+      "sentence": "Each beneficiary received an additional 5 kilograms of food grains per month free of cost.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44857507944107056,
+      "similarities": {
+        "ContextObjective": 0.3738202750682831,
+        "BenefitsAssistance": 0.44857507944107056,
+        "Eligibility": 0.4182983338832855,
+        "ApplicationProcess": 0.3363887369632721,
+        "TimelineFrequency": 0.3238840699195862,
+        "AuthoritiesGovernance": 0.3280920386314392,
+        "DefinitionsReferences": 0.3195960521697998
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme has played a crucial role in alleviating food insecurity.",
+      "role": "ContextObjective",
+      "confidence": 0.4340764284133911,
+      "similarities": {
+        "ContextObjective": 0.4340764284133911,
+        "BenefitsAssistance": 0.4028317928314209,
+        "Eligibility": 0.4238399267196655,
+        "ApplicationProcess": 0.38245564699172974,
+        "TimelineFrequency": 0.34388935565948486,
+        "AuthoritiesGovernance": 0.38915157318115234,
+        "DefinitionsReferences": 0.34989088773727417
+      }
+    },
+    {
+      "sentence": "It has significantly contributed to reducing hunger levels in the country.",
+      "role": "Eligibility",
+      "confidence": 0.40996265411376953,
+      "similarities": {
+        "ContextObjective": 0.4066614508628845,
+        "BenefitsAssistance": 0.37579941749572754,
+        "Eligibility": 0.40996265411376953,
+        "ApplicationProcess": 0.3555064797401428,
+        "TimelineFrequency": 0.31977397203445435,
+        "AuthoritiesGovernance": 0.38088834285736084,
+        "DefinitionsReferences": 0.33421143889427185
+      }
+    },
+    {
+      "sentence": "The scheme has also been instrumental in improving the overall health of low-income families.",
+      "role": "ContextObjective",
+      "confidence": 0.4424830973148346,
+      "similarities": {
+        "ContextObjective": 0.4424830973148346,
+        "BenefitsAssistance": 0.43122026324272156,
+        "Eligibility": 0.396677702665329,
+        "ApplicationProcess": 0.33491718769073486,
+        "TimelineFrequency": 0.3069919943809509,
+        "AuthoritiesGovernance": 0.37205153703689575,
+        "DefinitionsReferences": 0.3234957158565521
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme are conducted regularly to ensure transparency and accountability.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5344926118850708,
+      "similarities": {
+        "ContextObjective": 0.48781758546829224,
+        "BenefitsAssistance": 0.4811995029449463,
+        "Eligibility": 0.4985042214393616,
+        "ApplicationProcess": 0.5344926118850708,
+        "TimelineFrequency": 0.4677107036113739,
+        "AuthoritiesGovernance": 0.49924057722091675,
+        "DefinitionsReferences": 0.4234731197357178
+      }
+    },
+    {
+      "sentence": "The government has also introduced digital initiatives to streamline the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6203820705413818,
+      "similarities": {
+        "ContextObjective": 0.46964603662490845,
+        "BenefitsAssistance": 0.45085999369621277,
+        "Eligibility": 0.5013401508331299,
+        "ApplicationProcess": 0.6203820705413818,
+        "TimelineFrequency": 0.5292314291000366,
+        "AuthoritiesGovernance": 0.47697681188583374,
+        "DefinitionsReferences": 0.4706471562385559
+      }
+    },
+    {
+      "sentence": "Beneficiaries can check their ration card status online through the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5309395790100098,
+      "similarities": {
+        "ContextObjective": 0.3866598606109619,
+        "BenefitsAssistance": 0.4847617745399475,
+        "Eligibility": 0.4806094765663147,
+        "ApplicationProcess": 0.5309395790100098,
+        "TimelineFrequency": 0.4115038514137268,
+        "AuthoritiesGovernance": 0.43485933542251587,
+        "DefinitionsReferences": 0.3814418613910675
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is a vital component of India's social safety net.",
+      "role": "Eligibility",
+      "confidence": 0.44313114881515503,
+      "similarities": {
+        "ContextObjective": 0.4425961375236511,
+        "BenefitsAssistance": 0.44150838255882263,
+        "Eligibility": 0.44313114881515503,
+        "ApplicationProcess": 0.3665011525154114,
+        "TimelineFrequency": 0.34378013014793396,
+        "AuthoritiesGovernance": 0.37636393308639526,
+        "DefinitionsReferences": 0.3562835454940796
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to ensuring food security for all citizens.",
+      "role": "Eligibility",
+      "confidence": 0.4630591869354248,
+      "similarities": {
+        "ContextObjective": 0.4344943165779114,
+        "BenefitsAssistance": 0.39286285638809204,
+        "Eligibility": 0.4630591869354248,
+        "ApplicationProcess": 0.4144236147403717,
+        "TimelineFrequency": 0.3654177486896515,
+        "AuthoritiesGovernance": 0.41415685415267944,
+        "DefinitionsReferences": 0.40965571999549866
+      }
+    },
+    {
+      "sentence": "The scheme also promotes the use of technology in public distribution systems.",
+      "role": "ContextObjective",
+      "confidence": 0.49049484729766846,
+      "similarities": {
+        "ContextObjective": 0.49049484729766846,
+        "BenefitsAssistance": 0.3991928696632385,
+        "Eligibility": 0.42043471336364746,
+        "ApplicationProcess": 0.4201495349407196,
+        "TimelineFrequency": 0.37865176796913147,
+        "AuthoritiesGovernance": 0.41816598176956177,
+        "DefinitionsReferences": 0.3615107834339142
+      }
+    },
+    {
+      "sentence": "In recent years, the government has focused on eliminating ghost beneficiaries from the system.",
+      "role": "Eligibility",
+      "confidence": 0.454542338848114,
+      "similarities": {
+        "ContextObjective": 0.4379323124885559,
+        "BenefitsAssistance": 0.4282420873641968,
+        "Eligibility": 0.454542338848114,
+        "ApplicationProcess": 0.3914805054664612,
+        "TimelineFrequency": 0.35661184787750244,
+        "AuthoritiesGovernance": 0.4396691918373108,
+        "DefinitionsReferences": 0.3723408281803131
+      }
+    },
+    {
+      "sentence": "This has been achieved through biometric authentication and digital verification processes.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5622537732124329,
+      "similarities": {
+        "ContextObjective": 0.44064486026763916,
+        "BenefitsAssistance": 0.44390764832496643,
+        "Eligibility": 0.44307196140289307,
+        "ApplicationProcess": 0.5622537732124329,
+        "TimelineFrequency": 0.4451696574687958,
+        "AuthoritiesGovernance": 0.4227847754955292,
+        "DefinitionsReferences": 0.45837530493736267
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is an example of a targeted approach to welfare.",
+      "role": "Eligibility",
+      "confidence": 0.492971271276474,
+      "similarities": {
+        "ContextObjective": 0.49055635929107666,
+        "BenefitsAssistance": 0.42975467443466187,
+        "Eligibility": 0.492971271276474,
+        "ApplicationProcess": 0.3827890157699585,
+        "TimelineFrequency": 0.3714523911476135,
+        "AuthoritiesGovernance": 0.4309264123439789,
+        "DefinitionsReferences": 0.3763852119445801
+      }
+    },
+    {
+      "sentence": "It addresses the specific needs of the poorest segments of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5357042551040649,
+      "similarities": {
+        "ContextObjective": 0.5357042551040649,
+        "BenefitsAssistance": 0.4970816373825073,
+        "Eligibility": 0.529983639717102,
+        "ApplicationProcess": 0.420345664024353,
+        "TimelineFrequency": 0.41215837001800537,
+        "AuthoritiesGovernance": 0.47643646597862244,
+        "DefinitionsReferences": 0.3705627918243408
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries for its affordability and accessibility.",
+      "role": "ContextObjective",
+      "confidence": 0.5075036883354187,
+      "similarities": {
+        "ContextObjective": 0.5075036883354187,
+        "BenefitsAssistance": 0.49987179040908813,
+        "Eligibility": 0.5015959739685059,
+        "ApplicationProcess": 0.42375561594963074,
+        "TimelineFrequency": 0.38433706760406494,
+        "AuthoritiesGovernance": 0.37948450446128845,
+        "DefinitionsReferences": 0.37990427017211914
+      }
+    },
+    {
+      "sentence": "The government continues to work towards expanding the reach of the Yellow Ration Card scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4936733841896057,
+      "similarities": {
+        "ContextObjective": 0.4663853943347931,
+        "BenefitsAssistance": 0.4241558313369751,
+        "Eligibility": 0.4582425653934479,
+        "ApplicationProcess": 0.4247257709503174,
+        "TimelineFrequency": 0.3806930482387543,
+        "AuthoritiesGovernance": 0.4936733841896057,
+        "DefinitionsReferences": 0.4122539758682251
+      }
+    },
+    {
+      "sentence": "Efforts are being made to include more families under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5895859003067017,
+      "similarities": {
+        "ContextObjective": 0.5774232745170593,
+        "BenefitsAssistance": 0.5196219682693481,
+        "Eligibility": 0.5895859003067017,
+        "ApplicationProcess": 0.5189092755317688,
+        "TimelineFrequency": 0.4605681002140045,
+        "AuthoritiesGovernance": 0.48833417892456055,
+        "DefinitionsReferences": 0.43239855766296387
+      }
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is a testament to the government's efforts in combating poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.4437565505504608,
+      "similarities": {
+        "ContextObjective": 0.4437565505504608,
+        "BenefitsAssistance": 0.4264450967311859,
+        "Eligibility": 0.41828685998916626,
+        "ApplicationProcess": 0.364581823348999,
+        "TimelineFrequency": 0.30638837814331055,
+        "AuthoritiesGovernance": 0.420698881149292,
+        "DefinitionsReferences": 0.36291348934173584
+      }
+    },
+    {
+      "sentence": "It plays a crucial role in ensuring that no one goes hungry in India.",
+      "role": "Eligibility",
+      "confidence": 0.44420483708381653,
+      "similarities": {
+        "ContextObjective": 0.41072821617126465,
+        "BenefitsAssistance": 0.34126806259155273,
+        "Eligibility": 0.44420483708381653,
+        "ApplicationProcess": 0.38224053382873535,
+        "TimelineFrequency": 0.3315846920013428,
+        "AuthoritiesGovernance": 0.3805254101753235,
+        "DefinitionsReferences": 0.33347728848457336
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve with changing socio-economic conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.5987415909767151,
+      "similarities": {
+        "ContextObjective": 0.5987415909767151,
+        "BenefitsAssistance": 0.5156856775283813,
+        "Eligibility": 0.5462387204170227,
+        "ApplicationProcess": 0.4953169524669647,
+        "TimelineFrequency": 0.4800299108028412,
+        "AuthoritiesGovernance": 0.46360135078430176,
+        "DefinitionsReferences": 0.4494660198688507
+      }
+    },
+    {
+      "sentence": "The government aims to enhance the efficiency of the public distribution system.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5498035550117493,
+      "similarities": {
+        "ContextObjective": 0.49913662672042847,
+        "BenefitsAssistance": 0.44045040011405945,
+        "Eligibility": 0.4624127447605133,
+        "ApplicationProcess": 0.443306028842926,
+        "TimelineFrequency": 0.4128040075302124,
+        "AuthoritiesGovernance": 0.5498035550117493,
+        "DefinitionsReferences": 0.3983159363269806
+      }
+    },
+    {
+      "sentence": "Overall, the Yellow Ration Card scheme is a significant welfare initiative in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4767606258392334,
+      "similarities": {
+        "ContextObjective": 0.4767606258392334,
+        "BenefitsAssistance": 0.4410412311553955,
+        "Eligibility": 0.4382786452770233,
+        "ApplicationProcess": 0.3895278573036194,
+        "TimelineFrequency": 0.34905028343200684,
+        "AuthoritiesGovernance": 0.41812506318092346,
+        "DefinitionsReferences": 0.3680572211742401
+      }
+    },
+    {
+      "sentence": "It embodies the principles of equity and social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.5031782984733582,
+      "similarities": {
+        "ContextObjective": 0.5031782984733582,
+        "BenefitsAssistance": 0.41175878047943115,
+        "Eligibility": 0.44996944069862366,
+        "ApplicationProcess": 0.3923523426055908,
+        "TimelineFrequency": 0.39243412017822266,
+        "AuthoritiesGovernance": 0.42707115411758423,
+        "DefinitionsReferences": 0.4566543400287628
+      }
+    },
+    {
+      "sentence": "The scheme has the potential to uplift millions of families from the clutches of hunger and poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.5262746810913086,
+      "similarities": {
+        "ContextObjective": 0.5262746810913086,
+        "BenefitsAssistance": 0.4156453013420105,
+        "Eligibility": 0.47655224800109863,
+        "ApplicationProcess": 0.37225815653800964,
+        "TimelineFrequency": 0.3375745415687561,
+        "AuthoritiesGovernance": 0.35850703716278076,
+        "DefinitionsReferences": 0.30588850378990173
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 16,
+    "Eligibility": 21,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 12,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-25T20:36:39.170877"
+}

@@ -1,0 +1,743 @@
+{
+  "scheme_name": "PM-YASASVI: Pre-Matric Scholarship for OBC, EBC and DNT Students",
+  "total_sentences": 52,
+  "labeled_sentences": [
+    {
+      "sentence": "The PM-YASASVI scheme is a significant initiative launched by the Government of India to provide financial assistance to students from Other Backward Classes (OBC), Economically Backward Classes (EBC), and Denotified Tribes (DNT).",
+      "role": "ContextObjective",
+      "confidence": 0.5516370534896851,
+      "similarities": {
+        "ContextObjective": 0.5516370534896851,
+        "BenefitsAssistance": 0.5006304383277893,
+        "Eligibility": 0.5143221616744995,
+        "ApplicationProcess": 0.45279818773269653,
+        "TimelineFrequency": 0.4463157057762146,
+        "AuthoritiesGovernance": 0.4495861232280731,
+        "DefinitionsReferences": 0.4118608236312866
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on September 27, 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.6033142805099487,
+      "similarities": {
+        "ContextObjective": 0.6033142805099487,
+        "BenefitsAssistance": 0.4447559118270874,
+        "Eligibility": 0.475996732711792,
+        "ApplicationProcess": 0.46499642729759216,
+        "TimelineFrequency": 0.48227259516716003,
+        "AuthoritiesGovernance": 0.4494086503982544,
+        "DefinitionsReferences": 0.338999480009079
+      }
+    },
+    {
+      "sentence": "The primary objective of PM-YASASVI is to promote education among students belonging to these marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5081313848495483,
+      "similarities": {
+        "ContextObjective": 0.5081313848495483,
+        "BenefitsAssistance": 0.3365051746368408,
+        "Eligibility": 0.40736138820648193,
+        "ApplicationProcess": 0.3402344584465027,
+        "TimelineFrequency": 0.3385069966316223,
+        "AuthoritiesGovernance": 0.3935245871543884,
+        "DefinitionsReferences": 0.325822114944458
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide financial support to students pursuing pre-matric education.",
+      "role": "ContextObjective",
+      "confidence": 0.5734223127365112,
+      "similarities": {
+        "ContextObjective": 0.5734223127365112,
+        "BenefitsAssistance": 0.4981234073638916,
+        "Eligibility": 0.49305352568626404,
+        "ApplicationProcess": 0.44083088636398315,
+        "TimelineFrequency": 0.4316849708557129,
+        "AuthoritiesGovernance": 0.3430168926715851,
+        "DefinitionsReferences": 0.35417503118515015
+      }
+    },
+    {
+      "sentence": "The financial assistance is intended to alleviate the economic burden on families and encourage students to continue their education without financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.517240583896637,
+      "similarities": {
+        "ContextObjective": 0.4258853495121002,
+        "BenefitsAssistance": 0.517240583896637,
+        "Eligibility": 0.43514853715896606,
+        "ApplicationProcess": 0.3798304498195648,
+        "TimelineFrequency": 0.37868890166282654,
+        "AuthoritiesGovernance": 0.33192765712738037,
+        "DefinitionsReferences": 0.3292803168296814
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students studying in classes 9 and 10.",
+      "role": "ContextObjective",
+      "confidence": 0.5271416902542114,
+      "similarities": {
+        "ContextObjective": 0.5271416902542114,
+        "BenefitsAssistance": 0.4021303355693817,
+        "Eligibility": 0.4878222346305847,
+        "ApplicationProcess": 0.42429059743881226,
+        "TimelineFrequency": 0.45750486850738525,
+        "AuthoritiesGovernance": 0.3405308127403259,
+        "DefinitionsReferences": 0.38499969244003296
+      }
+    },
+    {
+      "sentence": "Under PM-YASASVI, the scholarship amount is set at ₹75,000 per annum for students enrolled in classes 9 and 10.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.455239474773407,
+      "similarities": {
+        "ContextObjective": 0.4075632691383362,
+        "BenefitsAssistance": 0.455239474773407,
+        "Eligibility": 0.4182654321193695,
+        "ApplicationProcess": 0.3602833151817322,
+        "TimelineFrequency": 0.3912574052810669,
+        "AuthoritiesGovernance": 0.3098011314868927,
+        "DefinitionsReferences": 0.3380982577800751
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover various educational expenses including tuition fees, books, and other necessary materials.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6386692523956299,
+      "similarities": {
+        "ContextObjective": 0.46998322010040283,
+        "BenefitsAssistance": 0.6386692523956299,
+        "Eligibility": 0.4652877449989319,
+        "ApplicationProcess": 0.4669601023197174,
+        "TimelineFrequency": 0.49915745854377747,
+        "AuthoritiesGovernance": 0.4183727502822876,
+        "DefinitionsReferences": 0.5334481000900269
+      }
+    },
+    {
+      "sentence": "The scholarship is disbursed directly to the bank accounts of the beneficiaries to ensure transparency and efficiency.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5031348466873169,
+      "similarities": {
+        "ContextObjective": 0.4108208417892456,
+        "BenefitsAssistance": 0.5031348466873169,
+        "Eligibility": 0.4593895375728607,
+        "ApplicationProcess": 0.44548237323760986,
+        "TimelineFrequency": 0.38178128004074097,
+        "AuthoritiesGovernance": 0.39665478467941284,
+        "DefinitionsReferences": 0.3412832021713257
+      }
+    },
+    {
+      "sentence": "To be eligible for the PM-YASASVI scholarship, students must belong to the OBC, EBC, or DNT categories.",
+      "role": "Eligibility",
+      "confidence": 0.5800512433052063,
+      "similarities": {
+        "ContextObjective": 0.4431976079940796,
+        "BenefitsAssistance": 0.42324769496917725,
+        "Eligibility": 0.5800512433052063,
+        "ApplicationProcess": 0.48887330293655396,
+        "TimelineFrequency": 0.47147858142852783,
+        "AuthoritiesGovernance": 0.38462167978286743,
+        "DefinitionsReferences": 0.4109885096549988
+      }
+    },
+    {
+      "sentence": "The annual family income limit for eligibility is set at ₹2.5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5732011795043945,
+      "similarities": {
+        "ContextObjective": 0.41854381561279297,
+        "BenefitsAssistance": 0.49911707639694214,
+        "Eligibility": 0.5732011795043945,
+        "ApplicationProcess": 0.4483705461025238,
+        "TimelineFrequency": 0.42990803718566895,
+        "AuthoritiesGovernance": 0.3357868194580078,
+        "DefinitionsReferences": 0.3582518696784973
+      }
+    },
+    {
+      "sentence": "Students must be enrolled in recognized schools that are affiliated with the Central Board of Secondary Education (CBSE) or any state board.",
+      "role": "Eligibility",
+      "confidence": 0.5316715240478516,
+      "similarities": {
+        "ContextObjective": 0.42645108699798584,
+        "BenefitsAssistance": 0.41373422741889954,
+        "Eligibility": 0.5316715240478516,
+        "ApplicationProcess": 0.48658323287963867,
+        "TimelineFrequency": 0.4743427038192749,
+        "AuthoritiesGovernance": 0.4338500201702118,
+        "DefinitionsReferences": 0.45655912160873413
+      }
+    },
+    {
+      "sentence": "Additionally, students must have secured at least 50% marks in their previous examination to qualify for the scholarship.",
+      "role": "Eligibility",
+      "confidence": 0.502455472946167,
+      "similarities": {
+        "ContextObjective": 0.44032177329063416,
+        "BenefitsAssistance": 0.3760790228843689,
+        "Eligibility": 0.502455472946167,
+        "ApplicationProcess": 0.49043864011764526,
+        "TimelineFrequency": 0.4514872133731842,
+        "AuthoritiesGovernance": 0.28512048721313477,
+        "DefinitionsReferences": 0.38088035583496094
+      }
+    },
+    {
+      "sentence": "The application process for PM-YASASVI is conducted online through the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.665154218673706,
+      "similarities": {
+        "ContextObjective": 0.4640081524848938,
+        "BenefitsAssistance": 0.429755836725235,
+        "Eligibility": 0.5167118310928345,
+        "ApplicationProcess": 0.665154218673706,
+        "TimelineFrequency": 0.5178791880607605,
+        "AuthoritiesGovernance": 0.4531489610671997,
+        "DefinitionsReferences": 0.4066634774208069
+      }
+    },
+    {
+      "sentence": "Students need to register on the National Scholarship Portal (NSP) to apply for the scholarship.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5605635046958923,
+      "similarities": {
+        "ContextObjective": 0.43692952394485474,
+        "BenefitsAssistance": 0.41778111457824707,
+        "Eligibility": 0.5317628383636475,
+        "ApplicationProcess": 0.5605635046958923,
+        "TimelineFrequency": 0.4990499019622803,
+        "AuthoritiesGovernance": 0.3561144173145294,
+        "DefinitionsReferences": 0.3901378810405731
+      }
+    },
+    {
+      "sentence": "The required documents for application include a caste certificate, income certificate, and previous academic records.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6202124357223511,
+      "similarities": {
+        "ContextObjective": 0.445945143699646,
+        "BenefitsAssistance": 0.5197443962097168,
+        "Eligibility": 0.5442760586738586,
+        "ApplicationProcess": 0.6202124357223511,
+        "TimelineFrequency": 0.5358651876449585,
+        "AuthoritiesGovernance": 0.39439254999160767,
+        "DefinitionsReferences": 0.513041615486145
+      }
+    },
+    {
+      "sentence": "Students must also provide their bank account details for the disbursement of the scholarship amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5898182392120361,
+      "similarities": {
+        "ContextObjective": 0.39355117082595825,
+        "BenefitsAssistance": 0.5898182392120361,
+        "Eligibility": 0.5047288537025452,
+        "ApplicationProcess": 0.5097708702087402,
+        "TimelineFrequency": 0.45702695846557617,
+        "AuthoritiesGovernance": 0.3805869221687317,
+        "DefinitionsReferences": 0.39344751834869385
+      }
+    },
+    {
+      "sentence": "The application window for PM-YASASVI typically opens in the month of August each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5685834884643555,
+      "similarities": {
+        "ContextObjective": 0.4490640461444855,
+        "BenefitsAssistance": 0.3942086696624756,
+        "Eligibility": 0.46951454877853394,
+        "ApplicationProcess": 0.4796598255634308,
+        "TimelineFrequency": 0.5685834884643555,
+        "AuthoritiesGovernance": 0.3594333529472351,
+        "DefinitionsReferences": 0.3550665080547333
+      }
+    },
+    {
+      "sentence": "The last date for submission of applications is usually in September.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6522432565689087,
+      "similarities": {
+        "ContextObjective": 0.4582250118255615,
+        "BenefitsAssistance": 0.4134534001350403,
+        "Eligibility": 0.5362554788589478,
+        "ApplicationProcess": 0.5777274370193481,
+        "TimelineFrequency": 0.6522432565689087,
+        "AuthoritiesGovernance": 0.4058000445365906,
+        "DefinitionsReferences": 0.39822834730148315
+      }
+    },
+    {
+      "sentence": "Once the applications are submitted, they are reviewed by the implementing authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6563047170639038,
+      "similarities": {
+        "ContextObjective": 0.4903011918067932,
+        "BenefitsAssistance": 0.44771909713745117,
+        "Eligibility": 0.5882872343063354,
+        "ApplicationProcess": 0.6563047170639038,
+        "TimelineFrequency": 0.5645726919174194,
+        "AuthoritiesGovernance": 0.5993300676345825,
+        "DefinitionsReferences": 0.48160549998283386
+      }
+    },
+    {
+      "sentence": "The scholarship amount is generally disbursed within a few months after the application deadline.",
+      "role": "TimelineFrequency",
+      "confidence": 0.531076192855835,
+      "similarities": {
+        "ContextObjective": 0.4429247975349426,
+        "BenefitsAssistance": 0.48753267526626587,
+        "Eligibility": 0.47665804624557495,
+        "ApplicationProcess": 0.48226457834243774,
+        "TimelineFrequency": 0.531076192855835,
+        "AuthoritiesGovernance": 0.36886459589004517,
+        "DefinitionsReferences": 0.34785544872283936
+      }
+    },
+    {
+      "sentence": "The Ministry of Education is the primary implementing authority for the PM-YASASVI scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5271389484405518,
+      "similarities": {
+        "ContextObjective": 0.46283090114593506,
+        "BenefitsAssistance": 0.37875083088874817,
+        "Eligibility": 0.40957361459732056,
+        "ApplicationProcess": 0.39697426557540894,
+        "TimelineFrequency": 0.3679909110069275,
+        "AuthoritiesGovernance": 0.5271389484405518,
+        "DefinitionsReferences": 0.3695777654647827
+      }
+    },
+    {
+      "sentence": "The National Testing Agency (NTA) is responsible for conducting the entrance examination for the scholarship.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4887067377567291,
+      "similarities": {
+        "ContextObjective": 0.43474695086479187,
+        "BenefitsAssistance": 0.3939027190208435,
+        "Eligibility": 0.4838468134403229,
+        "ApplicationProcess": 0.4887067377567291,
+        "TimelineFrequency": 0.441665381193161,
+        "AuthoritiesGovernance": 0.3961913585662842,
+        "DefinitionsReferences": 0.3964996635913849
+      }
+    },
+    {
+      "sentence": "The entrance examination is usually held in the month of October.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5345094203948975,
+      "similarities": {
+        "ContextObjective": 0.4402913451194763,
+        "BenefitsAssistance": 0.3731105327606201,
+        "Eligibility": 0.4515451192855835,
+        "ApplicationProcess": 0.490407258272171,
+        "TimelineFrequency": 0.5345094203948975,
+        "AuthoritiesGovernance": 0.3454996943473816,
+        "DefinitionsReferences": 0.39461785554885864
+      }
+    },
+    {
+      "sentence": "Students who qualify in the entrance examination are then eligible to receive the scholarship.",
+      "role": "Eligibility",
+      "confidence": 0.5301438570022583,
+      "similarities": {
+        "ContextObjective": 0.46515223383903503,
+        "BenefitsAssistance": 0.40016770362854004,
+        "Eligibility": 0.5301438570022583,
+        "ApplicationProcess": 0.5001161098480225,
+        "TimelineFrequency": 0.44822001457214355,
+        "AuthoritiesGovernance": 0.32978472113609314,
+        "DefinitionsReferences": 0.3661342263221741
+      }
+    },
+    {
+      "sentence": "The examination consists of multiple-choice questions covering subjects such as Mathematics, Science, and Social Studies.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5077731609344482,
+      "similarities": {
+        "ContextObjective": 0.5053825378417969,
+        "BenefitsAssistance": 0.43537843227386475,
+        "Eligibility": 0.45544564723968506,
+        "ApplicationProcess": 0.47231072187423706,
+        "TimelineFrequency": 0.5077731609344482,
+        "AuthoritiesGovernance": 0.37489551305770874,
+        "DefinitionsReferences": 0.49197012186050415
+      }
+    },
+    {
+      "sentence": "The scholarship is awarded based on the merit of the students in the entrance examination.",
+      "role": "Eligibility",
+      "confidence": 0.4998106360435486,
+      "similarities": {
+        "ContextObjective": 0.48257946968078613,
+        "BenefitsAssistance": 0.37845852971076965,
+        "Eligibility": 0.4998106360435486,
+        "ApplicationProcess": 0.4507531523704529,
+        "TimelineFrequency": 0.42255330085754395,
+        "AuthoritiesGovernance": 0.3227400779724121,
+        "DefinitionsReferences": 0.37272799015045166
+      }
+    },
+    {
+      "sentence": "The PM-YASASVI scheme is part of a broader initiative by the Government of India to enhance educational opportunities for marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5150490999221802,
+      "similarities": {
+        "ContextObjective": 0.5150490999221802,
+        "BenefitsAssistance": 0.4200132489204407,
+        "Eligibility": 0.44561490416526794,
+        "ApplicationProcess": 0.3838900923728943,
+        "TimelineFrequency": 0.37109166383743286,
+        "AuthoritiesGovernance": 0.4291686415672302,
+        "DefinitionsReferences": 0.3717121481895447
+      }
+    },
+    {
+      "sentence": "The scheme is designed to reduce dropout rates among OBC, EBC, and DNT students.",
+      "role": "ContextObjective",
+      "confidence": 0.44584736227989197,
+      "similarities": {
+        "ContextObjective": 0.44584736227989197,
+        "BenefitsAssistance": 0.36406171321868896,
+        "Eligibility": 0.4364704489707947,
+        "ApplicationProcess": 0.37580204010009766,
+        "TimelineFrequency": 0.4130539298057556,
+        "AuthoritiesGovernance": 0.40532535314559937,
+        "DefinitionsReferences": 0.32073426246643066
+      }
+    },
+    {
+      "sentence": "The government aims to increase the enrollment of students from these communities in secondary education.",
+      "role": "ContextObjective",
+      "confidence": 0.5023648738861084,
+      "similarities": {
+        "ContextObjective": 0.5023648738861084,
+        "BenefitsAssistance": 0.3677673041820526,
+        "Eligibility": 0.4508396089076996,
+        "ApplicationProcess": 0.4091010093688965,
+        "TimelineFrequency": 0.4200887978076935,
+        "AuthoritiesGovernance": 0.4314280152320862,
+        "DefinitionsReferences": 0.3824555277824402
+      }
+    },
+    {
+      "sentence": "The scheme also seeks to promote higher education among these students in the long term.",
+      "role": "ContextObjective",
+      "confidence": 0.5218147039413452,
+      "similarities": {
+        "ContextObjective": 0.5218147039413452,
+        "BenefitsAssistance": 0.3843610882759094,
+        "Eligibility": 0.42146188020706177,
+        "ApplicationProcess": 0.40300244092941284,
+        "TimelineFrequency": 0.38487428426742554,
+        "AuthoritiesGovernance": 0.3308804929256439,
+        "DefinitionsReferences": 0.3499782979488373
+      }
+    },
+    {
+      "sentence": "The scholarship is expected to benefit thousands of students across the country.",
+      "role": "Eligibility",
+      "confidence": 0.4959312677383423,
+      "similarities": {
+        "ContextObjective": 0.472494900226593,
+        "BenefitsAssistance": 0.4422157108783722,
+        "Eligibility": 0.4959312677383423,
+        "ApplicationProcess": 0.3825715184211731,
+        "TimelineFrequency": 0.40709084272384644,
+        "AuthoritiesGovernance": 0.32717204093933105,
+        "DefinitionsReferences": 0.37366870045661926
+      }
+    },
+    {
+      "sentence": "In the first year of implementation, the government allocated ₹300 crores for the PM-YASASVI scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4255838394165039,
+      "similarities": {
+        "ContextObjective": 0.4255838394165039,
+        "BenefitsAssistance": 0.40943145751953125,
+        "Eligibility": 0.4115646779537201,
+        "ApplicationProcess": 0.3473242521286011,
+        "TimelineFrequency": 0.3232264816761017,
+        "AuthoritiesGovernance": 0.41059935092926025,
+        "DefinitionsReferences": 0.30985236167907715
+      }
+    },
+    {
+      "sentence": "This funding is intended to support the scholarship disbursement and administrative costs associated with the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5769404172897339,
+      "similarities": {
+        "ContextObjective": 0.5175650119781494,
+        "BenefitsAssistance": 0.5769404172897339,
+        "Eligibility": 0.5015082955360413,
+        "ApplicationProcess": 0.48465031385421753,
+        "TimelineFrequency": 0.4724330008029938,
+        "AuthoritiesGovernance": 0.4789457321166992,
+        "DefinitionsReferences": 0.4460815489292145
+      }
+    },
+    {
+      "sentence": "The government has set a target to increase the number of beneficiaries each year.",
+      "role": "Eligibility",
+      "confidence": 0.5595111846923828,
+      "similarities": {
+        "ContextObjective": 0.5521411895751953,
+        "BenefitsAssistance": 0.49805501103401184,
+        "Eligibility": 0.5595111846923828,
+        "ApplicationProcess": 0.4470546245574951,
+        "TimelineFrequency": 0.44998523592948914,
+        "AuthoritiesGovernance": 0.45967376232147217,
+        "DefinitionsReferences": 0.41949009895324707
+      }
+    },
+    {
+      "sentence": "The PM-YASASVI scheme is expected to play a crucial role in achieving the goal of universal education in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5213233232498169,
+      "similarities": {
+        "ContextObjective": 0.5213233232498169,
+        "BenefitsAssistance": 0.4071195423603058,
+        "Eligibility": 0.44690006971359253,
+        "ApplicationProcess": 0.3988102674484253,
+        "TimelineFrequency": 0.3544309139251709,
+        "AuthoritiesGovernance": 0.39374372363090515,
+        "DefinitionsReferences": 0.35853517055511475
+      }
+    },
+    {
+      "sentence": "The government also aims to create awareness about the scheme among eligible students and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.5574065446853638,
+      "similarities": {
+        "ContextObjective": 0.5574065446853638,
+        "BenefitsAssistance": 0.46230265498161316,
+        "Eligibility": 0.5492089986801147,
+        "ApplicationProcess": 0.4965820014476776,
+        "TimelineFrequency": 0.4303000569343567,
+        "AuthoritiesGovernance": 0.4449874758720398,
+        "DefinitionsReferences": 0.383661150932312
+      }
+    },
+    {
+      "sentence": "Workshops and outreach programs are being organized to inform communities about the benefits of the PM-YASASVI scholarship.",
+      "role": "ContextObjective",
+      "confidence": 0.4781120717525482,
+      "similarities": {
+        "ContextObjective": 0.4781120717525482,
+        "BenefitsAssistance": 0.4391074478626251,
+        "Eligibility": 0.4471052885055542,
+        "ApplicationProcess": 0.4062873125076294,
+        "TimelineFrequency": 0.38791829347610474,
+        "AuthoritiesGovernance": 0.47203776240348816,
+        "DefinitionsReferences": 0.39421766996383667
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the Sustainable Development Goals (SDGs) set by the United Nations, particularly Goal 4, which focuses on quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.5251579284667969,
+      "similarities": {
+        "ContextObjective": 0.5251579284667969,
+        "BenefitsAssistance": 0.35383808612823486,
+        "Eligibility": 0.4457877278327942,
+        "ApplicationProcess": 0.39984214305877686,
+        "TimelineFrequency": 0.39615607261657715,
+        "AuthoritiesGovernance": 0.40056103467941284,
+        "DefinitionsReferences": 0.3592004179954529
+      }
+    },
+    {
+      "sentence": "The PM-YASASVI scheme is an important step towards achieving educational equity in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4891900420188904,
+      "similarities": {
+        "ContextObjective": 0.4891900420188904,
+        "BenefitsAssistance": 0.39179715514183044,
+        "Eligibility": 0.42988425493240356,
+        "ApplicationProcess": 0.3980520963668823,
+        "TimelineFrequency": 0.3565025329589844,
+        "AuthoritiesGovernance": 0.4071676731109619,
+        "DefinitionsReferences": 0.35175296664237976
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that students from OBC, EBC, and DNT backgrounds have access to quality education.",
+      "role": "Eligibility",
+      "confidence": 0.48327720165252686,
+      "similarities": {
+        "ContextObjective": 0.39819055795669556,
+        "BenefitsAssistance": 0.37484878301620483,
+        "Eligibility": 0.48327720165252686,
+        "ApplicationProcess": 0.41909173130989075,
+        "TimelineFrequency": 0.37961065769195557,
+        "AuthoritiesGovernance": 0.41742876172065735,
+        "DefinitionsReferences": 0.4037505090236664
+      }
+    },
+    {
+      "sentence": "The scheme is expected to empower these students and help them build a better future.",
+      "role": "ContextObjective",
+      "confidence": 0.5577608346939087,
+      "similarities": {
+        "ContextObjective": 0.5577608346939087,
+        "BenefitsAssistance": 0.4147643446922302,
+        "Eligibility": 0.4464261829853058,
+        "ApplicationProcess": 0.3983456492424011,
+        "TimelineFrequency": 0.3855302333831787,
+        "AuthoritiesGovernance": 0.3654676675796509,
+        "DefinitionsReferences": 0.3520996868610382
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation mechanisms are in place to assess the impact of the PM-YASASVI scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5058252811431885,
+      "similarities": {
+        "ContextObjective": 0.48685839772224426,
+        "BenefitsAssistance": 0.4778834283351898,
+        "Eligibility": 0.5058252811431885,
+        "ApplicationProcess": 0.4560236632823944,
+        "TimelineFrequency": 0.42620256543159485,
+        "AuthoritiesGovernance": 0.5052481293678284,
+        "DefinitionsReferences": 0.4202233850955963
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5584428906440735,
+      "similarities": {
+        "ContextObjective": 0.5260372161865234,
+        "BenefitsAssistance": 0.5003200769424438,
+        "Eligibility": 0.534416913986206,
+        "ApplicationProcess": 0.4749782681465149,
+        "TimelineFrequency": 0.4199962317943573,
+        "AuthoritiesGovernance": 0.5584428906440735,
+        "DefinitionsReferences": 0.4378007650375366
+      }
+    },
+    {
+      "sentence": "The government is also exploring partnerships with non-governmental organizations (NGOs) to enhance the reach of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4893668591976166,
+      "similarities": {
+        "ContextObjective": 0.4893668591976166,
+        "BenefitsAssistance": 0.40376147627830505,
+        "Eligibility": 0.4729600250720978,
+        "ApplicationProcess": 0.41424039006233215,
+        "TimelineFrequency": 0.37231355905532837,
+        "AuthoritiesGovernance": 0.4744006395339966,
+        "DefinitionsReferences": 0.4139939546585083
+      }
+    },
+    {
+      "sentence": "The PM-YASASVI scheme is a testament to the government's commitment to social justice and educational empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.45587027072906494,
+      "similarities": {
+        "ContextObjective": 0.45587027072906494,
+        "BenefitsAssistance": 0.3655073344707489,
+        "Eligibility": 0.39056679606437683,
+        "ApplicationProcess": 0.3394104242324829,
+        "TimelineFrequency": 0.30023810267448425,
+        "AuthoritiesGovernance": 0.3699566721916199,
+        "DefinitionsReferences": 0.3551906943321228
+      }
+    },
+    {
+      "sentence": "The scheme is expected to contribute significantly to the overall development of marginalized communities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48037540912628174,
+      "similarities": {
+        "ContextObjective": 0.48037540912628174,
+        "BenefitsAssistance": 0.4142161011695862,
+        "Eligibility": 0.4347195029258728,
+        "ApplicationProcess": 0.3526095151901245,
+        "TimelineFrequency": 0.32679182291030884,
+        "AuthoritiesGovernance": 0.38904502987861633,
+        "DefinitionsReferences": 0.3400282859802246
+      }
+    },
+    {
+      "sentence": "In conclusion, the PM-YASASVI scheme represents a vital initiative aimed at fostering educational opportunities for OBC, EBC, and DNT students.",
+      "role": "ContextObjective",
+      "confidence": 0.5043154358863831,
+      "similarities": {
+        "ContextObjective": 0.5043154358863831,
+        "BenefitsAssistance": 0.36398348212242126,
+        "Eligibility": 0.434495747089386,
+        "ApplicationProcess": 0.37731054425239563,
+        "TimelineFrequency": 0.3748561143875122,
+        "AuthoritiesGovernance": 0.3532382845878601,
+        "DefinitionsReferences": 0.35982683300971985
+      }
+    },
+    {
+      "sentence": "With a structured approach to financial assistance and support, the scheme is poised to make a lasting impact on the educational landscape in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4875754415988922,
+      "similarities": {
+        "ContextObjective": 0.4875754415988922,
+        "BenefitsAssistance": 0.46255993843078613,
+        "Eligibility": 0.4450085163116455,
+        "ApplicationProcess": 0.38721299171447754,
+        "TimelineFrequency": 0.37324729561805725,
+        "AuthoritiesGovernance": 0.3625943064689636,
+        "DefinitionsReferences": 0.38101470470428467
+      }
+    },
+    {
+      "sentence": "The government continues to work towards refining and expanding the scheme to ensure that it meets the needs of its beneficiaries effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5347555875778198,
+      "similarities": {
+        "ContextObjective": 0.5347555875778198,
+        "BenefitsAssistance": 0.4553242325782776,
+        "Eligibility": 0.5037307143211365,
+        "ApplicationProcess": 0.46046966314315796,
+        "TimelineFrequency": 0.40872305631637573,
+        "AuthoritiesGovernance": 0.49627816677093506,
+        "DefinitionsReferences": 0.41745495796203613
+      }
+    },
+    {
+      "sentence": "Students and families are encouraged to take advantage of this opportunity to secure their educational futures.",
+      "role": "ContextObjective",
+      "confidence": 0.49503010511398315,
+      "similarities": {
+        "ContextObjective": 0.49503010511398315,
+        "BenefitsAssistance": 0.43539589643478394,
+        "Eligibility": 0.4783545136451721,
+        "ApplicationProcess": 0.4504730701446533,
+        "TimelineFrequency": 0.45365357398986816,
+        "AuthoritiesGovernance": 0.35082805156707764,
+        "DefinitionsReferences": 0.39712393283843994
+      }
+    },
+    {
+      "sentence": "The PM-YASASVI scheme stands as a beacon of hope for many aspiring students across the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.5035821199417114,
+      "similarities": {
+        "ContextObjective": 0.5035821199417114,
+        "BenefitsAssistance": 0.36210060119628906,
+        "Eligibility": 0.43546777963638306,
+        "ApplicationProcess": 0.3667519986629486,
+        "TimelineFrequency": 0.3552674651145935,
+        "AuthoritiesGovernance": 0.33331844210624695,
+        "DefinitionsReferences": 0.34540677070617676
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "BenefitsAssistance": 6,
+    "Eligibility": 10,
+    "ApplicationProcess": 5,
+    "TimelineFrequency": 5,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-24T21:04:06.346219"
+}

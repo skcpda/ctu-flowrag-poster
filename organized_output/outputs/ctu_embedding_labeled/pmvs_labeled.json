@@ -1,0 +1,715 @@
+{
+  "scheme_name": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+  "total_sentences": 50,
+  "labeled_sentences": [
+    {
+      "sentence": "The Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme was launched by the Government of India on 15th August 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5658096671104431,
+      "similarities": {
+        "ContextObjective": 0.5658096671104431,
+        "BenefitsAssistance": 0.45842814445495605,
+        "Eligibility": 0.5030423402786255,
+        "ApplicationProcess": 0.4887322187423706,
+        "TimelineFrequency": 0.5061831474304199,
+        "AuthoritiesGovernance": 0.4521092474460602,
+        "DefinitionsReferences": 0.42066872119903564
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to students pursuing higher education in India and abroad.",
+      "role": "ContextObjective",
+      "confidence": 0.5563506484031677,
+      "similarities": {
+        "ContextObjective": 0.5563506484031677,
+        "BenefitsAssistance": 0.5132871866226196,
+        "Eligibility": 0.5339757204055786,
+        "ApplicationProcess": 0.46850961446762085,
+        "TimelineFrequency": 0.4324071407318115,
+        "AuthoritiesGovernance": 0.37819403409957886,
+        "DefinitionsReferences": 0.37848585844039917
+      }
+    },
+    {
+      "sentence": "The primary objective of the PM-Vidyalaxmi Scheme is to ensure that students from economically weaker sections can access quality education without financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5415982007980347,
+      "similarities": {
+        "ContextObjective": 0.5415982007980347,
+        "BenefitsAssistance": 0.40860629081726074,
+        "Eligibility": 0.4811169505119324,
+        "ApplicationProcess": 0.43269503116607666,
+        "TimelineFrequency": 0.41076037287712097,
+        "AuthoritiesGovernance": 0.3600166141986847,
+        "DefinitionsReferences": 0.335330992937088
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students who wish to pursue professional courses such as engineering, medical, management, and other vocational courses.",
+      "role": "ContextObjective",
+      "confidence": 0.5372212529182434,
+      "similarities": {
+        "ContextObjective": 0.5372212529182434,
+        "BenefitsAssistance": 0.40195706486701965,
+        "Eligibility": 0.4907325208187103,
+        "ApplicationProcess": 0.43284040689468384,
+        "TimelineFrequency": 0.4634045660495758,
+        "AuthoritiesGovernance": 0.3496752381324768,
+        "DefinitionsReferences": 0.37333202362060547
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of providing financial support to over 1 million students annually under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4918321371078491,
+      "similarities": {
+        "ContextObjective": 0.4918321371078491,
+        "BenefitsAssistance": 0.4434225559234619,
+        "Eligibility": 0.45872756838798523,
+        "ApplicationProcess": 0.3870810866355896,
+        "TimelineFrequency": 0.3843696415424347,
+        "AuthoritiesGovernance": 0.3526114225387573,
+        "DefinitionsReferences": 0.33653196692466736
+      }
+    },
+    {
+      "sentence": "The scheme is designed to facilitate easy access to educational loans through various banks and financial institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.5376299619674683,
+      "similarities": {
+        "ContextObjective": 0.5376299619674683,
+        "BenefitsAssistance": 0.5103422999382019,
+        "Eligibility": 0.5289071202278137,
+        "ApplicationProcess": 0.49151381850242615,
+        "TimelineFrequency": 0.48927104473114014,
+        "AuthoritiesGovernance": 0.4270545244216919,
+        "DefinitionsReferences": 0.4261668920516968
+      }
+    },
+    {
+      "sentence": "Under the PM-Vidyalaxmi Scheme, students can avail of loans up to INR 7.5 lakh for studying in India and up to INR 15 lakh for studying abroad.",
+      "role": "Eligibility",
+      "confidence": 0.5063671469688416,
+      "similarities": {
+        "ContextObjective": 0.44999033212661743,
+        "BenefitsAssistance": 0.5011706352233887,
+        "Eligibility": 0.5063671469688416,
+        "ApplicationProcess": 0.47212082147598267,
+        "TimelineFrequency": 0.451504111289978,
+        "AuthoritiesGovernance": 0.3363235592842102,
+        "DefinitionsReferences": 0.41297170519828796
+      }
+    },
+    {
+      "sentence": "The interest rates on these loans are significantly subsidized, making it easier for students to repay them after completing their education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4449349045753479,
+      "similarities": {
+        "ContextObjective": 0.35517603158950806,
+        "BenefitsAssistance": 0.4449349045753479,
+        "Eligibility": 0.39227980375289917,
+        "ApplicationProcess": 0.3805524706840515,
+        "TimelineFrequency": 0.41149458289146423,
+        "AuthoritiesGovernance": 0.3087790608406067,
+        "DefinitionsReferences": 0.328280508518219
+      }
+    },
+    {
+      "sentence": "The government has also established a dedicated portal for the PM-Vidyalaxmi Scheme, which serves as a one-stop solution for students to apply for loans.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4843219816684723,
+      "similarities": {
+        "ContextObjective": 0.43900856375694275,
+        "BenefitsAssistance": 0.42671334743499756,
+        "Eligibility": 0.4731252193450928,
+        "ApplicationProcess": 0.4843219816684723,
+        "TimelineFrequency": 0.44040989875793457,
+        "AuthoritiesGovernance": 0.36868157982826233,
+        "DefinitionsReferences": 0.39911580085754395
+      }
+    },
+    {
+      "sentence": "This portal provides detailed information about the eligibility criteria, application process, and required documentation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6954203248023987,
+      "similarities": {
+        "ContextObjective": 0.5180802941322327,
+        "BenefitsAssistance": 0.5902838110923767,
+        "Eligibility": 0.6418141722679138,
+        "ApplicationProcess": 0.6954203248023987,
+        "TimelineFrequency": 0.6114320755004883,
+        "AuthoritiesGovernance": 0.4741039574146271,
+        "DefinitionsReferences": 0.5281339883804321
+      }
+    },
+    {
+      "sentence": "To be eligible for the PM-Vidyalaxmi Scheme, students must be Indian citizens.",
+      "role": "Eligibility",
+      "confidence": 0.5559569001197815,
+      "similarities": {
+        "ContextObjective": 0.4308748245239258,
+        "BenefitsAssistance": 0.3644893169403076,
+        "Eligibility": 0.5559569001197815,
+        "ApplicationProcess": 0.4938150942325592,
+        "TimelineFrequency": 0.42189353704452515,
+        "AuthoritiesGovernance": 0.3292132616043091,
+        "DefinitionsReferences": 0.34861648082733154
+      }
+    },
+    {
+      "sentence": "They should have completed their higher secondary education or equivalent.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5189908742904663,
+      "similarities": {
+        "ContextObjective": 0.4882321357727051,
+        "BenefitsAssistance": 0.4188195466995239,
+        "Eligibility": 0.4978640675544739,
+        "ApplicationProcess": 0.5189908742904663,
+        "TimelineFrequency": 0.4518386125564575,
+        "AuthoritiesGovernance": 0.4253668189048767,
+        "DefinitionsReferences": 0.42084968090057373
+      }
+    },
+    {
+      "sentence": "Students must also have secured admission to a recognized institution for a professional course.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5236262679100037,
+      "similarities": {
+        "ContextObjective": 0.4467300474643707,
+        "BenefitsAssistance": 0.4040953814983368,
+        "Eligibility": 0.5235456824302673,
+        "ApplicationProcess": 0.5236262679100037,
+        "TimelineFrequency": 0.4730408787727356,
+        "AuthoritiesGovernance": 0.359749972820282,
+        "DefinitionsReferences": 0.42728808522224426
+      }
+    },
+    {
+      "sentence": "The annual family income of applicants should not exceed INR 6 lakh to qualify for the benefits under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5722758769989014,
+      "similarities": {
+        "ContextObjective": 0.45016735792160034,
+        "BenefitsAssistance": 0.4838809669017792,
+        "Eligibility": 0.5722758769989014,
+        "ApplicationProcess": 0.5016688108444214,
+        "TimelineFrequency": 0.45113617181777954,
+        "AuthoritiesGovernance": 0.34948936104774475,
+        "DefinitionsReferences": 0.3420621156692505
+      }
+    },
+    {
+      "sentence": "The application process for the PM-Vidyalaxmi Scheme is straightforward and can be completed online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6278601884841919,
+      "similarities": {
+        "ContextObjective": 0.4964286684989929,
+        "BenefitsAssistance": 0.4205652177333832,
+        "Eligibility": 0.4994916319847107,
+        "ApplicationProcess": 0.6278601884841919,
+        "TimelineFrequency": 0.4978227913379669,
+        "AuthoritiesGovernance": 0.38411596417427063,
+        "DefinitionsReferences": 0.37048256397247314
+      }
+    },
+    {
+      "sentence": "Students need to visit the official PM-Vidyalaxmi portal at www.pmvidyalaxmi.in.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5239197015762329,
+      "similarities": {
+        "ContextObjective": 0.42291709780693054,
+        "BenefitsAssistance": 0.3964381217956543,
+        "Eligibility": 0.45201966166496277,
+        "ApplicationProcess": 0.5239197015762329,
+        "TimelineFrequency": 0.4504798352718353,
+        "AuthoritiesGovernance": 0.4077950716018677,
+        "DefinitionsReferences": 0.41044485569000244
+      }
+    },
+    {
+      "sentence": "They must register on the portal by providing their basic details such as name, email address, and mobile number.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5719823837280273,
+      "similarities": {
+        "ContextObjective": 0.4307496249675751,
+        "BenefitsAssistance": 0.49157407879829407,
+        "Eligibility": 0.5287102460861206,
+        "ApplicationProcess": 0.5719823837280273,
+        "TimelineFrequency": 0.48249053955078125,
+        "AuthoritiesGovernance": 0.46991217136383057,
+        "DefinitionsReferences": 0.4505718946456909
+      }
+    },
+    {
+      "sentence": "After registration, students can log in to their accounts and fill out the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6302240490913391,
+      "similarities": {
+        "ContextObjective": 0.433390736579895,
+        "BenefitsAssistance": 0.4781981408596039,
+        "Eligibility": 0.49969160556793213,
+        "ApplicationProcess": 0.6302240490913391,
+        "TimelineFrequency": 0.5433664321899414,
+        "AuthoritiesGovernance": 0.40608853101730347,
+        "DefinitionsReferences": 0.4396801292896271
+      }
+    },
+    {
+      "sentence": "The application form requires students to provide details about their educational qualifications, the course they wish to pursue, and the institution they have been admitted to.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6684927344322205,
+      "similarities": {
+        "ContextObjective": 0.5362207889556885,
+        "BenefitsAssistance": 0.5168007612228394,
+        "Eligibility": 0.6008387804031372,
+        "ApplicationProcess": 0.6684927344322205,
+        "TimelineFrequency": 0.5762161016464233,
+        "AuthoritiesGovernance": 0.41538968682289124,
+        "DefinitionsReferences": 0.4682944416999817
+      }
+    },
+    {
+      "sentence": "Students must also upload necessary documents such as their Aadhar card, income certificate, admission letter, and educational certificates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5929751992225647,
+      "similarities": {
+        "ContextObjective": 0.3927443027496338,
+        "BenefitsAssistance": 0.47679728269577026,
+        "Eligibility": 0.47739845514297485,
+        "ApplicationProcess": 0.5929751992225647,
+        "TimelineFrequency": 0.47565022110939026,
+        "AuthoritiesGovernance": 0.3842606246471405,
+        "DefinitionsReferences": 0.481800377368927
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "Students will receive a notification regarding the status of their application via email or SMS.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6218061447143555,
+      "similarities": {
+        "ContextObjective": 0.49937283992767334,
+        "BenefitsAssistance": 0.5115668773651123,
+        "Eligibility": 0.5457935929298401,
+        "ApplicationProcess": 0.611220121383667,
+        "TimelineFrequency": 0.6218061447143555,
+        "AuthoritiesGovernance": 0.4653025269508362,
+        "DefinitionsReferences": 0.45489469170570374
+      }
+    },
+    {
+      "sentence": "If approved, the loan amount will be disbursed directly to the educational institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5019425749778748,
+      "similarities": {
+        "ContextObjective": 0.4077944755554199,
+        "BenefitsAssistance": 0.5019425749778748,
+        "Eligibility": 0.4799007773399353,
+        "ApplicationProcess": 0.45942872762680054,
+        "TimelineFrequency": 0.43231552839279175,
+        "AuthoritiesGovernance": 0.41027623414993286,
+        "DefinitionsReferences": 0.3634745478630066
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme aims to disburse loans within 15 days of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4873456656932831,
+      "similarities": {
+        "ContextObjective": 0.44367003440856934,
+        "BenefitsAssistance": 0.456388920545578,
+        "Eligibility": 0.4686175584793091,
+        "ApplicationProcess": 0.45874863862991333,
+        "TimelineFrequency": 0.4873456656932831,
+        "AuthoritiesGovernance": 0.36291301250457764,
+        "DefinitionsReferences": 0.35552069544792175
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Education in collaboration with various public and private sector banks.",
+      "role": "ContextObjective",
+      "confidence": 0.5041449666023254,
+      "similarities": {
+        "ContextObjective": 0.5041449666023254,
+        "BenefitsAssistance": 0.48525479435920715,
+        "Eligibility": 0.46258825063705444,
+        "ApplicationProcess": 0.4522894024848938,
+        "TimelineFrequency": 0.43567848205566406,
+        "AuthoritiesGovernance": 0.4940319061279297,
+        "DefinitionsReferences": 0.4218975901603699
+      }
+    },
+    {
+      "sentence": "The Ministry of Education has set up a dedicated helpline for students to address their queries related to the PM-Vidyalaxmi Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.455930233001709,
+      "similarities": {
+        "ContextObjective": 0.455930233001709,
+        "BenefitsAssistance": 0.4288009703159332,
+        "Eligibility": 0.44616571068763733,
+        "ApplicationProcess": 0.4386512339115143,
+        "TimelineFrequency": 0.412493497133255,
+        "AuthoritiesGovernance": 0.4268703758716583,
+        "DefinitionsReferences": 0.3784993290901184
+      }
+    },
+    {
+      "sentence": "The helpline number is 1800 123 4567.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4802663326263428,
+      "similarities": {
+        "ContextObjective": 0.3884444832801819,
+        "BenefitsAssistance": 0.4802663326263428,
+        "Eligibility": 0.4323055148124695,
+        "ApplicationProcess": 0.41996681690216064,
+        "TimelineFrequency": 0.3861238360404968,
+        "AuthoritiesGovernance": 0.42138588428497314,
+        "DefinitionsReferences": 0.3519773483276367
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme also encourages banks to provide additional benefits such as interest subsidies and flexible repayment options.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4955683946609497,
+      "similarities": {
+        "ContextObjective": 0.450033962726593,
+        "BenefitsAssistance": 0.4955683946609497,
+        "Eligibility": 0.4655689597129822,
+        "ApplicationProcess": 0.42050427198410034,
+        "TimelineFrequency": 0.4160793423652649,
+        "AuthoritiesGovernance": 0.3505508005619049,
+        "DefinitionsReferences": 0.42167043685913086
+      }
+    },
+    {
+      "sentence": "Students can avail of a moratorium period of up to 1 year after completing their course before starting the repayment of the loan.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5087130069732666,
+      "similarities": {
+        "ContextObjective": 0.422105073928833,
+        "BenefitsAssistance": 0.45172184705734253,
+        "Eligibility": 0.5040394067764282,
+        "ApplicationProcess": 0.4569060802459717,
+        "TimelineFrequency": 0.5087130069732666,
+        "AuthoritiesGovernance": 0.3595162034034729,
+        "DefinitionsReferences": 0.38363876938819885
+      }
+    },
+    {
+      "sentence": "The government has also partnered with various educational institutions to promote the scheme and ensure that students are aware of the available benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.4860357642173767,
+      "similarities": {
+        "ContextObjective": 0.4860357642173767,
+        "BenefitsAssistance": 0.46543779969215393,
+        "Eligibility": 0.45503172278404236,
+        "ApplicationProcess": 0.4287634789943695,
+        "TimelineFrequency": 0.41273319721221924,
+        "AuthoritiesGovernance": 0.4302522540092468,
+        "DefinitionsReferences": 0.429798424243927
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme is part of the larger initiative by the Government of India to enhance the quality of education and increase the enrollment of students in higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5440669059753418,
+      "similarities": {
+        "ContextObjective": 0.5440669059753418,
+        "BenefitsAssistance": 0.43409425020217896,
+        "Eligibility": 0.47831404209136963,
+        "ApplicationProcess": 0.4730827212333679,
+        "TimelineFrequency": 0.4389033615589142,
+        "AuthoritiesGovernance": 0.4295271039009094,
+        "DefinitionsReferences": 0.4176759719848633
+      }
+    },
+    {
+      "sentence": "According to the All India Survey on Higher Education 2019-2020, the Gross Enrollment Ratio (GER) in higher education stood at 27.1%.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4161262512207031,
+      "similarities": {
+        "ContextObjective": 0.4021306037902832,
+        "BenefitsAssistance": 0.4161262512207031,
+        "Eligibility": 0.4109756350517273,
+        "ApplicationProcess": 0.3916240930557251,
+        "TimelineFrequency": 0.39538201689720154,
+        "AuthoritiesGovernance": 0.39900147914886475,
+        "DefinitionsReferences": 0.3618035316467285
+      }
+    },
+    {
+      "sentence": "The government aims to increase this ratio to 50% by 2035.",
+      "role": "ContextObjective",
+      "confidence": 0.4395931363105774,
+      "similarities": {
+        "ContextObjective": 0.4395931363105774,
+        "BenefitsAssistance": 0.38220077753067017,
+        "Eligibility": 0.3803880214691162,
+        "ApplicationProcess": 0.3691512942314148,
+        "TimelineFrequency": 0.372756689786911,
+        "AuthoritiesGovernance": 0.37773579359054565,
+        "DefinitionsReferences": 0.3296113610267639
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme plays a crucial role in achieving this target by providing financial support to deserving students.",
+      "role": "ContextObjective",
+      "confidence": 0.514526903629303,
+      "similarities": {
+        "ContextObjective": 0.514526903629303,
+        "BenefitsAssistance": 0.4711259603500366,
+        "Eligibility": 0.48660746216773987,
+        "ApplicationProcess": 0.4226451516151428,
+        "TimelineFrequency": 0.3996305763721466,
+        "AuthoritiesGovernance": 0.3536323010921478,
+        "DefinitionsReferences": 0.3757619857788086
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also aims to promote skill development and entrepreneurship among students.",
+      "role": "ContextObjective",
+      "confidence": 0.4876706004142761,
+      "similarities": {
+        "ContextObjective": 0.4876706004142761,
+        "BenefitsAssistance": 0.4532259404659271,
+        "Eligibility": 0.42357030510902405,
+        "ApplicationProcess": 0.38858550786972046,
+        "TimelineFrequency": 0.39492326974868774,
+        "AuthoritiesGovernance": 0.33681344985961914,
+        "DefinitionsReferences": 0.37366771697998047
+      }
+    },
+    {
+      "sentence": "The government encourages students to pursue courses that align with the skill requirements of the job market.",
+      "role": "Eligibility",
+      "confidence": 0.48701658844947815,
+      "similarities": {
+        "ContextObjective": 0.47611963748931885,
+        "BenefitsAssistance": 0.40342503786087036,
+        "Eligibility": 0.48701658844947815,
+        "ApplicationProcess": 0.4597998261451721,
+        "TimelineFrequency": 0.4545401930809021,
+        "AuthoritiesGovernance": 0.4018728733062744,
+        "DefinitionsReferences": 0.434628427028656
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme also emphasizes the importance of education in empowering individuals and improving their socio-economic status.",
+      "role": "ContextObjective",
+      "confidence": 0.4595143795013428,
+      "similarities": {
+        "ContextObjective": 0.4595143795013428,
+        "BenefitsAssistance": 0.39150160551071167,
+        "Eligibility": 0.40004655718803406,
+        "ApplicationProcess": 0.3759692311286926,
+        "TimelineFrequency": 0.3377140760421753,
+        "AuthoritiesGovernance": 0.34301674365997314,
+        "DefinitionsReferences": 0.34785890579223633
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from students and educational institutions alike.",
+      "role": "ContextObjective",
+      "confidence": 0.5170040726661682,
+      "similarities": {
+        "ContextObjective": 0.5170040726661682,
+        "BenefitsAssistance": 0.4173213243484497,
+        "Eligibility": 0.4303392469882965,
+        "ApplicationProcess": 0.4186127185821533,
+        "TimelineFrequency": 0.39794594049453735,
+        "AuthoritiesGovernance": 0.38275963068008423,
+        "DefinitionsReferences": 0.39780938625335693
+      }
+    },
+    {
+      "sentence": "Many students have reported that the financial assistance provided under this scheme has significantly reduced their financial burden.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49383991956710815,
+      "similarities": {
+        "ContextObjective": 0.4100101590156555,
+        "BenefitsAssistance": 0.49383991956710815,
+        "Eligibility": 0.40862026810646057,
+        "ApplicationProcess": 0.3666350841522217,
+        "TimelineFrequency": 0.3465530276298523,
+        "AuthoritiesGovernance": 0.302181601524353,
+        "DefinitionsReferences": 0.3190561532974243
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme is expected to contribute to the overall development of the education sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48384425044059753,
+      "similarities": {
+        "ContextObjective": 0.48384425044059753,
+        "BenefitsAssistance": 0.42405185103416443,
+        "Eligibility": 0.4163331687450409,
+        "ApplicationProcess": 0.39540112018585205,
+        "TimelineFrequency": 0.3745213449001312,
+        "AuthoritiesGovernance": 0.3887169361114502,
+        "DefinitionsReferences": 0.3777615427970886
+      }
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the scheme to ensure its effectiveness and to make necessary improvements.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5103196501731873,
+      "similarities": {
+        "ContextObjective": 0.5076690316200256,
+        "BenefitsAssistance": 0.4392184913158417,
+        "Eligibility": 0.4703894853591919,
+        "ApplicationProcess": 0.5022051334381104,
+        "TimelineFrequency": 0.4280046224594116,
+        "AuthoritiesGovernance": 0.5103196501731873,
+        "DefinitionsReferences": 0.41410309076309204
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme is a testament to the Government of India's commitment to promoting education and ensuring that no deserving student is deprived of quality education due to financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5377938151359558,
+      "similarities": {
+        "ContextObjective": 0.5377938151359558,
+        "BenefitsAssistance": 0.46664488315582275,
+        "Eligibility": 0.526313066482544,
+        "ApplicationProcess": 0.4793621897697449,
+        "TimelineFrequency": 0.45289480686187744,
+        "AuthoritiesGovernance": 0.39861971139907837,
+        "DefinitionsReferences": 0.43092578649520874
+      }
+    },
+    {
+      "sentence": "In conclusion, the PM-Vidyalaxmi Scheme is a comprehensive initiative aimed at providing financial support to students pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5181849002838135,
+      "similarities": {
+        "ContextObjective": 0.5181849002838135,
+        "BenefitsAssistance": 0.5129989385604858,
+        "Eligibility": 0.45304328203201294,
+        "ApplicationProcess": 0.4513317346572876,
+        "TimelineFrequency": 0.42394813895225525,
+        "AuthoritiesGovernance": 0.36651411652565,
+        "DefinitionsReferences": 0.3998282849788666
+      }
+    },
+    {
+      "sentence": "With its specific eligibility criteria, straightforward application process, and significant financial assistance, the scheme is poised to make a lasting impact on the education landscape in India.",
+      "role": "Eligibility",
+      "confidence": 0.5301790237426758,
+      "similarities": {
+        "ContextObjective": 0.5161521434783936,
+        "BenefitsAssistance": 0.46051937341690063,
+        "Eligibility": 0.5301790237426758,
+        "ApplicationProcess": 0.4753611981868744,
+        "TimelineFrequency": 0.4410831928253174,
+        "AuthoritiesGovernance": 0.3453146815299988,
+        "DefinitionsReferences": 0.36993277072906494
+      }
+    },
+    {
+      "sentence": "Students are encouraged to take advantage of this scheme to secure their future through quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.5175228714942932,
+      "similarities": {
+        "ContextObjective": 0.5175228714942932,
+        "BenefitsAssistance": 0.41539767384529114,
+        "Eligibility": 0.4489915370941162,
+        "ApplicationProcess": 0.4435856342315674,
+        "TimelineFrequency": 0.425431489944458,
+        "AuthoritiesGovernance": 0.3345046639442444,
+        "DefinitionsReferences": 0.37644603848457336
+      }
+    },
+    {
+      "sentence": "For more information and updates, students can regularly check the official PM-Vidyalaxmi portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5045953392982483,
+      "similarities": {
+        "ContextObjective": 0.3966757357120514,
+        "BenefitsAssistance": 0.4499518871307373,
+        "Eligibility": 0.42241010069847107,
+        "ApplicationProcess": 0.5045953392982483,
+        "TimelineFrequency": 0.478465735912323,
+        "AuthoritiesGovernance": 0.39757218956947327,
+        "DefinitionsReferences": 0.4472821354866028
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the benefits of this scheme reach the intended beneficiaries effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5242964625358582,
+      "similarities": {
+        "ContextObjective": 0.5242964625358582,
+        "BenefitsAssistance": 0.4422762095928192,
+        "Eligibility": 0.5233556628227234,
+        "ApplicationProcess": 0.43710610270500183,
+        "TimelineFrequency": 0.38070568442344666,
+        "AuthoritiesGovernance": 0.47080111503601074,
+        "DefinitionsReferences": 0.37336671352386475
+      }
+    },
+    {
+      "sentence": "The PM-Vidyalaxmi Scheme is a step towards achieving educational equity and promoting inclusive growth in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5128340125083923,
+      "similarities": {
+        "ContextObjective": 0.5128340125083923,
+        "BenefitsAssistance": 0.40440651774406433,
+        "Eligibility": 0.4483093321323395,
+        "ApplicationProcess": 0.4163978099822998,
+        "TimelineFrequency": 0.37336307764053345,
+        "AuthoritiesGovernance": 0.4022001326084137,
+        "DefinitionsReferences": 0.37993600964546204
+      }
+    },
+    {
+      "sentence": "Students are urged to spread awareness about the scheme among their peers and communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5388548374176025,
+      "similarities": {
+        "ContextObjective": 0.5388548374176025,
+        "BenefitsAssistance": 0.43980085849761963,
+        "Eligibility": 0.4762771427631378,
+        "ApplicationProcess": 0.43305760622024536,
+        "TimelineFrequency": 0.392192542552948,
+        "AuthoritiesGovernance": 0.42689475417137146,
+        "DefinitionsReferences": 0.38479048013687134
+      }
+    },
+    {
+      "sentence": "This will help in maximizing the reach and impact of the PM-Vidyalaxmi Scheme across the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.5238702297210693,
+      "similarities": {
+        "ContextObjective": 0.5238702297210693,
+        "BenefitsAssistance": 0.43088361620903015,
+        "Eligibility": 0.5080573558807373,
+        "ApplicationProcess": 0.437575101852417,
+        "TimelineFrequency": 0.42720574140548706,
+        "AuthoritiesGovernance": 0.44753360748291016,
+        "DefinitionsReferences": 0.41218847036361694
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "Eligibility": 5,
+    "BenefitsAssistance": 6,
+    "ApplicationProcess": 12,
+    "TimelineFrequency": 3,
+    "AuthoritiesGovernance": 1
+  },
+  "processing_timestamp": "2025-09-24T21:06:00.900469"
+}

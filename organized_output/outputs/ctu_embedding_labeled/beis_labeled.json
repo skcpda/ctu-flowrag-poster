@@ -1,0 +1,898 @@
+{
+  "scheme_name": "Back Ended Interest Subsidy (BEIS)",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Back Ended Interest Subsidy Scheme (BEIS) was launched by the Government of India in 2018.",
+      "role": "ContextObjective",
+      "confidence": 0.5313925743103027,
+      "similarities": {
+        "ContextObjective": 0.5313925743103027,
+        "BenefitsAssistance": 0.4865931272506714,
+        "Eligibility": 0.49246758222579956,
+        "ApplicationProcess": 0.44569340348243713,
+        "TimelineFrequency": 0.4325912594795227,
+        "AuthoritiesGovernance": 0.40968307852745056,
+        "DefinitionsReferences": 0.4044681489467621
+      }
+    },
+    {
+      "sentence": "This scheme is primarily aimed at providing financial support to the housing sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5411758422851562,
+      "similarities": {
+        "ContextObjective": 0.5411758422851562,
+        "BenefitsAssistance": 0.5361666083335876,
+        "Eligibility": 0.4709920585155487,
+        "ApplicationProcess": 0.46191728115081787,
+        "TimelineFrequency": 0.4326212406158447,
+        "AuthoritiesGovernance": 0.41376209259033203,
+        "DefinitionsReferences": 0.38922515511512756
+      }
+    },
+    {
+      "sentence": "The BEIS is specifically designed to facilitate the construction of affordable housing for the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.45983272790908813,
+      "similarities": {
+        "ContextObjective": 0.45983272790908813,
+        "BenefitsAssistance": 0.414788156747818,
+        "Eligibility": 0.45713669061660767,
+        "ApplicationProcess": 0.3984675407409668,
+        "TimelineFrequency": 0.3755607008934021,
+        "AuthoritiesGovernance": 0.38106587529182434,
+        "DefinitionsReferences": 0.32889044284820557
+      }
+    },
+    {
+      "sentence": "The objective of the scheme is to promote the development of affordable housing by providing interest subsidies on loans taken for housing projects.",
+      "role": "ContextObjective",
+      "confidence": 0.5569092035293579,
+      "similarities": {
+        "ContextObjective": 0.5569092035293579,
+        "BenefitsAssistance": 0.4307931661605835,
+        "Eligibility": 0.4793938398361206,
+        "ApplicationProcess": 0.44016212224960327,
+        "TimelineFrequency": 0.4346669316291809,
+        "AuthoritiesGovernance": 0.38809406757354736,
+        "DefinitionsReferences": 0.3721919357776642
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide a subsidy of up to 3 percent on the interest payable on loans.",
+      "role": "ContextObjective",
+      "confidence": 0.4987378418445587,
+      "similarities": {
+        "ContextObjective": 0.4987378418445587,
+        "BenefitsAssistance": 0.4799555540084839,
+        "Eligibility": 0.48264554142951965,
+        "ApplicationProcess": 0.40945374965667725,
+        "TimelineFrequency": 0.4303898811340332,
+        "AuthoritiesGovernance": 0.3653264045715332,
+        "DefinitionsReferences": 0.3678269386291504
+      }
+    },
+    {
+      "sentence": "This subsidy is applicable for a period of 20 years from the date of loan disbursement.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48749327659606934,
+      "similarities": {
+        "ContextObjective": 0.3959987163543701,
+        "BenefitsAssistance": 0.48749327659606934,
+        "Eligibility": 0.48402464389801025,
+        "ApplicationProcess": 0.4071114659309387,
+        "TimelineFrequency": 0.4637170135974884,
+        "AuthoritiesGovernance": 0.3677300214767456,
+        "DefinitionsReferences": 0.3906714916229248
+      }
+    },
+    {
+      "sentence": "The maximum loan amount eligible for this subsidy is capped at INR 2 crore.",
+      "role": "Eligibility",
+      "confidence": 0.47548535466194153,
+      "similarities": {
+        "ContextObjective": 0.3636978268623352,
+        "BenefitsAssistance": 0.47194263339042664,
+        "Eligibility": 0.47548535466194153,
+        "ApplicationProcess": 0.33686456084251404,
+        "TimelineFrequency": 0.3726845681667328,
+        "AuthoritiesGovernance": 0.2982710599899292,
+        "DefinitionsReferences": 0.3415239155292511
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit a significant number of individuals and families in the lower income brackets.",
+      "role": "Eligibility",
+      "confidence": 0.5493765473365784,
+      "similarities": {
+        "ContextObjective": 0.5097180604934692,
+        "BenefitsAssistance": 0.5081365704536438,
+        "Eligibility": 0.5493765473365784,
+        "ApplicationProcess": 0.4144228994846344,
+        "TimelineFrequency": 0.39416515827178955,
+        "AuthoritiesGovernance": 0.4127158224582672,
+        "DefinitionsReferences": 0.36687684059143066
+      }
+    },
+    {
+      "sentence": "The targeted beneficiaries include individuals belonging to the Economically Weaker Section (EWS) and Low-Income Group (LIG).",
+      "role": "Eligibility",
+      "confidence": 0.5407670140266418,
+      "similarities": {
+        "ContextObjective": 0.43530046939849854,
+        "BenefitsAssistance": 0.43588340282440186,
+        "Eligibility": 0.5407670140266418,
+        "ApplicationProcess": 0.32555854320526123,
+        "TimelineFrequency": 0.3526644706726074,
+        "AuthoritiesGovernance": 0.40397733449935913,
+        "DefinitionsReferences": 0.3504981994628906
+      }
+    },
+    {
+      "sentence": "To qualify as EWS, the household income must not exceed INR 3 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5401079058647156,
+      "similarities": {
+        "ContextObjective": 0.4268637001514435,
+        "BenefitsAssistance": 0.4492790400981903,
+        "Eligibility": 0.5401079058647156,
+        "ApplicationProcess": 0.46861058473587036,
+        "TimelineFrequency": 0.4110491871833801,
+        "AuthoritiesGovernance": 0.3584664463996887,
+        "DefinitionsReferences": 0.36068159341812134
+      }
+    },
+    {
+      "sentence": "For LIG, the household income must be between INR 3 lakh and INR 6 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.4991059899330139,
+      "similarities": {
+        "ContextObjective": 0.4070988893508911,
+        "BenefitsAssistance": 0.4809403717517853,
+        "Eligibility": 0.4991059899330139,
+        "ApplicationProcess": 0.45251017808914185,
+        "TimelineFrequency": 0.4029560685157776,
+        "AuthoritiesGovernance": 0.37743711471557617,
+        "DefinitionsReferences": 0.387342631816864
+      }
+    },
+    {
+      "sentence": "The scheme also encourages the use of innovative construction technologies.",
+      "role": "ContextObjective",
+      "confidence": 0.48239096999168396,
+      "similarities": {
+        "ContextObjective": 0.48239096999168396,
+        "BenefitsAssistance": 0.37960585951805115,
+        "Eligibility": 0.40149468183517456,
+        "ApplicationProcess": 0.40982747077941895,
+        "TimelineFrequency": 0.3826977014541626,
+        "AuthoritiesGovernance": 0.34493422508239746,
+        "DefinitionsReferences": 0.3720835745334625
+      }
+    },
+    {
+      "sentence": "The aim is to reduce the cost of construction and expedite the delivery of housing units.",
+      "role": "ContextObjective",
+      "confidence": 0.48857563734054565,
+      "similarities": {
+        "ContextObjective": 0.48857563734054565,
+        "BenefitsAssistance": 0.43862658739089966,
+        "Eligibility": 0.426554799079895,
+        "ApplicationProcess": 0.4664190709590912,
+        "TimelineFrequency": 0.4582716226577759,
+        "AuthoritiesGovernance": 0.4562475383281708,
+        "DefinitionsReferences": 0.38783085346221924
+      }
+    },
+    {
+      "sentence": "The BEIS is implemented through various financial institutions and banks.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5746352672576904,
+      "similarities": {
+        "ContextObjective": 0.5083768367767334,
+        "BenefitsAssistance": 0.5729522705078125,
+        "Eligibility": 0.5621061325073242,
+        "ApplicationProcess": 0.5041106939315796,
+        "TimelineFrequency": 0.48126500844955444,
+        "AuthoritiesGovernance": 0.5746352672576904,
+        "DefinitionsReferences": 0.49877050518989563
+      }
+    },
+    {
+      "sentence": "These institutions are responsible for disbursing the loans and applying the interest subsidy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5355312824249268,
+      "similarities": {
+        "ContextObjective": 0.4299231767654419,
+        "BenefitsAssistance": 0.5355312824249268,
+        "Eligibility": 0.4808844029903412,
+        "ApplicationProcess": 0.43294936418533325,
+        "TimelineFrequency": 0.44173043966293335,
+        "AuthoritiesGovernance": 0.5136734247207642,
+        "DefinitionsReferences": 0.416414350271225
+      }
+    },
+    {
+      "sentence": "The Ministry of Housing and Urban Affairs is the nodal ministry overseeing the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5818498730659485,
+      "similarities": {
+        "ContextObjective": 0.4835721254348755,
+        "BenefitsAssistance": 0.41824308037757874,
+        "Eligibility": 0.4707770347595215,
+        "ApplicationProcess": 0.4774065315723419,
+        "TimelineFrequency": 0.408331036567688,
+        "AuthoritiesGovernance": 0.5818498730659485,
+        "DefinitionsReferences": 0.40380311012268066
+      }
+    },
+    {
+      "sentence": "The application process for the BEIS involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7128638029098511,
+      "similarities": {
+        "ContextObjective": 0.5616586804389954,
+        "BenefitsAssistance": 0.5307691097259521,
+        "Eligibility": 0.6380374431610107,
+        "ApplicationProcess": 0.7128638029098511,
+        "TimelineFrequency": 0.6127556562423706,
+        "AuthoritiesGovernance": 0.49445271492004395,
+        "DefinitionsReferences": 0.5065560340881348
+      }
+    },
+    {
+      "sentence": "First, the applicant must approach a recognized financial institution or bank.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6531559228897095,
+      "similarities": {
+        "ContextObjective": 0.5011699199676514,
+        "BenefitsAssistance": 0.526272177696228,
+        "Eligibility": 0.6047309041023254,
+        "ApplicationProcess": 0.6531559228897095,
+        "TimelineFrequency": 0.5239570140838623,
+        "AuthoritiesGovernance": 0.45719632506370544,
+        "DefinitionsReferences": 0.4513549208641052
+      }
+    },
+    {
+      "sentence": "The applicant needs to submit a loan application along with necessary documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7332750558853149,
+      "similarities": {
+        "ContextObjective": 0.5198121666908264,
+        "BenefitsAssistance": 0.5923150777816772,
+        "Eligibility": 0.6359864473342896,
+        "ApplicationProcess": 0.7332750558853149,
+        "TimelineFrequency": 0.6172541379928589,
+        "AuthoritiesGovernance": 0.46309471130371094,
+        "DefinitionsReferences": 0.5179737210273743
+      }
+    },
+    {
+      "sentence": "These documents typically include proof of identity, proof of income, and property documents.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.6020165681838989,
+      "similarities": {
+        "ContextObjective": 0.4803767800331116,
+        "BenefitsAssistance": 0.6003342270851135,
+        "Eligibility": 0.5102039575576782,
+        "ApplicationProcess": 0.5927130579948425,
+        "TimelineFrequency": 0.5212725400924683,
+        "AuthoritiesGovernance": 0.4463517367839813,
+        "DefinitionsReferences": 0.6020165681838989
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the financial institution will assess the eligibility of the applicant.",
+      "role": "Eligibility",
+      "confidence": 0.6861191987991333,
+      "similarities": {
+        "ContextObjective": 0.5180681943893433,
+        "BenefitsAssistance": 0.570523738861084,
+        "Eligibility": 0.6861191987991333,
+        "ApplicationProcess": 0.6633552312850952,
+        "TimelineFrequency": 0.6048126220703125,
+        "AuthoritiesGovernance": 0.4614510238170624,
+        "DefinitionsReferences": 0.45292359590530396
+      }
+    },
+    {
+      "sentence": "If approved, the loan amount will be disbursed to the applicant.",
+      "role": "Eligibility",
+      "confidence": 0.5899485349655151,
+      "similarities": {
+        "ContextObjective": 0.45715293288230896,
+        "BenefitsAssistance": 0.5747599601745605,
+        "Eligibility": 0.5899485349655151,
+        "ApplicationProcess": 0.5769706964492798,
+        "TimelineFrequency": 0.5397677421569824,
+        "AuthoritiesGovernance": 0.44260895252227783,
+        "DefinitionsReferences": 0.4091905355453491
+      }
+    },
+    {
+      "sentence": "The financial institution will then apply the interest subsidy to the loan amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5141168832778931,
+      "similarities": {
+        "ContextObjective": 0.42407748103141785,
+        "BenefitsAssistance": 0.5141168832778931,
+        "Eligibility": 0.48730093240737915,
+        "ApplicationProcess": 0.4392479360103607,
+        "TimelineFrequency": 0.4498666822910309,
+        "AuthoritiesGovernance": 0.4169771373271942,
+        "DefinitionsReferences": 0.40088844299316406
+      }
+    },
+    {
+      "sentence": "The subsidy is credited to the bank account of the financial institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5632075071334839,
+      "similarities": {
+        "ContextObjective": 0.43537354469299316,
+        "BenefitsAssistance": 0.5632075071334839,
+        "Eligibility": 0.5038924217224121,
+        "ApplicationProcess": 0.45869237184524536,
+        "TimelineFrequency": 0.4302411675453186,
+        "AuthoritiesGovernance": 0.43476343154907227,
+        "DefinitionsReferences": 0.41107964515686035
+      }
+    },
+    {
+      "sentence": "This process ensures that the benefit reaches the borrower directly.",
+      "role": "Eligibility",
+      "confidence": 0.5245278477668762,
+      "similarities": {
+        "ContextObjective": 0.45997631549835205,
+        "BenefitsAssistance": 0.5198478698730469,
+        "Eligibility": 0.5245278477668762,
+        "ApplicationProcess": 0.5169730186462402,
+        "TimelineFrequency": 0.44880902767181396,
+        "AuthoritiesGovernance": 0.4423203468322754,
+        "DefinitionsReferences": 0.3841014504432678
+      }
+    },
+    {
+      "sentence": "The disbursement of the subsidy occurs at regular intervals as per the loan repayment schedule.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5320816040039062,
+      "similarities": {
+        "ContextObjective": 0.4232589900493622,
+        "BenefitsAssistance": 0.5098539590835571,
+        "Eligibility": 0.4593059718608856,
+        "ApplicationProcess": 0.4291923940181732,
+        "TimelineFrequency": 0.5320816040039062,
+        "AuthoritiesGovernance": 0.43076789379119873,
+        "DefinitionsReferences": 0.39637231826782227
+      }
+    },
+    {
+      "sentence": "The scheme is expected to enhance the availability of affordable housing units across urban and rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.5163471698760986,
+      "similarities": {
+        "ContextObjective": 0.5163471698760986,
+        "BenefitsAssistance": 0.4465263783931732,
+        "Eligibility": 0.49960970878601074,
+        "ApplicationProcess": 0.4409157931804657,
+        "TimelineFrequency": 0.4486514627933502,
+        "AuthoritiesGovernance": 0.42274677753448486,
+        "DefinitionsReferences": 0.3905191421508789
+      }
+    },
+    {
+      "sentence": "It aims to contribute to the government's vision of Housing for All by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5293890833854675,
+      "similarities": {
+        "ContextObjective": 0.5293890833854675,
+        "BenefitsAssistance": 0.40850597620010376,
+        "Eligibility": 0.4542216360569,
+        "ApplicationProcess": 0.41066232323646545,
+        "TimelineFrequency": 0.40838900208473206,
+        "AuthoritiesGovernance": 0.42072081565856934,
+        "DefinitionsReferences": 0.3788738548755646
+      }
+    },
+    {
+      "sentence": "The BEIS is part of a larger initiative known as the Pradhan Mantri Awas Yojana (PMAY).",
+      "role": "ContextObjective",
+      "confidence": 0.4871900975704193,
+      "similarities": {
+        "ContextObjective": 0.4871900975704193,
+        "BenefitsAssistance": 0.4460624158382416,
+        "Eligibility": 0.4557880461215973,
+        "ApplicationProcess": 0.41996556520462036,
+        "TimelineFrequency": 0.4022062122821808,
+        "AuthoritiesGovernance": 0.3793461322784424,
+        "DefinitionsReferences": 0.3777596354484558
+      }
+    },
+    {
+      "sentence": "Under PMAY, the government has set a target of constructing 20 million affordable housing units.",
+      "role": "ContextObjective",
+      "confidence": 0.4547388553619385,
+      "similarities": {
+        "ContextObjective": 0.4547388553619385,
+        "BenefitsAssistance": 0.415249228477478,
+        "Eligibility": 0.4498577117919922,
+        "ApplicationProcess": 0.4070119857788086,
+        "TimelineFrequency": 0.3996248245239258,
+        "AuthoritiesGovernance": 0.38741928339004517,
+        "DefinitionsReferences": 0.36182069778442383
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 10 million housing units have been sanctioned under this initiative.",
+      "role": "Eligibility",
+      "confidence": 0.4304572343826294,
+      "similarities": {
+        "ContextObjective": 0.41618812084198,
+        "BenefitsAssistance": 0.39041730761528015,
+        "Eligibility": 0.4304572343826294,
+        "ApplicationProcess": 0.39539456367492676,
+        "TimelineFrequency": 0.38844558596611023,
+        "AuthoritiesGovernance": 0.3824288249015808,
+        "DefinitionsReferences": 0.39057254791259766
+      }
+    },
+    {
+      "sentence": "The BEIS is a critical component in achieving these targets.",
+      "role": "ContextObjective",
+      "confidence": 0.532825231552124,
+      "similarities": {
+        "ContextObjective": 0.532825231552124,
+        "BenefitsAssistance": 0.4565574824810028,
+        "Eligibility": 0.5051213502883911,
+        "ApplicationProcess": 0.43576836585998535,
+        "TimelineFrequency": 0.43261539936065674,
+        "AuthoritiesGovernance": 0.4392194151878357,
+        "DefinitionsReferences": 0.42498430609703064
+      }
+    },
+    {
+      "sentence": "The scheme also promotes the use of sustainable building materials and practices.",
+      "role": "ContextObjective",
+      "confidence": 0.5086429119110107,
+      "similarities": {
+        "ContextObjective": 0.5086429119110107,
+        "BenefitsAssistance": 0.40394312143325806,
+        "Eligibility": 0.4088359773159027,
+        "ApplicationProcess": 0.43243759870529175,
+        "TimelineFrequency": 0.4101693034172058,
+        "AuthoritiesGovernance": 0.37866759300231934,
+        "DefinitionsReferences": 0.4131573736667633
+      }
+    },
+    {
+      "sentence": "This is in line with the government's commitment to environmental sustainability.",
+      "role": "ContextObjective",
+      "confidence": 0.46213334798812866,
+      "similarities": {
+        "ContextObjective": 0.46213334798812866,
+        "BenefitsAssistance": 0.40203210711479187,
+        "Eligibility": 0.4384405016899109,
+        "ApplicationProcess": 0.4575616121292114,
+        "TimelineFrequency": 0.3886273503303528,
+        "AuthoritiesGovernance": 0.4335998296737671,
+        "DefinitionsReferences": 0.44926589727401733
+      }
+    },
+    {
+      "sentence": "The BEIS is expected to stimulate economic growth by creating jobs in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.40530866384506226,
+      "similarities": {
+        "ContextObjective": 0.40530866384506226,
+        "BenefitsAssistance": 0.34120839834213257,
+        "Eligibility": 0.3622366189956665,
+        "ApplicationProcess": 0.3405977189540863,
+        "TimelineFrequency": 0.3389859199523926,
+        "AuthoritiesGovernance": 0.30764052271842957,
+        "DefinitionsReferences": 0.3013402819633484
+      }
+    },
+    {
+      "sentence": "It is estimated that every affordable housing unit constructed can generate multiple jobs.",
+      "role": "TimelineFrequency",
+      "confidence": 0.43902647495269775,
+      "similarities": {
+        "ContextObjective": 0.42961400747299194,
+        "BenefitsAssistance": 0.4384731650352478,
+        "Eligibility": 0.4213510751724243,
+        "ApplicationProcess": 0.40539786219596863,
+        "TimelineFrequency": 0.43902647495269775,
+        "AuthoritiesGovernance": 0.38353055715560913,
+        "DefinitionsReferences": 0.3964836001396179
+      }
+    },
+    {
+      "sentence": "The scheme also aims to improve the living conditions of the urban poor.",
+      "role": "ContextObjective",
+      "confidence": 0.5006757974624634,
+      "similarities": {
+        "ContextObjective": 0.5006757974624634,
+        "BenefitsAssistance": 0.39769142866134644,
+        "Eligibility": 0.43706226348876953,
+        "ApplicationProcess": 0.3912294805049896,
+        "TimelineFrequency": 0.34215104579925537,
+        "AuthoritiesGovernance": 0.41391026973724365,
+        "DefinitionsReferences": 0.3380860388278961
+      }
+    },
+    {
+      "sentence": "By providing access to affordable housing, it seeks to reduce homelessness and improve quality of life.",
+      "role": "ContextObjective",
+      "confidence": 0.43608981370925903,
+      "similarities": {
+        "ContextObjective": 0.43608981370925903,
+        "BenefitsAssistance": 0.41341233253479004,
+        "Eligibility": 0.4277057349681854,
+        "ApplicationProcess": 0.4275762438774109,
+        "TimelineFrequency": 0.3816970884799957,
+        "AuthoritiesGovernance": 0.39784109592437744,
+        "DefinitionsReferences": 0.3605363368988037
+      }
+    },
+    {
+      "sentence": "The implementation of the BEIS is monitored through various performance indicators.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5352976322174072,
+      "similarities": {
+        "ContextObjective": 0.46166568994522095,
+        "BenefitsAssistance": 0.5194522142410278,
+        "Eligibility": 0.5062211751937866,
+        "ApplicationProcess": 0.4677906632423401,
+        "TimelineFrequency": 0.48407503962516785,
+        "AuthoritiesGovernance": 0.5352976322174072,
+        "DefinitionsReferences": 0.468867689371109
+      }
+    },
+    {
+      "sentence": "These indicators include the number of loans disbursed and the number of housing units constructed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5397135615348816,
+      "similarities": {
+        "ContextObjective": 0.38011109828948975,
+        "BenefitsAssistance": 0.5397135615348816,
+        "Eligibility": 0.41506969928741455,
+        "ApplicationProcess": 0.42394283413887024,
+        "TimelineFrequency": 0.48804429173469543,
+        "AuthoritiesGovernance": 0.42016375064849854,
+        "DefinitionsReferences": 0.40557849407196045
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the progress of the scheme to ensure its effectiveness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5287550687789917,
+      "similarities": {
+        "ContextObjective": 0.5255469083786011,
+        "BenefitsAssistance": 0.4557613730430603,
+        "Eligibility": 0.4895116090774536,
+        "ApplicationProcess": 0.5287550687789917,
+        "TimelineFrequency": 0.46466168761253357,
+        "AuthoritiesGovernance": 0.49750804901123047,
+        "DefinitionsReferences": 0.4455927014350891
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is also taken into account for improvements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5369623899459839,
+      "similarities": {
+        "ContextObjective": 0.47361481189727783,
+        "BenefitsAssistance": 0.5369623899459839,
+        "Eligibility": 0.5355702638626099,
+        "ApplicationProcess": 0.4609678089618683,
+        "TimelineFrequency": 0.44330868124961853,
+        "AuthoritiesGovernance": 0.5025277733802795,
+        "DefinitionsReferences": 0.457553505897522
+      }
+    },
+    {
+      "sentence": "The BEIS is an important step towards achieving inclusive growth in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49400246143341064,
+      "similarities": {
+        "ContextObjective": 0.49400246143341064,
+        "BenefitsAssistance": 0.4434256851673126,
+        "Eligibility": 0.48347896337509155,
+        "ApplicationProcess": 0.3957107663154602,
+        "TimelineFrequency": 0.3558964729309082,
+        "AuthoritiesGovernance": 0.4075976610183716,
+        "DefinitionsReferences": 0.37450218200683594
+      }
+    },
+    {
+      "sentence": "It addresses the critical issue of housing shortages in urban areas.",
+      "role": "Eligibility",
+      "confidence": 0.4528680145740509,
+      "similarities": {
+        "ContextObjective": 0.45110923051834106,
+        "BenefitsAssistance": 0.38565757870674133,
+        "Eligibility": 0.4528680145740509,
+        "ApplicationProcess": 0.42924660444259644,
+        "TimelineFrequency": 0.4226340055465698,
+        "AuthoritiesGovernance": 0.40132611989974976,
+        "DefinitionsReferences": 0.3506401777267456
+      }
+    },
+    {
+      "sentence": "The scheme also encourages public-private partnerships in the housing sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4499189853668213,
+      "similarities": {
+        "ContextObjective": 0.4499189853668213,
+        "BenefitsAssistance": 0.3962309658527374,
+        "Eligibility": 0.4087473750114441,
+        "ApplicationProcess": 0.39654994010925293,
+        "TimelineFrequency": 0.3578723967075348,
+        "AuthoritiesGovernance": 0.34063005447387695,
+        "DefinitionsReferences": 0.3467940390110016
+      }
+    },
+    {
+      "sentence": "This collaboration is essential for scaling up housing projects.",
+      "role": "ContextObjective",
+      "confidence": 0.43659985065460205,
+      "similarities": {
+        "ContextObjective": 0.43659985065460205,
+        "BenefitsAssistance": 0.3876314163208008,
+        "Eligibility": 0.42188751697540283,
+        "ApplicationProcess": 0.4128539562225342,
+        "TimelineFrequency": 0.39484453201293945,
+        "AuthoritiesGovernance": 0.43091291189193726,
+        "DefinitionsReferences": 0.3742408752441406
+      }
+    },
+    {
+      "sentence": "The government has allocated significant funds for the successful implementation of the BEIS.",
+      "role": "Eligibility",
+      "confidence": 0.4838767945766449,
+      "similarities": {
+        "ContextObjective": 0.4741594195365906,
+        "BenefitsAssistance": 0.47610384225845337,
+        "Eligibility": 0.4838767945766449,
+        "ApplicationProcess": 0.42455682158470154,
+        "TimelineFrequency": 0.37081143260002136,
+        "AuthoritiesGovernance": 0.4660400450229645,
+        "DefinitionsReferences": 0.39436623454093933
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, INR 1,000 crore was earmarked for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49353423714637756,
+      "similarities": {
+        "ContextObjective": 0.49353423714637756,
+        "BenefitsAssistance": 0.44223499298095703,
+        "Eligibility": 0.4508368968963623,
+        "ApplicationProcess": 0.3807939887046814,
+        "TimelineFrequency": 0.40106263756752014,
+        "AuthoritiesGovernance": 0.3701826333999634,
+        "DefinitionsReferences": 0.3410661816596985
+      }
+    },
+    {
+      "sentence": "The BEIS is expected to play a vital role in the post-pandemic recovery of the housing sector.",
+      "role": "Eligibility",
+      "confidence": 0.4374470114707947,
+      "similarities": {
+        "ContextObjective": 0.43149322271347046,
+        "BenefitsAssistance": 0.43074172735214233,
+        "Eligibility": 0.4374470114707947,
+        "ApplicationProcess": 0.4145076870918274,
+        "TimelineFrequency": 0.36739692091941833,
+        "AuthoritiesGovernance": 0.4005577862262726,
+        "DefinitionsReferences": 0.3846154510974884
+      }
+    },
+    {
+      "sentence": "It aims to boost demand for housing and related services.",
+      "role": "ContextObjective",
+      "confidence": 0.516006350517273,
+      "similarities": {
+        "ContextObjective": 0.516006350517273,
+        "BenefitsAssistance": 0.4397914409637451,
+        "Eligibility": 0.43265485763549805,
+        "ApplicationProcess": 0.4466135799884796,
+        "TimelineFrequency": 0.4417634606361389,
+        "AuthoritiesGovernance": 0.4171764850616455,
+        "DefinitionsReferences": 0.3868218660354614
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the United Nations Sustainable Development Goals.",
+      "role": "ContextObjective",
+      "confidence": 0.5520712733268738,
+      "similarities": {
+        "ContextObjective": 0.5520712733268738,
+        "BenefitsAssistance": 0.406788170337677,
+        "Eligibility": 0.46004122495651245,
+        "ApplicationProcess": 0.42591696977615356,
+        "TimelineFrequency": 0.3957781493663788,
+        "AuthoritiesGovernance": 0.41774821281433105,
+        "DefinitionsReferences": 0.3846158981323242
+      }
+    },
+    {
+      "sentence": "Specifically, it contributes to Goal 11 which aims to make cities inclusive and sustainable.",
+      "role": "ContextObjective",
+      "confidence": 0.4823833107948303,
+      "similarities": {
+        "ContextObjective": 0.4823833107948303,
+        "BenefitsAssistance": 0.3772163391113281,
+        "Eligibility": 0.4402838945388794,
+        "ApplicationProcess": 0.3733699917793274,
+        "TimelineFrequency": 0.35377269983291626,
+        "AuthoritiesGovernance": 0.4281872510910034,
+        "DefinitionsReferences": 0.3590274453163147
+      }
+    },
+    {
+      "sentence": "The BEIS is a testament to the government's commitment to providing housing for all.",
+      "role": "Eligibility",
+      "confidence": 0.46407008171081543,
+      "similarities": {
+        "ContextObjective": 0.44340890645980835,
+        "BenefitsAssistance": 0.4328998327255249,
+        "Eligibility": 0.46407008171081543,
+        "ApplicationProcess": 0.3934516906738281,
+        "TimelineFrequency": 0.351774662733078,
+        "AuthoritiesGovernance": 0.38903704285621643,
+        "DefinitionsReferences": 0.4061521291732788
+      }
+    },
+    {
+      "sentence": "It is designed to empower the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5010574460029602,
+      "similarities": {
+        "ContextObjective": 0.5010574460029602,
+        "BenefitsAssistance": 0.43059831857681274,
+        "Eligibility": 0.45026716589927673,
+        "ApplicationProcess": 0.37335556745529175,
+        "TimelineFrequency": 0.37361037731170654,
+        "AuthoritiesGovernance": 0.4342535436153412,
+        "DefinitionsReferences": 0.35420215129852295
+      }
+    },
+    {
+      "sentence": "By making housing affordable, it seeks to uplift the standard of living for many families.",
+      "role": "ContextObjective",
+      "confidence": 0.46236464381217957,
+      "similarities": {
+        "ContextObjective": 0.46236464381217957,
+        "BenefitsAssistance": 0.4532569944858551,
+        "Eligibility": 0.4434313476085663,
+        "ApplicationProcess": 0.42336514592170715,
+        "TimelineFrequency": 0.37990373373031616,
+        "AuthoritiesGovernance": 0.39657002687454224,
+        "DefinitionsReferences": 0.362429678440094
+      }
+    },
+    {
+      "sentence": "The scheme is an integral part of India's broader economic development strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.5194427371025085,
+      "similarities": {
+        "ContextObjective": 0.5194427371025085,
+        "BenefitsAssistance": 0.395113468170166,
+        "Eligibility": 0.4134012758731842,
+        "ApplicationProcess": 0.38740646839141846,
+        "TimelineFrequency": 0.34393131732940674,
+        "AuthoritiesGovernance": 0.386383593082428,
+        "DefinitionsReferences": 0.3724135160446167
+      }
+    },
+    {
+      "sentence": "It reflects the government's focus on social welfare and economic inclusivity.",
+      "role": "ContextObjective",
+      "confidence": 0.4844492971897125,
+      "similarities": {
+        "ContextObjective": 0.4844492971897125,
+        "BenefitsAssistance": 0.4760226607322693,
+        "Eligibility": 0.4664907455444336,
+        "ApplicationProcess": 0.38074415922164917,
+        "TimelineFrequency": 0.37021511793136597,
+        "AuthoritiesGovernance": 0.41312161087989807,
+        "DefinitionsReferences": 0.40774399042129517
+      }
+    },
+    {
+      "sentence": "In conclusion, the Back Ended Interest Subsidy Scheme is a comprehensive initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5094946622848511,
+      "similarities": {
+        "ContextObjective": 0.5078766345977783,
+        "BenefitsAssistance": 0.5094946622848511,
+        "Eligibility": 0.4512382447719574,
+        "ApplicationProcess": 0.422715961933136,
+        "TimelineFrequency": 0.4107878804206848,
+        "AuthoritiesGovernance": 0.41851726174354553,
+        "DefinitionsReferences": 0.4158858358860016
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance for affordable housing.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5454218983650208,
+      "similarities": {
+        "ContextObjective": 0.520797848701477,
+        "BenefitsAssistance": 0.5454218983650208,
+        "Eligibility": 0.5122661590576172,
+        "ApplicationProcess": 0.4827059209346771,
+        "TimelineFrequency": 0.4597528874874115,
+        "AuthoritiesGovernance": 0.43625354766845703,
+        "DefinitionsReferences": 0.39697200059890747
+      }
+    },
+    {
+      "sentence": "The scheme has specific eligibility criteria and a structured application process.",
+      "role": "Eligibility",
+      "confidence": 0.6994252800941467,
+      "similarities": {
+        "ContextObjective": 0.6361781358718872,
+        "BenefitsAssistance": 0.5209330320358276,
+        "Eligibility": 0.6994252800941467,
+        "ApplicationProcess": 0.6734253168106079,
+        "TimelineFrequency": 0.6164028644561768,
+        "AuthoritiesGovernance": 0.4679211378097534,
+        "DefinitionsReferences": 0.4543876647949219
+      }
+    },
+    {
+      "sentence": "It is expected to have a lasting impact on the housing landscape in India.",
+      "role": "ContextObjective",
+      "confidence": 0.43127626180648804,
+      "similarities": {
+        "ContextObjective": 0.43127626180648804,
+        "BenefitsAssistance": 0.3823186755180359,
+        "Eligibility": 0.42022520303726196,
+        "ApplicationProcess": 0.38479888439178467,
+        "TimelineFrequency": 0.36674490571022034,
+        "AuthoritiesGovernance": 0.37484800815582275,
+        "DefinitionsReferences": 0.40323832631111145
+      }
+    },
+    {
+      "sentence": "The BEIS is a significant step towards achieving the goal of Housing for All by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4939800202846527,
+      "similarities": {
+        "ContextObjective": 0.4939800202846527,
+        "BenefitsAssistance": 0.42732053995132446,
+        "Eligibility": 0.46884626150131226,
+        "ApplicationProcess": 0.41992485523223877,
+        "TimelineFrequency": 0.39858871698379517,
+        "AuthoritiesGovernance": 0.4075133800506592,
+        "DefinitionsReferences": 0.38715824484825134
+      }
+    },
+    {
+      "sentence": "It stands as a model for future welfare schemes aimed at social upliftment.",
+      "role": "ContextObjective",
+      "confidence": 0.5447726249694824,
+      "similarities": {
+        "ContextObjective": 0.5447726249694824,
+        "BenefitsAssistance": 0.40500408411026,
+        "Eligibility": 0.43433499336242676,
+        "ApplicationProcess": 0.3814646899700165,
+        "TimelineFrequency": 0.3614329993724823,
+        "AuthoritiesGovernance": 0.36322325468063354,
+        "DefinitionsReferences": 0.3853868842124939
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 31,
+    "BenefitsAssistance": 8,
+    "Eligibility": 14,
+    "AuthoritiesGovernance": 3,
+    "ApplicationProcess": 4,
+    "DefinitionsReferences": 1,
+    "TimelineFrequency": 2
+  },
+  "processing_timestamp": "2025-09-25T20:27:55.519515"
+}

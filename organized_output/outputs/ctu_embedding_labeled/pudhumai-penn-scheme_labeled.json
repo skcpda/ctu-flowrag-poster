@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme was launched by the Government of Tamil Nadu on September 1, 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.534997284412384,
+      "similarities": {
+        "ContextObjective": 0.534997284412384,
+        "BenefitsAssistance": 0.44652196764945984,
+        "Eligibility": 0.4656950831413269,
+        "ApplicationProcess": 0.47025105357170105,
+        "TimelineFrequency": 0.4630430042743683,
+        "AuthoritiesGovernance": 0.43543508648872375,
+        "DefinitionsReferences": 0.35558515787124634
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to economically disadvantaged students, particularly women, to pursue higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5085526704788208,
+      "similarities": {
+        "ContextObjective": 0.5085526704788208,
+        "BenefitsAssistance": 0.47228002548217773,
+        "Eligibility": 0.4929462671279907,
+        "ApplicationProcess": 0.41271069645881653,
+        "TimelineFrequency": 0.42314037680625916,
+        "AuthoritiesGovernance": 0.3600417971611023,
+        "DefinitionsReferences": 0.33809080719947815
+      }
+    },
+    {
+      "sentence": "The initiative is named after Moovalur Ramamirtham Ammaiyar, a prominent social reformer and advocate for women's education in Tamil Nadu.",
+      "role": "ContextObjective",
+      "confidence": 0.3949298858642578,
+      "similarities": {
+        "ContextObjective": 0.3949298858642578,
+        "BenefitsAssistance": 0.26244503259658813,
+        "Eligibility": 0.2894047498703003,
+        "ApplicationProcess": 0.2581360340118408,
+        "TimelineFrequency": 0.26041510701179504,
+        "AuthoritiesGovernance": 0.33728909492492676,
+        "DefinitionsReferences": 0.28326261043548584
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to ensure that no student is deprived of higher education due to financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5505708456039429,
+      "similarities": {
+        "ContextObjective": 0.5505708456039429,
+        "BenefitsAssistance": 0.4532805383205414,
+        "Eligibility": 0.512492299079895,
+        "ApplicationProcess": 0.4486796259880066,
+        "TimelineFrequency": 0.4102671146392822,
+        "AuthoritiesGovernance": 0.36035972833633423,
+        "DefinitionsReferences": 0.33299803733825684
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students from families with an annual income of less than ₹2.5 lakhs.",
+      "role": "Eligibility",
+      "confidence": 0.5074068307876587,
+      "similarities": {
+        "ContextObjective": 0.46611616015434265,
+        "BenefitsAssistance": 0.46821001172065735,
+        "Eligibility": 0.5074068307876587,
+        "ApplicationProcess": 0.42307308316230774,
+        "TimelineFrequency": 0.4350805878639221,
+        "AuthoritiesGovernance": 0.33256351947784424,
+        "DefinitionsReferences": 0.3131765127182007
+      }
+    },
+    {
+      "sentence": "It aims to support students who are pursuing undergraduate and postgraduate courses in various fields.",
+      "role": "ContextObjective",
+      "confidence": 0.5560399889945984,
+      "similarities": {
+        "ContextObjective": 0.5560399889945984,
+        "BenefitsAssistance": 0.471853643655777,
+        "Eligibility": 0.5101853609085083,
+        "ApplicationProcess": 0.4634402394294739,
+        "TimelineFrequency": 0.5114498734474182,
+        "AuthoritiesGovernance": 0.45863044261932373,
+        "DefinitionsReferences": 0.4743133783340454
+      }
+    },
+    {
+      "sentence": "The government has set a target to enroll at least 1 lakh students under this scheme in the first year itself.",
+      "role": "ContextObjective",
+      "confidence": 0.4990171194076538,
+      "similarities": {
+        "ContextObjective": 0.4990171194076538,
+        "BenefitsAssistance": 0.36565446853637695,
+        "Eligibility": 0.44367754459381104,
+        "ApplicationProcess": 0.39811211824417114,
+        "TimelineFrequency": 0.37474459409713745,
+        "AuthoritiesGovernance": 0.3506738841533661,
+        "DefinitionsReferences": 0.3098289966583252
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the scheme includes a one-time grant of ₹1,000 for students pursuing undergraduate courses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45340171456336975,
+      "similarities": {
+        "ContextObjective": 0.41535866260528564,
+        "BenefitsAssistance": 0.45340171456336975,
+        "Eligibility": 0.4351527690887451,
+        "ApplicationProcess": 0.3901384174823761,
+        "TimelineFrequency": 0.3858602046966553,
+        "AuthoritiesGovernance": 0.3240264058113098,
+        "DefinitionsReferences": 0.3123588562011719
+      }
+    },
+    {
+      "sentence": "For students enrolled in postgraduate courses, the assistance increases to ₹2,000 as a one-time grant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4439474940299988,
+      "similarities": {
+        "ContextObjective": 0.36910736560821533,
+        "BenefitsAssistance": 0.4439474940299988,
+        "Eligibility": 0.4090983271598816,
+        "ApplicationProcess": 0.37244731187820435,
+        "TimelineFrequency": 0.386624813079834,
+        "AuthoritiesGovernance": 0.33877646923065186,
+        "DefinitionsReferences": 0.3400431275367737
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme provides a monthly stipend of ₹1,000 for students pursuing professional courses such as engineering, medicine, and law.",
+      "role": "Eligibility",
+      "confidence": 0.44471317529678345,
+      "similarities": {
+        "ContextObjective": 0.4421595335006714,
+        "BenefitsAssistance": 0.4388895630836487,
+        "Eligibility": 0.44471317529678345,
+        "ApplicationProcess": 0.3925963044166565,
+        "TimelineFrequency": 0.39954981207847595,
+        "AuthoritiesGovernance": 0.32492706179618835,
+        "DefinitionsReferences": 0.3536761999130249
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for students who are pursuing courses in arts and sciences.",
+      "role": "ContextObjective",
+      "confidence": 0.5280092358589172,
+      "similarities": {
+        "ContextObjective": 0.5280092358589172,
+        "BenefitsAssistance": 0.4488815665245056,
+        "Eligibility": 0.47598302364349365,
+        "ApplicationProcess": 0.4306516647338867,
+        "TimelineFrequency": 0.46731433272361755,
+        "AuthoritiesGovernance": 0.34948956966400146,
+        "DefinitionsReferences": 0.42046424746513367
+      }
+    },
+    {
+      "sentence": "Students enrolled in these courses will receive a monthly stipend of ₹500.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4644707143306732,
+      "similarities": {
+        "ContextObjective": 0.3932030200958252,
+        "BenefitsAssistance": 0.4644707143306732,
+        "Eligibility": 0.4255000352859497,
+        "ApplicationProcess": 0.38201332092285156,
+        "TimelineFrequency": 0.4427357614040375,
+        "AuthoritiesGovernance": 0.34706586599349976,
+        "DefinitionsReferences": 0.3592836856842041
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.6600465178489685,
+      "similarities": {
+        "ContextObjective": 0.6236172318458557,
+        "BenefitsAssistance": 0.5049776434898376,
+        "Eligibility": 0.6600465178489685,
+        "ApplicationProcess": 0.5646568536758423,
+        "TimelineFrequency": 0.5340359210968018,
+        "AuthoritiesGovernance": 0.4419873356819153,
+        "DefinitionsReferences": 0.4474625587463379
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Tamil Nadu.",
+      "role": "Eligibility",
+      "confidence": 0.5971795320510864,
+      "similarities": {
+        "ContextObjective": 0.46547478437423706,
+        "BenefitsAssistance": 0.4125903844833374,
+        "Eligibility": 0.5971795320510864,
+        "ApplicationProcess": 0.5533429980278015,
+        "TimelineFrequency": 0.5059233903884888,
+        "AuthoritiesGovernance": 0.41460099816322327,
+        "DefinitionsReferences": 0.40240761637687683
+      }
+    },
+    {
+      "sentence": "They must belong to families with an annual income not exceeding ₹2.5 lakhs.",
+      "role": "Eligibility",
+      "confidence": 0.5629476308822632,
+      "similarities": {
+        "ContextObjective": 0.4283055365085602,
+        "BenefitsAssistance": 0.5021935701370239,
+        "Eligibility": 0.5629476308822632,
+        "ApplicationProcess": 0.46247607469558716,
+        "TimelineFrequency": 0.427890419960022,
+        "AuthoritiesGovernance": 0.3904304504394531,
+        "DefinitionsReferences": 0.3827580511569977
+      }
+    },
+    {
+      "sentence": "Students must have completed their higher secondary education from a recognized board.",
+      "role": "Eligibility",
+      "confidence": 0.5655530691146851,
+      "similarities": {
+        "ContextObjective": 0.5184699296951294,
+        "BenefitsAssistance": 0.41910848021507263,
+        "Eligibility": 0.5655530691146851,
+        "ApplicationProcess": 0.5609368681907654,
+        "TimelineFrequency": 0.5104968547821045,
+        "AuthoritiesGovernance": 0.44008126854896545,
+        "DefinitionsReferences": 0.4708525538444519
+      }
+    },
+    {
+      "sentence": "They should have secured admission to a recognized college or university for higher education.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5213184356689453,
+      "similarities": {
+        "ContextObjective": 0.45131972432136536,
+        "BenefitsAssistance": 0.42003318667411804,
+        "Eligibility": 0.5061831474304199,
+        "ApplicationProcess": 0.5213184356689453,
+        "TimelineFrequency": 0.4407467246055603,
+        "AuthoritiesGovernance": 0.38059407472610474,
+        "DefinitionsReferences": 0.4022776782512665
+      }
+    },
+    {
+      "sentence": "The application process for the Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5679260492324829,
+      "similarities": {
+        "ContextObjective": 0.4833691716194153,
+        "BenefitsAssistance": 0.3975215554237366,
+        "Eligibility": 0.48408541083335876,
+        "ApplicationProcess": 0.5679260492324829,
+        "TimelineFrequency": 0.4668973386287689,
+        "AuthoritiesGovernance": 0.3696334958076477,
+        "DefinitionsReferences": 0.34333986043930054
+      }
+    },
+    {
+      "sentence": "Eligible students can apply online through the official Tamil Nadu government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5967614650726318,
+      "similarities": {
+        "ContextObjective": 0.42883768677711487,
+        "BenefitsAssistance": 0.42961448431015015,
+        "Eligibility": 0.5302000045776367,
+        "ApplicationProcess": 0.5967614650726318,
+        "TimelineFrequency": 0.5060266852378845,
+        "AuthoritiesGovernance": 0.3829317092895508,
+        "DefinitionsReferences": 0.39579740166664124
+      }
+    },
+    {
+      "sentence": "The application form requires basic personal details such as name, address, and contact information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6894312500953674,
+      "similarities": {
+        "ContextObjective": 0.4971705675125122,
+        "BenefitsAssistance": 0.5526366233825684,
+        "Eligibility": 0.6108487844467163,
+        "ApplicationProcess": 0.6894312500953674,
+        "TimelineFrequency": 0.5718181133270264,
+        "AuthoritiesGovernance": 0.4810628294944763,
+        "DefinitionsReferences": 0.5145143866539001
+      }
+    },
+    {
+      "sentence": "Students must also provide details about their educational qualifications and the course they intend to pursue.",
+      "role": "ApplicationProcess",
+      "confidence": 0.602562665939331,
+      "similarities": {
+        "ContextObjective": 0.5444404482841492,
+        "BenefitsAssistance": 0.5421921610832214,
+        "Eligibility": 0.5913592576980591,
+        "ApplicationProcess": 0.602562665939331,
+        "TimelineFrequency": 0.5656095147132874,
+        "AuthoritiesGovernance": 0.4292333424091339,
+        "DefinitionsReferences": 0.4981415867805481
+      }
+    },
+    {
+      "sentence": "Documents required for the application include a copy of the income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6284618377685547,
+      "similarities": {
+        "ContextObjective": 0.47215548157691956,
+        "BenefitsAssistance": 0.5621665716171265,
+        "Eligibility": 0.5447293519973755,
+        "ApplicationProcess": 0.6284618377685547,
+        "TimelineFrequency": 0.5019065141677856,
+        "AuthoritiesGovernance": 0.41035738587379456,
+        "DefinitionsReferences": 0.5144121646881104
+      }
+    },
+    {
+      "sentence": "Students must submit their higher secondary education mark sheet.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5511244535446167,
+      "similarities": {
+        "ContextObjective": 0.47112464904785156,
+        "BenefitsAssistance": 0.4388423264026642,
+        "Eligibility": 0.49292436242103577,
+        "ApplicationProcess": 0.5511244535446167,
+        "TimelineFrequency": 0.49318385124206543,
+        "AuthoritiesGovernance": 0.39341235160827637,
+        "DefinitionsReferences": 0.46078985929489136
+      }
+    },
+    {
+      "sentence": "A copy of the admission letter from the college or university is also necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5574334263801575,
+      "similarities": {
+        "ContextObjective": 0.40089869499206543,
+        "BenefitsAssistance": 0.44477808475494385,
+        "Eligibility": 0.4521060883998871,
+        "ApplicationProcess": 0.5574334263801575,
+        "TimelineFrequency": 0.4798659682273865,
+        "AuthoritiesGovernance": 0.39354196190834045,
+        "DefinitionsReferences": 0.46004775166511536
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7513390183448792,
+      "similarities": {
+        "ContextObjective": 0.5247284173965454,
+        "BenefitsAssistance": 0.49542367458343506,
+        "Eligibility": 0.6096973419189453,
+        "ApplicationProcess": 0.7513390183448792,
+        "TimelineFrequency": 0.5764989256858826,
+        "AuthoritiesGovernance": 0.503167986869812,
+        "DefinitionsReferences": 0.517536997795105
+      }
+    },
+    {
+      "sentence": "The government aims to process applications within a month of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6392233967781067,
+      "similarities": {
+        "ContextObjective": 0.5527474880218506,
+        "BenefitsAssistance": 0.47943681478500366,
+        "Eligibility": 0.5977845191955566,
+        "ApplicationProcess": 0.6362914443016052,
+        "TimelineFrequency": 0.6392233967781067,
+        "AuthoritiesGovernance": 0.5149610042572021,
+        "DefinitionsReferences": 0.4593048095703125
+      }
+    },
+    {
+      "sentence": "Disbursement of financial assistance occurs shortly after the verification process is completed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5890170931816101,
+      "similarities": {
+        "ContextObjective": 0.43449291586875916,
+        "BenefitsAssistance": 0.5890170931816101,
+        "Eligibility": 0.5098069906234741,
+        "ApplicationProcess": 0.575235903263092,
+        "TimelineFrequency": 0.48714888095855713,
+        "AuthoritiesGovernance": 0.4573822617530823,
+        "DefinitionsReferences": 0.4178600013256073
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Higher Education, Government of Tamil Nadu.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4877740144729614,
+      "similarities": {
+        "ContextObjective": 0.4855545163154602,
+        "BenefitsAssistance": 0.4236010015010834,
+        "Eligibility": 0.4416176676750183,
+        "ApplicationProcess": 0.4292277693748474,
+        "TimelineFrequency": 0.3951498866081238,
+        "AuthoritiesGovernance": 0.4877740144729614,
+        "DefinitionsReferences": 0.38309693336486816
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and disbursing funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.617039144039154,
+      "similarities": {
+        "ContextObjective": 0.4945739507675171,
+        "BenefitsAssistance": 0.6006165146827698,
+        "Eligibility": 0.5855244994163513,
+        "ApplicationProcess": 0.617039144039154,
+        "TimelineFrequency": 0.5650648474693298,
+        "AuthoritiesGovernance": 0.5698592662811279,
+        "DefinitionsReferences": 0.46181175112724304
+      }
+    },
+    {
+      "sentence": "Students can contact the department for any queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5284765958786011,
+      "similarities": {
+        "ContextObjective": 0.5284765958786011,
+        "BenefitsAssistance": 0.4978308081626892,
+        "Eligibility": 0.5211683511734009,
+        "ApplicationProcess": 0.5233025550842285,
+        "TimelineFrequency": 0.4835631847381592,
+        "AuthoritiesGovernance": 0.5113404393196106,
+        "DefinitionsReferences": 0.423697829246521
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Higher Education can be found on the official Tamil Nadu government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4666782021522522,
+      "similarities": {
+        "ContextObjective": 0.4031895399093628,
+        "BenefitsAssistance": 0.4510171413421631,
+        "Eligibility": 0.40206998586654663,
+        "ApplicationProcess": 0.4458684027194977,
+        "TimelineFrequency": 0.39348435401916504,
+        "AuthoritiesGovernance": 0.4666782021522522,
+        "DefinitionsReferences": 0.4389837384223938
+      }
+    },
+    {
+      "sentence": "The Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme is part of a broader initiative to promote education among women and marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.4730646014213562,
+      "similarities": {
+        "ContextObjective": 0.4730646014213562,
+        "BenefitsAssistance": 0.4240996837615967,
+        "Eligibility": 0.44104424118995667,
+        "ApplicationProcess": 0.4023324251174927,
+        "TimelineFrequency": 0.3779093027114868,
+        "AuthoritiesGovernance": 0.3973367214202881,
+        "DefinitionsReferences": 0.34624528884887695
+      }
+    },
+    {
+      "sentence": "The government recognizes the importance of higher education in improving the socio-economic status of families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4388297498226166,
+      "similarities": {
+        "ContextObjective": 0.4378011226654053,
+        "BenefitsAssistance": 0.4388297498226166,
+        "Eligibility": 0.43779006600379944,
+        "ApplicationProcess": 0.404802531003952,
+        "TimelineFrequency": 0.3561170697212219,
+        "AuthoritiesGovernance": 0.39996668696403503,
+        "DefinitionsReferences": 0.3975962698459625
+      }
+    },
+    {
+      "sentence": "The scheme is expected to contribute significantly to increasing the enrollment rates of women in higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.43865951895713806,
+      "similarities": {
+        "ContextObjective": 0.43865951895713806,
+        "BenefitsAssistance": 0.3937344253063202,
+        "Eligibility": 0.3827012777328491,
+        "ApplicationProcess": 0.3545978367328644,
+        "TimelineFrequency": 0.37526291608810425,
+        "AuthoritiesGovernance": 0.3144308626651764,
+        "DefinitionsReferences": 0.31325119733810425
+      }
+    },
+    {
+      "sentence": "According to the National Statistical Office, the Gross Enrollment Ratio for women in higher education in Tamil Nadu was 50.3% in 2019.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3833302855491638,
+      "similarities": {
+        "ContextObjective": 0.3661806285381317,
+        "BenefitsAssistance": 0.3833302855491638,
+        "Eligibility": 0.37909042835235596,
+        "ApplicationProcess": 0.36518314480781555,
+        "TimelineFrequency": 0.37598916888237,
+        "AuthoritiesGovernance": 0.3615471422672272,
+        "DefinitionsReferences": 0.33749550580978394
+      }
+    },
+    {
+      "sentence": "The government aims to increase this ratio through initiatives like the Moovalur Ramamirtham Ammaiyar scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4405566155910492,
+      "similarities": {
+        "ContextObjective": 0.4405566155910492,
+        "BenefitsAssistance": 0.34430721402168274,
+        "Eligibility": 0.3703122138977051,
+        "ApplicationProcess": 0.3864847421646118,
+        "TimelineFrequency": 0.34220969676971436,
+        "AuthoritiesGovernance": 0.3834385275840759,
+        "DefinitionsReferences": 0.3166416883468628
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the National Education Policy 2020, which emphasizes equitable access to education.",
+      "role": "ContextObjective",
+      "confidence": 0.4552415907382965,
+      "similarities": {
+        "ContextObjective": 0.4552415907382965,
+        "BenefitsAssistance": 0.37807971239089966,
+        "Eligibility": 0.42035216093063354,
+        "ApplicationProcess": 0.36826109886169434,
+        "TimelineFrequency": 0.3751007914543152,
+        "AuthoritiesGovernance": 0.3401974141597748,
+        "DefinitionsReferences": 0.33821389079093933
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is expected to alleviate the burden of educational expenses for many families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5442731380462646,
+      "similarities": {
+        "ContextObjective": 0.48273468017578125,
+        "BenefitsAssistance": 0.5442731380462646,
+        "Eligibility": 0.48464784026145935,
+        "ApplicationProcess": 0.4216650128364563,
+        "TimelineFrequency": 0.4016762375831604,
+        "AuthoritiesGovernance": 0.40218880772590637,
+        "DefinitionsReferences": 0.37516310811042786
+      }
+    },
+    {
+      "sentence": "This initiative is particularly crucial in the context of rising tuition fees and living costs associated with higher education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47616082429885864,
+      "similarities": {
+        "ContextObjective": 0.4416044354438782,
+        "BenefitsAssistance": 0.47616082429885864,
+        "Eligibility": 0.41764411330223083,
+        "ApplicationProcess": 0.39829128980636597,
+        "TimelineFrequency": 0.4053274393081665,
+        "AuthoritiesGovernance": 0.36707013845443726,
+        "DefinitionsReferences": 0.37404143810272217
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a positive impact on the overall literacy rate in Tamil Nadu.",
+      "role": "ContextObjective",
+      "confidence": 0.47289806604385376,
+      "similarities": {
+        "ContextObjective": 0.47289806604385376,
+        "BenefitsAssistance": 0.41186201572418213,
+        "Eligibility": 0.3971346914768219,
+        "ApplicationProcess": 0.3788285255432129,
+        "TimelineFrequency": 0.36265137791633606,
+        "AuthoritiesGovernance": 0.3695419430732727,
+        "DefinitionsReferences": 0.3658062219619751
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹100 crores for the implementation of this scheme in the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.49990785121917725,
+      "similarities": {
+        "ContextObjective": 0.49990785121917725,
+        "BenefitsAssistance": 0.4997560679912567,
+        "Eligibility": 0.49822354316711426,
+        "ApplicationProcess": 0.4229467511177063,
+        "TimelineFrequency": 0.43568259477615356,
+        "AuthoritiesGovernance": 0.49097275733947754,
+        "DefinitionsReferences": 0.353202223777771
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to enhancing educational opportunities for all.",
+      "role": "Eligibility",
+      "confidence": 0.4531889855861664,
+      "similarities": {
+        "ContextObjective": 0.43262457847595215,
+        "BenefitsAssistance": 0.40675055980682373,
+        "Eligibility": 0.4531889855861664,
+        "ApplicationProcess": 0.3422784209251404,
+        "TimelineFrequency": 0.37547099590301514,
+        "AuthoritiesGovernance": 0.37990808486938477,
+        "DefinitionsReferences": 0.37391430139541626
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for periodic reviews and assessments to ensure its effectiveness.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5452083349227905,
+      "similarities": {
+        "ContextObjective": 0.5313153266906738,
+        "BenefitsAssistance": 0.488533079624176,
+        "Eligibility": 0.5329068303108215,
+        "ApplicationProcess": 0.5187414288520813,
+        "TimelineFrequency": 0.5452083349227905,
+        "AuthoritiesGovernance": 0.48152750730514526,
+        "DefinitionsReferences": 0.46065157651901245
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5384361147880554,
+      "similarities": {
+        "ContextObjective": 0.5384361147880554,
+        "BenefitsAssistance": 0.5036500692367554,
+        "Eligibility": 0.5350629687309265,
+        "ApplicationProcess": 0.481128066778183,
+        "TimelineFrequency": 0.4394797086715698,
+        "AuthoritiesGovernance": 0.4984210133552551,
+        "DefinitionsReferences": 0.43036162853240967
+      }
+    },
+    {
+      "sentence": "The Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme is a significant step towards achieving gender equality in education.",
+      "role": "ContextObjective",
+      "confidence": 0.4704153537750244,
+      "similarities": {
+        "ContextObjective": 0.4704153537750244,
+        "BenefitsAssistance": 0.3923836350440979,
+        "Eligibility": 0.41102153062820435,
+        "ApplicationProcess": 0.41902852058410645,
+        "TimelineFrequency": 0.38145363330841064,
+        "AuthoritiesGovernance": 0.3846200704574585,
+        "DefinitionsReferences": 0.34408676624298096
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible students to take advantage of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5142107605934143,
+      "similarities": {
+        "ContextObjective": 0.5142107605934143,
+        "BenefitsAssistance": 0.44816064834594727,
+        "Eligibility": 0.511884331703186,
+        "ApplicationProcess": 0.46807098388671875,
+        "TimelineFrequency": 0.44522351026535034,
+        "AuthoritiesGovernance": 0.3771006166934967,
+        "DefinitionsReferences": 0.3936336934566498
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are being conducted to inform students about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5501503944396973,
+      "similarities": {
+        "ContextObjective": 0.5501503944396973,
+        "BenefitsAssistance": 0.49153003096580505,
+        "Eligibility": 0.4932824373245239,
+        "ApplicationProcess": 0.4731284976005554,
+        "TimelineFrequency": 0.4595798850059509,
+        "AuthoritiesGovernance": 0.43108105659484863,
+        "DefinitionsReferences": 0.4243060350418091
+      }
+    },
+    {
+      "sentence": "The scheme is expected to create a more educated workforce in Tamil Nadu.",
+      "role": "ContextObjective",
+      "confidence": 0.4751967787742615,
+      "similarities": {
+        "ContextObjective": 0.4751967787742615,
+        "BenefitsAssistance": 0.37123510241508484,
+        "Eligibility": 0.3986220061779022,
+        "ApplicationProcess": 0.3698342442512512,
+        "TimelineFrequency": 0.35560929775238037,
+        "AuthoritiesGovernance": 0.35573065280914307,
+        "DefinitionsReferences": 0.3436838984489441
+      }
+    },
+    {
+      "sentence": "This initiative is part of the government's larger vision to transform Tamil Nadu into a knowledge hub.",
+      "role": "ContextObjective",
+      "confidence": 0.4853268563747406,
+      "similarities": {
+        "ContextObjective": 0.4853268563747406,
+        "BenefitsAssistance": 0.34295812249183655,
+        "Eligibility": 0.36991605162620544,
+        "ApplicationProcess": 0.37293165922164917,
+        "TimelineFrequency": 0.32293596863746643,
+        "AuthoritiesGovernance": 0.4136486053466797,
+        "DefinitionsReferences": 0.3821858763694763
+      }
+    },
+    {
+      "sentence": "The Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme is a crucial intervention in the state's educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.4635862112045288,
+      "similarities": {
+        "ContextObjective": 0.4635862112045288,
+        "BenefitsAssistance": 0.3827056884765625,
+        "Eligibility": 0.42964452505111694,
+        "ApplicationProcess": 0.4144819974899292,
+        "TimelineFrequency": 0.37316516041755676,
+        "AuthoritiesGovernance": 0.39854201674461365,
+        "DefinitionsReferences": 0.3434297442436218
+      }
+    },
+    {
+      "sentence": "It aims to empower students to achieve their academic and professional aspirations.",
+      "role": "ContextObjective",
+      "confidence": 0.5373244881629944,
+      "similarities": {
+        "ContextObjective": 0.5373244881629944,
+        "BenefitsAssistance": 0.364103764295578,
+        "Eligibility": 0.41236412525177,
+        "ApplicationProcess": 0.42556145787239075,
+        "TimelineFrequency": 0.4315463900566101,
+        "AuthoritiesGovernance": 0.3801637291908264,
+        "DefinitionsReferences": 0.3864690661430359
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to inclusive education.",
+      "role": "ContextObjective",
+      "confidence": 0.5233286023139954,
+      "similarities": {
+        "ContextObjective": 0.5233286023139954,
+        "BenefitsAssistance": 0.44007909297943115,
+        "Eligibility": 0.4781859517097473,
+        "ApplicationProcess": 0.4063146710395813,
+        "TimelineFrequency": 0.3765754699707031,
+        "AuthoritiesGovernance": 0.36749494075775146,
+        "DefinitionsReferences": 0.3984164595603943
+      }
+    },
+    {
+      "sentence": "In conclusion, the Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme is a comprehensive initiative designed to support students from economically weaker sections.",
+      "role": "ContextObjective",
+      "confidence": 0.45395219326019287,
+      "similarities": {
+        "ContextObjective": 0.45395219326019287,
+        "BenefitsAssistance": 0.45015794038772583,
+        "Eligibility": 0.43171143531799316,
+        "ApplicationProcess": 0.40788114070892334,
+        "TimelineFrequency": 0.39058905839920044,
+        "AuthoritiesGovernance": 0.3567765951156616,
+        "DefinitionsReferences": 0.32682645320892334
+      }
+    },
+    {
+      "sentence": "With specific financial assistance, clear eligibility criteria, and a straightforward application process, it aims to make higher education accessible to all.",
+      "role": "Eligibility",
+      "confidence": 0.5578250885009766,
+      "similarities": {
+        "ContextObjective": 0.48406222462654114,
+        "BenefitsAssistance": 0.4795070290565491,
+        "Eligibility": 0.5578250885009766,
+        "ApplicationProcess": 0.5066666007041931,
+        "TimelineFrequency": 0.45863470435142517,
+        "AuthoritiesGovernance": 0.3773599863052368,
+        "DefinitionsReferences": 0.36212068796157837
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's dedication to promoting education as a fundamental right for every citizen.",
+      "role": "ContextObjective",
+      "confidence": 0.5034681558609009,
+      "similarities": {
+        "ContextObjective": 0.5034681558609009,
+        "BenefitsAssistance": 0.3771775960922241,
+        "Eligibility": 0.4157146215438843,
+        "ApplicationProcess": 0.3975890874862671,
+        "TimelineFrequency": 0.3723462224006653,
+        "AuthoritiesGovernance": 0.37498578429222107,
+        "DefinitionsReferences": 0.3848024308681488
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 25,
+    "Eligibility": 8,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-24T21:04:17.024973"
+}

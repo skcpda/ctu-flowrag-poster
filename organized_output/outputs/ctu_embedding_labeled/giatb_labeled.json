@@ -1,0 +1,729 @@
+{
+  "scheme_name": "Grant-in-aid (TB)",
+  "total_sentences": 51,
+  "labeled_sentences": [
+    {
+      "sentence": "The Grant-in-aid scheme for tuberculosis (TB) control in India is a significant initiative aimed at combating the widespread issue of tuberculosis in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.47834324836730957,
+      "similarities": {
+        "ContextObjective": 0.47834324836730957,
+        "BenefitsAssistance": 0.45440351963043213,
+        "Eligibility": 0.4768226146697998,
+        "ApplicationProcess": 0.41394782066345215,
+        "TimelineFrequency": 0.40070635080337524,
+        "AuthoritiesGovernance": 0.4332744777202606,
+        "DefinitionsReferences": 0.3778085708618164
+      }
+    },
+    {
+      "sentence": "This scheme was launched under the National Tuberculosis Elimination Programme (NTEP) which was previously known as the Revised National Tuberculosis Control Programme (RNTCP).",
+      "role": "ContextObjective",
+      "confidence": 0.4403737187385559,
+      "similarities": {
+        "ContextObjective": 0.4403737187385559,
+        "BenefitsAssistance": 0.33890658617019653,
+        "Eligibility": 0.37181222438812256,
+        "ApplicationProcess": 0.3501376211643219,
+        "TimelineFrequency": 0.35208696126937866,
+        "AuthoritiesGovernance": 0.3562242388725281,
+        "DefinitionsReferences": 0.3158649206161499
+      }
+    },
+    {
+      "sentence": "The NTEP was initiated in 1997 and has undergone several revisions and enhancements over the years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.46259617805480957,
+      "similarities": {
+        "ContextObjective": 0.4532364010810852,
+        "BenefitsAssistance": 0.42486339807510376,
+        "Eligibility": 0.4397568702697754,
+        "ApplicationProcess": 0.4500943720340729,
+        "TimelineFrequency": 0.46259617805480957,
+        "AuthoritiesGovernance": 0.4448883831501007,
+        "DefinitionsReferences": 0.4417315125465393
+      }
+    },
+    {
+      "sentence": "The most recent comprehensive strategy was adopted in 2017 with the goal of eliminating TB in India by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.3981791138648987,
+      "similarities": {
+        "ContextObjective": 0.3981791138648987,
+        "BenefitsAssistance": 0.3581685423851013,
+        "Eligibility": 0.355101615190506,
+        "ApplicationProcess": 0.344256192445755,
+        "TimelineFrequency": 0.3361414670944214,
+        "AuthoritiesGovernance": 0.35820239782333374,
+        "DefinitionsReferences": 0.3120437562465668
+      }
+    },
+    {
+      "sentence": "The primary objective of the Grant-in-aid scheme is to provide financial assistance to various institutions and organizations that are engaged in TB control activities.",
+      "role": "ContextObjective",
+      "confidence": 0.505906343460083,
+      "similarities": {
+        "ContextObjective": 0.505906343460083,
+        "BenefitsAssistance": 0.49164068698883057,
+        "Eligibility": 0.4917707145214081,
+        "ApplicationProcess": 0.4255186915397644,
+        "TimelineFrequency": 0.4086800813674927,
+        "AuthoritiesGovernance": 0.45288410782814026,
+        "DefinitionsReferences": 0.38970381021499634
+      }
+    },
+    {
+      "sentence": "This includes NGOs, private hospitals, and other healthcare providers that play a crucial role in TB diagnosis, treatment, and awareness.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4408385455608368,
+      "similarities": {
+        "ContextObjective": 0.3753790259361267,
+        "BenefitsAssistance": 0.4408385455608368,
+        "Eligibility": 0.414800226688385,
+        "ApplicationProcess": 0.3576711416244507,
+        "TimelineFrequency": 0.32824116945266724,
+        "AuthoritiesGovernance": 0.4388299584388733,
+        "DefinitionsReferences": 0.4146322011947632
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance the capacity of these organizations to deliver effective TB services.",
+      "role": "ContextObjective",
+      "confidence": 0.5239655375480652,
+      "similarities": {
+        "ContextObjective": 0.5239655375480652,
+        "BenefitsAssistance": 0.3936571776866913,
+        "Eligibility": 0.4567914605140686,
+        "ApplicationProcess": 0.3718372583389282,
+        "TimelineFrequency": 0.3661500811576843,
+        "AuthoritiesGovernance": 0.4683237671852112,
+        "DefinitionsReferences": 0.358135849237442
+      }
+    },
+    {
+      "sentence": "The measurable targets of the scheme include increasing the number of TB patients diagnosed and treated successfully.",
+      "role": "ContextObjective",
+      "confidence": 0.49980297684669495,
+      "similarities": {
+        "ContextObjective": 0.49980297684669495,
+        "BenefitsAssistance": 0.389424204826355,
+        "Eligibility": 0.43089643120765686,
+        "ApplicationProcess": 0.37805622816085815,
+        "TimelineFrequency": 0.35827818512916565,
+        "AuthoritiesGovernance": 0.3721158504486084,
+        "DefinitionsReferences": 0.3167809844017029
+      }
+    },
+    {
+      "sentence": "The government aims to achieve a treatment success rate of at least 90 percent among all TB patients by 2025.",
+      "role": "Eligibility",
+      "confidence": 0.4139561653137207,
+      "similarities": {
+        "ContextObjective": 0.3984895944595337,
+        "BenefitsAssistance": 0.37131625413894653,
+        "Eligibility": 0.4139561653137207,
+        "ApplicationProcess": 0.3618997037410736,
+        "TimelineFrequency": 0.35265129804611206,
+        "AuthoritiesGovernance": 0.40075284242630005,
+        "DefinitionsReferences": 0.30336594581604004
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme seeks to reduce the incidence of TB to less than 100 per 100,000 population by the same year.",
+      "role": "Eligibility",
+      "confidence": 0.4335981607437134,
+      "similarities": {
+        "ContextObjective": 0.41904017329216003,
+        "BenefitsAssistance": 0.342377245426178,
+        "Eligibility": 0.4335981607437134,
+        "ApplicationProcess": 0.3663991689682007,
+        "TimelineFrequency": 0.37119221687316895,
+        "AuthoritiesGovernance": 0.3348989486694336,
+        "DefinitionsReferences": 0.279013454914093
+      }
+    },
+    {
+      "sentence": "Under this scheme, financial assistance is provided based on the specific activities undertaken by the implementing organizations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5785428881645203,
+      "similarities": {
+        "ContextObjective": 0.5645191073417664,
+        "BenefitsAssistance": 0.5785428881645203,
+        "Eligibility": 0.5610009431838989,
+        "ApplicationProcess": 0.4869717061519623,
+        "TimelineFrequency": 0.4561637043952942,
+        "AuthoritiesGovernance": 0.558364987373352,
+        "DefinitionsReferences": 0.44725751876831055
+      }
+    },
+    {
+      "sentence": "The assistance can range from INR 1 lakh to INR 50 lakhs depending on the scale and scope of the project.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5719501972198486,
+      "similarities": {
+        "ContextObjective": 0.49374616146087646,
+        "BenefitsAssistance": 0.5719501972198486,
+        "Eligibility": 0.5377259254455566,
+        "ApplicationProcess": 0.4653896689414978,
+        "TimelineFrequency": 0.45137718319892883,
+        "AuthoritiesGovernance": 0.439899206161499,
+        "DefinitionsReferences": 0.4387151896953583
+      }
+    },
+    {
+      "sentence": "The funds can be utilized for various activities including awareness campaigns, training of healthcare workers, and procurement of diagnostic tools.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5380005836486816,
+      "similarities": {
+        "ContextObjective": 0.45580047369003296,
+        "BenefitsAssistance": 0.5380005836486816,
+        "Eligibility": 0.49922603368759155,
+        "ApplicationProcess": 0.4235379695892334,
+        "TimelineFrequency": 0.43085870146751404,
+        "AuthoritiesGovernance": 0.44184964895248413,
+        "DefinitionsReferences": 0.43787750601768494
+      }
+    },
+    {
+      "sentence": "Organizations can also use the funds for patient support services such as transportation and nutritional support for TB patients.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5230861902236938,
+      "similarities": {
+        "ContextObjective": 0.38081154227256775,
+        "BenefitsAssistance": 0.5230861902236938,
+        "Eligibility": 0.43508368730545044,
+        "ApplicationProcess": 0.34872114658355713,
+        "TimelineFrequency": 0.3613150119781494,
+        "AuthoritiesGovernance": 0.3905186653137207,
+        "DefinitionsReferences": 0.38664376735687256
+      }
+    },
+    {
+      "sentence": "Eligibility for the Grant-in-aid scheme is primarily based on the type of organization applying for the assistance.",
+      "role": "Eligibility",
+      "confidence": 0.6209529042243958,
+      "similarities": {
+        "ContextObjective": 0.49539124965667725,
+        "BenefitsAssistance": 0.46900686621665955,
+        "Eligibility": 0.6209529042243958,
+        "ApplicationProcess": 0.5183343291282654,
+        "TimelineFrequency": 0.49108684062957764,
+        "AuthoritiesGovernance": 0.47169938683509827,
+        "DefinitionsReferences": 0.4015136659145355
+      }
+    },
+    {
+      "sentence": "Non-governmental organizations must be registered under the Societies Registration Act of 1860 or the Indian Trusts Act of 1882.",
+      "role": "Eligibility",
+      "confidence": 0.47336888313293457,
+      "similarities": {
+        "ContextObjective": 0.39803412556648254,
+        "BenefitsAssistance": 0.3845430910587311,
+        "Eligibility": 0.47336888313293457,
+        "ApplicationProcess": 0.4374340772628784,
+        "TimelineFrequency": 0.3748781085014343,
+        "AuthoritiesGovernance": 0.4042484164237976,
+        "DefinitionsReferences": 0.40789735317230225
+      }
+    },
+    {
+      "sentence": "Private healthcare institutions must be recognized by the relevant state or central health authorities.",
+      "role": "Eligibility",
+      "confidence": 0.542727530002594,
+      "similarities": {
+        "ContextObjective": 0.420864462852478,
+        "BenefitsAssistance": 0.47369086742401123,
+        "Eligibility": 0.542727530002594,
+        "ApplicationProcess": 0.5199686288833618,
+        "TimelineFrequency": 0.4329034388065338,
+        "AuthoritiesGovernance": 0.48515838384628296,
+        "DefinitionsReferences": 0.44439899921417236
+      }
+    },
+    {
+      "sentence": "The organizations must have prior experience in TB control or related health programs to qualify for the grant.",
+      "role": "Eligibility",
+      "confidence": 0.5643004775047302,
+      "similarities": {
+        "ContextObjective": 0.4291880130767822,
+        "BenefitsAssistance": 0.4364827275276184,
+        "Eligibility": 0.5643004775047302,
+        "ApplicationProcess": 0.4804691672325134,
+        "TimelineFrequency": 0.4287654459476471,
+        "AuthoritiesGovernance": 0.41016149520874023,
+        "DefinitionsReferences": 0.38454416394233704
+      }
+    },
+    {
+      "sentence": "Additionally, they must demonstrate the capacity to implement the proposed activities effectively.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5130168795585632,
+      "similarities": {
+        "ContextObjective": 0.5057967901229858,
+        "BenefitsAssistance": 0.3971063792705536,
+        "Eligibility": 0.5035097599029541,
+        "ApplicationProcess": 0.48042312264442444,
+        "TimelineFrequency": 0.4246354103088379,
+        "AuthoritiesGovernance": 0.5130168795585632,
+        "DefinitionsReferences": 0.4080231487751007
+      }
+    },
+    {
+      "sentence": "The application process for the Grant-in-aid scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6837805509567261,
+      "similarities": {
+        "ContextObjective": 0.5723091959953308,
+        "BenefitsAssistance": 0.5443121194839478,
+        "Eligibility": 0.6211140155792236,
+        "ApplicationProcess": 0.6837805509567261,
+        "TimelineFrequency": 0.5975773930549622,
+        "AuthoritiesGovernance": 0.5013561248779297,
+        "DefinitionsReferences": 0.484627366065979
+      }
+    },
+    {
+      "sentence": "First, interested organizations must submit a detailed project proposal outlining their objectives, activities, and expected outcomes.",
+      "role": "ContextObjective",
+      "confidence": 0.5593891739845276,
+      "similarities": {
+        "ContextObjective": 0.5593891739845276,
+        "BenefitsAssistance": 0.4698209762573242,
+        "Eligibility": 0.5052089095115662,
+        "ApplicationProcess": 0.551872968673706,
+        "TimelineFrequency": 0.4799725115299225,
+        "AuthoritiesGovernance": 0.4735092222690582,
+        "DefinitionsReferences": 0.44276660680770874
+      }
+    },
+    {
+      "sentence": "The proposal should include a budget detailing how the funds will be utilized.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6460378170013428,
+      "similarities": {
+        "ContextObjective": 0.5519046187400818,
+        "BenefitsAssistance": 0.6460378170013428,
+        "Eligibility": 0.5372954607009888,
+        "ApplicationProcess": 0.5168172717094421,
+        "TimelineFrequency": 0.540196418762207,
+        "AuthoritiesGovernance": 0.48621201515197754,
+        "DefinitionsReferences": 0.484843373298645
+      }
+    },
+    {
+      "sentence": "Organizations must also provide documentation of their registration and prior experience in TB control.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5160914659500122,
+      "similarities": {
+        "ContextObjective": 0.42933177947998047,
+        "BenefitsAssistance": 0.4973422884941101,
+        "Eligibility": 0.5082981586456299,
+        "ApplicationProcess": 0.5160914659500122,
+        "TimelineFrequency": 0.4312075972557068,
+        "AuthoritiesGovernance": 0.46108800172805786,
+        "DefinitionsReferences": 0.4868625998497009
+      }
+    },
+    {
+      "sentence": "Once the proposal is submitted, it is reviewed by the respective state TB control unit.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48283618688583374,
+      "similarities": {
+        "ContextObjective": 0.3886317014694214,
+        "BenefitsAssistance": 0.4225693345069885,
+        "Eligibility": 0.42734599113464355,
+        "ApplicationProcess": 0.48283618688583374,
+        "TimelineFrequency": 0.4108625650405884,
+        "AuthoritiesGovernance": 0.4373584985733032,
+        "DefinitionsReferences": 0.3986779451370239
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5619117617607117,
+      "similarities": {
+        "ContextObjective": 0.4352940320968628,
+        "BenefitsAssistance": 0.4509149491786957,
+        "Eligibility": 0.47341489791870117,
+        "ApplicationProcess": 0.5501819849014282,
+        "TimelineFrequency": 0.5619117617607117,
+        "AuthoritiesGovernance": 0.46758198738098145,
+        "DefinitionsReferences": 0.4665638506412506
+      }
+    },
+    {
+      "sentence": "If approved, the organization will receive a sanction order detailing the amount of grant awarded and the conditions for its utilization.",
+      "role": "Eligibility",
+      "confidence": 0.6540382504463196,
+      "similarities": {
+        "ContextObjective": 0.45816463232040405,
+        "BenefitsAssistance": 0.5478127598762512,
+        "Eligibility": 0.6540382504463196,
+        "ApplicationProcess": 0.5525233149528503,
+        "TimelineFrequency": 0.507067859172821,
+        "AuthoritiesGovernance": 0.5235146284103394,
+        "DefinitionsReferences": 0.48618605732917786
+      }
+    },
+    {
+      "sentence": "The funds are disbursed in installments based on the progress of the project.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5447086691856384,
+      "similarities": {
+        "ContextObjective": 0.47848081588745117,
+        "BenefitsAssistance": 0.5447086691856384,
+        "Eligibility": 0.47157496213912964,
+        "ApplicationProcess": 0.47842317819595337,
+        "TimelineFrequency": 0.5169009566307068,
+        "AuthoritiesGovernance": 0.4705475866794586,
+        "DefinitionsReferences": 0.4060281813144684
+      }
+    },
+    {
+      "sentence": "Organizations must submit periodic reports on the implementation of the project to receive subsequent installments.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5543308258056641,
+      "similarities": {
+        "ContextObjective": 0.45419618487358093,
+        "BenefitsAssistance": 0.48922252655029297,
+        "Eligibility": 0.5088267922401428,
+        "ApplicationProcess": 0.5229554176330566,
+        "TimelineFrequency": 0.5543308258056641,
+        "AuthoritiesGovernance": 0.54149329662323,
+        "DefinitionsReferences": 0.4154830873012543
+      }
+    },
+    {
+      "sentence": "The timeline for the entire application and disbursement process can take anywhere from two to three months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6258537173271179,
+      "similarities": {
+        "ContextObjective": 0.4718594253063202,
+        "BenefitsAssistance": 0.5720610022544861,
+        "Eligibility": 0.5437708497047424,
+        "ApplicationProcess": 0.580080509185791,
+        "TimelineFrequency": 0.6258537173271179,
+        "AuthoritiesGovernance": 0.45981675386428833,
+        "DefinitionsReferences": 0.4423411786556244
+      }
+    },
+    {
+      "sentence": "The implementing authorities for the Grant-in-aid scheme are primarily the Ministry of Health and Family Welfare at the central level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5583149194717407,
+      "similarities": {
+        "ContextObjective": 0.4232317805290222,
+        "BenefitsAssistance": 0.4424517750740051,
+        "Eligibility": 0.48662030696868896,
+        "ApplicationProcess": 0.42201024293899536,
+        "TimelineFrequency": 0.36267757415771484,
+        "AuthoritiesGovernance": 0.5583149194717407,
+        "DefinitionsReferences": 0.38889697194099426
+      }
+    },
+    {
+      "sentence": "At the state level, the State TB Control Society is responsible for overseeing the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5176548361778259,
+      "similarities": {
+        "ContextObjective": 0.4579358696937561,
+        "BenefitsAssistance": 0.42874881625175476,
+        "Eligibility": 0.4608209729194641,
+        "ApplicationProcess": 0.44934791326522827,
+        "TimelineFrequency": 0.3652644753456116,
+        "AuthoritiesGovernance": 0.5176548361778259,
+        "DefinitionsReferences": 0.41047102212905884
+      }
+    },
+    {
+      "sentence": "Contact details for the Ministry of Health and Family Welfare can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5134488940238953,
+      "similarities": {
+        "ContextObjective": 0.41216838359832764,
+        "BenefitsAssistance": 0.5028102397918701,
+        "Eligibility": 0.46331003308296204,
+        "ApplicationProcess": 0.48858195543289185,
+        "TimelineFrequency": 0.41437315940856934,
+        "AuthoritiesGovernance": 0.5134488940238953,
+        "DefinitionsReferences": 0.4472349286079407
+      }
+    },
+    {
+      "sentence": "The NTEP is supported by various stakeholders including international organizations such as the World Health Organization and the Global Fund.",
+      "role": "Eligibility",
+      "confidence": 0.4820750653743744,
+      "similarities": {
+        "ContextObjective": 0.4446253776550293,
+        "BenefitsAssistance": 0.4749786853790283,
+        "Eligibility": 0.4820750653743744,
+        "ApplicationProcess": 0.3900245428085327,
+        "TimelineFrequency": 0.3918255865573883,
+        "AuthoritiesGovernance": 0.4783671498298645,
+        "DefinitionsReferences": 0.41863250732421875
+      }
+    },
+    {
+      "sentence": "These partnerships enhance the effectiveness of the Grant-in-aid scheme by providing additional resources and expertise.",
+      "role": "ContextObjective",
+      "confidence": 0.45897334814071655,
+      "similarities": {
+        "ContextObjective": 0.45897334814071655,
+        "BenefitsAssistance": 0.4546334743499756,
+        "Eligibility": 0.4560586214065552,
+        "ApplicationProcess": 0.3936731815338135,
+        "TimelineFrequency": 0.40166911482810974,
+        "AuthoritiesGovernance": 0.4434746205806732,
+        "DefinitionsReferences": 0.45035746693611145
+      }
+    },
+    {
+      "sentence": "As of 2023, India has made significant progress in TB control with a reported 2.64 million TB cases notified in 2021.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43465811014175415,
+      "similarities": {
+        "ContextObjective": 0.4237762689590454,
+        "BenefitsAssistance": 0.43465811014175415,
+        "Eligibility": 0.41587358713150024,
+        "ApplicationProcess": 0.3874800205230713,
+        "TimelineFrequency": 0.38849496841430664,
+        "AuthoritiesGovernance": 0.4088972508907318,
+        "DefinitionsReferences": 0.4012742042541504
+      }
+    },
+    {
+      "sentence": "The treatment success rate has improved to approximately 87 percent.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.377339631319046,
+      "similarities": {
+        "ContextObjective": 0.34772413969039917,
+        "BenefitsAssistance": 0.3722378611564636,
+        "Eligibility": 0.34193846583366394,
+        "ApplicationProcess": 0.3373492360115051,
+        "TimelineFrequency": 0.32640737295150757,
+        "AuthoritiesGovernance": 0.377339631319046,
+        "DefinitionsReferences": 0.3204576373100281
+      }
+    },
+    {
+      "sentence": "The government has also increased its budget allocation for TB control to INR 1,600 crores for the financial year 2022-2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44123274087905884,
+      "similarities": {
+        "ContextObjective": 0.3602604866027832,
+        "BenefitsAssistance": 0.44123274087905884,
+        "Eligibility": 0.3841807544231415,
+        "ApplicationProcess": 0.3235439658164978,
+        "TimelineFrequency": 0.35836726427078247,
+        "AuthoritiesGovernance": 0.3490378260612488,
+        "DefinitionsReferences": 0.3687082529067993
+      }
+    },
+    {
+      "sentence": "This increased funding reflects the government's commitment to achieving the ambitious goal of TB elimination by 2025.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39584094285964966,
+      "similarities": {
+        "ContextObjective": 0.3924042582511902,
+        "BenefitsAssistance": 0.39584094285964966,
+        "Eligibility": 0.3712035119533539,
+        "ApplicationProcess": 0.3355947732925415,
+        "TimelineFrequency": 0.33875858783721924,
+        "AuthoritiesGovernance": 0.34531575441360474,
+        "DefinitionsReferences": 0.34063512086868286
+      }
+    },
+    {
+      "sentence": "The Grant-in-aid scheme plays a crucial role in this effort by empowering local organizations to take proactive measures against TB.",
+      "role": "Eligibility",
+      "confidence": 0.43875765800476074,
+      "similarities": {
+        "ContextObjective": 0.4193599224090576,
+        "BenefitsAssistance": 0.39734137058258057,
+        "Eligibility": 0.43875765800476074,
+        "ApplicationProcess": 0.38175368309020996,
+        "TimelineFrequency": 0.3444128930568695,
+        "AuthoritiesGovernance": 0.3937528133392334,
+        "DefinitionsReferences": 0.3434642553329468
+      }
+    },
+    {
+      "sentence": "Awareness campaigns funded through this scheme have reached millions of people across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5102318525314331,
+      "similarities": {
+        "ContextObjective": 0.5102318525314331,
+        "BenefitsAssistance": 0.43353235721588135,
+        "Eligibility": 0.46396857500076294,
+        "ApplicationProcess": 0.38617339730262756,
+        "TimelineFrequency": 0.35672420263290405,
+        "AuthoritiesGovernance": 0.412386953830719,
+        "DefinitionsReferences": 0.370131254196167
+      }
+    },
+    {
+      "sentence": "These campaigns aim to educate the public about TB symptoms, the importance of early diagnosis, and adherence to treatment.",
+      "role": "ContextObjective",
+      "confidence": 0.416761189699173,
+      "similarities": {
+        "ContextObjective": 0.416761189699173,
+        "BenefitsAssistance": 0.39900970458984375,
+        "Eligibility": 0.38491305708885193,
+        "ApplicationProcess": 0.3878878951072693,
+        "TimelineFrequency": 0.38363146781921387,
+        "AuthoritiesGovernance": 0.40792715549468994,
+        "DefinitionsReferences": 0.36631226539611816
+      }
+    },
+    {
+      "sentence": "Furthermore, the scheme supports the training of healthcare workers to improve the quality of TB care provided at the grassroots level.",
+      "role": "ContextObjective",
+      "confidence": 0.389654278755188,
+      "similarities": {
+        "ContextObjective": 0.389654278755188,
+        "BenefitsAssistance": 0.35786640644073486,
+        "Eligibility": 0.37799179553985596,
+        "ApplicationProcess": 0.33108195662498474,
+        "TimelineFrequency": 0.29651302099227905,
+        "AuthoritiesGovernance": 0.38941121101379395,
+        "DefinitionsReferences": 0.32746487855911255
+      }
+    },
+    {
+      "sentence": "The government also emphasizes the importance of community engagement in TB control efforts.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4101126790046692,
+      "similarities": {
+        "ContextObjective": 0.39958542585372925,
+        "BenefitsAssistance": 0.3925173878669739,
+        "Eligibility": 0.39380204677581787,
+        "ApplicationProcess": 0.36007386445999146,
+        "TimelineFrequency": 0.3233194351196289,
+        "AuthoritiesGovernance": 0.4101126790046692,
+        "DefinitionsReferences": 0.3920198082923889
+      }
+    },
+    {
+      "sentence": "This includes involving local leaders and influencers to spread awareness and reduce stigma associated with the disease.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4552617073059082,
+      "similarities": {
+        "ContextObjective": 0.39388853311538696,
+        "BenefitsAssistance": 0.3792051374912262,
+        "Eligibility": 0.40713340044021606,
+        "ApplicationProcess": 0.3313569128513336,
+        "TimelineFrequency": 0.2916908264160156,
+        "AuthoritiesGovernance": 0.4552617073059082,
+        "DefinitionsReferences": 0.37709498405456543
+      }
+    },
+    {
+      "sentence": "The Grant-in-aid scheme is a vital component of India's broader strategy to tackle TB.",
+      "role": "ContextObjective",
+      "confidence": 0.42854517698287964,
+      "similarities": {
+        "ContextObjective": 0.42854517698287964,
+        "BenefitsAssistance": 0.4072420001029968,
+        "Eligibility": 0.4199528098106384,
+        "ApplicationProcess": 0.3653416633605957,
+        "TimelineFrequency": 0.34599846601486206,
+        "AuthoritiesGovernance": 0.3543092608451843,
+        "DefinitionsReferences": 0.35003018379211426
+      }
+    },
+    {
+      "sentence": "It not only provides financial support but also fosters collaboration between the government and non-governmental organizations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47257184982299805,
+      "similarities": {
+        "ContextObjective": 0.45206040143966675,
+        "BenefitsAssistance": 0.47257184982299805,
+        "Eligibility": 0.4126433730125427,
+        "ApplicationProcess": 0.37573230266571045,
+        "TimelineFrequency": 0.3774645924568176,
+        "AuthoritiesGovernance": 0.43435972929000854,
+        "DefinitionsReferences": 0.4244779348373413
+      }
+    },
+    {
+      "sentence": "This collaborative approach is essential for addressing the multifaceted challenges posed by TB in India.",
+      "role": "ContextObjective",
+      "confidence": 0.417782187461853,
+      "similarities": {
+        "ContextObjective": 0.417782187461853,
+        "BenefitsAssistance": 0.39131513237953186,
+        "Eligibility": 0.41011667251586914,
+        "ApplicationProcess": 0.37484970688819885,
+        "TimelineFrequency": 0.3572577238082886,
+        "AuthoritiesGovernance": 0.4114408493041992,
+        "DefinitionsReferences": 0.366115540266037
+      }
+    },
+    {
+      "sentence": "In conclusion, the Grant-in-aid scheme for tuberculosis control is a comprehensive initiative that aims to enhance the capacity of organizations involved in TB management.",
+      "role": "ContextObjective",
+      "confidence": 0.4730875790119171,
+      "similarities": {
+        "ContextObjective": 0.4730875790119171,
+        "BenefitsAssistance": 0.4624067544937134,
+        "Eligibility": 0.47301942110061646,
+        "ApplicationProcess": 0.418667197227478,
+        "TimelineFrequency": 0.39598047733306885,
+        "AuthoritiesGovernance": 0.4592992067337036,
+        "DefinitionsReferences": 0.39658263325691223
+      }
+    },
+    {
+      "sentence": "With specific financial assistance, eligibility criteria, and a structured application process, the scheme is designed to achieve measurable outcomes in TB control.",
+      "role": "Eligibility",
+      "confidence": 0.5734550356864929,
+      "similarities": {
+        "ContextObjective": 0.5239332318305969,
+        "BenefitsAssistance": 0.5275587439537048,
+        "Eligibility": 0.5734550356864929,
+        "ApplicationProcess": 0.5323077440261841,
+        "TimelineFrequency": 0.48800066113471985,
+        "AuthoritiesGovernance": 0.43423977494239807,
+        "DefinitionsReferences": 0.38604941964149475
+      }
+    },
+    {
+      "sentence": "The commitment of the Indian government to eliminate TB by 2025 is reflected in the ongoing support and funding for this critical initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.40951406955718994,
+      "similarities": {
+        "ContextObjective": 0.40319254994392395,
+        "BenefitsAssistance": 0.40951406955718994,
+        "Eligibility": 0.3818516433238983,
+        "ApplicationProcess": 0.357056200504303,
+        "TimelineFrequency": 0.3637760877609253,
+        "AuthoritiesGovernance": 0.3691171407699585,
+        "DefinitionsReferences": 0.35944247245788574
+      }
+    },
+    {
+      "sentence": "Through the Grant-in-aid scheme, India is taking significant steps toward a TB-free future.",
+      "role": "Eligibility",
+      "confidence": 0.39419108629226685,
+      "similarities": {
+        "ContextObjective": 0.3770219087600708,
+        "BenefitsAssistance": 0.3927689790725708,
+        "Eligibility": 0.39419108629226685,
+        "ApplicationProcess": 0.3647977113723755,
+        "TimelineFrequency": 0.29575031995773315,
+        "AuthoritiesGovernance": 0.31499332189559937,
+        "DefinitionsReferences": 0.3064124584197998
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 14,
+    "TimelineFrequency": 4,
+    "BenefitsAssistance": 12,
+    "Eligibility": 11,
+    "AuthoritiesGovernance": 7,
+    "ApplicationProcess": 3
+  },
+  "processing_timestamp": "2025-09-25T20:41:25.856920"
+}

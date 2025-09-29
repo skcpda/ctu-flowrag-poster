@@ -1,0 +1,897 @@
+{
+  "scheme_name": "Maternity Benefits Scheme (BBOCWWB)",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Maternity Benefits Scheme under the Building and Other Construction Workers Welfare Board (BBOCWWB) was launched to provide financial assistance to women workers in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.47686803340911865,
+      "similarities": {
+        "ContextObjective": 0.47686803340911865,
+        "BenefitsAssistance": 0.4760301411151886,
+        "Eligibility": 0.4712480902671814,
+        "ApplicationProcess": 0.40211397409439087,
+        "TimelineFrequency": 0.4172523021697998,
+        "AuthoritiesGovernance": 0.39488375186920166,
+        "DefinitionsReferences": 0.35831668972969055
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 1st January 2017.",
+      "role": "ContextObjective",
+      "confidence": 0.5843244791030884,
+      "similarities": {
+        "ContextObjective": 0.5843244791030884,
+        "BenefitsAssistance": 0.44372737407684326,
+        "Eligibility": 0.46320146322250366,
+        "ApplicationProcess": 0.478182315826416,
+        "TimelineFrequency": 0.44280263781547546,
+        "AuthoritiesGovernance": 0.4045441746711731,
+        "DefinitionsReferences": 0.3551206588745117
+      }
+    },
+    {
+      "sentence": "The primary objective of the Maternity Benefits Scheme is to provide financial support to pregnant women and nursing mothers who are registered as beneficiaries under the BBOCWWB.",
+      "role": "ContextObjective",
+      "confidence": 0.5461675524711609,
+      "similarities": {
+        "ContextObjective": 0.5461675524711609,
+        "BenefitsAssistance": 0.5311192274093628,
+        "Eligibility": 0.5369497537612915,
+        "ApplicationProcess": 0.444940984249115,
+        "TimelineFrequency": 0.4708062708377838,
+        "AuthoritiesGovernance": 0.4416118264198303,
+        "DefinitionsReferences": 0.41621726751327515
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that women workers receive adequate financial assistance during their maternity period.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5378822088241577,
+      "similarities": {
+        "ContextObjective": 0.5120252370834351,
+        "BenefitsAssistance": 0.5378822088241577,
+        "Eligibility": 0.510596752166748,
+        "ApplicationProcess": 0.44680362939834595,
+        "TimelineFrequency": 0.4745686650276184,
+        "AuthoritiesGovernance": 0.4300463795661926,
+        "DefinitionsReferences": 0.37233152985572815
+      }
+    },
+    {
+      "sentence": "The specific goal is to provide a one-time cash assistance of ₹30,000 to eligible women workers.",
+      "role": "Eligibility",
+      "confidence": 0.4812421202659607,
+      "similarities": {
+        "ContextObjective": 0.4485666751861572,
+        "BenefitsAssistance": 0.46401119232177734,
+        "Eligibility": 0.4812421202659607,
+        "ApplicationProcess": 0.39554527401924133,
+        "TimelineFrequency": 0.38573962450027466,
+        "AuthoritiesGovernance": 0.3967333436012268,
+        "DefinitionsReferences": 0.32111263275146484
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover medical expenses and other costs associated with childbirth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6385797262191772,
+      "similarities": {
+        "ContextObjective": 0.43951958417892456,
+        "BenefitsAssistance": 0.6385797262191772,
+        "Eligibility": 0.459705650806427,
+        "ApplicationProcess": 0.43073827028274536,
+        "TimelineFrequency": 0.4457325041294098,
+        "AuthoritiesGovernance": 0.3920835852622986,
+        "DefinitionsReferences": 0.4447532892227173
+      }
+    },
+    {
+      "sentence": "The assistance is provided to women who have worked in the construction sector for a minimum of 90 days in the preceding 12 months before the expected date of delivery.",
+      "role": "Eligibility",
+      "confidence": 0.48124539852142334,
+      "similarities": {
+        "ContextObjective": 0.4060785174369812,
+        "BenefitsAssistance": 0.43251216411590576,
+        "Eligibility": 0.48124539852142334,
+        "ApplicationProcess": 0.4322474002838135,
+        "TimelineFrequency": 0.4795644283294678,
+        "AuthoritiesGovernance": 0.38994020223617554,
+        "DefinitionsReferences": 0.34164106845855713
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on improving maternal health and ensuring that women can take necessary time off work without financial burden.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4553419053554535,
+      "similarities": {
+        "ContextObjective": 0.4492967128753662,
+        "BenefitsAssistance": 0.4553419053554535,
+        "Eligibility": 0.4211643636226654,
+        "ApplicationProcess": 0.37627601623535156,
+        "TimelineFrequency": 0.3788238763809204,
+        "AuthoritiesGovernance": 0.3558501899242401,
+        "DefinitionsReferences": 0.3396027684211731
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be registered with the BBOCWWB and must have contributed to the welfare fund.",
+      "role": "Eligibility",
+      "confidence": 0.595961332321167,
+      "similarities": {
+        "ContextObjective": 0.4177549481391907,
+        "BenefitsAssistance": 0.4637281894683838,
+        "Eligibility": 0.595961332321167,
+        "ApplicationProcess": 0.46468791365623474,
+        "TimelineFrequency": 0.40421783924102783,
+        "AuthoritiesGovernance": 0.40546971559524536,
+        "DefinitionsReferences": 0.3789393901824951
+      }
+    },
+    {
+      "sentence": "The eligibility criteria also include that the woman must be at least 18 years of age.",
+      "role": "Eligibility",
+      "confidence": 0.562429666519165,
+      "similarities": {
+        "ContextObjective": 0.41731560230255127,
+        "BenefitsAssistance": 0.4527530372142792,
+        "Eligibility": 0.562429666519165,
+        "ApplicationProcess": 0.4878779351711273,
+        "TimelineFrequency": 0.48276492953300476,
+        "AuthoritiesGovernance": 0.3699646592140198,
+        "DefinitionsReferences": 0.3942199647426605
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to women who are working in the construction industry as laborers, masons, electricians, plumbers, and other related occupations.",
+      "role": "ContextObjective",
+      "confidence": 0.41759607195854187,
+      "similarities": {
+        "ContextObjective": 0.41759607195854187,
+        "BenefitsAssistance": 0.3826904594898224,
+        "Eligibility": 0.41100162267684937,
+        "ApplicationProcess": 0.39102089405059814,
+        "TimelineFrequency": 0.399780809879303,
+        "AuthoritiesGovernance": 0.40423256158828735,
+        "DefinitionsReferences": 0.3686228394508362
+      }
+    },
+    {
+      "sentence": "To apply for the Maternity Benefits Scheme, the applicant must follow a specific process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6470229625701904,
+      "similarities": {
+        "ContextObjective": 0.5541103482246399,
+        "BenefitsAssistance": 0.5012785792350769,
+        "Eligibility": 0.6276679039001465,
+        "ApplicationProcess": 0.6470229625701904,
+        "TimelineFrequency": 0.5801200866699219,
+        "AuthoritiesGovernance": 0.4687354564666748,
+        "DefinitionsReferences": 0.43165621161460876
+      }
+    },
+    {
+      "sentence": "First, the applicant must ensure that she is registered with the BBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6237634420394897,
+      "similarities": {
+        "ContextObjective": 0.4380713105201721,
+        "BenefitsAssistance": 0.4459131956100464,
+        "Eligibility": 0.5740372538566589,
+        "ApplicationProcess": 0.6237634420394897,
+        "TimelineFrequency": 0.5102587342262268,
+        "AuthoritiesGovernance": 0.4403727650642395,
+        "DefinitionsReferences": 0.4379153847694397
+      }
+    },
+    {
+      "sentence": "The application form can be obtained from the official website of the BBOCWWB or from local offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6597071886062622,
+      "similarities": {
+        "ContextObjective": 0.47192084789276123,
+        "BenefitsAssistance": 0.4723079204559326,
+        "Eligibility": 0.5740300416946411,
+        "ApplicationProcess": 0.6597071886062622,
+        "TimelineFrequency": 0.5337976217269897,
+        "AuthoritiesGovernance": 0.47599300742149353,
+        "DefinitionsReferences": 0.47803235054016113
+      }
+    },
+    {
+      "sentence": "The applicant must fill out the form with accurate personal details and information regarding her employment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6715117692947388,
+      "similarities": {
+        "ContextObjective": 0.4684924781322479,
+        "BenefitsAssistance": 0.53912752866745,
+        "Eligibility": 0.5802767276763916,
+        "ApplicationProcess": 0.6715117692947388,
+        "TimelineFrequency": 0.5535355806350708,
+        "AuthoritiesGovernance": 0.47280216217041016,
+        "DefinitionsReferences": 0.4946756362915039
+      }
+    },
+    {
+      "sentence": "Documents required for the application include proof of pregnancy such as a medical certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6218815445899963,
+      "similarities": {
+        "ContextObjective": 0.4529568552970886,
+        "BenefitsAssistance": 0.5380130410194397,
+        "Eligibility": 0.5533357858657837,
+        "ApplicationProcess": 0.6218815445899963,
+        "TimelineFrequency": 0.549983024597168,
+        "AuthoritiesGovernance": 0.3957166373729706,
+        "DefinitionsReferences": 0.5107758641242981
+      }
+    },
+    {
+      "sentence": "Additionally, the applicant must provide her identity proof and proof of registration with the BBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6101775169372559,
+      "similarities": {
+        "ContextObjective": 0.43063825368881226,
+        "BenefitsAssistance": 0.48512592911720276,
+        "Eligibility": 0.5311760902404785,
+        "ApplicationProcess": 0.6101775169372559,
+        "TimelineFrequency": 0.4842783808708191,
+        "AuthoritiesGovernance": 0.39373981952667236,
+        "DefinitionsReferences": 0.45728442072868347
+      }
+    },
+    {
+      "sentence": "Once the application form is completed and documents are gathered, the applicant must submit them to the local BBOCWWB office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6699753999710083,
+      "similarities": {
+        "ContextObjective": 0.4268150329589844,
+        "BenefitsAssistance": 0.44416743516921997,
+        "Eligibility": 0.5411581993103027,
+        "ApplicationProcess": 0.6699753999710083,
+        "TimelineFrequency": 0.51235431432724,
+        "AuthoritiesGovernance": 0.4555346369743347,
+        "DefinitionsReferences": 0.4277783930301666
+      }
+    },
+    {
+      "sentence": "The application will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6974157094955444,
+      "similarities": {
+        "ContextObjective": 0.5470808744430542,
+        "BenefitsAssistance": 0.5064966082572937,
+        "Eligibility": 0.643839955329895,
+        "ApplicationProcess": 0.6974157094955444,
+        "TimelineFrequency": 0.6051124930381775,
+        "AuthoritiesGovernance": 0.5419943332672119,
+        "DefinitionsReferences": 0.5207543969154358
+      }
+    },
+    {
+      "sentence": "If approved, the financial assistance will be disbursed directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5817521214485168,
+      "similarities": {
+        "ContextObjective": 0.4015376567840576,
+        "BenefitsAssistance": 0.5817521214485168,
+        "Eligibility": 0.5491135120391846,
+        "ApplicationProcess": 0.4922298192977905,
+        "TimelineFrequency": 0.42300087213516235,
+        "AuthoritiesGovernance": 0.4383181929588318,
+        "DefinitionsReferences": 0.366901695728302
+      }
+    },
+    {
+      "sentence": "The disbursement of funds typically occurs within 30 days of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5462676286697388,
+      "similarities": {
+        "ContextObjective": 0.4493730664253235,
+        "BenefitsAssistance": 0.5321705341339111,
+        "Eligibility": 0.5164028406143188,
+        "ApplicationProcess": 0.5017210245132446,
+        "TimelineFrequency": 0.5462676286697388,
+        "AuthoritiesGovernance": 0.444692999124527,
+        "DefinitionsReferences": 0.39985328912734985
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be user-friendly and aims to minimize bureaucratic hurdles.",
+      "role": "ContextObjective",
+      "confidence": 0.5268586874008179,
+      "similarities": {
+        "ContextObjective": 0.5268586874008179,
+        "BenefitsAssistance": 0.4202924370765686,
+        "Eligibility": 0.4835677742958069,
+        "ApplicationProcess": 0.5093139410018921,
+        "TimelineFrequency": 0.44624820351600647,
+        "AuthoritiesGovernance": 0.4692450165748596,
+        "DefinitionsReferences": 0.38338232040405273
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme is implemented by the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5362357497215271,
+      "similarities": {
+        "ContextObjective": 0.508186936378479,
+        "BenefitsAssistance": 0.48868557810783386,
+        "Eligibility": 0.48862701654434204,
+        "ApplicationProcess": 0.45448973774909973,
+        "TimelineFrequency": 0.4490644335746765,
+        "AuthoritiesGovernance": 0.5362357497215271,
+        "DefinitionsReferences": 0.40215057134628296
+      }
+    },
+    {
+      "sentence": "The Building and Other Construction Workers Welfare Board operates under this ministry.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5102449059486389,
+      "similarities": {
+        "ContextObjective": 0.43445006012916565,
+        "BenefitsAssistance": 0.4238571524620056,
+        "Eligibility": 0.45184582471847534,
+        "ApplicationProcess": 0.42535313963890076,
+        "TimelineFrequency": 0.3848921060562134,
+        "AuthoritiesGovernance": 0.5102449059486389,
+        "DefinitionsReferences": 0.37766122817993164
+      }
+    },
+    {
+      "sentence": "State governments play a crucial role in the implementation of the scheme at the local level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5746729373931885,
+      "similarities": {
+        "ContextObjective": 0.5059258937835693,
+        "BenefitsAssistance": 0.4260191023349762,
+        "Eligibility": 0.5161296129226685,
+        "ApplicationProcess": 0.4727955162525177,
+        "TimelineFrequency": 0.4079204201698303,
+        "AuthoritiesGovernance": 0.5746729373931885,
+        "DefinitionsReferences": 0.43257415294647217
+      }
+    },
+    {
+      "sentence": "Each state has its own BBOCWWB office to facilitate the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5912303924560547,
+      "similarities": {
+        "ContextObjective": 0.4642290472984314,
+        "BenefitsAssistance": 0.4849618375301361,
+        "Eligibility": 0.5722933411598206,
+        "ApplicationProcess": 0.5912303924560547,
+        "TimelineFrequency": 0.5359864234924316,
+        "AuthoritiesGovernance": 0.509314239025116,
+        "DefinitionsReferences": 0.48458436131477356
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to improve the welfare of construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4713997542858124,
+      "similarities": {
+        "ContextObjective": 0.4713997542858124,
+        "BenefitsAssistance": 0.4123387038707733,
+        "Eligibility": 0.43315374851226807,
+        "ApplicationProcess": 0.3987610638141632,
+        "TimelineFrequency": 0.3621898293495178,
+        "AuthoritiesGovernance": 0.4155421853065491,
+        "DefinitionsReferences": 0.33978766202926636
+      }
+    },
+    {
+      "sentence": "According to the 2011 Census, there are approximately 4.5 crore construction workers in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.38020649552345276,
+      "similarities": {
+        "ContextObjective": 0.35873979330062866,
+        "BenefitsAssistance": 0.36560165882110596,
+        "Eligibility": 0.3639945983886719,
+        "ApplicationProcess": 0.35155728459358215,
+        "TimelineFrequency": 0.32233068346977234,
+        "AuthoritiesGovernance": 0.38020649552345276,
+        "DefinitionsReferences": 0.31234973669052124
+      }
+    },
+    {
+      "sentence": "Women constitute about 30% of this workforce.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.3840630054473877,
+      "similarities": {
+        "ContextObjective": 0.3349553346633911,
+        "BenefitsAssistance": 0.3690955638885498,
+        "Eligibility": 0.36896467208862305,
+        "ApplicationProcess": 0.3098973333835602,
+        "TimelineFrequency": 0.3336266875267029,
+        "AuthoritiesGovernance": 0.3840630054473877,
+        "DefinitionsReferences": 0.3325045704841614
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme aims to address the specific needs of these women workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5375087857246399,
+      "similarities": {
+        "ContextObjective": 0.5375087857246399,
+        "BenefitsAssistance": 0.4778423309326172,
+        "Eligibility": 0.5168060064315796,
+        "ApplicationProcess": 0.4208446741104126,
+        "TimelineFrequency": 0.44691306352615356,
+        "AuthoritiesGovernance": 0.4268409013748169,
+        "DefinitionsReferences": 0.36127740144729614
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the National Health Mission's goals of improving maternal and child health.",
+      "role": "ContextObjective",
+      "confidence": 0.5047064423561096,
+      "similarities": {
+        "ContextObjective": 0.5047064423561096,
+        "BenefitsAssistance": 0.38221031427383423,
+        "Eligibility": 0.44000163674354553,
+        "ApplicationProcess": 0.4017792046070099,
+        "TimelineFrequency": 0.35730066895484924,
+        "AuthoritiesGovernance": 0.40202105045318604,
+        "DefinitionsReferences": 0.34075698256492615
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is expected to reduce maternal mortality rates.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49294477701187134,
+      "similarities": {
+        "ContextObjective": 0.4182676374912262,
+        "BenefitsAssistance": 0.49294477701187134,
+        "Eligibility": 0.4385024905204773,
+        "ApplicationProcess": 0.36845284700393677,
+        "TimelineFrequency": 0.37356770038604736,
+        "AuthoritiesGovernance": 0.40189802646636963,
+        "DefinitionsReferences": 0.3232257664203644
+      }
+    },
+    {
+      "sentence": "It also aims to promote safe childbirth practices among women in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.37474822998046875,
+      "similarities": {
+        "ContextObjective": 0.37474822998046875,
+        "BenefitsAssistance": 0.3161061406135559,
+        "Eligibility": 0.35409554839134216,
+        "ApplicationProcess": 0.3484220802783966,
+        "TimelineFrequency": 0.3183542490005493,
+        "AuthoritiesGovernance": 0.3333204388618469,
+        "DefinitionsReferences": 0.3128098249435425
+      }
+    },
+    {
+      "sentence": "The scheme has been positively received by various stakeholders in the construction industry.",
+      "role": "ContextObjective",
+      "confidence": 0.5470781326293945,
+      "similarities": {
+        "ContextObjective": 0.5470781326293945,
+        "BenefitsAssistance": 0.43644124269485474,
+        "Eligibility": 0.4747914671897888,
+        "ApplicationProcess": 0.4444059431552887,
+        "TimelineFrequency": 0.40652233362197876,
+        "AuthoritiesGovernance": 0.4445697069168091,
+        "DefinitionsReferences": 0.4017360508441925
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries indicates that the financial assistance has significantly eased their economic burden during maternity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4896395802497864,
+      "similarities": {
+        "ContextObjective": 0.35064181685447693,
+        "BenefitsAssistance": 0.4896395802497864,
+        "Eligibility": 0.3822774887084961,
+        "ApplicationProcess": 0.29960954189300537,
+        "TimelineFrequency": 0.3184358477592468,
+        "AuthoritiesGovernance": 0.3074040412902832,
+        "DefinitionsReferences": 0.3173453211784363
+      }
+    },
+    {
+      "sentence": "The scheme is reviewed periodically to assess its effectiveness and impact.",
+      "role": "ContextObjective",
+      "confidence": 0.5639547109603882,
+      "similarities": {
+        "ContextObjective": 0.5639547109603882,
+        "BenefitsAssistance": 0.49587807059288025,
+        "Eligibility": 0.5264350175857544,
+        "ApplicationProcess": 0.5036101341247559,
+        "TimelineFrequency": 0.5445524454116821,
+        "AuthoritiesGovernance": 0.48696672916412354,
+        "DefinitionsReferences": 0.45716479420661926
+      }
+    },
+    {
+      "sentence": "The government encourages beneficiaries to provide feedback to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5146211385726929,
+      "similarities": {
+        "ContextObjective": 0.5146211385726929,
+        "BenefitsAssistance": 0.4960140585899353,
+        "Eligibility": 0.5093396306037903,
+        "ApplicationProcess": 0.45484837889671326,
+        "TimelineFrequency": 0.41580724716186523,
+        "AuthoritiesGovernance": 0.4789319634437561,
+        "DefinitionsReferences": 0.4216878414154053
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to ensure that eligible women are informed about the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5553914904594421,
+      "similarities": {
+        "ContextObjective": 0.533953845500946,
+        "BenefitsAssistance": 0.4798637628555298,
+        "Eligibility": 0.5553914904594421,
+        "ApplicationProcess": 0.5093119144439697,
+        "TimelineFrequency": 0.46810150146484375,
+        "AuthoritiesGovernance": 0.4622296094894409,
+        "DefinitionsReferences": 0.3961682915687561
+      }
+    },
+    {
+      "sentence": "Local BBOCWWB offices often hold workshops and informational sessions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5331979990005493,
+      "similarities": {
+        "ContextObjective": 0.45957863330841064,
+        "BenefitsAssistance": 0.45146963000297546,
+        "Eligibility": 0.46113988757133484,
+        "ApplicationProcess": 0.4658350646495819,
+        "TimelineFrequency": 0.463627427816391,
+        "AuthoritiesGovernance": 0.5331979990005493,
+        "DefinitionsReferences": 0.4859718382358551
+      }
+    },
+    {
+      "sentence": "These sessions aim to educate women about their rights and available benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.49275532364845276,
+      "similarities": {
+        "ContextObjective": 0.49275532364845276,
+        "BenefitsAssistance": 0.4692103862762451,
+        "Eligibility": 0.48157888650894165,
+        "ApplicationProcess": 0.4369009733200073,
+        "TimelineFrequency": 0.4567067623138428,
+        "AuthoritiesGovernance": 0.4797000288963318,
+        "DefinitionsReferences": 0.441745787858963
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme is part of the larger framework of social security measures for workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5073999762535095,
+      "similarities": {
+        "ContextObjective": 0.5073999762535095,
+        "BenefitsAssistance": 0.49945420026779175,
+        "Eligibility": 0.48459017276763916,
+        "ApplicationProcess": 0.4191841781139374,
+        "TimelineFrequency": 0.4189489781856537,
+        "AuthoritiesGovernance": 0.4470908045768738,
+        "DefinitionsReferences": 0.4137597680091858
+      }
+    },
+    {
+      "sentence": "The government has allocated a significant budget for the welfare of construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48607921600341797,
+      "similarities": {
+        "ContextObjective": 0.40890198945999146,
+        "BenefitsAssistance": 0.48607921600341797,
+        "Eligibility": 0.4307183623313904,
+        "ApplicationProcess": 0.36077582836151123,
+        "TimelineFrequency": 0.36733993887901306,
+        "AuthoritiesGovernance": 0.4213419556617737,
+        "DefinitionsReferences": 0.3704410195350647
+      }
+    },
+    {
+      "sentence": "In the financial year 2021-2022, the allocation for the welfare fund was ₹3,000 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4929450452327728,
+      "similarities": {
+        "ContextObjective": 0.43957486748695374,
+        "BenefitsAssistance": 0.4929450452327728,
+        "Eligibility": 0.45846688747406006,
+        "ApplicationProcess": 0.32566574215888977,
+        "TimelineFrequency": 0.35724061727523804,
+        "AuthoritiesGovernance": 0.4123667776584625,
+        "DefinitionsReferences": 0.31937938928604126
+      }
+    },
+    {
+      "sentence": "This funding supports various welfare schemes including the Maternity Benefits Scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.548290491104126,
+      "similarities": {
+        "ContextObjective": 0.5107260346412659,
+        "BenefitsAssistance": 0.548290491104126,
+        "Eligibility": 0.48727935552597046,
+        "ApplicationProcess": 0.383084237575531,
+        "TimelineFrequency": 0.4275617003440857,
+        "AuthoritiesGovernance": 0.4139610528945923,
+        "DefinitionsReferences": 0.40261155366897583
+      }
+    },
+    {
+      "sentence": "The scheme is also part of the government's commitment to achieving gender equality in the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.4782631993293762,
+      "similarities": {
+        "ContextObjective": 0.4782631993293762,
+        "BenefitsAssistance": 0.3788602352142334,
+        "Eligibility": 0.4219287633895874,
+        "ApplicationProcess": 0.39211505651474,
+        "TimelineFrequency": 0.38326916098594666,
+        "AuthoritiesGovernance": 0.4013301134109497,
+        "DefinitionsReferences": 0.3536987900733948
+      }
+    },
+    {
+      "sentence": "It recognizes the essential role that women play in the construction sector.",
+      "role": "ApplicationProcess",
+      "confidence": 0.3714554011821747,
+      "similarities": {
+        "ContextObjective": 0.3705107569694519,
+        "BenefitsAssistance": 0.3467762768268585,
+        "Eligibility": 0.362346351146698,
+        "ApplicationProcess": 0.3714554011821747,
+        "TimelineFrequency": 0.3466091454029083,
+        "AuthoritiesGovernance": 0.35450899600982666,
+        "DefinitionsReferences": 0.35814788937568665
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme is a step towards ensuring that women can balance work and family responsibilities.",
+      "role": "Eligibility",
+      "confidence": 0.4948776364326477,
+      "similarities": {
+        "ContextObjective": 0.4902479648590088,
+        "BenefitsAssistance": 0.4869188070297241,
+        "Eligibility": 0.4948776364326477,
+        "ApplicationProcess": 0.4380911588668823,
+        "TimelineFrequency": 0.44728851318359375,
+        "AuthoritiesGovernance": 0.4144030809402466,
+        "DefinitionsReferences": 0.39379793405532837
+      }
+    },
+    {
+      "sentence": "The scheme is expected to contribute to higher workforce participation rates among women.",
+      "role": "ContextObjective",
+      "confidence": 0.46245893836021423,
+      "similarities": {
+        "ContextObjective": 0.46245893836021423,
+        "BenefitsAssistance": 0.4218895435333252,
+        "Eligibility": 0.4316539168357849,
+        "ApplicationProcess": 0.3865490257740021,
+        "TimelineFrequency": 0.40735965967178345,
+        "AuthoritiesGovernance": 0.39062657952308655,
+        "DefinitionsReferences": 0.3394688367843628
+      }
+    },
+    {
+      "sentence": "It also aims to improve the overall health and well-being of families in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4085533618927002,
+      "similarities": {
+        "ContextObjective": 0.4085533618927002,
+        "BenefitsAssistance": 0.3982544243335724,
+        "Eligibility": 0.3830491304397583,
+        "ApplicationProcess": 0.38496261835098267,
+        "TimelineFrequency": 0.3418216407299042,
+        "AuthoritiesGovernance": 0.38854557275772095,
+        "DefinitionsReferences": 0.3364131450653076
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the implementation of the scheme closely.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5362933278083801,
+      "similarities": {
+        "ContextObjective": 0.49192750453948975,
+        "BenefitsAssistance": 0.4597654342651367,
+        "Eligibility": 0.47170546650886536,
+        "ApplicationProcess": 0.49407345056533813,
+        "TimelineFrequency": 0.40968236327171326,
+        "AuthoritiesGovernance": 0.5362933278083801,
+        "DefinitionsReferences": 0.4470148980617523
+      }
+    },
+    {
+      "sentence": "Regular audits are conducted to ensure that funds are utilized effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5137456655502319,
+      "similarities": {
+        "ContextObjective": 0.4466220736503601,
+        "BenefitsAssistance": 0.5137456655502319,
+        "Eligibility": 0.4588788151741028,
+        "ApplicationProcess": 0.47372958064079285,
+        "TimelineFrequency": 0.4490090012550354,
+        "AuthoritiesGovernance": 0.4899577796459198,
+        "DefinitionsReferences": 0.45743459463119507
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme represents a significant advancement in labor welfare policies in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4522107243537903,
+      "similarities": {
+        "ContextObjective": 0.4438198208808899,
+        "BenefitsAssistance": 0.4522107243537903,
+        "Eligibility": 0.40836209058761597,
+        "ApplicationProcess": 0.3513765335083008,
+        "TimelineFrequency": 0.35976216197013855,
+        "AuthoritiesGovernance": 0.38248884677886963,
+        "DefinitionsReferences": 0.3828240931034088
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to supporting women workers during critical phases of their lives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43330687284469604,
+      "similarities": {
+        "ContextObjective": 0.4074513912200928,
+        "BenefitsAssistance": 0.43330687284469604,
+        "Eligibility": 0.41515934467315674,
+        "ApplicationProcess": 0.38621753454208374,
+        "TimelineFrequency": 0.4033459424972534,
+        "AuthoritiesGovernance": 0.39498814940452576,
+        "DefinitionsReferences": 0.4111076891422272
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and accessible to all eligible women in the construction workforce.",
+      "role": "Eligibility",
+      "confidence": 0.4932013750076294,
+      "similarities": {
+        "ContextObjective": 0.46506720781326294,
+        "BenefitsAssistance": 0.42849811911582947,
+        "Eligibility": 0.4932013750076294,
+        "ApplicationProcess": 0.40768563747406006,
+        "TimelineFrequency": 0.42154964804649353,
+        "AuthoritiesGovernance": 0.36754488945007324,
+        "DefinitionsReferences": 0.3374718725681305
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to create a more supportive environment for working mothers.",
+      "role": "Eligibility",
+      "confidence": 0.43299755454063416,
+      "similarities": {
+        "ContextObjective": 0.4269815683364868,
+        "BenefitsAssistance": 0.42226728796958923,
+        "Eligibility": 0.43299755454063416,
+        "ApplicationProcess": 0.39583414793014526,
+        "TimelineFrequency": 0.3685152530670166,
+        "AuthoritiesGovernance": 0.4318878948688507,
+        "DefinitionsReferences": 0.37982499599456787
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme is a vital component of India's social safety net for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.4745197892189026,
+      "similarities": {
+        "ContextObjective": 0.4543447494506836,
+        "BenefitsAssistance": 0.4443170428276062,
+        "Eligibility": 0.4745197892189026,
+        "ApplicationProcess": 0.35813379287719727,
+        "TimelineFrequency": 0.36940017342567444,
+        "AuthoritiesGovernance": 0.3548673987388611,
+        "DefinitionsReferences": 0.33676648139953613
+      }
+    },
+    {
+      "sentence": "It is essential for women to be aware of their rights and the benefits available to them under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5279024839401245,
+      "similarities": {
+        "ContextObjective": 0.5119338631629944,
+        "BenefitsAssistance": 0.5104842185974121,
+        "Eligibility": 0.5279024839401245,
+        "ApplicationProcess": 0.4739800989627838,
+        "TimelineFrequency": 0.44754984974861145,
+        "AuthoritiesGovernance": 0.4541838467121124,
+        "DefinitionsReferences": 0.4443330466747284
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible women to take advantage of this financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49907344579696655,
+      "similarities": {
+        "ContextObjective": 0.42672199010849,
+        "BenefitsAssistance": 0.49907344579696655,
+        "Eligibility": 0.49288779497146606,
+        "ApplicationProcess": 0.40599343180656433,
+        "TimelineFrequency": 0.3990076780319214,
+        "AuthoritiesGovernance": 0.3766170144081116,
+        "DefinitionsReferences": 0.3720727562904358
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme is an important tool for promoting gender equity in the labor market.",
+      "role": "ContextObjective",
+      "confidence": 0.48443418741226196,
+      "similarities": {
+        "ContextObjective": 0.48443418741226196,
+        "BenefitsAssistance": 0.43245553970336914,
+        "Eligibility": 0.44401565194129944,
+        "ApplicationProcess": 0.38315555453300476,
+        "TimelineFrequency": 0.42801886796951294,
+        "AuthoritiesGovernance": 0.40180230140686035,
+        "DefinitionsReferences": 0.3644102215766907
+      }
+    },
+    {
+      "sentence": "It underscores the importance of maternal health in the broader context of public health and economic development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4248065948486328,
+      "similarities": {
+        "ContextObjective": 0.39926040172576904,
+        "BenefitsAssistance": 0.4248065948486328,
+        "Eligibility": 0.3887990117073059,
+        "ApplicationProcess": 0.3440179228782654,
+        "TimelineFrequency": 0.35827726125717163,
+        "AuthoritiesGovernance": 0.3702239394187927,
+        "DefinitionsReferences": 0.3879072368144989
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the challenges faced by women in the workforce.",
+      "role": "Eligibility",
+      "confidence": 0.45611071586608887,
+      "similarities": {
+        "ContextObjective": 0.45288753509521484,
+        "BenefitsAssistance": 0.41522830724716187,
+        "Eligibility": 0.45611071586608887,
+        "ApplicationProcess": 0.394832044839859,
+        "TimelineFrequency": 0.38991546630859375,
+        "AuthoritiesGovernance": 0.38057661056518555,
+        "DefinitionsReferences": 0.3479401767253876
+      }
+    },
+    {
+      "sentence": "It aims to empower women by providing them with the necessary support during maternity.",
+      "role": "ContextObjective",
+      "confidence": 0.48941758275032043,
+      "similarities": {
+        "ContextObjective": 0.48941758275032043,
+        "BenefitsAssistance": 0.4423980414867401,
+        "Eligibility": 0.4142577648162842,
+        "ApplicationProcess": 0.3755267858505249,
+        "TimelineFrequency": 0.40804383158683777,
+        "AuthoritiesGovernance": 0.3932546377182007,
+        "DefinitionsReferences": 0.36983564496040344
+      }
+    },
+    {
+      "sentence": "The Maternity Benefits Scheme is a crucial step towards building a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.5185123682022095,
+      "similarities": {
+        "ContextObjective": 0.5185123682022095,
+        "BenefitsAssistance": 0.40346312522888184,
+        "Eligibility": 0.44410526752471924,
+        "ApplicationProcess": 0.37986913323402405,
+        "TimelineFrequency": 0.3728569746017456,
+        "AuthoritiesGovernance": 0.3994699716567993,
+        "DefinitionsReferences": 0.35457655787467957
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "BenefitsAssistance": 14,
+    "Eligibility": 11,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 7
+  },
+  "processing_timestamp": "2025-09-25T20:43:44.663649"
+}

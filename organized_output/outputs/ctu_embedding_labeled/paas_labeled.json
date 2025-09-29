@@ -1,0 +1,701 @@
+{
+  "scheme_name": "Personal Accident Assistance Scheme",
+  "total_sentences": 49,
+  "labeled_sentences": [
+    {
+      "sentence": "The Personal Accident Assistance Scheme is a welfare initiative launched by the Government of India to provide financial assistance to individuals who suffer from accidental injuries or death.",
+      "role": "ContextObjective",
+      "confidence": 0.5552521347999573,
+      "similarities": {
+        "ContextObjective": 0.5552521347999573,
+        "BenefitsAssistance": 0.5301749110221863,
+        "Eligibility": 0.5325438976287842,
+        "ApplicationProcess": 0.47779780626296997,
+        "TimelineFrequency": 0.4410766363143921,
+        "AuthoritiesGovernance": 0.49843597412109375,
+        "DefinitionsReferences": 0.40839487314224243
+      }
+    },
+    {
+      "sentence": "This scheme was introduced in the year 2019 as part of the broader efforts to enhance social security for the working population in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4943527281284332,
+      "similarities": {
+        "ContextObjective": 0.4943527281284332,
+        "BenefitsAssistance": 0.4546836018562317,
+        "Eligibility": 0.45051589608192444,
+        "ApplicationProcess": 0.4303627908229828,
+        "TimelineFrequency": 0.3931635618209839,
+        "AuthoritiesGovernance": 0.4057026505470276,
+        "DefinitionsReferences": 0.3584738075733185
+      }
+    },
+    {
+      "sentence": "The primary objective of the Personal Accident Assistance Scheme is to offer financial support to the families of individuals who suffer from accidental deaths or permanent disabilities due to accidents.",
+      "role": "ContextObjective",
+      "confidence": 0.5483415126800537,
+      "similarities": {
+        "ContextObjective": 0.5483415126800537,
+        "BenefitsAssistance": 0.5155564546585083,
+        "Eligibility": 0.5062057971954346,
+        "ApplicationProcess": 0.4292023181915283,
+        "TimelineFrequency": 0.40473803877830505,
+        "AuthoritiesGovernance": 0.41918355226516724,
+        "DefinitionsReferences": 0.3659179210662842
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide a safety net for low-income families who may struggle to cope with the financial burden resulting from such unfortunate incidents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5110458731651306,
+      "similarities": {
+        "ContextObjective": 0.49008461833000183,
+        "BenefitsAssistance": 0.5110458731651306,
+        "Eligibility": 0.501675009727478,
+        "ApplicationProcess": 0.3820614218711853,
+        "TimelineFrequency": 0.36460089683532715,
+        "AuthoritiesGovernance": 0.3651522696018219,
+        "DefinitionsReferences": 0.3213312029838562
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets individuals in the unorganized sector who are often left vulnerable without any form of insurance or financial backup.",
+      "role": "Eligibility",
+      "confidence": 0.4781736731529236,
+      "similarities": {
+        "ContextObjective": 0.4312756359577179,
+        "BenefitsAssistance": 0.433022141456604,
+        "Eligibility": 0.4781736731529236,
+        "ApplicationProcess": 0.3735540509223938,
+        "TimelineFrequency": 0.369595468044281,
+        "AuthoritiesGovernance": 0.383642315864563,
+        "DefinitionsReferences": 0.2952643632888794
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government provides a compensation amount of ₹2 lakh in case of accidental death.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4555748701095581,
+      "similarities": {
+        "ContextObjective": 0.4173295497894287,
+        "BenefitsAssistance": 0.4555748701095581,
+        "Eligibility": 0.4212746024131775,
+        "ApplicationProcess": 0.3918706774711609,
+        "TimelineFrequency": 0.3377987742424011,
+        "AuthoritiesGovernance": 0.38976597785949707,
+        "DefinitionsReferences": 0.3536522388458252
+      }
+    },
+    {
+      "sentence": "In the case of permanent total disability, the scheme offers a compensation of ₹2 lakh as well.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4976910650730133,
+      "similarities": {
+        "ContextObjective": 0.4127693176269531,
+        "BenefitsAssistance": 0.4976910650730133,
+        "Eligibility": 0.42067694664001465,
+        "ApplicationProcess": 0.37725481390953064,
+        "TimelineFrequency": 0.3499377965927124,
+        "AuthoritiesGovernance": 0.3376319408416748,
+        "DefinitionsReferences": 0.33302491903305054
+      }
+    },
+    {
+      "sentence": "For permanent partial disability, the compensation varies based on the nature of the disability but can go up to ₹1 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5455836057662964,
+      "similarities": {
+        "ContextObjective": 0.413724422454834,
+        "BenefitsAssistance": 0.5455836057662964,
+        "Eligibility": 0.48834654688835144,
+        "ApplicationProcess": 0.4027869701385498,
+        "TimelineFrequency": 0.3908737897872925,
+        "AuthoritiesGovernance": 0.37118715047836304,
+        "DefinitionsReferences": 0.3790784180164337
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Personal Accident Assistance Scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.58931964635849,
+      "similarities": {
+        "ContextObjective": 0.5304578542709351,
+        "BenefitsAssistance": 0.47447824478149414,
+        "Eligibility": 0.58931964635849,
+        "ApplicationProcess": 0.4978136420249939,
+        "TimelineFrequency": 0.46076613664627075,
+        "AuthoritiesGovernance": 0.40030616521835327,
+        "DefinitionsReferences": 0.40294262766838074
+      }
+    },
+    {
+      "sentence": "Individuals aged between 18 years and 70 years can apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6257073283195496,
+      "similarities": {
+        "ContextObjective": 0.5465753078460693,
+        "BenefitsAssistance": 0.5165271759033203,
+        "Eligibility": 0.6257073283195496,
+        "ApplicationProcess": 0.5463464856147766,
+        "TimelineFrequency": 0.5199598073959351,
+        "AuthoritiesGovernance": 0.41888269782066345,
+        "DefinitionsReferences": 0.394675612449646
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of India and should belong to the unorganized sector.",
+      "role": "Eligibility",
+      "confidence": 0.572271466255188,
+      "similarities": {
+        "ContextObjective": 0.42707109451293945,
+        "BenefitsAssistance": 0.3727038502693176,
+        "Eligibility": 0.572271466255188,
+        "ApplicationProcess": 0.5241308808326721,
+        "TimelineFrequency": 0.4477430284023285,
+        "AuthoritiesGovernance": 0.4344997704029083,
+        "DefinitionsReferences": 0.35767626762390137
+      }
+    },
+    {
+      "sentence": "There is no specific income ceiling mentioned in the scheme, making it accessible to a wide range of individuals.",
+      "role": "Eligibility",
+      "confidence": 0.5368442535400391,
+      "similarities": {
+        "ContextObjective": 0.47084105014801025,
+        "BenefitsAssistance": 0.4772690236568451,
+        "Eligibility": 0.5368442535400391,
+        "ApplicationProcess": 0.3887975811958313,
+        "TimelineFrequency": 0.3899964690208435,
+        "AuthoritiesGovernance": 0.35140329599380493,
+        "DefinitionsReferences": 0.3334161043167114
+      }
+    },
+    {
+      "sentence": "However, individuals who are already covered under any other accident insurance scheme are not eligible for this assistance.",
+      "role": "Eligibility",
+      "confidence": 0.49617862701416016,
+      "similarities": {
+        "ContextObjective": 0.3573220670223236,
+        "BenefitsAssistance": 0.42746150493621826,
+        "Eligibility": 0.49617862701416016,
+        "ApplicationProcess": 0.3501182496547699,
+        "TimelineFrequency": 0.3368423581123352,
+        "AuthoritiesGovernance": 0.34459608793258667,
+        "DefinitionsReferences": 0.26385366916656494
+      }
+    },
+    {
+      "sentence": "To apply for the Personal Accident Assistance Scheme, individuals must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6546008586883545,
+      "similarities": {
+        "ContextObjective": 0.521060585975647,
+        "BenefitsAssistance": 0.4839596450328827,
+        "Eligibility": 0.6153550148010254,
+        "ApplicationProcess": 0.6546008586883545,
+        "TimelineFrequency": 0.5474329590797424,
+        "AuthoritiesGovernance": 0.4590415358543396,
+        "DefinitionsReferences": 0.4087369441986084
+      }
+    },
+    {
+      "sentence": "The first step is to obtain the application form, which can be downloaded from the official government website or obtained from local government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7112600803375244,
+      "similarities": {
+        "ContextObjective": 0.49167221784591675,
+        "BenefitsAssistance": 0.45723071694374084,
+        "Eligibility": 0.5546835660934448,
+        "ApplicationProcess": 0.7112600803375244,
+        "TimelineFrequency": 0.5425652861595154,
+        "AuthoritiesGovernance": 0.4939599633216858,
+        "DefinitionsReferences": 0.4727800488471985
+      }
+    },
+    {
+      "sentence": "Applicants need to fill out the form with accurate personal details and information regarding the accident.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6428802609443665,
+      "similarities": {
+        "ContextObjective": 0.46993324160575867,
+        "BenefitsAssistance": 0.5171754956245422,
+        "Eligibility": 0.5459722280502319,
+        "ApplicationProcess": 0.6428802609443665,
+        "TimelineFrequency": 0.5110365152359009,
+        "AuthoritiesGovernance": 0.4519021511077881,
+        "DefinitionsReferences": 0.44819512963294983
+      }
+    },
+    {
+      "sentence": "Required documents include proof of identity such as an Aadhar card or voter ID, proof of residence, and a medical certificate confirming the nature of the injury or cause of death.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5747790336608887,
+      "similarities": {
+        "ContextObjective": 0.4335052967071533,
+        "BenefitsAssistance": 0.5439198017120361,
+        "Eligibility": 0.4873722493648529,
+        "ApplicationProcess": 0.5747790336608887,
+        "TimelineFrequency": 0.4507017135620117,
+        "AuthoritiesGovernance": 0.44833630323410034,
+        "DefinitionsReferences": 0.5091596245765686
+      }
+    },
+    {
+      "sentence": "In the case of death, a death certificate must also be submitted along with the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6152886748313904,
+      "similarities": {
+        "ContextObjective": 0.4174187183380127,
+        "BenefitsAssistance": 0.46560269594192505,
+        "Eligibility": 0.49762287735939026,
+        "ApplicationProcess": 0.6152886748313904,
+        "TimelineFrequency": 0.49862369894981384,
+        "AuthoritiesGovernance": 0.3899717628955841,
+        "DefinitionsReferences": 0.439462274312973
+      }
+    },
+    {
+      "sentence": "Once the application form and documents are ready, they must be submitted to the designated local government office or through an online portal if available.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6989949941635132,
+      "similarities": {
+        "ContextObjective": 0.46044257283210754,
+        "BenefitsAssistance": 0.4522300958633423,
+        "Eligibility": 0.5548684597015381,
+        "ApplicationProcess": 0.6989949941635132,
+        "TimelineFrequency": 0.5430679321289062,
+        "AuthoritiesGovernance": 0.4725963771343231,
+        "DefinitionsReferences": 0.4408518970012665
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the concerned authorities for verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7320464849472046,
+      "similarities": {
+        "ContextObjective": 0.500938892364502,
+        "BenefitsAssistance": 0.4635578691959381,
+        "Eligibility": 0.5923641920089722,
+        "ApplicationProcess": 0.7320464849472046,
+        "TimelineFrequency": 0.5709397196769714,
+        "AuthoritiesGovernance": 0.47549426555633545,
+        "DefinitionsReferences": 0.49090254306793213
+      }
+    },
+    {
+      "sentence": "The timeline for disbursement of compensation is generally within 30 days from the date of approval of the application.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5306357145309448,
+      "similarities": {
+        "ContextObjective": 0.4301477074623108,
+        "BenefitsAssistance": 0.4994281828403473,
+        "Eligibility": 0.48761436343193054,
+        "ApplicationProcess": 0.46111804246902466,
+        "TimelineFrequency": 0.5306357145309448,
+        "AuthoritiesGovernance": 0.4318014681339264,
+        "DefinitionsReferences": 0.3746669292449951
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Labour and Employment, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5387198328971863,
+      "similarities": {
+        "ContextObjective": 0.509208083152771,
+        "BenefitsAssistance": 0.4538401961326599,
+        "Eligibility": 0.4887850880622864,
+        "ApplicationProcess": 0.4706536829471588,
+        "TimelineFrequency": 0.4230879247188568,
+        "AuthoritiesGovernance": 0.5387198328971863,
+        "DefinitionsReferences": 0.3836243748664856
+      }
+    },
+    {
+      "sentence": "State governments may also have their own implementing agencies to facilitate the scheme at the local level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5959193706512451,
+      "similarities": {
+        "ContextObjective": 0.48009735345840454,
+        "BenefitsAssistance": 0.4382539689540863,
+        "Eligibility": 0.49588629603385925,
+        "ApplicationProcess": 0.4485015273094177,
+        "TimelineFrequency": 0.4094184637069702,
+        "AuthoritiesGovernance": 0.5959193706512451,
+        "DefinitionsReferences": 0.42229998111724854
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, individuals can contact the Ministry of Labour and Employment at their official helpline number or visit their website for more information.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5310388803482056,
+      "similarities": {
+        "ContextObjective": 0.413481205701828,
+        "BenefitsAssistance": 0.5132113695144653,
+        "Eligibility": 0.4710313081741333,
+        "ApplicationProcess": 0.5071203708648682,
+        "TimelineFrequency": 0.43115079402923584,
+        "AuthoritiesGovernance": 0.5310388803482056,
+        "DefinitionsReferences": 0.4211462140083313
+      }
+    },
+    {
+      "sentence": "The scheme is part of the government's larger initiative to enhance social security measures for the workforce in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49489206075668335,
+      "similarities": {
+        "ContextObjective": 0.49489206075668335,
+        "BenefitsAssistance": 0.4630729556083679,
+        "Eligibility": 0.44824469089508057,
+        "ApplicationProcess": 0.4185968041419983,
+        "TimelineFrequency": 0.37164372205734253,
+        "AuthoritiesGovernance": 0.4211512506008148,
+        "DefinitionsReferences": 0.3694705069065094
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has benefited thousands of individuals across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5570052862167358,
+      "similarities": {
+        "ContextObjective": 0.5570052862167358,
+        "BenefitsAssistance": 0.48269858956336975,
+        "Eligibility": 0.528964102268219,
+        "ApplicationProcess": 0.4036332070827484,
+        "TimelineFrequency": 0.42651912569999695,
+        "AuthoritiesGovernance": 0.41532793641090393,
+        "DefinitionsReferences": 0.38791102170944214
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crore for the implementation of this scheme for the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.5060828924179077,
+      "similarities": {
+        "ContextObjective": 0.5060828924179077,
+        "BenefitsAssistance": 0.47624680399894714,
+        "Eligibility": 0.4675784111022949,
+        "ApplicationProcess": 0.4208829402923584,
+        "TimelineFrequency": 0.439483642578125,
+        "AuthoritiesGovernance": 0.4670749306678772,
+        "DefinitionsReferences": 0.35336941480636597
+      }
+    },
+    {
+      "sentence": "This funding is aimed at ensuring that the compensation amounts are disbursed promptly and efficiently.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5515890717506409,
+      "similarities": {
+        "ContextObjective": 0.46695029735565186,
+        "BenefitsAssistance": 0.5515890717506409,
+        "Eligibility": 0.47648727893829346,
+        "ApplicationProcess": 0.4525666832923889,
+        "TimelineFrequency": 0.4466492831707001,
+        "AuthoritiesGovernance": 0.47925296425819397,
+        "DefinitionsReferences": 0.37631967663764954
+      }
+    },
+    {
+      "sentence": "The Personal Accident Assistance Scheme is particularly significant in a country like India where road accidents and workplace incidents are prevalent.",
+      "role": "ContextObjective",
+      "confidence": 0.4458981156349182,
+      "similarities": {
+        "ContextObjective": 0.4458981156349182,
+        "BenefitsAssistance": 0.4329833686351776,
+        "Eligibility": 0.4453803300857544,
+        "ApplicationProcess": 0.39177989959716797,
+        "TimelineFrequency": 0.3636392652988434,
+        "AuthoritiesGovernance": 0.4032785892486572,
+        "DefinitionsReferences": 0.382474809885025
+      }
+    },
+    {
+      "sentence": "According to the National Crime Records Bureau, India recorded over 1.5 lakh road accident deaths in 2021 alone.",
+      "role": "ContextObjective",
+      "confidence": 0.3614666759967804,
+      "similarities": {
+        "ContextObjective": 0.3614666759967804,
+        "BenefitsAssistance": 0.3461778163909912,
+        "Eligibility": 0.3312450051307678,
+        "ApplicationProcess": 0.33289361000061035,
+        "TimelineFrequency": 0.2927281856536865,
+        "AuthoritiesGovernance": 0.3610427975654602,
+        "DefinitionsReferences": 0.3313906788825989
+      }
+    },
+    {
+      "sentence": "This highlights the need for such welfare schemes to provide financial relief to affected families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5346442461013794,
+      "similarities": {
+        "ContextObjective": 0.4679695963859558,
+        "BenefitsAssistance": 0.5346442461013794,
+        "Eligibility": 0.4848371744155884,
+        "ApplicationProcess": 0.38223761320114136,
+        "TimelineFrequency": 0.37088948488235474,
+        "AuthoritiesGovernance": 0.3943753242492676,
+        "DefinitionsReferences": 0.35234272480010986
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness regarding safety measures and accident prevention.",
+      "role": "ContextObjective",
+      "confidence": 0.4984842538833618,
+      "similarities": {
+        "ContextObjective": 0.4984842538833618,
+        "BenefitsAssistance": 0.4006589949131012,
+        "Eligibility": 0.4199761152267456,
+        "ApplicationProcess": 0.43468227982521057,
+        "TimelineFrequency": 0.3757171034812927,
+        "AuthoritiesGovernance": 0.37097465991973877,
+        "DefinitionsReferences": 0.37521249055862427
+      }
+    },
+    {
+      "sentence": "The government has been actively promoting the scheme through various outreach programs to ensure that the target population is informed about the benefits available.",
+      "role": "ContextObjective",
+      "confidence": 0.5291520357131958,
+      "similarities": {
+        "ContextObjective": 0.5291520357131958,
+        "BenefitsAssistance": 0.4439898133277893,
+        "Eligibility": 0.4913604259490967,
+        "ApplicationProcess": 0.45329970121383667,
+        "TimelineFrequency": 0.3911828398704529,
+        "AuthoritiesGovernance": 0.4639359414577484,
+        "DefinitionsReferences": 0.40132689476013184
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also aims to encourage individuals to adopt safer practices in their daily lives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4773178696632385,
+      "similarities": {
+        "ContextObjective": 0.4631379246711731,
+        "BenefitsAssistance": 0.4773178696632385,
+        "Eligibility": 0.4503585696220398,
+        "ApplicationProcess": 0.438293993473053,
+        "TimelineFrequency": 0.35968437790870667,
+        "AuthoritiesGovernance": 0.3811464011669159,
+        "DefinitionsReferences": 0.3844669461250305
+      }
+    },
+    {
+      "sentence": "The Personal Accident Assistance Scheme is a step towards building a more resilient social security framework in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4794591963291168,
+      "similarities": {
+        "ContextObjective": 0.4794591963291168,
+        "BenefitsAssistance": 0.47621405124664307,
+        "Eligibility": 0.4687162935733795,
+        "ApplicationProcess": 0.42360782623291016,
+        "TimelineFrequency": 0.37377795577049255,
+        "AuthoritiesGovernance": 0.425781786441803,
+        "DefinitionsReferences": 0.3640504479408264
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to protecting the rights and welfare of its citizens, especially those in vulnerable employment situations.",
+      "role": "Eligibility",
+      "confidence": 0.4715946316719055,
+      "similarities": {
+        "ContextObjective": 0.4006071984767914,
+        "BenefitsAssistance": 0.42975038290023804,
+        "Eligibility": 0.4715946316719055,
+        "ApplicationProcess": 0.4179776608943939,
+        "TimelineFrequency": 0.3762320280075073,
+        "AuthoritiesGovernance": 0.4231484532356262,
+        "DefinitionsReferences": 0.42797303199768066
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public, with many expressing gratitude for the timely support provided during difficult times.",
+      "role": "ContextObjective",
+      "confidence": 0.48414188623428345,
+      "similarities": {
+        "ContextObjective": 0.48414188623428345,
+        "BenefitsAssistance": 0.4470655024051666,
+        "Eligibility": 0.41848868131637573,
+        "ApplicationProcess": 0.38836562633514404,
+        "TimelineFrequency": 0.3568416237831116,
+        "AuthoritiesGovernance": 0.3810362219810486,
+        "DefinitionsReferences": 0.3484196960926056
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries indicates that the compensation received has significantly helped them cope with the financial challenges following an accident.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.51882404088974,
+      "similarities": {
+        "ContextObjective": 0.3987155258655548,
+        "BenefitsAssistance": 0.51882404088974,
+        "Eligibility": 0.42011910676956177,
+        "ApplicationProcess": 0.36594778299331665,
+        "TimelineFrequency": 0.31848567724227905,
+        "AuthoritiesGovernance": 0.35709846019744873,
+        "DefinitionsReferences": 0.3669414818286896
+      }
+    },
+    {
+      "sentence": "Overall, the Personal Accident Assistance Scheme serves as a crucial lifeline for many families facing the aftermath of accidental injuries or fatalities.",
+      "role": "ContextObjective",
+      "confidence": 0.4561443030834198,
+      "similarities": {
+        "ContextObjective": 0.4561443030834198,
+        "BenefitsAssistance": 0.44635725021362305,
+        "Eligibility": 0.44102397561073303,
+        "ApplicationProcess": 0.39788204431533813,
+        "TimelineFrequency": 0.3539818227291107,
+        "AuthoritiesGovernance": 0.3838348686695099,
+        "DefinitionsReferences": 0.38252514600753784
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the implementation of the scheme to ensure that it meets its objectives effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5435824394226074,
+      "similarities": {
+        "ContextObjective": 0.5435824394226074,
+        "BenefitsAssistance": 0.4191741347312927,
+        "Eligibility": 0.4656362235546112,
+        "ApplicationProcess": 0.48228704929351807,
+        "TimelineFrequency": 0.4074523448944092,
+        "AuthoritiesGovernance": 0.5418522953987122,
+        "DefinitionsReferences": 0.40969768166542053
+      }
+    },
+    {
+      "sentence": "Regular assessments and audits are conducted to evaluate the impact of the scheme on the target population.",
+      "role": "Eligibility",
+      "confidence": 0.5044198036193848,
+      "similarities": {
+        "ContextObjective": 0.489233136177063,
+        "BenefitsAssistance": 0.44256460666656494,
+        "Eligibility": 0.5044198036193848,
+        "ApplicationProcess": 0.46532613039016724,
+        "TimelineFrequency": 0.433499276638031,
+        "AuthoritiesGovernance": 0.45062941312789917,
+        "DefinitionsReferences": 0.403713583946228
+      }
+    },
+    {
+      "sentence": "The Personal Accident Assistance Scheme is a vital component of India's social welfare policies aimed at improving the quality of life for its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.49317169189453125,
+      "similarities": {
+        "ContextObjective": 0.49317169189453125,
+        "BenefitsAssistance": 0.4649588465690613,
+        "Eligibility": 0.4728519916534424,
+        "ApplicationProcess": 0.42704594135284424,
+        "TimelineFrequency": 0.3721656799316406,
+        "AuthoritiesGovernance": 0.4305289387702942,
+        "DefinitionsReferences": 0.39253872632980347
+      }
+    },
+    {
+      "sentence": "The government remains committed to expanding and enhancing such initiatives to address the diverse needs of the population.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47063183784484863,
+      "similarities": {
+        "ContextObjective": 0.4619086980819702,
+        "BenefitsAssistance": 0.4011704921722412,
+        "Eligibility": 0.4629881680011749,
+        "ApplicationProcess": 0.38378021121025085,
+        "TimelineFrequency": 0.37841087579727173,
+        "AuthoritiesGovernance": 0.47063183784484863,
+        "DefinitionsReferences": 0.4068037271499634
+      }
+    },
+    {
+      "sentence": "As the scheme evolves, there may be future enhancements to the compensation amounts or eligibility criteria based on feedback and changing circumstances.",
+      "role": "Eligibility",
+      "confidence": 0.5747031569480896,
+      "similarities": {
+        "ContextObjective": 0.5319226384162903,
+        "BenefitsAssistance": 0.54714435338974,
+        "Eligibility": 0.5747031569480896,
+        "ApplicationProcess": 0.4998124837875366,
+        "TimelineFrequency": 0.5056884288787842,
+        "AuthoritiesGovernance": 0.44653818011283875,
+        "DefinitionsReferences": 0.46741119027137756
+      }
+    },
+    {
+      "sentence": "The Personal Accident Assistance Scheme stands as a testament to the government's proactive approach in safeguarding the welfare of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.43922075629234314,
+      "similarities": {
+        "ContextObjective": 0.43922075629234314,
+        "BenefitsAssistance": 0.42688679695129395,
+        "Eligibility": 0.4241860508918762,
+        "ApplicationProcess": 0.39356720447540283,
+        "TimelineFrequency": 0.3141469359397888,
+        "AuthoritiesGovernance": 0.39576175808906555,
+        "DefinitionsReferences": 0.3704180121421814
+      }
+    },
+    {
+      "sentence": "It is essential for individuals to stay informed about such schemes and take advantage of the benefits available to them.",
+      "role": "Eligibility",
+      "confidence": 0.5515519380569458,
+      "similarities": {
+        "ContextObjective": 0.5267944931983948,
+        "BenefitsAssistance": 0.5443413257598877,
+        "Eligibility": 0.5515519380569458,
+        "ApplicationProcess": 0.5016626715660095,
+        "TimelineFrequency": 0.48033156991004944,
+        "AuthoritiesGovernance": 0.45363712310791016,
+        "DefinitionsReferences": 0.4429093897342682
+      }
+    },
+    {
+      "sentence": "In conclusion, the Personal Accident Assistance Scheme is a significant welfare initiative that provides critical financial support to individuals and families affected by accidents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5218058824539185,
+      "similarities": {
+        "ContextObjective": 0.4984304904937744,
+        "BenefitsAssistance": 0.5218058824539185,
+        "Eligibility": 0.4681897461414337,
+        "ApplicationProcess": 0.4097752869129181,
+        "TimelineFrequency": 0.3744657635688782,
+        "AuthoritiesGovernance": 0.3951413035392761,
+        "DefinitionsReferences": 0.36838024854660034
+      }
+    },
+    {
+      "sentence": "The scheme's structured approach to eligibility, application, and disbursement ensures that assistance reaches those who need it most.",
+      "role": "Eligibility",
+      "confidence": 0.6138911247253418,
+      "similarities": {
+        "ContextObjective": 0.5489939451217651,
+        "BenefitsAssistance": 0.5464283227920532,
+        "Eligibility": 0.6138911247253418,
+        "ApplicationProcess": 0.533744752407074,
+        "TimelineFrequency": 0.4978507161140442,
+        "AuthoritiesGovernance": 0.5048837661743164,
+        "DefinitionsReferences": 0.4020645320415497
+      }
+    },
+    {
+      "sentence": "With its focus on the unorganized sector, the scheme plays a crucial role in enhancing social security in India.",
+      "role": "ContextObjective",
+      "confidence": 0.46728283166885376,
+      "similarities": {
+        "ContextObjective": 0.46728283166885376,
+        "BenefitsAssistance": 0.40280985832214355,
+        "Eligibility": 0.41264575719833374,
+        "ApplicationProcess": 0.36753782629966736,
+        "TimelineFrequency": 0.3246256411075592,
+        "AuthoritiesGovernance": 0.380407452583313,
+        "DefinitionsReferences": 0.32629281282424927
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 17,
+    "BenefitsAssistance": 9,
+    "Eligibility": 11,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:37:02.069789"
+}

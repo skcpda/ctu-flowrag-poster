@@ -1,0 +1,813 @@
+{
+  "scheme_name": "Financial Assistance For Marriage (APB&OCWWB)",
+  "total_sentences": 57,
+  "labeled_sentences": [
+    {
+      "sentence": "The Financial Assistance for Marriage scheme is a welfare initiative launched by the Andhra Pradesh Building and Other Construction Workers Welfare Board (APB&OCWWB).",
+      "role": "ContextObjective",
+      "confidence": 0.5208605527877808,
+      "similarities": {
+        "ContextObjective": 0.5208605527877808,
+        "BenefitsAssistance": 0.5016372203826904,
+        "Eligibility": 0.5005660653114319,
+        "ApplicationProcess": 0.46190088987350464,
+        "TimelineFrequency": 0.44687798619270325,
+        "AuthoritiesGovernance": 0.4241902828216553,
+        "DefinitionsReferences": 0.3633166253566742
+      }
+    },
+    {
+      "sentence": "This scheme was introduced to provide financial support to the daughters of construction workers in Andhra Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4398314952850342,
+      "similarities": {
+        "ContextObjective": 0.4203816056251526,
+        "BenefitsAssistance": 0.4398314952850342,
+        "Eligibility": 0.4283406734466553,
+        "ApplicationProcess": 0.36857306957244873,
+        "TimelineFrequency": 0.3628596067428589,
+        "AuthoritiesGovernance": 0.36172112822532654,
+        "DefinitionsReferences": 0.3091719448566437
+      }
+    },
+    {
+      "sentence": "The scheme aims to alleviate the financial burden associated with marriage expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.523779034614563,
+      "similarities": {
+        "ContextObjective": 0.5178943276405334,
+        "BenefitsAssistance": 0.523779034614563,
+        "Eligibility": 0.45844587683677673,
+        "ApplicationProcess": 0.43418270349502563,
+        "TimelineFrequency": 0.4176718592643738,
+        "AuthoritiesGovernance": 0.3859638571739197,
+        "DefinitionsReferences": 0.3538723587989807
+      }
+    },
+    {
+      "sentence": "It was officially launched on 1st January 2018.",
+      "role": "ContextObjective",
+      "confidence": 0.5058996677398682,
+      "similarities": {
+        "ContextObjective": 0.5058996677398682,
+        "BenefitsAssistance": 0.4226107895374298,
+        "Eligibility": 0.4139138162136078,
+        "ApplicationProcess": 0.46094924211502075,
+        "TimelineFrequency": 0.43136709928512573,
+        "AuthoritiesGovernance": 0.3806988596916199,
+        "DefinitionsReferences": 0.3542037308216095
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance of ₹1,00,000 for the marriage of each daughter of registered construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.492653489112854,
+      "similarities": {
+        "ContextObjective": 0.492653489112854,
+        "BenefitsAssistance": 0.42674922943115234,
+        "Eligibility": 0.44848766922950745,
+        "ApplicationProcess": 0.4094105064868927,
+        "TimelineFrequency": 0.38161319494247437,
+        "AuthoritiesGovernance": 0.36699405312538147,
+        "DefinitionsReferences": 0.2981368601322174
+      }
+    },
+    {
+      "sentence": "The scheme targets families that are economically disadvantaged and rely on construction work as their primary source of income.",
+      "role": "Eligibility",
+      "confidence": 0.4767731726169586,
+      "similarities": {
+        "ContextObjective": 0.46590471267700195,
+        "BenefitsAssistance": 0.4021460711956024,
+        "Eligibility": 0.4767731726169586,
+        "ApplicationProcess": 0.3824882507324219,
+        "TimelineFrequency": 0.3661484718322754,
+        "AuthoritiesGovernance": 0.33571508526802063,
+        "DefinitionsReferences": 0.2959982752799988
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, the applicant must be a daughter of a registered construction worker.",
+      "role": "Eligibility",
+      "confidence": 0.5487173199653625,
+      "similarities": {
+        "ContextObjective": 0.43100035190582275,
+        "BenefitsAssistance": 0.3536507487297058,
+        "Eligibility": 0.5487173199653625,
+        "ApplicationProcess": 0.5080499649047852,
+        "TimelineFrequency": 0.44164443016052246,
+        "AuthoritiesGovernance": 0.36147698760032654,
+        "DefinitionsReferences": 0.3240877091884613
+      }
+    },
+    {
+      "sentence": "The construction worker must have been registered with the APB&OCWWB for a minimum period of five years.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5242938995361328,
+      "similarities": {
+        "ContextObjective": 0.40439265966415405,
+        "BenefitsAssistance": 0.41826456785202026,
+        "Eligibility": 0.5048871636390686,
+        "ApplicationProcess": 0.5242938995361328,
+        "TimelineFrequency": 0.4849448800086975,
+        "AuthoritiesGovernance": 0.3835751414299011,
+        "DefinitionsReferences": 0.40360915660858154
+      }
+    },
+    {
+      "sentence": "The age limit for the daughter applying for the financial assistance is a minimum of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.54996258020401,
+      "similarities": {
+        "ContextObjective": 0.4178413152694702,
+        "BenefitsAssistance": 0.4959241449832916,
+        "Eligibility": 0.54996258020401,
+        "ApplicationProcess": 0.4768162965774536,
+        "TimelineFrequency": 0.45867490768432617,
+        "AuthoritiesGovernance": 0.37249237298965454,
+        "DefinitionsReferences": 0.34485122561454773
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for the daughter.",
+      "role": "Eligibility",
+      "confidence": 0.4207800626754761,
+      "similarities": {
+        "ContextObjective": 0.34721919894218445,
+        "BenefitsAssistance": 0.3466188907623291,
+        "Eligibility": 0.4207800626754761,
+        "ApplicationProcess": 0.33279240131378174,
+        "TimelineFrequency": 0.33720362186431885,
+        "AuthoritiesGovernance": 0.3089989423751831,
+        "DefinitionsReferences": 0.28013110160827637
+      }
+    },
+    {
+      "sentence": "The family income of the construction worker must not exceed ₹15,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.4765589237213135,
+      "similarities": {
+        "ContextObjective": 0.3633616864681244,
+        "BenefitsAssistance": 0.4661438465118408,
+        "Eligibility": 0.4765589237213135,
+        "ApplicationProcess": 0.42824187874794006,
+        "TimelineFrequency": 0.3897327780723572,
+        "AuthoritiesGovernance": 0.3411402106285095,
+        "DefinitionsReferences": 0.3325987160205841
+      }
+    },
+    {
+      "sentence": "The applicant must provide proof of the marriage date which should be within one year of applying for the assistance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5972304940223694,
+      "similarities": {
+        "ContextObjective": 0.4549697935581207,
+        "BenefitsAssistance": 0.48239460587501526,
+        "Eligibility": 0.5530160665512085,
+        "ApplicationProcess": 0.5972304940223694,
+        "TimelineFrequency": 0.5635340213775635,
+        "AuthoritiesGovernance": 0.38613057136535645,
+        "DefinitionsReferences": 0.3986956477165222
+      }
+    },
+    {
+      "sentence": "The application process involves several steps which need to be followed meticulously.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7424702644348145,
+      "similarities": {
+        "ContextObjective": 0.5371432900428772,
+        "BenefitsAssistance": 0.5178683996200562,
+        "Eligibility": 0.6244591474533081,
+        "ApplicationProcess": 0.7424702644348145,
+        "TimelineFrequency": 0.6474959850311279,
+        "AuthoritiesGovernance": 0.5227581262588501,
+        "DefinitionsReferences": 0.5459802150726318
+      }
+    },
+    {
+      "sentence": "First, the applicant must obtain the application form from the official APB&OCWWB website or the local office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6872221231460571,
+      "similarities": {
+        "ContextObjective": 0.45902952551841736,
+        "BenefitsAssistance": 0.4364933669567108,
+        "Eligibility": 0.5490838885307312,
+        "ApplicationProcess": 0.6872221231460571,
+        "TimelineFrequency": 0.5265762209892273,
+        "AuthoritiesGovernance": 0.44901514053344727,
+        "DefinitionsReferences": 0.4365767538547516
+      }
+    },
+    {
+      "sentence": "The application form must be filled out completely with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7126493453979492,
+      "similarities": {
+        "ContextObjective": 0.5185914635658264,
+        "BenefitsAssistance": 0.5466176867485046,
+        "Eligibility": 0.5878528952598572,
+        "ApplicationProcess": 0.7126493453979492,
+        "TimelineFrequency": 0.5691379308700562,
+        "AuthoritiesGovernance": 0.45528528094291687,
+        "DefinitionsReferences": 0.48497700691223145
+      }
+    },
+    {
+      "sentence": "The applicant must submit the completed form along with required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7414305806159973,
+      "similarities": {
+        "ContextObjective": 0.4965272545814514,
+        "BenefitsAssistance": 0.5427536964416504,
+        "Eligibility": 0.6049866676330566,
+        "ApplicationProcess": 0.7414305806159973,
+        "TimelineFrequency": 0.5675733685493469,
+        "AuthoritiesGovernance": 0.4724956750869751,
+        "DefinitionsReferences": 0.5040487051010132
+      }
+    },
+    {
+      "sentence": "Required documents include the marriage invitation card or a marriage certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6068469882011414,
+      "similarities": {
+        "ContextObjective": 0.45454141497612,
+        "BenefitsAssistance": 0.5059404969215393,
+        "Eligibility": 0.4966270327568054,
+        "ApplicationProcess": 0.6068469882011414,
+        "TimelineFrequency": 0.502519965171814,
+        "AuthoritiesGovernance": 0.4135456681251526,
+        "DefinitionsReferences": 0.5023481249809265
+      }
+    },
+    {
+      "sentence": "Proof of the construction worker's registration with the APB&OCWWB must also be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5766952037811279,
+      "similarities": {
+        "ContextObjective": 0.38609886169433594,
+        "BenefitsAssistance": 0.43165382742881775,
+        "Eligibility": 0.49808645248413086,
+        "ApplicationProcess": 0.5766952037811279,
+        "TimelineFrequency": 0.4593934416770935,
+        "AuthoritiesGovernance": 0.3804978132247925,
+        "DefinitionsReferences": 0.4249778985977173
+      }
+    },
+    {
+      "sentence": "Additionally, the applicant must provide proof of income which can include salary slips or an income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5942271947860718,
+      "similarities": {
+        "ContextObjective": 0.4470665454864502,
+        "BenefitsAssistance": 0.5444859266281128,
+        "Eligibility": 0.534844160079956,
+        "ApplicationProcess": 0.5942271947860718,
+        "TimelineFrequency": 0.4997747540473938,
+        "AuthoritiesGovernance": 0.38013795018196106,
+        "DefinitionsReferences": 0.4658803939819336
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5712391138076782,
+      "similarities": {
+        "ContextObjective": 0.42509031295776367,
+        "BenefitsAssistance": 0.4221217632293701,
+        "Eligibility": 0.46699491143226624,
+        "ApplicationProcess": 0.5515240430831909,
+        "TimelineFrequency": 0.5712391138076782,
+        "AuthoritiesGovernance": 0.44458264112472534,
+        "DefinitionsReferences": 0.44510120153427124
+      }
+    },
+    {
+      "sentence": "If approved, the financial assistance will be disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5643555521965027,
+      "similarities": {
+        "ContextObjective": 0.4038061201572418,
+        "BenefitsAssistance": 0.5643555521965027,
+        "Eligibility": 0.5456816554069519,
+        "ApplicationProcess": 0.5372933149337769,
+        "TimelineFrequency": 0.4640781879425049,
+        "AuthoritiesGovernance": 0.42047053575515747,
+        "DefinitionsReferences": 0.3599012494087219
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is usually done within 15 days after approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5486558675765991,
+      "similarities": {
+        "ContextObjective": 0.4190176725387573,
+        "BenefitsAssistance": 0.5486558675765991,
+        "Eligibility": 0.48248040676116943,
+        "ApplicationProcess": 0.4835599660873413,
+        "TimelineFrequency": 0.5151033401489258,
+        "AuthoritiesGovernance": 0.4421987533569336,
+        "DefinitionsReferences": 0.3927891254425049
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4919523000717163,
+      "similarities": {
+        "ContextObjective": 0.4837351143360138,
+        "BenefitsAssistance": 0.44537150859832764,
+        "Eligibility": 0.45468828082084656,
+        "ApplicationProcess": 0.43237072229385376,
+        "TimelineFrequency": 0.38794684410095215,
+        "AuthoritiesGovernance": 0.4919523000717163,
+        "DefinitionsReferences": 0.36122292280197144
+      }
+    },
+    {
+      "sentence": "The board operates under the Ministry of Labour and Employment of the Government of Andhra Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5014528036117554,
+      "similarities": {
+        "ContextObjective": 0.4183847904205322,
+        "BenefitsAssistance": 0.4076543152332306,
+        "Eligibility": 0.4573201537132263,
+        "ApplicationProcess": 0.4339541792869568,
+        "TimelineFrequency": 0.40516048669815063,
+        "AuthoritiesGovernance": 0.5014528036117554,
+        "DefinitionsReferences": 0.3866879940032959
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, applicants can contact the APB&OCWWB office directly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5394812822341919,
+      "similarities": {
+        "ContextObjective": 0.36649003624916077,
+        "BenefitsAssistance": 0.44623178243637085,
+        "Eligibility": 0.49091508984565735,
+        "ApplicationProcess": 0.5394812822341919,
+        "TimelineFrequency": 0.4588826298713684,
+        "AuthoritiesGovernance": 0.4231332838535309,
+        "DefinitionsReferences": 0.3750879764556885
+      }
+    },
+    {
+      "sentence": "The contact details for the APB&OCWWB can be found on their official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48953378200531006,
+      "similarities": {
+        "ContextObjective": 0.4115462899208069,
+        "BenefitsAssistance": 0.482418417930603,
+        "Eligibility": 0.4540148377418518,
+        "ApplicationProcess": 0.48953378200531006,
+        "TimelineFrequency": 0.42064303159713745,
+        "AuthoritiesGovernance": 0.4768359065055847,
+        "DefinitionsReferences": 0.4769103229045868
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received and has positively impacted many families in Andhra Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4547329545021057,
+      "similarities": {
+        "ContextObjective": 0.4547329545021057,
+        "BenefitsAssistance": 0.41535747051239014,
+        "Eligibility": 0.4534572958946228,
+        "ApplicationProcess": 0.3776034116744995,
+        "TimelineFrequency": 0.34458333253860474,
+        "AuthoritiesGovernance": 0.37159591913223267,
+        "DefinitionsReferences": 0.3327544927597046
+      }
+    },
+    {
+      "sentence": "Statistics indicate that over 10,000 beneficiaries have received assistance since the scheme's inception.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49245521426200867,
+      "similarities": {
+        "ContextObjective": 0.46784159541130066,
+        "BenefitsAssistance": 0.49245521426200867,
+        "Eligibility": 0.48482266068458557,
+        "ApplicationProcess": 0.3911377787590027,
+        "TimelineFrequency": 0.38233649730682373,
+        "AuthoritiesGovernance": 0.399690717458725,
+        "DefinitionsReferences": 0.3845697045326233
+      }
+    },
+    {
+      "sentence": "The financial assistance provided helps to cover various marriage-related expenses such as venue booking, catering, and attire.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6004484295845032,
+      "similarities": {
+        "ContextObjective": 0.45772355794906616,
+        "BenefitsAssistance": 0.6004484295845032,
+        "Eligibility": 0.49016720056533813,
+        "ApplicationProcess": 0.45416969060897827,
+        "TimelineFrequency": 0.4722815752029419,
+        "AuthoritiesGovernance": 0.4377213716506958,
+        "DefinitionsReferences": 0.4503210783004761
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Andhra Pradesh government to support the welfare of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.46775949001312256,
+      "similarities": {
+        "ContextObjective": 0.46775949001312256,
+        "BenefitsAssistance": 0.4516991674900055,
+        "Eligibility": 0.43837833404541016,
+        "ApplicationProcess": 0.39671820402145386,
+        "TimelineFrequency": 0.374610960483551,
+        "AuthoritiesGovernance": 0.4179908037185669,
+        "DefinitionsReferences": 0.3622831404209137
+      }
+    },
+    {
+      "sentence": "In addition to marriage assistance, the APB&OCWWB offers various other welfare schemes for construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4729083180427551,
+      "similarities": {
+        "ContextObjective": 0.4337318539619446,
+        "BenefitsAssistance": 0.4729083180427551,
+        "Eligibility": 0.4498886466026306,
+        "ApplicationProcess": 0.4145604372024536,
+        "TimelineFrequency": 0.4140821099281311,
+        "AuthoritiesGovernance": 0.398573637008667,
+        "DefinitionsReferences": 0.3986310660839081
+      }
+    },
+    {
+      "sentence": "These include health insurance, education assistance for children, and financial support for medical emergencies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6318901777267456,
+      "similarities": {
+        "ContextObjective": 0.44061097502708435,
+        "BenefitsAssistance": 0.6318901777267456,
+        "Eligibility": 0.46813637018203735,
+        "ApplicationProcess": 0.408042311668396,
+        "TimelineFrequency": 0.44087541103363037,
+        "AuthoritiesGovernance": 0.4395354986190796,
+        "DefinitionsReferences": 0.44127732515335083
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹50 crores for the Financial Assistance for Marriage scheme for the fiscal year 2023-2024.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48324307799339294,
+      "similarities": {
+        "ContextObjective": 0.4826202988624573,
+        "BenefitsAssistance": 0.48324307799339294,
+        "Eligibility": 0.47351300716400146,
+        "ApplicationProcess": 0.4199564754962921,
+        "TimelineFrequency": 0.4420221745967865,
+        "AuthoritiesGovernance": 0.4148356318473816,
+        "DefinitionsReferences": 0.3518289625644684
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to improving the living standards of construction workers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4114772081375122,
+      "similarities": {
+        "ContextObjective": 0.36914440989494324,
+        "BenefitsAssistance": 0.4114772081375122,
+        "Eligibility": 0.4087246060371399,
+        "ApplicationProcess": 0.33642780780792236,
+        "TimelineFrequency": 0.32484328746795654,
+        "AuthoritiesGovernance": 0.3889008164405823,
+        "DefinitionsReferences": 0.3332557678222656
+      }
+    },
+    {
+      "sentence": "The scheme is particularly beneficial for families who may struggle to afford the costs associated with weddings.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4647729992866516,
+      "similarities": {
+        "ContextObjective": 0.4596322178840637,
+        "BenefitsAssistance": 0.4647729992866516,
+        "Eligibility": 0.46099042892456055,
+        "ApplicationProcess": 0.39466592669487,
+        "TimelineFrequency": 0.40369904041290283,
+        "AuthoritiesGovernance": 0.3384479880332947,
+        "DefinitionsReferences": 0.32624754309654236
+      }
+    },
+    {
+      "sentence": "The assistance provided under this scheme is a one-time payment per daughter.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47121578454971313,
+      "similarities": {
+        "ContextObjective": 0.42033761739730835,
+        "BenefitsAssistance": 0.47121578454971313,
+        "Eligibility": 0.45585179328918457,
+        "ApplicationProcess": 0.4042532444000244,
+        "TimelineFrequency": 0.41852355003356934,
+        "AuthoritiesGovernance": 0.36976158618927,
+        "DefinitionsReferences": 0.318737268447876
+      }
+    },
+    {
+      "sentence": "This means that families with multiple daughters can receive assistance for each daughter’s marriage.",
+      "role": "Eligibility",
+      "confidence": 0.48619699478149414,
+      "similarities": {
+        "ContextObjective": 0.41570407152175903,
+        "BenefitsAssistance": 0.44554778933525085,
+        "Eligibility": 0.48619699478149414,
+        "ApplicationProcess": 0.4196576178073883,
+        "TimelineFrequency": 0.4305979013442993,
+        "AuthoritiesGovernance": 0.42136895656585693,
+        "DefinitionsReferences": 0.3766595721244812
+      }
+    },
+    {
+      "sentence": "The scheme encourages families to register their daughters’ marriages legally.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4722400903701782,
+      "similarities": {
+        "ContextObjective": 0.46264737844467163,
+        "BenefitsAssistance": 0.35393035411834717,
+        "Eligibility": 0.4478849172592163,
+        "ApplicationProcess": 0.4722400903701782,
+        "TimelineFrequency": 0.4155098795890808,
+        "AuthoritiesGovernance": 0.3674702048301697,
+        "DefinitionsReferences": 0.37870991230010986
+      }
+    },
+    {
+      "sentence": "This helps in promoting legal recognition of marriages and reducing child marriages.",
+      "role": "ApplicationProcess",
+      "confidence": 0.43460679054260254,
+      "similarities": {
+        "ContextObjective": 0.41950708627700806,
+        "BenefitsAssistance": 0.3693922162055969,
+        "Eligibility": 0.4340061843395233,
+        "ApplicationProcess": 0.43460679054260254,
+        "TimelineFrequency": 0.3971995711326599,
+        "AuthoritiesGovernance": 0.42469286918640137,
+        "DefinitionsReferences": 0.41946110129356384
+      }
+    },
+    {
+      "sentence": "The APB&OCWWB conducts awareness programs to inform construction workers about the benefits of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.46743303537368774,
+      "similarities": {
+        "ContextObjective": 0.46743303537368774,
+        "BenefitsAssistance": 0.45147523283958435,
+        "Eligibility": 0.4454217553138733,
+        "ApplicationProcess": 0.4233782887458801,
+        "TimelineFrequency": 0.39116907119750977,
+        "AuthoritiesGovernance": 0.3935993015766144,
+        "DefinitionsReferences": 0.3736347556114197
+      }
+    },
+    {
+      "sentence": "These programs are held at various construction sites and community centers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4775892496109009,
+      "similarities": {
+        "ContextObjective": 0.45633870363235474,
+        "BenefitsAssistance": 0.4258497357368469,
+        "Eligibility": 0.4518555998802185,
+        "ApplicationProcess": 0.4246671795845032,
+        "TimelineFrequency": 0.4631728231906891,
+        "AuthoritiesGovernance": 0.4775892496109009,
+        "DefinitionsReferences": 0.4360250234603882
+      }
+    },
+    {
+      "sentence": "The board also collaborates with local NGOs to reach out to more beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.4714301526546478,
+      "similarities": {
+        "ContextObjective": 0.4539293646812439,
+        "BenefitsAssistance": 0.42334383726119995,
+        "Eligibility": 0.4714301526546478,
+        "ApplicationProcess": 0.3684552311897278,
+        "TimelineFrequency": 0.3616059422492981,
+        "AuthoritiesGovernance": 0.4658437967300415,
+        "DefinitionsReferences": 0.3931082785129547
+      }
+    },
+    {
+      "sentence": "The financial assistance is credited directly to the bank accounts of the beneficiaries to ensure transparency.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5723493099212646,
+      "similarities": {
+        "ContextObjective": 0.4142228364944458,
+        "BenefitsAssistance": 0.5723493099212646,
+        "Eligibility": 0.5105747580528259,
+        "ApplicationProcess": 0.46287280321121216,
+        "TimelineFrequency": 0.37320926785469055,
+        "AuthoritiesGovernance": 0.42748379707336426,
+        "DefinitionsReferences": 0.37388330698013306
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing the financial stress on families during marriage ceremonies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4520840644836426,
+      "similarities": {
+        "ContextObjective": 0.4489178955554962,
+        "BenefitsAssistance": 0.4520840644836426,
+        "Eligibility": 0.4134228825569153,
+        "ApplicationProcess": 0.39084213972091675,
+        "TimelineFrequency": 0.3685096502304077,
+        "AuthoritiesGovernance": 0.3324325382709503,
+        "DefinitionsReferences": 0.3225380778312683
+      }
+    },
+    {
+      "sentence": "It has also contributed to the empowerment of women by providing them with financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5044397115707397,
+      "similarities": {
+        "ContextObjective": 0.4087335169315338,
+        "BenefitsAssistance": 0.5044397115707397,
+        "Eligibility": 0.3979836702346802,
+        "ApplicationProcess": 0.3348342776298523,
+        "TimelineFrequency": 0.34872275590896606,
+        "AuthoritiesGovernance": 0.369448721408844,
+        "DefinitionsReferences": 0.36806124448776245
+      }
+    },
+    {
+      "sentence": "The APB&OCWWB monitors the implementation of the scheme to ensure that funds are utilized effectively.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4984057545661926,
+      "similarities": {
+        "ContextObjective": 0.4861300587654114,
+        "BenefitsAssistance": 0.47382256388664246,
+        "Eligibility": 0.4795585870742798,
+        "ApplicationProcess": 0.4569459557533264,
+        "TimelineFrequency": 0.4018039405345917,
+        "AuthoritiesGovernance": 0.4984057545661926,
+        "DefinitionsReferences": 0.4001457095146179
+      }
+    },
+    {
+      "sentence": "Regular audits are conducted to assess the impact of the scheme on the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5131604671478271,
+      "similarities": {
+        "ContextObjective": 0.472910612821579,
+        "BenefitsAssistance": 0.5131604671478271,
+        "Eligibility": 0.5121087431907654,
+        "ApplicationProcess": 0.45946288108825684,
+        "TimelineFrequency": 0.42355769872665405,
+        "AuthoritiesGovernance": 0.4614943861961365,
+        "DefinitionsReferences": 0.424732506275177
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme and address any challenges faced.",
+      "role": "Eligibility",
+      "confidence": 0.5326529741287231,
+      "similarities": {
+        "ContextObjective": 0.519993007183075,
+        "BenefitsAssistance": 0.5052821636199951,
+        "Eligibility": 0.5326529741287231,
+        "ApplicationProcess": 0.4647431969642639,
+        "TimelineFrequency": 0.4175191819667816,
+        "AuthoritiesGovernance": 0.4849150776863098,
+        "DefinitionsReferences": 0.4187888503074646
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger framework of social security measures provided by the Andhra Pradesh government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5122427940368652,
+      "similarities": {
+        "ContextObjective": 0.5014188885688782,
+        "BenefitsAssistance": 0.5122427940368652,
+        "Eligibility": 0.48074403405189514,
+        "ApplicationProcess": 0.43591463565826416,
+        "TimelineFrequency": 0.4034171402454376,
+        "AuthoritiesGovernance": 0.45896995067596436,
+        "DefinitionsReferences": 0.4065128564834595
+      }
+    },
+    {
+      "sentence": "It aligns with the national goal of improving the socio-economic conditions of marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.4871186316013336,
+      "similarities": {
+        "ContextObjective": 0.4871186316013336,
+        "BenefitsAssistance": 0.39898741245269775,
+        "Eligibility": 0.44962042570114136,
+        "ApplicationProcess": 0.37081432342529297,
+        "TimelineFrequency": 0.33318495750427246,
+        "AuthoritiesGovernance": 0.4290216267108917,
+        "DefinitionsReferences": 0.3760676980018616
+      }
+    },
+    {
+      "sentence": "The Financial Assistance for Marriage scheme is a significant step towards ensuring that no daughter is deprived of a dignified marriage due to financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4940839111804962,
+      "similarities": {
+        "ContextObjective": 0.45691990852355957,
+        "BenefitsAssistance": 0.4940839111804962,
+        "Eligibility": 0.4827062785625458,
+        "ApplicationProcess": 0.45156216621398926,
+        "TimelineFrequency": 0.39371350407600403,
+        "AuthoritiesGovernance": 0.36129310727119446,
+        "DefinitionsReferences": 0.35733169317245483
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible families to take advantage of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5404277443885803,
+      "similarities": {
+        "ContextObjective": 0.522650420665741,
+        "BenefitsAssistance": 0.4757997989654541,
+        "Eligibility": 0.5404277443885803,
+        "ApplicationProcess": 0.46749693155288696,
+        "TimelineFrequency": 0.4287426173686981,
+        "AuthoritiesGovernance": 0.3962508738040924,
+        "DefinitionsReferences": 0.3915942311286926
+      }
+    },
+    {
+      "sentence": "The application process is designed to be straightforward and accessible to all registered construction workers.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5596047043800354,
+      "similarities": {
+        "ContextObjective": 0.4467637836933136,
+        "BenefitsAssistance": 0.40171098709106445,
+        "Eligibility": 0.513331949710846,
+        "ApplicationProcess": 0.5596047043800354,
+        "TimelineFrequency": 0.4922950565814972,
+        "AuthoritiesGovernance": 0.42480888962745667,
+        "DefinitionsReferences": 0.38655486702919006
+      }
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Andhra Pradesh government to support its workforce and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46398526430130005,
+      "similarities": {
+        "ContextObjective": 0.4483641982078552,
+        "BenefitsAssistance": 0.46398526430130005,
+        "Eligibility": 0.4576905369758606,
+        "ApplicationProcess": 0.40370041131973267,
+        "TimelineFrequency": 0.39718636870384216,
+        "AuthoritiesGovernance": 0.39710313081741333,
+        "DefinitionsReferences": 0.3797723650932312
+      }
+    },
+    {
+      "sentence": "Overall, the Financial Assistance for Marriage scheme is a vital initiative that addresses a critical need in society.",
+      "role": "ContextObjective",
+      "confidence": 0.543172299861908,
+      "similarities": {
+        "ContextObjective": 0.543172299861908,
+        "BenefitsAssistance": 0.4710701107978821,
+        "Eligibility": 0.4909532070159912,
+        "ApplicationProcess": 0.4415597915649414,
+        "TimelineFrequency": 0.4081820845603943,
+        "AuthoritiesGovernance": 0.39878049492836,
+        "DefinitionsReferences": 0.3548890948295593
+      }
+    },
+    {
+      "sentence": "It not only provides financial support but also promotes social welfare and empowerment among construction workers' families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4694797992706299,
+      "similarities": {
+        "ContextObjective": 0.39870309829711914,
+        "BenefitsAssistance": 0.4694797992706299,
+        "Eligibility": 0.40313446521759033,
+        "ApplicationProcess": 0.3291981816291809,
+        "TimelineFrequency": 0.32277801632881165,
+        "AuthoritiesGovernance": 0.3539237678050995,
+        "DefinitionsReferences": 0.34520915150642395
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 8,
+    "BenefitsAssistance": 20,
+    "Eligibility": 9,
+    "ApplicationProcess": 15,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:37:20.040636"
+}

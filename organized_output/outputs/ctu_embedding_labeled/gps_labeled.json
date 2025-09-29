@@ -1,0 +1,673 @@
+{
+  "scheme_name": "Green Passage Scheme",
+  "total_sentences": 47,
+  "labeled_sentences": [
+    {
+      "sentence": "The Green Passage Scheme is a significant initiative launched by the Government of India aimed at providing financial assistance and support for the education of students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5551652312278748,
+      "similarities": {
+        "ContextObjective": 0.5551652312278748,
+        "BenefitsAssistance": 0.4724879860877991,
+        "Eligibility": 0.49063819646835327,
+        "ApplicationProcess": 0.44351115822792053,
+        "TimelineFrequency": 0.43192431330680847,
+        "AuthoritiesGovernance": 0.4260755479335785,
+        "DefinitionsReferences": 0.3949281573295593
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 15th August 2021 as part of the broader efforts to enhance educational opportunities for marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5748053789138794,
+      "similarities": {
+        "ContextObjective": 0.5748053789138794,
+        "BenefitsAssistance": 0.4288642108440399,
+        "Eligibility": 0.46877220273017883,
+        "ApplicationProcess": 0.4283953011035919,
+        "TimelineFrequency": 0.44334787130355835,
+        "AuthoritiesGovernance": 0.4373660087585449,
+        "DefinitionsReferences": 0.3567913770675659
+      }
+    },
+    {
+      "sentence": "The primary objective of the Green Passage Scheme is to ensure that students from economically disadvantaged backgrounds have access to quality education without financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5532999038696289,
+      "similarities": {
+        "ContextObjective": 0.5532999038696289,
+        "BenefitsAssistance": 0.40881529450416565,
+        "Eligibility": 0.4765218496322632,
+        "ApplicationProcess": 0.4126957058906555,
+        "TimelineFrequency": 0.39369431138038635,
+        "AuthoritiesGovernance": 0.3437197208404541,
+        "DefinitionsReferences": 0.3347950279712677
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets students pursuing higher education in various fields including engineering, medicine, and other professional courses.",
+      "role": "ContextObjective",
+      "confidence": 0.5258810520172119,
+      "similarities": {
+        "ContextObjective": 0.5258810520172119,
+        "BenefitsAssistance": 0.4405657649040222,
+        "Eligibility": 0.5112096071243286,
+        "ApplicationProcess": 0.4400216341018677,
+        "TimelineFrequency": 0.46412569284439087,
+        "AuthoritiesGovernance": 0.3646268844604492,
+        "DefinitionsReferences": 0.38977187871932983
+      }
+    },
+    {
+      "sentence": "The measurable target set by the government under this scheme is to provide financial support to at least 1 million students annually.",
+      "role": "ContextObjective",
+      "confidence": 0.49964621663093567,
+      "similarities": {
+        "ContextObjective": 0.49964621663093567,
+        "BenefitsAssistance": 0.4539448022842407,
+        "Eligibility": 0.4791052043437958,
+        "ApplicationProcess": 0.3951840400695801,
+        "TimelineFrequency": 0.4015049934387207,
+        "AuthoritiesGovernance": 0.35513389110565186,
+        "DefinitionsReferences": 0.3384431004524231
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the Green Passage Scheme amounts to INR 50,000 per annum for each eligible student.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4683581590652466,
+      "similarities": {
+        "ContextObjective": 0.4016367197036743,
+        "BenefitsAssistance": 0.4683581590652466,
+        "Eligibility": 0.4418497681617737,
+        "ApplicationProcess": 0.3981623649597168,
+        "TimelineFrequency": 0.3733186721801758,
+        "AuthoritiesGovernance": 0.3140168786048889,
+        "DefinitionsReferences": 0.330484539270401
+      }
+    },
+    {
+      "sentence": "This amount is aimed at covering tuition fees, books, and other educational expenses necessary for students to successfully complete their courses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6029692888259888,
+      "similarities": {
+        "ContextObjective": 0.47844600677490234,
+        "BenefitsAssistance": 0.6029692888259888,
+        "Eligibility": 0.4699093699455261,
+        "ApplicationProcess": 0.46885472536087036,
+        "TimelineFrequency": 0.482432097196579,
+        "AuthoritiesGovernance": 0.3956374228000641,
+        "DefinitionsReferences": 0.4704768657684326
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for additional support in the form of scholarships for students who excel in their studies.",
+      "role": "ContextObjective",
+      "confidence": 0.5097362399101257,
+      "similarities": {
+        "ContextObjective": 0.5097362399101257,
+        "BenefitsAssistance": 0.46432268619537354,
+        "Eligibility": 0.47700411081314087,
+        "ApplicationProcess": 0.4299169182777405,
+        "TimelineFrequency": 0.41809964179992676,
+        "AuthoritiesGovernance": 0.35073214769363403,
+        "DefinitionsReferences": 0.4062982201576233
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Green Passage Scheme are clearly defined to ensure that the benefits reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.6069623827934265,
+      "similarities": {
+        "ContextObjective": 0.5442318916320801,
+        "BenefitsAssistance": 0.44719943404197693,
+        "Eligibility": 0.6069623827934265,
+        "ApplicationProcess": 0.4852038025856018,
+        "TimelineFrequency": 0.4401794373989105,
+        "AuthoritiesGovernance": 0.40165242552757263,
+        "DefinitionsReferences": 0.3898452818393707
+      }
+    },
+    {
+      "sentence": "Students must belong to families with an annual income of less than INR 2.5 lakhs to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5705517530441284,
+      "similarities": {
+        "ContextObjective": 0.44374993443489075,
+        "BenefitsAssistance": 0.4796638786792755,
+        "Eligibility": 0.5705517530441284,
+        "ApplicationProcess": 0.49492156505584717,
+        "TimelineFrequency": 0.46742695569992065,
+        "AuthoritiesGovernance": 0.351062536239624,
+        "DefinitionsReferences": 0.3474465012550354
+      }
+    },
+    {
+      "sentence": "The scheme is open to students from all states and union territories of India.",
+      "role": "Eligibility",
+      "confidence": 0.5184638500213623,
+      "similarities": {
+        "ContextObjective": 0.49941882491111755,
+        "BenefitsAssistance": 0.4150763154029846,
+        "Eligibility": 0.5184638500213623,
+        "ApplicationProcess": 0.4543023705482483,
+        "TimelineFrequency": 0.44356703758239746,
+        "AuthoritiesGovernance": 0.37326565384864807,
+        "DefinitionsReferences": 0.36532628536224365
+      }
+    },
+    {
+      "sentence": "Applicants must be enrolled in recognized educational institutions that are affiliated with the respective state or central education boards.",
+      "role": "Eligibility",
+      "confidence": 0.5882920026779175,
+      "similarities": {
+        "ContextObjective": 0.45724213123321533,
+        "BenefitsAssistance": 0.45136767625808716,
+        "Eligibility": 0.5882920026779175,
+        "ApplicationProcess": 0.5602944493293762,
+        "TimelineFrequency": 0.5226395726203918,
+        "AuthoritiesGovernance": 0.47859275341033936,
+        "DefinitionsReferences": 0.4803442060947418
+      }
+    },
+    {
+      "sentence": "There are no specific age limits set for eligibility under the Green Passage Scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4534603953361511,
+      "similarities": {
+        "ContextObjective": 0.38847991824150085,
+        "BenefitsAssistance": 0.32076865434646606,
+        "Eligibility": 0.4534603953361511,
+        "ApplicationProcess": 0.33812254667282104,
+        "TimelineFrequency": 0.35510724782943726,
+        "AuthoritiesGovernance": 0.27350860834121704,
+        "DefinitionsReferences": 0.261490136384964
+      }
+    },
+    {
+      "sentence": "However, students must be pursuing courses that are recognized and accredited by relevant educational authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5045966506004333,
+      "similarities": {
+        "ContextObjective": 0.4344785809516907,
+        "BenefitsAssistance": 0.3898346424102783,
+        "Eligibility": 0.5005013942718506,
+        "ApplicationProcess": 0.5045966506004333,
+        "TimelineFrequency": 0.4664987325668335,
+        "AuthoritiesGovernance": 0.4160352349281311,
+        "DefinitionsReferences": 0.4837632179260254
+      }
+    },
+    {
+      "sentence": "The application process for the Green Passage Scheme is designed to be straightforward and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5547035336494446,
+      "similarities": {
+        "ContextObjective": 0.5104478597640991,
+        "BenefitsAssistance": 0.39954644441604614,
+        "Eligibility": 0.4922748804092407,
+        "ApplicationProcess": 0.5547035336494446,
+        "TimelineFrequency": 0.46407344937324524,
+        "AuthoritiesGovernance": 0.385309636592865,
+        "DefinitionsReferences": 0.3758643865585327
+      }
+    },
+    {
+      "sentence": "Interested candidates must fill out the online application form available on the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.719992995262146,
+      "similarities": {
+        "ContextObjective": 0.46641644835472107,
+        "BenefitsAssistance": 0.4435805082321167,
+        "Eligibility": 0.5639990568161011,
+        "ApplicationProcess": 0.719992995262146,
+        "TimelineFrequency": 0.53215491771698,
+        "AuthoritiesGovernance": 0.4390190541744232,
+        "DefinitionsReferences": 0.43560492992401123
+      }
+    },
+    {
+      "sentence": "The application form requires details such as personal information, educational qualifications, and family income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.704811692237854,
+      "similarities": {
+        "ContextObjective": 0.5197904109954834,
+        "BenefitsAssistance": 0.6107263565063477,
+        "Eligibility": 0.6592519283294678,
+        "ApplicationProcess": 0.704811692237854,
+        "TimelineFrequency": 0.5955463647842407,
+        "AuthoritiesGovernance": 0.45821934938430786,
+        "DefinitionsReferences": 0.5155620574951172
+      }
+    },
+    {
+      "sentence": "Applicants must also submit supporting documents including income certificates, identity proofs, and admission letters from educational institutions.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6258476376533508,
+      "similarities": {
+        "ContextObjective": 0.44958192110061646,
+        "BenefitsAssistance": 0.5409250259399414,
+        "Eligibility": 0.5358713865280151,
+        "ApplicationProcess": 0.6258476376533508,
+        "TimelineFrequency": 0.5166106224060059,
+        "AuthoritiesGovernance": 0.4141228497028351,
+        "DefinitionsReferences": 0.517250657081604
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes a verification process conducted by the respective educational department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6862683892250061,
+      "similarities": {
+        "ContextObjective": 0.48364055156707764,
+        "BenefitsAssistance": 0.46508151292800903,
+        "Eligibility": 0.5429725646972656,
+        "ApplicationProcess": 0.6862683892250061,
+        "TimelineFrequency": 0.5544645190238953,
+        "AuthoritiesGovernance": 0.49614065885543823,
+        "DefinitionsReferences": 0.46164795756340027
+      }
+    },
+    {
+      "sentence": "The timeline for application submission typically opens at the beginning of the academic year in June and closes by the end of July.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6035718321800232,
+      "similarities": {
+        "ContextObjective": 0.39393603801727295,
+        "BenefitsAssistance": 0.37714993953704834,
+        "Eligibility": 0.45030587911605835,
+        "ApplicationProcess": 0.4937722086906433,
+        "TimelineFrequency": 0.6035718321800232,
+        "AuthoritiesGovernance": 0.35101938247680664,
+        "DefinitionsReferences": 0.34907084703445435
+      }
+    },
+    {
+      "sentence": "Disbursement of funds under the Green Passage Scheme occurs in two installments during the academic year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5030152201652527,
+      "similarities": {
+        "ContextObjective": 0.4586270749568939,
+        "BenefitsAssistance": 0.5030152201652527,
+        "Eligibility": 0.42335426807403564,
+        "ApplicationProcess": 0.4216143786907196,
+        "TimelineFrequency": 0.4947172701358795,
+        "AuthoritiesGovernance": 0.40367770195007324,
+        "DefinitionsReferences": 0.3858591616153717
+      }
+    },
+    {
+      "sentence": "The first installment is released at the beginning of the academic year while the second installment is provided after the mid-term examinations.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5279643535614014,
+      "similarities": {
+        "ContextObjective": 0.467881441116333,
+        "BenefitsAssistance": 0.42528900504112244,
+        "Eligibility": 0.39631104469299316,
+        "ApplicationProcess": 0.44417327642440796,
+        "TimelineFrequency": 0.5279643535614014,
+        "AuthoritiesGovernance": 0.3703311085700989,
+        "DefinitionsReferences": 0.4192720353603363
+      }
+    },
+    {
+      "sentence": "This staggered disbursement is intended to ensure that students have continuous access to financial resources throughout their studies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5158946514129639,
+      "similarities": {
+        "ContextObjective": 0.4179515242576599,
+        "BenefitsAssistance": 0.5158946514129639,
+        "Eligibility": 0.45216333866119385,
+        "ApplicationProcess": 0.41482245922088623,
+        "TimelineFrequency": 0.5036519169807434,
+        "AuthoritiesGovernance": 0.37477558851242065,
+        "DefinitionsReferences": 0.41511863470077515
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Green Passage Scheme is the Ministry of Education, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5264715552330017,
+      "similarities": {
+        "ContextObjective": 0.4395444989204407,
+        "BenefitsAssistance": 0.3640568256378174,
+        "Eligibility": 0.44318708777427673,
+        "ApplicationProcess": 0.4176289439201355,
+        "TimelineFrequency": 0.3666430115699768,
+        "AuthoritiesGovernance": 0.5264715552330017,
+        "DefinitionsReferences": 0.3993178606033325
+      }
+    },
+    {
+      "sentence": "The Ministry of Education is responsible for overseeing the implementation of the scheme and ensuring that funds are allocated appropriately.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5782999992370605,
+      "similarities": {
+        "ContextObjective": 0.5247496962547302,
+        "BenefitsAssistance": 0.4681033790111542,
+        "Eligibility": 0.5060025453567505,
+        "ApplicationProcess": 0.47731250524520874,
+        "TimelineFrequency": 0.43417584896087646,
+        "AuthoritiesGovernance": 0.5782999992370605,
+        "DefinitionsReferences": 0.38792455196380615
+      }
+    },
+    {
+      "sentence": "State education departments also play a crucial role in the local implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5410614609718323,
+      "similarities": {
+        "ContextObjective": 0.4748871922492981,
+        "BenefitsAssistance": 0.4048691391944885,
+        "Eligibility": 0.46783193945884705,
+        "ApplicationProcess": 0.4303135275840759,
+        "TimelineFrequency": 0.388348788022995,
+        "AuthoritiesGovernance": 0.5410614609718323,
+        "DefinitionsReferences": 0.39569520950317383
+      }
+    },
+    {
+      "sentence": "They are tasked with verifying applications and ensuring that the funds reach the eligible students in a timely manner.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6181780099868774,
+      "similarities": {
+        "ContextObjective": 0.4841594398021698,
+        "BenefitsAssistance": 0.5119545459747314,
+        "Eligibility": 0.5863510370254517,
+        "ApplicationProcess": 0.6181780099868774,
+        "TimelineFrequency": 0.5758357048034668,
+        "AuthoritiesGovernance": 0.46008309721946716,
+        "DefinitionsReferences": 0.42812472581863403
+      }
+    },
+    {
+      "sentence": "The Green Passage Scheme is part of a larger framework of welfare schemes aimed at promoting education and reducing dropout rates among underprivileged students.",
+      "role": "ContextObjective",
+      "confidence": 0.49863913655281067,
+      "similarities": {
+        "ContextObjective": 0.49863913655281067,
+        "BenefitsAssistance": 0.4173279404640198,
+        "Eligibility": 0.4502127170562744,
+        "ApplicationProcess": 0.38872024416923523,
+        "TimelineFrequency": 0.4060744345188141,
+        "AuthoritiesGovernance": 0.4175543487071991,
+        "DefinitionsReferences": 0.36047083139419556
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crores for the initial rollout of the Green Passage Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4415748715400696,
+      "similarities": {
+        "ContextObjective": 0.4415748715400696,
+        "BenefitsAssistance": 0.41825783252716064,
+        "Eligibility": 0.4106842279434204,
+        "ApplicationProcess": 0.4004822373390198,
+        "TimelineFrequency": 0.3743182420730591,
+        "AuthoritiesGovernance": 0.4024783968925476,
+        "DefinitionsReferences": 0.3377363085746765
+      }
+    },
+    {
+      "sentence": "This funding is expected to support the education of approximately 1 million students in its first year.",
+      "role": "ContextObjective",
+      "confidence": 0.4319598078727722,
+      "similarities": {
+        "ContextObjective": 0.4319598078727722,
+        "BenefitsAssistance": 0.4183807075023651,
+        "Eligibility": 0.3905734121799469,
+        "ApplicationProcess": 0.3511609435081482,
+        "TimelineFrequency": 0.36050304770469666,
+        "AuthoritiesGovernance": 0.3393237888813019,
+        "DefinitionsReferences": 0.3174917697906494
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly reduce the financial burden on families and encourage more students to pursue higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.4216615557670593,
+      "similarities": {
+        "ContextObjective": 0.4216615557670593,
+        "BenefitsAssistance": 0.4164542555809021,
+        "Eligibility": 0.38688167929649353,
+        "ApplicationProcess": 0.3404011130332947,
+        "TimelineFrequency": 0.3215242624282837,
+        "AuthoritiesGovernance": 0.2624770700931549,
+        "DefinitionsReferences": 0.269766628742218
+      }
+    },
+    {
+      "sentence": "Additionally, the Green Passage Scheme aims to promote gender equality in education by encouraging female students to apply.",
+      "role": "ContextObjective",
+      "confidence": 0.4566013514995575,
+      "similarities": {
+        "ContextObjective": 0.4566013514995575,
+        "BenefitsAssistance": 0.30364105105400085,
+        "Eligibility": 0.39779597520828247,
+        "ApplicationProcess": 0.4016510248184204,
+        "TimelineFrequency": 0.39440709352493286,
+        "AuthoritiesGovernance": 0.29536759853363037,
+        "DefinitionsReferences": 0.295327365398407
+      }
+    },
+    {
+      "sentence": "The government has set a target of ensuring that at least 50 percent of the beneficiaries under the scheme are female students.",
+      "role": "Eligibility",
+      "confidence": 0.4706072211265564,
+      "similarities": {
+        "ContextObjective": 0.45220819115638733,
+        "BenefitsAssistance": 0.3624272048473358,
+        "Eligibility": 0.4706072211265564,
+        "ApplicationProcess": 0.38591626286506653,
+        "TimelineFrequency": 0.3744272291660309,
+        "AuthoritiesGovernance": 0.3608734607696533,
+        "DefinitionsReferences": 0.31619420647621155
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme will be conducted periodically to assess its impact on educational outcomes.",
+      "role": "TimelineFrequency",
+      "confidence": 0.503017783164978,
+      "similarities": {
+        "ContextObjective": 0.4582175612449646,
+        "BenefitsAssistance": 0.45127594470977783,
+        "Eligibility": 0.4721825420856476,
+        "ApplicationProcess": 0.4435722231864929,
+        "TimelineFrequency": 0.503017783164978,
+        "AuthoritiesGovernance": 0.43587109446525574,
+        "DefinitionsReferences": 0.39567774534225464
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to make necessary adjustments and improvements to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5635271668434143,
+      "similarities": {
+        "ContextObjective": 0.5104906558990479,
+        "BenefitsAssistance": 0.5395622849464417,
+        "Eligibility": 0.5635271668434143,
+        "ApplicationProcess": 0.5141441226005554,
+        "TimelineFrequency": 0.4669536352157593,
+        "AuthoritiesGovernance": 0.5236440300941467,
+        "DefinitionsReferences": 0.45017433166503906
+      }
+    },
+    {
+      "sentence": "The Green Passage Scheme is aligned with the National Education Policy 2020 which emphasizes equitable access to education.",
+      "role": "ContextObjective",
+      "confidence": 0.4417014420032501,
+      "similarities": {
+        "ContextObjective": 0.4417014420032501,
+        "BenefitsAssistance": 0.36028194427490234,
+        "Eligibility": 0.4123823344707489,
+        "ApplicationProcess": 0.3652419447898865,
+        "TimelineFrequency": 0.36812764406204224,
+        "AuthoritiesGovernance": 0.3433234393596649,
+        "DefinitionsReferences": 0.34606555104255676
+      }
+    },
+    {
+      "sentence": "The scheme also aims to contribute to the overall goal of achieving 100 percent Gross Enrollment Ratio in higher education by 2030.",
+      "role": "ContextObjective",
+      "confidence": 0.5146893858909607,
+      "similarities": {
+        "ContextObjective": 0.5146893858909607,
+        "BenefitsAssistance": 0.408881813287735,
+        "Eligibility": 0.422617107629776,
+        "ApplicationProcess": 0.40201008319854736,
+        "TimelineFrequency": 0.39094817638397217,
+        "AuthoritiesGovernance": 0.3877703547477722,
+        "DefinitionsReferences": 0.31171584129333496
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring transparency and accountability in the implementation of the Green Passage Scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49750858545303345,
+      "similarities": {
+        "ContextObjective": 0.4321765899658203,
+        "BenefitsAssistance": 0.41344350576400757,
+        "Eligibility": 0.4462406635284424,
+        "ApplicationProcess": 0.49750858545303345,
+        "TimelineFrequency": 0.3779464066028595,
+        "AuthoritiesGovernance": 0.48425349593162537,
+        "DefinitionsReferences": 0.40570366382598877
+      }
+    },
+    {
+      "sentence": "Regular audits and assessments will be conducted to ensure that funds are utilized effectively and reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5207199454307556,
+      "similarities": {
+        "ContextObjective": 0.4592689275741577,
+        "BenefitsAssistance": 0.5116897821426392,
+        "Eligibility": 0.5207199454307556,
+        "ApplicationProcess": 0.46692395210266113,
+        "TimelineFrequency": 0.4479023814201355,
+        "AuthoritiesGovernance": 0.4852242171764374,
+        "DefinitionsReferences": 0.42940378189086914
+      }
+    },
+    {
+      "sentence": "The Green Passage Scheme is a crucial step towards bridging the educational divide in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4646932780742645,
+      "similarities": {
+        "ContextObjective": 0.4646932780742645,
+        "BenefitsAssistance": 0.3427950441837311,
+        "Eligibility": 0.39944323897361755,
+        "ApplicationProcess": 0.3870660066604614,
+        "TimelineFrequency": 0.343247652053833,
+        "AuthoritiesGovernance": 0.34601929783821106,
+        "DefinitionsReferences": 0.3281248211860657
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to fostering an inclusive educational environment for all students.",
+      "role": "ContextObjective",
+      "confidence": 0.4521116614341736,
+      "similarities": {
+        "ContextObjective": 0.4521116614341736,
+        "BenefitsAssistance": 0.39195579290390015,
+        "Eligibility": 0.4447411596775055,
+        "ApplicationProcess": 0.37869781255722046,
+        "TimelineFrequency": 0.3713761866092682,
+        "AuthoritiesGovernance": 0.37856927514076233,
+        "DefinitionsReferences": 0.4186374545097351
+      }
+    },
+    {
+      "sentence": "The scheme is expected to empower students from economically weaker sections by providing them with the necessary financial support to pursue their academic goals.",
+      "role": "ContextObjective",
+      "confidence": 0.5144616961479187,
+      "similarities": {
+        "ContextObjective": 0.5144616961479187,
+        "BenefitsAssistance": 0.4711141884326935,
+        "Eligibility": 0.4773429036140442,
+        "ApplicationProcess": 0.40996021032333374,
+        "TimelineFrequency": 0.406741738319397,
+        "AuthoritiesGovernance": 0.3608812689781189,
+        "DefinitionsReferences": 0.3544015884399414
+      }
+    },
+    {
+      "sentence": "In conclusion, the Green Passage Scheme represents a significant investment in the future of India's youth.",
+      "role": "ContextObjective",
+      "confidence": 0.42325299978256226,
+      "similarities": {
+        "ContextObjective": 0.42325299978256226,
+        "BenefitsAssistance": 0.34547874331474304,
+        "Eligibility": 0.34129244089126587,
+        "ApplicationProcess": 0.31917431950569153,
+        "TimelineFrequency": 0.2972303628921509,
+        "AuthoritiesGovernance": 0.26282432675361633,
+        "DefinitionsReferences": 0.32434844970703125
+      }
+    },
+    {
+      "sentence": "By providing financial assistance to students from disadvantaged backgrounds, the scheme aims to create a more equitable educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.5058780312538147,
+      "similarities": {
+        "ContextObjective": 0.5058780312538147,
+        "BenefitsAssistance": 0.41614943742752075,
+        "Eligibility": 0.472289502620697,
+        "ApplicationProcess": 0.35175567865371704,
+        "TimelineFrequency": 0.3649980425834656,
+        "AuthoritiesGovernance": 0.3414704203605652,
+        "DefinitionsReferences": 0.31075841188430786
+      }
+    },
+    {
+      "sentence": "The government encourages eligible students to take advantage of this opportunity and apply for the Green Passage Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4936935007572174,
+      "similarities": {
+        "ContextObjective": 0.4936935007572174,
+        "BenefitsAssistance": 0.3784749507904053,
+        "Eligibility": 0.4925816059112549,
+        "ApplicationProcess": 0.48734501004219055,
+        "TimelineFrequency": 0.44406211376190186,
+        "AuthoritiesGovernance": 0.33617687225341797,
+        "DefinitionsReferences": 0.38058969378471375
+      }
+    },
+    {
+      "sentence": "For further information and updates regarding the scheme, students can visit the official website of the Ministry of Education.",
+      "role": "ApplicationProcess",
+      "confidence": 0.522903323173523,
+      "similarities": {
+        "ContextObjective": 0.5068204402923584,
+        "BenefitsAssistance": 0.4889947772026062,
+        "Eligibility": 0.4584164321422577,
+        "ApplicationProcess": 0.522903323173523,
+        "TimelineFrequency": 0.473801851272583,
+        "AuthoritiesGovernance": 0.47274190187454224,
+        "DefinitionsReferences": 0.43724825978279114
+      }
+    },
+    {
+      "sentence": "The Green Passage Scheme is a testament to the government's dedication to improving access to quality education for all.",
+      "role": "ContextObjective",
+      "confidence": 0.42970868945121765,
+      "similarities": {
+        "ContextObjective": 0.42970868945121765,
+        "BenefitsAssistance": 0.34979841113090515,
+        "Eligibility": 0.3961963355541229,
+        "ApplicationProcess": 0.378510057926178,
+        "TimelineFrequency": 0.33116525411605835,
+        "AuthoritiesGovernance": 0.3542127013206482,
+        "DefinitionsReferences": 0.3547772169113159
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "BenefitsAssistance": 4,
+    "Eligibility": 8,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 3,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-24T21:03:07.264150"
+}

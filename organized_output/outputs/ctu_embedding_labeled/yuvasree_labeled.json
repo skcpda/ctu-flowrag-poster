@@ -1,0 +1,911 @@
+{
+  "scheme_name": "Yuvasree Prakalpa",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "Yuvasree Prakalpa is a significant welfare scheme launched by the Government of West Bengal on 1st September 2013.",
+      "role": "ContextObjective",
+      "confidence": 0.5081830024719238,
+      "similarities": {
+        "ContextObjective": 0.5081830024719238,
+        "BenefitsAssistance": 0.4220251441001892,
+        "Eligibility": 0.4408109784126282,
+        "ApplicationProcess": 0.4095708131790161,
+        "TimelineFrequency": 0.39925745129585266,
+        "AuthoritiesGovernance": 0.4335549473762512,
+        "DefinitionsReferences": 0.32715904712677
+      }
+    },
+    {
+      "sentence": "The scheme was introduced to provide financial assistance to unemployed youth in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4978843629360199,
+      "similarities": {
+        "ContextObjective": 0.4978843629360199,
+        "BenefitsAssistance": 0.44697079062461853,
+        "Eligibility": 0.47352421283721924,
+        "ApplicationProcess": 0.4094730615615845,
+        "TimelineFrequency": 0.4077577590942383,
+        "AuthoritiesGovernance": 0.38781923055648804,
+        "DefinitionsReferences": 0.31862950325012207
+      }
+    },
+    {
+      "sentence": "The primary objective of Yuvasree Prakalpa is to empower young individuals by providing them with a monthly stipend.",
+      "role": "ContextObjective",
+      "confidence": 0.4964332580566406,
+      "similarities": {
+        "ContextObjective": 0.4964332580566406,
+        "BenefitsAssistance": 0.39554768800735474,
+        "Eligibility": 0.413909375667572,
+        "ApplicationProcess": 0.3532677888870239,
+        "TimelineFrequency": 0.36481326818466187,
+        "AuthoritiesGovernance": 0.3693220019340515,
+        "DefinitionsReferences": 0.2931118607521057
+      }
+    },
+    {
+      "sentence": "This stipend aims to support them while they seek employment or engage in skill development activities.",
+      "role": "Eligibility",
+      "confidence": 0.5070984959602356,
+      "similarities": {
+        "ContextObjective": 0.4902825951576233,
+        "BenefitsAssistance": 0.4911586046218872,
+        "Eligibility": 0.5070984959602356,
+        "ApplicationProcess": 0.44934648275375366,
+        "TimelineFrequency": 0.45430687069892883,
+        "AuthoritiesGovernance": 0.42311301827430725,
+        "DefinitionsReferences": 0.4218958020210266
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets youth aged between 18 and 45 years.",
+      "role": "ContextObjective",
+      "confidence": 0.5509541034698486,
+      "similarities": {
+        "ContextObjective": 0.5509541034698486,
+        "BenefitsAssistance": 0.4431961476802826,
+        "Eligibility": 0.5219478607177734,
+        "ApplicationProcess": 0.4489544928073883,
+        "TimelineFrequency": 0.46095356345176697,
+        "AuthoritiesGovernance": 0.36875706911087036,
+        "DefinitionsReferences": 0.35814282298088074
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be residents of West Bengal.",
+      "role": "Eligibility",
+      "confidence": 0.6169968843460083,
+      "similarities": {
+        "ContextObjective": 0.44935712218284607,
+        "BenefitsAssistance": 0.459273099899292,
+        "Eligibility": 0.6169968843460083,
+        "ApplicationProcess": 0.46579763293266296,
+        "TimelineFrequency": 0.4220128059387207,
+        "AuthoritiesGovernance": 0.38045966625213623,
+        "DefinitionsReferences": 0.3724309802055359
+      }
+    },
+    {
+      "sentence": "They should be unemployed and actively seeking job opportunities.",
+      "role": "Eligibility",
+      "confidence": 0.43545031547546387,
+      "similarities": {
+        "ContextObjective": 0.4242098331451416,
+        "BenefitsAssistance": 0.35201454162597656,
+        "Eligibility": 0.43545031547546387,
+        "ApplicationProcess": 0.40028637647628784,
+        "TimelineFrequency": 0.4057425856590271,
+        "AuthoritiesGovernance": 0.38207894563674927,
+        "DefinitionsReferences": 0.3089545965194702
+      }
+    },
+    {
+      "sentence": "The scheme also aims to encourage entrepreneurship among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5480909943580627,
+      "similarities": {
+        "ContextObjective": 0.5480909943580627,
+        "BenefitsAssistance": 0.354872465133667,
+        "Eligibility": 0.4121549129486084,
+        "ApplicationProcess": 0.3821703791618347,
+        "TimelineFrequency": 0.37197768688201904,
+        "AuthoritiesGovernance": 0.3202366232872009,
+        "DefinitionsReferences": 0.3320237398147583
+      }
+    },
+    {
+      "sentence": "By providing financial support, it seeks to reduce the unemployment rate in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4751286804676056,
+      "similarities": {
+        "ContextObjective": 0.4289858937263489,
+        "BenefitsAssistance": 0.4751286804676056,
+        "Eligibility": 0.4273892343044281,
+        "ApplicationProcess": 0.3917137384414673,
+        "TimelineFrequency": 0.39832693338394165,
+        "AuthoritiesGovernance": 0.3977254033088684,
+        "DefinitionsReferences": 0.3130524754524231
+      }
+    },
+    {
+      "sentence": "The monthly stipend provided under Yuvasree Prakalpa is ₹1,500.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4897761642932892,
+      "similarities": {
+        "ContextObjective": 0.40352606773376465,
+        "BenefitsAssistance": 0.4897761642932892,
+        "Eligibility": 0.4162915349006653,
+        "ApplicationProcess": 0.377645879983902,
+        "TimelineFrequency": 0.387908011674881,
+        "AuthoritiesGovernance": 0.364444375038147,
+        "DefinitionsReferences": 0.3263515830039978
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover basic living expenses while beneficiaries search for jobs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6071646213531494,
+      "similarities": {
+        "ContextObjective": 0.4876803457736969,
+        "BenefitsAssistance": 0.6071646213531494,
+        "Eligibility": 0.5519084334373474,
+        "ApplicationProcess": 0.49272531270980835,
+        "TimelineFrequency": 0.48234713077545166,
+        "AuthoritiesGovernance": 0.42364829778671265,
+        "DefinitionsReferences": 0.4382767081260681
+      }
+    },
+    {
+      "sentence": "The scheme has a target of reaching approximately 1 lakh beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5664995312690735,
+      "similarities": {
+        "ContextObjective": 0.5664995312690735,
+        "BenefitsAssistance": 0.45834508538246155,
+        "Eligibility": 0.5215508937835693,
+        "ApplicationProcess": 0.4098692536354065,
+        "TimelineFrequency": 0.37509244680404663,
+        "AuthoritiesGovernance": 0.3985248804092407,
+        "DefinitionsReferences": 0.34560054540634155
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹100 crore for the implementation of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4855138063430786,
+      "similarities": {
+        "ContextObjective": 0.47073429822921753,
+        "BenefitsAssistance": 0.47771432995796204,
+        "Eligibility": 0.4855138063430786,
+        "ApplicationProcess": 0.4105668067932129,
+        "TimelineFrequency": 0.39217761158943176,
+        "AuthoritiesGovernance": 0.47261902689933777,
+        "DefinitionsReferences": 0.3485284447669983
+      }
+    },
+    {
+      "sentence": "To be eligible for the scheme, applicants must not be engaged in any full-time employment.",
+      "role": "Eligibility",
+      "confidence": 0.5590241551399231,
+      "similarities": {
+        "ContextObjective": 0.4804899990558624,
+        "BenefitsAssistance": 0.3688891530036926,
+        "Eligibility": 0.5590241551399231,
+        "ApplicationProcess": 0.5121816396713257,
+        "TimelineFrequency": 0.5015374422073364,
+        "AuthoritiesGovernance": 0.3129380941390991,
+        "DefinitionsReferences": 0.3288617730140686
+      }
+    },
+    {
+      "sentence": "They should also not be receiving any other government assistance that conflicts with this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5008549690246582,
+      "similarities": {
+        "ContextObjective": 0.43844863772392273,
+        "BenefitsAssistance": 0.4394983947277069,
+        "Eligibility": 0.5008549690246582,
+        "ApplicationProcess": 0.39504337310791016,
+        "TimelineFrequency": 0.36827728152275085,
+        "AuthoritiesGovernance": 0.43382924795150757,
+        "DefinitionsReferences": 0.32245761156082153
+      }
+    },
+    {
+      "sentence": "The application process for Yuvasree Prakalpa is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5478842854499817,
+      "similarities": {
+        "ContextObjective": 0.475164532661438,
+        "BenefitsAssistance": 0.4081264138221741,
+        "Eligibility": 0.4826294481754303,
+        "ApplicationProcess": 0.5478842854499817,
+        "TimelineFrequency": 0.45331165194511414,
+        "AuthoritiesGovernance": 0.39454686641693115,
+        "DefinitionsReferences": 0.3497629761695862
+      }
+    },
+    {
+      "sentence": "Interested candidates must fill out an application form available at designated offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6851004362106323,
+      "similarities": {
+        "ContextObjective": 0.4923762381076813,
+        "BenefitsAssistance": 0.46010854840278625,
+        "Eligibility": 0.6067725419998169,
+        "ApplicationProcess": 0.6851004362106323,
+        "TimelineFrequency": 0.5697168707847595,
+        "AuthoritiesGovernance": 0.47407111525535583,
+        "DefinitionsReferences": 0.49077868461608887
+      }
+    },
+    {
+      "sentence": "These offices include the Block Development Offices and the District Employment Exchanges.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4895220696926117,
+      "similarities": {
+        "ContextObjective": 0.40639448165893555,
+        "BenefitsAssistance": 0.40323787927627563,
+        "Eligibility": 0.4178540110588074,
+        "ApplicationProcess": 0.3900589644908905,
+        "TimelineFrequency": 0.4325752556324005,
+        "AuthoritiesGovernance": 0.4895220696926117,
+        "DefinitionsReferences": 0.40335071086883545
+      }
+    },
+    {
+      "sentence": "Applicants need to provide proof of their age, residence, and unemployment status.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6752809286117554,
+      "similarities": {
+        "ContextObjective": 0.49132367968559265,
+        "BenefitsAssistance": 0.5688318014144897,
+        "Eligibility": 0.6404419541358948,
+        "ApplicationProcess": 0.6752809286117554,
+        "TimelineFrequency": 0.6065642237663269,
+        "AuthoritiesGovernance": 0.4710158109664917,
+        "DefinitionsReferences": 0.4663248062133789
+      }
+    },
+    {
+      "sentence": "Required documents include aadhar card, educational certificates, and a self-declaration of unemployment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5602408647537231,
+      "similarities": {
+        "ContextObjective": 0.4413318634033203,
+        "BenefitsAssistance": 0.5368918180465698,
+        "Eligibility": 0.4912518262863159,
+        "ApplicationProcess": 0.5602408647537231,
+        "TimelineFrequency": 0.497711718082428,
+        "AuthoritiesGovernance": 0.4190352261066437,
+        "DefinitionsReferences": 0.46307218074798584
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6120513081550598,
+      "similarities": {
+        "ContextObjective": 0.428957998752594,
+        "BenefitsAssistance": 0.4635840654373169,
+        "Eligibility": 0.503865122795105,
+        "ApplicationProcess": 0.6120513081550598,
+        "TimelineFrequency": 0.5609571933746338,
+        "AuthoritiesGovernance": 0.44735193252563477,
+        "DefinitionsReferences": 0.45105642080307007
+      }
+    },
+    {
+      "sentence": "After successful verification, beneficiaries receive their stipend through direct bank transfer.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5314939618110657,
+      "similarities": {
+        "ContextObjective": 0.43659719824790955,
+        "BenefitsAssistance": 0.5314939618110657,
+        "Eligibility": 0.5307981967926025,
+        "ApplicationProcess": 0.5290728807449341,
+        "TimelineFrequency": 0.43316274881362915,
+        "AuthoritiesGovernance": 0.4319063425064087,
+        "DefinitionsReferences": 0.3965291976928711
+      }
+    },
+    {
+      "sentence": "The disbursement of the stipend occurs on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5811368823051453,
+      "similarities": {
+        "ContextObjective": 0.47481563687324524,
+        "BenefitsAssistance": 0.5811368823051453,
+        "Eligibility": 0.5045897960662842,
+        "ApplicationProcess": 0.4711349606513977,
+        "TimelineFrequency": 0.5501155853271484,
+        "AuthoritiesGovernance": 0.45804455876350403,
+        "DefinitionsReferences": 0.42002248764038086
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to engage in skill development programs during this period.",
+      "role": "Eligibility",
+      "confidence": 0.5093480348587036,
+      "similarities": {
+        "ContextObjective": 0.5043003559112549,
+        "BenefitsAssistance": 0.4929013252258301,
+        "Eligibility": 0.5093480348587036,
+        "ApplicationProcess": 0.4641720652580261,
+        "TimelineFrequency": 0.4909690022468567,
+        "AuthoritiesGovernance": 0.4511784315109253,
+        "DefinitionsReferences": 0.4579736590385437
+      }
+    },
+    {
+      "sentence": "The West Bengal government collaborates with various organizations to provide these training programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5324234962463379,
+      "similarities": {
+        "ContextObjective": 0.4547036588191986,
+        "BenefitsAssistance": 0.4131046533584595,
+        "Eligibility": 0.43627655506134033,
+        "ApplicationProcess": 0.4229682981967926,
+        "TimelineFrequency": 0.4327791929244995,
+        "AuthoritiesGovernance": 0.5324234962463379,
+        "DefinitionsReferences": 0.44412171840667725
+      }
+    },
+    {
+      "sentence": "These programs are designed to enhance employability and entrepreneurial skills among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.4943433403968811,
+      "similarities": {
+        "ContextObjective": 0.4943433403968811,
+        "BenefitsAssistance": 0.3815423250198364,
+        "Eligibility": 0.4294951260089874,
+        "ApplicationProcess": 0.399135023355484,
+        "TimelineFrequency": 0.42813336849212646,
+        "AuthoritiesGovernance": 0.3833460211753845,
+        "DefinitionsReferences": 0.3858051300048828
+      }
+    },
+    {
+      "sentence": "The scheme has seen a positive response since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.6150095462799072,
+      "similarities": {
+        "ContextObjective": 0.6150095462799072,
+        "BenefitsAssistance": 0.4539378881454468,
+        "Eligibility": 0.4768105745315552,
+        "ApplicationProcess": 0.46069958806037903,
+        "TimelineFrequency": 0.4239625930786133,
+        "AuthoritiesGovernance": 0.4377860426902771,
+        "DefinitionsReferences": 0.4082682728767395
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have reported improved job prospects after receiving the stipend.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4784584045410156,
+      "similarities": {
+        "ContextObjective": 0.443124920129776,
+        "BenefitsAssistance": 0.4784584045410156,
+        "Eligibility": 0.4727861285209656,
+        "ApplicationProcess": 0.38022446632385254,
+        "TimelineFrequency": 0.3880850672721863,
+        "AuthoritiesGovernance": 0.38439005613327026,
+        "DefinitionsReferences": 0.38351649045944214
+      }
+    },
+    {
+      "sentence": "The government regularly monitors the progress of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.533466100692749,
+      "similarities": {
+        "ContextObjective": 0.533466100692749,
+        "BenefitsAssistance": 0.48127514123916626,
+        "Eligibility": 0.4800257682800293,
+        "ApplicationProcess": 0.5295480489730835,
+        "TimelineFrequency": 0.455116331577301,
+        "AuthoritiesGovernance": 0.4953424334526062,
+        "DefinitionsReferences": 0.44875791668891907
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to assess the impact of the financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6003005504608154,
+      "similarities": {
+        "ContextObjective": 0.46096140146255493,
+        "BenefitsAssistance": 0.6003005504608154,
+        "Eligibility": 0.5493047833442688,
+        "ApplicationProcess": 0.46085116267204285,
+        "TimelineFrequency": 0.4315774440765381,
+        "AuthoritiesGovernance": 0.49325165152549744,
+        "DefinitionsReferences": 0.4520415663719177
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create a database of unemployed youth in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.4900406301021576,
+      "similarities": {
+        "ContextObjective": 0.4900406301021576,
+        "BenefitsAssistance": 0.387891948223114,
+        "Eligibility": 0.46875184774398804,
+        "ApplicationProcess": 0.4101733863353729,
+        "TimelineFrequency": 0.43518832325935364,
+        "AuthoritiesGovernance": 0.38085660338401794,
+        "DefinitionsReferences": 0.3439632058143616
+      }
+    },
+    {
+      "sentence": "This database will help in formulating future employment policies and programs.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5897237062454224,
+      "similarities": {
+        "ContextObjective": 0.5309180021286011,
+        "BenefitsAssistance": 0.5805730819702148,
+        "Eligibility": 0.558311402797699,
+        "ApplicationProcess": 0.5228060483932495,
+        "TimelineFrequency": 0.5625519156455994,
+        "AuthoritiesGovernance": 0.5397814512252808,
+        "DefinitionsReferences": 0.5897237062454224
+      }
+    },
+    {
+      "sentence": "Yuvasree Prakalpa is part of the larger initiative by the West Bengal government to tackle unemployment.",
+      "role": "ContextObjective",
+      "confidence": 0.44613519310951233,
+      "similarities": {
+        "ContextObjective": 0.44613519310951233,
+        "BenefitsAssistance": 0.39485275745391846,
+        "Eligibility": 0.38645151257514954,
+        "ApplicationProcess": 0.3679189085960388,
+        "TimelineFrequency": 0.3611927032470703,
+        "AuthoritiesGovernance": 0.4236670434474945,
+        "DefinitionsReferences": 0.3167639374732971
+      }
+    },
+    {
+      "sentence": "The state has been focusing on skill development and entrepreneurship as key areas for economic growth.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4151812791824341,
+      "similarities": {
+        "ContextObjective": 0.41414737701416016,
+        "BenefitsAssistance": 0.3972032964229584,
+        "Eligibility": 0.38217103481292725,
+        "ApplicationProcess": 0.36351239681243896,
+        "TimelineFrequency": 0.371939480304718,
+        "AuthoritiesGovernance": 0.3584837317466736,
+        "DefinitionsReferences": 0.4151812791824341
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the national agenda of promoting job creation and self-employment.",
+      "role": "ContextObjective",
+      "confidence": 0.5559954643249512,
+      "similarities": {
+        "ContextObjective": 0.5559954643249512,
+        "BenefitsAssistance": 0.3984968662261963,
+        "Eligibility": 0.4278666079044342,
+        "ApplicationProcess": 0.4010423421859741,
+        "TimelineFrequency": 0.3864176571369171,
+        "AuthoritiesGovernance": 0.37231290340423584,
+        "DefinitionsReferences": 0.33472055196762085
+      }
+    },
+    {
+      "sentence": "The government plans to expand the reach of Yuvasree Prakalpa in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.4752815365791321,
+      "similarities": {
+        "ContextObjective": 0.4752815365791321,
+        "BenefitsAssistance": 0.4129181206226349,
+        "Eligibility": 0.4503931999206543,
+        "ApplicationProcess": 0.41503801941871643,
+        "TimelineFrequency": 0.38501036167144775,
+        "AuthoritiesGovernance": 0.4398132264614105,
+        "DefinitionsReferences": 0.3935072422027588
+      }
+    },
+    {
+      "sentence": "This expansion will include increasing the budget and the number of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5336210131645203,
+      "similarities": {
+        "ContextObjective": 0.4460222125053406,
+        "BenefitsAssistance": 0.5336210131645203,
+        "Eligibility": 0.4989139437675476,
+        "ApplicationProcess": 0.39306169748306274,
+        "TimelineFrequency": 0.433176189661026,
+        "AuthoritiesGovernance": 0.42692089080810547,
+        "DefinitionsReferences": 0.4128592610359192
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing a safety net for unemployed youth.",
+      "role": "ContextObjective",
+      "confidence": 0.501908540725708,
+      "similarities": {
+        "ContextObjective": 0.501908540725708,
+        "BenefitsAssistance": 0.41949138045310974,
+        "Eligibility": 0.43527889251708984,
+        "ApplicationProcess": 0.3570369780063629,
+        "TimelineFrequency": 0.35993504524230957,
+        "AuthoritiesGovernance": 0.34665679931640625,
+        "DefinitionsReferences": 0.31359463930130005
+      }
+    },
+    {
+      "sentence": "It has also encouraged many to pursue further education and skill enhancement.",
+      "role": "ContextObjective",
+      "confidence": 0.4805540442466736,
+      "similarities": {
+        "ContextObjective": 0.4805540442466736,
+        "BenefitsAssistance": 0.41245800256729126,
+        "Eligibility": 0.397149920463562,
+        "ApplicationProcess": 0.4171140193939209,
+        "TimelineFrequency": 0.3951822519302368,
+        "AuthoritiesGovernance": 0.38725942373275757,
+        "DefinitionsReferences": 0.43277478218078613
+      }
+    },
+    {
+      "sentence": "The success of Yuvasree Prakalpa has led to discussions about similar schemes in other states.",
+      "role": "ContextObjective",
+      "confidence": 0.5012537240982056,
+      "similarities": {
+        "ContextObjective": 0.5012537240982056,
+        "BenefitsAssistance": 0.41029122471809387,
+        "Eligibility": 0.44883155822753906,
+        "ApplicationProcess": 0.39520391821861267,
+        "TimelineFrequency": 0.3504277467727661,
+        "AuthoritiesGovernance": 0.41785672307014465,
+        "DefinitionsReferences": 0.3764533996582031
+      }
+    },
+    {
+      "sentence": "The West Bengal government continues to promote awareness about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5043115615844727,
+      "similarities": {
+        "ContextObjective": 0.5043115615844727,
+        "BenefitsAssistance": 0.4144247770309448,
+        "Eligibility": 0.42469000816345215,
+        "ApplicationProcess": 0.42942941188812256,
+        "TimelineFrequency": 0.37944459915161133,
+        "AuthoritiesGovernance": 0.4513895511627197,
+        "DefinitionsReferences": 0.39249056577682495
+      }
+    },
+    {
+      "sentence": "Workshops and information sessions are conducted to educate youth about the benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.48145174980163574,
+      "similarities": {
+        "ContextObjective": 0.48145174980163574,
+        "BenefitsAssistance": 0.4693971872329712,
+        "Eligibility": 0.4419785737991333,
+        "ApplicationProcess": 0.43678635358810425,
+        "TimelineFrequency": 0.43059319257736206,
+        "AuthoritiesGovernance": 0.4593183398246765,
+        "DefinitionsReferences": 0.4300365447998047
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for its direct approach to tackling unemployment.",
+      "role": "ContextObjective",
+      "confidence": 0.5264112949371338,
+      "similarities": {
+        "ContextObjective": 0.5264112949371338,
+        "BenefitsAssistance": 0.42670154571533203,
+        "Eligibility": 0.42510363459587097,
+        "ApplicationProcess": 0.39565104246139526,
+        "TimelineFrequency": 0.40080273151397705,
+        "AuthoritiesGovernance": 0.38258224725723267,
+        "DefinitionsReferences": 0.3381088376045227
+      }
+    },
+    {
+      "sentence": "It provides immediate financial relief while also encouraging long-term career development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.445824533700943,
+      "similarities": {
+        "ContextObjective": 0.42004525661468506,
+        "BenefitsAssistance": 0.445824533700943,
+        "Eligibility": 0.3603566288948059,
+        "ApplicationProcess": 0.35430198907852173,
+        "TimelineFrequency": 0.3622080087661743,
+        "AuthoritiesGovernance": 0.3022049367427826,
+        "DefinitionsReferences": 0.3290748596191406
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the funds are utilized effectively.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5263356566429138,
+      "similarities": {
+        "ContextObjective": 0.49298667907714844,
+        "BenefitsAssistance": 0.5020357370376587,
+        "Eligibility": 0.5071254968643188,
+        "ApplicationProcess": 0.46876341104507446,
+        "TimelineFrequency": 0.4298403263092041,
+        "AuthoritiesGovernance": 0.5263356566429138,
+        "DefinitionsReferences": 0.447465181350708
+      }
+    },
+    {
+      "sentence": "Regular audits and evaluations are conducted to maintain transparency.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5186161994934082,
+      "similarities": {
+        "ContextObjective": 0.4177089333534241,
+        "BenefitsAssistance": 0.4971200227737427,
+        "Eligibility": 0.44682836532592773,
+        "ApplicationProcess": 0.5099185705184937,
+        "TimelineFrequency": 0.45159217715263367,
+        "AuthoritiesGovernance": 0.5186161994934082,
+        "DefinitionsReferences": 0.4727266728878021
+      }
+    },
+    {
+      "sentence": "Yuvasree Prakalpa has become a model for other states to emulate.",
+      "role": "ContextObjective",
+      "confidence": 0.4186265766620636,
+      "similarities": {
+        "ContextObjective": 0.4186265766620636,
+        "BenefitsAssistance": 0.34802377223968506,
+        "Eligibility": 0.3889457583427429,
+        "ApplicationProcess": 0.3595280945301056,
+        "TimelineFrequency": 0.32081782817840576,
+        "AuthoritiesGovernance": 0.36828505992889404,
+        "DefinitionsReferences": 0.3753657042980194
+      }
+    },
+    {
+      "sentence": "The focus on youth empowerment through financial assistance is a key takeaway from this initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.477567583322525,
+      "similarities": {
+        "ContextObjective": 0.4495163559913635,
+        "BenefitsAssistance": 0.477567583322525,
+        "Eligibility": 0.4140947461128235,
+        "ApplicationProcess": 0.35911324620246887,
+        "TimelineFrequency": 0.3551309108734131,
+        "AuthoritiesGovernance": 0.3760804831981659,
+        "DefinitionsReferences": 0.36351922154426575
+      }
+    },
+    {
+      "sentence": "The scheme has also fostered a sense of community among beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5273019671440125,
+      "similarities": {
+        "ContextObjective": 0.5273019671440125,
+        "BenefitsAssistance": 0.42605358362197876,
+        "Eligibility": 0.45513850450515747,
+        "ApplicationProcess": 0.366679847240448,
+        "TimelineFrequency": 0.3419651389122009,
+        "AuthoritiesGovernance": 0.3986223340034485,
+        "DefinitionsReferences": 0.3631601631641388
+      }
+    },
+    {
+      "sentence": "Many have formed groups to share job opportunities and resources.",
+      "role": "ContextObjective",
+      "confidence": 0.5002903938293457,
+      "similarities": {
+        "ContextObjective": 0.5002903938293457,
+        "BenefitsAssistance": 0.438437283039093,
+        "Eligibility": 0.48655956983566284,
+        "ApplicationProcess": 0.4297176003456116,
+        "TimelineFrequency": 0.45432502031326294,
+        "AuthoritiesGovernance": 0.48375052213668823,
+        "DefinitionsReferences": 0.4620157778263092
+      }
+    },
+    {
+      "sentence": "The government encourages such collaborations to enhance the impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5259941816329956,
+      "similarities": {
+        "ContextObjective": 0.5259941816329956,
+        "BenefitsAssistance": 0.4180854558944702,
+        "Eligibility": 0.45157259702682495,
+        "ApplicationProcess": 0.3937130868434906,
+        "TimelineFrequency": 0.3752579092979431,
+        "AuthoritiesGovernance": 0.4404747486114502,
+        "DefinitionsReferences": 0.4068792760372162
+      }
+    },
+    {
+      "sentence": "Yuvasree Prakalpa is a testament to the West Bengal government's commitment to youth welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.3789566159248352,
+      "similarities": {
+        "ContextObjective": 0.3789566159248352,
+        "BenefitsAssistance": 0.34444209933280945,
+        "Eligibility": 0.34581640362739563,
+        "ApplicationProcess": 0.31092578172683716,
+        "TimelineFrequency": 0.2867751121520996,
+        "AuthoritiesGovernance": 0.3236231803894043,
+        "DefinitionsReferences": 0.31996476650238037
+      }
+    },
+    {
+      "sentence": "It reflects a proactive approach to addressing the challenges of unemployment in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4395156502723694,
+      "similarities": {
+        "ContextObjective": 0.4395156502723694,
+        "BenefitsAssistance": 0.42068547010421753,
+        "Eligibility": 0.4187426269054413,
+        "ApplicationProcess": 0.40137797594070435,
+        "TimelineFrequency": 0.41409313678741455,
+        "AuthoritiesGovernance": 0.41142550110816956,
+        "DefinitionsReferences": 0.35896384716033936
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve based on the needs and feedback of its beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5690300464630127,
+      "similarities": {
+        "ContextObjective": 0.5690300464630127,
+        "BenefitsAssistance": 0.4756782054901123,
+        "Eligibility": 0.5200185179710388,
+        "ApplicationProcess": 0.4556559920310974,
+        "TimelineFrequency": 0.43902644515037537,
+        "AuthoritiesGovernance": 0.4749826192855835,
+        "DefinitionsReferences": 0.43027445673942566
+      }
+    },
+    {
+      "sentence": "Overall, Yuvasree Prakalpa stands as a significant step towards achieving economic stability for the youth of West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.4080076217651367,
+      "similarities": {
+        "ContextObjective": 0.4080076217651367,
+        "BenefitsAssistance": 0.34940284490585327,
+        "Eligibility": 0.3415201008319855,
+        "ApplicationProcess": 0.3304484784603119,
+        "TimelineFrequency": 0.2947281301021576,
+        "AuthoritiesGovernance": 0.31452545523643494,
+        "DefinitionsReferences": 0.32385167479515076
+      }
+    },
+    {
+      "sentence": "It embodies the spirit of empowerment and self-reliance among young individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.45236074924468994,
+      "similarities": {
+        "ContextObjective": 0.45236074924468994,
+        "BenefitsAssistance": 0.3591325879096985,
+        "Eligibility": 0.3529306650161743,
+        "ApplicationProcess": 0.3277321457862854,
+        "TimelineFrequency": 0.32732537388801575,
+        "AuthoritiesGovernance": 0.3423043191432953,
+        "DefinitionsReferences": 0.34251320362091064
+      }
+    },
+    {
+      "sentence": "The ongoing support and resources provided under this scheme are vital for the future of the state's workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.5047479867935181,
+      "similarities": {
+        "ContextObjective": 0.5047479867935181,
+        "BenefitsAssistance": 0.4665858745574951,
+        "Eligibility": 0.4395199418067932,
+        "ApplicationProcess": 0.39650800824165344,
+        "TimelineFrequency": 0.4217931628227234,
+        "AuthoritiesGovernance": 0.40226101875305176,
+        "DefinitionsReferences": 0.40541183948516846
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to refining and enhancing the scheme to better serve the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.486123263835907,
+      "similarities": {
+        "ContextObjective": 0.486123263835907,
+        "BenefitsAssistance": 0.3690938353538513,
+        "Eligibility": 0.38996022939682007,
+        "ApplicationProcess": 0.3966945707798004,
+        "TimelineFrequency": 0.3564566373825073,
+        "AuthoritiesGovernance": 0.4384315013885498,
+        "DefinitionsReferences": 0.395418643951416
+      }
+    },
+    {
+      "sentence": "As of October 2023, Yuvasree Prakalpa remains a crucial component of West Bengal's welfare initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.4387699067592621,
+      "similarities": {
+        "ContextObjective": 0.4387699067592621,
+        "BenefitsAssistance": 0.3805510401725769,
+        "Eligibility": 0.3907567858695984,
+        "ApplicationProcess": 0.3320496380329132,
+        "TimelineFrequency": 0.3353336751461029,
+        "AuthoritiesGovernance": 0.38780874013900757,
+        "DefinitionsReferences": 0.34348610043525696
+      }
+    },
+    {
+      "sentence": "Its impact on the lives of unemployed youth is a clear indication of its success.",
+      "role": "ContextObjective",
+      "confidence": 0.45462286472320557,
+      "similarities": {
+        "ContextObjective": 0.45462286472320557,
+        "BenefitsAssistance": 0.39027583599090576,
+        "Eligibility": 0.36886581778526306,
+        "ApplicationProcess": 0.3268553614616394,
+        "TimelineFrequency": 0.34428977966308594,
+        "AuthoritiesGovernance": 0.3386515974998474,
+        "DefinitionsReferences": 0.33183610439300537
+      }
+    },
+    {
+      "sentence": "The scheme is a prime example of how targeted financial assistance can lead to meaningful change.",
+      "role": "ContextObjective",
+      "confidence": 0.5392801761627197,
+      "similarities": {
+        "ContextObjective": 0.5392801761627197,
+        "BenefitsAssistance": 0.4761916995048523,
+        "Eligibility": 0.49880048632621765,
+        "ApplicationProcess": 0.3984323740005493,
+        "TimelineFrequency": 0.38847729563713074,
+        "AuthoritiesGovernance": 0.3986833095550537,
+        "DefinitionsReferences": 0.36836421489715576
+      }
+    },
+    {
+      "sentence": "The West Bengal government continues to advocate for the rights and opportunities of its young population.",
+      "role": "ContextObjective",
+      "confidence": 0.43403518199920654,
+      "similarities": {
+        "ContextObjective": 0.43403518199920654,
+        "BenefitsAssistance": 0.34102874994277954,
+        "Eligibility": 0.396295428276062,
+        "ApplicationProcess": 0.36591291427612305,
+        "TimelineFrequency": 0.342873215675354,
+        "AuthoritiesGovernance": 0.4202834367752075,
+        "DefinitionsReferences": 0.38200896978378296
+      }
+    },
+    {
+      "sentence": "Yuvasree Prakalpa is not just a financial scheme but a pathway to empowerment and growth.",
+      "role": "ContextObjective",
+      "confidence": 0.49354761838912964,
+      "similarities": {
+        "ContextObjective": 0.49354761838912964,
+        "BenefitsAssistance": 0.42320358753204346,
+        "Eligibility": 0.40737226605415344,
+        "ApplicationProcess": 0.35946232080459595,
+        "TimelineFrequency": 0.34124064445495605,
+        "AuthoritiesGovernance": 0.3633434772491455,
+        "DefinitionsReferences": 0.33495691418647766
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 35,
+    "Eligibility": 7,
+    "BenefitsAssistance": 10,
+    "ApplicationProcess": 6,
+    "AuthoritiesGovernance": 4,
+    "DefinitionsReferences": 2
+  },
+  "processing_timestamp": "2025-09-25T20:35:05.348464"
+}

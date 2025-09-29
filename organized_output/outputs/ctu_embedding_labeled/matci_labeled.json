@@ -1,0 +1,660 @@
+{
+  "scheme_name": "Medical Assistance for the Treatment of Critical Illness",
+  "total_sentences": 46,
+  "labeled_sentences": [
+    {
+      "sentence": "The Medical Assistance for the Treatment of Critical Illness scheme is a significant initiative launched by the Government of India to provide financial support for individuals suffering from life-threatening diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5443017482757568,
+      "similarities": {
+        "ContextObjective": 0.5224064588546753,
+        "BenefitsAssistance": 0.5443017482757568,
+        "Eligibility": 0.5159235000610352,
+        "ApplicationProcess": 0.4424665868282318,
+        "TimelineFrequency": 0.42438971996307373,
+        "AuthoritiesGovernance": 0.4544423818588257,
+        "DefinitionsReferences": 0.38838112354278564
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in 2018 as a part of the broader health initiatives aimed at improving healthcare access for economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.48916739225387573,
+      "similarities": {
+        "ContextObjective": 0.48916739225387573,
+        "BenefitsAssistance": 0.42605501413345337,
+        "Eligibility": 0.4339509606361389,
+        "ApplicationProcess": 0.41280674934387207,
+        "TimelineFrequency": 0.3715675175189972,
+        "AuthoritiesGovernance": 0.38067570328712463,
+        "DefinitionsReferences": 0.31128329038619995
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to alleviate the financial burden on families facing critical illnesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5130460858345032,
+      "similarities": {
+        "ContextObjective": 0.5114953517913818,
+        "BenefitsAssistance": 0.5130460858345032,
+        "Eligibility": 0.45523568987846375,
+        "ApplicationProcess": 0.38363558053970337,
+        "TimelineFrequency": 0.3563440144062042,
+        "AuthoritiesGovernance": 0.36188071966171265,
+        "DefinitionsReferences": 0.3102301359176636
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide timely medical assistance to individuals diagnosed with severe health conditions such as cancer, heart diseases, kidney failure, and other critical ailments.",
+      "role": "Eligibility",
+      "confidence": 0.5355194211006165,
+      "similarities": {
+        "ContextObjective": 0.5015691518783569,
+        "BenefitsAssistance": 0.5127295851707458,
+        "Eligibility": 0.5355194211006165,
+        "ApplicationProcess": 0.4445311427116394,
+        "TimelineFrequency": 0.4526249170303345,
+        "AuthoritiesGovernance": 0.4184788465499878,
+        "DefinitionsReferences": 0.3654431104660034
+      }
+    },
+    {
+      "sentence": "The target beneficiaries of this scheme include individuals from low-income families who may not have the financial means to afford expensive medical treatments.",
+      "role": "Eligibility",
+      "confidence": 0.525995135307312,
+      "similarities": {
+        "ContextObjective": 0.4507267475128174,
+        "BenefitsAssistance": 0.45451319217681885,
+        "Eligibility": 0.525995135307312,
+        "ApplicationProcess": 0.3426666557788849,
+        "TimelineFrequency": 0.3327409625053406,
+        "AuthoritiesGovernance": 0.33676427602767944,
+        "DefinitionsReferences": 0.2940880060195923
+      }
+    },
+    {
+      "sentence": "The scheme is designed to cover a wide range of medical expenses associated with the treatment of critical illnesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5875675082206726,
+      "similarities": {
+        "ContextObjective": 0.5052493214607239,
+        "BenefitsAssistance": 0.5875675082206726,
+        "Eligibility": 0.5143803358078003,
+        "ApplicationProcess": 0.42490947246551514,
+        "TimelineFrequency": 0.4499707818031311,
+        "AuthoritiesGovernance": 0.38808923959732056,
+        "DefinitionsReferences": 0.4226588010787964
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries can receive financial assistance of up to ₹5 lakh per year for treatment costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5905752182006836,
+      "similarities": {
+        "ContextObjective": 0.42283788323402405,
+        "BenefitsAssistance": 0.5905752182006836,
+        "Eligibility": 0.5363290309906006,
+        "ApplicationProcess": 0.4290984570980072,
+        "TimelineFrequency": 0.4010586738586426,
+        "AuthoritiesGovernance": 0.38713309168815613,
+        "DefinitionsReferences": 0.3841709494590759
+      }
+    },
+    {
+      "sentence": "This amount can be utilized for hospitalization, surgeries, and other necessary medical procedures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6023517847061157,
+      "similarities": {
+        "ContextObjective": 0.4240889251232147,
+        "BenefitsAssistance": 0.6023517847061157,
+        "Eligibility": 0.4836898744106293,
+        "ApplicationProcess": 0.4632076621055603,
+        "TimelineFrequency": 0.465412437915802,
+        "AuthoritiesGovernance": 0.41655826568603516,
+        "DefinitionsReferences": 0.46098870038986206
+      }
+    },
+    {
+      "sentence": "The scheme also covers pre and post-hospitalization expenses which are often a significant part of the overall treatment costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5580897331237793,
+      "similarities": {
+        "ContextObjective": 0.4385201334953308,
+        "BenefitsAssistance": 0.5580897331237793,
+        "Eligibility": 0.41506052017211914,
+        "ApplicationProcess": 0.4176669716835022,
+        "TimelineFrequency": 0.40144842863082886,
+        "AuthoritiesGovernance": 0.3920249342918396,
+        "DefinitionsReferences": 0.38966310024261475
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must belong to the economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.5796162486076355,
+      "similarities": {
+        "ContextObjective": 0.46388131380081177,
+        "BenefitsAssistance": 0.4032260775566101,
+        "Eligibility": 0.5796162486076355,
+        "ApplicationProcess": 0.47346121072769165,
+        "TimelineFrequency": 0.44998329877853394,
+        "AuthoritiesGovernance": 0.3801059424877167,
+        "DefinitionsReferences": 0.3187355399131775
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹3 lakh per annum for families.",
+      "role": "Eligibility",
+      "confidence": 0.5857111215591431,
+      "similarities": {
+        "ContextObjective": 0.438177227973938,
+        "BenefitsAssistance": 0.48437947034835815,
+        "Eligibility": 0.5857111215591431,
+        "ApplicationProcess": 0.450437992811203,
+        "TimelineFrequency": 0.4244774878025055,
+        "AuthoritiesGovernance": 0.36000534892082214,
+        "DefinitionsReferences": 0.36451733112335205
+      }
+    },
+    {
+      "sentence": "This income criterion ensures that the benefits reach those who are genuinely in need of financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5259431600570679,
+      "similarities": {
+        "ContextObjective": 0.47494953870773315,
+        "BenefitsAssistance": 0.5259431600570679,
+        "Eligibility": 0.5232096910476685,
+        "ApplicationProcess": 0.42507973313331604,
+        "TimelineFrequency": 0.40961265563964844,
+        "AuthoritiesGovernance": 0.34682902693748474,
+        "DefinitionsReferences": 0.3388863801956177
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme is applicable to individuals of all age groups.",
+      "role": "Eligibility",
+      "confidence": 0.5732192993164062,
+      "similarities": {
+        "ContextObjective": 0.5078781843185425,
+        "BenefitsAssistance": 0.4993319511413574,
+        "Eligibility": 0.5732192993164062,
+        "ApplicationProcess": 0.4562219977378845,
+        "TimelineFrequency": 0.4747045040130615,
+        "AuthoritiesGovernance": 0.45267462730407715,
+        "DefinitionsReferences": 0.4280485212802887
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49370497465133667,
+      "similarities": {
+        "ContextObjective": 0.4676801264286041,
+        "BenefitsAssistance": 0.3654477000236511,
+        "Eligibility": 0.49370497465133667,
+        "ApplicationProcess": 0.46376174688339233,
+        "TimelineFrequency": 0.41034406423568726,
+        "AuthoritiesGovernance": 0.32643362879753113,
+        "DefinitionsReferences": 0.29340898990631104
+      }
+    },
+    {
+      "sentence": "The application process for the Medical Assistance for the Treatment of Critical Illness scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5313082933425903,
+      "similarities": {
+        "ContextObjective": 0.4749316871166229,
+        "BenefitsAssistance": 0.4537850022315979,
+        "Eligibility": 0.49164023995399475,
+        "ApplicationProcess": 0.5313082933425903,
+        "TimelineFrequency": 0.45712020993232727,
+        "AuthoritiesGovernance": 0.3902556002140045,
+        "DefinitionsReferences": 0.3363814055919647
+      }
+    },
+    {
+      "sentence": "Interested individuals must fill out the application form available on the official government health website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6794313192367554,
+      "similarities": {
+        "ContextObjective": 0.4724620282649994,
+        "BenefitsAssistance": 0.4892547130584717,
+        "Eligibility": 0.5841522812843323,
+        "ApplicationProcess": 0.6794313192367554,
+        "TimelineFrequency": 0.4924297630786896,
+        "AuthoritiesGovernance": 0.46511465311050415,
+        "DefinitionsReferences": 0.4427500367164612
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7019224166870117,
+      "similarities": {
+        "ContextObjective": 0.5078127980232239,
+        "BenefitsAssistance": 0.5981009006500244,
+        "Eligibility": 0.645250678062439,
+        "ApplicationProcess": 0.7019224166870117,
+        "TimelineFrequency": 0.5861561894416809,
+        "AuthoritiesGovernance": 0.46677321195602417,
+        "DefinitionsReferences": 0.527523398399353
+      }
+    },
+    {
+      "sentence": "Applicants must also provide medical documents confirming the diagnosis of a critical illness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5774820446968079,
+      "similarities": {
+        "ContextObjective": 0.4069210886955261,
+        "BenefitsAssistance": 0.5082014799118042,
+        "Eligibility": 0.5331019759178162,
+        "ApplicationProcess": 0.5774820446968079,
+        "TimelineFrequency": 0.4888693690299988,
+        "AuthoritiesGovernance": 0.37468433380126953,
+        "DefinitionsReferences": 0.45009922981262207
+      }
+    },
+    {
+      "sentence": "These documents typically include medical reports from recognized hospitals or healthcare providers.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5389942526817322,
+      "similarities": {
+        "ContextObjective": 0.41977953910827637,
+        "BenefitsAssistance": 0.532830536365509,
+        "Eligibility": 0.455272376537323,
+        "ApplicationProcess": 0.48173731565475464,
+        "TimelineFrequency": 0.44475990533828735,
+        "AuthoritiesGovernance": 0.49143970012664795,
+        "DefinitionsReferences": 0.5389942526817322
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the designated health department office in the applicant's district.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5706349015235901,
+      "similarities": {
+        "ContextObjective": 0.3788462281227112,
+        "BenefitsAssistance": 0.39275601506233215,
+        "Eligibility": 0.5160969495773315,
+        "ApplicationProcess": 0.5706349015235901,
+        "TimelineFrequency": 0.47305768728256226,
+        "AuthoritiesGovernance": 0.4557698965072632,
+        "DefinitionsReferences": 0.3643324375152588
+      }
+    },
+    {
+      "sentence": "The application can also be submitted online through the official health portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6585338115692139,
+      "similarities": {
+        "ContextObjective": 0.4180537462234497,
+        "BenefitsAssistance": 0.4807022213935852,
+        "Eligibility": 0.5344036221504211,
+        "ApplicationProcess": 0.6585338115692139,
+        "TimelineFrequency": 0.511691689491272,
+        "AuthoritiesGovernance": 0.4295397102832794,
+        "DefinitionsReferences": 0.3976147472858429
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by a committee of medical professionals.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5890300273895264,
+      "similarities": {
+        "ContextObjective": 0.4652099907398224,
+        "BenefitsAssistance": 0.4551793932914734,
+        "Eligibility": 0.5264430046081543,
+        "ApplicationProcess": 0.5890300273895264,
+        "TimelineFrequency": 0.5151318311691284,
+        "AuthoritiesGovernance": 0.47166016697883606,
+        "DefinitionsReferences": 0.4088123142719269
+      }
+    },
+    {
+      "sentence": "This committee will verify the authenticity of the medical documents and the financial status of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.573727548122406,
+      "similarities": {
+        "ContextObjective": 0.4574964940547943,
+        "BenefitsAssistance": 0.569825291633606,
+        "Eligibility": 0.5092378854751587,
+        "ApplicationProcess": 0.573727548122406,
+        "TimelineFrequency": 0.4762263596057892,
+        "AuthoritiesGovernance": 0.4541814625263214,
+        "DefinitionsReferences": 0.45387542247772217
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications is generally around 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.654920220375061,
+      "similarities": {
+        "ContextObjective": 0.47422951459884644,
+        "BenefitsAssistance": 0.44479116797447205,
+        "Eligibility": 0.5467584133148193,
+        "ApplicationProcess": 0.6017864942550659,
+        "TimelineFrequency": 0.654920220375061,
+        "AuthoritiesGovernance": 0.4601573050022125,
+        "DefinitionsReferences": 0.44244474172592163
+      }
+    },
+    {
+      "sentence": "Once approved, the financial assistance is disbursed directly to the hospital or healthcare provider where the treatment will take place.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5504236221313477,
+      "similarities": {
+        "ContextObjective": 0.36488044261932373,
+        "BenefitsAssistance": 0.5504236221313477,
+        "Eligibility": 0.48657336831092834,
+        "ApplicationProcess": 0.4499722421169281,
+        "TimelineFrequency": 0.38242924213409424,
+        "AuthoritiesGovernance": 0.4580562710762024,
+        "DefinitionsReferences": 0.33894622325897217
+      }
+    },
+    {
+      "sentence": "This ensures that the funds are utilized specifically for medical expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5874825716018677,
+      "similarities": {
+        "ContextObjective": 0.44009923934936523,
+        "BenefitsAssistance": 0.5874825716018677,
+        "Eligibility": 0.49460485577583313,
+        "ApplicationProcess": 0.44380903244018555,
+        "TimelineFrequency": 0.4221693277359009,
+        "AuthoritiesGovernance": 0.3982464671134949,
+        "DefinitionsReferences": 0.4179364740848541
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Health and Family Welfare in collaboration with state health departments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5086833834648132,
+      "similarities": {
+        "ContextObjective": 0.45708632469177246,
+        "BenefitsAssistance": 0.4515324831008911,
+        "Eligibility": 0.4616672694683075,
+        "ApplicationProcess": 0.4312734603881836,
+        "TimelineFrequency": 0.3829958140850067,
+        "AuthoritiesGovernance": 0.5086833834648132,
+        "DefinitionsReferences": 0.36960798501968384
+      }
+    },
+    {
+      "sentence": "Each state has its own designated health authority responsible for overseeing the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5865713357925415,
+      "similarities": {
+        "ContextObjective": 0.464241087436676,
+        "BenefitsAssistance": 0.4558666944503784,
+        "Eligibility": 0.5137314200401306,
+        "ApplicationProcess": 0.4561167359352112,
+        "TimelineFrequency": 0.41345804929733276,
+        "AuthoritiesGovernance": 0.5865713357925415,
+        "DefinitionsReferences": 0.44995835423469543
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, beneficiaries can contact the helpline number provided on the official website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5351080894470215,
+      "similarities": {
+        "ContextObjective": 0.4139184057712555,
+        "BenefitsAssistance": 0.5351080894470215,
+        "Eligibility": 0.5175743699073792,
+        "ApplicationProcess": 0.46318697929382324,
+        "TimelineFrequency": 0.38680344820022583,
+        "AuthoritiesGovernance": 0.47909989953041077,
+        "DefinitionsReferences": 0.39749380946159363
+      }
+    },
+    {
+      "sentence": "The helpline operates from Monday to Friday during business hours.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5151716470718384,
+      "similarities": {
+        "ContextObjective": 0.44234201312065125,
+        "BenefitsAssistance": 0.4945625066757202,
+        "Eligibility": 0.45789605379104614,
+        "ApplicationProcess": 0.44519466161727905,
+        "TimelineFrequency": 0.5151716470718384,
+        "AuthoritiesGovernance": 0.45402929186820984,
+        "DefinitionsReferences": 0.41113409399986267
+      }
+    },
+    {
+      "sentence": "In addition to the financial assistance, the scheme also aims to raise awareness about critical illnesses and the importance of early diagnosis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4987671971321106,
+      "similarities": {
+        "ContextObjective": 0.4680429697036743,
+        "BenefitsAssistance": 0.4987671971321106,
+        "Eligibility": 0.44151681661605835,
+        "ApplicationProcess": 0.39895617961883545,
+        "TimelineFrequency": 0.38074421882629395,
+        "AuthoritiesGovernance": 0.31390202045440674,
+        "DefinitionsReferences": 0.3190212547779083
+      }
+    },
+    {
+      "sentence": "Workshops and informational sessions are conducted in various regions to educate the public about available healthcare services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5073361396789551,
+      "similarities": {
+        "ContextObjective": 0.4546434283256531,
+        "BenefitsAssistance": 0.4764685034751892,
+        "Eligibility": 0.4702252745628357,
+        "ApplicationProcess": 0.42435890436172485,
+        "TimelineFrequency": 0.4422263205051422,
+        "AuthoritiesGovernance": 0.5073361396789551,
+        "DefinitionsReferences": 0.40926265716552734
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme has benefitted thousands of families across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5200453996658325,
+      "similarities": {
+        "ContextObjective": 0.5200453996658325,
+        "BenefitsAssistance": 0.45702898502349854,
+        "Eligibility": 0.49800974130630493,
+        "ApplicationProcess": 0.3873167634010315,
+        "TimelineFrequency": 0.3956504762172699,
+        "AuthoritiesGovernance": 0.377918541431427,
+        "DefinitionsReferences": 0.36183494329452515
+      }
+    },
+    {
+      "sentence": "Reports indicate that over 1 lakh applications have been received since its inception.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4656125605106354,
+      "similarities": {
+        "ContextObjective": 0.4608686566352844,
+        "BenefitsAssistance": 0.4076472520828247,
+        "Eligibility": 0.43524405360221863,
+        "ApplicationProcess": 0.4656125605106354,
+        "TimelineFrequency": 0.43214553594589233,
+        "AuthoritiesGovernance": 0.38833439350128174,
+        "DefinitionsReferences": 0.37018975615501404
+      }
+    },
+    {
+      "sentence": "Out of these, approximately 85 percent have been approved for financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5055463314056396,
+      "similarities": {
+        "ContextObjective": 0.3881852328777313,
+        "BenefitsAssistance": 0.5055463314056396,
+        "Eligibility": 0.4908720850944519,
+        "ApplicationProcess": 0.4449233412742615,
+        "TimelineFrequency": 0.41401252150535583,
+        "AuthoritiesGovernance": 0.3983036279678345,
+        "DefinitionsReferences": 0.3636705279350281
+      }
+    },
+    {
+      "sentence": "The scheme has significantly reduced the out-of-pocket expenditure for families facing critical health challenges.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45756813883781433,
+      "similarities": {
+        "ContextObjective": 0.37784343957901,
+        "BenefitsAssistance": 0.45756813883781433,
+        "Eligibility": 0.3904050290584564,
+        "ApplicationProcess": 0.33018428087234497,
+        "TimelineFrequency": 0.2831451892852783,
+        "AuthoritiesGovernance": 0.28689631819725037,
+        "DefinitionsReferences": 0.24070832133293152
+      }
+    },
+    {
+      "sentence": "It has also contributed to improving health outcomes for many patients who would otherwise have delayed or avoided treatment due to financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48918116092681885,
+      "similarities": {
+        "ContextObjective": 0.36200135946273804,
+        "BenefitsAssistance": 0.48918116092681885,
+        "Eligibility": 0.39757686853408813,
+        "ApplicationProcess": 0.3385772705078125,
+        "TimelineFrequency": 0.35152575373649597,
+        "AuthoritiesGovernance": 0.34202173352241516,
+        "DefinitionsReferences": 0.3273892402648926
+      }
+    },
+    {
+      "sentence": "The government continuously monitors the scheme to ensure its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5347404479980469,
+      "similarities": {
+        "ContextObjective": 0.5347404479980469,
+        "BenefitsAssistance": 0.45445775985717773,
+        "Eligibility": 0.5109994411468506,
+        "ApplicationProcess": 0.5018025636672974,
+        "TimelineFrequency": 0.4325961768627167,
+        "AuthoritiesGovernance": 0.5245426893234253,
+        "DefinitionsReferences": 0.4387819766998291
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to make necessary adjustments and improvements.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.556352972984314,
+      "similarities": {
+        "ContextObjective": 0.4848088026046753,
+        "BenefitsAssistance": 0.5557844638824463,
+        "Eligibility": 0.5562422871589661,
+        "ApplicationProcess": 0.5247689485549927,
+        "TimelineFrequency": 0.48052993416786194,
+        "AuthoritiesGovernance": 0.556352972984314,
+        "DefinitionsReferences": 0.49182724952697754
+      }
+    },
+    {
+      "sentence": "The Medical Assistance for the Treatment of Critical Illness scheme is an essential part of India's commitment to universal healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4583129584789276,
+      "similarities": {
+        "ContextObjective": 0.41899561882019043,
+        "BenefitsAssistance": 0.4583129584789276,
+        "Eligibility": 0.4372502565383911,
+        "ApplicationProcess": 0.39353302121162415,
+        "TimelineFrequency": 0.3445269465446472,
+        "AuthoritiesGovernance": 0.371246874332428,
+        "DefinitionsReferences": 0.3514067828655243
+      }
+    },
+    {
+      "sentence": "It reflects the government's dedication to providing support for the most vulnerable populations in society.",
+      "role": "Eligibility",
+      "confidence": 0.45499885082244873,
+      "similarities": {
+        "ContextObjective": 0.44136086106300354,
+        "BenefitsAssistance": 0.4150131940841675,
+        "Eligibility": 0.45499885082244873,
+        "ApplicationProcess": 0.367021381855011,
+        "TimelineFrequency": 0.3424290418624878,
+        "AuthoritiesGovernance": 0.3884916305541992,
+        "DefinitionsReferences": 0.37373924255371094
+      }
+    },
+    {
+      "sentence": "In conclusion, the Medical Assistance for the Treatment of Critical Illness scheme is a vital initiative that provides crucial financial support to individuals facing severe health challenges.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5394058227539062,
+      "similarities": {
+        "ContextObjective": 0.47659415006637573,
+        "BenefitsAssistance": 0.5394058227539062,
+        "Eligibility": 0.4766029715538025,
+        "ApplicationProcess": 0.40118399262428284,
+        "TimelineFrequency": 0.3761639893054962,
+        "AuthoritiesGovernance": 0.3716755509376526,
+        "DefinitionsReferences": 0.35518980026245117
+      }
+    },
+    {
+      "sentence": "With a focus on accessibility and affordability, the scheme aims to ensure that no one is deprived of necessary medical treatment due to financial limitations.",
+      "role": "Eligibility",
+      "confidence": 0.5685242414474487,
+      "similarities": {
+        "ContextObjective": 0.5044119358062744,
+        "BenefitsAssistance": 0.5406694412231445,
+        "Eligibility": 0.5685242414474487,
+        "ApplicationProcess": 0.4683521091938019,
+        "TimelineFrequency": 0.4130769670009613,
+        "AuthoritiesGovernance": 0.37567001581192017,
+        "DefinitionsReferences": 0.36428433656692505
+      }
+    },
+    {
+      "sentence": "By offering up to ₹5 lakh in assistance and covering a wide range of medical expenses, the scheme plays a critical role in enhancing the quality of life for many families across India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.547040581703186,
+      "similarities": {
+        "ContextObjective": 0.4609963595867157,
+        "BenefitsAssistance": 0.547040581703186,
+        "Eligibility": 0.4821208417415619,
+        "ApplicationProcess": 0.4028029441833496,
+        "TimelineFrequency": 0.3718748688697815,
+        "AuthoritiesGovernance": 0.34746086597442627,
+        "DefinitionsReferences": 0.37569841742515564
+      }
+    },
+    {
+      "sentence": "The ongoing efforts to raise awareness and improve the application process further strengthen the impact of this welfare initiative.",
+      "role": "ApplicationProcess",
+      "confidence": 0.47859883308410645,
+      "similarities": {
+        "ContextObjective": 0.45275992155075073,
+        "BenefitsAssistance": 0.4252011179924011,
+        "Eligibility": 0.46371346712112427,
+        "ApplicationProcess": 0.47859883308410645,
+        "TimelineFrequency": 0.4198231101036072,
+        "AuthoritiesGovernance": 0.42115601897239685,
+        "DefinitionsReferences": 0.365539014339447
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it remains a cornerstone of the Indian government's healthcare strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.5015258193016052,
+      "similarities": {
+        "ContextObjective": 0.5015258193016052,
+        "BenefitsAssistance": 0.413987934589386,
+        "Eligibility": 0.4167771637439728,
+        "ApplicationProcess": 0.3922331631183624,
+        "TimelineFrequency": 0.3727157711982727,
+        "AuthoritiesGovernance": 0.44102177023887634,
+        "DefinitionsReferences": 0.40325644612312317
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 17,
+    "ContextObjective": 4,
+    "Eligibility": 8,
+    "ApplicationProcess": 10,
+    "DefinitionsReferences": 1,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:48:39.482088"
+}

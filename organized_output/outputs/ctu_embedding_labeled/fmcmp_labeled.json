@@ -1,0 +1,982 @@
+{
+  "scheme_name": "Free Medical Card for Media Persons",
+  "total_sentences": 69,
+  "labeled_sentences": [
+    {
+      "sentence": "The Free Medical Card for Media Persons is a welfare scheme initiated by the Government of India to provide healthcare benefits to journalists and media professionals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5073446035385132,
+      "similarities": {
+        "ContextObjective": 0.48930084705352783,
+        "BenefitsAssistance": 0.5073446035385132,
+        "Eligibility": 0.4991987645626068,
+        "ApplicationProcess": 0.45372474193573,
+        "TimelineFrequency": 0.4114592671394348,
+        "AuthoritiesGovernance": 0.4498426914215088,
+        "DefinitionsReferences": 0.39480167627334595
+      }
+    },
+    {
+      "sentence": "This scheme was launched on 1st February 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.6027112007141113,
+      "similarities": {
+        "ContextObjective": 0.6027112007141113,
+        "BenefitsAssistance": 0.47001761198043823,
+        "Eligibility": 0.504184901714325,
+        "ApplicationProcess": 0.4801199436187744,
+        "TimelineFrequency": 0.508069634437561,
+        "AuthoritiesGovernance": 0.424470990896225,
+        "DefinitionsReferences": 0.36858198046684265
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to ensure that media personnel have access to quality healthcare services.",
+      "role": "ContextObjective",
+      "confidence": 0.5300630927085876,
+      "similarities": {
+        "ContextObjective": 0.5300630927085876,
+        "BenefitsAssistance": 0.4170567989349365,
+        "Eligibility": 0.488700807094574,
+        "ApplicationProcess": 0.46843117475509644,
+        "TimelineFrequency": 0.40687882900238037,
+        "AuthoritiesGovernance": 0.450575053691864,
+        "DefinitionsReferences": 0.371943861246109
+      }
+    },
+    {
+      "sentence": "The scheme aims to cover the medical expenses of media persons and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5396640300750732,
+      "similarities": {
+        "ContextObjective": 0.5103740692138672,
+        "BenefitsAssistance": 0.5396640300750732,
+        "Eligibility": 0.4949208199977875,
+        "ApplicationProcess": 0.4333727955818176,
+        "TimelineFrequency": 0.38867104053497314,
+        "AuthoritiesGovernance": 0.40056103467941284,
+        "DefinitionsReferences": 0.3843652606010437
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible media professionals can avail of free medical treatment in government hospitals.",
+      "role": "Eligibility",
+      "confidence": 0.4501044750213623,
+      "similarities": {
+        "ContextObjective": 0.41749948263168335,
+        "BenefitsAssistance": 0.42828163504600525,
+        "Eligibility": 0.4501044750213623,
+        "ApplicationProcess": 0.4069737195968628,
+        "TimelineFrequency": 0.36059510707855225,
+        "AuthoritiesGovernance": 0.37322890758514404,
+        "DefinitionsReferences": 0.34191256761550903
+      }
+    },
+    {
+      "sentence": "The scheme also extends to private hospitals that are empaneled under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.44855380058288574,
+      "similarities": {
+        "ContextObjective": 0.44855380058288574,
+        "BenefitsAssistance": 0.4294271469116211,
+        "Eligibility": 0.4367692470550537,
+        "ApplicationProcess": 0.3810824751853943,
+        "TimelineFrequency": 0.36073702573776245,
+        "AuthoritiesGovernance": 0.3801215887069702,
+        "DefinitionsReferences": 0.3892788290977478
+      }
+    },
+    {
+      "sentence": "The Free Medical Card provides coverage for various medical treatments and surgeries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5899383425712585,
+      "similarities": {
+        "ContextObjective": 0.44176122546195984,
+        "BenefitsAssistance": 0.5899383425712585,
+        "Eligibility": 0.48927953839302063,
+        "ApplicationProcess": 0.44735264778137207,
+        "TimelineFrequency": 0.43473923206329346,
+        "AuthoritiesGovernance": 0.3791823089122772,
+        "DefinitionsReferences": 0.42518043518066406
+      }
+    },
+    {
+      "sentence": "The financial assistance under this scheme is capped at ₹5 lakh per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5636382102966309,
+      "similarities": {
+        "ContextObjective": 0.41271430253982544,
+        "BenefitsAssistance": 0.5636382102966309,
+        "Eligibility": 0.4827658534049988,
+        "ApplicationProcess": 0.3962653577327728,
+        "TimelineFrequency": 0.40387430787086487,
+        "AuthoritiesGovernance": 0.34670886397361755,
+        "DefinitionsReferences": 0.3406361937522888
+      }
+    },
+    {
+      "sentence": "This amount is applicable for each media professional and their dependents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5579562187194824,
+      "similarities": {
+        "ContextObjective": 0.41597485542297363,
+        "BenefitsAssistance": 0.5579562187194824,
+        "Eligibility": 0.5075017809867859,
+        "ApplicationProcess": 0.423906534910202,
+        "TimelineFrequency": 0.4328111410140991,
+        "AuthoritiesGovernance": 0.4456300139427185,
+        "DefinitionsReferences": 0.4666648507118225
+      }
+    },
+    {
+      "sentence": "The dependents include spouses and children of the media professionals.",
+      "role": "Eligibility",
+      "confidence": 0.4445773959159851,
+      "similarities": {
+        "ContextObjective": 0.3782670199871063,
+        "BenefitsAssistance": 0.43834638595581055,
+        "Eligibility": 0.4445773959159851,
+        "ApplicationProcess": 0.3693810999393463,
+        "TimelineFrequency": 0.3658296763896942,
+        "AuthoritiesGovernance": 0.40697214007377625,
+        "DefinitionsReferences": 0.4174134135246277
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must be registered journalists.",
+      "role": "Eligibility",
+      "confidence": 0.6013771295547485,
+      "similarities": {
+        "ContextObjective": 0.48057985305786133,
+        "BenefitsAssistance": 0.3868997097015381,
+        "Eligibility": 0.6013771295547485,
+        "ApplicationProcess": 0.5577038526535034,
+        "TimelineFrequency": 0.4962032735347748,
+        "AuthoritiesGovernance": 0.3828531801700592,
+        "DefinitionsReferences": 0.3862015902996063
+      }
+    },
+    {
+      "sentence": "They must possess a valid press card issued by the Government of India.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5077809691429138,
+      "similarities": {
+        "ContextObjective": 0.43332788348197937,
+        "BenefitsAssistance": 0.4065687656402588,
+        "Eligibility": 0.4938535988330841,
+        "ApplicationProcess": 0.5077809691429138,
+        "TimelineFrequency": 0.38490229845046997,
+        "AuthoritiesGovernance": 0.4114769399166107,
+        "DefinitionsReferences": 0.43414461612701416
+      }
+    },
+    {
+      "sentence": "The age limit for eligibility is not explicitly defined.",
+      "role": "Eligibility",
+      "confidence": 0.6308912038803101,
+      "similarities": {
+        "ContextObjective": 0.4878961443901062,
+        "BenefitsAssistance": 0.49352744221687317,
+        "Eligibility": 0.6308912038803101,
+        "ApplicationProcess": 0.5010454654693604,
+        "TimelineFrequency": 0.5164249539375305,
+        "AuthoritiesGovernance": 0.40863609313964844,
+        "DefinitionsReferences": 0.41159576177597046
+      }
+    },
+    {
+      "sentence": "However, the applicant must be an active media professional.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5518550872802734,
+      "similarities": {
+        "ContextObjective": 0.46551549434661865,
+        "BenefitsAssistance": 0.39779001474380493,
+        "Eligibility": 0.5419934988021851,
+        "ApplicationProcess": 0.5518550872802734,
+        "TimelineFrequency": 0.49980977177619934,
+        "AuthoritiesGovernance": 0.39560574293136597,
+        "DefinitionsReferences": 0.4149801731109619
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility are set at a maximum of ₹5 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5564281940460205,
+      "similarities": {
+        "ContextObjective": 0.4375219941139221,
+        "BenefitsAssistance": 0.4856686294078827,
+        "Eligibility": 0.5564281940460205,
+        "ApplicationProcess": 0.4586303234100342,
+        "TimelineFrequency": 0.4440458416938782,
+        "AuthoritiesGovernance": 0.32728856801986694,
+        "DefinitionsReferences": 0.383461058139801
+      }
+    },
+    {
+      "sentence": "This income limit is applicable to the media professional's total family income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4804706275463104,
+      "similarities": {
+        "ContextObjective": 0.36875057220458984,
+        "BenefitsAssistance": 0.4804706275463104,
+        "Eligibility": 0.47733640670776367,
+        "ApplicationProcess": 0.3925325870513916,
+        "TimelineFrequency": 0.38268357515335083,
+        "AuthoritiesGovernance": 0.33451539278030396,
+        "DefinitionsReferences": 0.38580095767974854
+      }
+    },
+    {
+      "sentence": "The application process for the Free Medical Card is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5390708446502686,
+      "similarities": {
+        "ContextObjective": 0.4461865723133087,
+        "BenefitsAssistance": 0.48068302869796753,
+        "Eligibility": 0.472420334815979,
+        "ApplicationProcess": 0.5390708446502686,
+        "TimelineFrequency": 0.4642656147480011,
+        "AuthoritiesGovernance": 0.37721288204193115,
+        "DefinitionsReferences": 0.3794192671775818
+      }
+    },
+    {
+      "sentence": "Interested media professionals must visit the official website of the Ministry of Information and Broadcasting.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5135290026664734,
+      "similarities": {
+        "ContextObjective": 0.4543256163597107,
+        "BenefitsAssistance": 0.38782787322998047,
+        "Eligibility": 0.44059139490127563,
+        "ApplicationProcess": 0.5135290026664734,
+        "TimelineFrequency": 0.40374481678009033,
+        "AuthoritiesGovernance": 0.45796874165534973,
+        "DefinitionsReferences": 0.4533533453941345
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7508237957954407,
+      "similarities": {
+        "ContextObjective": 0.5043456554412842,
+        "BenefitsAssistance": 0.5067782998085022,
+        "Eligibility": 0.6297247409820557,
+        "ApplicationProcess": 0.7508237957954407,
+        "TimelineFrequency": 0.5800695419311523,
+        "AuthoritiesGovernance": 0.4675813317298889,
+        "DefinitionsReferences": 0.4675130844116211
+      }
+    },
+    {
+      "sentence": "The application form requires personal details and proof of identity.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7059556245803833,
+      "similarities": {
+        "ContextObjective": 0.5109771490097046,
+        "BenefitsAssistance": 0.5500965118408203,
+        "Eligibility": 0.6225707530975342,
+        "ApplicationProcess": 0.7059556245803833,
+        "TimelineFrequency": 0.5593459010124207,
+        "AuthoritiesGovernance": 0.4581747055053711,
+        "DefinitionsReferences": 0.4928656816482544
+      }
+    },
+    {
+      "sentence": "Applicants must submit a copy of their press card along with the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6169397830963135,
+      "similarities": {
+        "ContextObjective": 0.425331175327301,
+        "BenefitsAssistance": 0.435896098613739,
+        "Eligibility": 0.5127236247062683,
+        "ApplicationProcess": 0.6169397830963135,
+        "TimelineFrequency": 0.49939870834350586,
+        "AuthoritiesGovernance": 0.3772362470626831,
+        "DefinitionsReferences": 0.4469067454338074
+      }
+    },
+    {
+      "sentence": "Proof of income is also required to verify eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6394355297088623,
+      "similarities": {
+        "ContextObjective": 0.4846719801425934,
+        "BenefitsAssistance": 0.5838564038276672,
+        "Eligibility": 0.6224570274353027,
+        "ApplicationProcess": 0.6394355297088623,
+        "TimelineFrequency": 0.5189383029937744,
+        "AuthoritiesGovernance": 0.414908766746521,
+        "DefinitionsReferences": 0.47084271907806396
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "The Ministry of Information and Broadcasting is responsible for the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6022273302078247,
+      "similarities": {
+        "ContextObjective": 0.5427020788192749,
+        "BenefitsAssistance": 0.45315855741500854,
+        "Eligibility": 0.4844096302986145,
+        "ApplicationProcess": 0.509253740310669,
+        "TimelineFrequency": 0.4038471281528473,
+        "AuthoritiesGovernance": 0.6022273302078247,
+        "DefinitionsReferences": 0.40557920932769775
+      }
+    },
+    {
+      "sentence": "The Ministry will verify the documents submitted by the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7021242380142212,
+      "similarities": {
+        "ContextObjective": 0.4911215603351593,
+        "BenefitsAssistance": 0.4955228567123413,
+        "Eligibility": 0.5737112760543823,
+        "ApplicationProcess": 0.7021242380142212,
+        "TimelineFrequency": 0.5429751873016357,
+        "AuthoritiesGovernance": 0.5083776116371155,
+        "DefinitionsReferences": 0.49484333395957947
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the Free Medical Card will be issued.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5733112096786499,
+      "similarities": {
+        "ContextObjective": 0.45612379908561707,
+        "BenefitsAssistance": 0.5206375122070312,
+        "Eligibility": 0.5029222965240479,
+        "ApplicationProcess": 0.5733112096786499,
+        "TimelineFrequency": 0.47254106402397156,
+        "AuthoritiesGovernance": 0.39965713024139404,
+        "DefinitionsReferences": 0.4221905767917633
+      }
+    },
+    {
+      "sentence": "The card will be valid for one year from the date of issuance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49794885516166687,
+      "similarities": {
+        "ContextObjective": 0.4638737440109253,
+        "BenefitsAssistance": 0.4845525622367859,
+        "Eligibility": 0.47796136140823364,
+        "ApplicationProcess": 0.49794885516166687,
+        "TimelineFrequency": 0.4965072274208069,
+        "AuthoritiesGovernance": 0.37802445888519287,
+        "DefinitionsReferences": 0.3989466428756714
+      }
+    },
+    {
+      "sentence": "Renewal of the card is necessary after one year.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5089014768600464,
+      "similarities": {
+        "ContextObjective": 0.4179799556732178,
+        "BenefitsAssistance": 0.4765995144844055,
+        "Eligibility": 0.46665453910827637,
+        "ApplicationProcess": 0.5089014768600464,
+        "TimelineFrequency": 0.49907582998275757,
+        "AuthoritiesGovernance": 0.40371644496917725,
+        "DefinitionsReferences": 0.3794606924057007
+      }
+    },
+    {
+      "sentence": "The renewal process is similar to the initial application process.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6283431053161621,
+      "similarities": {
+        "ContextObjective": 0.48708468675613403,
+        "BenefitsAssistance": 0.48673558235168457,
+        "Eligibility": 0.5147384405136108,
+        "ApplicationProcess": 0.6240103244781494,
+        "TimelineFrequency": 0.6283431053161621,
+        "AuthoritiesGovernance": 0.4949684739112854,
+        "DefinitionsReferences": 0.45083242654800415
+      }
+    },
+    {
+      "sentence": "Media professionals must re-submit their documents for renewal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5558878183364868,
+      "similarities": {
+        "ContextObjective": 0.4167911112308502,
+        "BenefitsAssistance": 0.44006556272506714,
+        "Eligibility": 0.48006677627563477,
+        "ApplicationProcess": 0.5558878183364868,
+        "TimelineFrequency": 0.5372334718704224,
+        "AuthoritiesGovernance": 0.4602527618408203,
+        "DefinitionsReferences": 0.4645965099334717
+      }
+    },
+    {
+      "sentence": "The Free Medical Card can be used multiple times within the financial limit of ₹5 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.535169243812561,
+      "similarities": {
+        "ContextObjective": 0.4241662919521332,
+        "BenefitsAssistance": 0.535169243812561,
+        "Eligibility": 0.4667662978172302,
+        "ApplicationProcess": 0.41896551847457886,
+        "TimelineFrequency": 0.43904656171798706,
+        "AuthoritiesGovernance": 0.3346145749092102,
+        "DefinitionsReferences": 0.40462255477905273
+      }
+    },
+    {
+      "sentence": "The scheme covers hospitalization expenses including room rent and medical procedures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5886995792388916,
+      "similarities": {
+        "ContextObjective": 0.459306001663208,
+        "BenefitsAssistance": 0.5886995792388916,
+        "Eligibility": 0.4478667974472046,
+        "ApplicationProcess": 0.4594731032848358,
+        "TimelineFrequency": 0.4338049292564392,
+        "AuthoritiesGovernance": 0.41604065895080566,
+        "DefinitionsReferences": 0.41354048252105713
+      }
+    },
+    {
+      "sentence": "It also includes expenses for medicines and diagnostic tests.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6383411288261414,
+      "similarities": {
+        "ContextObjective": 0.4207741320133209,
+        "BenefitsAssistance": 0.6383411288261414,
+        "Eligibility": 0.44388049840927124,
+        "ApplicationProcess": 0.4667084813117981,
+        "TimelineFrequency": 0.4546833038330078,
+        "AuthoritiesGovernance": 0.3950645923614502,
+        "DefinitionsReferences": 0.4919409155845642
+      }
+    },
+    {
+      "sentence": "The scheme is designed to alleviate the financial burden of medical expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.583778977394104,
+      "similarities": {
+        "ContextObjective": 0.5284936428070068,
+        "BenefitsAssistance": 0.583778977394104,
+        "Eligibility": 0.47170642018318176,
+        "ApplicationProcess": 0.4288313388824463,
+        "TimelineFrequency": 0.4103386700153351,
+        "AuthoritiesGovernance": 0.39361193776130676,
+        "DefinitionsReferences": 0.37345418334007263
+      }
+    },
+    {
+      "sentence": "The Free Medical Card is particularly beneficial for media persons working in remote areas.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4310497045516968,
+      "similarities": {
+        "ContextObjective": 0.3852354884147644,
+        "BenefitsAssistance": 0.4310497045516968,
+        "Eligibility": 0.42523837089538574,
+        "ApplicationProcess": 0.3654705882072449,
+        "TimelineFrequency": 0.344024121761322,
+        "AuthoritiesGovernance": 0.30665481090545654,
+        "DefinitionsReferences": 0.32322442531585693
+      }
+    },
+    {
+      "sentence": "These individuals often face challenges in accessing quality healthcare.",
+      "role": "Eligibility",
+      "confidence": 0.5545638799667358,
+      "similarities": {
+        "ContextObjective": 0.41470539569854736,
+        "BenefitsAssistance": 0.4910719394683838,
+        "Eligibility": 0.5545638799667358,
+        "ApplicationProcess": 0.47216612100601196,
+        "TimelineFrequency": 0.4640352725982666,
+        "AuthoritiesGovernance": 0.4897892475128174,
+        "DefinitionsReferences": 0.4000783860683441
+      }
+    },
+    {
+      "sentence": "The scheme aims to improve the overall health and well-being of media professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.5075058341026306,
+      "similarities": {
+        "ContextObjective": 0.5075058341026306,
+        "BenefitsAssistance": 0.41030651330947876,
+        "Eligibility": 0.41846776008605957,
+        "ApplicationProcess": 0.4173910617828369,
+        "TimelineFrequency": 0.37972205877304077,
+        "AuthoritiesGovernance": 0.40737301111221313,
+        "DefinitionsReferences": 0.37373286485671997
+      }
+    },
+    {
+      "sentence": "It recognizes the critical role that journalists play in society.",
+      "role": "ContextObjective",
+      "confidence": 0.42790377140045166,
+      "similarities": {
+        "ContextObjective": 0.42790377140045166,
+        "BenefitsAssistance": 0.35387176275253296,
+        "Eligibility": 0.3932199478149414,
+        "ApplicationProcess": 0.3923298120498657,
+        "TimelineFrequency": 0.34442657232284546,
+        "AuthoritiesGovernance": 0.36026766896247864,
+        "DefinitionsReferences": 0.39510616660118103
+      }
+    },
+    {
+      "sentence": "The scheme also acknowledges the risks associated with the profession.",
+      "role": "Eligibility",
+      "confidence": 0.4878842830657959,
+      "similarities": {
+        "ContextObjective": 0.46820226311683655,
+        "BenefitsAssistance": 0.4810938835144043,
+        "Eligibility": 0.4878842830657959,
+        "ApplicationProcess": 0.46355748176574707,
+        "TimelineFrequency": 0.44916048645973206,
+        "AuthoritiesGovernance": 0.39157742261886597,
+        "DefinitionsReferences": 0.40490347146987915
+      }
+    },
+    {
+      "sentence": "Media professionals often work in challenging environments.",
+      "role": "Eligibility",
+      "confidence": 0.4853070378303528,
+      "similarities": {
+        "ContextObjective": 0.45492711663246155,
+        "BenefitsAssistance": 0.42707589268684387,
+        "Eligibility": 0.4853070378303528,
+        "ApplicationProcess": 0.4457593560218811,
+        "TimelineFrequency": 0.440066933631897,
+        "AuthoritiesGovernance": 0.4541289806365967,
+        "DefinitionsReferences": 0.45999592542648315
+      }
+    },
+    {
+      "sentence": "They may face health risks due to their work conditions.",
+      "role": "Eligibility",
+      "confidence": 0.5209250450134277,
+      "similarities": {
+        "ContextObjective": 0.38668668270111084,
+        "BenefitsAssistance": 0.4697854220867157,
+        "Eligibility": 0.5209250450134277,
+        "ApplicationProcess": 0.4558185636997223,
+        "TimelineFrequency": 0.4326304793357849,
+        "AuthoritiesGovernance": 0.4440099596977234,
+        "DefinitionsReferences": 0.430930495262146
+      }
+    },
+    {
+      "sentence": "The Free Medical Card serves as a safety net for these individuals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5356659293174744,
+      "similarities": {
+        "ContextObjective": 0.4195002317428589,
+        "BenefitsAssistance": 0.5356659293174744,
+        "Eligibility": 0.49339231848716736,
+        "ApplicationProcess": 0.4093804359436035,
+        "TimelineFrequency": 0.38148581981658936,
+        "AuthoritiesGovernance": 0.3667076826095581,
+        "DefinitionsReferences": 0.3668602705001831
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Government of India to support various professional groups.",
+      "role": "ContextObjective",
+      "confidence": 0.56258225440979,
+      "similarities": {
+        "ContextObjective": 0.56258225440979,
+        "BenefitsAssistance": 0.49491214752197266,
+        "Eligibility": 0.5157618522644043,
+        "ApplicationProcess": 0.44229739904403687,
+        "TimelineFrequency": 0.4295710325241089,
+        "AuthoritiesGovernance": 0.4917179346084595,
+        "DefinitionsReferences": 0.4425491690635681
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to the welfare of media personnel.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4418739676475525,
+      "similarities": {
+        "ContextObjective": 0.413891464471817,
+        "BenefitsAssistance": 0.4061065912246704,
+        "Eligibility": 0.42278754711151123,
+        "ApplicationProcess": 0.40535151958465576,
+        "TimelineFrequency": 0.35347241163253784,
+        "AuthoritiesGovernance": 0.4418739676475525,
+        "DefinitionsReferences": 0.4174806773662567
+      }
+    },
+    {
+      "sentence": "The scheme is expected to enhance the quality of life for journalists.",
+      "role": "ContextObjective",
+      "confidence": 0.5358970165252686,
+      "similarities": {
+        "ContextObjective": 0.5358970165252686,
+        "BenefitsAssistance": 0.4428855776786804,
+        "Eligibility": 0.4685381054878235,
+        "ApplicationProcess": 0.45613914728164673,
+        "TimelineFrequency": 0.42961394786834717,
+        "AuthoritiesGovernance": 0.4022001624107361,
+        "DefinitionsReferences": 0.42590516805648804
+      }
+    },
+    {
+      "sentence": "It aims to ensure that they can focus on their work without the stress of medical expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49095869064331055,
+      "similarities": {
+        "ContextObjective": 0.45109060406684875,
+        "BenefitsAssistance": 0.49095869064331055,
+        "Eligibility": 0.4395516514778137,
+        "ApplicationProcess": 0.41038262844085693,
+        "TimelineFrequency": 0.3788903057575226,
+        "AuthoritiesGovernance": 0.3755219578742981,
+        "DefinitionsReferences": 0.3574831485748291
+      }
+    },
+    {
+      "sentence": "The Ministry of Information and Broadcasting has set up a helpline for queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5358288288116455,
+      "similarities": {
+        "ContextObjective": 0.5358288288116455,
+        "BenefitsAssistance": 0.5029740333557129,
+        "Eligibility": 0.5138031244277954,
+        "ApplicationProcess": 0.5154634714126587,
+        "TimelineFrequency": 0.4536997973918915,
+        "AuthoritiesGovernance": 0.5175110101699829,
+        "DefinitionsReferences": 0.41993170976638794
+      }
+    },
+    {
+      "sentence": "The helpline number is available on the official website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5202637910842896,
+      "similarities": {
+        "ContextObjective": 0.4299803376197815,
+        "BenefitsAssistance": 0.5202637910842896,
+        "Eligibility": 0.47193917632102966,
+        "ApplicationProcess": 0.5036330223083496,
+        "TimelineFrequency": 0.43197983503341675,
+        "AuthoritiesGovernance": 0.5115042924880981,
+        "DefinitionsReferences": 0.4390260577201843
+      }
+    },
+    {
+      "sentence": "Media professionals can contact the helpline for assistance with the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5718915462493896,
+      "similarities": {
+        "ContextObjective": 0.47190597653388977,
+        "BenefitsAssistance": 0.47630488872528076,
+        "Eligibility": 0.5434415936470032,
+        "ApplicationProcess": 0.5718915462493896,
+        "TimelineFrequency": 0.5132777094841003,
+        "AuthoritiesGovernance": 0.477519690990448,
+        "DefinitionsReferences": 0.42614617943763733
+      }
+    },
+    {
+      "sentence": "The scheme is also promoted through various media channels.",
+      "role": "ContextObjective",
+      "confidence": 0.6041849851608276,
+      "similarities": {
+        "ContextObjective": 0.6041849851608276,
+        "BenefitsAssistance": 0.49142366647720337,
+        "Eligibility": 0.49282291531562805,
+        "ApplicationProcess": 0.4933461546897888,
+        "TimelineFrequency": 0.46436384320259094,
+        "AuthoritiesGovernance": 0.4798828363418579,
+        "DefinitionsReferences": 0.48885148763656616
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to inform eligible media persons about the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5511616468429565,
+      "similarities": {
+        "ContextObjective": 0.5237264037132263,
+        "BenefitsAssistance": 0.5202887058258057,
+        "Eligibility": 0.5511616468429565,
+        "ApplicationProcess": 0.5031865835189819,
+        "TimelineFrequency": 0.4595823884010315,
+        "AuthoritiesGovernance": 0.47372207045555115,
+        "DefinitionsReferences": 0.44571855664253235
+      }
+    },
+    {
+      "sentence": "The Free Medical Card is a significant step towards recognizing the contributions of media professionals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43008536100387573,
+      "similarities": {
+        "ContextObjective": 0.38811028003692627,
+        "BenefitsAssistance": 0.43008536100387573,
+        "Eligibility": 0.37912195920944214,
+        "ApplicationProcess": 0.37098193168640137,
+        "TimelineFrequency": 0.3245577812194824,
+        "AuthoritiesGovernance": 0.34110283851623535,
+        "DefinitionsReferences": 0.36988765001296997
+      }
+    },
+    {
+      "sentence": "It is a proactive measure to ensure their health and safety.",
+      "role": "Eligibility",
+      "confidence": 0.4931236505508423,
+      "similarities": {
+        "ContextObjective": 0.42804422974586487,
+        "BenefitsAssistance": 0.43253517150878906,
+        "Eligibility": 0.4931236505508423,
+        "ApplicationProcess": 0.48211270570755005,
+        "TimelineFrequency": 0.3966005742549896,
+        "AuthoritiesGovernance": 0.4556540846824646,
+        "DefinitionsReferences": 0.4251396059989929
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from the media community.",
+      "role": "ContextObjective",
+      "confidence": 0.5415418148040771,
+      "similarities": {
+        "ContextObjective": 0.5415418148040771,
+        "BenefitsAssistance": 0.42968156933784485,
+        "Eligibility": 0.4477797746658325,
+        "ApplicationProcess": 0.43194687366485596,
+        "TimelineFrequency": 0.3868066668510437,
+        "AuthoritiesGovernance": 0.41928452253341675,
+        "DefinitionsReferences": 0.40928685665130615
+      }
+    },
+    {
+      "sentence": "Many journalists have expressed gratitude for the financial support provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5001336336135864,
+      "similarities": {
+        "ContextObjective": 0.4187900424003601,
+        "BenefitsAssistance": 0.5001336336135864,
+        "Eligibility": 0.4198177456855774,
+        "ApplicationProcess": 0.3869733512401581,
+        "TimelineFrequency": 0.3565872013568878,
+        "AuthoritiesGovernance": 0.3676069676876068,
+        "DefinitionsReferences": 0.42122581601142883
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5728203058242798,
+      "similarities": {
+        "ContextObjective": 0.5200209617614746,
+        "BenefitsAssistance": 0.47271788120269775,
+        "Eligibility": 0.48778417706489563,
+        "ApplicationProcess": 0.5058279037475586,
+        "TimelineFrequency": 0.42049890756607056,
+        "AuthoritiesGovernance": 0.5728203058242798,
+        "DefinitionsReferences": 0.4491909146308899
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate its effectiveness.",
+      "role": "TimelineFrequency",
+      "confidence": 0.524612545967102,
+      "similarities": {
+        "ContextObjective": 0.492086261510849,
+        "BenefitsAssistance": 0.46582621335983276,
+        "Eligibility": 0.49797365069389343,
+        "ApplicationProcess": 0.5131968855857849,
+        "TimelineFrequency": 0.524612545967102,
+        "AuthoritiesGovernance": 0.5192254781723022,
+        "DefinitionsReferences": 0.48706182837486267
+      }
+    },
+    {
+      "sentence": "The Free Medical Card for Media Persons is an essential welfare initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4640255272388458,
+      "similarities": {
+        "ContextObjective": 0.4522518515586853,
+        "BenefitsAssistance": 0.4640255272388458,
+        "Eligibility": 0.44541943073272705,
+        "ApplicationProcess": 0.41824010014533997,
+        "TimelineFrequency": 0.35644885897636414,
+        "AuthoritiesGovernance": 0.38539019227027893,
+        "DefinitionsReferences": 0.35774704813957214
+      }
+    },
+    {
+      "sentence": "It provides a crucial support system for journalists across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4642404317855835,
+      "similarities": {
+        "ContextObjective": 0.4642404317855835,
+        "BenefitsAssistance": 0.42313945293426514,
+        "Eligibility": 0.42604348063468933,
+        "ApplicationProcess": 0.39054423570632935,
+        "TimelineFrequency": 0.38035789132118225,
+        "AuthoritiesGovernance": 0.40637466311454773,
+        "DefinitionsReferences": 0.4315682053565979
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the media's role in democracy.",
+      "role": "ContextObjective",
+      "confidence": 0.507363498210907,
+      "similarities": {
+        "ContextObjective": 0.507363498210907,
+        "BenefitsAssistance": 0.3670234978199005,
+        "Eligibility": 0.40724748373031616,
+        "ApplicationProcess": 0.4221917688846588,
+        "TimelineFrequency": 0.34783294796943665,
+        "AuthoritiesGovernance": 0.3813655376434326,
+        "DefinitionsReferences": 0.38739249110221863
+      }
+    },
+    {
+      "sentence": "It aims to create a healthier environment for media professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.4772147536277771,
+      "similarities": {
+        "ContextObjective": 0.4772147536277771,
+        "BenefitsAssistance": 0.3623886704444885,
+        "Eligibility": 0.4158356785774231,
+        "ApplicationProcess": 0.4174039661884308,
+        "TimelineFrequency": 0.37139445543289185,
+        "AuthoritiesGovernance": 0.4108111560344696,
+        "DefinitionsReferences": 0.41951054334640503
+      }
+    },
+    {
+      "sentence": "The initiative is expected to evolve with changing needs and challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.5611952543258667,
+      "similarities": {
+        "ContextObjective": 0.5611952543258667,
+        "BenefitsAssistance": 0.48122042417526245,
+        "Eligibility": 0.5411319136619568,
+        "ApplicationProcess": 0.48837336897850037,
+        "TimelineFrequency": 0.4909813106060028,
+        "AuthoritiesGovernance": 0.4956181049346924,
+        "DefinitionsReferences": 0.4484456777572632
+      }
+    },
+    {
+      "sentence": "Future enhancements may include increased coverage limits or additional benefits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6032488346099854,
+      "similarities": {
+        "ContextObjective": 0.4643295109272003,
+        "BenefitsAssistance": 0.6032488346099854,
+        "Eligibility": 0.5381314158439636,
+        "ApplicationProcess": 0.4357399344444275,
+        "TimelineFrequency": 0.47790423035621643,
+        "AuthoritiesGovernance": 0.42064571380615234,
+        "DefinitionsReferences": 0.47607702016830444
+      }
+    },
+    {
+      "sentence": "The government remains committed to improving the welfare of all professional groups.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5058038830757141,
+      "similarities": {
+        "ContextObjective": 0.43348032236099243,
+        "BenefitsAssistance": 0.4298805892467499,
+        "Eligibility": 0.43073326349258423,
+        "ApplicationProcess": 0.37685006856918335,
+        "TimelineFrequency": 0.35996556282043457,
+        "AuthoritiesGovernance": 0.5058038830757141,
+        "DefinitionsReferences": 0.42584988474845886
+      }
+    },
+    {
+      "sentence": "The Free Medical Card is one of several initiatives aimed at supporting vulnerable sectors.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5339868664741516,
+      "similarities": {
+        "ContextObjective": 0.47568222880363464,
+        "BenefitsAssistance": 0.5339868664741516,
+        "Eligibility": 0.5040134787559509,
+        "ApplicationProcess": 0.42473164200782776,
+        "TimelineFrequency": 0.4100865125656128,
+        "AuthoritiesGovernance": 0.43371695280075073,
+        "DefinitionsReferences": 0.3967636823654175
+      }
+    },
+    {
+      "sentence": "The scheme highlights the importance of health security for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.47960638999938965,
+      "similarities": {
+        "ContextObjective": 0.47960638999938965,
+        "BenefitsAssistance": 0.44084790349006653,
+        "Eligibility": 0.46258872747421265,
+        "ApplicationProcess": 0.3987690210342407,
+        "TimelineFrequency": 0.37414759397506714,
+        "AuthoritiesGovernance": 0.35724687576293945,
+        "DefinitionsReferences": 0.3612084984779358
+      }
+    },
+    {
+      "sentence": "It is a vital resource for media professionals who often work under pressure.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.474601686000824,
+      "similarities": {
+        "ContextObjective": 0.44307851791381836,
+        "BenefitsAssistance": 0.41897115111351013,
+        "Eligibility": 0.44970962405204773,
+        "ApplicationProcess": 0.4352071285247803,
+        "TimelineFrequency": 0.45608022809028625,
+        "AuthoritiesGovernance": 0.39206454157829285,
+        "DefinitionsReferences": 0.474601686000824
+      }
+    },
+    {
+      "sentence": "The Free Medical Card for Media Persons is a commendable effort by the Government of India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44085076451301575,
+      "similarities": {
+        "ContextObjective": 0.4321736693382263,
+        "BenefitsAssistance": 0.44085076451301575,
+        "Eligibility": 0.4203667640686035,
+        "ApplicationProcess": 0.4128701090812683,
+        "TimelineFrequency": 0.33457955718040466,
+        "AuthoritiesGovernance": 0.383487343788147,
+        "DefinitionsReferences": 0.3631784915924072
+      }
+    },
+    {
+      "sentence": "It signifies a step towards ensuring that journalists can perform their duties without health-related concerns.",
+      "role": "Eligibility",
+      "confidence": 0.43989092111587524,
+      "similarities": {
+        "ContextObjective": 0.3813799023628235,
+        "BenefitsAssistance": 0.36756348609924316,
+        "Eligibility": 0.43989092111587524,
+        "ApplicationProcess": 0.4382079839706421,
+        "TimelineFrequency": 0.3465922176837921,
+        "AuthoritiesGovernance": 0.3702288866043091,
+        "DefinitionsReferences": 0.40009981393814087
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 20,
+    "ContextObjective": 15,
+    "Eligibility": 12,
+    "ApplicationProcess": 15,
+    "AuthoritiesGovernance": 4,
+    "TimelineFrequency": 2,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-24T21:05:38.211407"
+}

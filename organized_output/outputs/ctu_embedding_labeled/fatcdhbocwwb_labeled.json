@@ -1,0 +1,911 @@
+{
+  "scheme_name": "Financial Assistance for Treatment of Chronic Diseases (HBOCWWB)",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "The Financial Assistance for Treatment of Chronic Diseases scheme is a welfare initiative launched by the Government of India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5360319018363953,
+      "similarities": {
+        "ContextObjective": 0.5283396244049072,
+        "BenefitsAssistance": 0.5360319018363953,
+        "Eligibility": 0.5227661728858948,
+        "ApplicationProcess": 0.44549325108528137,
+        "TimelineFrequency": 0.43468421697616577,
+        "AuthoritiesGovernance": 0.4854205250740051,
+        "DefinitionsReferences": 0.3738510012626648
+      }
+    },
+    {
+      "sentence": "This scheme was introduced to provide financial support to individuals suffering from chronic diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5583764314651489,
+      "similarities": {
+        "ContextObjective": 0.4930110573768616,
+        "BenefitsAssistance": 0.5583764314651489,
+        "Eligibility": 0.5299729108810425,
+        "ApplicationProcess": 0.42797714471817017,
+        "TimelineFrequency": 0.4343854486942291,
+        "AuthoritiesGovernance": 0.4392147958278656,
+        "DefinitionsReferences": 0.36706188321113586
+      }
+    },
+    {
+      "sentence": "The scheme aims to alleviate the financial burden on patients and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5436267256736755,
+      "similarities": {
+        "ContextObjective": 0.501907467842102,
+        "BenefitsAssistance": 0.5436267256736755,
+        "Eligibility": 0.4828687906265259,
+        "ApplicationProcess": 0.3957040011882782,
+        "TimelineFrequency": 0.3822658658027649,
+        "AuthoritiesGovernance": 0.3852204978466034,
+        "DefinitionsReferences": 0.3338165581226349
+      }
+    },
+    {
+      "sentence": "It specifically targets those who are economically disadvantaged and unable to afford medical treatment.",
+      "role": "Eligibility",
+      "confidence": 0.4989898204803467,
+      "similarities": {
+        "ContextObjective": 0.43875324726104736,
+        "BenefitsAssistance": 0.46645158529281616,
+        "Eligibility": 0.4989898204803467,
+        "ApplicationProcess": 0.36186540126800537,
+        "TimelineFrequency": 0.38445693254470825,
+        "AuthoritiesGovernance": 0.3822627663612366,
+        "DefinitionsReferences": 0.3202683925628662
+      }
+    },
+    {
+      "sentence": "The initiative was launched in 2018 under the Ministry of Health and Family Welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4748271107673645,
+      "similarities": {
+        "ContextObjective": 0.4748271107673645,
+        "BenefitsAssistance": 0.42451441287994385,
+        "Eligibility": 0.4464142918586731,
+        "ApplicationProcess": 0.43386220932006836,
+        "TimelineFrequency": 0.3826248049736023,
+        "AuthoritiesGovernance": 0.4300787150859833,
+        "DefinitionsReferences": 0.3281792998313904
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to ensure that all citizens have access to necessary medical care.",
+      "role": "ContextObjective",
+      "confidence": 0.5494320392608643,
+      "similarities": {
+        "ContextObjective": 0.5494320392608643,
+        "BenefitsAssistance": 0.4615587592124939,
+        "Eligibility": 0.5158020257949829,
+        "ApplicationProcess": 0.46696051955223083,
+        "TimelineFrequency": 0.40658655762672424,
+        "AuthoritiesGovernance": 0.45421266555786133,
+        "DefinitionsReferences": 0.37802189588546753
+      }
+    },
+    {
+      "sentence": "The government aims to provide timely financial assistance to patients diagnosed with chronic diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.593275249004364,
+      "similarities": {
+        "ContextObjective": 0.4527072310447693,
+        "BenefitsAssistance": 0.593275249004364,
+        "Eligibility": 0.5285269021987915,
+        "ApplicationProcess": 0.4504527449607849,
+        "TimelineFrequency": 0.4940950274467468,
+        "AuthoritiesGovernance": 0.49010294675827026,
+        "DefinitionsReferences": 0.40102529525756836
+      }
+    },
+    {
+      "sentence": "Chronic diseases include conditions such as diabetes, hypertension, cancer, and cardiovascular diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.511933445930481,
+      "similarities": {
+        "ContextObjective": 0.37327075004577637,
+        "BenefitsAssistance": 0.511933445930481,
+        "Eligibility": 0.44541501998901367,
+        "ApplicationProcess": 0.3750903308391571,
+        "TimelineFrequency": 0.4631767272949219,
+        "AuthoritiesGovernance": 0.39832234382629395,
+        "DefinitionsReferences": 0.43842804431915283
+      }
+    },
+    {
+      "sentence": "The scheme seeks to cover a significant portion of the treatment costs associated with these diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5673509240150452,
+      "similarities": {
+        "ContextObjective": 0.49081283807754517,
+        "BenefitsAssistance": 0.5673509240150452,
+        "Eligibility": 0.4966137409210205,
+        "ApplicationProcess": 0.4107232689857483,
+        "TimelineFrequency": 0.41737669706344604,
+        "AuthoritiesGovernance": 0.4025241732597351,
+        "DefinitionsReferences": 0.3925204277038574
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries can receive financial assistance up to INR 1 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5902093648910522,
+      "similarities": {
+        "ContextObjective": 0.47430866956710815,
+        "BenefitsAssistance": 0.5805344581604004,
+        "Eligibility": 0.5902093648910522,
+        "ApplicationProcess": 0.4533877372741699,
+        "TimelineFrequency": 0.4179798662662506,
+        "AuthoritiesGovernance": 0.41423866152763367,
+        "DefinitionsReferences": 0.40362873673439026
+      }
+    },
+    {
+      "sentence": "This assistance can be utilized for hospitalization, surgeries, and other medical expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6367599964141846,
+      "similarities": {
+        "ContextObjective": 0.420110821723938,
+        "BenefitsAssistance": 0.6367599964141846,
+        "Eligibility": 0.49588385224342346,
+        "ApplicationProcess": 0.4552675783634186,
+        "TimelineFrequency": 0.4575079679489136,
+        "AuthoritiesGovernance": 0.44678613543510437,
+        "DefinitionsReferences": 0.4533024728298187
+      }
+    },
+    {
+      "sentence": "The scheme is designed to support both inpatient and outpatient treatments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5523973703384399,
+      "similarities": {
+        "ContextObjective": 0.540314793586731,
+        "BenefitsAssistance": 0.5523973703384399,
+        "Eligibility": 0.5282409191131592,
+        "ApplicationProcess": 0.48525363206863403,
+        "TimelineFrequency": 0.4964163899421692,
+        "AuthoritiesGovernance": 0.46807849407196045,
+        "DefinitionsReferences": 0.43152958154678345
+      }
+    },
+    {
+      "sentence": "It is particularly beneficial for low-income families who may struggle with healthcare costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5174710750579834,
+      "similarities": {
+        "ContextObjective": 0.37031853199005127,
+        "BenefitsAssistance": 0.5174710750579834,
+        "Eligibility": 0.4451080858707428,
+        "ApplicationProcess": 0.34895506501197815,
+        "TimelineFrequency": 0.3495950400829315,
+        "AuthoritiesGovernance": 0.3615264892578125,
+        "DefinitionsReferences": 0.3414900302886963
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.6600465178489685,
+      "similarities": {
+        "ContextObjective": 0.6236172318458557,
+        "BenefitsAssistance": 0.5049776434898376,
+        "Eligibility": 0.6600465178489685,
+        "ApplicationProcess": 0.5646568536758423,
+        "TimelineFrequency": 0.5340359210968018,
+        "AuthoritiesGovernance": 0.4419873356819153,
+        "DefinitionsReferences": 0.4474625587463379
+      }
+    },
+    {
+      "sentence": "Beneficiaries must be residents of India and belong to economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.5961930751800537,
+      "similarities": {
+        "ContextObjective": 0.4494639039039612,
+        "BenefitsAssistance": 0.4595748782157898,
+        "Eligibility": 0.5961930751800537,
+        "ApplicationProcess": 0.4258953630924225,
+        "TimelineFrequency": 0.39997363090515137,
+        "AuthoritiesGovernance": 0.4182775020599365,
+        "DefinitionsReferences": 0.35888972878456116
+      }
+    },
+    {
+      "sentence": "Individuals must provide proof of income to qualify for the assistance.",
+      "role": "Eligibility",
+      "confidence": 0.6502406597137451,
+      "similarities": {
+        "ContextObjective": 0.49093741178512573,
+        "BenefitsAssistance": 0.6245059967041016,
+        "Eligibility": 0.6502406597137451,
+        "ApplicationProcess": 0.6180204749107361,
+        "TimelineFrequency": 0.5109410285949707,
+        "AuthoritiesGovernance": 0.4521719217300415,
+        "DefinitionsReferences": 0.4562450051307678
+      }
+    },
+    {
+      "sentence": "The income limit is set at INR 1 lakh per annum for urban areas.",
+      "role": "Eligibility",
+      "confidence": 0.5026746988296509,
+      "similarities": {
+        "ContextObjective": 0.4032960832118988,
+        "BenefitsAssistance": 0.42292076349258423,
+        "Eligibility": 0.5026746988296509,
+        "ApplicationProcess": 0.4145728647708893,
+        "TimelineFrequency": 0.3900983929634094,
+        "AuthoritiesGovernance": 0.3655764162540436,
+        "DefinitionsReferences": 0.3510644733905792
+      }
+    },
+    {
+      "sentence": "For rural areas, the income limit is slightly higher at INR 1.5 lakh per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44917869567871094,
+      "similarities": {
+        "ContextObjective": 0.36696261167526245,
+        "BenefitsAssistance": 0.44917869567871094,
+        "Eligibility": 0.44851645827293396,
+        "ApplicationProcess": 0.3817146420478821,
+        "TimelineFrequency": 0.36503085494041443,
+        "AuthoritiesGovernance": 0.3151107430458069,
+        "DefinitionsReferences": 0.35685795545578003
+      }
+    },
+    {
+      "sentence": "Applicants must also possess a valid identification document such as an Aadhaar card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6089866161346436,
+      "similarities": {
+        "ContextObjective": 0.4596330225467682,
+        "BenefitsAssistance": 0.48831290006637573,
+        "Eligibility": 0.5362623929977417,
+        "ApplicationProcess": 0.6089866161346436,
+        "TimelineFrequency": 0.49865686893463135,
+        "AuthoritiesGovernance": 0.40316206216812134,
+        "DefinitionsReferences": 0.4677152931690216
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and can be initiated online or offline.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7191504836082458,
+      "similarities": {
+        "ContextObjective": 0.518747091293335,
+        "BenefitsAssistance": 0.4910227656364441,
+        "Eligibility": 0.5737259387969971,
+        "ApplicationProcess": 0.7191504836082458,
+        "TimelineFrequency": 0.5807013511657715,
+        "AuthoritiesGovernance": 0.4465242028236389,
+        "DefinitionsReferences": 0.44696637988090515
+      }
+    },
+    {
+      "sentence": "To apply online, beneficiaries must visit the official website of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6469042301177979,
+      "similarities": {
+        "ContextObjective": 0.5020564198493958,
+        "BenefitsAssistance": 0.4983704686164856,
+        "Eligibility": 0.6041586399078369,
+        "ApplicationProcess": 0.6469042301177979,
+        "TimelineFrequency": 0.49078264832496643,
+        "AuthoritiesGovernance": 0.43513381481170654,
+        "DefinitionsReferences": 0.41171687841415405
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7245755195617676,
+      "similarities": {
+        "ContextObjective": 0.5228980183601379,
+        "BenefitsAssistance": 0.534475564956665,
+        "Eligibility": 0.6247965097427368,
+        "ApplicationProcess": 0.7245755195617676,
+        "TimelineFrequency": 0.5853936672210693,
+        "AuthoritiesGovernance": 0.4957961142063141,
+        "DefinitionsReferences": 0.49519532918930054
+      }
+    },
+    {
+      "sentence": "Required documents include proof of income, identification, and medical reports.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6613819599151611,
+      "similarities": {
+        "ContextObjective": 0.4707831144332886,
+        "BenefitsAssistance": 0.6613819599151611,
+        "Eligibility": 0.5854856967926025,
+        "ApplicationProcess": 0.6426571607589722,
+        "TimelineFrequency": 0.5266109108924866,
+        "AuthoritiesGovernance": 0.4671778380870819,
+        "DefinitionsReferences": 0.565444827079773
+      }
+    },
+    {
+      "sentence": "Medical reports must confirm the diagnosis of a chronic disease.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5224806070327759,
+      "similarities": {
+        "ContextObjective": 0.42382606863975525,
+        "BenefitsAssistance": 0.5224806070327759,
+        "Eligibility": 0.48289772868156433,
+        "ApplicationProcess": 0.5031039714813232,
+        "TimelineFrequency": 0.47418761253356934,
+        "AuthoritiesGovernance": 0.4350762963294983,
+        "DefinitionsReferences": 0.44019097089767456
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The processing time for applications typically ranges from 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6429671049118042,
+      "similarities": {
+        "ContextObjective": 0.44694632291793823,
+        "BenefitsAssistance": 0.4927443563938141,
+        "Eligibility": 0.5460689663887024,
+        "ApplicationProcess": 0.6184371113777161,
+        "TimelineFrequency": 0.6429671049118042,
+        "AuthoritiesGovernance": 0.4615674614906311,
+        "DefinitionsReferences": 0.45313385128974915
+      }
+    },
+    {
+      "sentence": "Beneficiaries are notified via SMS or email regarding the status of their application.",
+      "role": "Eligibility",
+      "confidence": 0.6383584141731262,
+      "similarities": {
+        "ContextObjective": 0.5372745990753174,
+        "BenefitsAssistance": 0.5863417983055115,
+        "Eligibility": 0.6383584141731262,
+        "ApplicationProcess": 0.6290085315704346,
+        "TimelineFrequency": 0.6160719394683838,
+        "AuthoritiesGovernance": 0.5156610012054443,
+        "DefinitionsReferences": 0.46765822172164917
+      }
+    },
+    {
+      "sentence": "If approved, the financial assistance is disbursed directly to the hospital or medical facility.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5644325017929077,
+      "similarities": {
+        "ContextObjective": 0.3816060423851013,
+        "BenefitsAssistance": 0.5644325017929077,
+        "Eligibility": 0.493386447429657,
+        "ApplicationProcess": 0.4640798568725586,
+        "TimelineFrequency": 0.40555861592292786,
+        "AuthoritiesGovernance": 0.4458043575286865,
+        "DefinitionsReferences": 0.36456549167633057
+      }
+    },
+    {
+      "sentence": "This ensures that the funds are utilized for the intended purpose.",
+      "role": "ContextObjective",
+      "confidence": 0.5724664330482483,
+      "similarities": {
+        "ContextObjective": 0.5724664330482483,
+        "BenefitsAssistance": 0.5533170104026794,
+        "Eligibility": 0.5374163389205933,
+        "ApplicationProcess": 0.4976755976676941,
+        "TimelineFrequency": 0.46949222683906555,
+        "AuthoritiesGovernance": 0.4781491160392761,
+        "DefinitionsReferences": 0.46531373262405396
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the respective state health departments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5824111104011536,
+      "similarities": {
+        "ContextObjective": 0.5114736557006836,
+        "BenefitsAssistance": 0.4751660227775574,
+        "Eligibility": 0.5086223483085632,
+        "ApplicationProcess": 0.47892093658447266,
+        "TimelineFrequency": 0.4360562264919281,
+        "AuthoritiesGovernance": 0.5824111104011536,
+        "DefinitionsReferences": 0.4231317341327667
+      }
+    },
+    {
+      "sentence": "Each state has designated nodal officers to oversee the implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.63961261510849,
+      "similarities": {
+        "ContextObjective": 0.430372416973114,
+        "BenefitsAssistance": 0.4283343553543091,
+        "Eligibility": 0.5242579579353333,
+        "ApplicationProcess": 0.45722508430480957,
+        "TimelineFrequency": 0.4363727867603302,
+        "AuthoritiesGovernance": 0.63961261510849,
+        "DefinitionsReferences": 0.4598976671695709
+      }
+    },
+    {
+      "sentence": "Contact details for these officers can usually be found on the state health department's website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4950529932975769,
+      "similarities": {
+        "ContextObjective": 0.3534182608127594,
+        "BenefitsAssistance": 0.42439302802085876,
+        "Eligibility": 0.42487332224845886,
+        "ApplicationProcess": 0.45930716395378113,
+        "TimelineFrequency": 0.39240938425064087,
+        "AuthoritiesGovernance": 0.4950529932975769,
+        "DefinitionsReferences": 0.4258005619049072
+      }
+    },
+    {
+      "sentence": "The government conducts regular monitoring and evaluation of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5411275029182434,
+      "similarities": {
+        "ContextObjective": 0.510275661945343,
+        "BenefitsAssistance": 0.49715322256088257,
+        "Eligibility": 0.5160537958145142,
+        "ApplicationProcess": 0.5411275029182434,
+        "TimelineFrequency": 0.475774347782135,
+        "AuthoritiesGovernance": 0.5091065764427185,
+        "DefinitionsReferences": 0.4673217833042145
+      }
+    },
+    {
+      "sentence": "This is done to assess its impact and effectiveness in providing financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6149067878723145,
+      "similarities": {
+        "ContextObjective": 0.5032557249069214,
+        "BenefitsAssistance": 0.6149067878723145,
+        "Eligibility": 0.5560227632522583,
+        "ApplicationProcess": 0.5066927671432495,
+        "TimelineFrequency": 0.4921569228172302,
+        "AuthoritiesGovernance": 0.513096809387207,
+        "DefinitionsReferences": 0.4672664403915405
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has benefited thousands of individuals across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5351892113685608,
+      "similarities": {
+        "ContextObjective": 0.5351892113685608,
+        "BenefitsAssistance": 0.46353259682655334,
+        "Eligibility": 0.5162867307662964,
+        "ApplicationProcess": 0.3947176933288574,
+        "TimelineFrequency": 0.41175663471221924,
+        "AuthoritiesGovernance": 0.4022030234336853,
+        "DefinitionsReferences": 0.3718087077140808
+      }
+    },
+    {
+      "sentence": "Reports indicate that over 50,000 applications have been processed since its inception.",
+      "role": "ApplicationProcess",
+      "confidence": 0.52622389793396,
+      "similarities": {
+        "ContextObjective": 0.4723223149776459,
+        "BenefitsAssistance": 0.4279031753540039,
+        "Eligibility": 0.46947333216667175,
+        "ApplicationProcess": 0.52622389793396,
+        "TimelineFrequency": 0.486712247133255,
+        "AuthoritiesGovernance": 0.42251425981521606,
+        "DefinitionsReferences": 0.40350693464279175
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the financial year 2023-2024.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4781491756439209,
+      "similarities": {
+        "ContextObjective": 0.4625665545463562,
+        "BenefitsAssistance": 0.4781491756439209,
+        "Eligibility": 0.44404327869415283,
+        "ApplicationProcess": 0.3988761901855469,
+        "TimelineFrequency": 0.44280487298965454,
+        "AuthoritiesGovernance": 0.4226487874984741,
+        "DefinitionsReferences": 0.38364118337631226
+      }
+    },
+    {
+      "sentence": "This budget aims to enhance the reach and effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5836073756217957,
+      "similarities": {
+        "ContextObjective": 0.5836073756217957,
+        "BenefitsAssistance": 0.47348710894584656,
+        "Eligibility": 0.48594897985458374,
+        "ApplicationProcess": 0.4093407988548279,
+        "TimelineFrequency": 0.43242722749710083,
+        "AuthoritiesGovernance": 0.49314671754837036,
+        "DefinitionsReferences": 0.38878133893013
+      }
+    },
+    {
+      "sentence": "The scheme is part of the broader National Health Mission.",
+      "role": "ContextObjective",
+      "confidence": 0.5822510719299316,
+      "similarities": {
+        "ContextObjective": 0.5822510719299316,
+        "BenefitsAssistance": 0.4603641629219055,
+        "Eligibility": 0.4897089898586273,
+        "ApplicationProcess": 0.42815014719963074,
+        "TimelineFrequency": 0.39663970470428467,
+        "AuthoritiesGovernance": 0.4508399963378906,
+        "DefinitionsReferences": 0.3948860466480255
+      }
+    },
+    {
+      "sentence": "This mission focuses on improving healthcare access and quality for all citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45094186067581177,
+      "similarities": {
+        "ContextObjective": 0.4414355754852295,
+        "BenefitsAssistance": 0.4128088355064392,
+        "Eligibility": 0.4498831629753113,
+        "ApplicationProcess": 0.4163796007633209,
+        "TimelineFrequency": 0.38250792026519775,
+        "AuthoritiesGovernance": 0.45094186067581177,
+        "DefinitionsReferences": 0.371017724275589
+      }
+    },
+    {
+      "sentence": "The government also collaborates with various NGOs and healthcare organizations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5673748254776001,
+      "similarities": {
+        "ContextObjective": 0.4632309079170227,
+        "BenefitsAssistance": 0.513924241065979,
+        "Eligibility": 0.4767329692840576,
+        "ApplicationProcess": 0.4333585500717163,
+        "TimelineFrequency": 0.4107632637023926,
+        "AuthoritiesGovernance": 0.5673748254776001,
+        "DefinitionsReferences": 0.48750633001327515
+      }
+    },
+    {
+      "sentence": "These collaborations aim to raise awareness about the scheme and its benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.5886412858963013,
+      "similarities": {
+        "ContextObjective": 0.5886412858963013,
+        "BenefitsAssistance": 0.4555644392967224,
+        "Eligibility": 0.4831774830818176,
+        "ApplicationProcess": 0.42742085456848145,
+        "TimelineFrequency": 0.3979818820953369,
+        "AuthoritiesGovernance": 0.43759864568710327,
+        "DefinitionsReferences": 0.3941815495491028
+      }
+    },
+    {
+      "sentence": "Public awareness campaigns are conducted to inform potential beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5607724785804749,
+      "similarities": {
+        "ContextObjective": 0.5448579788208008,
+        "BenefitsAssistance": 0.5334991216659546,
+        "Eligibility": 0.5607724785804749,
+        "ApplicationProcess": 0.4771561622619629,
+        "TimelineFrequency": 0.43237391114234924,
+        "AuthoritiesGovernance": 0.479091078042984,
+        "DefinitionsReferences": 0.4346991181373596
+      }
+    },
+    {
+      "sentence": "These campaigns highlight the eligibility criteria and application process.",
+      "role": "Eligibility",
+      "confidence": 0.678318977355957,
+      "similarities": {
+        "ContextObjective": 0.5943805575370789,
+        "BenefitsAssistance": 0.5266201496124268,
+        "Eligibility": 0.678318977355957,
+        "ApplicationProcess": 0.6442428231239319,
+        "TimelineFrequency": 0.646249532699585,
+        "AuthoritiesGovernance": 0.4861816465854645,
+        "DefinitionsReferences": 0.5225967168807983
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.544483482837677,
+      "similarities": {
+        "ContextObjective": 0.544483482837677,
+        "BenefitsAssistance": 0.4934113621711731,
+        "Eligibility": 0.5210820436477661,
+        "ApplicationProcess": 0.42821377515792847,
+        "TimelineFrequency": 0.39482009410858154,
+        "AuthoritiesGovernance": 0.42541739344596863,
+        "DefinitionsReferences": 0.4032719135284424
+      }
+    },
+    {
+      "sentence": "Many individuals have reported significant relief from financial stress due to the assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5618950128555298,
+      "similarities": {
+        "ContextObjective": 0.429962694644928,
+        "BenefitsAssistance": 0.5618950128555298,
+        "Eligibility": 0.4689768850803375,
+        "ApplicationProcess": 0.39992958307266235,
+        "TimelineFrequency": 0.36985400319099426,
+        "AuthoritiesGovernance": 0.3825748562812805,
+        "DefinitionsReferences": 0.3844650089740753
+      }
+    },
+    {
+      "sentence": "The government is committed to expanding the scheme's coverage in the future.",
+      "role": "ContextObjective",
+      "confidence": 0.513068675994873,
+      "similarities": {
+        "ContextObjective": 0.513068675994873,
+        "BenefitsAssistance": 0.5000330209732056,
+        "Eligibility": 0.4970013499259949,
+        "ApplicationProcess": 0.4346848726272583,
+        "TimelineFrequency": 0.4161858558654785,
+        "AuthoritiesGovernance": 0.41635599732398987,
+        "DefinitionsReferences": 0.41070839762687683
+      }
+    },
+    {
+      "sentence": "Plans are underway to include additional chronic diseases under the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5359718799591064,
+      "similarities": {
+        "ContextObjective": 0.5238364934921265,
+        "BenefitsAssistance": 0.5359718799591064,
+        "Eligibility": 0.5166913866996765,
+        "ApplicationProcess": 0.46119531989097595,
+        "TimelineFrequency": 0.4783538579940796,
+        "AuthoritiesGovernance": 0.45813101530075073,
+        "DefinitionsReferences": 0.43438485264778137
+      }
+    },
+    {
+      "sentence": "This expansion aims to provide comprehensive support to a larger population.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4908488988876343,
+      "similarities": {
+        "ContextObjective": 0.4730834364891052,
+        "BenefitsAssistance": 0.4908488988876343,
+        "Eligibility": 0.4777390956878662,
+        "ApplicationProcess": 0.4132121801376343,
+        "TimelineFrequency": 0.3870455026626587,
+        "AuthoritiesGovernance": 0.41775205731391907,
+        "DefinitionsReferences": 0.4017397165298462
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of preventive healthcare.",
+      "role": "ContextObjective",
+      "confidence": 0.4852851927280426,
+      "similarities": {
+        "ContextObjective": 0.4852851927280426,
+        "BenefitsAssistance": 0.4444952607154846,
+        "Eligibility": 0.4148680567741394,
+        "ApplicationProcess": 0.41085100173950195,
+        "TimelineFrequency": 0.36705881357192993,
+        "AuthoritiesGovernance": 0.3353549540042877,
+        "DefinitionsReferences": 0.36633044481277466
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to undergo regular health check-ups.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5344560146331787,
+      "similarities": {
+        "ContextObjective": 0.42618197202682495,
+        "BenefitsAssistance": 0.5344560146331787,
+        "Eligibility": 0.5232904553413391,
+        "ApplicationProcess": 0.48831018805503845,
+        "TimelineFrequency": 0.4214259386062622,
+        "AuthoritiesGovernance": 0.4214573800563812,
+        "DefinitionsReferences": 0.4275321364402771
+      }
+    },
+    {
+      "sentence": "This proactive approach can help in early detection and management of chronic diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47777238488197327,
+      "similarities": {
+        "ContextObjective": 0.4460030496120453,
+        "BenefitsAssistance": 0.47777238488197327,
+        "Eligibility": 0.46488484740257263,
+        "ApplicationProcess": 0.443649560213089,
+        "TimelineFrequency": 0.47651585936546326,
+        "AuthoritiesGovernance": 0.42356595396995544,
+        "DefinitionsReferences": 0.38770732283592224
+      }
+    },
+    {
+      "sentence": "The government provides training to healthcare providers on the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5179793834686279,
+      "similarities": {
+        "ContextObjective": 0.5146902203559875,
+        "BenefitsAssistance": 0.4734411835670471,
+        "Eligibility": 0.5075379014015198,
+        "ApplicationProcess": 0.4677993059158325,
+        "TimelineFrequency": 0.4338565170764923,
+        "AuthoritiesGovernance": 0.5179793834686279,
+        "DefinitionsReferences": 0.42097973823547363
+      }
+    },
+    {
+      "sentence": "This ensures that they are well-informed and can assist patients effectively.",
+      "role": "Eligibility",
+      "confidence": 0.4700128734111786,
+      "similarities": {
+        "ContextObjective": 0.43469488620758057,
+        "BenefitsAssistance": 0.4595470428466797,
+        "Eligibility": 0.4700128734111786,
+        "ApplicationProcess": 0.43091750144958496,
+        "TimelineFrequency": 0.3868752717971802,
+        "AuthoritiesGovernance": 0.4629639983177185,
+        "DefinitionsReferences": 0.3949403464794159
+      }
+    },
+    {
+      "sentence": "The Financial Assistance for Treatment of Chronic Diseases scheme is a vital step towards universal healthcare in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5057844519615173,
+      "similarities": {
+        "ContextObjective": 0.47151559591293335,
+        "BenefitsAssistance": 0.5057844519615173,
+        "Eligibility": 0.48665672540664673,
+        "ApplicationProcess": 0.43667760491371155,
+        "TimelineFrequency": 0.38658443093299866,
+        "AuthoritiesGovernance": 0.42849305272102356,
+        "DefinitionsReferences": 0.36500096321105957
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving health outcomes for all citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4526231288909912,
+      "similarities": {
+        "ContextObjective": 0.4145128130912781,
+        "BenefitsAssistance": 0.41716694831848145,
+        "Eligibility": 0.4250904619693756,
+        "ApplicationProcess": 0.3868463933467865,
+        "TimelineFrequency": 0.35888347029685974,
+        "AuthoritiesGovernance": 0.4526231288909912,
+        "DefinitionsReferences": 0.39870119094848633
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial resource for those battling chronic illnesses.",
+      "role": "Eligibility",
+      "confidence": 0.5342506170272827,
+      "similarities": {
+        "ContextObjective": 0.5197938680648804,
+        "BenefitsAssistance": 0.5286068916320801,
+        "Eligibility": 0.5342506170272827,
+        "ApplicationProcess": 0.4494953751564026,
+        "TimelineFrequency": 0.47640088200569153,
+        "AuthoritiesGovernance": 0.4501480460166931,
+        "DefinitionsReferences": 0.4126296937465668
+      }
+    },
+    {
+      "sentence": "It empowers individuals to seek necessary medical treatment without financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4893319010734558,
+      "similarities": {
+        "ContextObjective": 0.4479914605617523,
+        "BenefitsAssistance": 0.4893319010734558,
+        "Eligibility": 0.4511185586452484,
+        "ApplicationProcess": 0.41788768768310547,
+        "TimelineFrequency": 0.36776554584503174,
+        "AuthoritiesGovernance": 0.37055081129074097,
+        "DefinitionsReferences": 0.3458999693393707
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the scheme's performance and make necessary adjustments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49477648735046387,
+      "similarities": {
+        "ContextObjective": 0.48875880241394043,
+        "BenefitsAssistance": 0.4882854223251343,
+        "Eligibility": 0.48586544394493103,
+        "ApplicationProcess": 0.49429965019226074,
+        "TimelineFrequency": 0.4415270686149597,
+        "AuthoritiesGovernance": 0.49477648735046387,
+        "DefinitionsReferences": 0.4269999563694
+      }
+    },
+    {
+      "sentence": "This ensures that it remains relevant and beneficial to the target population.",
+      "role": "ContextObjective",
+      "confidence": 0.5179666876792908,
+      "similarities": {
+        "ContextObjective": 0.5179666876792908,
+        "BenefitsAssistance": 0.3822401762008667,
+        "Eligibility": 0.4926043450832367,
+        "ApplicationProcess": 0.39725130796432495,
+        "TimelineFrequency": 0.3949112296104431,
+        "AuthoritiesGovernance": 0.4050509035587311,
+        "DefinitionsReferences": 0.4201561212539673
+      }
+    },
+    {
+      "sentence": "In conclusion, the Financial Assistance for Treatment of Chronic Diseases scheme is a significant welfare initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5098634362220764,
+      "similarities": {
+        "ContextObjective": 0.46353140473365784,
+        "BenefitsAssistance": 0.5098634362220764,
+        "Eligibility": 0.44231778383255005,
+        "ApplicationProcess": 0.3814290165901184,
+        "TimelineFrequency": 0.3676878809928894,
+        "AuthoritiesGovernance": 0.38290804624557495,
+        "DefinitionsReferences": 0.34699225425720215
+      }
+    },
+    {
+      "sentence": "It provides essential financial support to individuals suffering from chronic diseases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5861923694610596,
+      "similarities": {
+        "ContextObjective": 0.4269534647464752,
+        "BenefitsAssistance": 0.5861923694610596,
+        "Eligibility": 0.497353732585907,
+        "ApplicationProcess": 0.4049600660800934,
+        "TimelineFrequency": 0.43103039264678955,
+        "AuthoritiesGovernance": 0.4244292676448822,
+        "DefinitionsReferences": 0.401903361082077
+      }
+    },
+    {
+      "sentence": "With clear eligibility criteria and a straightforward application process, it aims to make healthcare accessible.",
+      "role": "Eligibility",
+      "confidence": 0.5773777961730957,
+      "similarities": {
+        "ContextObjective": 0.4956262707710266,
+        "BenefitsAssistance": 0.4426219165325165,
+        "Eligibility": 0.5773777961730957,
+        "ApplicationProcess": 0.5481431484222412,
+        "TimelineFrequency": 0.46264371275901794,
+        "AuthoritiesGovernance": 0.4171457290649414,
+        "DefinitionsReferences": 0.3652553856372833
+      }
+    },
+    {
+      "sentence": "The government’s ongoing commitment to this scheme highlights its importance in the Indian healthcare landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.4691500961780548,
+      "similarities": {
+        "ContextObjective": 0.4691500961780548,
+        "BenefitsAssistance": 0.41235798597335815,
+        "Eligibility": 0.4173927903175354,
+        "ApplicationProcess": 0.38983339071273804,
+        "TimelineFrequency": 0.36876171827316284,
+        "AuthoritiesGovernance": 0.39017462730407715,
+        "DefinitionsReferences": 0.38955894112586975
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 24,
+    "Eligibility": 12,
+    "ContextObjective": 12,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 8
+  },
+  "processing_timestamp": "2025-09-25T20:41:51.040230"
+}

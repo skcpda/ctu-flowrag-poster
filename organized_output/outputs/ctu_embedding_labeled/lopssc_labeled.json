@@ -1,0 +1,828 @@
+{
+  "scheme_name": "Livelihood Opportunity Promotion Scheme (Scheduled Caste)",
+  "total_sentences": 58,
+  "labeled_sentences": [
+    {
+      "sentence": "The Livelihood Opportunity Promotion Scheme for Scheduled Castes is a significant initiative by the Government of India aimed at enhancing the livelihood opportunities for individuals belonging to Scheduled Castes.",
+      "role": "ContextObjective",
+      "confidence": 0.5381872653961182,
+      "similarities": {
+        "ContextObjective": 0.5381872653961182,
+        "BenefitsAssistance": 0.40189117193222046,
+        "Eligibility": 0.49667179584503174,
+        "ApplicationProcess": 0.41570407152175903,
+        "TimelineFrequency": 0.4279124140739441,
+        "AuthoritiesGovernance": 0.4511389136314392,
+        "DefinitionsReferences": 0.3933343291282654
+      }
+    },
+    {
+      "sentence": "This scheme was launched on 1st April 2016 as part of the broader strategy to empower marginalized communities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5645263195037842,
+      "similarities": {
+        "ContextObjective": 0.5645263195037842,
+        "BenefitsAssistance": 0.3969458043575287,
+        "Eligibility": 0.44742074608802795,
+        "ApplicationProcess": 0.3731563687324524,
+        "TimelineFrequency": 0.3783971071243286,
+        "AuthoritiesGovernance": 0.4109874367713928,
+        "DefinitionsReferences": 0.3348539471626282
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide skill development and employment opportunities to Scheduled Caste individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.5555022954940796,
+      "similarities": {
+        "ContextObjective": 0.5555022954940796,
+        "BenefitsAssistance": 0.3685271143913269,
+        "Eligibility": 0.47431033849716187,
+        "ApplicationProcess": 0.42020559310913086,
+        "TimelineFrequency": 0.4219701588153839,
+        "AuthoritiesGovernance": 0.4110355079174042,
+        "DefinitionsReferences": 0.3579687476158142
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance the income levels of Scheduled Caste households by promoting self-employment and entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.5005587935447693,
+      "similarities": {
+        "ContextObjective": 0.5005587935447693,
+        "BenefitsAssistance": 0.4009134769439697,
+        "Eligibility": 0.41858798265457153,
+        "ApplicationProcess": 0.36788976192474365,
+        "TimelineFrequency": 0.35910144448280334,
+        "AuthoritiesGovernance": 0.3468259274959564,
+        "DefinitionsReferences": 0.3098594546318054
+      }
+    },
+    {
+      "sentence": "The government has set a target of providing skill training to approximately 1.5 million Scheduled Caste individuals by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.4393305778503418,
+      "similarities": {
+        "ContextObjective": 0.4393305778503418,
+        "BenefitsAssistance": 0.3525463938713074,
+        "Eligibility": 0.43202507495880127,
+        "ApplicationProcess": 0.3573315143585205,
+        "TimelineFrequency": 0.3740741014480591,
+        "AuthoritiesGovernance": 0.39613077044487,
+        "DefinitionsReferences": 0.33768272399902344
+      }
+    },
+    {
+      "sentence": "This initiative is designed to ensure that at least 50 percent of the beneficiaries are women.",
+      "role": "Eligibility",
+      "confidence": 0.46655192971229553,
+      "similarities": {
+        "ContextObjective": 0.4309273660182953,
+        "BenefitsAssistance": 0.40163007378578186,
+        "Eligibility": 0.46655192971229553,
+        "ApplicationProcess": 0.3860921561717987,
+        "TimelineFrequency": 0.3757358491420746,
+        "AuthoritiesGovernance": 0.3943712115287781,
+        "DefinitionsReferences": 0.3279118835926056
+      }
+    },
+    {
+      "sentence": "The scheme focuses on various sectors including agriculture, manufacturing, services, and traditional crafts.",
+      "role": "ContextObjective",
+      "confidence": 0.5609162449836731,
+      "similarities": {
+        "ContextObjective": 0.5609162449836731,
+        "BenefitsAssistance": 0.49234357476234436,
+        "Eligibility": 0.4851299524307251,
+        "ApplicationProcess": 0.455555260181427,
+        "TimelineFrequency": 0.47187089920043945,
+        "AuthoritiesGovernance": 0.46570730209350586,
+        "DefinitionsReferences": 0.4578246474266052
+      }
+    },
+    {
+      "sentence": "Financial assistance is provided to eligible beneficiaries to help them start their own businesses or enhance their existing livelihoods.",
+      "role": "Eligibility",
+      "confidence": 0.5888471007347107,
+      "similarities": {
+        "ContextObjective": 0.5304886698722839,
+        "BenefitsAssistance": 0.5719679594039917,
+        "Eligibility": 0.5888471007347107,
+        "ApplicationProcess": 0.4791910648345947,
+        "TimelineFrequency": 0.43192440271377563,
+        "AuthoritiesGovernance": 0.45412740111351013,
+        "DefinitionsReferences": 0.42822569608688354
+      }
+    },
+    {
+      "sentence": "Under this scheme, beneficiaries can receive up to INR 1 lakh as a subsidy for starting a new business.",
+      "role": "Eligibility",
+      "confidence": 0.5329098701477051,
+      "similarities": {
+        "ContextObjective": 0.48945900797843933,
+        "BenefitsAssistance": 0.5003756284713745,
+        "Eligibility": 0.5329098701477051,
+        "ApplicationProcess": 0.4293995201587677,
+        "TimelineFrequency": 0.4007378816604614,
+        "AuthoritiesGovernance": 0.37517696619033813,
+        "DefinitionsReferences": 0.3881641924381256
+      }
+    },
+    {
+      "sentence": "The scheme also provides for skill development training programs that last between 3 to 6 months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5009953379631042,
+      "similarities": {
+        "ContextObjective": 0.5004901885986328,
+        "BenefitsAssistance": 0.4211466908454895,
+        "Eligibility": 0.45670074224472046,
+        "ApplicationProcess": 0.443464457988739,
+        "TimelineFrequency": 0.5009953379631042,
+        "AuthoritiesGovernance": 0.4159676432609558,
+        "DefinitionsReferences": 0.4193241596221924
+      }
+    },
+    {
+      "sentence": "These training programs are conducted through various training institutes and organizations recognized by the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.535176694393158,
+      "similarities": {
+        "ContextObjective": 0.46934273838996887,
+        "BenefitsAssistance": 0.4066363573074341,
+        "Eligibility": 0.47069406509399414,
+        "ApplicationProcess": 0.43661850690841675,
+        "TimelineFrequency": 0.4260389804840088,
+        "AuthoritiesGovernance": 0.535176694393158,
+        "DefinitionsReferences": 0.44294747710227966
+      }
+    },
+    {
+      "sentence": "Eligibility for the scheme is primarily based on caste and income criteria.",
+      "role": "Eligibility",
+      "confidence": 0.5969049334526062,
+      "similarities": {
+        "ContextObjective": 0.5116763710975647,
+        "BenefitsAssistance": 0.4669782221317291,
+        "Eligibility": 0.5969049334526062,
+        "ApplicationProcess": 0.475610613822937,
+        "TimelineFrequency": 0.4555598795413971,
+        "AuthoritiesGovernance": 0.39040711522102356,
+        "DefinitionsReferences": 0.37203970551490784
+      }
+    },
+    {
+      "sentence": "Individuals must belong to Scheduled Castes as defined in the Constitution of India.",
+      "role": "Eligibility",
+      "confidence": 0.5362383127212524,
+      "similarities": {
+        "ContextObjective": 0.4541797637939453,
+        "BenefitsAssistance": 0.38036248087882996,
+        "Eligibility": 0.5362383127212524,
+        "ApplicationProcess": 0.44995224475860596,
+        "TimelineFrequency": 0.4303392171859741,
+        "AuthoritiesGovernance": 0.44361060857772827,
+        "DefinitionsReferences": 0.45801129937171936
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at INR 3 lakh per annum for urban areas and INR 2 lakh per annum for rural areas.",
+      "role": "Eligibility",
+      "confidence": 0.5590789318084717,
+      "similarities": {
+        "ContextObjective": 0.4160531759262085,
+        "BenefitsAssistance": 0.44136637449264526,
+        "Eligibility": 0.5590789318084717,
+        "ApplicationProcess": 0.42733755707740784,
+        "TimelineFrequency": 0.42379826307296753,
+        "AuthoritiesGovernance": 0.35219067335128784,
+        "DefinitionsReferences": 0.3680105209350586
+      }
+    },
+    {
+      "sentence": "Applicants must be aged between 18 to 45 years to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6367373466491699,
+      "similarities": {
+        "ContextObjective": 0.5493058562278748,
+        "BenefitsAssistance": 0.4802863895893097,
+        "Eligibility": 0.6367373466491699,
+        "ApplicationProcess": 0.5673508644104004,
+        "TimelineFrequency": 0.5259144306182861,
+        "AuthoritiesGovernance": 0.3798292577266693,
+        "DefinitionsReferences": 0.36435529589653015
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not a strict requirement but basic literacy is encouraged.",
+      "role": "ContextObjective",
+      "confidence": 0.44472575187683105,
+      "similarities": {
+        "ContextObjective": 0.44472575187683105,
+        "BenefitsAssistance": 0.42793673276901245,
+        "Eligibility": 0.43293142318725586,
+        "ApplicationProcess": 0.43111974000930786,
+        "TimelineFrequency": 0.38729000091552734,
+        "AuthoritiesGovernance": 0.37795835733413696,
+        "DefinitionsReferences": 0.4263688325881958
+      }
+    },
+    {
+      "sentence": "The application process for the Livelihood Opportunity Promotion Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6650347709655762,
+      "similarities": {
+        "ContextObjective": 0.6045100688934326,
+        "BenefitsAssistance": 0.48143768310546875,
+        "Eligibility": 0.6003864407539368,
+        "ApplicationProcess": 0.6650347709655762,
+        "TimelineFrequency": 0.5744218826293945,
+        "AuthoritiesGovernance": 0.5163397789001465,
+        "DefinitionsReferences": 0.4868617057800293
+      }
+    },
+    {
+      "sentence": "Interested individuals must first visit the official website of the Ministry of Social Justice and Empowerment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5324795246124268,
+      "similarities": {
+        "ContextObjective": 0.48983144760131836,
+        "BenefitsAssistance": 0.40357694029808044,
+        "Eligibility": 0.4967902600765228,
+        "ApplicationProcess": 0.5324795246124268,
+        "TimelineFrequency": 0.40152472257614136,
+        "AuthoritiesGovernance": 0.48218363523483276,
+        "DefinitionsReferences": 0.4183650016784668
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form available online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.758642315864563,
+      "similarities": {
+        "ContextObjective": 0.4839334189891815,
+        "BenefitsAssistance": 0.5135431289672852,
+        "Eligibility": 0.6133712530136108,
+        "ApplicationProcess": 0.758642315864563,
+        "TimelineFrequency": 0.5707775354385376,
+        "AuthoritiesGovernance": 0.464728444814682,
+        "DefinitionsReferences": 0.45835644006729126
+      }
+    },
+    {
+      "sentence": "Required documents include a caste certificate, income certificate, and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6069811582565308,
+      "similarities": {
+        "ContextObjective": 0.46568065881729126,
+        "BenefitsAssistance": 0.564163088798523,
+        "Eligibility": 0.540050745010376,
+        "ApplicationProcess": 0.6069811582565308,
+        "TimelineFrequency": 0.4869493544101715,
+        "AuthoritiesGovernance": 0.4492419958114624,
+        "DefinitionsReferences": 0.5304704904556274
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "Eligible candidates are then invited for an interview or counseling session.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5602657794952393,
+      "similarities": {
+        "ContextObjective": 0.48721233010292053,
+        "BenefitsAssistance": 0.4190415143966675,
+        "Eligibility": 0.5491403937339783,
+        "ApplicationProcess": 0.5602657794952393,
+        "TimelineFrequency": 0.5264232158660889,
+        "AuthoritiesGovernance": 0.4206172525882721,
+        "DefinitionsReferences": 0.3752184808254242
+      }
+    },
+    {
+      "sentence": "After successful verification, beneficiaries are enrolled in the skill development programs.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5495861768722534,
+      "similarities": {
+        "ContextObjective": 0.4750305116176605,
+        "BenefitsAssistance": 0.48125094175338745,
+        "Eligibility": 0.5338713526725769,
+        "ApplicationProcess": 0.5495861768722534,
+        "TimelineFrequency": 0.453647255897522,
+        "AuthoritiesGovernance": 0.4582943022251129,
+        "DefinitionsReferences": 0.44013455510139465
+      }
+    },
+    {
+      "sentence": "The disbursement of financial assistance occurs in phases.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.654883861541748,
+      "similarities": {
+        "ContextObjective": 0.533614993095398,
+        "BenefitsAssistance": 0.654883861541748,
+        "Eligibility": 0.5660573840141296,
+        "ApplicationProcess": 0.545827329158783,
+        "TimelineFrequency": 0.5713481307029724,
+        "AuthoritiesGovernance": 0.5563429594039917,
+        "DefinitionsReferences": 0.47437649965286255
+      }
+    },
+    {
+      "sentence": "Initially, a part of the subsidy is released to cover training costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.531460702419281,
+      "similarities": {
+        "ContextObjective": 0.4667065441608429,
+        "BenefitsAssistance": 0.531460702419281,
+        "Eligibility": 0.47877049446105957,
+        "ApplicationProcess": 0.4420131742954254,
+        "TimelineFrequency": 0.4695141315460205,
+        "AuthoritiesGovernance": 0.4525337219238281,
+        "DefinitionsReferences": 0.4187574088573456
+      }
+    },
+    {
+      "sentence": "The remaining amount is disbursed upon successful completion of the training and establishment of the business.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5041610598564148,
+      "similarities": {
+        "ContextObjective": 0.4463867247104645,
+        "BenefitsAssistance": 0.5041610598564148,
+        "Eligibility": 0.4305829703807831,
+        "ApplicationProcess": 0.4429416060447693,
+        "TimelineFrequency": 0.38173478841781616,
+        "AuthoritiesGovernance": 0.4119720458984375,
+        "DefinitionsReferences": 0.3896867632865906
+      }
+    },
+    {
+      "sentence": "The scheme is implemented through various agencies including the Ministry of Social Justice and Empowerment and state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6271581053733826,
+      "similarities": {
+        "ContextObjective": 0.5478463172912598,
+        "BenefitsAssistance": 0.47654977440834045,
+        "Eligibility": 0.5203555822372437,
+        "ApplicationProcess": 0.4873727560043335,
+        "TimelineFrequency": 0.4556031823158264,
+        "AuthoritiesGovernance": 0.6271581053733826,
+        "DefinitionsReferences": 0.4560091495513916
+      }
+    },
+    {
+      "sentence": "State governments are responsible for the execution of the scheme at the grassroots level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5931033492088318,
+      "similarities": {
+        "ContextObjective": 0.534514844417572,
+        "BenefitsAssistance": 0.4196862578392029,
+        "Eligibility": 0.5062859654426575,
+        "ApplicationProcess": 0.44830432534217834,
+        "TimelineFrequency": 0.37766551971435547,
+        "AuthoritiesGovernance": 0.5931033492088318,
+        "DefinitionsReferences": 0.435561865568161
+      }
+    },
+    {
+      "sentence": "They coordinate with local training institutes and organizations to ensure effective implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6316606998443604,
+      "similarities": {
+        "ContextObjective": 0.4573017954826355,
+        "BenefitsAssistance": 0.4249609112739563,
+        "Eligibility": 0.47469204664230347,
+        "ApplicationProcess": 0.45047056674957275,
+        "TimelineFrequency": 0.43682926893234253,
+        "AuthoritiesGovernance": 0.6316606998443604,
+        "DefinitionsReferences": 0.4458962678909302
+      }
+    },
+    {
+      "sentence": "The Ministry of Social Justice and Empowerment also conducts regular monitoring and evaluation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48602089285850525,
+      "similarities": {
+        "ContextObjective": 0.4838142395019531,
+        "BenefitsAssistance": 0.4335471987724304,
+        "Eligibility": 0.45992791652679443,
+        "ApplicationProcess": 0.46814483404159546,
+        "TimelineFrequency": 0.4188031256198883,
+        "AuthoritiesGovernance": 0.48602089285850525,
+        "DefinitionsReferences": 0.4099741280078888
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the program continuously.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5008882284164429,
+      "similarities": {
+        "ContextObjective": 0.4855772852897644,
+        "BenefitsAssistance": 0.4883667826652527,
+        "Eligibility": 0.487846314907074,
+        "ApplicationProcess": 0.47019749879837036,
+        "TimelineFrequency": 0.45802104473114014,
+        "AuthoritiesGovernance": 0.5008882284164429,
+        "DefinitionsReferences": 0.4445629417896271
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in creating self-employment opportunities for Scheduled Caste individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.49975866079330444,
+      "similarities": {
+        "ContextObjective": 0.49975866079330444,
+        "BenefitsAssistance": 0.38206130266189575,
+        "Eligibility": 0.41768568754196167,
+        "ApplicationProcess": 0.3529444932937622,
+        "TimelineFrequency": 0.35577112436294556,
+        "AuthoritiesGovernance": 0.3286595642566681,
+        "DefinitionsReferences": 0.33364802598953247
+      }
+    },
+    {
+      "sentence": "As of 2023, over 500,000 beneficiaries have been trained under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4840412139892578,
+      "similarities": {
+        "ContextObjective": 0.4840412139892578,
+        "BenefitsAssistance": 0.44020703434944153,
+        "Eligibility": 0.4794829189777374,
+        "ApplicationProcess": 0.39894410967826843,
+        "TimelineFrequency": 0.40615782141685486,
+        "AuthoritiesGovernance": 0.3971247971057892,
+        "DefinitionsReferences": 0.38260364532470703
+      }
+    },
+    {
+      "sentence": "The success rate of beneficiaries starting their own businesses is reported to be around 60 percent.",
+      "role": "Eligibility",
+      "confidence": 0.4294624328613281,
+      "similarities": {
+        "ContextObjective": 0.40784430503845215,
+        "BenefitsAssistance": 0.404644250869751,
+        "Eligibility": 0.4294624328613281,
+        "ApplicationProcess": 0.38625308871269226,
+        "TimelineFrequency": 0.3289029002189636,
+        "AuthoritiesGovernance": 0.3534504175186157,
+        "DefinitionsReferences": 0.3223761022090912
+      }
+    },
+    {
+      "sentence": "The scheme has also contributed to reducing poverty levels among Scheduled Castes.",
+      "role": "ContextObjective",
+      "confidence": 0.45451343059539795,
+      "similarities": {
+        "ContextObjective": 0.45451343059539795,
+        "BenefitsAssistance": 0.3938409388065338,
+        "Eligibility": 0.4313463568687439,
+        "ApplicationProcess": 0.3566226065158844,
+        "TimelineFrequency": 0.3364278972148895,
+        "AuthoritiesGovernance": 0.37439483404159546,
+        "DefinitionsReferences": 0.32834744453430176
+      }
+    },
+    {
+      "sentence": "It has played a crucial role in promoting social inclusion and economic empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.5086462497711182,
+      "similarities": {
+        "ContextObjective": 0.5086462497711182,
+        "BenefitsAssistance": 0.46492746472358704,
+        "Eligibility": 0.4636186957359314,
+        "ApplicationProcess": 0.3852691650390625,
+        "TimelineFrequency": 0.362316757440567,
+        "AuthoritiesGovernance": 0.404835045337677,
+        "DefinitionsReferences": 0.4088023602962494
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crores for the implementation of this scheme for the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.49445641040802,
+      "similarities": {
+        "ContextObjective": 0.49445641040802,
+        "BenefitsAssistance": 0.47273510694503784,
+        "Eligibility": 0.4654618501663208,
+        "ApplicationProcess": 0.42588257789611816,
+        "TimelineFrequency": 0.4423229694366455,
+        "AuthoritiesGovernance": 0.45857498049736023,
+        "DefinitionsReferences": 0.3616548776626587
+      }
+    },
+    {
+      "sentence": "This funding is aimed at expanding the reach of the scheme to more beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5643002986907959,
+      "similarities": {
+        "ContextObjective": 0.5376946330070496,
+        "BenefitsAssistance": 0.47347646951675415,
+        "Eligibility": 0.5643002986907959,
+        "ApplicationProcess": 0.4200821816921234,
+        "TimelineFrequency": 0.41374918818473816,
+        "AuthoritiesGovernance": 0.4280935823917389,
+        "DefinitionsReferences": 0.3929651379585266
+      }
+    },
+    {
+      "sentence": "The Livelihood Opportunity Promotion Scheme is part of a larger framework of welfare schemes targeting marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5262963771820068,
+      "similarities": {
+        "ContextObjective": 0.5262963771820068,
+        "BenefitsAssistance": 0.4275341331958771,
+        "Eligibility": 0.49493950605392456,
+        "ApplicationProcess": 0.37460941076278687,
+        "TimelineFrequency": 0.389587938785553,
+        "AuthoritiesGovernance": 0.4665791094303131,
+        "DefinitionsReferences": 0.3844844698905945
+      }
+    },
+    {
+      "sentence": "It complements other initiatives such as the Pradhan Mantri Employment Generation Programme and the National Rural Livelihoods Mission.",
+      "role": "ContextObjective",
+      "confidence": 0.4808970093727112,
+      "similarities": {
+        "ContextObjective": 0.4808970093727112,
+        "BenefitsAssistance": 0.4162715673446655,
+        "Eligibility": 0.40126174688339233,
+        "ApplicationProcess": 0.3822524845600128,
+        "TimelineFrequency": 0.3617960214614868,
+        "AuthoritiesGovernance": 0.38182294368743896,
+        "DefinitionsReferences": 0.37179774045944214
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of financial literacy among beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5178179144859314,
+      "similarities": {
+        "ContextObjective": 0.4958377480506897,
+        "BenefitsAssistance": 0.5178179144859314,
+        "Eligibility": 0.4967556893825531,
+        "ApplicationProcess": 0.4057316482067108,
+        "TimelineFrequency": 0.36504605412483215,
+        "AuthoritiesGovernance": 0.3516870439052582,
+        "DefinitionsReferences": 0.3751920461654663
+      }
+    },
+    {
+      "sentence": "Workshops on financial management and business planning are conducted as part of the training.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4895651936531067,
+      "similarities": {
+        "ContextObjective": 0.4594036340713501,
+        "BenefitsAssistance": 0.4895651936531067,
+        "Eligibility": 0.420870304107666,
+        "ApplicationProcess": 0.4167061746120453,
+        "TimelineFrequency": 0.45269471406936646,
+        "AuthoritiesGovernance": 0.43578779697418213,
+        "DefinitionsReferences": 0.4470391869544983
+      }
+    },
+    {
+      "sentence": "Beneficiaries are also provided with mentorship support after the training period.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46805980801582336,
+      "similarities": {
+        "ContextObjective": 0.4563857316970825,
+        "BenefitsAssistance": 0.46805980801582336,
+        "Eligibility": 0.46800217032432556,
+        "ApplicationProcess": 0.41654035449028015,
+        "TimelineFrequency": 0.4193098545074463,
+        "AuthoritiesGovernance": 0.44681185483932495,
+        "DefinitionsReferences": 0.42489516735076904
+      }
+    },
+    {
+      "sentence": "This mentorship helps them navigate the challenges of starting and running a business.",
+      "role": "ContextObjective",
+      "confidence": 0.4540300965309143,
+      "similarities": {
+        "ContextObjective": 0.4540300965309143,
+        "BenefitsAssistance": 0.3989052176475525,
+        "Eligibility": 0.4371453821659088,
+        "ApplicationProcess": 0.41004863381385803,
+        "TimelineFrequency": 0.3909110426902771,
+        "AuthoritiesGovernance": 0.39531245827674866,
+        "DefinitionsReferences": 0.40968599915504456
+      }
+    },
+    {
+      "sentence": "The scheme encourages the formation of self-help groups among beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5370151996612549,
+      "similarities": {
+        "ContextObjective": 0.5370151996612549,
+        "BenefitsAssistance": 0.470540314912796,
+        "Eligibility": 0.4883856475353241,
+        "ApplicationProcess": 0.38897863030433655,
+        "TimelineFrequency": 0.3615702986717224,
+        "AuthoritiesGovernance": 0.428727388381958,
+        "DefinitionsReferences": 0.37582725286483765
+      }
+    },
+    {
+      "sentence": "These groups provide a platform for sharing resources and knowledge.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5435293912887573,
+      "similarities": {
+        "ContextObjective": 0.5397817492485046,
+        "BenefitsAssistance": 0.4912368655204773,
+        "Eligibility": 0.4875802993774414,
+        "ApplicationProcess": 0.4177200198173523,
+        "TimelineFrequency": 0.4354206323623657,
+        "AuthoritiesGovernance": 0.531328558921814,
+        "DefinitionsReferences": 0.5435293912887573
+      }
+    },
+    {
+      "sentence": "The government has also partnered with various NGOs to enhance the outreach of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.506740927696228,
+      "similarities": {
+        "ContextObjective": 0.5063326358795166,
+        "BenefitsAssistance": 0.4452272057533264,
+        "Eligibility": 0.46314549446105957,
+        "ApplicationProcess": 0.41030770540237427,
+        "TimelineFrequency": 0.37956488132476807,
+        "AuthoritiesGovernance": 0.506740927696228,
+        "DefinitionsReferences": 0.43346095085144043
+      }
+    },
+    {
+      "sentence": "These partnerships help in identifying potential beneficiaries and providing additional support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5738652944564819,
+      "similarities": {
+        "ContextObjective": 0.5231655836105347,
+        "BenefitsAssistance": 0.5738652944564819,
+        "Eligibility": 0.5698438882827759,
+        "ApplicationProcess": 0.46359509229660034,
+        "TimelineFrequency": 0.4620719254016876,
+        "AuthoritiesGovernance": 0.4439971446990967,
+        "DefinitionsReferences": 0.4764779210090637
+      }
+    },
+    {
+      "sentence": "The Livelihood Opportunity Promotion Scheme has received positive feedback from various stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5448125600814819,
+      "similarities": {
+        "ContextObjective": 0.5448125600814819,
+        "BenefitsAssistance": 0.4364731013774872,
+        "Eligibility": 0.4890062212944031,
+        "ApplicationProcess": 0.42052486538887024,
+        "TimelineFrequency": 0.39251410961151123,
+        "AuthoritiesGovernance": 0.4568060338497162,
+        "DefinitionsReferences": 0.41786593198776245
+      }
+    },
+    {
+      "sentence": "Beneficiaries have reported increased confidence and improved economic conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5050795078277588,
+      "similarities": {
+        "ContextObjective": 0.43805092573165894,
+        "BenefitsAssistance": 0.5050795078277588,
+        "Eligibility": 0.44679850339889526,
+        "ApplicationProcess": 0.3882750868797302,
+        "TimelineFrequency": 0.3521971106529236,
+        "AuthoritiesGovernance": 0.3742228150367737,
+        "DefinitionsReferences": 0.3929181694984436
+      }
+    },
+    {
+      "sentence": "The scheme is seen as a vital step towards achieving the goals of social justice and equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5954663753509521,
+      "similarities": {
+        "ContextObjective": 0.5954663753509521,
+        "BenefitsAssistance": 0.3980364203453064,
+        "Eligibility": 0.47791171073913574,
+        "ApplicationProcess": 0.4479551911354065,
+        "TimelineFrequency": 0.3911818861961365,
+        "AuthoritiesGovernance": 0.4299895763397217,
+        "DefinitionsReferences": 0.4085535705089569
+      }
+    },
+    {
+      "sentence": "It aligns with the United Nations Sustainable Development Goals aimed at reducing inequalities.",
+      "role": "ContextObjective",
+      "confidence": 0.4834664463996887,
+      "similarities": {
+        "ContextObjective": 0.4834664463996887,
+        "BenefitsAssistance": 0.39204367995262146,
+        "Eligibility": 0.4421040713787079,
+        "ApplicationProcess": 0.3878549337387085,
+        "TimelineFrequency": 0.36391323804855347,
+        "AuthoritiesGovernance": 0.43940916657447815,
+        "DefinitionsReferences": 0.37859100103378296
+      }
+    },
+    {
+      "sentence": "The government continues to promote awareness about the scheme through various campaigns.",
+      "role": "ContextObjective",
+      "confidence": 0.548845648765564,
+      "similarities": {
+        "ContextObjective": 0.548845648765564,
+        "BenefitsAssistance": 0.46134963631629944,
+        "Eligibility": 0.45585668087005615,
+        "ApplicationProcess": 0.4585408568382263,
+        "TimelineFrequency": 0.42172616720199585,
+        "AuthoritiesGovernance": 0.4915679097175598,
+        "DefinitionsReferences": 0.44310587644577026
+      }
+    },
+    {
+      "sentence": "These campaigns aim to reach out to potential beneficiaries in remote areas.",
+      "role": "Eligibility",
+      "confidence": 0.5427112579345703,
+      "similarities": {
+        "ContextObjective": 0.5278815031051636,
+        "BenefitsAssistance": 0.4330958127975464,
+        "Eligibility": 0.5427112579345703,
+        "ApplicationProcess": 0.4169129729270935,
+        "TimelineFrequency": 0.4202992618083954,
+        "AuthoritiesGovernance": 0.4229111075401306,
+        "DefinitionsReferences": 0.37337708473205566
+      }
+    },
+    {
+      "sentence": "The impact of the scheme is regularly assessed through surveys and reports.",
+      "role": "ContextObjective",
+      "confidence": 0.506371021270752,
+      "similarities": {
+        "ContextObjective": 0.506371021270752,
+        "BenefitsAssistance": 0.48639076948165894,
+        "Eligibility": 0.4619819223880768,
+        "ApplicationProcess": 0.45649218559265137,
+        "TimelineFrequency": 0.4393256604671478,
+        "AuthoritiesGovernance": 0.46319907903671265,
+        "DefinitionsReferences": 0.423245370388031
+      }
+    },
+    {
+      "sentence": "The findings are used to make necessary adjustments to improve the scheme's effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5292633771896362,
+      "similarities": {
+        "ContextObjective": 0.5292633771896362,
+        "BenefitsAssistance": 0.479722261428833,
+        "Eligibility": 0.509669840335846,
+        "ApplicationProcess": 0.4862257242202759,
+        "TimelineFrequency": 0.4474974572658539,
+        "AuthoritiesGovernance": 0.5125325918197632,
+        "DefinitionsReferences": 0.4484405517578125
+      }
+    },
+    {
+      "sentence": "Overall, the Livelihood Opportunity Promotion Scheme for Scheduled Castes represents a comprehensive approach to empower marginalized communities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48757779598236084,
+      "similarities": {
+        "ContextObjective": 0.48757779598236084,
+        "BenefitsAssistance": 0.399830162525177,
+        "Eligibility": 0.4466155171394348,
+        "ApplicationProcess": 0.37015923857688904,
+        "TimelineFrequency": 0.3744215965270996,
+        "AuthoritiesGovernance": 0.41992896795272827,
+        "DefinitionsReferences": 0.369748055934906
+      }
+    },
+    {
+      "sentence": "It provides them with the necessary tools and resources to improve their livelihoods and achieve economic independence.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4522404074668884,
+      "similarities": {
+        "ContextObjective": 0.4515710473060608,
+        "BenefitsAssistance": 0.4522404074668884,
+        "Eligibility": 0.43844473361968994,
+        "ApplicationProcess": 0.409573495388031,
+        "TimelineFrequency": 0.372508704662323,
+        "AuthoritiesGovernance": 0.4210810363292694,
+        "DefinitionsReferences": 0.4144761860370636
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "Eligibility": 10,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 7,
+    "ApplicationProcess": 7,
+    "BenefitsAssistance": 9,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-24T21:09:08.216844"
+}

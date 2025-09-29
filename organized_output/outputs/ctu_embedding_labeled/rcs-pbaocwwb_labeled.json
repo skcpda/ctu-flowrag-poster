@@ -1,0 +1,799 @@
+{
+  "scheme_name": "Refund of Contribution Scheme (PBAOCWWB)",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "The Refund of Contribution Scheme is an initiative under the Pradhan Mantri Awas Yojana (PMAY) aimed at providing financial assistance to workers in the unorganized sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4695756435394287,
+      "similarities": {
+        "ContextObjective": 0.4639405608177185,
+        "BenefitsAssistance": 0.4695756435394287,
+        "Eligibility": 0.46727532148361206,
+        "ApplicationProcess": 0.42489349842071533,
+        "TimelineFrequency": 0.4070667624473572,
+        "AuthoritiesGovernance": 0.44846341013908386,
+        "DefinitionsReferences": 0.3418498933315277
+      }
+    },
+    {
+      "sentence": "This scheme was launched by the Government of India on 1st June 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5744090676307678,
+      "similarities": {
+        "ContextObjective": 0.5744090676307678,
+        "BenefitsAssistance": 0.4487341344356537,
+        "Eligibility": 0.48098230361938477,
+        "ApplicationProcess": 0.46213585138320923,
+        "TimelineFrequency": 0.4603317975997925,
+        "AuthoritiesGovernance": 0.4345337152481079,
+        "DefinitionsReferences": 0.36545005440711975
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to refund the contributions made by workers to the Building and Other Construction Workers Welfare Cess Fund.",
+      "role": "ContextObjective",
+      "confidence": 0.45644110441207886,
+      "similarities": {
+        "ContextObjective": 0.45644110441207886,
+        "BenefitsAssistance": 0.4057425558567047,
+        "Eligibility": 0.406796395778656,
+        "ApplicationProcess": 0.36090588569641113,
+        "TimelineFrequency": 0.33957481384277344,
+        "AuthoritiesGovernance": 0.42235425114631653,
+        "DefinitionsReferences": 0.286784291267395
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide a financial safety net for construction workers who have contributed to the fund but have not received any benefits.",
+      "role": "Eligibility",
+      "confidence": 0.4848131835460663,
+      "similarities": {
+        "ContextObjective": 0.44971829652786255,
+        "BenefitsAssistance": 0.46408942341804504,
+        "Eligibility": 0.4848131835460663,
+        "ApplicationProcess": 0.3771741986274719,
+        "TimelineFrequency": 0.3443942666053772,
+        "AuthoritiesGovernance": 0.3507983088493347,
+        "DefinitionsReferences": 0.27305400371551514
+      }
+    },
+    {
+      "sentence": "The specific goal of the scheme is to ensure that eligible construction workers can receive their contributions back, thereby improving their financial stability.",
+      "role": "ContextObjective",
+      "confidence": 0.5290443897247314,
+      "similarities": {
+        "ContextObjective": 0.5290443897247314,
+        "BenefitsAssistance": 0.48595839738845825,
+        "Eligibility": 0.5229069590568542,
+        "ApplicationProcess": 0.4523066580295563,
+        "TimelineFrequency": 0.41863128542900085,
+        "AuthoritiesGovernance": 0.4070305824279785,
+        "DefinitionsReferences": 0.3317696452140808
+      }
+    },
+    {
+      "sentence": "The scheme targets construction workers who are registered under the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act 1996.",
+      "role": "Eligibility",
+      "confidence": 0.5024919509887695,
+      "similarities": {
+        "ContextObjective": 0.46442002058029175,
+        "BenefitsAssistance": 0.35285091400146484,
+        "Eligibility": 0.5024919509887695,
+        "ApplicationProcess": 0.423662006855011,
+        "TimelineFrequency": 0.4132954478263855,
+        "AuthoritiesGovernance": 0.3943786025047302,
+        "DefinitionsReferences": 0.35579559206962585
+      }
+    },
+    {
+      "sentence": "Eligible workers can receive a refund of their contributions made to the welfare fund.",
+      "role": "Eligibility",
+      "confidence": 0.47211360931396484,
+      "similarities": {
+        "ContextObjective": 0.35361015796661377,
+        "BenefitsAssistance": 0.46023446321487427,
+        "Eligibility": 0.47211360931396484,
+        "ApplicationProcess": 0.36586010456085205,
+        "TimelineFrequency": 0.34924209117889404,
+        "AuthoritiesGovernance": 0.4222215414047241,
+        "DefinitionsReferences": 0.30878445506095886
+      }
+    },
+    {
+      "sentence": "The amount refunded is typically based on the contributions made by the worker over the years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49946945905685425,
+      "similarities": {
+        "ContextObjective": 0.38674840331077576,
+        "BenefitsAssistance": 0.49946945905685425,
+        "Eligibility": 0.46940770745277405,
+        "ApplicationProcess": 0.4165588617324829,
+        "TimelineFrequency": 0.4325443506240845,
+        "AuthoritiesGovernance": 0.4438038766384125,
+        "DefinitionsReferences": 0.41063183546066284
+      }
+    },
+    {
+      "sentence": "The refund amount can vary depending on the total contributions made by the worker.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5637781620025635,
+      "similarities": {
+        "ContextObjective": 0.3849296271800995,
+        "BenefitsAssistance": 0.5637781620025635,
+        "Eligibility": 0.5118777751922607,
+        "ApplicationProcess": 0.436465859413147,
+        "TimelineFrequency": 0.4599689245223999,
+        "AuthoritiesGovernance": 0.46400731801986694,
+        "DefinitionsReferences": 0.4137083888053894
+      }
+    },
+    {
+      "sentence": "For instance, if a worker has contributed ₹1,000 over a period, they are eligible to receive that amount back.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5206827521324158,
+      "similarities": {
+        "ContextObjective": 0.41587287187576294,
+        "BenefitsAssistance": 0.5206827521324158,
+        "Eligibility": 0.5136553645133972,
+        "ApplicationProcess": 0.42902180552482605,
+        "TimelineFrequency": 0.4253097176551819,
+        "AuthoritiesGovernance": 0.4020899534225464,
+        "DefinitionsReferences": 0.3815208077430725
+      }
+    },
+    {
+      "sentence": "The scheme also aims to enhance the overall welfare of construction workers by ensuring that they have access to their own funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4658968448638916,
+      "similarities": {
+        "ContextObjective": 0.4631270170211792,
+        "BenefitsAssistance": 0.4658968448638916,
+        "Eligibility": 0.4490956664085388,
+        "ApplicationProcess": 0.40466973185539246,
+        "TimelineFrequency": 0.3499094843864441,
+        "AuthoritiesGovernance": 0.39967697858810425,
+        "DefinitionsReferences": 0.3158084750175476
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Refund of Contribution Scheme include being a registered construction worker.",
+      "role": "Eligibility",
+      "confidence": 0.5767621994018555,
+      "similarities": {
+        "ContextObjective": 0.42273375391960144,
+        "BenefitsAssistance": 0.4433676302433014,
+        "Eligibility": 0.5767621994018555,
+        "ApplicationProcess": 0.48215237259864807,
+        "TimelineFrequency": 0.4445929527282715,
+        "AuthoritiesGovernance": 0.4040747880935669,
+        "DefinitionsReferences": 0.36124640703201294
+      }
+    },
+    {
+      "sentence": "Workers must have made contributions to the Building and Other Construction Workers Welfare Cess Fund.",
+      "role": "Eligibility",
+      "confidence": 0.4535728096961975,
+      "similarities": {
+        "ContextObjective": 0.36769944429397583,
+        "BenefitsAssistance": 0.4486948847770691,
+        "Eligibility": 0.4535728096961975,
+        "ApplicationProcess": 0.38873955607414246,
+        "TimelineFrequency": 0.3376506268978119,
+        "AuthoritiesGovernance": 0.3980979323387146,
+        "DefinitionsReferences": 0.35207855701446533
+      }
+    },
+    {
+      "sentence": "There is no specific age limit for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5624858140945435,
+      "similarities": {
+        "ContextObjective": 0.49051326513290405,
+        "BenefitsAssistance": 0.4340420961380005,
+        "Eligibility": 0.5624858140945435,
+        "ApplicationProcess": 0.44326695799827576,
+        "TimelineFrequency": 0.4522992968559265,
+        "AuthoritiesGovernance": 0.350243479013443,
+        "DefinitionsReferences": 0.3376554250717163
+      }
+    },
+    {
+      "sentence": "However, workers must be able to provide proof of their contributions to qualify for the refund.",
+      "role": "Eligibility",
+      "confidence": 0.5319477915763855,
+      "similarities": {
+        "ContextObjective": 0.3939906060695648,
+        "BenefitsAssistance": 0.523707926273346,
+        "Eligibility": 0.5319477915763855,
+        "ApplicationProcess": 0.515839159488678,
+        "TimelineFrequency": 0.41616833209991455,
+        "AuthoritiesGovernance": 0.4067716598510742,
+        "DefinitionsReferences": 0.40620186924934387
+      }
+    },
+    {
+      "sentence": "The application process for the Refund of Contribution Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6592119932174683,
+      "similarities": {
+        "ContextObjective": 0.5458698868751526,
+        "BenefitsAssistance": 0.5472667217254639,
+        "Eligibility": 0.594907283782959,
+        "ApplicationProcess": 0.6592119932174683,
+        "TimelineFrequency": 0.5753355026245117,
+        "AuthoritiesGovernance": 0.5332961082458496,
+        "DefinitionsReferences": 0.4579334259033203
+      }
+    },
+    {
+      "sentence": "First, eligible workers must gather the necessary documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6708564758300781,
+      "similarities": {
+        "ContextObjective": 0.5011925101280212,
+        "BenefitsAssistance": 0.5212000608444214,
+        "Eligibility": 0.594224214553833,
+        "ApplicationProcess": 0.6708564758300781,
+        "TimelineFrequency": 0.548029899597168,
+        "AuthoritiesGovernance": 0.4984208345413208,
+        "DefinitionsReferences": 0.5255114436149597
+      }
+    },
+    {
+      "sentence": "Required documents typically include proof of registration as a construction worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6007715463638306,
+      "similarities": {
+        "ContextObjective": 0.4437543749809265,
+        "BenefitsAssistance": 0.5012890100479126,
+        "Eligibility": 0.4939405024051666,
+        "ApplicationProcess": 0.6007715463638306,
+        "TimelineFrequency": 0.4977937936782837,
+        "AuthoritiesGovernance": 0.4310884177684784,
+        "DefinitionsReferences": 0.5231350660324097
+      }
+    },
+    {
+      "sentence": "Workers must also provide evidence of their contributions to the welfare fund.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5580027103424072,
+      "similarities": {
+        "ContextObjective": 0.43756890296936035,
+        "BenefitsAssistance": 0.5580027103424072,
+        "Eligibility": 0.5108468532562256,
+        "ApplicationProcess": 0.49534228444099426,
+        "TimelineFrequency": 0.40165701508522034,
+        "AuthoritiesGovernance": 0.4364392161369324,
+        "DefinitionsReferences": 0.4350166916847229
+      }
+    },
+    {
+      "sentence": "This may include receipts or statements from the welfare board.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6125943660736084,
+      "similarities": {
+        "ContextObjective": 0.48664748668670654,
+        "BenefitsAssistance": 0.6125943660736084,
+        "Eligibility": 0.5101807117462158,
+        "ApplicationProcess": 0.5016440153121948,
+        "TimelineFrequency": 0.46597763895988464,
+        "AuthoritiesGovernance": 0.4815320372581482,
+        "DefinitionsReferences": 0.5261040925979614
+      }
+    },
+    {
+      "sentence": "Once the documents are ready, workers must fill out the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6886037588119507,
+      "similarities": {
+        "ContextObjective": 0.4618762135505676,
+        "BenefitsAssistance": 0.47845783829689026,
+        "Eligibility": 0.547792911529541,
+        "ApplicationProcess": 0.6886037588119507,
+        "TimelineFrequency": 0.550504207611084,
+        "AuthoritiesGovernance": 0.4547050893306732,
+        "DefinitionsReferences": 0.4716256558895111
+      }
+    },
+    {
+      "sentence": "The application form can usually be obtained from the local office of the Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6147572994232178,
+      "similarities": {
+        "ContextObjective": 0.4563004970550537,
+        "BenefitsAssistance": 0.4480147957801819,
+        "Eligibility": 0.5309374332427979,
+        "ApplicationProcess": 0.6147572994232178,
+        "TimelineFrequency": 0.5136891007423401,
+        "AuthoritiesGovernance": 0.44348058104515076,
+        "DefinitionsReferences": 0.4233320355415344
+      }
+    },
+    {
+      "sentence": "After completing the form, workers must submit it along with the required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6384491324424744,
+      "similarities": {
+        "ContextObjective": 0.4278305768966675,
+        "BenefitsAssistance": 0.49890050292015076,
+        "Eligibility": 0.498897910118103,
+        "ApplicationProcess": 0.6384491324424744,
+        "TimelineFrequency": 0.47695350646972656,
+        "AuthoritiesGovernance": 0.47623181343078613,
+        "DefinitionsReferences": 0.48812997341156006
+      }
+    },
+    {
+      "sentence": "The submission can be done either in person at the local welfare board office or through an online portal if available.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6274650692939758,
+      "similarities": {
+        "ContextObjective": 0.46009963750839233,
+        "BenefitsAssistance": 0.5103467106819153,
+        "Eligibility": 0.5575369596481323,
+        "ApplicationProcess": 0.6274650692939758,
+        "TimelineFrequency": 0.501629114151001,
+        "AuthoritiesGovernance": 0.5054117441177368,
+        "DefinitionsReferences": 0.4203522801399231
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications can vary.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7160780429840088,
+      "similarities": {
+        "ContextObjective": 0.5396084785461426,
+        "BenefitsAssistance": 0.5333061814308167,
+        "Eligibility": 0.6099866628646851,
+        "ApplicationProcess": 0.6429999470710754,
+        "TimelineFrequency": 0.7160780429840088,
+        "AuthoritiesGovernance": 0.5254428386688232,
+        "DefinitionsReferences": 0.4990971088409424
+      }
+    },
+    {
+      "sentence": "Typically, the processing time may take anywhere from 30 to 60 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5882642269134521,
+      "similarities": {
+        "ContextObjective": 0.4341309666633606,
+        "BenefitsAssistance": 0.47872239351272583,
+        "Eligibility": 0.5138038396835327,
+        "ApplicationProcess": 0.5882642269134521,
+        "TimelineFrequency": 0.5818527936935425,
+        "AuthoritiesGovernance": 0.4591898024082184,
+        "DefinitionsReferences": 0.44822198152542114
+      }
+    },
+    {
+      "sentence": "Disbursement of the refund amount is usually done directly to the bank account of the worker.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49884557723999023,
+      "similarities": {
+        "ContextObjective": 0.34501564502716064,
+        "BenefitsAssistance": 0.49884557723999023,
+        "Eligibility": 0.41503429412841797,
+        "ApplicationProcess": 0.4240421652793884,
+        "TimelineFrequency": 0.3942742645740509,
+        "AuthoritiesGovernance": 0.4426957964897156,
+        "DefinitionsReferences": 0.34669065475463867
+      }
+    },
+    {
+      "sentence": "Workers must ensure that they provide accurate bank details to avoid delays in receiving the funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5192621946334839,
+      "similarities": {
+        "ContextObjective": 0.38759323954582214,
+        "BenefitsAssistance": 0.5192621946334839,
+        "Eligibility": 0.5063918828964233,
+        "ApplicationProcess": 0.5037144422531128,
+        "TimelineFrequency": 0.49202167987823486,
+        "AuthoritiesGovernance": 0.456246018409729,
+        "DefinitionsReferences": 0.40872257947921753
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5516312718391418,
+      "similarities": {
+        "ContextObjective": 0.45573779940605164,
+        "BenefitsAssistance": 0.39346927404403687,
+        "Eligibility": 0.4622640311717987,
+        "ApplicationProcess": 0.4034990668296814,
+        "TimelineFrequency": 0.3676057755947113,
+        "AuthoritiesGovernance": 0.5516312718391418,
+        "DefinitionsReferences": 0.3807101845741272
+      }
+    },
+    {
+      "sentence": "Each state has its own welfare board responsible for overseeing the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.594643235206604,
+      "similarities": {
+        "ContextObjective": 0.5151835680007935,
+        "BenefitsAssistance": 0.4684278666973114,
+        "Eligibility": 0.5321029424667358,
+        "ApplicationProcess": 0.4648280441761017,
+        "TimelineFrequency": 0.42705124616622925,
+        "AuthoritiesGovernance": 0.594643235206604,
+        "DefinitionsReferences": 0.43832844495773315
+      }
+    },
+    {
+      "sentence": "For instance, in Maharashtra, the Maharashtra Building and Other Construction Workers Welfare Board is responsible for managing the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47684988379478455,
+      "similarities": {
+        "ContextObjective": 0.4704282581806183,
+        "BenefitsAssistance": 0.41824591159820557,
+        "Eligibility": 0.4503638446331024,
+        "ApplicationProcess": 0.42262038588523865,
+        "TimelineFrequency": 0.38969385623931885,
+        "AuthoritiesGovernance": 0.47684988379478455,
+        "DefinitionsReferences": 0.37794607877731323
+      }
+    },
+    {
+      "sentence": "Contact details for the welfare boards can usually be found on their respective official websites.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5537302494049072,
+      "similarities": {
+        "ContextObjective": 0.4495755732059479,
+        "BenefitsAssistance": 0.4921444356441498,
+        "Eligibility": 0.48364633321762085,
+        "ApplicationProcess": 0.4999564588069916,
+        "TimelineFrequency": 0.45770540833473206,
+        "AuthoritiesGovernance": 0.5537302494049072,
+        "DefinitionsReferences": 0.5060421228408813
+      }
+    },
+    {
+      "sentence": "The Refund of Contribution Scheme is part of a broader effort by the Indian government to improve the welfare of workers in the unorganized sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48499298095703125,
+      "similarities": {
+        "ContextObjective": 0.4191223978996277,
+        "BenefitsAssistance": 0.43281424045562744,
+        "Eligibility": 0.42080456018447876,
+        "ApplicationProcess": 0.3800269067287445,
+        "TimelineFrequency": 0.34325656294822693,
+        "AuthoritiesGovernance": 0.48499298095703125,
+        "DefinitionsReferences": 0.3541519045829773
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the government's goal of providing social security to all workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5272790789604187,
+      "similarities": {
+        "ContextObjective": 0.5272790789604187,
+        "BenefitsAssistance": 0.4473515450954437,
+        "Eligibility": 0.4773712158203125,
+        "ApplicationProcess": 0.4224244952201843,
+        "TimelineFrequency": 0.3697434067726135,
+        "AuthoritiesGovernance": 0.4187743365764618,
+        "DefinitionsReferences": 0.3602328300476074
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has seen a significant number of applications.",
+      "role": "ContextObjective",
+      "confidence": 0.6008312702178955,
+      "similarities": {
+        "ContextObjective": 0.6008312702178955,
+        "BenefitsAssistance": 0.4708389341831207,
+        "Eligibility": 0.5607659816741943,
+        "ApplicationProcess": 0.5286134481430054,
+        "TimelineFrequency": 0.5655719041824341,
+        "AuthoritiesGovernance": 0.4140402674674988,
+        "DefinitionsReferences": 0.4360464811325073
+      }
+    },
+    {
+      "sentence": "The government has reported that thousands of workers have benefited from the refund of their contributions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45662325620651245,
+      "similarities": {
+        "ContextObjective": 0.3611788749694824,
+        "BenefitsAssistance": 0.45662325620651245,
+        "Eligibility": 0.4107342064380646,
+        "ApplicationProcess": 0.33647620677948,
+        "TimelineFrequency": 0.3269585371017456,
+        "AuthoritiesGovernance": 0.41680431365966797,
+        "DefinitionsReferences": 0.36427122354507446
+      }
+    },
+    {
+      "sentence": "This initiative is crucial in providing financial assistance to those who often lack access to formal financial services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5084426403045654,
+      "similarities": {
+        "ContextObjective": 0.46621426939964294,
+        "BenefitsAssistance": 0.5084426403045654,
+        "Eligibility": 0.4995420277118683,
+        "ApplicationProcess": 0.43703994154930115,
+        "TimelineFrequency": 0.41159671545028687,
+        "AuthoritiesGovernance": 0.4059353470802307,
+        "DefinitionsReferences": 0.3667082190513611
+      }
+    },
+    {
+      "sentence": "The scheme also serves to encourage more workers to register under the welfare board.",
+      "role": "ContextObjective",
+      "confidence": 0.47944796085357666,
+      "similarities": {
+        "ContextObjective": 0.47944796085357666,
+        "BenefitsAssistance": 0.39941293001174927,
+        "Eligibility": 0.43683531880378723,
+        "ApplicationProcess": 0.4192301034927368,
+        "TimelineFrequency": 0.3873359262943268,
+        "AuthoritiesGovernance": 0.3789231479167938,
+        "DefinitionsReferences": 0.36504265666007996
+      }
+    },
+    {
+      "sentence": "By ensuring that contributions can be refunded, the government aims to increase participation in the welfare fund.",
+      "role": "Eligibility",
+      "confidence": 0.47188013792037964,
+      "similarities": {
+        "ContextObjective": 0.40884268283843994,
+        "BenefitsAssistance": 0.44210144877433777,
+        "Eligibility": 0.47188013792037964,
+        "ApplicationProcess": 0.4183231592178345,
+        "TimelineFrequency": 0.36194366216659546,
+        "AuthoritiesGovernance": 0.466301292181015,
+        "DefinitionsReferences": 0.3352348208427429
+      }
+    },
+    {
+      "sentence": "The Refund of Contribution Scheme is a step towards enhancing the financial security of construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4663100242614746,
+      "similarities": {
+        "ContextObjective": 0.42775481939315796,
+        "BenefitsAssistance": 0.4663100242614746,
+        "Eligibility": 0.4279322624206543,
+        "ApplicationProcess": 0.4216209053993225,
+        "TimelineFrequency": 0.3635126054286957,
+        "AuthoritiesGovernance": 0.41067004203796387,
+        "DefinitionsReferences": 0.3433859050273895
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving the living standards of workers in the construction industry.",
+      "role": "ContextObjective",
+      "confidence": 0.4050314128398895,
+      "similarities": {
+        "ContextObjective": 0.4050314128398895,
+        "BenefitsAssistance": 0.37983202934265137,
+        "Eligibility": 0.36867934465408325,
+        "ApplicationProcess": 0.3885481357574463,
+        "TimelineFrequency": 0.34208786487579346,
+        "AuthoritiesGovernance": 0.4039207100868225,
+        "DefinitionsReferences": 0.3746992349624634
+      }
+    },
+    {
+      "sentence": "The scheme has been positively received by the workforce, with many workers expressing gratitude for the financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47344982624053955,
+      "similarities": {
+        "ContextObjective": 0.45216381549835205,
+        "BenefitsAssistance": 0.47344982624053955,
+        "Eligibility": 0.40663811564445496,
+        "ApplicationProcess": 0.37241020798683167,
+        "TimelineFrequency": 0.3435804843902588,
+        "AuthoritiesGovernance": 0.3578721880912781,
+        "DefinitionsReferences": 0.34627366065979004
+      }
+    },
+    {
+      "sentence": "In addition to the Refund of Contribution Scheme, the government has launched various other welfare initiatives for construction workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4551889896392822,
+      "similarities": {
+        "ContextObjective": 0.4378323554992676,
+        "BenefitsAssistance": 0.4544476270675659,
+        "Eligibility": 0.41907113790512085,
+        "ApplicationProcess": 0.4016548991203308,
+        "TimelineFrequency": 0.37852323055267334,
+        "AuthoritiesGovernance": 0.4551889896392822,
+        "DefinitionsReferences": 0.3872303366661072
+      }
+    },
+    {
+      "sentence": "These initiatives include health insurance schemes and skill development programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5098925232887268,
+      "similarities": {
+        "ContextObjective": 0.4983879625797272,
+        "BenefitsAssistance": 0.5098925232887268,
+        "Eligibility": 0.4554428458213806,
+        "ApplicationProcess": 0.42225050926208496,
+        "TimelineFrequency": 0.43115314841270447,
+        "AuthoritiesGovernance": 0.4490312933921814,
+        "DefinitionsReferences": 0.4396774172782898
+      }
+    },
+    {
+      "sentence": "The Refund of Contribution Scheme is a vital part of this comprehensive approach to worker welfare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46774613857269287,
+      "similarities": {
+        "ContextObjective": 0.42760616540908813,
+        "BenefitsAssistance": 0.46774613857269287,
+        "Eligibility": 0.42745810747146606,
+        "ApplicationProcess": 0.3968771696090698,
+        "TimelineFrequency": 0.3614068329334259,
+        "AuthoritiesGovernance": 0.4576212763786316,
+        "DefinitionsReferences": 0.3560866117477417
+      }
+    },
+    {
+      "sentence": "Overall, the scheme aims to create a more secure and supportive environment for construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.47770634293556213,
+      "similarities": {
+        "ContextObjective": 0.47770634293556213,
+        "BenefitsAssistance": 0.3780277669429779,
+        "Eligibility": 0.42602095007896423,
+        "ApplicationProcess": 0.41270920634269714,
+        "TimelineFrequency": 0.34062808752059937,
+        "AuthoritiesGovernance": 0.37560251355171204,
+        "DefinitionsReferences": 0.34044548869132996
+      }
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5176033973693848,
+      "similarities": {
+        "ContextObjective": 0.5176033973693848,
+        "BenefitsAssistance": 0.4522364139556885,
+        "Eligibility": 0.4803582429885864,
+        "ApplicationProcess": 0.4822593331336975,
+        "TimelineFrequency": 0.42808693647384644,
+        "AuthoritiesGovernance": 0.5065298080444336,
+        "DefinitionsReferences": 0.42587628960609436
+      }
+    },
+    {
+      "sentence": "Feedback from workers is taken into account to improve the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5602720975875854,
+      "similarities": {
+        "ContextObjective": 0.4912404417991638,
+        "BenefitsAssistance": 0.45622944831848145,
+        "Eligibility": 0.47526243329048157,
+        "ApplicationProcess": 0.45916467905044556,
+        "TimelineFrequency": 0.41818249225616455,
+        "AuthoritiesGovernance": 0.5602720975875854,
+        "DefinitionsReferences": 0.4268999695777893
+      }
+    },
+    {
+      "sentence": "The Refund of Contribution Scheme is an essential tool in the government's broader strategy to uplift the unorganized sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4569433331489563,
+      "similarities": {
+        "ContextObjective": 0.44689977169036865,
+        "BenefitsAssistance": 0.40666449069976807,
+        "Eligibility": 0.4010230302810669,
+        "ApplicationProcess": 0.36952435970306396,
+        "TimelineFrequency": 0.3303847312927246,
+        "AuthoritiesGovernance": 0.4569433331489563,
+        "DefinitionsReferences": 0.35274481773376465
+      }
+    },
+    {
+      "sentence": "Through this scheme, the government aims to ensure that every construction worker has access to their rightful contributions.",
+      "role": "Eligibility",
+      "confidence": 0.4925512671470642,
+      "similarities": {
+        "ContextObjective": 0.4884406328201294,
+        "BenefitsAssistance": 0.445946604013443,
+        "Eligibility": 0.4925512671470642,
+        "ApplicationProcess": 0.4607391953468323,
+        "TimelineFrequency": 0.39791467785835266,
+        "AuthoritiesGovernance": 0.4453968107700348,
+        "DefinitionsReferences": 0.39598581194877625
+      }
+    },
+    {
+      "sentence": "This initiative not only provides financial relief but also empowers workers to take charge of their financial futures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48361191153526306,
+      "similarities": {
+        "ContextObjective": 0.43307971954345703,
+        "BenefitsAssistance": 0.48361191153526306,
+        "Eligibility": 0.39940014481544495,
+        "ApplicationProcess": 0.3353806138038635,
+        "TimelineFrequency": 0.3652535676956177,
+        "AuthoritiesGovernance": 0.3656540811061859,
+        "DefinitionsReferences": 0.31425753235816956
+      }
+    },
+    {
+      "sentence": "The Refund of Contribution Scheme is a testament to the government's commitment to social justice and equity.",
+      "role": "ContextObjective",
+      "confidence": 0.41491347551345825,
+      "similarities": {
+        "ContextObjective": 0.41491347551345825,
+        "BenefitsAssistance": 0.4010145366191864,
+        "Eligibility": 0.41232067346572876,
+        "ApplicationProcess": 0.34580737352371216,
+        "TimelineFrequency": 0.31427130103111267,
+        "AuthoritiesGovernance": 0.40798240900039673,
+        "DefinitionsReferences": 0.367383748292923
+      }
+    },
+    {
+      "sentence": "By facilitating the refund of contributions, the scheme helps to bridge the gap between workers and their entitlements.",
+      "role": "Eligibility",
+      "confidence": 0.4458445906639099,
+      "similarities": {
+        "ContextObjective": 0.4287353754043579,
+        "BenefitsAssistance": 0.4366965591907501,
+        "Eligibility": 0.4458445906639099,
+        "ApplicationProcess": 0.39038366079330444,
+        "TimelineFrequency": 0.37577909231185913,
+        "AuthoritiesGovernance": 0.4078676402568817,
+        "DefinitionsReferences": 0.3263051509857178
+      }
+    },
+    {
+      "sentence": "The scheme is a significant step towards achieving the goal of universal social security for all workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4878101944923401,
+      "similarities": {
+        "ContextObjective": 0.4878101944923401,
+        "BenefitsAssistance": 0.4202204942703247,
+        "Eligibility": 0.4336789846420288,
+        "ApplicationProcess": 0.3951801657676697,
+        "TimelineFrequency": 0.3232882618904114,
+        "AuthoritiesGovernance": 0.3715883493423462,
+        "DefinitionsReferences": 0.33303552865982056
+      }
+    },
+    {
+      "sentence": "The Refund of Contribution Scheme is expected to evolve further as the government seeks to enhance its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5362353324890137,
+      "similarities": {
+        "ContextObjective": 0.501247763633728,
+        "BenefitsAssistance": 0.4820791482925415,
+        "Eligibility": 0.48488008975982666,
+        "ApplicationProcess": 0.44200897216796875,
+        "TimelineFrequency": 0.42658621072769165,
+        "AuthoritiesGovernance": 0.5362353324890137,
+        "DefinitionsReferences": 0.4270542860031128
+      }
+    },
+    {
+      "sentence": "In conclusion, the Refund of Contribution Scheme is a crucial welfare initiative aimed at supporting construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.44900113344192505,
+      "similarities": {
+        "ContextObjective": 0.44900113344192505,
+        "BenefitsAssistance": 0.39777934551239014,
+        "Eligibility": 0.4166566729545593,
+        "ApplicationProcess": 0.37416696548461914,
+        "TimelineFrequency": 0.3346642255783081,
+        "AuthoritiesGovernance": 0.4056969881057739,
+        "DefinitionsReferences": 0.3119799792766571
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 16,
+    "ContextObjective": 12,
+    "Eligibility": 10,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 9
+  },
+  "processing_timestamp": "2025-09-25T20:46:38.302753"
+}

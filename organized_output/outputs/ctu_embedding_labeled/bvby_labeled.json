@@ -1,0 +1,840 @@
+{
+  "scheme_name": "Bhavantar Bharpai Yojana",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Bhavantar Bharpai Yojana is a welfare scheme initiated by the Government of Madhya Pradesh in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4996955990791321,
+      "similarities": {
+        "ContextObjective": 0.4996955990791321,
+        "BenefitsAssistance": 0.4376458525657654,
+        "Eligibility": 0.46998801827430725,
+        "ApplicationProcess": 0.41723448038101196,
+        "TimelineFrequency": 0.4065912663936615,
+        "AuthoritiesGovernance": 0.4190312325954437,
+        "DefinitionsReferences": 0.3620836138725281
+      }
+    },
+    {
+      "sentence": "This scheme was launched on November 1, 2017.",
+      "role": "ContextObjective",
+      "confidence": 0.6090621948242188,
+      "similarities": {
+        "ContextObjective": 0.6090621948242188,
+        "BenefitsAssistance": 0.4810009002685547,
+        "Eligibility": 0.4973173141479492,
+        "ApplicationProcess": 0.4925632178783417,
+        "TimelineFrequency": 0.4916171133518219,
+        "AuthoritiesGovernance": 0.4336790442466736,
+        "DefinitionsReferences": 0.3903435468673706
+      }
+    },
+    {
+      "sentence": "The primary objective of the Bhavantar Bharpai Yojana is to provide financial assistance to farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.5140038132667542,
+      "similarities": {
+        "ContextObjective": 0.5140038132667542,
+        "BenefitsAssistance": 0.4572894871234894,
+        "Eligibility": 0.450859010219574,
+        "ApplicationProcess": 0.4041401147842407,
+        "TimelineFrequency": 0.37364643812179565,
+        "AuthoritiesGovernance": 0.3749313950538635,
+        "DefinitionsReferences": 0.3446311056613922
+      }
+    },
+    {
+      "sentence": "This assistance is aimed at ensuring that farmers receive a fair price for their agricultural produce.",
+      "role": "Eligibility",
+      "confidence": 0.47637924551963806,
+      "similarities": {
+        "ContextObjective": 0.4223605692386627,
+        "BenefitsAssistance": 0.47198769450187683,
+        "Eligibility": 0.47637924551963806,
+        "ApplicationProcess": 0.45056283473968506,
+        "TimelineFrequency": 0.40466272830963135,
+        "AuthoritiesGovernance": 0.44937819242477417,
+        "DefinitionsReferences": 0.38805681467056274
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets the sale of crops such as soybeans, maize, and groundnuts.",
+      "role": "ContextObjective",
+      "confidence": 0.48329490423202515,
+      "similarities": {
+        "ContextObjective": 0.48329490423202515,
+        "BenefitsAssistance": 0.41384804248809814,
+        "Eligibility": 0.4738476872444153,
+        "ApplicationProcess": 0.38112616539001465,
+        "TimelineFrequency": 0.4072706699371338,
+        "AuthoritiesGovernance": 0.3750547766685486,
+        "DefinitionsReferences": 0.36423176527023315
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government guarantees a minimum support price for these crops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44215792417526245,
+      "similarities": {
+        "ContextObjective": 0.43115031719207764,
+        "BenefitsAssistance": 0.44215792417526245,
+        "Eligibility": 0.4407931864261627,
+        "ApplicationProcess": 0.3977665901184082,
+        "TimelineFrequency": 0.3820149600505829,
+        "AuthoritiesGovernance": 0.3721441626548767,
+        "DefinitionsReferences": 0.3628171682357788
+      }
+    },
+    {
+      "sentence": "The minimum support price is determined based on the average cost of production.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4396296739578247,
+      "similarities": {
+        "ContextObjective": 0.3568071126937866,
+        "BenefitsAssistance": 0.4396296739578247,
+        "Eligibility": 0.360211044549942,
+        "ApplicationProcess": 0.34175339341163635,
+        "TimelineFrequency": 0.35994893312454224,
+        "AuthoritiesGovernance": 0.32534289360046387,
+        "DefinitionsReferences": 0.35065940022468567
+      }
+    },
+    {
+      "sentence": "Farmers are eligible to receive compensation if the market price falls below this minimum support price.",
+      "role": "Eligibility",
+      "confidence": 0.4689333140850067,
+      "similarities": {
+        "ContextObjective": 0.3757860064506531,
+        "BenefitsAssistance": 0.44514185190200806,
+        "Eligibility": 0.4689333140850067,
+        "ApplicationProcess": 0.40095946192741394,
+        "TimelineFrequency": 0.3831726312637329,
+        "AuthoritiesGovernance": 0.3585628271102905,
+        "DefinitionsReferences": 0.3265073299407959
+      }
+    },
+    {
+      "sentence": "The compensation amount is calculated as the difference between the minimum support price and the actual market price.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5233957767486572,
+      "similarities": {
+        "ContextObjective": 0.37424373626708984,
+        "BenefitsAssistance": 0.5233957767486572,
+        "Eligibility": 0.3908637762069702,
+        "ApplicationProcess": 0.3961227536201477,
+        "TimelineFrequency": 0.3908034563064575,
+        "AuthoritiesGovernance": 0.3446299433708191,
+        "DefinitionsReferences": 0.3598232865333557
+      }
+    },
+    {
+      "sentence": "For instance, if the minimum support price for soybeans is set at ₹3,000 per quintal and the market price is ₹2,500 per quintal, the farmer would receive ₹500 per quintal as compensation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4737699627876282,
+      "similarities": {
+        "ContextObjective": 0.3765591084957123,
+        "BenefitsAssistance": 0.4737699627876282,
+        "Eligibility": 0.42750829458236694,
+        "ApplicationProcess": 0.36956989765167236,
+        "TimelineFrequency": 0.3714861571788788,
+        "AuthoritiesGovernance": 0.33919766545295715,
+        "DefinitionsReferences": 0.3374701738357544
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce the financial burden on farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.4906079173088074,
+      "similarities": {
+        "ContextObjective": 0.4906079173088074,
+        "BenefitsAssistance": 0.4707721173763275,
+        "Eligibility": 0.46361592411994934,
+        "ApplicationProcess": 0.4096943140029907,
+        "TimelineFrequency": 0.3813953995704651,
+        "AuthoritiesGovernance": 0.37925225496292114,
+        "DefinitionsReferences": 0.33850783109664917
+      }
+    },
+    {
+      "sentence": "It also seeks to encourage farmers to continue agricultural production without fear of losses.",
+      "role": "ContextObjective",
+      "confidence": 0.4184274971485138,
+      "similarities": {
+        "ContextObjective": 0.4184274971485138,
+        "BenefitsAssistance": 0.3690960705280304,
+        "Eligibility": 0.3593035936355591,
+        "ApplicationProcess": 0.3509429395198822,
+        "TimelineFrequency": 0.31169965863227844,
+        "AuthoritiesGovernance": 0.30922240018844604,
+        "DefinitionsReferences": 0.3227851688861847
+      }
+    },
+    {
+      "sentence": "Eligibility for the Bhavantar Bharpai Yojana is primarily based on the status of the applicant as a farmer.",
+      "role": "Eligibility",
+      "confidence": 0.5502185821533203,
+      "similarities": {
+        "ContextObjective": 0.43590477108955383,
+        "BenefitsAssistance": 0.38532787561416626,
+        "Eligibility": 0.5502185821533203,
+        "ApplicationProcess": 0.48103150725364685,
+        "TimelineFrequency": 0.4351385831832886,
+        "AuthoritiesGovernance": 0.3427678346633911,
+        "DefinitionsReferences": 0.3551296889781952
+      }
+    },
+    {
+      "sentence": "Farmers must be residents of Madhya Pradesh to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5758452415466309,
+      "similarities": {
+        "ContextObjective": 0.46777865290641785,
+        "BenefitsAssistance": 0.4045103192329407,
+        "Eligibility": 0.5758452415466309,
+        "ApplicationProcess": 0.5001609921455383,
+        "TimelineFrequency": 0.43515047430992126,
+        "AuthoritiesGovernance": 0.4045906662940979,
+        "DefinitionsReferences": 0.36253586411476135
+      }
+    },
+    {
+      "sentence": "There are no specific age limits set for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5597294569015503,
+      "similarities": {
+        "ContextObjective": 0.42474648356437683,
+        "BenefitsAssistance": 0.43733978271484375,
+        "Eligibility": 0.5597294569015503,
+        "ApplicationProcess": 0.433399498462677,
+        "TimelineFrequency": 0.4570981562137604,
+        "AuthoritiesGovernance": 0.35813629627227783,
+        "DefinitionsReferences": 0.3540995121002197
+      }
+    },
+    {
+      "sentence": "However, farmers must have a valid landholding to participate in the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.580046534538269,
+      "similarities": {
+        "ContextObjective": 0.5184423923492432,
+        "BenefitsAssistance": 0.4210616648197174,
+        "Eligibility": 0.580046534538269,
+        "ApplicationProcess": 0.5172547101974487,
+        "TimelineFrequency": 0.43019968271255493,
+        "AuthoritiesGovernance": 0.4125179052352905,
+        "DefinitionsReferences": 0.401455283164978
+      }
+    },
+    {
+      "sentence": "The application process for the Bhavantar Bharpai Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5548195838928223,
+      "similarities": {
+        "ContextObjective": 0.485809862613678,
+        "BenefitsAssistance": 0.4068249464035034,
+        "Eligibility": 0.4896165728569031,
+        "ApplicationProcess": 0.5548195838928223,
+        "TimelineFrequency": 0.4702656865119934,
+        "AuthoritiesGovernance": 0.37525489926338196,
+        "DefinitionsReferences": 0.35076016187667847
+      }
+    },
+    {
+      "sentence": "Farmers need to register themselves on the official Madhya Pradesh government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5119903087615967,
+      "similarities": {
+        "ContextObjective": 0.4019397497177124,
+        "BenefitsAssistance": 0.4033571183681488,
+        "Eligibility": 0.4741784930229187,
+        "ApplicationProcess": 0.5119903087615967,
+        "TimelineFrequency": 0.4209538698196411,
+        "AuthoritiesGovernance": 0.437641978263855,
+        "DefinitionsReferences": 0.3981793522834778
+      }
+    },
+    {
+      "sentence": "The registration can be done online through the portal dedicated to the Bhavantar Bharpai Yojana.",
+      "role": "ApplicationProcess",
+      "confidence": 0.530421257019043,
+      "similarities": {
+        "ContextObjective": 0.4094974398612976,
+        "BenefitsAssistance": 0.43081554770469666,
+        "Eligibility": 0.44677796959877014,
+        "ApplicationProcess": 0.530421257019043,
+        "TimelineFrequency": 0.42917871475219727,
+        "AuthoritiesGovernance": 0.34608983993530273,
+        "DefinitionsReferences": 0.3740037679672241
+      }
+    },
+    {
+      "sentence": "Farmers must provide details such as their name, address, and landholding information during registration.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5678726434707642,
+      "similarities": {
+        "ContextObjective": 0.4518047571182251,
+        "BenefitsAssistance": 0.5408445596694946,
+        "Eligibility": 0.5536414980888367,
+        "ApplicationProcess": 0.5678726434707642,
+        "TimelineFrequency": 0.478160560131073,
+        "AuthoritiesGovernance": 0.4776119887828827,
+        "DefinitionsReferences": 0.5191266536712646
+      }
+    },
+    {
+      "sentence": "They also need to submit proof of identity and land ownership.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6375250816345215,
+      "similarities": {
+        "ContextObjective": 0.47893255949020386,
+        "BenefitsAssistance": 0.501916229724884,
+        "Eligibility": 0.5791038274765015,
+        "ApplicationProcess": 0.6375250816345215,
+        "TimelineFrequency": 0.48490190505981445,
+        "AuthoritiesGovernance": 0.4494982957839966,
+        "DefinitionsReferences": 0.49824434518814087
+      }
+    },
+    {
+      "sentence": "Once registered, farmers can sell their produce in the market.",
+      "role": "Eligibility",
+      "confidence": 0.47991955280303955,
+      "similarities": {
+        "ContextObjective": 0.42508235573768616,
+        "BenefitsAssistance": 0.4139025807380676,
+        "Eligibility": 0.47991955280303955,
+        "ApplicationProcess": 0.47879207134246826,
+        "TimelineFrequency": 0.40265583992004395,
+        "AuthoritiesGovernance": 0.3888254463672638,
+        "DefinitionsReferences": 0.3883902430534363
+      }
+    },
+    {
+      "sentence": "They must ensure that they sell their produce at the designated mandis or markets.",
+      "role": "Eligibility",
+      "confidence": 0.5098230838775635,
+      "similarities": {
+        "ContextObjective": 0.42343661189079285,
+        "BenefitsAssistance": 0.3697497248649597,
+        "Eligibility": 0.5098230838775635,
+        "ApplicationProcess": 0.4465985894203186,
+        "TimelineFrequency": 0.39845341444015503,
+        "AuthoritiesGovernance": 0.4548998773097992,
+        "DefinitionsReferences": 0.4150751233100891
+      }
+    },
+    {
+      "sentence": "After selling their produce, farmers need to submit the sale receipt to the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5478634834289551,
+      "similarities": {
+        "ContextObjective": 0.42293834686279297,
+        "BenefitsAssistance": 0.45088064670562744,
+        "Eligibility": 0.4751901626586914,
+        "ApplicationProcess": 0.5478634834289551,
+        "TimelineFrequency": 0.4301075339317322,
+        "AuthoritiesGovernance": 0.448245108127594,
+        "DefinitionsReferences": 0.43917346000671387
+      }
+    },
+    {
+      "sentence": "The sale receipt must include details such as the quantity sold and the price received.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5992134809494019,
+      "similarities": {
+        "ContextObjective": 0.47958630323410034,
+        "BenefitsAssistance": 0.5992134809494019,
+        "Eligibility": 0.5074927806854248,
+        "ApplicationProcess": 0.5459907054901123,
+        "TimelineFrequency": 0.48331889510154724,
+        "AuthoritiesGovernance": 0.42079418897628784,
+        "DefinitionsReferences": 0.5391199588775635
+      }
+    },
+    {
+      "sentence": "The authorities will then verify the sale receipt against the minimum support price.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5141936540603638,
+      "similarities": {
+        "ContextObjective": 0.40618157386779785,
+        "BenefitsAssistance": 0.47040072083473206,
+        "Eligibility": 0.43964406847953796,
+        "ApplicationProcess": 0.5141936540603638,
+        "TimelineFrequency": 0.37852972745895386,
+        "AuthoritiesGovernance": 0.38114699721336365,
+        "DefinitionsReferences": 0.4512147307395935
+      }
+    },
+    {
+      "sentence": "If the market price is lower than the minimum support price, the compensation will be calculated.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5385490655899048,
+      "similarities": {
+        "ContextObjective": 0.39956721663475037,
+        "BenefitsAssistance": 0.5385490655899048,
+        "Eligibility": 0.4652518630027771,
+        "ApplicationProcess": 0.4364207983016968,
+        "TimelineFrequency": 0.43889543414115906,
+        "AuthoritiesGovernance": 0.37966233491897583,
+        "DefinitionsReferences": 0.3769237995147705
+      }
+    },
+    {
+      "sentence": "The compensation amount will be credited directly to the farmer's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47330477833747864,
+      "similarities": {
+        "ContextObjective": 0.32326602935791016,
+        "BenefitsAssistance": 0.47330477833747864,
+        "Eligibility": 0.39883503317832947,
+        "ApplicationProcess": 0.3910204768180847,
+        "TimelineFrequency": 0.34031254053115845,
+        "AuthoritiesGovernance": 0.33822065591812134,
+        "DefinitionsReferences": 0.30500704050064087
+      }
+    },
+    {
+      "sentence": "The disbursement of compensation is typically processed within a few weeks of the sale.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5350980758666992,
+      "similarities": {
+        "ContextObjective": 0.4412320554256439,
+        "BenefitsAssistance": 0.5350980758666992,
+        "Eligibility": 0.46232789754867554,
+        "ApplicationProcess": 0.4592526853084564,
+        "TimelineFrequency": 0.4671931266784668,
+        "AuthoritiesGovernance": 0.43289509415626526,
+        "DefinitionsReferences": 0.4010714888572693
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to keep track of the market prices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4849063754081726,
+      "similarities": {
+        "ContextObjective": 0.42566418647766113,
+        "BenefitsAssistance": 0.4849063754081726,
+        "Eligibility": 0.4161663055419922,
+        "ApplicationProcess": 0.42714157700538635,
+        "TimelineFrequency": 0.4130977988243103,
+        "AuthoritiesGovernance": 0.41342777013778687,
+        "DefinitionsReferences": 0.4402677118778229
+      }
+    },
+    {
+      "sentence": "They should also be aware of the minimum support prices set by the government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.548442542552948,
+      "similarities": {
+        "ContextObjective": 0.41876691579818726,
+        "BenefitsAssistance": 0.548442542552948,
+        "Eligibility": 0.47853273153305054,
+        "ApplicationProcess": 0.4274360239505768,
+        "TimelineFrequency": 0.39166390895843506,
+        "AuthoritiesGovernance": 0.4418472647666931,
+        "DefinitionsReferences": 0.4169929325580597
+      }
+    },
+    {
+      "sentence": "The government regularly updates these prices based on market conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4894132614135742,
+      "similarities": {
+        "ContextObjective": 0.4193255305290222,
+        "BenefitsAssistance": 0.4894132614135742,
+        "Eligibility": 0.4499959349632263,
+        "ApplicationProcess": 0.46258971095085144,
+        "TimelineFrequency": 0.46892446279525757,
+        "AuthoritiesGovernance": 0.4505777955055237,
+        "DefinitionsReferences": 0.4762430787086487
+      }
+    },
+    {
+      "sentence": "The Bhavantar Bharpai Yojana has been implemented by the Department of Farmers Welfare and Agriculture Development in Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4996710419654846,
+      "similarities": {
+        "ContextObjective": 0.45183053612709045,
+        "BenefitsAssistance": 0.43832021951675415,
+        "Eligibility": 0.4666665494441986,
+        "ApplicationProcess": 0.42948511242866516,
+        "TimelineFrequency": 0.3856295943260193,
+        "AuthoritiesGovernance": 0.4996710419654846,
+        "DefinitionsReferences": 0.38070741295814514
+      }
+    },
+    {
+      "sentence": "Farmers can contact this department for any queries related to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5319686532020569,
+      "similarities": {
+        "ContextObjective": 0.5220375657081604,
+        "BenefitsAssistance": 0.4947253465652466,
+        "Eligibility": 0.5319686532020569,
+        "ApplicationProcess": 0.5160995125770569,
+        "TimelineFrequency": 0.4510679244995117,
+        "AuthoritiesGovernance": 0.5297873616218567,
+        "DefinitionsReferences": 0.413873553276062
+      }
+    },
+    {
+      "sentence": "The contact details for the department can be found on the official Madhya Pradesh government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5169071555137634,
+      "similarities": {
+        "ContextObjective": 0.4097629189491272,
+        "BenefitsAssistance": 0.46401000022888184,
+        "Eligibility": 0.4176942706108093,
+        "ApplicationProcess": 0.47734299302101135,
+        "TimelineFrequency": 0.40264156460762024,
+        "AuthoritiesGovernance": 0.5169071555137634,
+        "DefinitionsReferences": 0.4533727765083313
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant participation since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.6058274507522583,
+      "similarities": {
+        "ContextObjective": 0.6058274507522583,
+        "BenefitsAssistance": 0.4836575388908386,
+        "Eligibility": 0.5017507672309875,
+        "ApplicationProcess": 0.4833923280239105,
+        "TimelineFrequency": 0.463206022977829,
+        "AuthoritiesGovernance": 0.4528270661830902,
+        "DefinitionsReferences": 0.4249652922153473
+      }
+    },
+    {
+      "sentence": "In the first year alone, approximately 1.5 million farmers registered under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.41613978147506714,
+      "similarities": {
+        "ContextObjective": 0.41613978147506714,
+        "BenefitsAssistance": 0.3735889792442322,
+        "Eligibility": 0.38849779963493347,
+        "ApplicationProcess": 0.3843238651752472,
+        "TimelineFrequency": 0.33512455224990845,
+        "AuthoritiesGovernance": 0.3408131003379822,
+        "DefinitionsReferences": 0.3069392442703247
+      }
+    },
+    {
+      "sentence": "The government allocated a budget of ₹1,000 crores for the initial phase of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5060329437255859,
+      "similarities": {
+        "ContextObjective": 0.5060329437255859,
+        "BenefitsAssistance": 0.4426161050796509,
+        "Eligibility": 0.44990360736846924,
+        "ApplicationProcess": 0.4160712957382202,
+        "TimelineFrequency": 0.3933337330818176,
+        "AuthoritiesGovernance": 0.4258005917072296,
+        "DefinitionsReferences": 0.3396398723125458
+      }
+    },
+    {
+      "sentence": "By the end of the first year, around ₹600 crores had been disbursed to farmers as compensation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46382471919059753,
+      "similarities": {
+        "ContextObjective": 0.33923041820526123,
+        "BenefitsAssistance": 0.46382471919059753,
+        "Eligibility": 0.3752666115760803,
+        "ApplicationProcess": 0.3559209704399109,
+        "TimelineFrequency": 0.32814663648605347,
+        "AuthoritiesGovernance": 0.36236611008644104,
+        "DefinitionsReferences": 0.32367539405822754
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for its role in stabilizing farmers' incomes.",
+      "role": "ContextObjective",
+      "confidence": 0.4706123471260071,
+      "similarities": {
+        "ContextObjective": 0.4706123471260071,
+        "BenefitsAssistance": 0.4210553765296936,
+        "Eligibility": 0.427852600812912,
+        "ApplicationProcess": 0.3765956163406372,
+        "TimelineFrequency": 0.3524293601512909,
+        "AuthoritiesGovernance": 0.3767354488372803,
+        "DefinitionsReferences": 0.3565654158592224
+      }
+    },
+    {
+      "sentence": "It has also contributed to reducing distress sales among farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.36710983514785767,
+      "similarities": {
+        "ContextObjective": 0.3384745121002197,
+        "BenefitsAssistance": 0.36710983514785767,
+        "Eligibility": 0.36678263545036316,
+        "ApplicationProcess": 0.3207716941833496,
+        "TimelineFrequency": 0.30368363857269287,
+        "AuthoritiesGovernance": 0.3463357388973236,
+        "DefinitionsReferences": 0.3177841305732727
+      }
+    },
+    {
+      "sentence": "The Bhavantar Bharpai Yojana is part of a broader initiative by the Madhya Pradesh government to support the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.46778348088264465,
+      "similarities": {
+        "ContextObjective": 0.46778348088264465,
+        "BenefitsAssistance": 0.4297339618206024,
+        "Eligibility": 0.43298450112342834,
+        "ApplicationProcess": 0.3998366594314575,
+        "TimelineFrequency": 0.3771122395992279,
+        "AuthoritiesGovernance": 0.4180881977081299,
+        "DefinitionsReferences": 0.38923370838165283
+      }
+    },
+    {
+      "sentence": "This initiative includes other schemes aimed at improving irrigation and providing subsidies for fertilizers.",
+      "role": "ContextObjective",
+      "confidence": 0.46789470314979553,
+      "similarities": {
+        "ContextObjective": 0.46789470314979553,
+        "BenefitsAssistance": 0.4293273687362671,
+        "Eligibility": 0.4306524395942688,
+        "ApplicationProcess": 0.3831665515899658,
+        "TimelineFrequency": 0.3979620933532715,
+        "AuthoritiesGovernance": 0.39590397477149963,
+        "DefinitionsReferences": 0.39104485511779785
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of the various schemes available to them.",
+      "role": "ContextObjective",
+      "confidence": 0.5308307409286499,
+      "similarities": {
+        "ContextObjective": 0.5308307409286499,
+        "BenefitsAssistance": 0.5042514801025391,
+        "Eligibility": 0.5199111700057983,
+        "ApplicationProcess": 0.46820899844169617,
+        "TimelineFrequency": 0.4556361436843872,
+        "AuthoritiesGovernance": 0.44114917516708374,
+        "DefinitionsReferences": 0.4470604658126831
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to educate farmers about the Bhavantar Bharpai Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.4209249019622803,
+      "similarities": {
+        "ContextObjective": 0.4209249019622803,
+        "BenefitsAssistance": 0.37374335527420044,
+        "Eligibility": 0.3818803131580353,
+        "ApplicationProcess": 0.38013893365859985,
+        "TimelineFrequency": 0.3236719071865082,
+        "AuthoritiesGovernance": 0.38509321212768555,
+        "DefinitionsReferences": 0.36121881008148193
+      }
+    },
+    {
+      "sentence": "These campaigns aim to ensure that farmers understand how to register and claim their benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5275194048881531,
+      "similarities": {
+        "ContextObjective": 0.500026524066925,
+        "BenefitsAssistance": 0.4720921516418457,
+        "Eligibility": 0.5275194048881531,
+        "ApplicationProcess": 0.5195688009262085,
+        "TimelineFrequency": 0.473572313785553,
+        "AuthoritiesGovernance": 0.47801709175109863,
+        "DefinitionsReferences": 0.4505065977573395
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing a safety net for farmers during fluctuating market conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.47761082649230957,
+      "similarities": {
+        "ContextObjective": 0.47761082649230957,
+        "BenefitsAssistance": 0.4410519599914551,
+        "Eligibility": 0.4596806466579437,
+        "ApplicationProcess": 0.38805240392684937,
+        "TimelineFrequency": 0.3979060649871826,
+        "AuthoritiesGovernance": 0.3634406328201294,
+        "DefinitionsReferences": 0.3554803729057312
+      }
+    },
+    {
+      "sentence": "It has also fostered a sense of security among farmers regarding their livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.429430216550827,
+      "similarities": {
+        "ContextObjective": 0.429430216550827,
+        "BenefitsAssistance": 0.3825591802597046,
+        "Eligibility": 0.3801906704902649,
+        "ApplicationProcess": 0.3671630620956421,
+        "TimelineFrequency": 0.3163507580757141,
+        "AuthoritiesGovernance": 0.3454602360725403,
+        "DefinitionsReferences": 0.3851625323295593
+      }
+    },
+    {
+      "sentence": "The Bhavantar Bharpai Yojana is a significant step towards improving the economic conditions of farmers in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4297170341014862,
+      "similarities": {
+        "ContextObjective": 0.4297170341014862,
+        "BenefitsAssistance": 0.39821887016296387,
+        "Eligibility": 0.39782989025115967,
+        "ApplicationProcess": 0.37908631563186646,
+        "TimelineFrequency": 0.34357887506484985,
+        "AuthoritiesGovernance": 0.36284592747688293,
+        "DefinitionsReferences": 0.3575124442577362
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to enhancing agricultural productivity and farmer welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4161710739135742,
+      "similarities": {
+        "ContextObjective": 0.4161710739135742,
+        "BenefitsAssistance": 0.38647717237472534,
+        "Eligibility": 0.3844038248062134,
+        "ApplicationProcess": 0.3779425323009491,
+        "TimelineFrequency": 0.3443279564380646,
+        "AuthoritiesGovernance": 0.41343557834625244,
+        "DefinitionsReferences": 0.387261301279068
+      }
+    },
+    {
+      "sentence": "The scheme has been recognized as a model for similar initiatives in other states.",
+      "role": "ContextObjective",
+      "confidence": 0.49335479736328125,
+      "similarities": {
+        "ContextObjective": 0.49335479736328125,
+        "BenefitsAssistance": 0.39343491196632385,
+        "Eligibility": 0.4695057272911072,
+        "ApplicationProcess": 0.4306561350822449,
+        "TimelineFrequency": 0.3988068103790283,
+        "AuthoritiesGovernance": 0.4289492964744568,
+        "DefinitionsReferences": 0.4220866858959198
+      }
+    },
+    {
+      "sentence": "As of 2023, the Madhya Pradesh government continues to evaluate and improve the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.501823902130127,
+      "similarities": {
+        "ContextObjective": 0.501823902130127,
+        "BenefitsAssistance": 0.4149082601070404,
+        "Eligibility": 0.42116743326187134,
+        "ApplicationProcess": 0.432087242603302,
+        "TimelineFrequency": 0.4157729744911194,
+        "AuthoritiesGovernance": 0.4551120400428772,
+        "DefinitionsReferences": 0.389497846364975
+      }
+    },
+    {
+      "sentence": "Feedback from farmers is regularly collected to make necessary adjustments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5002269744873047,
+      "similarities": {
+        "ContextObjective": 0.39895519614219666,
+        "BenefitsAssistance": 0.4225310683250427,
+        "Eligibility": 0.43618446588516235,
+        "ApplicationProcess": 0.46371549367904663,
+        "TimelineFrequency": 0.4351588785648346,
+        "AuthoritiesGovernance": 0.5002269744873047,
+        "DefinitionsReferences": 0.4638163447380066
+      }
+    },
+    {
+      "sentence": "The government aims to expand the scope of the scheme to include more crops in the future.",
+      "role": "ContextObjective",
+      "confidence": 0.5613548755645752,
+      "similarities": {
+        "ContextObjective": 0.5613548755645752,
+        "BenefitsAssistance": 0.4529813528060913,
+        "Eligibility": 0.5394881963729858,
+        "ApplicationProcess": 0.44441550970077515,
+        "TimelineFrequency": 0.45370543003082275,
+        "AuthoritiesGovernance": 0.42559146881103516,
+        "DefinitionsReferences": 0.4401705265045166
+      }
+    },
+    {
+      "sentence": "Overall, the Bhavantar Bharpai Yojana stands as a crucial intervention in the agricultural landscape of Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.45428889989852905,
+      "similarities": {
+        "ContextObjective": 0.45428889989852905,
+        "BenefitsAssistance": 0.36635178327560425,
+        "Eligibility": 0.4163488745689392,
+        "ApplicationProcess": 0.36284950375556946,
+        "TimelineFrequency": 0.3469701409339905,
+        "AuthoritiesGovernance": 0.38596051931381226,
+        "DefinitionsReferences": 0.3770432770252228
+      }
+    },
+    {
+      "sentence": "It is designed to empower farmers and ensure their financial stability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48094573616981506,
+      "similarities": {
+        "ContextObjective": 0.46405142545700073,
+        "BenefitsAssistance": 0.48094573616981506,
+        "Eligibility": 0.4664698839187622,
+        "ApplicationProcess": 0.41448670625686646,
+        "TimelineFrequency": 0.3886629343032837,
+        "AuthoritiesGovernance": 0.41145551204681396,
+        "DefinitionsReferences": 0.38375258445739746
+      }
+    },
+    {
+      "sentence": "The scheme exemplifies the government's efforts to address the challenges faced by the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5443938374519348,
+      "similarities": {
+        "ContextObjective": 0.5443938374519348,
+        "BenefitsAssistance": 0.4367147386074066,
+        "Eligibility": 0.4869763255119324,
+        "ApplicationProcess": 0.4523527920246124,
+        "TimelineFrequency": 0.4103315472602844,
+        "AuthoritiesGovernance": 0.4514508843421936,
+        "DefinitionsReferences": 0.3984861373901367
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to stay informed about the latest developments regarding the Bhavantar Bharpai Yojana.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4439150094985962,
+      "similarities": {
+        "ContextObjective": 0.43221747875213623,
+        "BenefitsAssistance": 0.4439150094985962,
+        "Eligibility": 0.44212836027145386,
+        "ApplicationProcess": 0.41521981358528137,
+        "TimelineFrequency": 0.39897316694259644,
+        "AuthoritiesGovernance": 0.3990635871887207,
+        "DefinitionsReferences": 0.3951508402824402
+      }
+    },
+    {
+      "sentence": "This ensures they can maximize the benefits available to them under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5512464642524719,
+      "similarities": {
+        "ContextObjective": 0.5486413240432739,
+        "BenefitsAssistance": 0.48801738023757935,
+        "Eligibility": 0.5512464642524719,
+        "ApplicationProcess": 0.4733157157897949,
+        "TimelineFrequency": 0.4434066712856293,
+        "AuthoritiesGovernance": 0.4377211332321167,
+        "DefinitionsReferences": 0.38442739844322205
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 23,
+    "Eligibility": 11,
+    "BenefitsAssistance": 15,
+    "ApplicationProcess": 7,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:27:03.302063"
+}

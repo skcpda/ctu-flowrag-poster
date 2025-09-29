@@ -1,0 +1,968 @@
+{
+  "scheme_name": "Assistance to Lawyers for Starting their Practice",
+  "total_sentences": 68,
+  "labeled_sentences": [
+    {
+      "sentence": "The \"Assistance to Lawyers for Starting their Practice\" scheme was launched by the Government of India on October 2, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5431584119796753,
+      "similarities": {
+        "ContextObjective": 0.5431584119796753,
+        "BenefitsAssistance": 0.469673752784729,
+        "Eligibility": 0.4917082190513611,
+        "ApplicationProcess": 0.44678688049316406,
+        "TimelineFrequency": 0.47058042883872986,
+        "AuthoritiesGovernance": 0.44910329580307007,
+        "DefinitionsReferences": 0.4358504116535187
+      }
+    },
+    {
+      "sentence": "This initiative was introduced under the Ministry of Law and Justice.",
+      "role": "ContextObjective",
+      "confidence": 0.5002551078796387,
+      "similarities": {
+        "ContextObjective": 0.5002551078796387,
+        "BenefitsAssistance": 0.37274637818336487,
+        "Eligibility": 0.4577057957649231,
+        "ApplicationProcess": 0.4667166471481323,
+        "TimelineFrequency": 0.3906393051147461,
+        "AuthoritiesGovernance": 0.5000013709068298,
+        "DefinitionsReferences": 0.42227286100387573
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance to young lawyers.",
+      "role": "ContextObjective",
+      "confidence": 0.562468945980072,
+      "similarities": {
+        "ContextObjective": 0.562468945980072,
+        "BenefitsAssistance": 0.4579014778137207,
+        "Eligibility": 0.47274118661880493,
+        "ApplicationProcess": 0.42388421297073364,
+        "TimelineFrequency": 0.42141595482826233,
+        "AuthoritiesGovernance": 0.38844460248947144,
+        "DefinitionsReferences": 0.3919330835342407
+      }
+    },
+    {
+      "sentence": "The scheme aims to support those who are starting their legal practice.",
+      "role": "ContextObjective",
+      "confidence": 0.591759443283081,
+      "similarities": {
+        "ContextObjective": 0.591759443283081,
+        "BenefitsAssistance": 0.501224935054779,
+        "Eligibility": 0.5218460559844971,
+        "ApplicationProcess": 0.5069741606712341,
+        "TimelineFrequency": 0.4855702519416809,
+        "AuthoritiesGovernance": 0.4399583041667938,
+        "DefinitionsReferences": 0.4771738052368164
+      }
+    },
+    {
+      "sentence": "It specifically targets lawyers who are in the early stages of their careers.",
+      "role": "ContextObjective",
+      "confidence": 0.4806506335735321,
+      "similarities": {
+        "ContextObjective": 0.4806506335735321,
+        "BenefitsAssistance": 0.3705790638923645,
+        "Eligibility": 0.4590455889701843,
+        "ApplicationProcess": 0.42484498023986816,
+        "TimelineFrequency": 0.47384876012802124,
+        "AuthoritiesGovernance": 0.3934142589569092,
+        "DefinitionsReferences": 0.40529710054397583
+      }
+    },
+    {
+      "sentence": "The government recognizes the challenges faced by new entrants in the legal profession.",
+      "role": "Eligibility",
+      "confidence": 0.507064700126648,
+      "similarities": {
+        "ContextObjective": 0.4238150715827942,
+        "BenefitsAssistance": 0.4344639778137207,
+        "Eligibility": 0.507064700126648,
+        "ApplicationProcess": 0.46721363067626953,
+        "TimelineFrequency": 0.43484586477279663,
+        "AuthoritiesGovernance": 0.4486580789089203,
+        "DefinitionsReferences": 0.449635773897171
+      }
+    },
+    {
+      "sentence": "The scheme seeks to empower them by providing necessary financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.5819485783576965,
+      "similarities": {
+        "ContextObjective": 0.5819485783576965,
+        "BenefitsAssistance": 0.5721748471260071,
+        "Eligibility": 0.5581551790237427,
+        "ApplicationProcess": 0.47581741213798523,
+        "TimelineFrequency": 0.43362388014793396,
+        "AuthoritiesGovernance": 0.44460731744766235,
+        "DefinitionsReferences": 0.40029725432395935
+      }
+    },
+    {
+      "sentence": "The financial assistance under this scheme is set at a maximum of INR 5 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5312432050704956,
+      "similarities": {
+        "ContextObjective": 0.42646417021751404,
+        "BenefitsAssistance": 0.5312432050704956,
+        "Eligibility": 0.49420279264450073,
+        "ApplicationProcess": 0.4072961211204529,
+        "TimelineFrequency": 0.40374475717544556,
+        "AuthoritiesGovernance": 0.3551255762577057,
+        "DefinitionsReferences": 0.353331983089447
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover various expenses related to starting a legal practice.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6407961249351501,
+      "similarities": {
+        "ContextObjective": 0.5010076761245728,
+        "BenefitsAssistance": 0.6407961249351501,
+        "Eligibility": 0.49308815598487854,
+        "ApplicationProcess": 0.4954080581665039,
+        "TimelineFrequency": 0.49623435735702515,
+        "AuthoritiesGovernance": 0.42251551151275635,
+        "DefinitionsReferences": 0.5520691871643066
+      }
+    },
+    {
+      "sentence": "Eligible applicants can receive this assistance in the form of a one-time grant.",
+      "role": "Eligibility",
+      "confidence": 0.5735055208206177,
+      "similarities": {
+        "ContextObjective": 0.4600558876991272,
+        "BenefitsAssistance": 0.48441392183303833,
+        "Eligibility": 0.5735055208206177,
+        "ApplicationProcess": 0.5281881093978882,
+        "TimelineFrequency": 0.5031338930130005,
+        "AuthoritiesGovernance": 0.3934650421142578,
+        "DefinitionsReferences": 0.37558513879776
+      }
+    },
+    {
+      "sentence": "The scheme is designed to benefit lawyers who have completed their law degree.",
+      "role": "ContextObjective",
+      "confidence": 0.5225788354873657,
+      "similarities": {
+        "ContextObjective": 0.5225788354873657,
+        "BenefitsAssistance": 0.4316079020500183,
+        "Eligibility": 0.49791938066482544,
+        "ApplicationProcess": 0.47221049666404724,
+        "TimelineFrequency": 0.4433223009109497,
+        "AuthoritiesGovernance": 0.38767683506011963,
+        "DefinitionsReferences": 0.4235398769378662
+      }
+    },
+    {
+      "sentence": "Applicants must have graduated from a recognized law school.",
+      "role": "Eligibility",
+      "confidence": 0.5607736110687256,
+      "similarities": {
+        "ContextObjective": 0.4176974594593048,
+        "BenefitsAssistance": 0.3660612106323242,
+        "Eligibility": 0.5607736110687256,
+        "ApplicationProcess": 0.5248977541923523,
+        "TimelineFrequency": 0.47783800959587097,
+        "AuthoritiesGovernance": 0.38821256160736084,
+        "DefinitionsReferences": 0.4321832060813904
+      }
+    },
+    {
+      "sentence": "They must also be enrolled as advocates with the Bar Council of India.",
+      "role": "ApplicationProcess",
+      "confidence": 0.408954381942749,
+      "similarities": {
+        "ContextObjective": 0.35071587562561035,
+        "BenefitsAssistance": 0.3327293395996094,
+        "Eligibility": 0.3936326205730438,
+        "ApplicationProcess": 0.408954381942749,
+        "TimelineFrequency": 0.3360431492328644,
+        "AuthoritiesGovernance": 0.3514358699321747,
+        "DefinitionsReferences": 0.3905341923236847
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at 35 years.",
+      "role": "Eligibility",
+      "confidence": 0.6110111474990845,
+      "similarities": {
+        "ContextObjective": 0.473018616437912,
+        "BenefitsAssistance": 0.447245717048645,
+        "Eligibility": 0.6110111474990845,
+        "ApplicationProcess": 0.5279549360275269,
+        "TimelineFrequency": 0.5200760960578918,
+        "AuthoritiesGovernance": 0.4019838571548462,
+        "DefinitionsReferences": 0.38090187311172485
+      }
+    },
+    {
+      "sentence": "This age criterion is aimed at ensuring that the assistance reaches younger lawyers.",
+      "role": "Eligibility",
+      "confidence": 0.4852741062641144,
+      "similarities": {
+        "ContextObjective": 0.43906939029693604,
+        "BenefitsAssistance": 0.37834155559539795,
+        "Eligibility": 0.4852741062641144,
+        "ApplicationProcess": 0.4023747146129608,
+        "TimelineFrequency": 0.4070838391780853,
+        "AuthoritiesGovernance": 0.37234026193618774,
+        "DefinitionsReferences": 0.3960644602775574
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is capped at INR 5 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5580167770385742,
+      "similarities": {
+        "ContextObjective": 0.42127978801727295,
+        "BenefitsAssistance": 0.5067422986030579,
+        "Eligibility": 0.5580167770385742,
+        "ApplicationProcess": 0.44562235474586487,
+        "TimelineFrequency": 0.44233840703964233,
+        "AuthoritiesGovernance": 0.3306167721748352,
+        "DefinitionsReferences": 0.35872894525527954
+      }
+    },
+    {
+      "sentence": "This income criterion ensures that the support is directed towards those who need it most.",
+      "role": "Eligibility",
+      "confidence": 0.5354244709014893,
+      "similarities": {
+        "ContextObjective": 0.4703620970249176,
+        "BenefitsAssistance": 0.5002998113632202,
+        "Eligibility": 0.5354244709014893,
+        "ApplicationProcess": 0.38569021224975586,
+        "TimelineFrequency": 0.385641872882843,
+        "AuthoritiesGovernance": 0.380825012922287,
+        "DefinitionsReferences": 0.37156248092651367
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6996769905090332,
+      "similarities": {
+        "ContextObjective": 0.544823169708252,
+        "BenefitsAssistance": 0.4977906346321106,
+        "Eligibility": 0.5821620225906372,
+        "ApplicationProcess": 0.6996769905090332,
+        "TimelineFrequency": 0.5984717607498169,
+        "AuthoritiesGovernance": 0.484416663646698,
+        "DefinitionsReferences": 0.4880520701408386
+      }
+    },
+    {
+      "sentence": "Interested candidates must fill out the application form available on the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7172616720199585,
+      "similarities": {
+        "ContextObjective": 0.49289751052856445,
+        "BenefitsAssistance": 0.4437897801399231,
+        "Eligibility": 0.5946937799453735,
+        "ApplicationProcess": 0.7172616720199585,
+        "TimelineFrequency": 0.5582267045974731,
+        "AuthoritiesGovernance": 0.4435175657272339,
+        "DefinitionsReferences": 0.4559450149536133
+      }
+    },
+    {
+      "sentence": "The application form requires personal details and educational qualifications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6906118392944336,
+      "similarities": {
+        "ContextObjective": 0.5118556618690491,
+        "BenefitsAssistance": 0.5293471217155457,
+        "Eligibility": 0.6492828130722046,
+        "ApplicationProcess": 0.6906118392944336,
+        "TimelineFrequency": 0.5799533724784851,
+        "AuthoritiesGovernance": 0.4721010625362396,
+        "DefinitionsReferences": 0.4896008372306824
+      }
+    },
+    {
+      "sentence": "Applicants must also provide information about their law degree and Bar Council registration.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5943175554275513,
+      "similarities": {
+        "ContextObjective": 0.4397234320640564,
+        "BenefitsAssistance": 0.47663867473602295,
+        "Eligibility": 0.5461079478263855,
+        "ApplicationProcess": 0.5943175554275513,
+        "TimelineFrequency": 0.530949592590332,
+        "AuthoritiesGovernance": 0.4264540672302246,
+        "DefinitionsReferences": 0.49829739332199097
+      }
+    },
+    {
+      "sentence": "In addition to the application form, candidates must submit supporting documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6743915677070618,
+      "similarities": {
+        "ContextObjective": 0.5143541097640991,
+        "BenefitsAssistance": 0.5458252429962158,
+        "Eligibility": 0.5845346450805664,
+        "ApplicationProcess": 0.6743915677070618,
+        "TimelineFrequency": 0.5804077386856079,
+        "AuthoritiesGovernance": 0.45754748582839966,
+        "DefinitionsReferences": 0.5618401765823364
+      }
+    },
+    {
+      "sentence": "These documents include proof of identity such as an Aadhar card or passport.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5570387840270996,
+      "similarities": {
+        "ContextObjective": 0.4453466534614563,
+        "BenefitsAssistance": 0.5133850574493408,
+        "Eligibility": 0.4618782103061676,
+        "ApplicationProcess": 0.5570387840270996,
+        "TimelineFrequency": 0.4423491656780243,
+        "AuthoritiesGovernance": 0.4116414487361908,
+        "DefinitionsReferences": 0.5056129097938538
+      }
+    },
+    {
+      "sentence": "They must also provide proof of income to verify eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6330057382583618,
+      "similarities": {
+        "ContextObjective": 0.4820789098739624,
+        "BenefitsAssistance": 0.5687612295150757,
+        "Eligibility": 0.6172769069671631,
+        "ApplicationProcess": 0.6330057382583618,
+        "TimelineFrequency": 0.5029819011688232,
+        "AuthoritiesGovernance": 0.41589999198913574,
+        "DefinitionsReferences": 0.45883113145828247
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The review process includes verification of all submitted documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6618273258209229,
+      "similarities": {
+        "ContextObjective": 0.4619995653629303,
+        "BenefitsAssistance": 0.5072036385536194,
+        "Eligibility": 0.525048017501831,
+        "ApplicationProcess": 0.6618273258209229,
+        "TimelineFrequency": 0.5265897512435913,
+        "AuthoritiesGovernance": 0.47527408599853516,
+        "DefinitionsReferences": 0.5456923246383667
+      }
+    },
+    {
+      "sentence": "Successful applicants will receive the financial assistance directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5512076616287231,
+      "similarities": {
+        "ContextObjective": 0.43689262866973877,
+        "BenefitsAssistance": 0.5512076616287231,
+        "Eligibility": 0.5498314499855042,
+        "ApplicationProcess": 0.5468457937240601,
+        "TimelineFrequency": 0.4691544771194458,
+        "AuthoritiesGovernance": 0.42702075839042664,
+        "DefinitionsReferences": 0.3814140558242798
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is typically completed within 30 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5393509268760681,
+      "similarities": {
+        "ContextObjective": 0.441511869430542,
+        "BenefitsAssistance": 0.5393509268760681,
+        "Eligibility": 0.49416497349739075,
+        "ApplicationProcess": 0.4772336781024933,
+        "TimelineFrequency": 0.5122514963150024,
+        "AuthoritiesGovernance": 0.4505780041217804,
+        "DefinitionsReferences": 0.40609022974967957
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Justice under the Ministry of Law and Justice.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.536896824836731,
+      "similarities": {
+        "ContextObjective": 0.5045144557952881,
+        "BenefitsAssistance": 0.3841138482093811,
+        "Eligibility": 0.46676480770111084,
+        "ApplicationProcess": 0.45871502161026,
+        "TimelineFrequency": 0.37430229783058167,
+        "AuthoritiesGovernance": 0.536896824836731,
+        "DefinitionsReferences": 0.3953971266746521
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the Department of Justice.",
+      "role": "Eligibility",
+      "confidence": 0.5507329702377319,
+      "similarities": {
+        "ContextObjective": 0.4097840487957001,
+        "BenefitsAssistance": 0.4584112763404846,
+        "Eligibility": 0.5507329702377319,
+        "ApplicationProcess": 0.546744704246521,
+        "TimelineFrequency": 0.45692554116249084,
+        "AuthoritiesGovernance": 0.5118741989135742,
+        "DefinitionsReferences": 0.4279874265193939
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Justice are available on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5250750780105591,
+      "similarities": {
+        "ContextObjective": 0.39067721366882324,
+        "BenefitsAssistance": 0.45536530017852783,
+        "Eligibility": 0.4544053077697754,
+        "ApplicationProcess": 0.48671215772628784,
+        "TimelineFrequency": 0.39792299270629883,
+        "AuthoritiesGovernance": 0.5250750780105591,
+        "DefinitionsReferences": 0.45573097467422485
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance access to justice in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5083377361297607,
+      "similarities": {
+        "ContextObjective": 0.5083377361297607,
+        "BenefitsAssistance": 0.38944655656814575,
+        "Eligibility": 0.4728928804397583,
+        "ApplicationProcess": 0.4321291148662567,
+        "TimelineFrequency": 0.3777637481689453,
+        "AuthoritiesGovernance": 0.45998018980026245,
+        "DefinitionsReferences": 0.38995829224586487
+      }
+    },
+    {
+      "sentence": "It aims to create a more equitable legal system by supporting new lawyers.",
+      "role": "ContextObjective",
+      "confidence": 0.49685704708099365,
+      "similarities": {
+        "ContextObjective": 0.49685704708099365,
+        "BenefitsAssistance": 0.38903558254241943,
+        "Eligibility": 0.44605571031570435,
+        "ApplicationProcess": 0.41074156761169434,
+        "TimelineFrequency": 0.3906417787075043,
+        "AuthoritiesGovernance": 0.44691896438598633,
+        "DefinitionsReferences": 0.4227046072483063
+      }
+    },
+    {
+      "sentence": "The government hopes that this financial assistance will help reduce barriers to entry.",
+      "role": "Eligibility",
+      "confidence": 0.5313260555267334,
+      "similarities": {
+        "ContextObjective": 0.4763641357421875,
+        "BenefitsAssistance": 0.5063602924346924,
+        "Eligibility": 0.5313260555267334,
+        "ApplicationProcess": 0.49077108502388,
+        "TimelineFrequency": 0.4200202226638794,
+        "AuthoritiesGovernance": 0.4159115254878998,
+        "DefinitionsReferences": 0.3662930130958557
+      }
+    },
+    {
+      "sentence": "By providing this support, the scheme encourages young lawyers to establish their practice.",
+      "role": "ContextObjective",
+      "confidence": 0.5089176297187805,
+      "similarities": {
+        "ContextObjective": 0.5089176297187805,
+        "BenefitsAssistance": 0.38930439949035645,
+        "Eligibility": 0.3990248441696167,
+        "ApplicationProcess": 0.38476622104644775,
+        "TimelineFrequency": 0.3681139349937439,
+        "AuthoritiesGovernance": 0.33702677488327026,
+        "DefinitionsReferences": 0.3988310694694519
+      }
+    },
+    {
+      "sentence": "The initiative also aims to promote diversity within the legal profession.",
+      "role": "ContextObjective",
+      "confidence": 0.45616069436073303,
+      "similarities": {
+        "ContextObjective": 0.45616069436073303,
+        "BenefitsAssistance": 0.334295392036438,
+        "Eligibility": 0.40680018067359924,
+        "ApplicationProcess": 0.35758543014526367,
+        "TimelineFrequency": 0.3699747920036316,
+        "AuthoritiesGovernance": 0.3953130841255188,
+        "DefinitionsReferences": 0.3846169412136078
+      }
+    },
+    {
+      "sentence": "The scheme is expected to foster a new generation of legal professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.5145421028137207,
+      "similarities": {
+        "ContextObjective": 0.5145421028137207,
+        "BenefitsAssistance": 0.3701242208480835,
+        "Eligibility": 0.45647746324539185,
+        "ApplicationProcess": 0.42522355914115906,
+        "TimelineFrequency": 0.4097438454627991,
+        "AuthoritiesGovernance": 0.39101675152778625,
+        "DefinitionsReferences": 0.41317039728164673
+      }
+    },
+    {
+      "sentence": "It is anticipated that this will lead to increased representation in the legal field.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5025524497032166,
+      "similarities": {
+        "ContextObjective": 0.4401777982711792,
+        "BenefitsAssistance": 0.43691736459732056,
+        "Eligibility": 0.43548282980918884,
+        "ApplicationProcess": 0.4207257032394409,
+        "TimelineFrequency": 0.4051820635795593,
+        "AuthoritiesGovernance": 0.45608317852020264,
+        "DefinitionsReferences": 0.5025524497032166
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 50 crore for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49516791105270386,
+      "similarities": {
+        "ContextObjective": 0.49516791105270386,
+        "BenefitsAssistance": 0.4479339122772217,
+        "Eligibility": 0.4546694755554199,
+        "ApplicationProcess": 0.4235007166862488,
+        "TimelineFrequency": 0.4047462046146393,
+        "AuthoritiesGovernance": 0.4119088649749756,
+        "DefinitionsReferences": 0.3504266142845154
+      }
+    },
+    {
+      "sentence": "This budget is intended to support thousands of young lawyers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4346250891685486,
+      "similarities": {
+        "ContextObjective": 0.4346250891685486,
+        "BenefitsAssistance": 0.4327636957168579,
+        "Eligibility": 0.4244824945926666,
+        "ApplicationProcess": 0.33415287733078003,
+        "TimelineFrequency": 0.3961292505264282,
+        "AuthoritiesGovernance": 0.3703477382659912,
+        "DefinitionsReferences": 0.4105527997016907
+      }
+    },
+    {
+      "sentence": "The scheme is expected to be reviewed periodically for its effectiveness.",
+      "role": "TimelineFrequency",
+      "confidence": 0.567659318447113,
+      "similarities": {
+        "ContextObjective": 0.5666602253913879,
+        "BenefitsAssistance": 0.4920334815979004,
+        "Eligibility": 0.5501528978347778,
+        "ApplicationProcess": 0.5371389389038086,
+        "TimelineFrequency": 0.567659318447113,
+        "AuthoritiesGovernance": 0.5158395767211914,
+        "DefinitionsReferences": 0.461849570274353
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be taken into account for future improvements.",
+      "role": "Eligibility",
+      "confidence": 0.5542622804641724,
+      "similarities": {
+        "ContextObjective": 0.49693724513053894,
+        "BenefitsAssistance": 0.5398136973381042,
+        "Eligibility": 0.5542622804641724,
+        "ApplicationProcess": 0.4798499643802643,
+        "TimelineFrequency": 0.4628027081489563,
+        "AuthoritiesGovernance": 0.5049551725387573,
+        "DefinitionsReferences": 0.4565558433532715
+      }
+    },
+    {
+      "sentence": "The initiative aligns with the government's vision of promoting social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.5493820309638977,
+      "similarities": {
+        "ContextObjective": 0.5493820309638977,
+        "BenefitsAssistance": 0.3669700622558594,
+        "Eligibility": 0.45226508378982544,
+        "ApplicationProcess": 0.4128871560096741,
+        "TimelineFrequency": 0.3574844002723694,
+        "AuthoritiesGovernance": 0.45475322008132935,
+        "DefinitionsReferences": 0.3952111303806305
+      }
+    },
+    {
+      "sentence": "It reflects a commitment to enhancing the legal profession in India.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4020167887210846,
+      "similarities": {
+        "ContextObjective": 0.39712798595428467,
+        "BenefitsAssistance": 0.3084264397621155,
+        "Eligibility": 0.34203648567199707,
+        "ApplicationProcess": 0.360459566116333,
+        "TimelineFrequency": 0.31872081756591797,
+        "AuthoritiesGovernance": 0.35616564750671387,
+        "DefinitionsReferences": 0.4020167887210846
+      }
+    },
+    {
+      "sentence": "The scheme is also part of the larger framework of legal reforms in the country.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5372422933578491,
+      "similarities": {
+        "ContextObjective": 0.527121901512146,
+        "BenefitsAssistance": 0.4473395347595215,
+        "Eligibility": 0.49330762028694153,
+        "ApplicationProcess": 0.4687280058860779,
+        "TimelineFrequency": 0.42770278453826904,
+        "AuthoritiesGovernance": 0.5372422933578491,
+        "DefinitionsReferences": 0.4913451075553894
+      }
+    },
+    {
+      "sentence": "It aims to modernize the legal system and make it more accessible.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4783366918563843,
+      "similarities": {
+        "ContextObjective": 0.45211508870124817,
+        "BenefitsAssistance": 0.39648517966270447,
+        "Eligibility": 0.4612216651439667,
+        "ApplicationProcess": 0.4714045524597168,
+        "TimelineFrequency": 0.4049627184867859,
+        "AuthoritiesGovernance": 0.4783366918563843,
+        "DefinitionsReferences": 0.4622272849082947
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible lawyers to apply for this assistance.",
+      "role": "Eligibility",
+      "confidence": 0.5471183061599731,
+      "similarities": {
+        "ContextObjective": 0.4740905165672302,
+        "BenefitsAssistance": 0.46191567182540894,
+        "Eligibility": 0.5471183061599731,
+        "ApplicationProcess": 0.5102654695510864,
+        "TimelineFrequency": 0.458659827709198,
+        "AuthoritiesGovernance": 0.41759419441223145,
+        "DefinitionsReferences": 0.43801259994506836
+      }
+    },
+    {
+      "sentence": "The application process is designed to be user-friendly and efficient.",
+      "role": "ApplicationProcess",
+      "confidence": 0.632239818572998,
+      "similarities": {
+        "ContextObjective": 0.5235663652420044,
+        "BenefitsAssistance": 0.4815037250518799,
+        "Eligibility": 0.5490301847457886,
+        "ApplicationProcess": 0.632239818572998,
+        "TimelineFrequency": 0.5958667397499084,
+        "AuthoritiesGovernance": 0.4731787145137787,
+        "DefinitionsReferences": 0.45582449436187744
+      }
+    },
+    {
+      "sentence": "The scheme is a significant step towards empowering young legal practitioners.",
+      "role": "ContextObjective",
+      "confidence": 0.498842716217041,
+      "similarities": {
+        "ContextObjective": 0.498842716217041,
+        "BenefitsAssistance": 0.35710811614990234,
+        "Eligibility": 0.4214969873428345,
+        "ApplicationProcess": 0.39914625883102417,
+        "TimelineFrequency": 0.37641510367393494,
+        "AuthoritiesGovernance": 0.39390480518341064,
+        "DefinitionsReferences": 0.4134501814842224
+      }
+    },
+    {
+      "sentence": "It provides a much-needed financial cushion during the initial phase of their careers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4863126873970032,
+      "similarities": {
+        "ContextObjective": 0.4641893208026886,
+        "BenefitsAssistance": 0.4863126873970032,
+        "Eligibility": 0.4432315528392792,
+        "ApplicationProcess": 0.42728790640830994,
+        "TimelineFrequency": 0.4245827794075012,
+        "AuthoritiesGovernance": 0.33634281158447266,
+        "DefinitionsReferences": 0.37863868474960327
+      }
+    },
+    {
+      "sentence": "The government hopes that this will lead to a more robust legal community.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4904768168926239,
+      "similarities": {
+        "ContextObjective": 0.47542843222618103,
+        "BenefitsAssistance": 0.38360676169395447,
+        "Eligibility": 0.448142409324646,
+        "ApplicationProcess": 0.424705445766449,
+        "TimelineFrequency": 0.3691753149032593,
+        "AuthoritiesGovernance": 0.4904768168926239,
+        "DefinitionsReferences": 0.4641943871974945
+      }
+    },
+    {
+      "sentence": "The initiative is a testament to the government's commitment to the legal profession.",
+      "role": "ContextObjective",
+      "confidence": 0.44021785259246826,
+      "similarities": {
+        "ContextObjective": 0.44021785259246826,
+        "BenefitsAssistance": 0.35832345485687256,
+        "Eligibility": 0.3930109441280365,
+        "ApplicationProcess": 0.40008342266082764,
+        "TimelineFrequency": 0.3567565977573395,
+        "AuthoritiesGovernance": 0.4105876088142395,
+        "DefinitionsReferences": 0.43385639786720276
+      }
+    },
+    {
+      "sentence": "It aims to create a supportive environment for aspiring lawyers.",
+      "role": "ContextObjective",
+      "confidence": 0.5192352533340454,
+      "similarities": {
+        "ContextObjective": 0.5192352533340454,
+        "BenefitsAssistance": 0.37183335423469543,
+        "Eligibility": 0.44827917218208313,
+        "ApplicationProcess": 0.44201070070266724,
+        "TimelineFrequency": 0.41132861375808716,
+        "AuthoritiesGovernance": 0.40052706003189087,
+        "DefinitionsReferences": 0.444663941860199
+      }
+    },
+    {
+      "sentence": "The scheme is a vital resource for those looking to make their mark in the legal field.",
+      "role": "ContextObjective",
+      "confidence": 0.584245502948761,
+      "similarities": {
+        "ContextObjective": 0.584245502948761,
+        "BenefitsAssistance": 0.4241005480289459,
+        "Eligibility": 0.5437148809432983,
+        "ApplicationProcess": 0.5125793814659119,
+        "TimelineFrequency": 0.48460185527801514,
+        "AuthoritiesGovernance": 0.41448062658309937,
+        "DefinitionsReferences": 0.49786847829818726
+      }
+    },
+    {
+      "sentence": "Overall, the \"Assistance to Lawyers for Starting their Practice\" scheme is a comprehensive initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.521725058555603,
+      "similarities": {
+        "ContextObjective": 0.521725058555603,
+        "BenefitsAssistance": 0.4938153922557831,
+        "Eligibility": 0.4620344340801239,
+        "ApplicationProcess": 0.45766210556030273,
+        "TimelineFrequency": 0.43643635511398315,
+        "AuthoritiesGovernance": 0.4272889494895935,
+        "DefinitionsReferences": 0.44850248098373413
+      }
+    },
+    {
+      "sentence": "It addresses the financial challenges faced by young lawyers in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4472430348396301,
+      "similarities": {
+        "ContextObjective": 0.42596372961997986,
+        "BenefitsAssistance": 0.4472430348396301,
+        "Eligibility": 0.43391069769859314,
+        "ApplicationProcess": 0.3885933756828308,
+        "TimelineFrequency": 0.3757513165473938,
+        "AuthoritiesGovernance": 0.3582436740398407,
+        "DefinitionsReferences": 0.3787665367126465
+      }
+    },
+    {
+      "sentence": "By providing targeted assistance, the scheme aims to foster a thriving legal profession.",
+      "role": "ContextObjective",
+      "confidence": 0.5410642623901367,
+      "similarities": {
+        "ContextObjective": 0.5410642623901367,
+        "BenefitsAssistance": 0.3908228278160095,
+        "Eligibility": 0.45761823654174805,
+        "ApplicationProcess": 0.3864249587059021,
+        "TimelineFrequency": 0.3842684030532837,
+        "AuthoritiesGovernance": 0.4013591408729553,
+        "DefinitionsReferences": 0.38977181911468506
+      }
+    },
+    {
+      "sentence": "The government remains committed to ensuring that justice is accessible to all.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5035181045532227,
+      "similarities": {
+        "ContextObjective": 0.44493216276168823,
+        "BenefitsAssistance": 0.4005095660686493,
+        "Eligibility": 0.4913071393966675,
+        "ApplicationProcess": 0.4196443259716034,
+        "TimelineFrequency": 0.3579501211643219,
+        "AuthoritiesGovernance": 0.5035181045532227,
+        "DefinitionsReferences": 0.4419008493423462
+      }
+    },
+    {
+      "sentence": "This scheme is a crucial part of that commitment.",
+      "role": "ContextObjective",
+      "confidence": 0.5786950588226318,
+      "similarities": {
+        "ContextObjective": 0.5786950588226318,
+        "BenefitsAssistance": 0.47818267345428467,
+        "Eligibility": 0.5027620792388916,
+        "ApplicationProcess": 0.48580682277679443,
+        "TimelineFrequency": 0.48491865396499634,
+        "AuthoritiesGovernance": 0.43576687574386597,
+        "DefinitionsReferences": 0.44318076968193054
+      }
+    },
+    {
+      "sentence": "It is expected to have a lasting impact on the legal landscape in India.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4817010760307312,
+      "similarities": {
+        "ContextObjective": 0.4350413382053375,
+        "BenefitsAssistance": 0.3736775517463684,
+        "Eligibility": 0.4383072853088379,
+        "ApplicationProcess": 0.3872326612472534,
+        "TimelineFrequency": 0.3631514012813568,
+        "AuthoritiesGovernance": 0.41181328892707825,
+        "DefinitionsReferences": 0.4817010760307312
+      }
+    },
+    {
+      "sentence": "The initiative is a clear recognition of the importance of supporting new talent in the legal field.",
+      "role": "ContextObjective",
+      "confidence": 0.43070632219314575,
+      "similarities": {
+        "ContextObjective": 0.43070632219314575,
+        "BenefitsAssistance": 0.3394390344619751,
+        "Eligibility": 0.404646098613739,
+        "ApplicationProcess": 0.36935341358184814,
+        "TimelineFrequency": 0.35960114002227783,
+        "AuthoritiesGovernance": 0.3528605103492737,
+        "DefinitionsReferences": 0.38544371724128723
+      }
+    },
+    {
+      "sentence": "The government encourages ongoing engagement with stakeholders in the legal community.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5219783782958984,
+      "similarities": {
+        "ContextObjective": 0.49706900119781494,
+        "BenefitsAssistance": 0.4206046760082245,
+        "Eligibility": 0.4515281915664673,
+        "ApplicationProcess": 0.42858877778053284,
+        "TimelineFrequency": 0.4060205817222595,
+        "AuthoritiesGovernance": 0.5219783782958984,
+        "DefinitionsReferences": 0.4980398714542389
+      }
+    },
+    {
+      "sentence": "This will help to continuously refine and improve the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5326809883117676,
+      "similarities": {
+        "ContextObjective": 0.5326809883117676,
+        "BenefitsAssistance": 0.45821303129196167,
+        "Eligibility": 0.45069435238838196,
+        "ApplicationProcess": 0.4827401638031006,
+        "TimelineFrequency": 0.5189539194107056,
+        "AuthoritiesGovernance": 0.4832204282283783,
+        "DefinitionsReferences": 0.4849432110786438
+      }
+    },
+    {
+      "sentence": "The scheme represents a proactive approach to nurturing the next generation of lawyers.",
+      "role": "ContextObjective",
+      "confidence": 0.5117884874343872,
+      "similarities": {
+        "ContextObjective": 0.5117884874343872,
+        "BenefitsAssistance": 0.327922523021698,
+        "Eligibility": 0.42664486169815063,
+        "ApplicationProcess": 0.4096497893333435,
+        "TimelineFrequency": 0.4103671908378601,
+        "AuthoritiesGovernance": 0.3540096580982208,
+        "DefinitionsReferences": 0.39872506260871887
+      }
+    },
+    {
+      "sentence": "It is a significant investment in the future of the legal profession in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4071316123008728,
+      "similarities": {
+        "ContextObjective": 0.4071316123008728,
+        "BenefitsAssistance": 0.3721589744091034,
+        "Eligibility": 0.3516208529472351,
+        "ApplicationProcess": 0.33860334753990173,
+        "TimelineFrequency": 0.3221230208873749,
+        "AuthoritiesGovernance": 0.33029747009277344,
+        "DefinitionsReferences": 0.39961761236190796
+      }
+    },
+    {
+      "sentence": "The government looks forward to seeing the positive outcomes of this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5573284029960632,
+      "similarities": {
+        "ContextObjective": 0.5573284029960632,
+        "BenefitsAssistance": 0.4424978494644165,
+        "Eligibility": 0.4716142416000366,
+        "ApplicationProcess": 0.45000043511390686,
+        "TimelineFrequency": 0.40641921758651733,
+        "AuthoritiesGovernance": 0.49385523796081543,
+        "DefinitionsReferences": 0.41116082668304443
+      }
+    },
+    {
+      "sentence": "It aims to create a more inclusive and diverse legal environment.",
+      "role": "Eligibility",
+      "confidence": 0.5122435092926025,
+      "similarities": {
+        "ContextObjective": 0.5109694004058838,
+        "BenefitsAssistance": 0.41091209650039673,
+        "Eligibility": 0.5122435092926025,
+        "ApplicationProcess": 0.4293414056301117,
+        "TimelineFrequency": 0.41309648752212524,
+        "AuthoritiesGovernance": 0.4579813480377197,
+        "DefinitionsReferences": 0.4826144576072693
+      }
+    },
+    {
+      "sentence": "This scheme is a vital step towards achieving that goal.",
+      "role": "ContextObjective",
+      "confidence": 0.6250467300415039,
+      "similarities": {
+        "ContextObjective": 0.6250467300415039,
+        "BenefitsAssistance": 0.44492608308792114,
+        "Eligibility": 0.49476850032806396,
+        "ApplicationProcess": 0.5171937346458435,
+        "TimelineFrequency": 0.44385361671447754,
+        "AuthoritiesGovernance": 0.4547772705554962,
+        "DefinitionsReferences": 0.43105724453926086
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 28,
+    "Eligibility": 12,
+    "BenefitsAssistance": 6,
+    "ApplicationProcess": 11,
+    "AuthoritiesGovernance": 7,
+    "DefinitionsReferences": 3,
+    "TimelineFrequency": 1
+  },
+  "processing_timestamp": "2025-09-25T20:42:08.122524"
+}

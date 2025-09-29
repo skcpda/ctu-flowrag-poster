@@ -1,0 +1,22 @@
+{
+  "total_files": 3,
+  "processed_files": 3,
+  "failed_files": 0,
+  "total_cost": 0.17300000000000013,
+  "relation_distribution": {
+    "SUPPORTS": 953,
+    "PRECEDES": 882,
+    "CONDITIONS": 1525,
+    "CAUSES": 215,
+    "CONTRADICTS": 211,
+    "EXAMPLES": 928,
+    "ELABORATES": 386,
+    "NONE": 106
+  },
+  "method_distribution": {
+    "rule_based": 4105,
+    "embedding": 7095,
+    "gpt": 352
+  },
+  "processing_timestamp": "2025-09-24T18:58:19.405709"
+}

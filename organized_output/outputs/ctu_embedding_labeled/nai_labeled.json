@@ -1,0 +1,799 @@
+{
+  "scheme_name": "National Agriculture Insurance Scheme",
+  "total_sentences": 56,
+  "labeled_sentences": [
+    {
+      "sentence": "The National Agriculture Insurance Scheme (NAIS) was launched on 13th January 2000 by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5180445313453674,
+      "similarities": {
+        "ContextObjective": 0.5180445313453674,
+        "BenefitsAssistance": 0.4624446630477905,
+        "Eligibility": 0.4681929349899292,
+        "ApplicationProcess": 0.4195575714111328,
+        "TimelineFrequency": 0.43730300664901733,
+        "AuthoritiesGovernance": 0.4219003915786743,
+        "DefinitionsReferences": 0.37759798765182495
+      }
+    },
+    {
+      "sentence": "The scheme was initiated to provide insurance coverage and financial support to farmers in the event of crop failure due to natural calamities.",
+      "role": "ContextObjective",
+      "confidence": 0.5094112157821655,
+      "similarities": {
+        "ContextObjective": 0.5094112157821655,
+        "BenefitsAssistance": 0.5000083446502686,
+        "Eligibility": 0.48138487339019775,
+        "ApplicationProcess": 0.41513383388519287,
+        "TimelineFrequency": 0.40378880500793457,
+        "AuthoritiesGovernance": 0.3827659487724304,
+        "DefinitionsReferences": 0.34717240929603577
+      }
+    },
+    {
+      "sentence": "The primary objective of NAIS is to stabilize the income of farmers and ensure that they can recover from losses incurred due to unforeseen events.",
+      "role": "ContextObjective",
+      "confidence": 0.4836975932121277,
+      "similarities": {
+        "ContextObjective": 0.4836975932121277,
+        "BenefitsAssistance": 0.42232251167297363,
+        "Eligibility": 0.4186551570892334,
+        "ApplicationProcess": 0.38292253017425537,
+        "TimelineFrequency": 0.3696523606777191,
+        "AuthoritiesGovernance": 0.40188783407211304,
+        "DefinitionsReferences": 0.34803658723831177
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide insurance coverage for various crops grown in different states across India.",
+      "role": "Eligibility",
+      "confidence": 0.5344560742378235,
+      "similarities": {
+        "ContextObjective": 0.533584475517273,
+        "BenefitsAssistance": 0.5096327066421509,
+        "Eligibility": 0.5344560742378235,
+        "ApplicationProcess": 0.43288370966911316,
+        "TimelineFrequency": 0.4493297338485718,
+        "AuthoritiesGovernance": 0.42523813247680664,
+        "DefinitionsReferences": 0.4038393497467041
+      }
+    },
+    {
+      "sentence": "The coverage includes food crops, oilseeds, and annual commercial and horticultural crops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5227143168449402,
+      "similarities": {
+        "ContextObjective": 0.4572036564350128,
+        "BenefitsAssistance": 0.5227143168449402,
+        "Eligibility": 0.50571608543396,
+        "ApplicationProcess": 0.4269839823246002,
+        "TimelineFrequency": 0.48494213819503784,
+        "AuthoritiesGovernance": 0.3886007070541382,
+        "DefinitionsReferences": 0.4904208779335022
+      }
+    },
+    {
+      "sentence": "The NAIS was designed to protect farmers against losses due to drought, flood, hailstorm, pest attacks, and other natural disasters.",
+      "role": "Eligibility",
+      "confidence": 0.44118407368659973,
+      "similarities": {
+        "ContextObjective": 0.4013165235519409,
+        "BenefitsAssistance": 0.43599733710289,
+        "Eligibility": 0.44118407368659973,
+        "ApplicationProcess": 0.3660701513290405,
+        "TimelineFrequency": 0.3944679796695709,
+        "AuthoritiesGovernance": 0.370607852935791,
+        "DefinitionsReferences": 0.3746480643749237
+      }
+    },
+    {
+      "sentence": "The scheme also aims to encourage farmers to adopt modern agricultural practices by providing them with financial security.",
+      "role": "ContextObjective",
+      "confidence": 0.4537492096424103,
+      "similarities": {
+        "ContextObjective": 0.4537492096424103,
+        "BenefitsAssistance": 0.4443906545639038,
+        "Eligibility": 0.43121153116226196,
+        "ApplicationProcess": 0.41026362776756287,
+        "TimelineFrequency": 0.33489662408828735,
+        "AuthoritiesGovernance": 0.3103386163711548,
+        "DefinitionsReferences": 0.33004656434059143
+      }
+    },
+    {
+      "sentence": "Under the NAIS, farmers are eligible for insurance coverage of up to 100% of the sum insured for notified crops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4691425561904907,
+      "similarities": {
+        "ContextObjective": 0.3684542179107666,
+        "BenefitsAssistance": 0.4691425561904907,
+        "Eligibility": 0.45903530716896057,
+        "ApplicationProcess": 0.3581629991531372,
+        "TimelineFrequency": 0.34608036279678345,
+        "AuthoritiesGovernance": 0.3300209045410156,
+        "DefinitionsReferences": 0.32574784755706787
+      }
+    },
+    {
+      "sentence": "The sum insured is determined based on the average yield of the crop in the area.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4955693781375885,
+      "similarities": {
+        "ContextObjective": 0.421002596616745,
+        "BenefitsAssistance": 0.4955693781375885,
+        "Eligibility": 0.4950205683708191,
+        "ApplicationProcess": 0.3908405900001526,
+        "TimelineFrequency": 0.4314882159233093,
+        "AuthoritiesGovernance": 0.38898035883903503,
+        "DefinitionsReferences": 0.375829815864563
+      }
+    },
+    {
+      "sentence": "The premium rates under the scheme are fixed at 1.5% for food crops and oilseeds and 2% for annual commercial and horticultural crops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45472317934036255,
+      "similarities": {
+        "ContextObjective": 0.3955140709877014,
+        "BenefitsAssistance": 0.45472317934036255,
+        "Eligibility": 0.420793354511261,
+        "ApplicationProcess": 0.3584126830101013,
+        "TimelineFrequency": 0.4071803092956543,
+        "AuthoritiesGovernance": 0.32426637411117554,
+        "DefinitionsReferences": 0.34943342208862305
+      }
+    },
+    {
+      "sentence": "The government subsidizes the premium to make it affordable for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48341402411460876,
+      "similarities": {
+        "ContextObjective": 0.42783233523368835,
+        "BenefitsAssistance": 0.48341402411460876,
+        "Eligibility": 0.44588613510131836,
+        "ApplicationProcess": 0.3975484371185303,
+        "TimelineFrequency": 0.3737184703350067,
+        "AuthoritiesGovernance": 0.3650783896446228,
+        "DefinitionsReferences": 0.35463112592697144
+      }
+    },
+    {
+      "sentence": "The NAIS covers both loanee and non-loanee farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5036724805831909,
+      "similarities": {
+        "ContextObjective": 0.39380884170532227,
+        "BenefitsAssistance": 0.5036724805831909,
+        "Eligibility": 0.4865385591983795,
+        "ApplicationProcess": 0.39936912059783936,
+        "TimelineFrequency": 0.399152934551239,
+        "AuthoritiesGovernance": 0.3939545750617981,
+        "DefinitionsReferences": 0.4107293486595154
+      }
+    },
+    {
+      "sentence": "Loanee farmers are those who have taken loans from financial institutions, while non-loanee farmers are those who do not have any loans.",
+      "role": "Eligibility",
+      "confidence": 0.42058563232421875,
+      "similarities": {
+        "ContextObjective": 0.32665812969207764,
+        "BenefitsAssistance": 0.39288130402565,
+        "Eligibility": 0.42058563232421875,
+        "ApplicationProcess": 0.36094439029693604,
+        "TimelineFrequency": 0.3600030541419983,
+        "AuthoritiesGovernance": 0.3454608917236328,
+        "DefinitionsReferences": 0.3201649785041809
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for farmers under the NAIS include being a resident of India and cultivating the notified crops.",
+      "role": "Eligibility",
+      "confidence": 0.5840952396392822,
+      "similarities": {
+        "ContextObjective": 0.4497542977333069,
+        "BenefitsAssistance": 0.39176803827285767,
+        "Eligibility": 0.5840952396392822,
+        "ApplicationProcess": 0.4893503487110138,
+        "TimelineFrequency": 0.42725518345832825,
+        "AuthoritiesGovernance": 0.36967045068740845,
+        "DefinitionsReferences": 0.37213295698165894
+      }
+    },
+    {
+      "sentence": "Farmers must also have a valid land ownership document or lease agreement to be eligible for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5696457624435425,
+      "similarities": {
+        "ContextObjective": 0.4846671521663666,
+        "BenefitsAssistance": 0.4349513649940491,
+        "Eligibility": 0.5696457624435425,
+        "ApplicationProcess": 0.5433753728866577,
+        "TimelineFrequency": 0.47136494517326355,
+        "AuthoritiesGovernance": 0.39689019322395325,
+        "DefinitionsReferences": 0.43735772371292114
+      }
+    },
+    {
+      "sentence": "The application process for NAIS involves filling out a proposal form available at local banks or insurance companies.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6080475449562073,
+      "similarities": {
+        "ContextObjective": 0.478579044342041,
+        "BenefitsAssistance": 0.523349404335022,
+        "Eligibility": 0.5491242408752441,
+        "ApplicationProcess": 0.6080475449562073,
+        "TimelineFrequency": 0.5077778100967407,
+        "AuthoritiesGovernance": 0.4262738823890686,
+        "DefinitionsReferences": 0.4257187247276306
+      }
+    },
+    {
+      "sentence": "Farmers need to submit the completed form along with the required documents, including land ownership proof and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6268492341041565,
+      "similarities": {
+        "ContextObjective": 0.44529932737350464,
+        "BenefitsAssistance": 0.496550977230072,
+        "Eligibility": 0.5195967555046082,
+        "ApplicationProcess": 0.6268492341041565,
+        "TimelineFrequency": 0.4547262489795685,
+        "AuthoritiesGovernance": 0.4274858832359314,
+        "DefinitionsReferences": 0.4632038176059723
+      }
+    },
+    {
+      "sentence": "The last date for submitting the application is usually fixed by the respective state governments.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6108558773994446,
+      "similarities": {
+        "ContextObjective": 0.4439719319343567,
+        "BenefitsAssistance": 0.4208081066608429,
+        "Eligibility": 0.5394818186759949,
+        "ApplicationProcess": 0.5686249732971191,
+        "TimelineFrequency": 0.6108558773994446,
+        "AuthoritiesGovernance": 0.4607471823692322,
+        "DefinitionsReferences": 0.44357365369796753
+      }
+    },
+    {
+      "sentence": "Farmers must ensure that they apply within the stipulated time frame to avail of the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.6113647818565369,
+      "similarities": {
+        "ContextObjective": 0.4682389795780182,
+        "BenefitsAssistance": 0.4625941514968872,
+        "Eligibility": 0.6113647818565369,
+        "ApplicationProcess": 0.5501267910003662,
+        "TimelineFrequency": 0.575739860534668,
+        "AuthoritiesGovernance": 0.4415808320045471,
+        "DefinitionsReferences": 0.42350104451179504
+      }
+    },
+    {
+      "sentence": "The insurance coverage is provided for a period of one year, starting from the date of sowing until the harvest.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4956824779510498,
+      "similarities": {
+        "ContextObjective": 0.4552099108695984,
+        "BenefitsAssistance": 0.4956824779510498,
+        "Eligibility": 0.4632475674152374,
+        "ApplicationProcess": 0.4166361391544342,
+        "TimelineFrequency": 0.4714873135089874,
+        "AuthoritiesGovernance": 0.3697900176048279,
+        "DefinitionsReferences": 0.3725561499595642
+      }
+    },
+    {
+      "sentence": "The premium amount is payable in advance before the commencement of the crop season.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48954224586486816,
+      "similarities": {
+        "ContextObjective": 0.4516245126724243,
+        "BenefitsAssistance": 0.48954224586486816,
+        "Eligibility": 0.4430268406867981,
+        "ApplicationProcess": 0.40185126662254333,
+        "TimelineFrequency": 0.47094058990478516,
+        "AuthoritiesGovernance": 0.3237490653991699,
+        "DefinitionsReferences": 0.33851948380470276
+      }
+    },
+    {
+      "sentence": "The disbursement of claims under the NAIS is done based on the assessment of crop loss by designated authorities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4819255769252777,
+      "similarities": {
+        "ContextObjective": 0.41087859869003296,
+        "BenefitsAssistance": 0.4819255769252777,
+        "Eligibility": 0.46901535987854004,
+        "ApplicationProcess": 0.39229637384414673,
+        "TimelineFrequency": 0.40722036361694336,
+        "AuthoritiesGovernance": 0.4427698254585266,
+        "DefinitionsReferences": 0.3847369849681854
+      }
+    },
+    {
+      "sentence": "The assessment is carried out through a network of agricultural officers and insurance company representatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4766906797885895,
+      "similarities": {
+        "ContextObjective": 0.38236039876937866,
+        "BenefitsAssistance": 0.41583284735679626,
+        "Eligibility": 0.4384342133998871,
+        "ApplicationProcess": 0.40357059240341187,
+        "TimelineFrequency": 0.38236188888549805,
+        "AuthoritiesGovernance": 0.4766906797885895,
+        "DefinitionsReferences": 0.3768974542617798
+      }
+    },
+    {
+      "sentence": "The claims are usually settled within a period of 30 days from the date of assessment.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5067242383956909,
+      "similarities": {
+        "ContextObjective": 0.43225574493408203,
+        "BenefitsAssistance": 0.4714406728744507,
+        "Eligibility": 0.47307059168815613,
+        "ApplicationProcess": 0.45020994544029236,
+        "TimelineFrequency": 0.5067242383956909,
+        "AuthoritiesGovernance": 0.43694883584976196,
+        "DefinitionsReferences": 0.43574079871177673
+      }
+    },
+    {
+      "sentence": "The implementing authority for the NAIS is the Ministry of Agriculture and Farmers' Welfare, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.569872260093689,
+      "similarities": {
+        "ContextObjective": 0.42396724224090576,
+        "BenefitsAssistance": 0.4067690968513489,
+        "Eligibility": 0.4697663187980652,
+        "ApplicationProcess": 0.4109850525856018,
+        "TimelineFrequency": 0.3657498359680176,
+        "AuthoritiesGovernance": 0.569872260093689,
+        "DefinitionsReferences": 0.41402098536491394
+      }
+    },
+    {
+      "sentence": "The scheme is administered through various state governments and insurance companies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5861751437187195,
+      "similarities": {
+        "ContextObjective": 0.564921498298645,
+        "BenefitsAssistance": 0.5836910605430603,
+        "Eligibility": 0.5772829055786133,
+        "ApplicationProcess": 0.511194109916687,
+        "TimelineFrequency": 0.49367421865463257,
+        "AuthoritiesGovernance": 0.5861751437187195,
+        "DefinitionsReferences": 0.4827473759651184
+      }
+    },
+    {
+      "sentence": "Farmers can contact their local agriculture department for more information regarding the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5328152775764465,
+      "similarities": {
+        "ContextObjective": 0.5081787109375,
+        "BenefitsAssistance": 0.4906405806541443,
+        "Eligibility": 0.5328152775764465,
+        "ApplicationProcess": 0.5146628618240356,
+        "TimelineFrequency": 0.4449821710586548,
+        "AuthoritiesGovernance": 0.5157149434089661,
+        "DefinitionsReferences": 0.4075819253921509
+      }
+    },
+    {
+      "sentence": "The NAIS has undergone several revisions since its inception to improve its effectiveness and reach.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5113281011581421,
+      "similarities": {
+        "ContextObjective": 0.47422292828559875,
+        "BenefitsAssistance": 0.4266156256198883,
+        "Eligibility": 0.44876909255981445,
+        "ApplicationProcess": 0.4276694655418396,
+        "TimelineFrequency": 0.4368566870689392,
+        "AuthoritiesGovernance": 0.5113281011581421,
+        "DefinitionsReferences": 0.44212520122528076
+      }
+    },
+    {
+      "sentence": "In 2016, the Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched, which replaced the NAIS in many states.",
+      "role": "ContextObjective",
+      "confidence": 0.458069384098053,
+      "similarities": {
+        "ContextObjective": 0.458069384098053,
+        "BenefitsAssistance": 0.44418978691101074,
+        "Eligibility": 0.4515719413757324,
+        "ApplicationProcess": 0.43044549226760864,
+        "TimelineFrequency": 0.3895803689956665,
+        "AuthoritiesGovernance": 0.3575025498867035,
+        "DefinitionsReferences": 0.38333773612976074
+      }
+    },
+    {
+      "sentence": "However, NAIS continues to operate in certain states and for specific crops.",
+      "role": "Eligibility",
+      "confidence": 0.5151476263999939,
+      "similarities": {
+        "ContextObjective": 0.434542715549469,
+        "BenefitsAssistance": 0.4330572783946991,
+        "Eligibility": 0.5151476263999939,
+        "ApplicationProcess": 0.4152384400367737,
+        "TimelineFrequency": 0.4350820481777191,
+        "AuthoritiesGovernance": 0.4513741135597229,
+        "DefinitionsReferences": 0.42435866594314575
+      }
+    },
+    {
+      "sentence": "The PMFBY aims to provide a more comprehensive insurance coverage compared to NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5384555459022522,
+      "similarities": {
+        "ContextObjective": 0.4623112380504608,
+        "BenefitsAssistance": 0.5384555459022522,
+        "Eligibility": 0.462057888507843,
+        "ApplicationProcess": 0.4230482578277588,
+        "TimelineFrequency": 0.403308629989624,
+        "AuthoritiesGovernance": 0.37044453620910645,
+        "DefinitionsReferences": 0.389747679233551
+      }
+    },
+    {
+      "sentence": "The NAIS has benefited millions of farmers across the country since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.46576234698295593,
+      "similarities": {
+        "ContextObjective": 0.46576234698295593,
+        "BenefitsAssistance": 0.41493701934814453,
+        "Eligibility": 0.4306792616844177,
+        "ApplicationProcess": 0.35432854294776917,
+        "TimelineFrequency": 0.3475829064846039,
+        "AuthoritiesGovernance": 0.3861677646636963,
+        "DefinitionsReferences": 0.3625233769416809
+      }
+    },
+    {
+      "sentence": "As of 2021, approximately 2.5 crore farmers have been insured under the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4429519772529602,
+      "similarities": {
+        "ContextObjective": 0.4159681797027588,
+        "BenefitsAssistance": 0.4429519772529602,
+        "Eligibility": 0.40318137407302856,
+        "ApplicationProcess": 0.3412840962409973,
+        "TimelineFrequency": 0.3294270634651184,
+        "AuthoritiesGovernance": 0.3757847547531128,
+        "DefinitionsReferences": 0.32233643531799316
+      }
+    },
+    {
+      "sentence": "The total sum insured under NAIS has reached around ₹1.5 lakh crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5438894033432007,
+      "similarities": {
+        "ContextObjective": 0.37328141927719116,
+        "BenefitsAssistance": 0.5438894033432007,
+        "Eligibility": 0.38131195306777954,
+        "ApplicationProcess": 0.34083759784698486,
+        "TimelineFrequency": 0.30934882164001465,
+        "AuthoritiesGovernance": 0.3222140073776245,
+        "DefinitionsReferences": 0.3602103292942047
+      }
+    },
+    {
+      "sentence": "The government has allocated substantial funds to support the implementation of NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5127984285354614,
+      "similarities": {
+        "ContextObjective": 0.46008801460266113,
+        "BenefitsAssistance": 0.5127984285354614,
+        "Eligibility": 0.47404658794403076,
+        "ApplicationProcess": 0.41022539138793945,
+        "TimelineFrequency": 0.3816216289997101,
+        "AuthoritiesGovernance": 0.4750940799713135,
+        "DefinitionsReferences": 0.42948591709136963
+      }
+    },
+    {
+      "sentence": "In the 2021-2022 financial year, the government allocated ₹13,000 crore for crop insurance schemes, including NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4861719012260437,
+      "similarities": {
+        "ContextObjective": 0.43571746349334717,
+        "BenefitsAssistance": 0.4861719012260437,
+        "Eligibility": 0.4536464214324951,
+        "ApplicationProcess": 0.3432461619377136,
+        "TimelineFrequency": 0.3858424723148346,
+        "AuthoritiesGovernance": 0.3930964767932892,
+        "DefinitionsReferences": 0.32779937982559204
+      }
+    },
+    {
+      "sentence": "The scheme has played a crucial role in mitigating the financial risks faced by farmers due to crop failures.",
+      "role": "ContextObjective",
+      "confidence": 0.47170448303222656,
+      "similarities": {
+        "ContextObjective": 0.47170448303222656,
+        "BenefitsAssistance": 0.4651990830898285,
+        "Eligibility": 0.4630601406097412,
+        "ApplicationProcess": 0.40444642305374146,
+        "TimelineFrequency": 0.39263248443603516,
+        "AuthoritiesGovernance": 0.380538672208786,
+        "DefinitionsReferences": 0.35630208253860474
+      }
+    },
+    {
+      "sentence": "Farmers have reported increased confidence in agriculture due to the safety net provided by NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4241291582584381,
+      "similarities": {
+        "ContextObjective": 0.38716936111450195,
+        "BenefitsAssistance": 0.4241291582584381,
+        "Eligibility": 0.37784838676452637,
+        "ApplicationProcess": 0.3261880874633789,
+        "TimelineFrequency": 0.2978784441947937,
+        "AuthoritiesGovernance": 0.3188678026199341,
+        "DefinitionsReferences": 0.33932042121887207
+      }
+    },
+    {
+      "sentence": "The scheme has also encouraged farmers to invest in better seeds and farming techniques.",
+      "role": "ContextObjective",
+      "confidence": 0.4610379636287689,
+      "similarities": {
+        "ContextObjective": 0.4610379636287689,
+        "BenefitsAssistance": 0.3916890621185303,
+        "Eligibility": 0.4021257758140564,
+        "ApplicationProcess": 0.3713287115097046,
+        "TimelineFrequency": 0.3317298889160156,
+        "AuthoritiesGovernance": 0.3257027864456177,
+        "DefinitionsReferences": 0.3553987145423889
+      }
+    },
+    {
+      "sentence": "The NAIS has been instrumental in promoting agricultural sustainability and food security in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4521010220050812,
+      "similarities": {
+        "ContextObjective": 0.4521010220050812,
+        "BenefitsAssistance": 0.36670172214508057,
+        "Eligibility": 0.40692946314811707,
+        "ApplicationProcess": 0.3571436405181885,
+        "TimelineFrequency": 0.33647018671035767,
+        "AuthoritiesGovernance": 0.39886319637298584,
+        "DefinitionsReferences": 0.3797961473464966
+      }
+    },
+    {
+      "sentence": "The scheme has faced challenges such as delays in claim settlements and inadequate awareness among farmers.",
+      "role": "Eligibility",
+      "confidence": 0.45915600657463074,
+      "similarities": {
+        "ContextObjective": 0.4553608298301697,
+        "BenefitsAssistance": 0.42934560775756836,
+        "Eligibility": 0.45915600657463074,
+        "ApplicationProcess": 0.3987046480178833,
+        "TimelineFrequency": 0.41350609064102173,
+        "AuthoritiesGovernance": 0.4268755316734314,
+        "DefinitionsReferences": 0.31909412145614624
+      }
+    },
+    {
+      "sentence": "Efforts are being made to address these challenges through better outreach and education programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4953233599662781,
+      "similarities": {
+        "ContextObjective": 0.4496603310108185,
+        "BenefitsAssistance": 0.4471357762813568,
+        "Eligibility": 0.4512569010257721,
+        "ApplicationProcess": 0.4230533838272095,
+        "TimelineFrequency": 0.3978251814842224,
+        "AuthoritiesGovernance": 0.4953233599662781,
+        "DefinitionsReferences": 0.39115631580352783
+      }
+    },
+    {
+      "sentence": "The government is also working on improving the technology used for assessing crop losses.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.474295437335968,
+      "similarities": {
+        "ContextObjective": 0.41618552803993225,
+        "BenefitsAssistance": 0.45968905091285706,
+        "Eligibility": 0.4447091221809387,
+        "ApplicationProcess": 0.45665788650512695,
+        "TimelineFrequency": 0.43812984228134155,
+        "AuthoritiesGovernance": 0.474295437335968,
+        "DefinitionsReferences": 0.4128481149673462
+      }
+    },
+    {
+      "sentence": "The NAIS is a vital component of the Indian government's strategy to support the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4658104479312897,
+      "similarities": {
+        "ContextObjective": 0.4658104479312897,
+        "BenefitsAssistance": 0.4079214334487915,
+        "Eligibility": 0.4167173504829407,
+        "ApplicationProcess": 0.38712549209594727,
+        "TimelineFrequency": 0.3712829351425171,
+        "AuthoritiesGovernance": 0.40687650442123413,
+        "DefinitionsReferences": 0.42168116569519043
+      }
+    },
+    {
+      "sentence": "It aims to ensure that farmers can continue to cultivate crops without the fear of total financial ruin.",
+      "role": "ContextObjective",
+      "confidence": 0.4551273584365845,
+      "similarities": {
+        "ContextObjective": 0.4551273584365845,
+        "BenefitsAssistance": 0.43046486377716064,
+        "Eligibility": 0.43134355545043945,
+        "ApplicationProcess": 0.40915152430534363,
+        "TimelineFrequency": 0.36037346720695496,
+        "AuthoritiesGovernance": 0.3502291440963745,
+        "DefinitionsReferences": 0.34018027782440186
+      }
+    },
+    {
+      "sentence": "The scheme is an essential tool for achieving the goal of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5217390060424805,
+      "similarities": {
+        "ContextObjective": 0.5217390060424805,
+        "BenefitsAssistance": 0.4129185676574707,
+        "Eligibility": 0.4421440064907074,
+        "ApplicationProcess": 0.4136788845062256,
+        "TimelineFrequency": 0.40288275480270386,
+        "AuthoritiesGovernance": 0.37488624453544617,
+        "DefinitionsReferences": 0.3564412593841553
+      }
+    },
+    {
+      "sentence": "The NAIS has been a significant step towards providing social security to farmers in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41399410367012024,
+      "similarities": {
+        "ContextObjective": 0.4102169871330261,
+        "BenefitsAssistance": 0.41399410367012024,
+        "Eligibility": 0.4012058675289154,
+        "ApplicationProcess": 0.36543601751327515,
+        "TimelineFrequency": 0.2959667444229126,
+        "AuthoritiesGovernance": 0.3356837034225464,
+        "DefinitionsReferences": 0.33909928798675537
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to the welfare of the agricultural community.",
+      "role": "ContextObjective",
+      "confidence": 0.5026994943618774,
+      "similarities": {
+        "ContextObjective": 0.5026994943618774,
+        "BenefitsAssistance": 0.417424738407135,
+        "Eligibility": 0.46749916672706604,
+        "ApplicationProcess": 0.4279894232749939,
+        "TimelineFrequency": 0.38142865896224976,
+        "AuthoritiesGovernance": 0.42284899950027466,
+        "DefinitionsReferences": 0.39227473735809326
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of the benefits offered by the NAIS.",
+      "role": "Eligibility",
+      "confidence": 0.46660035848617554,
+      "similarities": {
+        "ContextObjective": 0.4506513476371765,
+        "BenefitsAssistance": 0.45581910014152527,
+        "Eligibility": 0.46660035848617554,
+        "ApplicationProcess": 0.40398526191711426,
+        "TimelineFrequency": 0.38785576820373535,
+        "AuthoritiesGovernance": 0.38939788937568665,
+        "DefinitionsReferences": 0.41671833395957947
+      }
+    },
+    {
+      "sentence": "The scheme aims to create a more resilient agricultural sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5011103749275208,
+      "similarities": {
+        "ContextObjective": 0.5011103749275208,
+        "BenefitsAssistance": 0.3811713457107544,
+        "Eligibility": 0.4375050663948059,
+        "ApplicationProcess": 0.39270931482315063,
+        "TimelineFrequency": 0.36610645055770874,
+        "AuthoritiesGovernance": 0.3825393319129944,
+        "DefinitionsReferences": 0.3399214744567871
+      }
+    },
+    {
+      "sentence": "Overall, the National Agriculture Insurance Scheme is a critical initiative that has far-reaching implications for the agricultural economy of India.",
+      "role": "ContextObjective",
+      "confidence": 0.4720117151737213,
+      "similarities": {
+        "ContextObjective": 0.4720117151737213,
+        "BenefitsAssistance": 0.44184207916259766,
+        "Eligibility": 0.43673473596572876,
+        "ApplicationProcess": 0.3781586289405823,
+        "TimelineFrequency": 0.35944098234176636,
+        "AuthoritiesGovernance": 0.3507195711135864,
+        "DefinitionsReferences": 0.3708852231502533
+      }
+    },
+    {
+      "sentence": "It serves as a safety net for farmers and plays a crucial role in ensuring food security for the nation.",
+      "role": "Eligibility",
+      "confidence": 0.451252281665802,
+      "similarities": {
+        "ContextObjective": 0.4342230260372162,
+        "BenefitsAssistance": 0.39984840154647827,
+        "Eligibility": 0.451252281665802,
+        "ApplicationProcess": 0.39028334617614746,
+        "TimelineFrequency": 0.3474256992340088,
+        "AuthoritiesGovernance": 0.37369608879089355,
+        "DefinitionsReferences": 0.3707529902458191
+      }
+    },
+    {
+      "sentence": "The continued support and improvement of the NAIS will be vital for the future of Indian agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.40242862701416016,
+      "similarities": {
+        "ContextObjective": 0.40242862701416016,
+        "BenefitsAssistance": 0.3680568337440491,
+        "Eligibility": 0.352433443069458,
+        "ApplicationProcess": 0.3170311152935028,
+        "TimelineFrequency": 0.3211125135421753,
+        "AuthoritiesGovernance": 0.3472321927547455,
+        "DefinitionsReferences": 0.3687494099140167
+      }
+    },
+    {
+      "sentence": "Farmers are urged to stay informed about the latest developments regarding the NAIS and other related schemes.",
+      "role": "Eligibility",
+      "confidence": 0.469212144613266,
+      "similarities": {
+        "ContextObjective": 0.445595920085907,
+        "BenefitsAssistance": 0.46299585700035095,
+        "Eligibility": 0.469212144613266,
+        "ApplicationProcess": 0.43062642216682434,
+        "TimelineFrequency": 0.4216093122959137,
+        "AuthoritiesGovernance": 0.43862035870552063,
+        "DefinitionsReferences": 0.40107643604278564
+      }
+    },
+    {
+      "sentence": "The success of the NAIS will depend on active participation from farmers and effective implementation by the government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5069423913955688,
+      "similarities": {
+        "ContextObjective": 0.44419848918914795,
+        "BenefitsAssistance": 0.3808024823665619,
+        "Eligibility": 0.4574345350265503,
+        "ApplicationProcess": 0.41970163583755493,
+        "TimelineFrequency": 0.3608701229095459,
+        "AuthoritiesGovernance": 0.5069423913955688,
+        "DefinitionsReferences": 0.3694843053817749
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the importance of agriculture in India's economy and the need for robust support systems for farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.48360496759414673,
+      "similarities": {
+        "ContextObjective": 0.48360496759414673,
+        "BenefitsAssistance": 0.42206794023513794,
+        "Eligibility": 0.428927481174469,
+        "ApplicationProcess": 0.3862704038619995,
+        "TimelineFrequency": 0.36246269941329956,
+        "AuthoritiesGovernance": 0.34626305103302,
+        "DefinitionsReferences": 0.35717371106147766
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 17,
+    "Eligibility": 12,
+    "BenefitsAssistance": 16,
+    "ApplicationProcess": 2,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 7
+  },
+  "processing_timestamp": "2025-09-25T20:45:59.445625"
+}

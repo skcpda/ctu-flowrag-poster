@@ -1,0 +1,728 @@
+{
+  "scheme_name": "Jharkhand Sportsperson Pension Scheme",
+  "total_sentences": 51,
+  "labeled_sentences": [
+    {
+      "sentence": "The Jharkhand Sportsperson Pension Scheme was launched by the Government of Jharkhand on 22nd March 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.5378262996673584,
+      "similarities": {
+        "ContextObjective": 0.5378262996673584,
+        "BenefitsAssistance": 0.4170525074005127,
+        "Eligibility": 0.46955427527427673,
+        "ApplicationProcess": 0.4123765826225281,
+        "TimelineFrequency": 0.40944284200668335,
+        "AuthoritiesGovernance": 0.43877914547920227,
+        "DefinitionsReferences": 0.346912145614624
+      }
+    },
+    {
+      "sentence": "This scheme was initiated to provide financial assistance to sportspersons who have represented the state or the country in various sports.",
+      "role": "ContextObjective",
+      "confidence": 0.552929699420929,
+      "similarities": {
+        "ContextObjective": 0.552929699420929,
+        "BenefitsAssistance": 0.4936525523662567,
+        "Eligibility": 0.5404829382896423,
+        "ApplicationProcess": 0.4553373157978058,
+        "TimelineFrequency": 0.42931583523750305,
+        "AuthoritiesGovernance": 0.4392046630382538,
+        "DefinitionsReferences": 0.38026079535484314
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to support retired sportspersons by providing them with a monthly pension.",
+      "role": "ContextObjective",
+      "confidence": 0.5746458768844604,
+      "similarities": {
+        "ContextObjective": 0.5746458768844604,
+        "BenefitsAssistance": 0.4347338080406189,
+        "Eligibility": 0.4766862392425537,
+        "ApplicationProcess": 0.4156835675239563,
+        "TimelineFrequency": 0.4116727113723755,
+        "AuthoritiesGovernance": 0.4012089967727661,
+        "DefinitionsReferences": 0.34037116169929504
+      }
+    },
+    {
+      "sentence": "The scheme aims to encourage sports in the state by recognizing the contributions of athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.5281790494918823,
+      "similarities": {
+        "ContextObjective": 0.5281790494918823,
+        "BenefitsAssistance": 0.3842213451862335,
+        "Eligibility": 0.45984306931495667,
+        "ApplicationProcess": 0.4151710569858551,
+        "TimelineFrequency": 0.3869010806083679,
+        "AuthoritiesGovernance": 0.4001697599887848,
+        "DefinitionsReferences": 0.37719452381134033
+      }
+    },
+    {
+      "sentence": "The pension amount is set at ₹3,000 per month for eligible sportspersons.",
+      "role": "Eligibility",
+      "confidence": 0.49419182538986206,
+      "similarities": {
+        "ContextObjective": 0.4356122612953186,
+        "BenefitsAssistance": 0.45063966512680054,
+        "Eligibility": 0.49419182538986206,
+        "ApplicationProcess": 0.3881828486919403,
+        "TimelineFrequency": 0.38517653942108154,
+        "AuthoritiesGovernance": 0.3512941300868988,
+        "DefinitionsReferences": 0.3346976041793823
+      }
+    },
+    {
+      "sentence": "This amount is intended to assist retired athletes in managing their post-retirement life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5520284175872803,
+      "similarities": {
+        "ContextObjective": 0.46009179949760437,
+        "BenefitsAssistance": 0.5520284175872803,
+        "Eligibility": 0.4828394651412964,
+        "ApplicationProcess": 0.40935105085372925,
+        "TimelineFrequency": 0.42005977034568787,
+        "AuthoritiesGovernance": 0.42588579654693604,
+        "DefinitionsReferences": 0.417045533657074
+      }
+    },
+    {
+      "sentence": "The scheme is particularly beneficial for those who have achieved notable success in sports at national or international levels.",
+      "role": "ContextObjective",
+      "confidence": 0.5303512811660767,
+      "similarities": {
+        "ContextObjective": 0.5303512811660767,
+        "BenefitsAssistance": 0.42185574769973755,
+        "Eligibility": 0.5078922510147095,
+        "ApplicationProcess": 0.42256951332092285,
+        "TimelineFrequency": 0.4028414487838745,
+        "AuthoritiesGovernance": 0.3880540728569031,
+        "DefinitionsReferences": 0.39971598982810974
+      }
+    },
+    {
+      "sentence": "Eligible sportspersons must have represented Jharkhand in state-level competitions or India in national-level competitions.",
+      "role": "Eligibility",
+      "confidence": 0.5558533668518066,
+      "similarities": {
+        "ContextObjective": 0.4147184193134308,
+        "BenefitsAssistance": 0.3427640199661255,
+        "Eligibility": 0.5558533668518066,
+        "ApplicationProcess": 0.46226340532302856,
+        "TimelineFrequency": 0.40434324741363525,
+        "AuthoritiesGovernance": 0.40298670530319214,
+        "DefinitionsReferences": 0.33988720178604126
+      }
+    },
+    {
+      "sentence": "The eligibility criteria also include having participated in recognized sports events organized by the Sports Authority of India.",
+      "role": "Eligibility",
+      "confidence": 0.5701659917831421,
+      "similarities": {
+        "ContextObjective": 0.4787491261959076,
+        "BenefitsAssistance": 0.38905251026153564,
+        "Eligibility": 0.5701659917831421,
+        "ApplicationProcess": 0.5075093507766724,
+        "TimelineFrequency": 0.4652581810951233,
+        "AuthoritiesGovernance": 0.40254348516464233,
+        "DefinitionsReferences": 0.4190903306007385
+      }
+    },
+    {
+      "sentence": "Athletes must have achieved a minimum of a bronze medal in the national championships or equivalent competitions.",
+      "role": "Eligibility",
+      "confidence": 0.5623202323913574,
+      "similarities": {
+        "ContextObjective": 0.4756714403629303,
+        "BenefitsAssistance": 0.420035183429718,
+        "Eligibility": 0.5623202323913574,
+        "ApplicationProcess": 0.5174835920333862,
+        "TimelineFrequency": 0.4907863140106201,
+        "AuthoritiesGovernance": 0.44813331961631775,
+        "DefinitionsReferences": 0.41977742314338684
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a minimum of 30 years.",
+      "role": "Eligibility",
+      "confidence": 0.5886859893798828,
+      "similarities": {
+        "ContextObjective": 0.4588826894760132,
+        "BenefitsAssistance": 0.3974939286708832,
+        "Eligibility": 0.5886859893798828,
+        "ApplicationProcess": 0.507377028465271,
+        "TimelineFrequency": 0.49723151326179504,
+        "AuthoritiesGovernance": 0.39106500148773193,
+        "DefinitionsReferences": 0.3701031506061554
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for the pension scheme.",
+      "role": "Eligibility",
+      "confidence": 0.46243852376937866,
+      "similarities": {
+        "ContextObjective": 0.4315985441207886,
+        "BenefitsAssistance": 0.3954852223396301,
+        "Eligibility": 0.46243852376937866,
+        "ApplicationProcess": 0.34880709648132324,
+        "TimelineFrequency": 0.34665411710739136,
+        "AuthoritiesGovernance": 0.3204547166824341,
+        "DefinitionsReferences": 0.26762065291404724
+      }
+    },
+    {
+      "sentence": "To apply for the pension, interested sportspersons must submit an application form to the Department of Sports and Youth Affairs, Jharkhand.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5581185817718506,
+      "similarities": {
+        "ContextObjective": 0.4392220675945282,
+        "BenefitsAssistance": 0.3951616883277893,
+        "Eligibility": 0.5204114317893982,
+        "ApplicationProcess": 0.5581185817718506,
+        "TimelineFrequency": 0.45129507780075073,
+        "AuthoritiesGovernance": 0.4180991053581238,
+        "DefinitionsReferences": 0.3426803946495056
+      }
+    },
+    {
+      "sentence": "The application form can be obtained from the official website of the Jharkhand government or directly from the Department of Sports and Youth Affairs.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5691884756088257,
+      "similarities": {
+        "ContextObjective": 0.421127587556839,
+        "BenefitsAssistance": 0.3916098475456238,
+        "Eligibility": 0.4790406823158264,
+        "ApplicationProcess": 0.5691884756088257,
+        "TimelineFrequency": 0.4520632326602936,
+        "AuthoritiesGovernance": 0.4219454526901245,
+        "DefinitionsReferences": 0.3797188103199005
+      }
+    },
+    {
+      "sentence": "Along with the application form, applicants must provide proof of their achievements in sports.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6476213932037354,
+      "similarities": {
+        "ContextObjective": 0.49988317489624023,
+        "BenefitsAssistance": 0.46729758381843567,
+        "Eligibility": 0.5531595349311829,
+        "ApplicationProcess": 0.6476213932037354,
+        "TimelineFrequency": 0.5403773784637451,
+        "AuthoritiesGovernance": 0.3889164328575134,
+        "DefinitionsReferences": 0.479525625705719
+      }
+    },
+    {
+      "sentence": "This proof may include certificates of participation or medals won in recognized competitions.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5281219482421875,
+      "similarities": {
+        "ContextObjective": 0.48124781250953674,
+        "BenefitsAssistance": 0.5061067342758179,
+        "Eligibility": 0.5095735788345337,
+        "ApplicationProcess": 0.5281219482421875,
+        "TimelineFrequency": 0.47178685665130615,
+        "AuthoritiesGovernance": 0.38572144508361816,
+        "DefinitionsReferences": 0.47929462790489197
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must submit a copy of their identity proof and address proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6697552800178528,
+      "similarities": {
+        "ContextObjective": 0.42694714665412903,
+        "BenefitsAssistance": 0.5061322450637817,
+        "Eligibility": 0.554199755191803,
+        "ApplicationProcess": 0.6697552800178528,
+        "TimelineFrequency": 0.507699728012085,
+        "AuthoritiesGovernance": 0.4225824177265167,
+        "DefinitionsReferences": 0.47027310729026794
+      }
+    },
+    {
+      "sentence": "The application must also include a recent passport-sized photograph.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5883435010910034,
+      "similarities": {
+        "ContextObjective": 0.4495351314544678,
+        "BenefitsAssistance": 0.45007044076919556,
+        "Eligibility": 0.5415014028549194,
+        "ApplicationProcess": 0.5883435010910034,
+        "TimelineFrequency": 0.5182502865791321,
+        "AuthoritiesGovernance": 0.3623614013195038,
+        "DefinitionsReferences": 0.43528175354003906
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by a committee formed by the Department of Sports and Youth Affairs.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5296403765678406,
+      "similarities": {
+        "ContextObjective": 0.4594394266605377,
+        "BenefitsAssistance": 0.3751174211502075,
+        "Eligibility": 0.4682407081127167,
+        "ApplicationProcess": 0.5296403765678406,
+        "TimelineFrequency": 0.45612889528274536,
+        "AuthoritiesGovernance": 0.45496809482574463,
+        "DefinitionsReferences": 0.3730294108390808
+      }
+    },
+    {
+      "sentence": "The committee assesses the eligibility of the applicant based on the provided documents.",
+      "role": "Eligibility",
+      "confidence": 0.6168556213378906,
+      "similarities": {
+        "ContextObjective": 0.5083365440368652,
+        "BenefitsAssistance": 0.4925285577774048,
+        "Eligibility": 0.6168556213378906,
+        "ApplicationProcess": 0.59889817237854,
+        "TimelineFrequency": 0.5443249940872192,
+        "AuthoritiesGovernance": 0.484186589717865,
+        "DefinitionsReferences": 0.48714679479599
+      }
+    },
+    {
+      "sentence": "If approved, the pension is disbursed on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5446251630783081,
+      "similarities": {
+        "ContextObjective": 0.44745686650276184,
+        "BenefitsAssistance": 0.5446251630783081,
+        "Eligibility": 0.5149975419044495,
+        "ApplicationProcess": 0.49765732884407043,
+        "TimelineFrequency": 0.5029152035713196,
+        "AuthoritiesGovernance": 0.4497057795524597,
+        "DefinitionsReferences": 0.3775172233581543
+      }
+    },
+    {
+      "sentence": "The pension is credited directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5138159990310669,
+      "similarities": {
+        "ContextObjective": 0.4025629460811615,
+        "BenefitsAssistance": 0.5138159990310669,
+        "Eligibility": 0.4614379405975342,
+        "ApplicationProcess": 0.41482013463974,
+        "TimelineFrequency": 0.3780874013900757,
+        "AuthoritiesGovernance": 0.36518678069114685,
+        "DefinitionsReferences": 0.3369654417037964
+      }
+    },
+    {
+      "sentence": "The disbursement of the pension typically occurs at the beginning of each month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5426584482192993,
+      "similarities": {
+        "ContextObjective": 0.46488064527511597,
+        "BenefitsAssistance": 0.5426584482192993,
+        "Eligibility": 0.46530741453170776,
+        "ApplicationProcess": 0.4436153769493103,
+        "TimelineFrequency": 0.5302408337593079,
+        "AuthoritiesGovernance": 0.45528584718704224,
+        "DefinitionsReferences": 0.3769512176513672
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Sports and Youth Affairs, Government of Jharkhand.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4931943118572235,
+      "similarities": {
+        "ContextObjective": 0.47836604714393616,
+        "BenefitsAssistance": 0.38051092624664307,
+        "Eligibility": 0.4352867007255554,
+        "ApplicationProcess": 0.4169961214065552,
+        "TimelineFrequency": 0.37674281001091003,
+        "AuthoritiesGovernance": 0.4931943118572235,
+        "DefinitionsReferences": 0.3496568500995636
+      }
+    },
+    {
+      "sentence": "This department is responsible for promoting sports and physical education in the state.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4811709523200989,
+      "similarities": {
+        "ContextObjective": 0.46389251947402954,
+        "BenefitsAssistance": 0.3901576101779938,
+        "Eligibility": 0.40298187732696533,
+        "ApplicationProcess": 0.4083997905254364,
+        "TimelineFrequency": 0.39009326696395874,
+        "AuthoritiesGovernance": 0.4811709523200989,
+        "DefinitionsReferences": 0.4173394441604614
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Sports and Youth Affairs can be found on the official Jharkhand government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48337966203689575,
+      "similarities": {
+        "ContextObjective": 0.38831228017807007,
+        "BenefitsAssistance": 0.4020397663116455,
+        "Eligibility": 0.39589497447013855,
+        "ApplicationProcess": 0.4381401836872101,
+        "TimelineFrequency": 0.37483829259872437,
+        "AuthoritiesGovernance": 0.48337966203689575,
+        "DefinitionsReferences": 0.4113958477973938
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received since its inception and has benefited numerous sportspersons in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5202597379684448,
+      "similarities": {
+        "ContextObjective": 0.5202597379684448,
+        "BenefitsAssistance": 0.40177568793296814,
+        "Eligibility": 0.44181185960769653,
+        "ApplicationProcess": 0.374303936958313,
+        "TimelineFrequency": 0.35675424337387085,
+        "AuthoritiesGovernance": 0.399345338344574,
+        "DefinitionsReferences": 0.3695681095123291
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 1,000 sportspersons have been granted pensions under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.47054409980773926,
+      "similarities": {
+        "ContextObjective": 0.47054409980773926,
+        "BenefitsAssistance": 0.3925735652446747,
+        "Eligibility": 0.4362284541130066,
+        "ApplicationProcess": 0.3622620403766632,
+        "TimelineFrequency": 0.35192883014678955,
+        "AuthoritiesGovernance": 0.3721195459365845,
+        "DefinitionsReferences": 0.334500253200531
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹5 crore annually for the implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4838429093360901,
+      "similarities": {
+        "ContextObjective": 0.4838429093360901,
+        "BenefitsAssistance": 0.47726893424987793,
+        "Eligibility": 0.4383346736431122,
+        "ApplicationProcess": 0.4263380765914917,
+        "TimelineFrequency": 0.41427117586135864,
+        "AuthoritiesGovernance": 0.48052263259887695,
+        "DefinitionsReferences": 0.3469427824020386
+      }
+    },
+    {
+      "sentence": "This allocation is aimed at ensuring that financial support reaches deserving athletes.",
+      "role": "Eligibility",
+      "confidence": 0.560488224029541,
+      "similarities": {
+        "ContextObjective": 0.4886076748371124,
+        "BenefitsAssistance": 0.5290219187736511,
+        "Eligibility": 0.560488224029541,
+        "ApplicationProcess": 0.4145604968070984,
+        "TimelineFrequency": 0.432585746049881,
+        "AuthoritiesGovernance": 0.43086129426956177,
+        "DefinitionsReferences": 0.3787382245063782
+      }
+    },
+    {
+      "sentence": "The scheme also serves to motivate younger athletes to pursue sports as a career.",
+      "role": "ContextObjective",
+      "confidence": 0.5255570411682129,
+      "similarities": {
+        "ContextObjective": 0.5255570411682129,
+        "BenefitsAssistance": 0.334345281124115,
+        "Eligibility": 0.3914197087287903,
+        "ApplicationProcess": 0.38193875551223755,
+        "TimelineFrequency": 0.3907884359359741,
+        "AuthoritiesGovernance": 0.3381073474884033,
+        "DefinitionsReferences": 0.3508637547492981
+      }
+    },
+    {
+      "sentence": "By providing financial security, the scheme helps retired athletes focus on coaching or mentoring younger talent.",
+      "role": "ContextObjective",
+      "confidence": 0.4572605490684509,
+      "similarities": {
+        "ContextObjective": 0.4572605490684509,
+        "BenefitsAssistance": 0.42628881335258484,
+        "Eligibility": 0.4413258731365204,
+        "ApplicationProcess": 0.35331541299819946,
+        "TimelineFrequency": 0.3475593030452728,
+        "AuthoritiesGovernance": 0.32614439725875854,
+        "DefinitionsReferences": 0.33776575326919556
+      }
+    },
+    {
+      "sentence": "The pension scheme is part of a broader initiative by the Jharkhand government to promote sports in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4811241626739502,
+      "similarities": {
+        "ContextObjective": 0.4811241626739502,
+        "BenefitsAssistance": 0.3845134377479553,
+        "Eligibility": 0.4112054109573364,
+        "ApplicationProcess": 0.37333208322525024,
+        "TimelineFrequency": 0.3545348346233368,
+        "AuthoritiesGovernance": 0.3921089768409729,
+        "DefinitionsReferences": 0.3378409147262573
+      }
+    },
+    {
+      "sentence": "In addition to the pension scheme, the government has launched various sports development programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5185671448707581,
+      "similarities": {
+        "ContextObjective": 0.5185671448707581,
+        "BenefitsAssistance": 0.4366391897201538,
+        "Eligibility": 0.432826429605484,
+        "ApplicationProcess": 0.40576791763305664,
+        "TimelineFrequency": 0.41069746017456055,
+        "AuthoritiesGovernance": 0.42473679780960083,
+        "DefinitionsReferences": 0.42036986351013184
+      }
+    },
+    {
+      "sentence": "These programs include training camps and infrastructure development for sports facilities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48828184604644775,
+      "similarities": {
+        "ContextObjective": 0.4739159345626831,
+        "BenefitsAssistance": 0.4059599041938782,
+        "Eligibility": 0.4415745139122009,
+        "ApplicationProcess": 0.4158821105957031,
+        "TimelineFrequency": 0.4461008310317993,
+        "AuthoritiesGovernance": 0.48828184604644775,
+        "DefinitionsReferences": 0.4483950138092041
+      }
+    },
+    {
+      "sentence": "The Jharkhand Sportsperson Pension Scheme is a crucial step towards recognizing the hard work and dedication of athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.45525649189949036,
+      "similarities": {
+        "ContextObjective": 0.45525649189949036,
+        "BenefitsAssistance": 0.4023101329803467,
+        "Eligibility": 0.43688589334487915,
+        "ApplicationProcess": 0.4067271649837494,
+        "TimelineFrequency": 0.3528762757778168,
+        "AuthoritiesGovernance": 0.38491126894950867,
+        "DefinitionsReferences": 0.3411141633987427
+      }
+    },
+    {
+      "sentence": "It acknowledges the sacrifices made by sportspersons in their pursuit of excellence in sports.",
+      "role": "ContextObjective",
+      "confidence": 0.41805118322372437,
+      "similarities": {
+        "ContextObjective": 0.41805118322372437,
+        "BenefitsAssistance": 0.34691160917282104,
+        "Eligibility": 0.3913494944572449,
+        "ApplicationProcess": 0.36472904682159424,
+        "TimelineFrequency": 0.3512595593929291,
+        "AuthoritiesGovernance": 0.33894622325897217,
+        "DefinitionsReferences": 0.364359587430954
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create a supportive environment for athletes post-retirement.",
+      "role": "ContextObjective",
+      "confidence": 0.5171830654144287,
+      "similarities": {
+        "ContextObjective": 0.5171830654144287,
+        "BenefitsAssistance": 0.4086117148399353,
+        "Eligibility": 0.4592316746711731,
+        "ApplicationProcess": 0.38973820209503174,
+        "TimelineFrequency": 0.3679650127887726,
+        "AuthoritiesGovernance": 0.38699498772621155,
+        "DefinitionsReferences": 0.35125625133514404
+      }
+    },
+    {
+      "sentence": "The government encourages sportspersons to apply for the pension to ensure they receive the benefits entitled to them.",
+      "role": "Eligibility",
+      "confidence": 0.5385753512382507,
+      "similarities": {
+        "ContextObjective": 0.5095794200897217,
+        "BenefitsAssistance": 0.4614184498786926,
+        "Eligibility": 0.5385753512382507,
+        "ApplicationProcess": 0.511891782283783,
+        "TimelineFrequency": 0.44775331020355225,
+        "AuthoritiesGovernance": 0.44836920499801636,
+        "DefinitionsReferences": 0.37685465812683105
+      }
+    },
+    {
+      "sentence": "The application process is designed to be straightforward to facilitate easy access for athletes.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5647173523902893,
+      "similarities": {
+        "ContextObjective": 0.48151594400405884,
+        "BenefitsAssistance": 0.4275548458099365,
+        "Eligibility": 0.529464840888977,
+        "ApplicationProcess": 0.5647173523902893,
+        "TimelineFrequency": 0.5136779546737671,
+        "AuthoritiesGovernance": 0.4299934506416321,
+        "DefinitionsReferences": 0.40875422954559326
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to the welfare of sportspersons in Jharkhand.",
+      "role": "ContextObjective",
+      "confidence": 0.4688746929168701,
+      "similarities": {
+        "ContextObjective": 0.4688746929168701,
+        "BenefitsAssistance": 0.3828127682209015,
+        "Eligibility": 0.4528525769710541,
+        "ApplicationProcess": 0.3980177640914917,
+        "TimelineFrequency": 0.35597002506256104,
+        "AuthoritiesGovernance": 0.40818795561790466,
+        "DefinitionsReferences": 0.3554166555404663
+      }
+    },
+    {
+      "sentence": "It is an important initiative that highlights the significance of sports in society.",
+      "role": "ContextObjective",
+      "confidence": 0.5229977965354919,
+      "similarities": {
+        "ContextObjective": 0.5229977965354919,
+        "BenefitsAssistance": 0.3764788508415222,
+        "Eligibility": 0.4088185727596283,
+        "ApplicationProcess": 0.39825353026390076,
+        "TimelineFrequency": 0.3872762620449066,
+        "AuthoritiesGovernance": 0.375214159488678,
+        "DefinitionsReferences": 0.4005073308944702
+      }
+    },
+    {
+      "sentence": "The pension amount may be revised in the future based on budgetary provisions and inflation rates.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.531830906867981,
+      "similarities": {
+        "ContextObjective": 0.4333704710006714,
+        "BenefitsAssistance": 0.531830906867981,
+        "Eligibility": 0.4455409646034241,
+        "ApplicationProcess": 0.415018767118454,
+        "TimelineFrequency": 0.48726844787597656,
+        "AuthoritiesGovernance": 0.40569257736206055,
+        "DefinitionsReferences": 0.4054732322692871
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to enhance its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5446915626525879,
+      "similarities": {
+        "ContextObjective": 0.5446915626525879,
+        "BenefitsAssistance": 0.46211767196655273,
+        "Eligibility": 0.5099068880081177,
+        "ApplicationProcess": 0.4961022734642029,
+        "TimelineFrequency": 0.45592209696769714,
+        "AuthoritiesGovernance": 0.4925098717212677,
+        "DefinitionsReferences": 0.466414213180542
+      }
+    },
+    {
+      "sentence": "The Jharkhand Sportsperson Pension Scheme is a testament to the state's dedication to sports and athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.42666947841644287,
+      "similarities": {
+        "ContextObjective": 0.42666947841644287,
+        "BenefitsAssistance": 0.3784843385219574,
+        "Eligibility": 0.40387678146362305,
+        "ApplicationProcess": 0.35834836959838867,
+        "TimelineFrequency": 0.3311014175415039,
+        "AuthoritiesGovernance": 0.34452638030052185,
+        "DefinitionsReferences": 0.318931519985199
+      }
+    },
+    {
+      "sentence": "It plays a vital role in the overall development of sports culture in Jharkhand.",
+      "role": "ContextObjective",
+      "confidence": 0.4046891927719116,
+      "similarities": {
+        "ContextObjective": 0.4046891927719116,
+        "BenefitsAssistance": 0.30562642216682434,
+        "Eligibility": 0.3359929621219635,
+        "ApplicationProcess": 0.34994006156921387,
+        "TimelineFrequency": 0.318827360868454,
+        "AuthoritiesGovernance": 0.3832394778728485,
+        "DefinitionsReferences": 0.37273040413856506
+      }
+    },
+    {
+      "sentence": "The scheme has the potential to uplift the lives of many retired athletes who have contributed to the state's sporting legacy.",
+      "role": "ContextObjective",
+      "confidence": 0.4949885606765747,
+      "similarities": {
+        "ContextObjective": 0.4949885606765747,
+        "BenefitsAssistance": 0.372846782207489,
+        "Eligibility": 0.4404294490814209,
+        "ApplicationProcess": 0.33941441774368286,
+        "TimelineFrequency": 0.32451218366622925,
+        "AuthoritiesGovernance": 0.35242021083831787,
+        "DefinitionsReferences": 0.3456134796142578
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to ensure that sportspersons are not left unsupported after their active careers.",
+      "role": "Eligibility",
+      "confidence": 0.523889422416687,
+      "similarities": {
+        "ContextObjective": 0.47455406188964844,
+        "BenefitsAssistance": 0.38971537351608276,
+        "Eligibility": 0.523889422416687,
+        "ApplicationProcess": 0.4703570306301117,
+        "TimelineFrequency": 0.4028904139995575,
+        "AuthoritiesGovernance": 0.4653255343437195,
+        "DefinitionsReferences": 0.3759256601333618
+      }
+    },
+    {
+      "sentence": "The pension scheme serves as a model for other states to consider similar initiatives for their athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.4723075032234192,
+      "similarities": {
+        "ContextObjective": 0.4723075032234192,
+        "BenefitsAssistance": 0.40966159105300903,
+        "Eligibility": 0.4699806571006775,
+        "ApplicationProcess": 0.38237252831459045,
+        "TimelineFrequency": 0.3699811100959778,
+        "AuthoritiesGovernance": 0.3965367078781128,
+        "DefinitionsReferences": 0.3697219491004944
+      }
+    },
+    {
+      "sentence": "The government continues to seek feedback from beneficiaries to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5066900253295898,
+      "similarities": {
+        "ContextObjective": 0.5066900253295898,
+        "BenefitsAssistance": 0.4732981324195862,
+        "Eligibility": 0.48808354139328003,
+        "ApplicationProcess": 0.4516856372356415,
+        "TimelineFrequency": 0.4225325286388397,
+        "AuthoritiesGovernance": 0.49775901436805725,
+        "DefinitionsReferences": 0.38737952709198
+      }
+    },
+    {
+      "sentence": "Overall, the Jharkhand Sportsperson Pension Scheme is a significant welfare initiative that provides much-needed support to retired athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.4774683117866516,
+      "similarities": {
+        "ContextObjective": 0.4774683117866516,
+        "BenefitsAssistance": 0.43497955799102783,
+        "Eligibility": 0.4263916611671448,
+        "ApplicationProcess": 0.3649330139160156,
+        "TimelineFrequency": 0.33816295862197876,
+        "AuthoritiesGovernance": 0.40707916021347046,
+        "DefinitionsReferences": 0.3246750235557556
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "Eligibility": 10,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:27:30.220852"
+}

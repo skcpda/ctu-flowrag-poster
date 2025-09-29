@@ -1,0 +1,952 @@
+{
+  "scheme_name": "Pension Scheme for the Journalists",
+  "total_sentences": 67,
+  "labeled_sentences": [
+    {
+      "sentence": "The Pension Scheme for Journalists was launched by the Government of India on 1st January 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5270494818687439,
+      "similarities": {
+        "ContextObjective": 0.5270494818687439,
+        "BenefitsAssistance": 0.4348212480545044,
+        "Eligibility": 0.4567905068397522,
+        "ApplicationProcess": 0.4173174798488617,
+        "TimelineFrequency": 0.4265957474708557,
+        "AuthoritiesGovernance": 0.41007113456726074,
+        "DefinitionsReferences": 0.3415762186050415
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial security to journalists who have dedicated their lives to the profession.",
+      "role": "ContextObjective",
+      "confidence": 0.5002180933952332,
+      "similarities": {
+        "ContextObjective": 0.5002180933952332,
+        "BenefitsAssistance": 0.45804911851882935,
+        "Eligibility": 0.45826804637908936,
+        "ApplicationProcess": 0.4233771562576294,
+        "TimelineFrequency": 0.3731287717819214,
+        "AuthoritiesGovernance": 0.30263930559158325,
+        "DefinitionsReferences": 0.3451310694217682
+      }
+    },
+    {
+      "sentence": "The scheme is specifically designed for working journalists who are in need of financial assistance after retirement or in case of disability.",
+      "role": "Eligibility",
+      "confidence": 0.5381757020950317,
+      "similarities": {
+        "ContextObjective": 0.4974452257156372,
+        "BenefitsAssistance": 0.5361378192901611,
+        "Eligibility": 0.5381757020950317,
+        "ApplicationProcess": 0.46529150009155273,
+        "TimelineFrequency": 0.4381462335586548,
+        "AuthoritiesGovernance": 0.3800964951515198,
+        "DefinitionsReferences": 0.3616056740283966
+      }
+    },
+    {
+      "sentence": "The primary objective of the Pension Scheme for Journalists is to ensure that journalists receive a monthly pension to support their livelihood.",
+      "role": "ContextObjective",
+      "confidence": 0.5411455631256104,
+      "similarities": {
+        "ContextObjective": 0.5411455631256104,
+        "BenefitsAssistance": 0.42571836709976196,
+        "Eligibility": 0.44594287872314453,
+        "ApplicationProcess": 0.4179050922393799,
+        "TimelineFrequency": 0.4081648290157318,
+        "AuthoritiesGovernance": 0.3950860798358917,
+        "DefinitionsReferences": 0.3501691222190857
+      }
+    },
+    {
+      "sentence": "The scheme targets journalists who have worked for at least 10 years in the field.",
+      "role": "Eligibility",
+      "confidence": 0.5209717750549316,
+      "similarities": {
+        "ContextObjective": 0.496506929397583,
+        "BenefitsAssistance": 0.39439499378204346,
+        "Eligibility": 0.5209717750549316,
+        "ApplicationProcess": 0.46256327629089355,
+        "TimelineFrequency": 0.4584752917289734,
+        "AuthoritiesGovernance": 0.38022977113723755,
+        "DefinitionsReferences": 0.4082320034503937
+      }
+    },
+    {
+      "sentence": "Eligible journalists can receive a pension of ₹5,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45212844014167786,
+      "similarities": {
+        "ContextObjective": 0.381997287273407,
+        "BenefitsAssistance": 0.45212844014167786,
+        "Eligibility": 0.44072210788726807,
+        "ApplicationProcess": 0.381087988615036,
+        "TimelineFrequency": 0.3710246682167053,
+        "AuthoritiesGovernance": 0.31962308287620544,
+        "DefinitionsReferences": 0.330635130405426
+      }
+    },
+    {
+      "sentence": "This pension amount is intended to provide a basic financial cushion for retired journalists.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46488267183303833,
+      "similarities": {
+        "ContextObjective": 0.41215455532073975,
+        "BenefitsAssistance": 0.46488267183303833,
+        "Eligibility": 0.41740691661834717,
+        "ApplicationProcess": 0.36275845766067505,
+        "TimelineFrequency": 0.35952943563461304,
+        "AuthoritiesGovernance": 0.3282798230648041,
+        "DefinitionsReferences": 0.3454231023788452
+      }
+    },
+    {
+      "sentence": "The scheme also aims to support the families of journalists who may have passed away while in service.",
+      "role": "ContextObjective",
+      "confidence": 0.4777294993400574,
+      "similarities": {
+        "ContextObjective": 0.4777294993400574,
+        "BenefitsAssistance": 0.385956734418869,
+        "Eligibility": 0.4502035975456238,
+        "ApplicationProcess": 0.38766083121299744,
+        "TimelineFrequency": 0.35449478030204773,
+        "AuthoritiesGovernance": 0.3312658667564392,
+        "DefinitionsReferences": 0.31600797176361084
+      }
+    },
+    {
+      "sentence": "In such cases, the family members can receive a pension of ₹3,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4762897193431854,
+      "similarities": {
+        "ContextObjective": 0.402521550655365,
+        "BenefitsAssistance": 0.4762897193431854,
+        "Eligibility": 0.4697178602218628,
+        "ApplicationProcess": 0.3762960135936737,
+        "TimelineFrequency": 0.36022722721099854,
+        "AuthoritiesGovernance": 0.35579314827919006,
+        "DefinitionsReferences": 0.3299219608306885
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for this scheme include a minimum age of 60 years for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.586114227771759,
+      "similarities": {
+        "ContextObjective": 0.49723881483078003,
+        "BenefitsAssistance": 0.4123426079750061,
+        "Eligibility": 0.586114227771759,
+        "ApplicationProcess": 0.5269928574562073,
+        "TimelineFrequency": 0.4975169599056244,
+        "AuthoritiesGovernance": 0.36188167333602905,
+        "DefinitionsReferences": 0.3580304682254791
+      }
+    },
+    {
+      "sentence": "Applicants must have a minimum of 10 years of experience in journalism.",
+      "role": "Eligibility",
+      "confidence": 0.5363600254058838,
+      "similarities": {
+        "ContextObjective": 0.4302051067352295,
+        "BenefitsAssistance": 0.37853124737739563,
+        "Eligibility": 0.5363600254058838,
+        "ApplicationProcess": 0.515013575553894,
+        "TimelineFrequency": 0.4884631931781769,
+        "AuthoritiesGovernance": 0.35737866163253784,
+        "DefinitionsReferences": 0.39716458320617676
+      }
+    },
+    {
+      "sentence": "The scheme is open to both print and electronic media journalists.",
+      "role": "ContextObjective",
+      "confidence": 0.5292856693267822,
+      "similarities": {
+        "ContextObjective": 0.5292856693267822,
+        "BenefitsAssistance": 0.47100186347961426,
+        "Eligibility": 0.5222091674804688,
+        "ApplicationProcess": 0.5135015249252319,
+        "TimelineFrequency": 0.47820591926574707,
+        "AuthoritiesGovernance": 0.40088018774986267,
+        "DefinitionsReferences": 0.43504127860069275
+      }
+    },
+    {
+      "sentence": "There are specific income criteria that applicants must meet.",
+      "role": "Eligibility",
+      "confidence": 0.6909968852996826,
+      "similarities": {
+        "ContextObjective": 0.5365405678749084,
+        "BenefitsAssistance": 0.5730206966400146,
+        "Eligibility": 0.6909968852996826,
+        "ApplicationProcess": 0.6198474168777466,
+        "TimelineFrequency": 0.5797470211982727,
+        "AuthoritiesGovernance": 0.4479145109653473,
+        "DefinitionsReferences": 0.4687116742134094
+      }
+    },
+    {
+      "sentence": "The annual income of the applicant should not exceed ₹2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5831091403961182,
+      "similarities": {
+        "ContextObjective": 0.4523589611053467,
+        "BenefitsAssistance": 0.5164187550544739,
+        "Eligibility": 0.5831091403961182,
+        "ApplicationProcess": 0.5297198295593262,
+        "TimelineFrequency": 0.4797546863555908,
+        "AuthoritiesGovernance": 0.38194960355758667,
+        "DefinitionsReferences": 0.40047210454940796
+      }
+    },
+    {
+      "sentence": "This income limit is set to ensure that the benefits reach those who are genuinely in need.",
+      "role": "Eligibility",
+      "confidence": 0.5626208782196045,
+      "similarities": {
+        "ContextObjective": 0.4562406539916992,
+        "BenefitsAssistance": 0.5178506970405579,
+        "Eligibility": 0.5626208782196045,
+        "ApplicationProcess": 0.4181855022907257,
+        "TimelineFrequency": 0.40916770696640015,
+        "AuthoritiesGovernance": 0.37650376558303833,
+        "DefinitionsReferences": 0.3392521142959595
+      }
+    },
+    {
+      "sentence": "The application process for the Pension Scheme for Journalists is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5126201510429382,
+      "similarities": {
+        "ContextObjective": 0.49005457758903503,
+        "BenefitsAssistance": 0.4058551788330078,
+        "Eligibility": 0.47548073530197144,
+        "ApplicationProcess": 0.5126201510429382,
+        "TimelineFrequency": 0.4431394040584564,
+        "AuthoritiesGovernance": 0.3656061887741089,
+        "DefinitionsReferences": 0.32755377888679504
+      }
+    },
+    {
+      "sentence": "Interested journalists must fill out an application form available on the official website of the Ministry of Information and Broadcasting.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6581118106842041,
+      "similarities": {
+        "ContextObjective": 0.48162394762039185,
+        "BenefitsAssistance": 0.41102728247642517,
+        "Eligibility": 0.554674506187439,
+        "ApplicationProcess": 0.6581118106842041,
+        "TimelineFrequency": 0.48727887868881226,
+        "AuthoritiesGovernance": 0.4270877242088318,
+        "DefinitionsReferences": 0.41407984495162964
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, address, and contact information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7163137793540955,
+      "similarities": {
+        "ContextObjective": 0.5165164470672607,
+        "BenefitsAssistance": 0.5747201442718506,
+        "Eligibility": 0.6413605213165283,
+        "ApplicationProcess": 0.7163137793540955,
+        "TimelineFrequency": 0.5951284766197205,
+        "AuthoritiesGovernance": 0.4980281591415405,
+        "DefinitionsReferences": 0.5378036499023438
+      }
+    },
+    {
+      "sentence": "Applicants must also provide details about their journalistic experience.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6132650375366211,
+      "similarities": {
+        "ContextObjective": 0.5011721253395081,
+        "BenefitsAssistance": 0.5039510726928711,
+        "Eligibility": 0.605064868927002,
+        "ApplicationProcess": 0.6132650375366211,
+        "TimelineFrequency": 0.5574686527252197,
+        "AuthoritiesGovernance": 0.4071963131427765,
+        "DefinitionsReferences": 0.4760311543941498
+      }
+    },
+    {
+      "sentence": "A copy of the applicant's press card or any valid identification as a journalist must be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.602898120880127,
+      "similarities": {
+        "ContextObjective": 0.4039863049983978,
+        "BenefitsAssistance": 0.4297541081905365,
+        "Eligibility": 0.522719144821167,
+        "ApplicationProcess": 0.602898120880127,
+        "TimelineFrequency": 0.4611142873764038,
+        "AuthoritiesGovernance": 0.3703322410583496,
+        "DefinitionsReferences": 0.43385279178619385
+      }
+    },
+    {
+      "sentence": "Additionally, proof of age such as an Aadhar card or birth certificate is required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.585443377494812,
+      "similarities": {
+        "ContextObjective": 0.42458459734916687,
+        "BenefitsAssistance": 0.49320024251937866,
+        "Eligibility": 0.5016816854476929,
+        "ApplicationProcess": 0.585443377494812,
+        "TimelineFrequency": 0.48406243324279785,
+        "AuthoritiesGovernance": 0.4037315249443054,
+        "DefinitionsReferences": 0.4620915651321411
+      }
+    },
+    {
+      "sentence": "Documents proving the annual income must also be submitted with the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6713615655899048,
+      "similarities": {
+        "ContextObjective": 0.4745994210243225,
+        "BenefitsAssistance": 0.5753693580627441,
+        "Eligibility": 0.5629571676254272,
+        "ApplicationProcess": 0.6713615655899048,
+        "TimelineFrequency": 0.5550826787948608,
+        "AuthoritiesGovernance": 0.40644362568855286,
+        "DefinitionsReferences": 0.4971177577972412
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it should be submitted to the respective state government office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6466786861419678,
+      "similarities": {
+        "ContextObjective": 0.46833860874176025,
+        "BenefitsAssistance": 0.44136843085289,
+        "Eligibility": 0.5310012102127075,
+        "ApplicationProcess": 0.6466786861419678,
+        "TimelineFrequency": 0.5349893569946289,
+        "AuthoritiesGovernance": 0.4986879229545593,
+        "DefinitionsReferences": 0.4145874083042145
+      }
+    },
+    {
+      "sentence": "The state government will then verify the application and documents submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6920762062072754,
+      "similarities": {
+        "ContextObjective": 0.4748830199241638,
+        "BenefitsAssistance": 0.4915832579135895,
+        "Eligibility": 0.5418222546577454,
+        "ApplicationProcess": 0.6920762062072754,
+        "TimelineFrequency": 0.5337761640548706,
+        "AuthoritiesGovernance": 0.4862329065799713,
+        "DefinitionsReferences": 0.49441224336624146
+      }
+    },
+    {
+      "sentence": "The pension will be disbursed on a monthly basis once the application is approved.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5513694286346436,
+      "similarities": {
+        "ContextObjective": 0.4622121751308441,
+        "BenefitsAssistance": 0.5336700677871704,
+        "Eligibility": 0.5326184034347534,
+        "ApplicationProcess": 0.5513694286346436,
+        "TimelineFrequency": 0.5369616746902466,
+        "AuthoritiesGovernance": 0.44177961349487305,
+        "DefinitionsReferences": 0.3653107285499573
+      }
+    },
+    {
+      "sentence": "The disbursement of the pension will be made directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5129852890968323,
+      "similarities": {
+        "ContextObjective": 0.3807092308998108,
+        "BenefitsAssistance": 0.5129852890968323,
+        "Eligibility": 0.4559354782104492,
+        "ApplicationProcess": 0.41249385476112366,
+        "TimelineFrequency": 0.3634985387325287,
+        "AuthoritiesGovernance": 0.3892175555229187,
+        "DefinitionsReferences": 0.3067100942134857
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Information and Broadcasting.",
+      "role": "ContextObjective",
+      "confidence": 0.5787442326545715,
+      "similarities": {
+        "ContextObjective": 0.5787442326545715,
+        "BenefitsAssistance": 0.4785589575767517,
+        "Eligibility": 0.49697837233543396,
+        "ApplicationProcess": 0.5204617977142334,
+        "TimelineFrequency": 0.43704134225845337,
+        "AuthoritiesGovernance": 0.5658643245697021,
+        "DefinitionsReferences": 0.4208230972290039
+      }
+    },
+    {
+      "sentence": "The Ministry has set up a dedicated team to handle the applications and disbursement of pensions.",
+      "role": "Eligibility",
+      "confidence": 0.516926109790802,
+      "similarities": {
+        "ContextObjective": 0.4552350640296936,
+        "BenefitsAssistance": 0.4855712950229645,
+        "Eligibility": 0.516926109790802,
+        "ApplicationProcess": 0.4850243031978607,
+        "TimelineFrequency": 0.4341892600059509,
+        "AuthoritiesGovernance": 0.5119233131408691,
+        "DefinitionsReferences": 0.3831111788749695
+      }
+    },
+    {
+      "sentence": "The contact details for the Ministry of Information and Broadcasting can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5217292308807373,
+      "similarities": {
+        "ContextObjective": 0.4367327094078064,
+        "BenefitsAssistance": 0.4664844274520874,
+        "Eligibility": 0.4291388690471649,
+        "ApplicationProcess": 0.4974234998226166,
+        "TimelineFrequency": 0.41531872749328613,
+        "AuthoritiesGovernance": 0.5217292308807373,
+        "DefinitionsReferences": 0.46660315990448
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit a significant number of journalists across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.512482762336731,
+      "similarities": {
+        "ContextObjective": 0.512482762336731,
+        "BenefitsAssistance": 0.4334278702735901,
+        "Eligibility": 0.4945521652698517,
+        "ApplicationProcess": 0.41210079193115234,
+        "TimelineFrequency": 0.3951588273048401,
+        "AuthoritiesGovernance": 0.38912707567214966,
+        "DefinitionsReferences": 0.38738206028938293
+      }
+    },
+    {
+      "sentence": "As of 2023, it is estimated that around 5,000 journalists may qualify for this pension scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4715881943702698,
+      "similarities": {
+        "ContextObjective": 0.4715881943702698,
+        "BenefitsAssistance": 0.4173511564731598,
+        "Eligibility": 0.46385061740875244,
+        "ApplicationProcess": 0.41013360023498535,
+        "TimelineFrequency": 0.38877227902412415,
+        "AuthoritiesGovernance": 0.3237273097038269,
+        "DefinitionsReferences": 0.33728283643722534
+      }
+    },
+    {
+      "sentence": "The scheme is part of the government's broader initiative to support the welfare of media professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.5227570533752441,
+      "similarities": {
+        "ContextObjective": 0.5227570533752441,
+        "BenefitsAssistance": 0.44736334681510925,
+        "Eligibility": 0.45370495319366455,
+        "ApplicationProcess": 0.4188210368156433,
+        "TimelineFrequency": 0.38476312160491943,
+        "AuthoritiesGovernance": 0.4335330128669739,
+        "DefinitionsReferences": 0.4031543433666229
+      }
+    },
+    {
+      "sentence": "The government recognizes the challenges faced by journalists in their profession.",
+      "role": "Eligibility",
+      "confidence": 0.4845650792121887,
+      "similarities": {
+        "ContextObjective": 0.42443349957466125,
+        "BenefitsAssistance": 0.4220867156982422,
+        "Eligibility": 0.4845650792121887,
+        "ApplicationProcess": 0.44434988498687744,
+        "TimelineFrequency": 0.4082735776901245,
+        "AuthoritiesGovernance": 0.4522762894630432,
+        "DefinitionsReferences": 0.43230217695236206
+      }
+    },
+    {
+      "sentence": "This includes financial instability after retirement or in cases of unforeseen circumstances.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.501192569732666,
+      "similarities": {
+        "ContextObjective": 0.41772517561912537,
+        "BenefitsAssistance": 0.501192569732666,
+        "Eligibility": 0.46351397037506104,
+        "ApplicationProcess": 0.3767327070236206,
+        "TimelineFrequency": 0.42567968368530273,
+        "AuthoritiesGovernance": 0.35806840658187866,
+        "DefinitionsReferences": 0.3854861259460449
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists is a step towards ensuring their dignity and financial security.",
+      "role": "ContextObjective",
+      "confidence": 0.463820219039917,
+      "similarities": {
+        "ContextObjective": 0.463820219039917,
+        "BenefitsAssistance": 0.453230082988739,
+        "Eligibility": 0.4398146867752075,
+        "ApplicationProcess": 0.42521679401397705,
+        "TimelineFrequency": 0.353052020072937,
+        "AuthoritiesGovernance": 0.3593660593032837,
+        "DefinitionsReferences": 0.36768636107444763
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the government's commitment to support the media sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5012479424476624,
+      "similarities": {
+        "ContextObjective": 0.5012479424476624,
+        "BenefitsAssistance": 0.42662662267684937,
+        "Eligibility": 0.4302617013454437,
+        "ApplicationProcess": 0.43228310346603394,
+        "TimelineFrequency": 0.3701097369194031,
+        "AuthoritiesGovernance": 0.39454975724220276,
+        "DefinitionsReferences": 0.4023886024951935
+      }
+    },
+    {
+      "sentence": "The Ministry of Information and Broadcasting regularly reviews the scheme for its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.537004292011261,
+      "similarities": {
+        "ContextObjective": 0.537004292011261,
+        "BenefitsAssistance": 0.4504280090332031,
+        "Eligibility": 0.4845113754272461,
+        "ApplicationProcess": 0.5050877332687378,
+        "TimelineFrequency": 0.4511667490005493,
+        "AuthoritiesGovernance": 0.4874330163002014,
+        "DefinitionsReferences": 0.4283507764339447
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to improve the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5500028729438782,
+      "similarities": {
+        "ContextObjective": 0.5361639261245728,
+        "BenefitsAssistance": 0.5202512741088867,
+        "Eligibility": 0.5500028729438782,
+        "ApplicationProcess": 0.46751469373703003,
+        "TimelineFrequency": 0.44669246673583984,
+        "AuthoritiesGovernance": 0.5035311579704285,
+        "DefinitionsReferences": 0.4328194856643677
+      }
+    },
+    {
+      "sentence": "The government aims to increase the pension amount in the future based on budgetary provisions.",
+      "role": "ContextObjective",
+      "confidence": 0.49730294942855835,
+      "similarities": {
+        "ContextObjective": 0.49730294942855835,
+        "BenefitsAssistance": 0.4845973551273346,
+        "Eligibility": 0.43977880477905273,
+        "ApplicationProcess": 0.4036533832550049,
+        "TimelineFrequency": 0.4448150098323822,
+        "AuthoritiesGovernance": 0.4313654899597168,
+        "DefinitionsReferences": 0.38360196352005005
+      }
+    },
+    {
+      "sentence": "This will further enhance the financial support provided to journalists.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5018033385276794,
+      "similarities": {
+        "ContextObjective": 0.4059191942214966,
+        "BenefitsAssistance": 0.5018033385276794,
+        "Eligibility": 0.40718573331832886,
+        "ApplicationProcess": 0.38071802258491516,
+        "TimelineFrequency": 0.37259864807128906,
+        "AuthoritiesGovernance": 0.3696562647819519,
+        "DefinitionsReferences": 0.4209567606449127
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for periodic assessments of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5595566034317017,
+      "similarities": {
+        "ContextObjective": 0.5033646821975708,
+        "BenefitsAssistance": 0.5525742173194885,
+        "Eligibility": 0.5595566034317017,
+        "ApplicationProcess": 0.4675223231315613,
+        "TimelineFrequency": 0.5393458604812622,
+        "AuthoritiesGovernance": 0.4308757483959198,
+        "DefinitionsReferences": 0.43973308801651
+      }
+    },
+    {
+      "sentence": "This ensures that the assistance reaches those who continue to meet the eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6165410876274109,
+      "similarities": {
+        "ContextObjective": 0.4993344247341156,
+        "BenefitsAssistance": 0.5043298602104187,
+        "Eligibility": 0.6165410876274109,
+        "ApplicationProcess": 0.5205134153366089,
+        "TimelineFrequency": 0.4887956380844116,
+        "AuthoritiesGovernance": 0.478784441947937,
+        "DefinitionsReferences": 0.4131993055343628
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists is a significant initiative in the context of media freedom and support.",
+      "role": "ContextObjective",
+      "confidence": 0.49795493483543396,
+      "similarities": {
+        "ContextObjective": 0.49795493483543396,
+        "BenefitsAssistance": 0.4193970263004303,
+        "Eligibility": 0.4191439747810364,
+        "ApplicationProcess": 0.3690919578075409,
+        "TimelineFrequency": 0.3412874937057495,
+        "AuthoritiesGovernance": 0.35631421208381653,
+        "DefinitionsReferences": 0.3399568796157837
+      }
+    },
+    {
+      "sentence": "It acknowledges the crucial role journalists play in democracy and society.",
+      "role": "ContextObjective",
+      "confidence": 0.4175776243209839,
+      "similarities": {
+        "ContextObjective": 0.4175776243209839,
+        "BenefitsAssistance": 0.34129542112350464,
+        "Eligibility": 0.3553491532802582,
+        "ApplicationProcess": 0.3694496750831604,
+        "TimelineFrequency": 0.3270969092845917,
+        "AuthoritiesGovernance": 0.35214608907699585,
+        "DefinitionsReferences": 0.38971683382987976
+      }
+    },
+    {
+      "sentence": "The scheme is part of a larger framework of welfare schemes for various professional groups in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5408010482788086,
+      "similarities": {
+        "ContextObjective": 0.5408010482788086,
+        "BenefitsAssistance": 0.49199533462524414,
+        "Eligibility": 0.5047726631164551,
+        "ApplicationProcess": 0.4193059802055359,
+        "TimelineFrequency": 0.42909663915634155,
+        "AuthoritiesGovernance": 0.49236565828323364,
+        "DefinitionsReferences": 0.4349300265312195
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that journalists can live with dignity after their years of service.",
+      "role": "Eligibility",
+      "confidence": 0.4168919622898102,
+      "similarities": {
+        "ContextObjective": 0.38584673404693604,
+        "BenefitsAssistance": 0.3621905446052551,
+        "Eligibility": 0.4168919622898102,
+        "ApplicationProcess": 0.39413952827453613,
+        "TimelineFrequency": 0.31292152404785156,
+        "AuthoritiesGovernance": 0.38045474886894226,
+        "DefinitionsReferences": 0.3863919973373413
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists is a recognition of their contributions to society.",
+      "role": "ContextObjective",
+      "confidence": 0.47392505407333374,
+      "similarities": {
+        "ContextObjective": 0.47392505407333374,
+        "BenefitsAssistance": 0.405783474445343,
+        "Eligibility": 0.4250674843788147,
+        "ApplicationProcess": 0.3713315725326538,
+        "TimelineFrequency": 0.3452381491661072,
+        "AuthoritiesGovernance": 0.33944639563560486,
+        "DefinitionsReferences": 0.3369174301624298
+      }
+    },
+    {
+      "sentence": "It is a proactive measure to address the financial challenges faced by retired journalists.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4483591914176941,
+      "similarities": {
+        "ContextObjective": 0.40979668498039246,
+        "BenefitsAssistance": 0.4483591914176941,
+        "Eligibility": 0.4467211961746216,
+        "ApplicationProcess": 0.3886405825614929,
+        "TimelineFrequency": 0.3675897419452667,
+        "AuthoritiesGovernance": 0.37107619643211365,
+        "DefinitionsReferences": 0.3565290570259094
+      }
+    },
+    {
+      "sentence": "The scheme has been well received by the journalistic community.",
+      "role": "ContextObjective",
+      "confidence": 0.5546960830688477,
+      "similarities": {
+        "ContextObjective": 0.5546960830688477,
+        "BenefitsAssistance": 0.4356352388858795,
+        "Eligibility": 0.45954233407974243,
+        "ApplicationProcess": 0.4431004226207733,
+        "TimelineFrequency": 0.3949722945690155,
+        "AuthoritiesGovernance": 0.4221894145011902,
+        "DefinitionsReferences": 0.40912890434265137
+      }
+    },
+    {
+      "sentence": "Many journalists have expressed gratitude for the financial security it provides.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4978000819683075,
+      "similarities": {
+        "ContextObjective": 0.4270021319389343,
+        "BenefitsAssistance": 0.4978000819683075,
+        "Eligibility": 0.4174676537513733,
+        "ApplicationProcess": 0.40513888001441956,
+        "TimelineFrequency": 0.3642158508300781,
+        "AuthoritiesGovernance": 0.3274798095226288,
+        "DefinitionsReferences": 0.41809871792793274
+      }
+    },
+    {
+      "sentence": "The government continues to promote awareness about the scheme among journalists.",
+      "role": "ContextObjective",
+      "confidence": 0.5070146918296814,
+      "similarities": {
+        "ContextObjective": 0.5070146918296814,
+        "BenefitsAssistance": 0.41626909375190735,
+        "Eligibility": 0.42553001642227173,
+        "ApplicationProcess": 0.43482738733291626,
+        "TimelineFrequency": 0.36092787981033325,
+        "AuthoritiesGovernance": 0.44641852378845215,
+        "DefinitionsReferences": 0.4111475348472595
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are organized to educate journalists about the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5420423746109009,
+      "similarities": {
+        "ContextObjective": 0.48314717411994934,
+        "BenefitsAssistance": 0.401815265417099,
+        "Eligibility": 0.5043647885322571,
+        "ApplicationProcess": 0.5420423746109009,
+        "TimelineFrequency": 0.5216348171234131,
+        "AuthoritiesGovernance": 0.48487240076065063,
+        "DefinitionsReferences": 0.4384641647338867
+      }
+    },
+    {
+      "sentence": "The Ministry of Information and Broadcasting also collaborates with journalist associations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.483465313911438,
+      "similarities": {
+        "ContextObjective": 0.42658960819244385,
+        "BenefitsAssistance": 0.39142829179763794,
+        "Eligibility": 0.3710898160934448,
+        "ApplicationProcess": 0.3825331926345825,
+        "TimelineFrequency": 0.360980749130249,
+        "AuthoritiesGovernance": 0.483465313911438,
+        "DefinitionsReferences": 0.4220728576183319
+      }
+    },
+    {
+      "sentence": "This collaboration aims to reach out to potential beneficiaries effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.557678759098053,
+      "similarities": {
+        "ContextObjective": 0.557678759098053,
+        "BenefitsAssistance": 0.4786185026168823,
+        "Eligibility": 0.5523209571838379,
+        "ApplicationProcess": 0.45387858152389526,
+        "TimelineFrequency": 0.4370107650756836,
+        "AuthoritiesGovernance": 0.4761880338191986,
+        "DefinitionsReferences": 0.3996194005012512
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists is a vital part of the government's welfare initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.4886277914047241,
+      "similarities": {
+        "ContextObjective": 0.4886277914047241,
+        "BenefitsAssistance": 0.4388154149055481,
+        "Eligibility": 0.44414544105529785,
+        "ApplicationProcess": 0.3992953896522522,
+        "TimelineFrequency": 0.35638105869293213,
+        "AuthoritiesGovernance": 0.3956848680973053,
+        "DefinitionsReferences": 0.35576459765434265
+      }
+    },
+    {
+      "sentence": "It reflects a commitment to support those who have dedicated their lives to journalism.",
+      "role": "ContextObjective",
+      "confidence": 0.419187068939209,
+      "similarities": {
+        "ContextObjective": 0.419187068939209,
+        "BenefitsAssistance": 0.3887306749820709,
+        "Eligibility": 0.39002135396003723,
+        "ApplicationProcess": 0.3606216609477997,
+        "TimelineFrequency": 0.34502720832824707,
+        "AuthoritiesGovernance": 0.30630815029144287,
+        "DefinitionsReferences": 0.3850885033607483
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time to meet the changing needs of journalists.",
+      "role": "ContextObjective",
+      "confidence": 0.5531171560287476,
+      "similarities": {
+        "ContextObjective": 0.5531171560287476,
+        "BenefitsAssistance": 0.44681406021118164,
+        "Eligibility": 0.49606651067733765,
+        "ApplicationProcess": 0.48484551906585693,
+        "TimelineFrequency": 0.4762510359287262,
+        "AuthoritiesGovernance": 0.4236249327659607,
+        "DefinitionsReferences": 0.4343700408935547
+      }
+    },
+    {
+      "sentence": "The government remains open to suggestions for improving the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5199464559555054,
+      "similarities": {
+        "ContextObjective": 0.5199464559555054,
+        "BenefitsAssistance": 0.4496561288833618,
+        "Eligibility": 0.46803927421569824,
+        "ApplicationProcess": 0.43382254242897034,
+        "TimelineFrequency": 0.4044681489467621,
+        "AuthoritiesGovernance": 0.49036717414855957,
+        "DefinitionsReferences": 0.3813580870628357
+      }
+    },
+    {
+      "sentence": "This ensures that it remains relevant and beneficial to the journalistic community.",
+      "role": "ContextObjective",
+      "confidence": 0.4655340313911438,
+      "similarities": {
+        "ContextObjective": 0.4655340313911438,
+        "BenefitsAssistance": 0.3733542561531067,
+        "Eligibility": 0.42152321338653564,
+        "ApplicationProcess": 0.3876960575580597,
+        "TimelineFrequency": 0.38798612356185913,
+        "AuthoritiesGovernance": 0.3887948989868164,
+        "DefinitionsReferences": 0.4441376328468323
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists is a landmark initiative in the realm of media welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4886434078216553,
+      "similarities": {
+        "ContextObjective": 0.4886434078216553,
+        "BenefitsAssistance": 0.3988265097141266,
+        "Eligibility": 0.4178364872932434,
+        "ApplicationProcess": 0.37070679664611816,
+        "TimelineFrequency": 0.33818918466567993,
+        "AuthoritiesGovernance": 0.3415842056274414,
+        "DefinitionsReferences": 0.32574886083602905
+      }
+    },
+    {
+      "sentence": "It sets a precedent for similar schemes aimed at supporting professionals in other sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.5143914222717285,
+      "similarities": {
+        "ContextObjective": 0.5143914222717285,
+        "BenefitsAssistance": 0.41699111461639404,
+        "Eligibility": 0.46583208441734314,
+        "ApplicationProcess": 0.40174388885498047,
+        "TimelineFrequency": 0.4006945490837097,
+        "AuthoritiesGovernance": 0.4160340130329132,
+        "DefinitionsReferences": 0.44394341111183167
+      }
+    },
+    {
+      "sentence": "The government continues to prioritize the welfare of journalists as part of its agenda.",
+      "role": "ContextObjective",
+      "confidence": 0.48140308260917664,
+      "similarities": {
+        "ContextObjective": 0.48140308260917664,
+        "BenefitsAssistance": 0.4132814407348633,
+        "Eligibility": 0.42773181200027466,
+        "ApplicationProcess": 0.39699387550354004,
+        "TimelineFrequency": 0.3880256712436676,
+        "AuthoritiesGovernance": 0.4629203677177429,
+        "DefinitionsReferences": 0.43380090594291687
+      }
+    },
+    {
+      "sentence": "This scheme is a testament to the importance of safeguarding the rights and livelihoods of media professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.5105802416801453,
+      "similarities": {
+        "ContextObjective": 0.5105802416801453,
+        "BenefitsAssistance": 0.40529680252075195,
+        "Eligibility": 0.45248493552207947,
+        "ApplicationProcess": 0.4203254282474518,
+        "TimelineFrequency": 0.3675442636013031,
+        "AuthoritiesGovernance": 0.4087408185005188,
+        "DefinitionsReferences": 0.4255370497703552
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists stands as a beacon of support for those who inform and educate the public.",
+      "role": "ContextObjective",
+      "confidence": 0.4937291443347931,
+      "similarities": {
+        "ContextObjective": 0.4937291443347931,
+        "BenefitsAssistance": 0.4146556258201599,
+        "Eligibility": 0.4085206389427185,
+        "ApplicationProcess": 0.3506165146827698,
+        "TimelineFrequency": 0.31428253650665283,
+        "AuthoritiesGovernance": 0.36085689067840576,
+        "DefinitionsReferences": 0.34586259722709656
+      }
+    },
+    {
+      "sentence": "It is a recognition of the sacrifices made by journalists in their pursuit of truth and justice.",
+      "role": "ContextObjective",
+      "confidence": 0.39173564314842224,
+      "similarities": {
+        "ContextObjective": 0.39173564314842224,
+        "BenefitsAssistance": 0.3265622854232788,
+        "Eligibility": 0.35516536235809326,
+        "ApplicationProcess": 0.33137765526771545,
+        "TimelineFrequency": 0.3068241477012634,
+        "AuthoritiesGovernance": 0.321137398481369,
+        "DefinitionsReferences": 0.36628469824790955
+      }
+    },
+    {
+      "sentence": "The scheme is a vital step towards ensuring that journalists can retire with dignity and security.",
+      "role": "ContextObjective",
+      "confidence": 0.4634191393852234,
+      "similarities": {
+        "ContextObjective": 0.4634191393852234,
+        "BenefitsAssistance": 0.36635202169418335,
+        "Eligibility": 0.42917466163635254,
+        "ApplicationProcess": 0.424772709608078,
+        "TimelineFrequency": 0.3488544523715973,
+        "AuthoritiesGovernance": 0.332791805267334,
+        "DefinitionsReferences": 0.3548728823661804
+      }
+    },
+    {
+      "sentence": "The Pension Scheme for Journalists represents a significant investment in the future of journalism in India.",
+      "role": "ContextObjective",
+      "confidence": 0.42566996812820435,
+      "similarities": {
+        "ContextObjective": 0.42566996812820435,
+        "BenefitsAssistance": 0.38238757848739624,
+        "Eligibility": 0.36597394943237305,
+        "ApplicationProcess": 0.32892653346061707,
+        "TimelineFrequency": 0.31673720479011536,
+        "AuthoritiesGovernance": 0.2884460687637329,
+        "DefinitionsReferences": 0.320202499628067
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 33,
+    "Eligibility": 13,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 11,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:34:22.413443"
+}

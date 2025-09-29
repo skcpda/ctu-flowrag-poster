@@ -1,0 +1,924 @@
+{
+  "scheme_name": "Self-Employment Scheme: Vahan Loan Sahay Yojana",
+  "total_sentences": 65,
+  "labeled_sentences": [
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is a self-employment scheme launched by the Government of India to promote entrepreneurship among individuals in the transport sector.",
+      "role": "ContextObjective",
+      "confidence": 0.49974146485328674,
+      "similarities": {
+        "ContextObjective": 0.49974146485328674,
+        "BenefitsAssistance": 0.439655065536499,
+        "Eligibility": 0.49519121646881104,
+        "ApplicationProcess": 0.4534521996974945,
+        "TimelineFrequency": 0.45563143491744995,
+        "AuthoritiesGovernance": 0.42332392930984497,
+        "DefinitionsReferences": 0.39156848192214966
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 1st April 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.6008753776550293,
+      "similarities": {
+        "ContextObjective": 0.6008753776550293,
+        "BenefitsAssistance": 0.4368444085121155,
+        "Eligibility": 0.4745972752571106,
+        "ApplicationProcess": 0.46974143385887146,
+        "TimelineFrequency": 0.47257906198501587,
+        "AuthoritiesGovernance": 0.4411945044994354,
+        "DefinitionsReferences": 0.3454034924507141
+      }
+    },
+    {
+      "sentence": "The primary objective of the Vahan Loan Sahay Yojana is to provide financial assistance to individuals who wish to purchase commercial vehicles.",
+      "role": "ContextObjective",
+      "confidence": 0.5130277872085571,
+      "similarities": {
+        "ContextObjective": 0.5130277872085571,
+        "BenefitsAssistance": 0.4612606167793274,
+        "Eligibility": 0.5059387683868408,
+        "ApplicationProcess": 0.4573403298854828,
+        "TimelineFrequency": 0.4299898147583008,
+        "AuthoritiesGovernance": 0.39223313331604004,
+        "DefinitionsReferences": 0.38843029737472534
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower unemployed youth and individuals from economically weaker sections of society by facilitating self-employment opportunities.",
+      "role": "ContextObjective",
+      "confidence": 0.5452122092247009,
+      "similarities": {
+        "ContextObjective": 0.5452122092247009,
+        "BenefitsAssistance": 0.39807772636413574,
+        "Eligibility": 0.4595451354980469,
+        "ApplicationProcess": 0.38782909512519836,
+        "TimelineFrequency": 0.38781100511550903,
+        "AuthoritiesGovernance": 0.36973077058792114,
+        "DefinitionsReferences": 0.3082183599472046
+      }
+    },
+    {
+      "sentence": "The government has set a target to provide loans to at least 1 lakh beneficiaries under this scheme in the first year of its implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.5102798938751221,
+      "similarities": {
+        "ContextObjective": 0.5102798938751221,
+        "BenefitsAssistance": 0.4322524964809418,
+        "Eligibility": 0.506066620349884,
+        "ApplicationProcess": 0.40904372930526733,
+        "TimelineFrequency": 0.375293493270874,
+        "AuthoritiesGovernance": 0.39142653346061707,
+        "DefinitionsReferences": 0.3493140637874603
+      }
+    },
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is designed to cover various types of commercial vehicles including light commercial vehicles and heavy commercial vehicles.",
+      "role": "Eligibility",
+      "confidence": 0.500289797782898,
+      "similarities": {
+        "ContextObjective": 0.45296669006347656,
+        "BenefitsAssistance": 0.486203670501709,
+        "Eligibility": 0.500289797782898,
+        "ApplicationProcess": 0.4421350955963135,
+        "TimelineFrequency": 0.4554782211780548,
+        "AuthoritiesGovernance": 0.37622228264808655,
+        "DefinitionsReferences": 0.4448890686035156
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme can go up to INR 10 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5538808107376099,
+      "similarities": {
+        "ContextObjective": 0.4327523112297058,
+        "BenefitsAssistance": 0.5538808107376099,
+        "Eligibility": 0.5022085905075073,
+        "ApplicationProcess": 0.4280690550804138,
+        "TimelineFrequency": 0.40256837010383606,
+        "AuthoritiesGovernance": 0.37126874923706055,
+        "DefinitionsReferences": 0.39438509941101074
+      }
+    },
+    {
+      "sentence": "The interest rate on the loans provided under this scheme is capped at 6 percent per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4445735216140747,
+      "similarities": {
+        "ContextObjective": 0.40797585248947144,
+        "BenefitsAssistance": 0.4445735216140747,
+        "Eligibility": 0.4280322194099426,
+        "ApplicationProcess": 0.359248548746109,
+        "TimelineFrequency": 0.4142570495605469,
+        "AuthoritiesGovernance": 0.3205522298812866,
+        "DefinitionsReferences": 0.33552539348602295
+      }
+    },
+    {
+      "sentence": "This interest subsidy is available for a period of five years from the date of loan disbursement.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5341373682022095,
+      "similarities": {
+        "ContextObjective": 0.43786996603012085,
+        "BenefitsAssistance": 0.5341373682022095,
+        "Eligibility": 0.47936031222343445,
+        "ApplicationProcess": 0.4258485436439514,
+        "TimelineFrequency": 0.49711915850639343,
+        "AuthoritiesGovernance": 0.3501482307910919,
+        "DefinitionsReferences": 0.38942936062812805
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create job opportunities for drivers and other personnel associated with the transport sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5211532115936279,
+      "similarities": {
+        "ContextObjective": 0.5211532115936279,
+        "BenefitsAssistance": 0.34389728307724,
+        "Eligibility": 0.44824984669685364,
+        "ApplicationProcess": 0.4067745804786682,
+        "TimelineFrequency": 0.4153790771961212,
+        "AuthoritiesGovernance": 0.38241323828697205,
+        "DefinitionsReferences": 0.323866605758667
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries can receive a subsidy of up to 30 percent of the total loan amount.",
+      "role": "Eligibility",
+      "confidence": 0.5311607122421265,
+      "similarities": {
+        "ContextObjective": 0.41437575221061707,
+        "BenefitsAssistance": 0.48450660705566406,
+        "Eligibility": 0.5311607122421265,
+        "ApplicationProcess": 0.38540953397750854,
+        "TimelineFrequency": 0.4031970500946045,
+        "AuthoritiesGovernance": 0.3719571530818939,
+        "DefinitionsReferences": 0.3789725601673126
+      }
+    },
+    {
+      "sentence": "This subsidy is particularly aimed at individuals from Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.496372789144516,
+      "similarities": {
+        "ContextObjective": 0.4304282069206238,
+        "BenefitsAssistance": 0.4392472505569458,
+        "Eligibility": 0.496372789144516,
+        "ApplicationProcess": 0.365727961063385,
+        "TimelineFrequency": 0.3962535560131073,
+        "AuthoritiesGovernance": 0.4107104241847992,
+        "DefinitionsReferences": 0.3706703782081604
+      }
+    },
+    {
+      "sentence": "The maximum subsidy amount under the scheme is capped at INR 3 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4741276502609253,
+      "similarities": {
+        "ContextObjective": 0.4126337766647339,
+        "BenefitsAssistance": 0.4741276502609253,
+        "Eligibility": 0.45119041204452515,
+        "ApplicationProcess": 0.3436983823776245,
+        "TimelineFrequency": 0.3592463731765747,
+        "AuthoritiesGovernance": 0.32349762320518494,
+        "DefinitionsReferences": 0.33067911863327026
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Vahan Loan Sahay Yojana include individuals aged between 18 and 55 years.",
+      "role": "Eligibility",
+      "confidence": 0.6083046197891235,
+      "similarities": {
+        "ContextObjective": 0.45428669452667236,
+        "BenefitsAssistance": 0.47827187180519104,
+        "Eligibility": 0.6083046197891235,
+        "ApplicationProcess": 0.5017521977424622,
+        "TimelineFrequency": 0.5042098760604858,
+        "AuthoritiesGovernance": 0.3836011290550232,
+        "DefinitionsReferences": 0.3968682885169983
+      }
+    },
+    {
+      "sentence": "Applicants must have a valid driving license to qualify for the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6017760038375854,
+      "similarities": {
+        "ContextObjective": 0.5400885343551636,
+        "BenefitsAssistance": 0.43423277139663696,
+        "Eligibility": 0.5949719548225403,
+        "ApplicationProcess": 0.6017760038375854,
+        "TimelineFrequency": 0.5133355259895325,
+        "AuthoritiesGovernance": 0.40884193778038025,
+        "DefinitionsReferences": 0.38594532012939453
+      }
+    },
+    {
+      "sentence": "The scheme is open to both men and women.",
+      "role": "Eligibility",
+      "confidence": 0.5764017701148987,
+      "similarities": {
+        "ContextObjective": 0.5717933177947998,
+        "BenefitsAssistance": 0.5084863901138306,
+        "Eligibility": 0.5764017701148987,
+        "ApplicationProcess": 0.5020551681518555,
+        "TimelineFrequency": 0.4906507134437561,
+        "AuthoritiesGovernance": 0.45318636298179626,
+        "DefinitionsReferences": 0.40488144755363464
+      }
+    },
+    {
+      "sentence": "Applicants should ideally possess a minimum educational qualification of 8th standard.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5346350073814392,
+      "similarities": {
+        "ContextObjective": 0.48959752917289734,
+        "BenefitsAssistance": 0.3995858132839203,
+        "Eligibility": 0.5341306328773499,
+        "ApplicationProcess": 0.5346350073814392,
+        "TimelineFrequency": 0.4909898042678833,
+        "AuthoritiesGovernance": 0.4067242443561554,
+        "DefinitionsReferences": 0.4178459346294403
+      }
+    },
+    {
+      "sentence": "Income criteria stipulate that the annual family income should not exceed INR 5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5420184135437012,
+      "similarities": {
+        "ContextObjective": 0.45096343755722046,
+        "BenefitsAssistance": 0.49298936128616333,
+        "Eligibility": 0.5420184135437012,
+        "ApplicationProcess": 0.4647183418273926,
+        "TimelineFrequency": 0.4143807888031006,
+        "AuthoritiesGovernance": 0.3472074866294861,
+        "DefinitionsReferences": 0.38694730401039124
+      }
+    },
+    {
+      "sentence": "The application process for the Vahan Loan Sahay Yojana involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.66539466381073,
+      "similarities": {
+        "ContextObjective": 0.5170459747314453,
+        "BenefitsAssistance": 0.4992830157279968,
+        "Eligibility": 0.5837284326553345,
+        "ApplicationProcess": 0.66539466381073,
+        "TimelineFrequency": 0.5760968923568726,
+        "AuthoritiesGovernance": 0.4615113139152527,
+        "DefinitionsReferences": 0.47398072481155396
+      }
+    },
+    {
+      "sentence": "First, interested applicants must visit the official website of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6297335624694824,
+      "similarities": {
+        "ContextObjective": 0.5620325207710266,
+        "BenefitsAssistance": 0.42613735795021057,
+        "Eligibility": 0.5520467758178711,
+        "ApplicationProcess": 0.6297335624694824,
+        "TimelineFrequency": 0.5090489983558655,
+        "AuthoritiesGovernance": 0.43001872301101685,
+        "DefinitionsReferences": 0.4132004380226135
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form available online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.758642315864563,
+      "similarities": {
+        "ContextObjective": 0.4839334189891815,
+        "BenefitsAssistance": 0.5135431289672852,
+        "Eligibility": 0.6133712530136108,
+        "ApplicationProcess": 0.758642315864563,
+        "TimelineFrequency": 0.5707775354385376,
+        "AuthoritiesGovernance": 0.464728444814682,
+        "DefinitionsReferences": 0.45835644006729126
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7019224166870117,
+      "similarities": {
+        "ContextObjective": 0.5078127980232239,
+        "BenefitsAssistance": 0.5981009006500244,
+        "Eligibility": 0.645250678062439,
+        "ApplicationProcess": 0.7019224166870117,
+        "TimelineFrequency": 0.5861561894416809,
+        "AuthoritiesGovernance": 0.46677321195602417,
+        "DefinitionsReferences": 0.527523398399353
+      }
+    },
+    {
+      "sentence": "Applicants must also provide information about the type of vehicle they intend to purchase.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6482775211334229,
+      "similarities": {
+        "ContextObjective": 0.5270574688911438,
+        "BenefitsAssistance": 0.5463765859603882,
+        "Eligibility": 0.6292999386787415,
+        "ApplicationProcess": 0.6482775211334229,
+        "TimelineFrequency": 0.5708232522010803,
+        "AuthoritiesGovernance": 0.43649131059646606,
+        "DefinitionsReferences": 0.4718818664550781
+      }
+    },
+    {
+      "sentence": "Once the application form is completed, it must be submitted along with required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7416655421257019,
+      "similarities": {
+        "ContextObjective": 0.4935288429260254,
+        "BenefitsAssistance": 0.5192264318466187,
+        "Eligibility": 0.5767441391944885,
+        "ApplicationProcess": 0.7416655421257019,
+        "TimelineFrequency": 0.5819069147109985,
+        "AuthoritiesGovernance": 0.4703301191329956,
+        "DefinitionsReferences": 0.5102131366729736
+      }
+    },
+    {
+      "sentence": "Required documents include a copy of the applicant's Aadhar card, income certificate, and driving license.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6067063212394714,
+      "similarities": {
+        "ContextObjective": 0.4376593828201294,
+        "BenefitsAssistance": 0.5305758714675903,
+        "Eligibility": 0.5034908056259155,
+        "ApplicationProcess": 0.6067063212394714,
+        "TimelineFrequency": 0.48937660455703735,
+        "AuthoritiesGovernance": 0.42140358686447144,
+        "DefinitionsReferences": 0.5137905478477478
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must submit a bank statement for the last six months.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5928299427032471,
+      "similarities": {
+        "ContextObjective": 0.42445623874664307,
+        "BenefitsAssistance": 0.4942927360534668,
+        "Eligibility": 0.5408127903938293,
+        "ApplicationProcess": 0.5928299427032471,
+        "TimelineFrequency": 0.5791430473327637,
+        "AuthoritiesGovernance": 0.37179937958717346,
+        "DefinitionsReferences": 0.4337589740753174
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6928691864013672,
+      "similarities": {
+        "ContextObjective": 0.5195109248161316,
+        "BenefitsAssistance": 0.46513882279396057,
+        "Eligibility": 0.599595308303833,
+        "ApplicationProcess": 0.6928691864013672,
+        "TimelineFrequency": 0.5777101516723633,
+        "AuthoritiesGovernance": 0.5179823637008667,
+        "DefinitionsReferences": 0.49028652906417847
+      }
+    },
+    {
+      "sentence": "If approved, the loan amount will be disbursed directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5502753257751465,
+      "similarities": {
+        "ContextObjective": 0.4002389907836914,
+        "BenefitsAssistance": 0.5502753257751465,
+        "Eligibility": 0.532451331615448,
+        "ApplicationProcess": 0.4969150424003601,
+        "TimelineFrequency": 0.44269561767578125,
+        "AuthoritiesGovernance": 0.41635817289352417,
+        "DefinitionsReferences": 0.37420743703842163
+      }
+    },
+    {
+      "sentence": "The disbursement of the loan amount typically takes place within 30 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5248563289642334,
+      "similarities": {
+        "ContextObjective": 0.42226678133010864,
+        "BenefitsAssistance": 0.5248563289642334,
+        "Eligibility": 0.47254854440689087,
+        "ApplicationProcess": 0.4608422815799713,
+        "TimelineFrequency": 0.5120618343353271,
+        "AuthoritiesGovernance": 0.4185158908367157,
+        "DefinitionsReferences": 0.3961297869682312
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Road Transport and Highways.",
+      "role": "ContextObjective",
+      "confidence": 0.5549760460853577,
+      "similarities": {
+        "ContextObjective": 0.5549760460853577,
+        "BenefitsAssistance": 0.44207486510276794,
+        "Eligibility": 0.46591728925704956,
+        "ApplicationProcess": 0.48926252126693726,
+        "TimelineFrequency": 0.4239676594734192,
+        "AuthoritiesGovernance": 0.5419623851776123,
+        "DefinitionsReferences": 0.41547033190727234
+      }
+    },
+    {
+      "sentence": "State transport departments are also involved in the implementation of the scheme at the state level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5629897713661194,
+      "similarities": {
+        "ContextObjective": 0.4556727409362793,
+        "BenefitsAssistance": 0.41166800260543823,
+        "Eligibility": 0.442632257938385,
+        "ApplicationProcess": 0.4415699243545532,
+        "TimelineFrequency": 0.3895761966705322,
+        "AuthoritiesGovernance": 0.5629897713661194,
+        "DefinitionsReferences": 0.3875828683376312
+      }
+    },
+    {
+      "sentence": "Beneficiaries can contact the local transport office for assistance regarding the application process.",
+      "role": "Eligibility",
+      "confidence": 0.5908474922180176,
+      "similarities": {
+        "ContextObjective": 0.49153226613998413,
+        "BenefitsAssistance": 0.501801609992981,
+        "Eligibility": 0.5908474922180176,
+        "ApplicationProcess": 0.5797452330589294,
+        "TimelineFrequency": 0.5055555105209351,
+        "AuthoritiesGovernance": 0.5211464166641235,
+        "DefinitionsReferences": 0.40322571992874146
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly contribute to the growth of the transport sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4680982828140259,
+      "similarities": {
+        "ContextObjective": 0.4680982828140259,
+        "BenefitsAssistance": 0.39333444833755493,
+        "Eligibility": 0.376995325088501,
+        "ApplicationProcess": 0.35559582710266113,
+        "TimelineFrequency": 0.34361758828163147,
+        "AuthoritiesGovernance": 0.319511353969574,
+        "DefinitionsReferences": 0.3349127769470215
+      }
+    },
+    {
+      "sentence": "It is projected that the Vahan Loan Sahay Yojana will lead to the creation of approximately 5 lakh jobs in the transport sector over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.40533149242401123,
+      "similarities": {
+        "ContextObjective": 0.40533149242401123,
+        "BenefitsAssistance": 0.36733338236808777,
+        "Eligibility": 0.37838035821914673,
+        "ApplicationProcess": 0.3379845917224884,
+        "TimelineFrequency": 0.35449934005737305,
+        "AuthoritiesGovernance": 0.3106907904148102,
+        "DefinitionsReferences": 0.31698909401893616
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the initial phase of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.503463625907898,
+      "similarities": {
+        "ContextObjective": 0.503463625907898,
+        "BenefitsAssistance": 0.4583282172679901,
+        "Eligibility": 0.4515115022659302,
+        "ApplicationProcess": 0.4389541745185852,
+        "TimelineFrequency": 0.4243704080581665,
+        "AuthoritiesGovernance": 0.4188975989818573,
+        "DefinitionsReferences": 0.35833072662353516
+      }
+    },
+    {
+      "sentence": "This funding will be utilized for interest subsidies and other operational costs associated with the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5548477172851562,
+      "similarities": {
+        "ContextObjective": 0.5054352879524231,
+        "BenefitsAssistance": 0.5548477172851562,
+        "Eligibility": 0.5053111910820007,
+        "ApplicationProcess": 0.4653139114379883,
+        "TimelineFrequency": 0.4846220910549164,
+        "AuthoritiesGovernance": 0.4457464814186096,
+        "DefinitionsReferences": 0.4474995732307434
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance self-employment opportunities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5286445617675781,
+      "similarities": {
+        "ContextObjective": 0.5286445617675781,
+        "BenefitsAssistance": 0.42515647411346436,
+        "Eligibility": 0.45625102519989014,
+        "ApplicationProcess": 0.4224741458892822,
+        "TimelineFrequency": 0.3911818265914917,
+        "AuthoritiesGovernance": 0.3830004930496216,
+        "DefinitionsReferences": 0.3632456958293915
+      }
+    },
+    {
+      "sentence": "It aligns with the government's vision of \"Atmanirbhar Bharat\" or self-reliant India.",
+      "role": "ContextObjective",
+      "confidence": 0.48144564032554626,
+      "similarities": {
+        "ContextObjective": 0.48144564032554626,
+        "BenefitsAssistance": 0.3552532196044922,
+        "Eligibility": 0.3818179965019226,
+        "ApplicationProcess": 0.3629998564720154,
+        "TimelineFrequency": 0.3209744691848755,
+        "AuthoritiesGovernance": 0.36248359084129333,
+        "DefinitionsReferences": 0.3548353910446167
+      }
+    },
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is expected to boost the economy by increasing the number of commercial vehicles on the road.",
+      "role": "ContextObjective",
+      "confidence": 0.38963067531585693,
+      "similarities": {
+        "ContextObjective": 0.38963067531585693,
+        "BenefitsAssistance": 0.36491501331329346,
+        "Eligibility": 0.35693299770355225,
+        "ApplicationProcess": 0.3347782790660858,
+        "TimelineFrequency": 0.33615434169769287,
+        "AuthoritiesGovernance": 0.29908668994903564,
+        "DefinitionsReferences": 0.3377675414085388
+      }
+    },
+    {
+      "sentence": "This will subsequently enhance logistics and transportation services across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.454430490732193,
+      "similarities": {
+        "ContextObjective": 0.454430490732193,
+        "BenefitsAssistance": 0.4306342601776123,
+        "Eligibility": 0.4178053140640259,
+        "ApplicationProcess": 0.38730067014694214,
+        "TimelineFrequency": 0.3977847695350647,
+        "AuthoritiesGovernance": 0.44567227363586426,
+        "DefinitionsReferences": 0.44119760394096375
+      }
+    },
+    {
+      "sentence": "The scheme also aims to improve the standard of living for individuals engaged in the transport sector.",
+      "role": "ContextObjective",
+      "confidence": 0.49372243881225586,
+      "similarities": {
+        "ContextObjective": 0.49372243881225586,
+        "BenefitsAssistance": 0.39647912979125977,
+        "Eligibility": 0.43107420206069946,
+        "ApplicationProcess": 0.400591641664505,
+        "TimelineFrequency": 0.3688935935497284,
+        "AuthoritiesGovernance": 0.39058637619018555,
+        "DefinitionsReferences": 0.32391655445098877
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government hopes to reduce unemployment rates among youth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4614812731742859,
+      "similarities": {
+        "ContextObjective": 0.44766661524772644,
+        "BenefitsAssistance": 0.4614812731742859,
+        "Eligibility": 0.45133286714553833,
+        "ApplicationProcess": 0.39141738414764404,
+        "TimelineFrequency": 0.4006396532058716,
+        "AuthoritiesGovernance": 0.4201509356498718,
+        "DefinitionsReferences": 0.32648149132728577
+      }
+    },
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is a significant step towards promoting entrepreneurship in the transport sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4300118088722229,
+      "similarities": {
+        "ContextObjective": 0.4300118088722229,
+        "BenefitsAssistance": 0.37187659740448,
+        "Eligibility": 0.4081994891166687,
+        "ApplicationProcess": 0.38706618547439575,
+        "TimelineFrequency": 0.366716206073761,
+        "AuthoritiesGovernance": 0.35097119212150574,
+        "DefinitionsReferences": 0.35816389322280884
+      }
+    },
+    {
+      "sentence": "It encourages individuals to take ownership of their livelihoods by investing in commercial vehicles.",
+      "role": "ContextObjective",
+      "confidence": 0.45092999935150146,
+      "similarities": {
+        "ContextObjective": 0.45092999935150146,
+        "BenefitsAssistance": 0.390273779630661,
+        "Eligibility": 0.3860110640525818,
+        "ApplicationProcess": 0.3660064935684204,
+        "TimelineFrequency": 0.3294629454612732,
+        "AuthoritiesGovernance": 0.31471097469329834,
+        "DefinitionsReferences": 0.35838428139686584
+      }
+    },
+    {
+      "sentence": "The scheme is expected to foster a culture of self-employment among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5302122235298157,
+      "similarities": {
+        "ContextObjective": 0.5302122235298157,
+        "BenefitsAssistance": 0.3902861773967743,
+        "Eligibility": 0.4110789895057678,
+        "ApplicationProcess": 0.40381738543510437,
+        "TimelineFrequency": 0.37770408391952515,
+        "AuthoritiesGovernance": 0.35279861092567444,
+        "DefinitionsReferences": 0.3621465861797333
+      }
+    },
+    {
+      "sentence": "The government will monitor the progress of the scheme through regular assessments and feedback from beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.4934675693511963,
+      "similarities": {
+        "ContextObjective": 0.4705441892147064,
+        "BenefitsAssistance": 0.48853883147239685,
+        "Eligibility": 0.4934675693511963,
+        "ApplicationProcess": 0.4724416732788086,
+        "TimelineFrequency": 0.43019285798072815,
+        "AuthoritiesGovernance": 0.46800994873046875,
+        "DefinitionsReferences": 0.4160672426223755
+      }
+    },
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is a testament to the government's commitment to empowering citizens through financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43612414598464966,
+      "similarities": {
+        "ContextObjective": 0.3942641019821167,
+        "BenefitsAssistance": 0.43612414598464966,
+        "Eligibility": 0.42278769612312317,
+        "ApplicationProcess": 0.3709180951118469,
+        "TimelineFrequency": 0.33655279874801636,
+        "AuthoritiesGovernance": 0.3752162754535675,
+        "DefinitionsReferences": 0.3861140310764313
+      }
+    },
+    {
+      "sentence": "It represents a strategic approach to address unemployment and promote economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.4670194685459137,
+      "similarities": {
+        "ContextObjective": 0.4670194685459137,
+        "BenefitsAssistance": 0.36841675639152527,
+        "Eligibility": 0.3617081046104431,
+        "ApplicationProcess": 0.36664244532585144,
+        "TimelineFrequency": 0.38700640201568604,
+        "AuthoritiesGovernance": 0.39544910192489624,
+        "DefinitionsReferences": 0.34021562337875366
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and accessible to all eligible individuals.",
+      "role": "Eligibility",
+      "confidence": 0.6061108112335205,
+      "similarities": {
+        "ContextObjective": 0.5635926723480225,
+        "BenefitsAssistance": 0.5363564491271973,
+        "Eligibility": 0.6061108112335205,
+        "ApplicationProcess": 0.4933892786502838,
+        "TimelineFrequency": 0.47662797570228577,
+        "AuthoritiesGovernance": 0.43994420766830444,
+        "DefinitionsReferences": 0.4091305434703827
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that the benefits of the scheme reach the intended target groups effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.6044002175331116,
+      "similarities": {
+        "ContextObjective": 0.6044002175331116,
+        "BenefitsAssistance": 0.4560241997241974,
+        "Eligibility": 0.562151312828064,
+        "ApplicationProcess": 0.46059954166412354,
+        "TimelineFrequency": 0.41932231187820435,
+        "AuthoritiesGovernance": 0.5135496854782104,
+        "DefinitionsReferences": 0.40354520082473755
+      }
+    },
+    {
+      "sentence": "Overall, the Vahan Loan Sahay Yojana is a comprehensive initiative aimed at transforming the transport sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.45733121037483215,
+      "similarities": {
+        "ContextObjective": 0.45733121037483215,
+        "BenefitsAssistance": 0.4158642888069153,
+        "Eligibility": 0.4435611367225647,
+        "ApplicationProcess": 0.4262130856513977,
+        "TimelineFrequency": 0.41084039211273193,
+        "AuthoritiesGovernance": 0.42589837312698364,
+        "DefinitionsReferences": 0.37827450037002563
+      }
+    },
+    {
+      "sentence": "It provides a structured framework for individuals to become self-employed and contribute to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.5278663635253906,
+      "similarities": {
+        "ContextObjective": 0.5278663635253906,
+        "BenefitsAssistance": 0.46550071239471436,
+        "Eligibility": 0.46716031432151794,
+        "ApplicationProcess": 0.46469947695732117,
+        "TimelineFrequency": 0.4263572692871094,
+        "AuthoritiesGovernance": 0.3938673734664917,
+        "DefinitionsReferences": 0.3981283903121948
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a lasting impact on the livelihoods of many families across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5228562355041504,
+      "similarities": {
+        "ContextObjective": 0.5228562355041504,
+        "BenefitsAssistance": 0.46084240078926086,
+        "Eligibility": 0.5063967704772949,
+        "ApplicationProcess": 0.40602439641952515,
+        "TimelineFrequency": 0.38347485661506653,
+        "AuthoritiesGovernance": 0.44119977951049805,
+        "DefinitionsReferences": 0.4117538332939148
+      }
+    },
+    {
+      "sentence": "By facilitating access to financial resources, the government is enabling individuals to achieve their entrepreneurial aspirations.",
+      "role": "ContextObjective",
+      "confidence": 0.503978967666626,
+      "similarities": {
+        "ContextObjective": 0.503978967666626,
+        "BenefitsAssistance": 0.46692022681236267,
+        "Eligibility": 0.49239325523376465,
+        "ApplicationProcess": 0.44246411323547363,
+        "TimelineFrequency": 0.4022458791732788,
+        "AuthoritiesGovernance": 0.4383951425552368,
+        "DefinitionsReferences": 0.4095279574394226
+      }
+    },
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is a crucial component of India's economic recovery strategy post-pandemic.",
+      "role": "Eligibility",
+      "confidence": 0.4174860417842865,
+      "similarities": {
+        "ContextObjective": 0.4147278964519501,
+        "BenefitsAssistance": 0.4138713777065277,
+        "Eligibility": 0.4174860417842865,
+        "ApplicationProcess": 0.39368465542793274,
+        "TimelineFrequency": 0.36047834157943726,
+        "AuthoritiesGovernance": 0.36621326208114624,
+        "DefinitionsReferences": 0.35589730739593506
+      }
+    },
+    {
+      "sentence": "It is anticipated that the scheme will lead to a significant increase in the number of small transport businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.4552007019519806,
+      "similarities": {
+        "ContextObjective": 0.4552007019519806,
+        "BenefitsAssistance": 0.3573209345340729,
+        "Eligibility": 0.35692885518074036,
+        "ApplicationProcess": 0.33752912282943726,
+        "TimelineFrequency": 0.3415348529815674,
+        "AuthoritiesGovernance": 0.3102031946182251,
+        "DefinitionsReferences": 0.3327198028564453
+      }
+    },
+    {
+      "sentence": "This will ultimately enhance the overall efficiency of the transportation network in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4318165183067322,
+      "similarities": {
+        "ContextObjective": 0.42344576120376587,
+        "BenefitsAssistance": 0.35806119441986084,
+        "Eligibility": 0.3565449118614197,
+        "ApplicationProcess": 0.363195538520813,
+        "TimelineFrequency": 0.3656272888183594,
+        "AuthoritiesGovernance": 0.4318165183067322,
+        "DefinitionsReferences": 0.36435800790786743
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible individuals to take advantage of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5437228679656982,
+      "similarities": {
+        "ContextObjective": 0.534411609172821,
+        "BenefitsAssistance": 0.4834691286087036,
+        "Eligibility": 0.5437228679656982,
+        "ApplicationProcess": 0.47826090455055237,
+        "TimelineFrequency": 0.4349200129508972,
+        "AuthoritiesGovernance": 0.4046362042427063,
+        "DefinitionsReferences": 0.39745277166366577
+      }
+    },
+    {
+      "sentence": "It is a valuable opportunity for those looking to establish a career in the transport sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5092918872833252,
+      "similarities": {
+        "ContextObjective": 0.5092918872833252,
+        "BenefitsAssistance": 0.3773197531700134,
+        "Eligibility": 0.46538516879081726,
+        "ApplicationProcess": 0.46284109354019165,
+        "TimelineFrequency": 0.45869362354278564,
+        "AuthoritiesGovernance": 0.34198659658432007,
+        "DefinitionsReferences": 0.3823060989379883
+      }
+    },
+    {
+      "sentence": "The Vahan Loan Sahay Yojana is a forward-thinking initiative that aligns with global trends in entrepreneurship and self-employment.",
+      "role": "ContextObjective",
+      "confidence": 0.476097971200943,
+      "similarities": {
+        "ContextObjective": 0.476097971200943,
+        "BenefitsAssistance": 0.4302682876586914,
+        "Eligibility": 0.46774977445602417,
+        "ApplicationProcess": 0.4251626431941986,
+        "TimelineFrequency": 0.4235037565231323,
+        "AuthoritiesGovernance": 0.36918437480926514,
+        "DefinitionsReferences": 0.37312278151512146
+      }
+    },
+    {
+      "sentence": "It is a clear indication of the government's proactive approach to economic empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.4458003342151642,
+      "similarities": {
+        "ContextObjective": 0.4458003342151642,
+        "BenefitsAssistance": 0.4156322181224823,
+        "Eligibility": 0.39127016067504883,
+        "ApplicationProcess": 0.3691129684448242,
+        "TimelineFrequency": 0.34261420369148254,
+        "AuthoritiesGovernance": 0.4040834307670593,
+        "DefinitionsReferences": 0.37806931138038635
+      }
+    },
+    {
+      "sentence": "The scheme is a vital resource for individuals seeking to improve their financial stability and independence.",
+      "role": "ContextObjective",
+      "confidence": 0.5628023743629456,
+      "similarities": {
+        "ContextObjective": 0.5628023743629456,
+        "BenefitsAssistance": 0.5304940342903137,
+        "Eligibility": 0.5418764352798462,
+        "ApplicationProcess": 0.4710015058517456,
+        "TimelineFrequency": 0.46385085582733154,
+        "AuthoritiesGovernance": 0.410930335521698,
+        "DefinitionsReferences": 0.4301805794239044
+      }
+    },
+    {
+      "sentence": "In conclusion, the Vahan Loan Sahay Yojana is a landmark initiative that aims to revolutionize the transport sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.449881374835968,
+      "similarities": {
+        "ContextObjective": 0.449881374835968,
+        "BenefitsAssistance": 0.3508028984069824,
+        "Eligibility": 0.3928065299987793,
+        "ApplicationProcess": 0.38161763548851013,
+        "TimelineFrequency": 0.3524013161659241,
+        "AuthoritiesGovernance": 0.3333875238895416,
+        "DefinitionsReferences": 0.3431526720523834
+      }
+    },
+    {
+      "sentence": "It provides the necessary support for individuals to embark on their entrepreneurial journeys.",
+      "role": "ContextObjective",
+      "confidence": 0.5802046060562134,
+      "similarities": {
+        "ContextObjective": 0.5802046060562134,
+        "BenefitsAssistance": 0.5050913095474243,
+        "Eligibility": 0.49055182933807373,
+        "ApplicationProcess": 0.4864135682582855,
+        "TimelineFrequency": 0.4574276804924011,
+        "AuthoritiesGovernance": 0.41742226481437683,
+        "DefinitionsReferences": 0.47472521662712097
+      }
+    },
+    {
+      "sentence": "The scheme is a significant step towards building a self-reliant and robust economy.",
+      "role": "ContextObjective",
+      "confidence": 0.5119795799255371,
+      "similarities": {
+        "ContextObjective": 0.5119795799255371,
+        "BenefitsAssistance": 0.44317638874053955,
+        "Eligibility": 0.4132372736930847,
+        "ApplicationProcess": 0.4084048867225647,
+        "TimelineFrequency": 0.37386417388916016,
+        "AuthoritiesGovernance": 0.3918077051639557,
+        "DefinitionsReferences": 0.3694058060646057
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 32,
+    "Eligibility": 11,
+    "BenefitsAssistance": 9,
+    "ApplicationProcess": 11,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-24T21:06:36.846222"
+}

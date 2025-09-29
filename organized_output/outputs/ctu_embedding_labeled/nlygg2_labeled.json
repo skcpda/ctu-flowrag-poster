@@ -1,0 +1,912 @@
+{
+  "scheme_name": "Namo Laxmi Yojana",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "Namo Laxmi Yojana is a welfare scheme launched by the Government of Gujarat on 15th October 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5238742828369141,
+      "similarities": {
+        "ContextObjective": 0.5238742828369141,
+        "BenefitsAssistance": 0.46176156401634216,
+        "Eligibility": 0.5204130411148071,
+        "ApplicationProcess": 0.48134171962738037,
+        "TimelineFrequency": 0.4913265109062195,
+        "AuthoritiesGovernance": 0.46310579776763916,
+        "DefinitionsReferences": 0.393140971660614
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower women by providing them with financial assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.5374152660369873,
+      "similarities": {
+        "ContextObjective": 0.5374152660369873,
+        "BenefitsAssistance": 0.5249438285827637,
+        "Eligibility": 0.5177156329154968,
+        "ApplicationProcess": 0.4334947168827057,
+        "TimelineFrequency": 0.4196312427520752,
+        "AuthoritiesGovernance": 0.415816068649292,
+        "DefinitionsReferences": 0.35419756174087524
+      }
+    },
+    {
+      "sentence": "The primary objective of the Namo Laxmi Yojana is to promote the economic independence of women in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.465741902589798,
+      "similarities": {
+        "ContextObjective": 0.465741902589798,
+        "BenefitsAssistance": 0.37892287969589233,
+        "Eligibility": 0.39435094594955444,
+        "ApplicationProcess": 0.3599320948123932,
+        "TimelineFrequency": 0.33714061975479126,
+        "AuthoritiesGovernance": 0.35326606035232544,
+        "DefinitionsReferences": 0.32181641459465027
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets women from economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.4885866045951843,
+      "similarities": {
+        "ContextObjective": 0.48580148816108704,
+        "BenefitsAssistance": 0.4190533757209778,
+        "Eligibility": 0.4885866045951843,
+        "ApplicationProcess": 0.3762844204902649,
+        "TimelineFrequency": 0.38911372423171997,
+        "AuthoritiesGovernance": 0.3804629445075989,
+        "DefinitionsReferences": 0.30824941396713257
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of benefiting approximately 1 lakh women in its initial phase.",
+      "role": "ContextObjective",
+      "confidence": 0.4845983386039734,
+      "similarities": {
+        "ContextObjective": 0.4845983386039734,
+        "BenefitsAssistance": 0.38463661074638367,
+        "Eligibility": 0.45084500312805176,
+        "ApplicationProcess": 0.3775048553943634,
+        "TimelineFrequency": 0.35165488719940186,
+        "AuthoritiesGovernance": 0.4052184224128723,
+        "DefinitionsReferences": 0.33468466997146606
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹1,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5597691535949707,
+      "similarities": {
+        "ContextObjective": 0.4605935513973236,
+        "BenefitsAssistance": 0.5597691535949707,
+        "Eligibility": 0.5075045824050903,
+        "ApplicationProcess": 0.43487662076950073,
+        "TimelineFrequency": 0.40829673409461975,
+        "AuthoritiesGovernance": 0.3959563672542572,
+        "DefinitionsReferences": 0.34296685457229614
+      }
+    },
+    {
+      "sentence": "This assistance is intended to support women in their daily expenses and encourage savings.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5607566833496094,
+      "similarities": {
+        "ContextObjective": 0.4422104060649872,
+        "BenefitsAssistance": 0.5607566833496094,
+        "Eligibility": 0.4356127977371216,
+        "ApplicationProcess": 0.38912084698677063,
+        "TimelineFrequency": 0.41731899976730347,
+        "AuthoritiesGovernance": 0.3701355755329132,
+        "DefinitionsReferences": 0.3994283676147461
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive, focusing on women who are heads of their households.",
+      "role": "Eligibility",
+      "confidence": 0.5462985038757324,
+      "similarities": {
+        "ContextObjective": 0.5209263563156128,
+        "BenefitsAssistance": 0.48048824071884155,
+        "Eligibility": 0.5462985038757324,
+        "ApplicationProcess": 0.41769325733184814,
+        "TimelineFrequency": 0.4289165139198303,
+        "AuthoritiesGovernance": 0.4530079960823059,
+        "DefinitionsReferences": 0.3828536570072174
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Namo Laxmi Yojana include being a resident of Gujarat.",
+      "role": "Eligibility",
+      "confidence": 0.5996311902999878,
+      "similarities": {
+        "ContextObjective": 0.45095503330230713,
+        "BenefitsAssistance": 0.4071120321750641,
+        "Eligibility": 0.5996311902999878,
+        "ApplicationProcess": 0.5182778239250183,
+        "TimelineFrequency": 0.4580722749233246,
+        "AuthoritiesGovernance": 0.37315675616264343,
+        "DefinitionsReferences": 0.3860743045806885
+      }
+    },
+    {
+      "sentence": "Applicants must be at least 18 years old to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6235876083374023,
+      "similarities": {
+        "ContextObjective": 0.5437120199203491,
+        "BenefitsAssistance": 0.46705666184425354,
+        "Eligibility": 0.6235876083374023,
+        "ApplicationProcess": 0.5617992281913757,
+        "TimelineFrequency": 0.5220104455947876,
+        "AuthoritiesGovernance": 0.3913680613040924,
+        "DefinitionsReferences": 0.3692706227302551
+      }
+    },
+    {
+      "sentence": "The annual income limit for families applying for this scheme is set at ₹2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5412915945053101,
+      "similarities": {
+        "ContextObjective": 0.4361494183540344,
+        "BenefitsAssistance": 0.46008941531181335,
+        "Eligibility": 0.5412915945053101,
+        "ApplicationProcess": 0.43921729922294617,
+        "TimelineFrequency": 0.4248460829257965,
+        "AuthoritiesGovernance": 0.3333497643470764,
+        "DefinitionsReferences": 0.32869261503219604
+      }
+    },
+    {
+      "sentence": "Women who are already receiving benefits from other government schemes are not eligible.",
+      "role": "Eligibility",
+      "confidence": 0.5039331912994385,
+      "similarities": {
+        "ContextObjective": 0.35283544659614563,
+        "BenefitsAssistance": 0.38102877140045166,
+        "Eligibility": 0.5039331912994385,
+        "ApplicationProcess": 0.34275928139686584,
+        "TimelineFrequency": 0.3656931519508362,
+        "AuthoritiesGovernance": 0.3874371647834778,
+        "DefinitionsReferences": 0.27898114919662476
+      }
+    },
+    {
+      "sentence": "The application process for the Namo Laxmi Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5719166994094849,
+      "similarities": {
+        "ContextObjective": 0.49521151185035706,
+        "BenefitsAssistance": 0.4100199341773987,
+        "Eligibility": 0.5116992592811584,
+        "ApplicationProcess": 0.5719166994094849,
+        "TimelineFrequency": 0.4756014943122864,
+        "AuthoritiesGovernance": 0.4143567383289337,
+        "DefinitionsReferences": 0.3785446286201477
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the Gujarat government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5963932275772095,
+      "similarities": {
+        "ContextObjective": 0.4467906355857849,
+        "BenefitsAssistance": 0.40523073077201843,
+        "Eligibility": 0.5252931118011475,
+        "ApplicationProcess": 0.5963932275772095,
+        "TimelineFrequency": 0.4677986800670624,
+        "AuthoritiesGovernance": 0.43037569522857666,
+        "DefinitionsReferences": 0.4238584041595459
+      }
+    },
+    {
+      "sentence": "They can also apply through designated government offices in their localities.",
+      "role": "Eligibility",
+      "confidence": 0.6187783479690552,
+      "similarities": {
+        "ContextObjective": 0.47571754455566406,
+        "BenefitsAssistance": 0.4602433741092682,
+        "Eligibility": 0.6187783479690552,
+        "ApplicationProcess": 0.5694864988327026,
+        "TimelineFrequency": 0.5234116315841675,
+        "AuthoritiesGovernance": 0.5358598828315735,
+        "DefinitionsReferences": 0.48782798647880554
+      }
+    },
+    {
+      "sentence": "The required documents for application include proof of identity such as an Aadhaar card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6344643235206604,
+      "similarities": {
+        "ContextObjective": 0.48106324672698975,
+        "BenefitsAssistance": 0.5334901213645935,
+        "Eligibility": 0.5351775884628296,
+        "ApplicationProcess": 0.6344643235206604,
+        "TimelineFrequency": 0.5101455450057983,
+        "AuthoritiesGovernance": 0.4161103367805481,
+        "DefinitionsReferences": 0.5095491409301758
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of residence and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6542572975158691,
+      "similarities": {
+        "ContextObjective": 0.46696630120277405,
+        "BenefitsAssistance": 0.536564290523529,
+        "Eligibility": 0.5957390069961548,
+        "ApplicationProcess": 0.6542572975158691,
+        "TimelineFrequency": 0.5184305906295776,
+        "AuthoritiesGovernance": 0.41278934478759766,
+        "DefinitionsReferences": 0.46672922372817993
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The government aims to process applications within 30 days of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6005567312240601,
+      "similarities": {
+        "ContextObjective": 0.5287237167358398,
+        "BenefitsAssistance": 0.4565514326095581,
+        "Eligibility": 0.5745294094085693,
+        "ApplicationProcess": 0.5857142806053162,
+        "TimelineFrequency": 0.6005567312240601,
+        "AuthoritiesGovernance": 0.5075268149375916,
+        "DefinitionsReferences": 0.4500861167907715
+      }
+    },
+    {
+      "sentence": "Successful applicants will receive the financial assistance directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5512076616287231,
+      "similarities": {
+        "ContextObjective": 0.43689262866973877,
+        "BenefitsAssistance": 0.5512076616287231,
+        "Eligibility": 0.5498314499855042,
+        "ApplicationProcess": 0.5468457937240601,
+        "TimelineFrequency": 0.4691544771194458,
+        "AuthoritiesGovernance": 0.42702075839042664,
+        "DefinitionsReferences": 0.3814140558242798
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is scheduled to occur on the 1st of every month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5526515245437622,
+      "similarities": {
+        "ContextObjective": 0.4766826629638672,
+        "BenefitsAssistance": 0.5526515245437622,
+        "Eligibility": 0.49341872334480286,
+        "ApplicationProcess": 0.46225836873054504,
+        "TimelineFrequency": 0.5483635663986206,
+        "AuthoritiesGovernance": 0.45593613386154175,
+        "DefinitionsReferences": 0.38746118545532227
+      }
+    },
+    {
+      "sentence": "This ensures that beneficiaries receive their assistance in a timely manner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.562492311000824,
+      "similarities": {
+        "ContextObjective": 0.47726160287857056,
+        "BenefitsAssistance": 0.562492311000824,
+        "Eligibility": 0.5561912059783936,
+        "ApplicationProcess": 0.4961788058280945,
+        "TimelineFrequency": 0.5011103749275208,
+        "AuthoritiesGovernance": 0.5069989562034607,
+        "DefinitionsReferences": 0.41121071577072144
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Women and Child Development, Gujarat.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4902658462524414,
+      "similarities": {
+        "ContextObjective": 0.47118479013442993,
+        "BenefitsAssistance": 0.4276424050331116,
+        "Eligibility": 0.44943779706954956,
+        "ApplicationProcess": 0.41994649171829224,
+        "TimelineFrequency": 0.38787856698036194,
+        "AuthoritiesGovernance": 0.4902658462524414,
+        "DefinitionsReferences": 0.35416436195373535
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the department at their official helpline number.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5230809450149536,
+      "similarities": {
+        "ContextObjective": 0.3972707986831665,
+        "BenefitsAssistance": 0.4513170123100281,
+        "Eligibility": 0.5041462779045105,
+        "ApplicationProcess": 0.5230809450149536,
+        "TimelineFrequency": 0.4530102610588074,
+        "AuthoritiesGovernance": 0.512409508228302,
+        "DefinitionsReferences": 0.39821380376815796
+      }
+    },
+    {
+      "sentence": "The helpline number is available on the official website of the Gujarat government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46473848819732666,
+      "similarities": {
+        "ContextObjective": 0.3823243975639343,
+        "BenefitsAssistance": 0.45736703276634216,
+        "Eligibility": 0.4016226828098297,
+        "ApplicationProcess": 0.4390612244606018,
+        "TimelineFrequency": 0.36909154057502747,
+        "AuthoritiesGovernance": 0.46473848819732666,
+        "DefinitionsReferences": 0.38379836082458496
+      }
+    },
+    {
+      "sentence": "The Namo Laxmi Yojana is part of a broader initiative to empower women in the state.",
+      "role": "Eligibility",
+      "confidence": 0.44329583644866943,
+      "similarities": {
+        "ContextObjective": 0.442177414894104,
+        "BenefitsAssistance": 0.38938379287719727,
+        "Eligibility": 0.44329583644866943,
+        "ApplicationProcess": 0.3921683430671692,
+        "TimelineFrequency": 0.36106476187705994,
+        "AuthoritiesGovernance": 0.415787935256958,
+        "DefinitionsReferences": 0.360737681388855
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,000 crores for the successful implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49047237634658813,
+      "similarities": {
+        "ContextObjective": 0.49047237634658813,
+        "BenefitsAssistance": 0.44232237339019775,
+        "Eligibility": 0.45632269978523254,
+        "ApplicationProcess": 0.4201829433441162,
+        "TimelineFrequency": 0.36730170249938965,
+        "AuthoritiesGovernance": 0.47021275758743286,
+        "DefinitionsReferences": 0.3444023132324219
+      }
+    },
+    {
+      "sentence": "This funding is aimed at ensuring that the financial assistance reaches the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.586449146270752,
+      "similarities": {
+        "ContextObjective": 0.5169739723205566,
+        "BenefitsAssistance": 0.5460385680198669,
+        "Eligibility": 0.586449146270752,
+        "ApplicationProcess": 0.4752104878425598,
+        "TimelineFrequency": 0.4503217935562134,
+        "AuthoritiesGovernance": 0.5066123604774475,
+        "DefinitionsReferences": 0.40383052825927734
+      }
+    },
+    {
+      "sentence": "The scheme is expected to uplift the socio-economic status of women in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.463914692401886,
+      "similarities": {
+        "ContextObjective": 0.463914692401886,
+        "BenefitsAssistance": 0.3980650305747986,
+        "Eligibility": 0.39020729064941406,
+        "ApplicationProcess": 0.35186630487442017,
+        "TimelineFrequency": 0.3260311484336853,
+        "AuthoritiesGovernance": 0.3404502272605896,
+        "DefinitionsReferences": 0.31210434436798096
+      }
+    },
+    {
+      "sentence": "By providing financial support, the government aims to reduce dependency on male counterparts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5154395699501038,
+      "similarities": {
+        "ContextObjective": 0.43349534273147583,
+        "BenefitsAssistance": 0.5154395699501038,
+        "Eligibility": 0.4751114845275879,
+        "ApplicationProcess": 0.39574217796325684,
+        "TimelineFrequency": 0.3911917805671692,
+        "AuthoritiesGovernance": 0.44698354601860046,
+        "DefinitionsReferences": 0.37925729155540466
+      }
+    },
+    {
+      "sentence": "The initiative is also expected to encourage women to start small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.42658424377441406,
+      "similarities": {
+        "ContextObjective": 0.42658424377441406,
+        "BenefitsAssistance": 0.35353943705558777,
+        "Eligibility": 0.36275553703308105,
+        "ApplicationProcess": 0.33367466926574707,
+        "TimelineFrequency": 0.3427191376686096,
+        "AuthoritiesGovernance": 0.3252589702606201,
+        "DefinitionsReferences": 0.3328756093978882
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various women's organizations in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.48292699456214905,
+      "similarities": {
+        "ContextObjective": 0.48292699456214905,
+        "BenefitsAssistance": 0.4087080657482147,
+        "Eligibility": 0.43328267335891724,
+        "ApplicationProcess": 0.37965503334999084,
+        "TimelineFrequency": 0.3700368404388428,
+        "AuthoritiesGovernance": 0.4079661965370178,
+        "DefinitionsReferences": 0.38077422976493835
+      }
+    },
+    {
+      "sentence": "Many believe that it will lead to increased participation of women in the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.43140214681625366,
+      "similarities": {
+        "ContextObjective": 0.43140214681625366,
+        "BenefitsAssistance": 0.36706364154815674,
+        "Eligibility": 0.36839091777801514,
+        "ApplicationProcess": 0.35675036907196045,
+        "TimelineFrequency": 0.3641127347946167,
+        "AuthoritiesGovernance": 0.3804927468299866,
+        "DefinitionsReferences": 0.36251968145370483
+      }
+    },
+    {
+      "sentence": "The government has also planned awareness campaigns to promote the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5620439052581787,
+      "similarities": {
+        "ContextObjective": 0.5620439052581787,
+        "BenefitsAssistance": 0.46414339542388916,
+        "Eligibility": 0.4731476604938507,
+        "ApplicationProcess": 0.4755568504333496,
+        "TimelineFrequency": 0.4202215373516083,
+        "AuthoritiesGovernance": 0.47208595275878906,
+        "DefinitionsReferences": 0.43252643942832947
+      }
+    },
+    {
+      "sentence": "These campaigns will educate women about the benefits and application process.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5070530772209167,
+      "similarities": {
+        "ContextObjective": 0.47850537300109863,
+        "BenefitsAssistance": 0.46699270606040955,
+        "Eligibility": 0.4994158148765564,
+        "ApplicationProcess": 0.4948686957359314,
+        "TimelineFrequency": 0.5070530772209167,
+        "AuthoritiesGovernance": 0.4519956111907959,
+        "DefinitionsReferences": 0.42405498027801514
+      }
+    },
+    {
+      "sentence": "The Namo Laxmi Yojana is a significant step towards gender equality in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.406566321849823,
+      "similarities": {
+        "ContextObjective": 0.406566321849823,
+        "BenefitsAssistance": 0.35454368591308594,
+        "Eligibility": 0.40400558710098267,
+        "ApplicationProcess": 0.38308435678482056,
+        "TimelineFrequency": 0.34526097774505615,
+        "AuthoritiesGovernance": 0.36377137899398804,
+        "DefinitionsReferences": 0.3430805206298828
+      }
+    },
+    {
+      "sentence": "It aligns with the national goals of women's empowerment and financial inclusion.",
+      "role": "ContextObjective",
+      "confidence": 0.4844437837600708,
+      "similarities": {
+        "ContextObjective": 0.4844437837600708,
+        "BenefitsAssistance": 0.4773879647254944,
+        "Eligibility": 0.4662245512008667,
+        "ApplicationProcess": 0.3760554790496826,
+        "TimelineFrequency": 0.36699143052101135,
+        "AuthoritiesGovernance": 0.39145323634147644,
+        "DefinitionsReferences": 0.36921632289886475
+      }
+    },
+    {
+      "sentence": "The scheme is expected to create a ripple effect in the community.",
+      "role": "ContextObjective",
+      "confidence": 0.5788024663925171,
+      "similarities": {
+        "ContextObjective": 0.5788024663925171,
+        "BenefitsAssistance": 0.46491867303848267,
+        "Eligibility": 0.5213124752044678,
+        "ApplicationProcess": 0.44868919253349304,
+        "TimelineFrequency": 0.42576897144317627,
+        "AuthoritiesGovernance": 0.44759196043014526,
+        "DefinitionsReferences": 0.4071105122566223
+      }
+    },
+    {
+      "sentence": "As women gain financial independence, it is anticipated that family dynamics will improve.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4573185443878174,
+      "similarities": {
+        "ContextObjective": 0.3923461437225342,
+        "BenefitsAssistance": 0.4573185443878174,
+        "Eligibility": 0.39681875705718994,
+        "ApplicationProcess": 0.344245582818985,
+        "TimelineFrequency": 0.36521056294441223,
+        "AuthoritiesGovernance": 0.34778064489364624,
+        "DefinitionsReferences": 0.3645934462547302
+      }
+    },
+    {
+      "sentence": "The government is committed to monitoring the progress of the scheme regularly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4956107437610626,
+      "similarities": {
+        "ContextObjective": 0.4890161156654358,
+        "BenefitsAssistance": 0.4424774646759033,
+        "Eligibility": 0.4535186290740967,
+        "ApplicationProcess": 0.4956107437610626,
+        "TimelineFrequency": 0.44228824973106384,
+        "AuthoritiesGovernance": 0.46333232522010803,
+        "DefinitionsReferences": 0.41921305656433105
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to assess the impact of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5747870206832886,
+      "similarities": {
+        "ContextObjective": 0.5393196940422058,
+        "BenefitsAssistance": 0.5372780561447144,
+        "Eligibility": 0.5747870206832886,
+        "ApplicationProcess": 0.48555099964141846,
+        "TimelineFrequency": 0.4425881803035736,
+        "AuthoritiesGovernance": 0.490658700466156,
+        "DefinitionsReferences": 0.4410533607006073
+      }
+    },
+    {
+      "sentence": "This will help in making necessary adjustments to improve its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5284717082977295,
+      "similarities": {
+        "ContextObjective": 0.48092523217201233,
+        "BenefitsAssistance": 0.4902888536453247,
+        "Eligibility": 0.5022344589233398,
+        "ApplicationProcess": 0.49425479769706726,
+        "TimelineFrequency": 0.48176610469818115,
+        "AuthoritiesGovernance": 0.5284717082977295,
+        "DefinitionsReferences": 0.4681645929813385
+      }
+    },
+    {
+      "sentence": "The Namo Laxmi Yojana is a testament to the government's commitment to women's welfare.",
+      "role": "Eligibility",
+      "confidence": 0.42670682072639465,
+      "similarities": {
+        "ContextObjective": 0.41191813349723816,
+        "BenefitsAssistance": 0.4161621928215027,
+        "Eligibility": 0.42670682072639465,
+        "ApplicationProcess": 0.3773084878921509,
+        "TimelineFrequency": 0.3473002314567566,
+        "AuthoritiesGovernance": 0.38011276721954346,
+        "DefinitionsReferences": 0.38788485527038574
+      }
+    },
+    {
+      "sentence": "It reflects a growing recognition of the importance of women's roles in society.",
+      "role": "ContextObjective",
+      "confidence": 0.4169013202190399,
+      "similarities": {
+        "ContextObjective": 0.4169013202190399,
+        "BenefitsAssistance": 0.34958553314208984,
+        "Eligibility": 0.3311319947242737,
+        "ApplicationProcess": 0.33161646127700806,
+        "TimelineFrequency": 0.3397245407104492,
+        "AuthoritiesGovernance": 0.3351016044616699,
+        "DefinitionsReferences": 0.4035032391548157
+      }
+    },
+    {
+      "sentence": "The initiative is expected to inspire similar programs in other states across India.",
+      "role": "ContextObjective",
+      "confidence": 0.516287624835968,
+      "similarities": {
+        "ContextObjective": 0.516287624835968,
+        "BenefitsAssistance": 0.38047975301742554,
+        "Eligibility": 0.4511561393737793,
+        "ApplicationProcess": 0.4083002805709839,
+        "TimelineFrequency": 0.37611520290374756,
+        "AuthoritiesGovernance": 0.4452386796474457,
+        "DefinitionsReferences": 0.4047390818595886
+      }
+    },
+    {
+      "sentence": "Overall, the Namo Laxmi Yojana is a comprehensive welfare scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5333194732666016,
+      "similarities": {
+        "ContextObjective": 0.5333194732666016,
+        "BenefitsAssistance": 0.5235856771469116,
+        "Eligibility": 0.5213338732719421,
+        "ApplicationProcess": 0.47817063331604004,
+        "TimelineFrequency": 0.44145262241363525,
+        "AuthoritiesGovernance": 0.46695658564567566,
+        "DefinitionsReferences": 0.41375839710235596
+      }
+    },
+    {
+      "sentence": "It provides a structured approach to empower women financially.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.527275800704956,
+      "similarities": {
+        "ContextObjective": 0.46822285652160645,
+        "BenefitsAssistance": 0.527275800704956,
+        "Eligibility": 0.4509301483631134,
+        "ApplicationProcess": 0.4191933870315552,
+        "TimelineFrequency": 0.4089105427265167,
+        "AuthoritiesGovernance": 0.4191048741340637,
+        "DefinitionsReferences": 0.41931939125061035
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial part of the government's efforts to build a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.5826901197433472,
+      "similarities": {
+        "ContextObjective": 0.5826901197433472,
+        "BenefitsAssistance": 0.41481247544288635,
+        "Eligibility": 0.492866188287735,
+        "ApplicationProcess": 0.46235784888267517,
+        "TimelineFrequency": 0.4016326069831848,
+        "AuthoritiesGovernance": 0.4721851646900177,
+        "DefinitionsReferences": 0.401140034198761
+      }
+    },
+    {
+      "sentence": "The implementation of this scheme is expected to yield long-term benefits for women in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.43729889392852783,
+      "similarities": {
+        "ContextObjective": 0.43729889392852783,
+        "BenefitsAssistance": 0.421381413936615,
+        "Eligibility": 0.41416606307029724,
+        "ApplicationProcess": 0.37418678402900696,
+        "TimelineFrequency": 0.3624104857444763,
+        "AuthoritiesGovernance": 0.40934517979621887,
+        "DefinitionsReferences": 0.3578014373779297
+      }
+    },
+    {
+      "sentence": "As of now, the scheme is operational and accepting applications from eligible women.",
+      "role": "Eligibility",
+      "confidence": 0.5738056302070618,
+      "similarities": {
+        "ContextObjective": 0.5444240570068359,
+        "BenefitsAssistance": 0.4557728171348572,
+        "Eligibility": 0.5738056302070618,
+        "ApplicationProcess": 0.564885139465332,
+        "TimelineFrequency": 0.5098445415496826,
+        "AuthoritiesGovernance": 0.43477290868759155,
+        "DefinitionsReferences": 0.3753170073032379
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible women to take advantage of this opportunity.",
+      "role": "Eligibility",
+      "confidence": 0.49766218662261963,
+      "similarities": {
+        "ContextObjective": 0.46269986033439636,
+        "BenefitsAssistance": 0.413641095161438,
+        "Eligibility": 0.49766218662261963,
+        "ApplicationProcess": 0.4242081940174103,
+        "TimelineFrequency": 0.4200775623321533,
+        "AuthoritiesGovernance": 0.3724091053009033,
+        "DefinitionsReferences": 0.3751205801963806
+      }
+    },
+    {
+      "sentence": "By doing so, they can contribute to their families and communities effectively.",
+      "role": "Eligibility",
+      "confidence": 0.4854457378387451,
+      "similarities": {
+        "ContextObjective": 0.46235430240631104,
+        "BenefitsAssistance": 0.42808568477630615,
+        "Eligibility": 0.4854457378387451,
+        "ApplicationProcess": 0.4007512331008911,
+        "TimelineFrequency": 0.38164249062538147,
+        "AuthoritiesGovernance": 0.4352482855319977,
+        "DefinitionsReferences": 0.375108927488327
+      }
+    },
+    {
+      "sentence": "The Namo Laxmi Yojana stands as a beacon of hope for many women in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.451546311378479,
+      "similarities": {
+        "ContextObjective": 0.451546311378479,
+        "BenefitsAssistance": 0.3638019561767578,
+        "Eligibility": 0.42982831597328186,
+        "ApplicationProcess": 0.3584063649177551,
+        "TimelineFrequency": 0.3386107087135315,
+        "AuthoritiesGovernance": 0.3333892524242401,
+        "DefinitionsReferences": 0.3531433939933777
+      }
+    },
+    {
+      "sentence": "It symbolizes the potential for change and progress in women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.43455493450164795,
+      "similarities": {
+        "ContextObjective": 0.43455493450164795,
+        "BenefitsAssistance": 0.3410833477973938,
+        "Eligibility": 0.3611134886741638,
+        "ApplicationProcess": 0.3351716995239258,
+        "TimelineFrequency": 0.36104297637939453,
+        "AuthoritiesGovernance": 0.34710103273391724,
+        "DefinitionsReferences": 0.3480856418609619
+      }
+    },
+    {
+      "sentence": "The scheme is a vital component of the state's welfare initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.5658155083656311,
+      "similarities": {
+        "ContextObjective": 0.5658155083656311,
+        "BenefitsAssistance": 0.4779817461967468,
+        "Eligibility": 0.5053243637084961,
+        "ApplicationProcess": 0.4606403708457947,
+        "TimelineFrequency": 0.42403051257133484,
+        "AuthoritiesGovernance": 0.45370426774024963,
+        "DefinitionsReferences": 0.4060007929801941
+      }
+    },
+    {
+      "sentence": "It is designed to create a supportive environment for women to thrive.",
+      "role": "ContextObjective",
+      "confidence": 0.4707208573818207,
+      "similarities": {
+        "ContextObjective": 0.4707208573818207,
+        "BenefitsAssistance": 0.41288062930107117,
+        "Eligibility": 0.4374411702156067,
+        "ApplicationProcess": 0.37634792923927307,
+        "TimelineFrequency": 0.3942928910255432,
+        "AuthoritiesGovernance": 0.39809539914131165,
+        "DefinitionsReferences": 0.3975597321987152
+      }
+    },
+    {
+      "sentence": "In conclusion, the Namo Laxmi Yojana is an ambitious and impactful welfare scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5098041296005249,
+      "similarities": {
+        "ContextObjective": 0.5098041296005249,
+        "BenefitsAssistance": 0.4280168116092682,
+        "Eligibility": 0.4617520272731781,
+        "ApplicationProcess": 0.3970945179462433,
+        "TimelineFrequency": 0.3655978739261627,
+        "AuthoritiesGovernance": 0.37573277950286865,
+        "DefinitionsReferences": 0.3638851046562195
+      }
+    },
+    {
+      "sentence": "It aims to transform the lives of women by providing them with essential financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.497539758682251,
+      "similarities": {
+        "ContextObjective": 0.497539758682251,
+        "BenefitsAssistance": 0.49508997797966003,
+        "Eligibility": 0.44667187333106995,
+        "ApplicationProcess": 0.4017365276813507,
+        "TimelineFrequency": 0.38488689064979553,
+        "AuthoritiesGovernance": 0.40421488881111145,
+        "DefinitionsReferences": 0.38314923644065857
+      }
+    },
+    {
+      "sentence": "The scheme's success will depend on effective implementation and outreach efforts.",
+      "role": "ContextObjective",
+      "confidence": 0.5744950771331787,
+      "similarities": {
+        "ContextObjective": 0.5744950771331787,
+        "BenefitsAssistance": 0.4328739047050476,
+        "Eligibility": 0.510035514831543,
+        "ApplicationProcess": 0.48193246126174927,
+        "TimelineFrequency": 0.4207081198692322,
+        "AuthoritiesGovernance": 0.5594867467880249,
+        "DefinitionsReferences": 0.4077218472957611
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to ensuring that the benefits reach those who need them the most.",
+      "role": "Eligibility",
+      "confidence": 0.4932172894477844,
+      "similarities": {
+        "ContextObjective": 0.4618877172470093,
+        "BenefitsAssistance": 0.4815483093261719,
+        "Eligibility": 0.4932172894477844,
+        "ApplicationProcess": 0.40355515480041504,
+        "TimelineFrequency": 0.369706392288208,
+        "AuthoritiesGovernance": 0.478450208902359,
+        "DefinitionsReferences": 0.38528186082839966
+      }
+    },
+    {
+      "sentence": "The Namo Laxmi Yojana is a significant stride towards achieving gender parity in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.4158448576927185,
+      "similarities": {
+        "ContextObjective": 0.4158448576927185,
+        "BenefitsAssistance": 0.36326923966407776,
+        "Eligibility": 0.40260159969329834,
+        "ApplicationProcess": 0.39874500036239624,
+        "TimelineFrequency": 0.3588096499443054,
+        "AuthoritiesGovernance": 0.36358773708343506,
+        "DefinitionsReferences": 0.3495646119117737
+      }
+    },
+    {
+      "sentence": "It is a clear indication of the government's commitment to women's rights and empowerment.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4192821681499481,
+      "similarities": {
+        "ContextObjective": 0.4148428738117218,
+        "BenefitsAssistance": 0.38787180185317993,
+        "Eligibility": 0.40276995301246643,
+        "ApplicationProcess": 0.3687018156051636,
+        "TimelineFrequency": 0.3583862781524658,
+        "AuthoritiesGovernance": 0.4182857871055603,
+        "DefinitionsReferences": 0.4192821681499481
+      }
+    },
+    {
+      "sentence": "The initiative is expected to foster a culture of self-reliance among women in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4254668951034546,
+      "similarities": {
+        "ContextObjective": 0.4254668951034546,
+        "BenefitsAssistance": 0.36494821310043335,
+        "Eligibility": 0.3852822184562683,
+        "ApplicationProcess": 0.3548166751861572,
+        "TimelineFrequency": 0.33792221546173096,
+        "AuthoritiesGovernance": 0.39831244945526123,
+        "DefinitionsReferences": 0.34597450494766235
+      }
+    },
+    {
+      "sentence": "The scheme is a critical step in the ongoing journey towards women's equality in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5046147704124451,
+      "similarities": {
+        "ContextObjective": 0.5046147704124451,
+        "BenefitsAssistance": 0.36663734912872314,
+        "Eligibility": 0.4240491986274719,
+        "ApplicationProcess": 0.43015265464782715,
+        "TimelineFrequency": 0.3658936619758606,
+        "AuthoritiesGovernance": 0.39439910650253296,
+        "DefinitionsReferences": 0.3523978590965271
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 28,
+    "Eligibility": 15,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 3,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:34:25.238240"
+}

@@ -1,0 +1,967 @@
+{
+  "scheme_name": "Foster Care Scheme (Vatsalaya)",
+  "total_sentences": 68,
+  "labeled_sentences": [
+    {
+      "sentence": "The Foster Care Scheme known as Vatsalaya was launched by the Government of India in the year 2009.",
+      "role": "ContextObjective",
+      "confidence": 0.5459372997283936,
+      "similarities": {
+        "ContextObjective": 0.5459372997283936,
+        "BenefitsAssistance": 0.4051559865474701,
+        "Eligibility": 0.4523443877696991,
+        "ApplicationProcess": 0.4203386902809143,
+        "TimelineFrequency": 0.4034920334815979,
+        "AuthoritiesGovernance": 0.4131414294242859,
+        "DefinitionsReferences": 0.37658047676086426
+      }
+    },
+    {
+      "sentence": "This scheme was introduced under the Integrated Child Protection Scheme (ICPS).",
+      "role": "ContextObjective",
+      "confidence": 0.4844628572463989,
+      "similarities": {
+        "ContextObjective": 0.4844628572463989,
+        "BenefitsAssistance": 0.43211829662323,
+        "Eligibility": 0.45083779096603394,
+        "ApplicationProcess": 0.42263728380203247,
+        "TimelineFrequency": 0.3759975731372833,
+        "AuthoritiesGovernance": 0.4157129228115082,
+        "DefinitionsReferences": 0.34212514758110046
+      }
+    },
+    {
+      "sentence": "The primary objective of the Vatsalaya scheme is to provide a safe and nurturing environment for orphaned and abandoned children.",
+      "role": "ContextObjective",
+      "confidence": 0.5548884272575378,
+      "similarities": {
+        "ContextObjective": 0.5548884272575378,
+        "BenefitsAssistance": 0.32923412322998047,
+        "Eligibility": 0.42769530415534973,
+        "ApplicationProcess": 0.3776874542236328,
+        "TimelineFrequency": 0.3572258949279785,
+        "AuthoritiesGovernance": 0.38308772444725037,
+        "DefinitionsReferences": 0.3188498020172119
+      }
+    },
+    {
+      "sentence": "The scheme aims to promote family-based care for children who are unable to live with their biological families.",
+      "role": "ContextObjective",
+      "confidence": 0.4981154203414917,
+      "similarities": {
+        "ContextObjective": 0.4981154203414917,
+        "BenefitsAssistance": 0.4031185209751129,
+        "Eligibility": 0.4923548400402069,
+        "ApplicationProcess": 0.4018082618713379,
+        "TimelineFrequency": 0.3738272190093994,
+        "AuthoritiesGovernance": 0.3556084930896759,
+        "DefinitionsReferences": 0.345711350440979
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme is designed to ensure that children receive emotional support and stability in a family setting.",
+      "role": "ContextObjective",
+      "confidence": 0.5138838291168213,
+      "similarities": {
+        "ContextObjective": 0.5138838291168213,
+        "BenefitsAssistance": 0.4449978470802307,
+        "Eligibility": 0.4709005057811737,
+        "ApplicationProcess": 0.4167829155921936,
+        "TimelineFrequency": 0.4126002788543701,
+        "AuthoritiesGovernance": 0.42308509349823,
+        "DefinitionsReferences": 0.3671523928642273
+      }
+    },
+    {
+      "sentence": "The scheme targets children who are in need of care and protection.",
+      "role": "ContextObjective",
+      "confidence": 0.5641146302223206,
+      "similarities": {
+        "ContextObjective": 0.5641146302223206,
+        "BenefitsAssistance": 0.4836367070674896,
+        "Eligibility": 0.5561649799346924,
+        "ApplicationProcess": 0.46480023860931396,
+        "TimelineFrequency": 0.44998419284820557,
+        "AuthoritiesGovernance": 0.4286523461341858,
+        "DefinitionsReferences": 0.3800275921821594
+      }
+    },
+    {
+      "sentence": "This includes children who are orphaned, abandoned, or surrendered.",
+      "role": "Eligibility",
+      "confidence": 0.4982421398162842,
+      "similarities": {
+        "ContextObjective": 0.43468615412712097,
+        "BenefitsAssistance": 0.4335744380950928,
+        "Eligibility": 0.4982421398162842,
+        "ApplicationProcess": 0.41873079538345337,
+        "TimelineFrequency": 0.44001683592796326,
+        "AuthoritiesGovernance": 0.43526190519332886,
+        "DefinitionsReferences": 0.41165465116500854
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme is aligned with the Juvenile Justice (Care and Protection of Children) Act, 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.43742668628692627,
+      "similarities": {
+        "ContextObjective": 0.43742668628692627,
+        "BenefitsAssistance": 0.3343808650970459,
+        "Eligibility": 0.42002633213996887,
+        "ApplicationProcess": 0.38103634119033813,
+        "TimelineFrequency": 0.3407164216041565,
+        "AuthoritiesGovernance": 0.39351886510849,
+        "DefinitionsReferences": 0.37860924005508423
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce the number of children living in institutional care.",
+      "role": "ContextObjective",
+      "confidence": 0.47861698269844055,
+      "similarities": {
+        "ContextObjective": 0.47861698269844055,
+        "BenefitsAssistance": 0.38966837525367737,
+        "Eligibility": 0.4642903506755829,
+        "ApplicationProcess": 0.41196221113204956,
+        "TimelineFrequency": 0.37491071224212646,
+        "AuthoritiesGovernance": 0.42130476236343384,
+        "DefinitionsReferences": 0.31999966502189636
+      }
+    },
+    {
+      "sentence": "The measurable target of the scheme is to increase the number of children placed in foster care by 20 percent annually.",
+      "role": "ContextObjective",
+      "confidence": 0.43134838342666626,
+      "similarities": {
+        "ContextObjective": 0.43134838342666626,
+        "BenefitsAssistance": 0.36178070306777954,
+        "Eligibility": 0.4098626971244812,
+        "ApplicationProcess": 0.3455258309841156,
+        "TimelineFrequency": 0.3628261089324951,
+        "AuthoritiesGovernance": 0.32874852418899536,
+        "DefinitionsReferences": 0.30357086658477783
+      }
+    },
+    {
+      "sentence": "The scheme also aims to provide financial assistance to foster families.",
+      "role": "ContextObjective",
+      "confidence": 0.525326132774353,
+      "similarities": {
+        "ContextObjective": 0.525326132774353,
+        "BenefitsAssistance": 0.5058482885360718,
+        "Eligibility": 0.5005536675453186,
+        "ApplicationProcess": 0.42993950843811035,
+        "TimelineFrequency": 0.4181150197982788,
+        "AuthoritiesGovernance": 0.37168702483177185,
+        "DefinitionsReferences": 0.3670765161514282
+      }
+    },
+    {
+      "sentence": "Foster parents receive a monthly stipend to help cover the costs of raising the child.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.535246729850769,
+      "similarities": {
+        "ContextObjective": 0.4223485589027405,
+        "BenefitsAssistance": 0.535246729850769,
+        "Eligibility": 0.4701184332370758,
+        "ApplicationProcess": 0.42402148246765137,
+        "TimelineFrequency": 0.4389909505844116,
+        "AuthoritiesGovernance": 0.3965573012828827,
+        "DefinitionsReferences": 0.3901955485343933
+      }
+    },
+    {
+      "sentence": "As of 2023, the monthly financial assistance provided to foster parents is ₹6,000 per child.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5164230465888977,
+      "similarities": {
+        "ContextObjective": 0.41681763529777527,
+        "BenefitsAssistance": 0.5164230465888977,
+        "Eligibility": 0.45437929034233093,
+        "ApplicationProcess": 0.4004262685775757,
+        "TimelineFrequency": 0.39895814657211304,
+        "AuthoritiesGovernance": 0.36365336179733276,
+        "DefinitionsReferences": 0.37701427936553955
+      }
+    },
+    {
+      "sentence": "This amount is intended to support the basic needs of the child including food, clothing, and education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5743970274925232,
+      "similarities": {
+        "ContextObjective": 0.4715239107608795,
+        "BenefitsAssistance": 0.5743970274925232,
+        "Eligibility": 0.47380608320236206,
+        "ApplicationProcess": 0.42638421058654785,
+        "TimelineFrequency": 0.42715704441070557,
+        "AuthoritiesGovernance": 0.4252875745296478,
+        "DefinitionsReferences": 0.43368959426879883
+      }
+    },
+    {
+      "sentence": "In addition to financial support, the scheme provides training and support to foster parents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5091638565063477,
+      "similarities": {
+        "ContextObjective": 0.47219422459602356,
+        "BenefitsAssistance": 0.5091638565063477,
+        "Eligibility": 0.439858615398407,
+        "ApplicationProcess": 0.4098494350910187,
+        "TimelineFrequency": 0.4155246615409851,
+        "AuthoritiesGovernance": 0.39876115322113037,
+        "DefinitionsReferences": 0.4320172071456909
+      }
+    },
+    {
+      "sentence": "This training includes parenting skills and understanding the emotional needs of children.",
+      "role": "ContextObjective",
+      "confidence": 0.45253556966781616,
+      "similarities": {
+        "ContextObjective": 0.45253556966781616,
+        "BenefitsAssistance": 0.44389718770980835,
+        "Eligibility": 0.42863720655441284,
+        "ApplicationProcess": 0.41217225790023804,
+        "TimelineFrequency": 0.43917781114578247,
+        "AuthoritiesGovernance": 0.4212191700935364,
+        "DefinitionsReferences": 0.42495661973953247
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for becoming a foster parent under the Vatsalaya scheme include being at least 25 years of age.",
+      "role": "Eligibility",
+      "confidence": 0.5674790740013123,
+      "similarities": {
+        "ContextObjective": 0.4655875563621521,
+        "BenefitsAssistance": 0.4275375008583069,
+        "Eligibility": 0.5674790740013123,
+        "ApplicationProcess": 0.5016971826553345,
+        "TimelineFrequency": 0.4780370593070984,
+        "AuthoritiesGovernance": 0.3612782657146454,
+        "DefinitionsReferences": 0.3881738483905792
+      }
+    },
+    {
+      "sentence": "Foster parents must also be financially stable and able to provide a safe and nurturing environment.",
+      "role": "Eligibility",
+      "confidence": 0.509809136390686,
+      "similarities": {
+        "ContextObjective": 0.407545804977417,
+        "BenefitsAssistance": 0.46384358406066895,
+        "Eligibility": 0.509809136390686,
+        "ApplicationProcess": 0.43701934814453125,
+        "TimelineFrequency": 0.3876667618751526,
+        "AuthoritiesGovernance": 0.35875555872917175,
+        "DefinitionsReferences": 0.39101332426071167
+      }
+    },
+    {
+      "sentence": "There is no specific upper age limit for foster parents.",
+      "role": "Eligibility",
+      "confidence": 0.4708472490310669,
+      "similarities": {
+        "ContextObjective": 0.3538696765899658,
+        "BenefitsAssistance": 0.383026123046875,
+        "Eligibility": 0.4708472490310669,
+        "ApplicationProcess": 0.3538038432598114,
+        "TimelineFrequency": 0.37199607491493225,
+        "AuthoritiesGovernance": 0.3246224522590637,
+        "DefinitionsReferences": 0.3158875107765198
+      }
+    },
+    {
+      "sentence": "The income criteria for foster parents is set at a maximum of ₹1 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.48715466260910034,
+      "similarities": {
+        "ContextObjective": 0.40424519777297974,
+        "BenefitsAssistance": 0.43086183071136475,
+        "Eligibility": 0.48715466260910034,
+        "ApplicationProcess": 0.3951265513896942,
+        "TimelineFrequency": 0.37062400579452515,
+        "AuthoritiesGovernance": 0.30810436606407166,
+        "DefinitionsReferences": 0.3494448661804199
+      }
+    },
+    {
+      "sentence": "This ensures that the scheme targets families who genuinely need assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.5221494436264038,
+      "similarities": {
+        "ContextObjective": 0.5221494436264038,
+        "BenefitsAssistance": 0.4673951268196106,
+        "Eligibility": 0.5147272348403931,
+        "ApplicationProcess": 0.4165536165237427,
+        "TimelineFrequency": 0.4004732668399811,
+        "AuthoritiesGovernance": 0.3843744397163391,
+        "DefinitionsReferences": 0.3111727833747864
+      }
+    },
+    {
+      "sentence": "Potential foster parents must also undergo a background check.",
+      "role": "Eligibility",
+      "confidence": 0.5762336254119873,
+      "similarities": {
+        "ContextObjective": 0.4206227958202362,
+        "BenefitsAssistance": 0.4549850821495056,
+        "Eligibility": 0.5762336254119873,
+        "ApplicationProcess": 0.5697922706604004,
+        "TimelineFrequency": 0.4583643972873688,
+        "AuthoritiesGovernance": 0.38378089666366577,
+        "DefinitionsReferences": 0.44876232743263245
+      }
+    },
+    {
+      "sentence": "This includes verification of their criminal record and social background.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5785864591598511,
+      "similarities": {
+        "ContextObjective": 0.47594812512397766,
+        "BenefitsAssistance": 0.491347998380661,
+        "Eligibility": 0.5578082799911499,
+        "ApplicationProcess": 0.5785864591598511,
+        "TimelineFrequency": 0.4666961133480072,
+        "AuthoritiesGovernance": 0.43769386410713196,
+        "DefinitionsReferences": 0.5025510191917419
+      }
+    },
+    {
+      "sentence": "The application process for becoming a foster parent involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7012333869934082,
+      "similarities": {
+        "ContextObjective": 0.5264453887939453,
+        "BenefitsAssistance": 0.5101717710494995,
+        "Eligibility": 0.5932189226150513,
+        "ApplicationProcess": 0.7012333869934082,
+        "TimelineFrequency": 0.603898286819458,
+        "AuthoritiesGovernance": 0.47344082593917847,
+        "DefinitionsReferences": 0.5051969289779663
+      }
+    },
+    {
+      "sentence": "First, interested individuals must fill out an application form available at the local Child Welfare Committee (CWC).",
+      "role": "ApplicationProcess",
+      "confidence": 0.6009224653244019,
+      "similarities": {
+        "ContextObjective": 0.45651373267173767,
+        "BenefitsAssistance": 0.42655783891677856,
+        "Eligibility": 0.5250053405761719,
+        "ApplicationProcess": 0.6009224653244019,
+        "TimelineFrequency": 0.45806124806404114,
+        "AuthoritiesGovernance": 0.4145621359348297,
+        "DefinitionsReferences": 0.37310242652893066
+      }
+    },
+    {
+      "sentence": "The application form requires personal details including age, income, and family background.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6922527551651001,
+      "similarities": {
+        "ContextObjective": 0.5030646324157715,
+        "BenefitsAssistance": 0.5936715602874756,
+        "Eligibility": 0.6650955677032471,
+        "ApplicationProcess": 0.6922527551651001,
+        "TimelineFrequency": 0.5941553115844727,
+        "AuthoritiesGovernance": 0.45375341176986694,
+        "DefinitionsReferences": 0.5124645233154297
+      }
+    },
+    {
+      "sentence": "Applicants must also submit identification documents such as Aadhaar cards and income certificates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6396032571792603,
+      "similarities": {
+        "ContextObjective": 0.4462292790412903,
+        "BenefitsAssistance": 0.5276559591293335,
+        "Eligibility": 0.5468299388885498,
+        "ApplicationProcess": 0.6396032571792603,
+        "TimelineFrequency": 0.5074864625930786,
+        "AuthoritiesGovernance": 0.4139016568660736,
+        "DefinitionsReferences": 0.4853370189666748
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the CWC.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6161094903945923,
+      "similarities": {
+        "ContextObjective": 0.4621184766292572,
+        "BenefitsAssistance": 0.4414769411087036,
+        "Eligibility": 0.5088241100311279,
+        "ApplicationProcess": 0.6161094903945923,
+        "TimelineFrequency": 0.5457230806350708,
+        "AuthoritiesGovernance": 0.44943559169769287,
+        "DefinitionsReferences": 0.4377945065498352
+      }
+    },
+    {
+      "sentence": "The CWC conducts a home study to assess the suitability of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5301470756530762,
+      "similarities": {
+        "ContextObjective": 0.4429053068161011,
+        "BenefitsAssistance": 0.4289867579936981,
+        "Eligibility": 0.513556957244873,
+        "ApplicationProcess": 0.5301470756530762,
+        "TimelineFrequency": 0.4655161499977112,
+        "AuthoritiesGovernance": 0.3581017255783081,
+        "DefinitionsReferences": 0.4019491970539093
+      }
+    },
+    {
+      "sentence": "This home study includes interviews with the applicant and their family members.",
+      "role": "Eligibility",
+      "confidence": 0.5073236227035522,
+      "similarities": {
+        "ContextObjective": 0.4354512095451355,
+        "BenefitsAssistance": 0.45382726192474365,
+        "Eligibility": 0.5073236227035522,
+        "ApplicationProcess": 0.5069705843925476,
+        "TimelineFrequency": 0.44981372356414795,
+        "AuthoritiesGovernance": 0.38629066944122314,
+        "DefinitionsReferences": 0.4010668396949768
+      }
+    },
+    {
+      "sentence": "After the assessment, the CWC makes a recommendation regarding the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5557388067245483,
+      "similarities": {
+        "ContextObjective": 0.4657605290412903,
+        "BenefitsAssistance": 0.4418941140174866,
+        "Eligibility": 0.4944581985473633,
+        "ApplicationProcess": 0.5557388067245483,
+        "TimelineFrequency": 0.517413318157196,
+        "AuthoritiesGovernance": 0.4255427420139313,
+        "DefinitionsReferences": 0.44615280628204346
+      }
+    },
+    {
+      "sentence": "If approved, the foster parents are matched with a child in need of care.",
+      "role": "Eligibility",
+      "confidence": 0.5760829448699951,
+      "similarities": {
+        "ContextObjective": 0.4407598078250885,
+        "BenefitsAssistance": 0.4866418242454529,
+        "Eligibility": 0.5760829448699951,
+        "ApplicationProcess": 0.519595205783844,
+        "TimelineFrequency": 0.47610488533973694,
+        "AuthoritiesGovernance": 0.41038113832473755,
+        "DefinitionsReferences": 0.3835297226905823
+      }
+    },
+    {
+      "sentence": "The entire application process can take up to three months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6355513334274292,
+      "similarities": {
+        "ContextObjective": 0.48331159353256226,
+        "BenefitsAssistance": 0.4946707487106323,
+        "Eligibility": 0.5572865009307861,
+        "ApplicationProcess": 0.622722864151001,
+        "TimelineFrequency": 0.6355513334274292,
+        "AuthoritiesGovernance": 0.44811609387397766,
+        "DefinitionsReferences": 0.45150476694107056
+      }
+    },
+    {
+      "sentence": "Once a child is placed in a foster home, regular monitoring is conducted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5134859681129456,
+      "similarities": {
+        "ContextObjective": 0.4339580833911896,
+        "BenefitsAssistance": 0.4832078814506531,
+        "Eligibility": 0.4884316623210907,
+        "ApplicationProcess": 0.5134859681129456,
+        "TimelineFrequency": 0.47106966376304626,
+        "AuthoritiesGovernance": 0.44533732533454895,
+        "DefinitionsReferences": 0.443528413772583
+      }
+    },
+    {
+      "sentence": "Social workers visit the foster family to ensure the well-being of the child.",
+      "role": "Eligibility",
+      "confidence": 0.43882185220718384,
+      "similarities": {
+        "ContextObjective": 0.38068071007728577,
+        "BenefitsAssistance": 0.4095335900783539,
+        "Eligibility": 0.43882185220718384,
+        "ApplicationProcess": 0.42729389667510986,
+        "TimelineFrequency": 0.3545612692832947,
+        "AuthoritiesGovernance": 0.3920630216598511,
+        "DefinitionsReferences": 0.3616774082183838
+      }
+    },
+    {
+      "sentence": "The frequency of these visits is typically once every three months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49847525358200073,
+      "similarities": {
+        "ContextObjective": 0.40907204151153564,
+        "BenefitsAssistance": 0.376548707485199,
+        "Eligibility": 0.3870295286178589,
+        "ApplicationProcess": 0.40443649888038635,
+        "TimelineFrequency": 0.49847525358200073,
+        "AuthoritiesGovernance": 0.3792932331562042,
+        "DefinitionsReferences": 0.3695780038833618
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme also emphasizes the importance of education for foster children.",
+      "role": "ContextObjective",
+      "confidence": 0.4506262540817261,
+      "similarities": {
+        "ContextObjective": 0.4506262540817261,
+        "BenefitsAssistance": 0.3516552448272705,
+        "Eligibility": 0.3707714080810547,
+        "ApplicationProcess": 0.3543325364589691,
+        "TimelineFrequency": 0.3448517322540283,
+        "AuthoritiesGovernance": 0.3064984381198883,
+        "DefinitionsReferences": 0.3348598778247833
+      }
+    },
+    {
+      "sentence": "Foster parents are encouraged to enroll children in local schools.",
+      "role": "Eligibility",
+      "confidence": 0.5055404901504517,
+      "similarities": {
+        "ContextObjective": 0.47573190927505493,
+        "BenefitsAssistance": 0.4242091178894043,
+        "Eligibility": 0.5055404901504517,
+        "ApplicationProcess": 0.46790510416030884,
+        "TimelineFrequency": 0.4463847875595093,
+        "AuthoritiesGovernance": 0.42824071645736694,
+        "DefinitionsReferences": 0.4059222936630249
+      }
+    },
+    {
+      "sentence": "The scheme provides additional educational support for children who may have learning difficulties.",
+      "role": "ContextObjective",
+      "confidence": 0.5379941463470459,
+      "similarities": {
+        "ContextObjective": 0.5379941463470459,
+        "BenefitsAssistance": 0.5089068412780762,
+        "Eligibility": 0.4998723268508911,
+        "ApplicationProcess": 0.4337080121040344,
+        "TimelineFrequency": 0.4456900954246521,
+        "AuthoritiesGovernance": 0.39476945996284485,
+        "DefinitionsReferences": 0.4159191846847534
+      }
+    },
+    {
+      "sentence": "This includes access to tutoring and special education services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5782805681228638,
+      "similarities": {
+        "ContextObjective": 0.46795332431793213,
+        "BenefitsAssistance": 0.5782805681228638,
+        "Eligibility": 0.5048642158508301,
+        "ApplicationProcess": 0.46109330654144287,
+        "TimelineFrequency": 0.484754741191864,
+        "AuthoritiesGovernance": 0.4444625973701477,
+        "DefinitionsReferences": 0.49228906631469727
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Vatsalaya scheme is the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5532567501068115,
+      "similarities": {
+        "ContextObjective": 0.4195499122142792,
+        "BenefitsAssistance": 0.3575056791305542,
+        "Eligibility": 0.44274967908859253,
+        "ApplicationProcess": 0.3682340383529663,
+        "TimelineFrequency": 0.35467106103897095,
+        "AuthoritiesGovernance": 0.5532567501068115,
+        "DefinitionsReferences": 0.36094605922698975
+      }
+    },
+    {
+      "sentence": "Each state has its own Child Welfare Committee responsible for overseeing the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5684271454811096,
+      "similarities": {
+        "ContextObjective": 0.48377305269241333,
+        "BenefitsAssistance": 0.4321630001068115,
+        "Eligibility": 0.47979456186294556,
+        "ApplicationProcess": 0.41423091292381287,
+        "TimelineFrequency": 0.378652960062027,
+        "AuthoritiesGovernance": 0.5684271454811096,
+        "DefinitionsReferences": 0.39798620343208313
+      }
+    },
+    {
+      "sentence": "The contact details for the Ministry of Women and Child Development can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.52275550365448,
+      "similarities": {
+        "ContextObjective": 0.419150710105896,
+        "BenefitsAssistance": 0.4637452960014343,
+        "Eligibility": 0.4390247166156769,
+        "ApplicationProcess": 0.4753626585006714,
+        "TimelineFrequency": 0.4186745285987854,
+        "AuthoritiesGovernance": 0.52275550365448,
+        "DefinitionsReferences": 0.4545653760433197
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme has successfully placed over 10,000 children in foster care across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4357592463493347,
+      "similarities": {
+        "ContextObjective": 0.4357592463493347,
+        "BenefitsAssistance": 0.36406636238098145,
+        "Eligibility": 0.42588329315185547,
+        "ApplicationProcess": 0.35540515184402466,
+        "TimelineFrequency": 0.3360380232334137,
+        "AuthoritiesGovernance": 0.33067893981933594,
+        "DefinitionsReferences": 0.32648080587387085
+      }
+    },
+    {
+      "sentence": "The government aims to increase this number significantly in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.49843230843544006,
+      "similarities": {
+        "ContextObjective": 0.49843230843544006,
+        "BenefitsAssistance": 0.4535958766937256,
+        "Eligibility": 0.455811083316803,
+        "ApplicationProcess": 0.4373016357421875,
+        "TimelineFrequency": 0.43355393409729004,
+        "AuthoritiesGovernance": 0.4367409944534302,
+        "DefinitionsReferences": 0.41224634647369385
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme is part of a broader initiative to improve child welfare in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48551416397094727,
+      "similarities": {
+        "ContextObjective": 0.48551416397094727,
+        "BenefitsAssistance": 0.3818199038505554,
+        "Eligibility": 0.4343167841434479,
+        "ApplicationProcess": 0.3712694048881531,
+        "TimelineFrequency": 0.352383017539978,
+        "AuthoritiesGovernance": 0.4429367184638977,
+        "DefinitionsReferences": 0.3445652723312378
+      }
+    },
+    {
+      "sentence": "This includes various programs aimed at reducing child labor and trafficking.",
+      "role": "Eligibility",
+      "confidence": 0.44400525093078613,
+      "similarities": {
+        "ContextObjective": 0.43864262104034424,
+        "BenefitsAssistance": 0.4188205599784851,
+        "Eligibility": 0.44400525093078613,
+        "ApplicationProcess": 0.40605390071868896,
+        "TimelineFrequency": 0.40795624256134033,
+        "AuthoritiesGovernance": 0.4433537423610687,
+        "DefinitionsReferences": 0.3986334204673767
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various child rights organizations.",
+      "role": "ContextObjective",
+      "confidence": 0.5032750964164734,
+      "similarities": {
+        "ContextObjective": 0.5032750964164734,
+        "BenefitsAssistance": 0.42020225524902344,
+        "Eligibility": 0.4731414020061493,
+        "ApplicationProcess": 0.40703755617141724,
+        "TimelineFrequency": 0.374620258808136,
+        "AuthoritiesGovernance": 0.4495196044445038,
+        "DefinitionsReferences": 0.41469281911849976
+      }
+    },
+    {
+      "sentence": "They have noted the importance of family-based care for the emotional and psychological development of children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.38575536012649536,
+      "similarities": {
+        "ContextObjective": 0.3691474199295044,
+        "BenefitsAssistance": 0.38575536012649536,
+        "Eligibility": 0.3674214780330658,
+        "ApplicationProcess": 0.32845279574394226,
+        "TimelineFrequency": 0.3414286673069,
+        "AuthoritiesGovernance": 0.2908233404159546,
+        "DefinitionsReferences": 0.3733542561531067
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme also includes provisions for regular training workshops for foster parents.",
+      "role": "Eligibility",
+      "confidence": 0.4090697169303894,
+      "similarities": {
+        "ContextObjective": 0.40742069482803345,
+        "BenefitsAssistance": 0.37655067443847656,
+        "Eligibility": 0.4090697169303894,
+        "ApplicationProcess": 0.38304343819618225,
+        "TimelineFrequency": 0.38956066966056824,
+        "AuthoritiesGovernance": 0.40076613426208496,
+        "DefinitionsReferences": 0.3935135006904602
+      }
+    },
+    {
+      "sentence": "These workshops cover topics such as child psychology and conflict resolution.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46920642256736755,
+      "similarities": {
+        "ContextObjective": 0.44360828399658203,
+        "BenefitsAssistance": 0.4116706848144531,
+        "Eligibility": 0.4017062783241272,
+        "ApplicationProcess": 0.3687489926815033,
+        "TimelineFrequency": 0.4440118968486786,
+        "AuthoritiesGovernance": 0.46920642256736755,
+        "DefinitionsReferences": 0.4390913248062134
+      }
+    },
+    {
+      "sentence": "The government collaborates with NGOs to provide these training sessions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5535286664962769,
+      "similarities": {
+        "ContextObjective": 0.4905044734477997,
+        "BenefitsAssistance": 0.42109453678131104,
+        "Eligibility": 0.4555225670337677,
+        "ApplicationProcess": 0.4250192940235138,
+        "TimelineFrequency": 0.42425405979156494,
+        "AuthoritiesGovernance": 0.5535286664962769,
+        "DefinitionsReferences": 0.4559286832809448
+      }
+    },
+    {
+      "sentence": "The scheme has also introduced a helpline for foster parents to seek advice and support.",
+      "role": "ContextObjective",
+      "confidence": 0.4573267102241516,
+      "similarities": {
+        "ContextObjective": 0.4573267102241516,
+        "BenefitsAssistance": 0.4391723871231079,
+        "Eligibility": 0.43965840339660645,
+        "ApplicationProcess": 0.42673584818840027,
+        "TimelineFrequency": 0.399924635887146,
+        "AuthoritiesGovernance": 0.3901456296443939,
+        "DefinitionsReferences": 0.36022132635116577
+      }
+    },
+    {
+      "sentence": "This helpline is available 24/7 and is staffed by trained professionals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46386057138442993,
+      "similarities": {
+        "ContextObjective": 0.4182310104370117,
+        "BenefitsAssistance": 0.46386057138442993,
+        "Eligibility": 0.4418766498565674,
+        "ApplicationProcess": 0.45076632499694824,
+        "TimelineFrequency": 0.4190676808357239,
+        "AuthoritiesGovernance": 0.44994300603866577,
+        "DefinitionsReferences": 0.396351158618927
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme is a significant step towards ensuring the rights of children in India.",
+      "role": "ContextObjective",
+      "confidence": 0.48725324869155884,
+      "similarities": {
+        "ContextObjective": 0.48725324869155884,
+        "BenefitsAssistance": 0.3719528615474701,
+        "Eligibility": 0.46137309074401855,
+        "ApplicationProcess": 0.4263114333152771,
+        "TimelineFrequency": 0.3628818690776825,
+        "AuthoritiesGovernance": 0.4318655729293823,
+        "DefinitionsReferences": 0.3830147981643677
+      }
+    },
+    {
+      "sentence": "It recognizes the importance of a family environment in the upbringing of children.",
+      "role": "Eligibility",
+      "confidence": 0.412203311920166,
+      "similarities": {
+        "ContextObjective": 0.3938884437084198,
+        "BenefitsAssistance": 0.35042935609817505,
+        "Eligibility": 0.412203311920166,
+        "ApplicationProcess": 0.355669766664505,
+        "TimelineFrequency": 0.35914796590805054,
+        "AuthoritiesGovernance": 0.33879971504211426,
+        "DefinitionsReferences": 0.3765239715576172
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create awareness about the need for foster care in society.",
+      "role": "ContextObjective",
+      "confidence": 0.5746297240257263,
+      "similarities": {
+        "ContextObjective": 0.5746297240257263,
+        "BenefitsAssistance": 0.39488810300827026,
+        "Eligibility": 0.4509316682815552,
+        "ApplicationProcess": 0.4349099397659302,
+        "TimelineFrequency": 0.3798668384552002,
+        "AuthoritiesGovernance": 0.34561243653297424,
+        "DefinitionsReferences": 0.3460947275161743
+      }
+    },
+    {
+      "sentence": "Public campaigns are conducted to encourage more families to consider fostering.",
+      "role": "ContextObjective",
+      "confidence": 0.46553730964660645,
+      "similarities": {
+        "ContextObjective": 0.46553730964660645,
+        "BenefitsAssistance": 0.39794695377349854,
+        "Eligibility": 0.44599366188049316,
+        "ApplicationProcess": 0.42413729429244995,
+        "TimelineFrequency": 0.39439380168914795,
+        "AuthoritiesGovernance": 0.38581687211990356,
+        "DefinitionsReferences": 0.3775615096092224
+      }
+    },
+    {
+      "sentence": "The government provides resources and information to help families understand the process.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5975666046142578,
+      "similarities": {
+        "ContextObjective": 0.5250457525253296,
+        "BenefitsAssistance": 0.5975666046142578,
+        "Eligibility": 0.5722386837005615,
+        "ApplicationProcess": 0.5661609172821045,
+        "TimelineFrequency": 0.5098625421524048,
+        "AuthoritiesGovernance": 0.5729225873947144,
+        "DefinitionsReferences": 0.540672779083252
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme is a crucial component of India’s commitment to child welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.462181031703949,
+      "similarities": {
+        "ContextObjective": 0.462181031703949,
+        "BenefitsAssistance": 0.36761796474456787,
+        "Eligibility": 0.4373357892036438,
+        "ApplicationProcess": 0.37721508741378784,
+        "TimelineFrequency": 0.3544210195541382,
+        "AuthoritiesGovernance": 0.3960235118865967,
+        "DefinitionsReferences": 0.3501155376434326
+      }
+    },
+    {
+      "sentence": "It reflects the country’s dedication to providing a better future for vulnerable children.",
+      "role": "ContextObjective",
+      "confidence": 0.45607760548591614,
+      "similarities": {
+        "ContextObjective": 0.45607760548591614,
+        "BenefitsAssistance": 0.3703455924987793,
+        "Eligibility": 0.4225139021873474,
+        "ApplicationProcess": 0.37137532234191895,
+        "TimelineFrequency": 0.33372223377227783,
+        "AuthoritiesGovernance": 0.3459474742412567,
+        "DefinitionsReferences": 0.34523144364356995
+      }
+    },
+    {
+      "sentence": "The scheme is continuously monitored and evaluated for its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5315619111061096,
+      "similarities": {
+        "ContextObjective": 0.5315619111061096,
+        "BenefitsAssistance": 0.4657406508922577,
+        "Eligibility": 0.48867088556289673,
+        "ApplicationProcess": 0.49593019485473633,
+        "TimelineFrequency": 0.47344738245010376,
+        "AuthoritiesGovernance": 0.48832473158836365,
+        "DefinitionsReferences": 0.4442344307899475
+      }
+    },
+    {
+      "sentence": "Feedback from foster parents and children is taken into account for improvements.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49825429916381836,
+      "similarities": {
+        "ContextObjective": 0.4645981192588806,
+        "BenefitsAssistance": 0.4730720520019531,
+        "Eligibility": 0.48685896396636963,
+        "ApplicationProcess": 0.4674457013607025,
+        "TimelineFrequency": 0.44988057017326355,
+        "AuthoritiesGovernance": 0.49825429916381836,
+        "DefinitionsReferences": 0.4579430818557739
+      }
+    },
+    {
+      "sentence": "In conclusion, the Vatsalaya scheme plays a vital role in promoting foster care in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4777231812477112,
+      "similarities": {
+        "ContextObjective": 0.4777231812477112,
+        "BenefitsAssistance": 0.34960800409317017,
+        "Eligibility": 0.4073803424835205,
+        "ApplicationProcess": 0.3674849271774292,
+        "TimelineFrequency": 0.33010387420654297,
+        "AuthoritiesGovernance": 0.36055219173431396,
+        "DefinitionsReferences": 0.36749956011772156
+      }
+    },
+    {
+      "sentence": "It provides essential support to both children and foster families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4814964234828949,
+      "similarities": {
+        "ContextObjective": 0.46818745136260986,
+        "BenefitsAssistance": 0.4814964234828949,
+        "Eligibility": 0.454267680644989,
+        "ApplicationProcess": 0.4064074158668518,
+        "TimelineFrequency": 0.41764676570892334,
+        "AuthoritiesGovernance": 0.38826584815979004,
+        "DefinitionsReferences": 0.43000468611717224
+      }
+    },
+    {
+      "sentence": "The scheme aims to create a nurturing environment for children in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5627747774124146,
+      "similarities": {
+        "ContextObjective": 0.5627747774124146,
+        "BenefitsAssistance": 0.38473960757255554,
+        "Eligibility": 0.486422061920166,
+        "ApplicationProcess": 0.41484206914901733,
+        "TimelineFrequency": 0.4023522734642029,
+        "AuthoritiesGovernance": 0.39017611742019653,
+        "DefinitionsReferences": 0.3507106602191925
+      }
+    },
+    {
+      "sentence": "Through financial assistance and training, it empowers foster parents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48301073908805847,
+      "similarities": {
+        "ContextObjective": 0.4139551520347595,
+        "BenefitsAssistance": 0.48301073908805847,
+        "Eligibility": 0.4496960937976837,
+        "ApplicationProcess": 0.39508575201034546,
+        "TimelineFrequency": 0.38789188861846924,
+        "AuthoritiesGovernance": 0.4082465171813965,
+        "DefinitionsReferences": 0.3902987539768219
+      }
+    },
+    {
+      "sentence": "The Vatsalaya scheme is a beacon of hope for many orphaned and abandoned children in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4891732335090637,
+      "similarities": {
+        "ContextObjective": 0.4891732335090637,
+        "BenefitsAssistance": 0.32774412631988525,
+        "Eligibility": 0.4195338785648346,
+        "ApplicationProcess": 0.3348797857761383,
+        "TimelineFrequency": 0.32716670632362366,
+        "AuthoritiesGovernance": 0.3500280976295471,
+        "DefinitionsReferences": 0.30494076013565063
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 28,
+    "Eligibility": 13,
+    "BenefitsAssistance": 10,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-25T20:48:15.495180"
+}

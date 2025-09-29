@@ -1,0 +1,771 @@
+{
+  "scheme_name": "Accident Assistance (K.B.O.C.W.W.B)",
+  "total_sentences": 54,
+  "labeled_sentences": [
+    {
+      "sentence": "The Accident Assistance Scheme under the Kerala Building and Other Construction Workers Welfare Board (K.B.O.C.W.W.B) was launched to provide financial assistance to construction workers in the event of accidents.",
+      "role": "ContextObjective",
+      "confidence": 0.4947580397129059,
+      "similarities": {
+        "ContextObjective": 0.4947580397129059,
+        "BenefitsAssistance": 0.4776005446910858,
+        "Eligibility": 0.47661396861076355,
+        "ApplicationProcess": 0.43201562762260437,
+        "TimelineFrequency": 0.40530550479888916,
+        "AuthoritiesGovernance": 0.4424275755882263,
+        "DefinitionsReferences": 0.38284504413604736
+      }
+    },
+    {
+      "sentence": "This scheme was initiated in the year 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.6128324866294861,
+      "similarities": {
+        "ContextObjective": 0.6128324866294861,
+        "BenefitsAssistance": 0.47700074315071106,
+        "Eligibility": 0.5161423683166504,
+        "ApplicationProcess": 0.5327802896499634,
+        "TimelineFrequency": 0.5135095119476318,
+        "AuthoritiesGovernance": 0.4579949378967285,
+        "DefinitionsReferences": 0.4321606159210205
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to offer immediate financial support to construction workers who suffer injuries due to accidents while on duty.",
+      "role": "ContextObjective",
+      "confidence": 0.521842360496521,
+      "similarities": {
+        "ContextObjective": 0.521842360496521,
+        "BenefitsAssistance": 0.4792598485946655,
+        "Eligibility": 0.43646466732025146,
+        "ApplicationProcess": 0.3958200216293335,
+        "TimelineFrequency": 0.3713962435722351,
+        "AuthoritiesGovernance": 0.37386101484298706,
+        "DefinitionsReferences": 0.32487180829048157
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that workers receive timely assistance to cover medical expenses and provide for their families during recovery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5587266087532043,
+      "similarities": {
+        "ContextObjective": 0.5140640735626221,
+        "BenefitsAssistance": 0.5587266087532043,
+        "Eligibility": 0.5019127726554871,
+        "ApplicationProcess": 0.45453310012817383,
+        "TimelineFrequency": 0.45983368158340454,
+        "AuthoritiesGovernance": 0.4466819167137146,
+        "DefinitionsReferences": 0.3715154826641083
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is structured based on the severity of the injury sustained.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5648573637008667,
+      "similarities": {
+        "ContextObjective": 0.45711785554885864,
+        "BenefitsAssistance": 0.5648573637008667,
+        "Eligibility": 0.5256033539772034,
+        "ApplicationProcess": 0.4534337520599365,
+        "TimelineFrequency": 0.45344415307044983,
+        "AuthoritiesGovernance": 0.43914109468460083,
+        "DefinitionsReferences": 0.4062838852405548
+      }
+    },
+    {
+      "sentence": "For minor injuries, the assistance amount is set at ₹25,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5067808032035828,
+      "similarities": {
+        "ContextObjective": 0.35380640625953674,
+        "BenefitsAssistance": 0.5067808032035828,
+        "Eligibility": 0.42721855640411377,
+        "ApplicationProcess": 0.38520920276641846,
+        "TimelineFrequency": 0.35450857877731323,
+        "AuthoritiesGovernance": 0.37577661871910095,
+        "DefinitionsReferences": 0.3631550669670105
+      }
+    },
+    {
+      "sentence": "In cases of major injuries, the assistance amount increases to ₹50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5059557557106018,
+      "similarities": {
+        "ContextObjective": 0.3813423812389374,
+        "BenefitsAssistance": 0.5059557557106018,
+        "Eligibility": 0.41454100608825684,
+        "ApplicationProcess": 0.383139431476593,
+        "TimelineFrequency": 0.3448878526687622,
+        "AuthoritiesGovernance": 0.3528329133987427,
+        "DefinitionsReferences": 0.3629886209964752
+      }
+    },
+    {
+      "sentence": "For severe injuries that result in permanent disability, the assistance can go up to ₹2,00,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5331556797027588,
+      "similarities": {
+        "ContextObjective": 0.3684297800064087,
+        "BenefitsAssistance": 0.5331556797027588,
+        "Eligibility": 0.4567050337791443,
+        "ApplicationProcess": 0.3665098547935486,
+        "TimelineFrequency": 0.3358718156814575,
+        "AuthoritiesGovernance": 0.35170045495033264,
+        "DefinitionsReferences": 0.3687104284763336
+      }
+    },
+    {
+      "sentence": "In the unfortunate event of death due to an accident, the family of the deceased worker is entitled to receive ₹5,00,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4446784257888794,
+      "similarities": {
+        "ContextObjective": 0.35423552989959717,
+        "BenefitsAssistance": 0.4446784257888794,
+        "Eligibility": 0.42347511649131775,
+        "ApplicationProcess": 0.35289591550827026,
+        "TimelineFrequency": 0.3173799514770508,
+        "AuthoritiesGovernance": 0.3544117212295532,
+        "DefinitionsReferences": 0.32449835538864136
+      }
+    },
+    {
+      "sentence": "Eligibility for this scheme is primarily focused on construction workers who are registered under the Kerala Building and Other Construction Workers Welfare Board.",
+      "role": "Eligibility",
+      "confidence": 0.5183490514755249,
+      "similarities": {
+        "ContextObjective": 0.4383646845817566,
+        "BenefitsAssistance": 0.36864781379699707,
+        "Eligibility": 0.5183490514755249,
+        "ApplicationProcess": 0.4401322603225708,
+        "TimelineFrequency": 0.4112597703933716,
+        "AuthoritiesGovernance": 0.3638574481010437,
+        "DefinitionsReferences": 0.3412020206451416
+      }
+    },
+    {
+      "sentence": "To be eligible, workers must be between the ages of 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5984439849853516,
+      "similarities": {
+        "ContextObjective": 0.4390749931335449,
+        "BenefitsAssistance": 0.4663752019405365,
+        "Eligibility": 0.5984439849853516,
+        "ApplicationProcess": 0.5180439352989197,
+        "TimelineFrequency": 0.49914270639419556,
+        "AuthoritiesGovernance": 0.4335615038871765,
+        "DefinitionsReferences": 0.39725643396377563
+      }
+    },
+    {
+      "sentence": "Additionally, they must have been engaged in construction work for at least 90 days in the preceding 12 months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4818525016307831,
+      "similarities": {
+        "ContextObjective": 0.39114975929260254,
+        "BenefitsAssistance": 0.39096614718437195,
+        "Eligibility": 0.46310389041900635,
+        "ApplicationProcess": 0.4562515616416931,
+        "TimelineFrequency": 0.4818525016307831,
+        "AuthoritiesGovernance": 0.37423303723335266,
+        "DefinitionsReferences": 0.38265591859817505
+      }
+    },
+    {
+      "sentence": "Workers must also possess a valid registration certificate issued by the K.B.O.C.W.W.B.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4646260440349579,
+      "similarities": {
+        "ContextObjective": 0.3684466481208801,
+        "BenefitsAssistance": 0.3750237822532654,
+        "Eligibility": 0.44510626792907715,
+        "ApplicationProcess": 0.4646260440349579,
+        "TimelineFrequency": 0.356206476688385,
+        "AuthoritiesGovernance": 0.372073769569397,
+        "DefinitionsReferences": 0.4029286503791809
+      }
+    },
+    {
+      "sentence": "The application process for the Accident Assistance Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6877194046974182,
+      "similarities": {
+        "ContextObjective": 0.5785417556762695,
+        "BenefitsAssistance": 0.5345590114593506,
+        "Eligibility": 0.5981123447418213,
+        "ApplicationProcess": 0.6877194046974182,
+        "TimelineFrequency": 0.5790820121765137,
+        "AuthoritiesGovernance": 0.5050485134124756,
+        "DefinitionsReferences": 0.48033905029296875
+      }
+    },
+    {
+      "sentence": "First, the applicant must fill out the prescribed application form available at the local K.B.O.C.W.W.B offices or on their official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6643437147140503,
+      "similarities": {
+        "ContextObjective": 0.4445861577987671,
+        "BenefitsAssistance": 0.4317198693752289,
+        "Eligibility": 0.5549561977386475,
+        "ApplicationProcess": 0.6643437147140503,
+        "TimelineFrequency": 0.5027282238006592,
+        "AuthoritiesGovernance": 0.4272858500480652,
+        "DefinitionsReferences": 0.44672346115112305
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the worker's name, registration number, and details of the accident.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6499601006507874,
+      "similarities": {
+        "ContextObjective": 0.48629698157310486,
+        "BenefitsAssistance": 0.5470507144927979,
+        "Eligibility": 0.5685521364212036,
+        "ApplicationProcess": 0.6499601006507874,
+        "TimelineFrequency": 0.5419142246246338,
+        "AuthoritiesGovernance": 0.4456685483455658,
+        "DefinitionsReferences": 0.4901858866214752
+      }
+    },
+    {
+      "sentence": "Along with the application form, the applicant must submit a copy of the accident report from the employer or local authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6181992888450623,
+      "similarities": {
+        "ContextObjective": 0.4156467914581299,
+        "BenefitsAssistance": 0.4668208360671997,
+        "Eligibility": 0.5007224082946777,
+        "ApplicationProcess": 0.6181992888450623,
+        "TimelineFrequency": 0.4923992156982422,
+        "AuthoritiesGovernance": 0.42270195484161377,
+        "DefinitionsReferences": 0.450739324092865
+      }
+    },
+    {
+      "sentence": "Medical certificates detailing the nature and extent of the injuries must also be provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5255101919174194,
+      "similarities": {
+        "ContextObjective": 0.39593449234962463,
+        "BenefitsAssistance": 0.5255101919174194,
+        "Eligibility": 0.47817838191986084,
+        "ApplicationProcess": 0.5091351270675659,
+        "TimelineFrequency": 0.43545418977737427,
+        "AuthoritiesGovernance": 0.414704293012619,
+        "DefinitionsReferences": 0.4757133722305298
+      }
+    },
+    {
+      "sentence": "In case of death, a death certificate and proof of relationship to the deceased must be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5735375881195068,
+      "similarities": {
+        "ContextObjective": 0.4166548252105713,
+        "BenefitsAssistance": 0.4722287058830261,
+        "Eligibility": 0.5030211210250854,
+        "ApplicationProcess": 0.5735375881195068,
+        "TimelineFrequency": 0.47209206223487854,
+        "AuthoritiesGovernance": 0.4069884717464447,
+        "DefinitionsReferences": 0.4561126232147217
+      }
+    },
+    {
+      "sentence": "The completed application form and supporting documents should be submitted to the nearest K.B.O.C.W.W.B office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6390404105186462,
+      "similarities": {
+        "ContextObjective": 0.40850961208343506,
+        "BenefitsAssistance": 0.4370545744895935,
+        "Eligibility": 0.522964596748352,
+        "ApplicationProcess": 0.6390404105186462,
+        "TimelineFrequency": 0.4719356596469879,
+        "AuthoritiesGovernance": 0.43586474657058716,
+        "DefinitionsReferences": 0.4155547618865967
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the designated officials.",
+      "role": "ApplicationProcess",
+      "confidence": 0.665634036064148,
+      "similarities": {
+        "ContextObjective": 0.4763333201408386,
+        "BenefitsAssistance": 0.43781283497810364,
+        "Eligibility": 0.6036887168884277,
+        "ApplicationProcess": 0.665634036064148,
+        "TimelineFrequency": 0.5714157223701477,
+        "AuthoritiesGovernance": 0.5345728397369385,
+        "DefinitionsReferences": 0.48755961656570435
+      }
+    },
+    {
+      "sentence": "The processing time for applications is typically around 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6451305150985718,
+      "similarities": {
+        "ContextObjective": 0.4603883624076843,
+        "BenefitsAssistance": 0.45927464962005615,
+        "Eligibility": 0.5504003763198853,
+        "ApplicationProcess": 0.6142737865447998,
+        "TimelineFrequency": 0.6451305150985718,
+        "AuthoritiesGovernance": 0.46142762899398804,
+        "DefinitionsReferences": 0.44391733407974243
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is made directly to the bank account of the eligible worker or their family members.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5469444990158081,
+      "similarities": {
+        "ContextObjective": 0.39930641651153564,
+        "BenefitsAssistance": 0.5469444990158081,
+        "Eligibility": 0.5321432948112488,
+        "ApplicationProcess": 0.45879074931144714,
+        "TimelineFrequency": 0.4104282259941101,
+        "AuthoritiesGovernance": 0.4274470806121826,
+        "DefinitionsReferences": 0.34714674949645996
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Kerala Building and Other Construction Workers Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.4936102628707886,
+      "similarities": {
+        "ContextObjective": 0.4936102628707886,
+        "BenefitsAssistance": 0.4187188744544983,
+        "Eligibility": 0.4509414732456207,
+        "ApplicationProcess": 0.42398667335510254,
+        "TimelineFrequency": 0.3784084916114807,
+        "AuthoritiesGovernance": 0.49113672971725464,
+        "DefinitionsReferences": 0.34892433881759644
+      }
+    },
+    {
+      "sentence": "The board operates under the Department of Labour, Government of Kerala.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4968445897102356,
+      "similarities": {
+        "ContextObjective": 0.41567644476890564,
+        "BenefitsAssistance": 0.38583579659461975,
+        "Eligibility": 0.43241623044013977,
+        "ApplicationProcess": 0.4116199016571045,
+        "TimelineFrequency": 0.3920432925224304,
+        "AuthoritiesGovernance": 0.4968445897102356,
+        "DefinitionsReferences": 0.37261635065078735
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, workers can contact the K.B.O.C.W.W.B office at the following address:",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4885576665401459,
+      "similarities": {
+        "ContextObjective": 0.38268059492111206,
+        "BenefitsAssistance": 0.44545209407806396,
+        "Eligibility": 0.448106586933136,
+        "ApplicationProcess": 0.4611920714378357,
+        "TimelineFrequency": 0.37556368112564087,
+        "AuthoritiesGovernance": 0.4885576665401459,
+        "DefinitionsReferences": 0.4089973270893097
+      }
+    },
+    {
+      "sentence": "Kerala Building and Other Construction Workers Welfare Board,",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4719047546386719,
+      "similarities": {
+        "ContextObjective": 0.44754764437675476,
+        "BenefitsAssistance": 0.4413498640060425,
+        "Eligibility": 0.4642857313156128,
+        "ApplicationProcess": 0.43438684940338135,
+        "TimelineFrequency": 0.4193236529827118,
+        "AuthoritiesGovernance": 0.4719047546386719,
+        "DefinitionsReferences": 0.3953319191932678
+      }
+    },
+    {
+      "sentence": "Thiruvananthapuram, Kerala.",
+      "role": "ApplicationProcess",
+      "confidence": 0.3851768970489502,
+      "similarities": {
+        "ContextObjective": 0.3818005919456482,
+        "BenefitsAssistance": 0.36174485087394714,
+        "Eligibility": 0.3831349015235901,
+        "ApplicationProcess": 0.3851768970489502,
+        "TimelineFrequency": 0.3638795018196106,
+        "AuthoritiesGovernance": 0.370965838432312,
+        "DefinitionsReferences": 0.37182727456092834
+      }
+    },
+    {
+      "sentence": "The contact number for the board is 0471-232-1234.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4635636806488037,
+      "similarities": {
+        "ContextObjective": 0.40403831005096436,
+        "BenefitsAssistance": 0.42432495951652527,
+        "Eligibility": 0.43977808952331543,
+        "ApplicationProcess": 0.4635636806488037,
+        "TimelineFrequency": 0.4500879645347595,
+        "AuthoritiesGovernance": 0.46230044960975647,
+        "DefinitionsReferences": 0.3893623948097229
+      }
+    },
+    {
+      "sentence": "The Accident Assistance Scheme is part of a broader effort by the Government of Kerala to improve the welfare of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4432497024536133,
+      "similarities": {
+        "ContextObjective": 0.4432497024536133,
+        "BenefitsAssistance": 0.43112558126449585,
+        "Eligibility": 0.41696280241012573,
+        "ApplicationProcess": 0.39470481872558594,
+        "TimelineFrequency": 0.3538001775741577,
+        "AuthoritiesGovernance": 0.44282758235931396,
+        "DefinitionsReferences": 0.3538688123226166
+      }
+    },
+    {
+      "sentence": "Construction workers are often vulnerable due to the nature of their work and the lack of job security.",
+      "role": "Eligibility",
+      "confidence": 0.4531914293766022,
+      "similarities": {
+        "ContextObjective": 0.3753893971443176,
+        "BenefitsAssistance": 0.41004478931427,
+        "Eligibility": 0.4531914293766022,
+        "ApplicationProcess": 0.4071848392486572,
+        "TimelineFrequency": 0.4169793128967285,
+        "AuthoritiesGovernance": 0.3959404230117798,
+        "DefinitionsReferences": 0.3628189265727997
+      }
+    },
+    {
+      "sentence": "The scheme aims to alleviate some of the financial burdens faced by these workers in times of crisis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5139870047569275,
+      "similarities": {
+        "ContextObjective": 0.5099521279335022,
+        "BenefitsAssistance": 0.5139870047569275,
+        "Eligibility": 0.47704780101776123,
+        "ApplicationProcess": 0.41658103466033936,
+        "TimelineFrequency": 0.4011550545692444,
+        "AuthoritiesGovernance": 0.3893049359321594,
+        "DefinitionsReferences": 0.3416340947151184
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also emphasizes the importance of safety measures at construction sites.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48722612857818604,
+      "similarities": {
+        "ContextObjective": 0.4459041655063629,
+        "BenefitsAssistance": 0.48722612857818604,
+        "Eligibility": 0.45801711082458496,
+        "ApplicationProcess": 0.422760546207428,
+        "TimelineFrequency": 0.384918212890625,
+        "AuthoritiesGovernance": 0.3574424982070923,
+        "DefinitionsReferences": 0.39785417914390564
+      }
+    },
+    {
+      "sentence": "Workers are encouraged to undergo safety training to minimize the risk of accidents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.405814528465271,
+      "similarities": {
+        "ContextObjective": 0.38702893257141113,
+        "BenefitsAssistance": 0.33365172147750854,
+        "Eligibility": 0.38833534717559814,
+        "ApplicationProcess": 0.405814528465271,
+        "TimelineFrequency": 0.3611542284488678,
+        "AuthoritiesGovernance": 0.379043310880661,
+        "DefinitionsReferences": 0.38033777475357056
+      }
+    },
+    {
+      "sentence": "The government has also initiated awareness programs to educate workers about their rights and the benefits available to them.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4829658269882202,
+      "similarities": {
+        "ContextObjective": 0.468863308429718,
+        "BenefitsAssistance": 0.4801563620567322,
+        "Eligibility": 0.4675986170768738,
+        "ApplicationProcess": 0.4378002882003784,
+        "TimelineFrequency": 0.4016384780406952,
+        "AuthoritiesGovernance": 0.4829658269882202,
+        "DefinitionsReferences": 0.43550997972488403
+      }
+    },
+    {
+      "sentence": "Statistical data indicates that the construction sector employs a significant portion of the workforce in Kerala.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39004337787628174,
+      "similarities": {
+        "ContextObjective": 0.32874587178230286,
+        "BenefitsAssistance": 0.39004337787628174,
+        "Eligibility": 0.34914010763168335,
+        "ApplicationProcess": 0.33842942118644714,
+        "TimelineFrequency": 0.33884191513061523,
+        "AuthoritiesGovernance": 0.33163607120513916,
+        "DefinitionsReferences": 0.3412795066833496
+      }
+    },
+    {
+      "sentence": "According to the 2021 census, there are approximately 10 lakh registered construction workers in the state.",
+      "role": "Eligibility",
+      "confidence": 0.3959011137485504,
+      "similarities": {
+        "ContextObjective": 0.33876901865005493,
+        "BenefitsAssistance": 0.3746452331542969,
+        "Eligibility": 0.3959011137485504,
+        "ApplicationProcess": 0.3659287691116333,
+        "TimelineFrequency": 0.33969610929489136,
+        "AuthoritiesGovernance": 0.36640727519989014,
+        "DefinitionsReferences": 0.3243359327316284
+      }
+    },
+    {
+      "sentence": "The Accident Assistance Scheme has been instrumental in providing timely support to thousands of workers since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.4799674153327942,
+      "similarities": {
+        "ContextObjective": 0.4799674153327942,
+        "BenefitsAssistance": 0.44965192675590515,
+        "Eligibility": 0.3958553075790405,
+        "ApplicationProcess": 0.3564949631690979,
+        "TimelineFrequency": 0.35525161027908325,
+        "AuthoritiesGovernance": 0.3861690163612366,
+        "DefinitionsReferences": 0.35478949546813965
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has disbursed over ₹100 crores in assistance to injured workers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49826374650001526,
+      "similarities": {
+        "ContextObjective": 0.4077824354171753,
+        "BenefitsAssistance": 0.49826374650001526,
+        "Eligibility": 0.43091750144958496,
+        "ApplicationProcess": 0.31624293327331543,
+        "TimelineFrequency": 0.3228878378868103,
+        "AuthoritiesGovernance": 0.3713812828063965,
+        "DefinitionsReferences": 0.29859277606010437
+      }
+    },
+    {
+      "sentence": "The Kerala government continuously reviews the scheme to ensure that it meets the needs of the workers effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.489036500453949,
+      "similarities": {
+        "ContextObjective": 0.489036500453949,
+        "BenefitsAssistance": 0.4254717230796814,
+        "Eligibility": 0.4634796380996704,
+        "ApplicationProcess": 0.47983676195144653,
+        "TimelineFrequency": 0.4290170669555664,
+        "AuthoritiesGovernance": 0.4664793610572815,
+        "DefinitionsReferences": 0.4138678312301636
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to improve the scheme and its implementation.",
+      "role": "Eligibility",
+      "confidence": 0.5372905731201172,
+      "similarities": {
+        "ContextObjective": 0.5211944580078125,
+        "BenefitsAssistance": 0.5047225952148438,
+        "Eligibility": 0.5372905731201172,
+        "ApplicationProcess": 0.45735636353492737,
+        "TimelineFrequency": 0.4231421947479248,
+        "AuthoritiesGovernance": 0.5280845761299133,
+        "DefinitionsReferences": 0.417751669883728
+      }
+    },
+    {
+      "sentence": "The K.B.O.C.W.W.B also collaborates with various NGOs and labor unions to reach out to workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45484066009521484,
+      "similarities": {
+        "ContextObjective": 0.38972020149230957,
+        "BenefitsAssistance": 0.4063347578048706,
+        "Eligibility": 0.38275793194770813,
+        "ApplicationProcess": 0.32405924797058105,
+        "TimelineFrequency": 0.3284311890602112,
+        "AuthoritiesGovernance": 0.45484066009521484,
+        "DefinitionsReferences": 0.39561766386032104
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted regularly to ensure that workers are informed about the scheme and how to access it.",
+      "role": "ContextObjective",
+      "confidence": 0.4976157546043396,
+      "similarities": {
+        "ContextObjective": 0.4976157546043396,
+        "BenefitsAssistance": 0.4630008935928345,
+        "Eligibility": 0.47544190287590027,
+        "ApplicationProcess": 0.48292601108551025,
+        "TimelineFrequency": 0.4346228837966919,
+        "AuthoritiesGovernance": 0.46830493211746216,
+        "DefinitionsReferences": 0.40922555327415466
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to the welfare of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4503841996192932,
+      "similarities": {
+        "ContextObjective": 0.4503841996192932,
+        "BenefitsAssistance": 0.4134911298751831,
+        "Eligibility": 0.4234234094619751,
+        "ApplicationProcess": 0.3915405869483948,
+        "TimelineFrequency": 0.34088513255119324,
+        "AuthoritiesGovernance": 0.3707495331764221,
+        "DefinitionsReferences": 0.3561478853225708
+      }
+    },
+    {
+      "sentence": "It reflects the understanding of the risks involved in construction work and the need for a safety net for workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45255666971206665,
+      "similarities": {
+        "ContextObjective": 0.41935524344444275,
+        "BenefitsAssistance": 0.45255666971206665,
+        "Eligibility": 0.43242084980010986,
+        "ApplicationProcess": 0.40803292393684387,
+        "TimelineFrequency": 0.39528101682662964,
+        "AuthoritiesGovernance": 0.37486106157302856,
+        "DefinitionsReferences": 0.3890182077884674
+      }
+    },
+    {
+      "sentence": "The Accident Assistance Scheme is a crucial part of Kerala's labor welfare policies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4193710684776306,
+      "similarities": {
+        "ContextObjective": 0.4090633690357208,
+        "BenefitsAssistance": 0.4193710684776306,
+        "Eligibility": 0.396171510219574,
+        "ApplicationProcess": 0.3523894250392914,
+        "TimelineFrequency": 0.3295247256755829,
+        "AuthoritiesGovernance": 0.3790293037891388,
+        "DefinitionsReferences": 0.34484514594078064
+      }
+    },
+    {
+      "sentence": "It aims to create a more secure working environment for construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.44535744190216064,
+      "similarities": {
+        "ContextObjective": 0.44535744190216064,
+        "BenefitsAssistance": 0.36426985263824463,
+        "Eligibility": 0.4076825976371765,
+        "ApplicationProcess": 0.42979949712753296,
+        "TimelineFrequency": 0.36162838339805603,
+        "AuthoritiesGovernance": 0.40314942598342896,
+        "DefinitionsReferences": 0.3884505033493042
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible workers to register with the K.B.O.C.W.W.B to avail of the benefits of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.47468096017837524,
+      "similarities": {
+        "ContextObjective": 0.44408053159713745,
+        "BenefitsAssistance": 0.4278348982334137,
+        "Eligibility": 0.47468096017837524,
+        "ApplicationProcess": 0.4436437487602234,
+        "TimelineFrequency": 0.3898385763168335,
+        "AuthoritiesGovernance": 0.39221489429473877,
+        "DefinitionsReferences": 0.3879559338092804
+      }
+    },
+    {
+      "sentence": "Registration is free and can be done online or at designated offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5786523818969727,
+      "similarities": {
+        "ContextObjective": 0.45100390911102295,
+        "BenefitsAssistance": 0.5217452645301819,
+        "Eligibility": 0.5096482038497925,
+        "ApplicationProcess": 0.5786523818969727,
+        "TimelineFrequency": 0.5174959301948547,
+        "AuthoritiesGovernance": 0.47399476170539856,
+        "DefinitionsReferences": 0.48531416058540344
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also promotes a culture of safety and awareness among workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4992387890815735,
+      "similarities": {
+        "ContextObjective": 0.4793403148651123,
+        "BenefitsAssistance": 0.4992387890815735,
+        "Eligibility": 0.46021491289138794,
+        "ApplicationProcess": 0.43982088565826416,
+        "TimelineFrequency": 0.37781211733818054,
+        "AuthoritiesGovernance": 0.39000409841537476,
+        "DefinitionsReferences": 0.3698034882545471
+      }
+    },
+    {
+      "sentence": "In conclusion, the Accident Assistance Scheme under the K.B.O.C.W.W.B is a vital initiative that addresses the immediate needs of construction workers in Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.4717980623245239,
+      "similarities": {
+        "ContextObjective": 0.4717980623245239,
+        "BenefitsAssistance": 0.4032471179962158,
+        "Eligibility": 0.41519999504089355,
+        "ApplicationProcess": 0.38207560777664185,
+        "TimelineFrequency": 0.3445594012737274,
+        "AuthoritiesGovernance": 0.3805573582649231,
+        "DefinitionsReferences": 0.3345370888710022
+      }
+    },
+    {
+      "sentence": "It provides a structured support system that helps workers recover from accidents and ensures their families are taken care of during difficult times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5044757127761841,
+      "similarities": {
+        "ContextObjective": 0.4620248079299927,
+        "BenefitsAssistance": 0.5044757127761841,
+        "Eligibility": 0.4416089951992035,
+        "ApplicationProcess": 0.415030300617218,
+        "TimelineFrequency": 0.4015287458896637,
+        "AuthoritiesGovernance": 0.44286656379699707,
+        "DefinitionsReferences": 0.4057824909687042
+      }
+    },
+    {
+      "sentence": "The scheme is an essential component of the broader framework of labor welfare in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5376302003860474,
+      "similarities": {
+        "ContextObjective": 0.5376302003860474,
+        "BenefitsAssistance": 0.48950791358947754,
+        "Eligibility": 0.46573036909103394,
+        "ApplicationProcess": 0.4319380521774292,
+        "TimelineFrequency": 0.4276579022407532,
+        "AuthoritiesGovernance": 0.4734618365764618,
+        "DefinitionsReferences": 0.41422808170318604
+      }
+    },
+    {
+      "sentence": "It highlights the government's proactive approach to safeguarding the interests of vulnerable workers in the construction sector.",
+      "role": "Eligibility",
+      "confidence": 0.4320765435695648,
+      "similarities": {
+        "ContextObjective": 0.42581450939178467,
+        "BenefitsAssistance": 0.3996990919113159,
+        "Eligibility": 0.4320765435695648,
+        "ApplicationProcess": 0.39327409863471985,
+        "TimelineFrequency": 0.3493788540363312,
+        "AuthoritiesGovernance": 0.3865952491760254,
+        "DefinitionsReferences": 0.37739109992980957
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 12,
+    "BenefitsAssistance": 16,
+    "Eligibility": 7,
+    "TimelineFrequency": 2,
+    "ApplicationProcess": 12,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-25T20:42:57.424686"
+}

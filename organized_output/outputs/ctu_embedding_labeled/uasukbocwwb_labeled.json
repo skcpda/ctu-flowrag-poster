@@ -1,0 +1,771 @@
+{
+  "scheme_name": "Umbrella Assistance Scheme (UKBOCWWB)",
+  "total_sentences": 54,
+  "labeled_sentences": [
+    {
+      "sentence": "The Umbrella Assistance Scheme is an initiative launched by the Government of India to provide financial assistance and welfare support to construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5338802337646484,
+      "similarities": {
+        "ContextObjective": 0.5338802337646484,
+        "BenefitsAssistance": 0.5070338249206543,
+        "Eligibility": 0.5070656538009644,
+        "ApplicationProcess": 0.4326847791671753,
+        "TimelineFrequency": 0.40806031227111816,
+        "AuthoritiesGovernance": 0.4549838602542877,
+        "DefinitionsReferences": 0.37064000964164734
+      }
+    },
+    {
+      "sentence": "The scheme was launched in the year 2019 under the aegis of the Ministry of Labour and Employment.",
+      "role": "ContextObjective",
+      "confidence": 0.5512783527374268,
+      "similarities": {
+        "ContextObjective": 0.5512783527374268,
+        "BenefitsAssistance": 0.43154406547546387,
+        "Eligibility": 0.4670701324939728,
+        "ApplicationProcess": 0.45476487278938293,
+        "TimelineFrequency": 0.45064452290534973,
+        "AuthoritiesGovernance": 0.4126041531562805,
+        "DefinitionsReferences": 0.3661044239997864
+      }
+    },
+    {
+      "sentence": "The primary objective of the Umbrella Assistance Scheme is to enhance the welfare of construction workers by providing them with various forms of assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.5407797694206238,
+      "similarities": {
+        "ContextObjective": 0.5407797694206238,
+        "BenefitsAssistance": 0.4853161871433258,
+        "Eligibility": 0.4816364049911499,
+        "ApplicationProcess": 0.4261450171470642,
+        "TimelineFrequency": 0.41480788588523865,
+        "AuthoritiesGovernance": 0.4560365080833435,
+        "DefinitionsReferences": 0.38747644424438477
+      }
+    },
+    {
+      "sentence": "The scheme aims to cover a wide range of benefits including financial aid for medical emergencies, education for children, and housing support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6013889908790588,
+      "similarities": {
+        "ContextObjective": 0.5458563566207886,
+        "BenefitsAssistance": 0.6013889908790588,
+        "Eligibility": 0.5428546667098999,
+        "ApplicationProcess": 0.45729324221611023,
+        "TimelineFrequency": 0.4713994264602661,
+        "AuthoritiesGovernance": 0.4220779538154602,
+        "DefinitionsReferences": 0.42999041080474854
+      }
+    },
+    {
+      "sentence": "The specific target of the scheme is to reach out to approximately 50 million construction workers across India.",
+      "role": "ContextObjective",
+      "confidence": 0.48595142364501953,
+      "similarities": {
+        "ContextObjective": 0.48595142364501953,
+        "BenefitsAssistance": 0.34778013825416565,
+        "Eligibility": 0.4463949203491211,
+        "ApplicationProcess": 0.37811368703842163,
+        "TimelineFrequency": 0.357379674911499,
+        "AuthoritiesGovernance": 0.37706759572029114,
+        "DefinitionsReferences": 0.29637834429740906
+      }
+    },
+    {
+      "sentence": "The scheme is designed to ensure that construction workers have access to essential services and financial support during times of need.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5551220178604126,
+      "similarities": {
+        "ContextObjective": 0.5206553936004639,
+        "BenefitsAssistance": 0.5551220178604126,
+        "Eligibility": 0.5248168706893921,
+        "ApplicationProcess": 0.48099011182785034,
+        "TimelineFrequency": 0.4709513783454895,
+        "AuthoritiesGovernance": 0.43059471249580383,
+        "DefinitionsReferences": 0.4055843651294708
+      }
+    },
+    {
+      "sentence": "One of the key benefits of the Umbrella Assistance Scheme is the provision of financial assistance for medical emergencies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5673040151596069,
+      "similarities": {
+        "ContextObjective": 0.47548145055770874,
+        "BenefitsAssistance": 0.5673040151596069,
+        "Eligibility": 0.49170446395874023,
+        "ApplicationProcess": 0.40010035037994385,
+        "TimelineFrequency": 0.3953789472579956,
+        "AuthoritiesGovernance": 0.38943636417388916,
+        "DefinitionsReferences": 0.3865957260131836
+      }
+    },
+    {
+      "sentence": "Under this scheme, construction workers can receive up to ₹1 lakh for medical treatment in case of serious illnesses or accidents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48348233103752136,
+      "similarities": {
+        "ContextObjective": 0.4007965922355652,
+        "BenefitsAssistance": 0.48348233103752136,
+        "Eligibility": 0.4447564482688904,
+        "ApplicationProcess": 0.3903239965438843,
+        "TimelineFrequency": 0.3501148223876953,
+        "AuthoritiesGovernance": 0.3510448932647705,
+        "DefinitionsReferences": 0.3328734040260315
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme provides educational assistance of ₹20,000 per child for the education of workers' children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45449376106262207,
+      "similarities": {
+        "ContextObjective": 0.3987703323364258,
+        "BenefitsAssistance": 0.45449376106262207,
+        "Eligibility": 0.41236236691474915,
+        "ApplicationProcess": 0.36787062883377075,
+        "TimelineFrequency": 0.35388872027397156,
+        "AuthoritiesGovernance": 0.3495595455169678,
+        "DefinitionsReferences": 0.32720422744750977
+      }
+    },
+    {
+      "sentence": "This educational assistance is aimed at ensuring that children of construction workers have access to quality education.",
+      "role": "Eligibility",
+      "confidence": 0.4515810012817383,
+      "similarities": {
+        "ContextObjective": 0.42223790287971497,
+        "BenefitsAssistance": 0.419980525970459,
+        "Eligibility": 0.4515810012817383,
+        "ApplicationProcess": 0.43707364797592163,
+        "TimelineFrequency": 0.39634862542152405,
+        "AuthoritiesGovernance": 0.40156251192092896,
+        "DefinitionsReferences": 0.34211182594299316
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for housing assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5755268931388855,
+      "similarities": {
+        "ContextObjective": 0.5313687324523926,
+        "BenefitsAssistance": 0.5755268931388855,
+        "Eligibility": 0.5348098278045654,
+        "ApplicationProcess": 0.49263378977775574,
+        "TimelineFrequency": 0.46606671810150146,
+        "AuthoritiesGovernance": 0.43772077560424805,
+        "DefinitionsReferences": 0.4401663541793823
+      }
+    },
+    {
+      "sentence": "Construction workers can receive up to ₹2 lakh for housing construction or improvement.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4601078927516937,
+      "similarities": {
+        "ContextObjective": 0.3844096064567566,
+        "BenefitsAssistance": 0.4601078927516937,
+        "Eligibility": 0.42512571811676025,
+        "ApplicationProcess": 0.38574567437171936,
+        "TimelineFrequency": 0.3482682704925537,
+        "AuthoritiesGovernance": 0.39608344435691833,
+        "DefinitionsReferences": 0.3706238865852356
+      }
+    },
+    {
+      "sentence": "This financial support is crucial for workers who often live in inadequate housing conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5087194442749023,
+      "similarities": {
+        "ContextObjective": 0.3928303122520447,
+        "BenefitsAssistance": 0.5087194442749023,
+        "Eligibility": 0.47834327816963196,
+        "ApplicationProcess": 0.4246131479740143,
+        "TimelineFrequency": 0.4049537777900696,
+        "AuthoritiesGovernance": 0.3833462595939636,
+        "DefinitionsReferences": 0.38327282667160034
+      }
+    },
+    {
+      "sentence": "Eligibility for the Umbrella Assistance Scheme is primarily based on the worker's status as a construction worker.",
+      "role": "Eligibility",
+      "confidence": 0.5530888438224792,
+      "similarities": {
+        "ContextObjective": 0.4500257968902588,
+        "BenefitsAssistance": 0.43216434121131897,
+        "Eligibility": 0.5530888438224792,
+        "ApplicationProcess": 0.4608316421508789,
+        "TimelineFrequency": 0.42480725049972534,
+        "AuthoritiesGovernance": 0.37011417746543884,
+        "DefinitionsReferences": 0.33884263038635254
+      }
+    },
+    {
+      "sentence": "Applicants must be registered with the respective state welfare boards for construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.586592435836792,
+      "similarities": {
+        "ContextObjective": 0.43533411622047424,
+        "BenefitsAssistance": 0.4285559058189392,
+        "Eligibility": 0.586592435836792,
+        "ApplicationProcess": 0.565422773361206,
+        "TimelineFrequency": 0.5046643018722534,
+        "AuthoritiesGovernance": 0.45346713066101074,
+        "DefinitionsReferences": 0.42090749740600586
+      }
+    },
+    {
+      "sentence": "The minimum age requirement for eligibility is 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.5856653451919556,
+      "similarities": {
+        "ContextObjective": 0.46867722272872925,
+        "BenefitsAssistance": 0.46624958515167236,
+        "Eligibility": 0.5856653451919556,
+        "ApplicationProcess": 0.5279957056045532,
+        "TimelineFrequency": 0.5042396783828735,
+        "AuthoritiesGovernance": 0.39296746253967285,
+        "DefinitionsReferences": 0.39780813455581665
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5094321966171265,
+      "similarities": {
+        "ContextObjective": 0.46905043721199036,
+        "BenefitsAssistance": 0.4142381548881531,
+        "Eligibility": 0.5094321966171265,
+        "ApplicationProcess": 0.40125274658203125,
+        "TimelineFrequency": 0.394008994102478,
+        "AuthoritiesGovernance": 0.35097745060920715,
+        "DefinitionsReferences": 0.30859166383743286
+      }
+    },
+    {
+      "sentence": "Income criteria for eligibility are set at a maximum annual income of ₹3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5559457540512085,
+      "similarities": {
+        "ContextObjective": 0.4537263810634613,
+        "BenefitsAssistance": 0.483298122882843,
+        "Eligibility": 0.5559457540512085,
+        "ApplicationProcess": 0.4462379217147827,
+        "TimelineFrequency": 0.4187037944793701,
+        "AuthoritiesGovernance": 0.32055890560150146,
+        "DefinitionsReferences": 0.3777391314506531
+      }
+    },
+    {
+      "sentence": "This income limit ensures that the benefits reach the most vulnerable sections of the construction workforce.",
+      "role": "Eligibility",
+      "confidence": 0.4756041169166565,
+      "similarities": {
+        "ContextObjective": 0.33443278074264526,
+        "BenefitsAssistance": 0.4233361482620239,
+        "Eligibility": 0.4756041169166565,
+        "ApplicationProcess": 0.3194674253463745,
+        "TimelineFrequency": 0.3329433798789978,
+        "AuthoritiesGovernance": 0.29921990633010864,
+        "DefinitionsReferences": 0.2775721549987793
+      }
+    },
+    {
+      "sentence": "To apply for the Umbrella Assistance Scheme, workers must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6479920148849487,
+      "similarities": {
+        "ContextObjective": 0.5128406882286072,
+        "BenefitsAssistance": 0.48416566848754883,
+        "Eligibility": 0.62667316198349,
+        "ApplicationProcess": 0.6479920148849487,
+        "TimelineFrequency": 0.5540847182273865,
+        "AuthoritiesGovernance": 0.476840615272522,
+        "DefinitionsReferences": 0.40678927302360535
+      }
+    },
+    {
+      "sentence": "The first step is to register with the local construction workers' welfare board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5376417636871338,
+      "similarities": {
+        "ContextObjective": 0.4341217279434204,
+        "BenefitsAssistance": 0.42404013872146606,
+        "Eligibility": 0.4727470874786377,
+        "ApplicationProcess": 0.5376417636871338,
+        "TimelineFrequency": 0.42698585987091064,
+        "AuthoritiesGovernance": 0.4191862642765045,
+        "DefinitionsReferences": 0.3828997015953064
+      }
+    },
+    {
+      "sentence": "This registration process requires the submission of identity proof and proof of employment in the construction sector.",
+      "role": "ApplicationProcess",
+      "confidence": 0.628258228302002,
+      "similarities": {
+        "ContextObjective": 0.4266553521156311,
+        "BenefitsAssistance": 0.46313658356666565,
+        "Eligibility": 0.5126684904098511,
+        "ApplicationProcess": 0.628258228302002,
+        "TimelineFrequency": 0.48602938652038574,
+        "AuthoritiesGovernance": 0.4053382873535156,
+        "DefinitionsReferences": 0.4345005750656128
+      }
+    },
+    {
+      "sentence": "Documents required for registration include an Aadhaar card, bank account details, and proof of work such as a wage slip or employment letter.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6167581677436829,
+      "similarities": {
+        "ContextObjective": 0.4587578773498535,
+        "BenefitsAssistance": 0.5929558873176575,
+        "Eligibility": 0.5299943685531616,
+        "ApplicationProcess": 0.6167581677436829,
+        "TimelineFrequency": 0.5370017886161804,
+        "AuthoritiesGovernance": 0.46778666973114014,
+        "DefinitionsReferences": 0.5557401180267334
+      }
+    },
+    {
+      "sentence": "Once registered, workers can apply for benefits under the Umbrella Assistance Scheme by filling out the application form available at the welfare board office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6125819683074951,
+      "similarities": {
+        "ContextObjective": 0.48795247077941895,
+        "BenefitsAssistance": 0.48714715242385864,
+        "Eligibility": 0.57064288854599,
+        "ApplicationProcess": 0.6125819683074951,
+        "TimelineFrequency": 0.4924057126045227,
+        "AuthoritiesGovernance": 0.4354667067527771,
+        "DefinitionsReferences": 0.40890005230903625
+      }
+    },
+    {
+      "sentence": "The application form must be accompanied by relevant documents such as medical bills for health assistance or school fees receipts for educational assistance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6161260008811951,
+      "similarities": {
+        "ContextObjective": 0.4698413908481598,
+        "BenefitsAssistance": 0.6108129024505615,
+        "Eligibility": 0.552828311920166,
+        "ApplicationProcess": 0.6161260008811951,
+        "TimelineFrequency": 0.546100914478302,
+        "AuthoritiesGovernance": 0.4264184534549713,
+        "DefinitionsReferences": 0.525497317314148
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the welfare board officials.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6213011741638184,
+      "similarities": {
+        "ContextObjective": 0.4673355221748352,
+        "BenefitsAssistance": 0.44148844480514526,
+        "Eligibility": 0.5676096677780151,
+        "ApplicationProcess": 0.6213011741638184,
+        "TimelineFrequency": 0.5159792900085449,
+        "AuthoritiesGovernance": 0.4835216999053955,
+        "DefinitionsReferences": 0.4200565218925476
+      }
+    },
+    {
+      "sentence": "The processing time for applications can vary but is generally completed within 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6452869772911072,
+      "similarities": {
+        "ContextObjective": 0.4740442633628845,
+        "BenefitsAssistance": 0.4950515925884247,
+        "Eligibility": 0.5674839615821838,
+        "ApplicationProcess": 0.6074262857437134,
+        "TimelineFrequency": 0.6452869772911072,
+        "AuthoritiesGovernance": 0.47258275747299194,
+        "DefinitionsReferences": 0.4629969000816345
+      }
+    },
+    {
+      "sentence": "Disbursement of funds under the Umbrella Assistance Scheme is typically done through direct bank transfers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5540131330490112,
+      "similarities": {
+        "ContextObjective": 0.4514217972755432,
+        "BenefitsAssistance": 0.5540131330490112,
+        "Eligibility": 0.5053156614303589,
+        "ApplicationProcess": 0.4403401017189026,
+        "TimelineFrequency": 0.41546422243118286,
+        "AuthoritiesGovernance": 0.44014406204223633,
+        "DefinitionsReferences": 0.3674928545951843
+      }
+    },
+    {
+      "sentence": "This ensures that the financial assistance reaches the beneficiaries without any delays.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5073531866073608,
+      "similarities": {
+        "ContextObjective": 0.4188147783279419,
+        "BenefitsAssistance": 0.5073531866073608,
+        "Eligibility": 0.5014845728874207,
+        "ApplicationProcess": 0.4037891626358032,
+        "TimelineFrequency": 0.40912288427352905,
+        "AuthoritiesGovernance": 0.39691054821014404,
+        "DefinitionsReferences": 0.31810659170150757
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Labour and Employment in collaboration with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5166012048721313,
+      "similarities": {
+        "ContextObjective": 0.478094220161438,
+        "BenefitsAssistance": 0.43192702531814575,
+        "Eligibility": 0.45352137088775635,
+        "ApplicationProcess": 0.4415231943130493,
+        "TimelineFrequency": 0.4155558943748474,
+        "AuthoritiesGovernance": 0.5166012048721313,
+        "DefinitionsReferences": 0.3827347457408905
+      }
+    },
+    {
+      "sentence": "Each state has its own construction workers' welfare board which is responsible for the implementation of the scheme at the local level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5438134074211121,
+      "similarities": {
+        "ContextObjective": 0.46450161933898926,
+        "BenefitsAssistance": 0.4198019504547119,
+        "Eligibility": 0.4835398197174072,
+        "ApplicationProcess": 0.42769259214401245,
+        "TimelineFrequency": 0.39152419567108154,
+        "AuthoritiesGovernance": 0.5438134074211121,
+        "DefinitionsReferences": 0.3934929072856903
+      }
+    },
+    {
+      "sentence": "Contact details for these boards can usually be found on the respective state government websites.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5557582974433899,
+      "similarities": {
+        "ContextObjective": 0.4688747525215149,
+        "BenefitsAssistance": 0.4683607518672943,
+        "Eligibility": 0.47817930579185486,
+        "ApplicationProcess": 0.5086803436279297,
+        "TimelineFrequency": 0.48869237303733826,
+        "AuthoritiesGovernance": 0.5557582974433899,
+        "DefinitionsReferences": 0.5202370882034302
+      }
+    },
+    {
+      "sentence": "The Umbrella Assistance Scheme is part of a broader initiative to improve the living conditions of construction workers in India.",
+      "role": "Eligibility",
+      "confidence": 0.46582621335983276,
+      "similarities": {
+        "ContextObjective": 0.45794177055358887,
+        "BenefitsAssistance": 0.44595733284950256,
+        "Eligibility": 0.46582621335983276,
+        "ApplicationProcess": 0.40451616048812866,
+        "TimelineFrequency": 0.3675532341003418,
+        "AuthoritiesGovernance": 0.4267573654651642,
+        "DefinitionsReferences": 0.35777610540390015
+      }
+    },
+    {
+      "sentence": "According to the Ministry of Labour and Employment, there are over 50 million construction workers in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.38700929284095764,
+      "similarities": {
+        "ContextObjective": 0.3605835437774658,
+        "BenefitsAssistance": 0.3466680943965912,
+        "Eligibility": 0.3622133433818817,
+        "ApplicationProcess": 0.3606404662132263,
+        "TimelineFrequency": 0.33057060837745667,
+        "AuthoritiesGovernance": 0.38700929284095764,
+        "DefinitionsReferences": 0.33983951807022095
+      }
+    },
+    {
+      "sentence": "These workers often face precarious working conditions and lack access to social security benefits.",
+      "role": "Eligibility",
+      "confidence": 0.49077117443084717,
+      "similarities": {
+        "ContextObjective": 0.3554445505142212,
+        "BenefitsAssistance": 0.4382683336734772,
+        "Eligibility": 0.49077117443084717,
+        "ApplicationProcess": 0.4149458706378937,
+        "TimelineFrequency": 0.39630407094955444,
+        "AuthoritiesGovernance": 0.390295147895813,
+        "DefinitionsReferences": 0.3699614405632019
+      }
+    },
+    {
+      "sentence": "The Umbrella Assistance Scheme aims to bridge this gap by providing targeted support.",
+      "role": "ContextObjective",
+      "confidence": 0.5477015972137451,
+      "similarities": {
+        "ContextObjective": 0.5477015972137451,
+        "BenefitsAssistance": 0.4568609595298767,
+        "Eligibility": 0.5034729242324829,
+        "ApplicationProcess": 0.39231163263320923,
+        "TimelineFrequency": 0.3717862069606781,
+        "AuthoritiesGovernance": 0.42336803674697876,
+        "DefinitionsReferences": 0.3490975499153137
+      }
+    },
+    {
+      "sentence": "In addition to the financial assistance mentioned, the scheme also includes provisions for skill development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5494236946105957,
+      "similarities": {
+        "ContextObjective": 0.4880342483520508,
+        "BenefitsAssistance": 0.5494236946105957,
+        "Eligibility": 0.4792029857635498,
+        "ApplicationProcess": 0.4360664486885071,
+        "TimelineFrequency": 0.43650051951408386,
+        "AuthoritiesGovernance": 0.3959975838661194,
+        "DefinitionsReferences": 0.45593973994255066
+      }
+    },
+    {
+      "sentence": "Workers can access training programs to enhance their skills and improve their employability.",
+      "role": "Eligibility",
+      "confidence": 0.4963584244251251,
+      "similarities": {
+        "ContextObjective": 0.48382407426834106,
+        "BenefitsAssistance": 0.4447539746761322,
+        "Eligibility": 0.4963584244251251,
+        "ApplicationProcess": 0.4691215455532074,
+        "TimelineFrequency": 0.47971266508102417,
+        "AuthoritiesGovernance": 0.4745875597000122,
+        "DefinitionsReferences": 0.4384889602661133
+      }
+    },
+    {
+      "sentence": "These training programs are often conducted in collaboration with various vocational training institutes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4800627827644348,
+      "similarities": {
+        "ContextObjective": 0.45851436257362366,
+        "BenefitsAssistance": 0.40576839447021484,
+        "Eligibility": 0.407428503036499,
+        "ApplicationProcess": 0.4166201055049896,
+        "TimelineFrequency": 0.44610345363616943,
+        "AuthoritiesGovernance": 0.4800627827644348,
+        "DefinitionsReferences": 0.43795016407966614
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness among construction workers regarding their rights and available benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.47978347539901733,
+      "similarities": {
+        "ContextObjective": 0.47978347539901733,
+        "BenefitsAssistance": 0.4460930824279785,
+        "Eligibility": 0.45811596512794495,
+        "ApplicationProcess": 0.4266664683818817,
+        "TimelineFrequency": 0.3827633559703827,
+        "AuthoritiesGovernance": 0.39816316962242126,
+        "DefinitionsReferences": 0.3803677558898926
+      }
+    },
+    {
+      "sentence": "Regular workshops and information sessions are organized to educate workers about the Umbrella Assistance Scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.491390198469162,
+      "similarities": {
+        "ContextObjective": 0.4590868353843689,
+        "BenefitsAssistance": 0.4555293619632721,
+        "Eligibility": 0.440367192029953,
+        "ApplicationProcess": 0.42218661308288574,
+        "TimelineFrequency": 0.4064429998397827,
+        "AuthoritiesGovernance": 0.491390198469162,
+        "DefinitionsReferences": 0.39533936977386475
+      }
+    },
+    {
+      "sentence": "The government has set a target to increase the number of registered construction workers under the scheme by 20% annually.",
+      "role": "ContextObjective",
+      "confidence": 0.4190007448196411,
+      "similarities": {
+        "ContextObjective": 0.4190007448196411,
+        "BenefitsAssistance": 0.3449583649635315,
+        "Eligibility": 0.39788419008255005,
+        "ApplicationProcess": 0.37543466687202454,
+        "TimelineFrequency": 0.3562772274017334,
+        "AuthoritiesGovernance": 0.34049761295318604,
+        "DefinitionsReferences": 0.30712416768074036
+      }
+    },
+    {
+      "sentence": "This is part of a larger goal to ensure that all eligible workers are aware of and can access the benefits provided.",
+      "role": "Eligibility",
+      "confidence": 0.5808377265930176,
+      "similarities": {
+        "ContextObjective": 0.49555647373199463,
+        "BenefitsAssistance": 0.5203486680984497,
+        "Eligibility": 0.5808377265930176,
+        "ApplicationProcess": 0.5089458227157593,
+        "TimelineFrequency": 0.44481146335601807,
+        "AuthoritiesGovernance": 0.48853906989097595,
+        "DefinitionsReferences": 0.4305662512779236
+      }
+    },
+    {
+      "sentence": "The Umbrella Assistance Scheme is a significant step towards ensuring social security for construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4681495428085327,
+      "similarities": {
+        "ContextObjective": 0.4569210708141327,
+        "BenefitsAssistance": 0.4681495428085327,
+        "Eligibility": 0.4547845423221588,
+        "ApplicationProcess": 0.4271276593208313,
+        "TimelineFrequency": 0.360860139131546,
+        "AuthoritiesGovernance": 0.3804784119129181,
+        "DefinitionsReferences": 0.3473917543888092
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving the welfare of this crucial segment of the workforce.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.41861599683761597,
+      "similarities": {
+        "ContextObjective": 0.4155106246471405,
+        "BenefitsAssistance": 0.4019649028778076,
+        "Eligibility": 0.4076463580131531,
+        "ApplicationProcess": 0.3738982081413269,
+        "TimelineFrequency": 0.35385793447494507,
+        "AuthoritiesGovernance": 0.41861599683761597,
+        "DefinitionsReferences": 0.3707224130630493
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the broader goals of the Indian government to promote inclusive growth and social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.5436913967132568,
+      "similarities": {
+        "ContextObjective": 0.5436913967132568,
+        "BenefitsAssistance": 0.40772366523742676,
+        "Eligibility": 0.44954365491867065,
+        "ApplicationProcess": 0.3742919862270355,
+        "TimelineFrequency": 0.3534131646156311,
+        "AuthoritiesGovernance": 0.40643951296806335,
+        "DefinitionsReferences": 0.37916266918182373
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to evolve with feedback from beneficiaries and stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5618810653686523,
+      "similarities": {
+        "ContextObjective": 0.5618810653686523,
+        "BenefitsAssistance": 0.4682782292366028,
+        "Eligibility": 0.49430522322654724,
+        "ApplicationProcess": 0.430563747882843,
+        "TimelineFrequency": 0.446524441242218,
+        "AuthoritiesGovernance": 0.4565218687057495,
+        "DefinitionsReferences": 0.4327771067619324
+      }
+    },
+    {
+      "sentence": "The government is actively seeking to improve the efficiency of the application and disbursement processes.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5404829978942871,
+      "similarities": {
+        "ContextObjective": 0.4851338267326355,
+        "BenefitsAssistance": 0.502377986907959,
+        "Eligibility": 0.5012500882148743,
+        "ApplicationProcess": 0.5404829978942871,
+        "TimelineFrequency": 0.5127788782119751,
+        "AuthoritiesGovernance": 0.5299099087715149,
+        "DefinitionsReferences": 0.4383423924446106
+      }
+    },
+    {
+      "sentence": "Regular audits and assessments are conducted to ensure that the funds are utilized effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5058081150054932,
+      "similarities": {
+        "ContextObjective": 0.44605526328086853,
+        "BenefitsAssistance": 0.5058081150054932,
+        "Eligibility": 0.4685111939907074,
+        "ApplicationProcess": 0.480679988861084,
+        "TimelineFrequency": 0.4547048807144165,
+        "AuthoritiesGovernance": 0.4845818281173706,
+        "DefinitionsReferences": 0.4490824341773987
+      }
+    },
+    {
+      "sentence": "The Umbrella Assistance Scheme is an essential component of the social safety net for construction workers in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4679022431373596,
+      "similarities": {
+        "ContextObjective": 0.44049400091171265,
+        "BenefitsAssistance": 0.4679022431373596,
+        "Eligibility": 0.46211355924606323,
+        "ApplicationProcess": 0.3906531035900116,
+        "TimelineFrequency": 0.36700859665870667,
+        "AuthoritiesGovernance": 0.3842254877090454,
+        "DefinitionsReferences": 0.34359800815582275
+      }
+    },
+    {
+      "sentence": "It provides a lifeline to those who often work in hazardous conditions and face financial uncertainties.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5225640535354614,
+      "similarities": {
+        "ContextObjective": 0.4300674796104431,
+        "BenefitsAssistance": 0.5225640535354614,
+        "Eligibility": 0.492786169052124,
+        "ApplicationProcess": 0.43768396973609924,
+        "TimelineFrequency": 0.42583686113357544,
+        "AuthoritiesGovernance": 0.38465672731399536,
+        "DefinitionsReferences": 0.41159749031066895
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the contributions made by construction workers to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.42626819014549255,
+      "similarities": {
+        "ContextObjective": 0.42626819014549255,
+        "BenefitsAssistance": 0.3878899812698364,
+        "Eligibility": 0.37698495388031006,
+        "ApplicationProcess": 0.36772337555885315,
+        "TimelineFrequency": 0.3160827159881592,
+        "AuthoritiesGovernance": 0.334117591381073,
+        "DefinitionsReferences": 0.3371945023536682
+      }
+    },
+    {
+      "sentence": "In conclusion, the Umbrella Assistance Scheme is a comprehensive initiative aimed at providing financial and social support to construction workers in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5237046480178833,
+      "similarities": {
+        "ContextObjective": 0.49701371788978577,
+        "BenefitsAssistance": 0.5237046480178833,
+        "Eligibility": 0.47061824798583984,
+        "ApplicationProcess": 0.4188220798969269,
+        "TimelineFrequency": 0.3848305344581604,
+        "AuthoritiesGovernance": 0.4006083011627197,
+        "DefinitionsReferences": 0.36061686277389526
+      }
+    },
+    {
+      "sentence": "With specific benefits, eligibility criteria, and a structured application process, it seeks to empower workers and improve their quality of life.",
+      "role": "Eligibility",
+      "confidence": 0.5678761005401611,
+      "similarities": {
+        "ContextObjective": 0.5283826589584351,
+        "BenefitsAssistance": 0.4782658815383911,
+        "Eligibility": 0.5678761005401611,
+        "ApplicationProcess": 0.5677793025970459,
+        "TimelineFrequency": 0.5136837363243103,
+        "AuthoritiesGovernance": 0.44995981454849243,
+        "DefinitionsReferences": 0.4305170774459839
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 10,
+    "BenefitsAssistance": 16,
+    "Eligibility": 12,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 7
+  },
+  "processing_timestamp": "2025-09-25T20:31:56.169540"
+}

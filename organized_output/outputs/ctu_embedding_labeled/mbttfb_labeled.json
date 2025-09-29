@@ -1,0 +1,812 @@
+{
+  "scheme_name": "Maternity Benefit to the Female Beneficiary",
+  "total_sentences": 57,
+  "labeled_sentences": [
+    {
+      "sentence": "The Maternity Benefit Scheme is a significant initiative launched by the Government of India aimed at providing financial assistance to pregnant women and lactating mothers.",
+      "role": "ContextObjective",
+      "confidence": 0.5724437832832336,
+      "similarities": {
+        "ContextObjective": 0.5724437832832336,
+        "BenefitsAssistance": 0.5141981840133667,
+        "Eligibility": 0.5130285024642944,
+        "ApplicationProcess": 0.4360131621360779,
+        "TimelineFrequency": 0.447800874710083,
+        "AuthoritiesGovernance": 0.45899540185928345,
+        "DefinitionsReferences": 0.3934943377971649
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on January 1, 2017.",
+      "role": "ContextObjective",
+      "confidence": 0.5630675554275513,
+      "similarities": {
+        "ContextObjective": 0.5630675554275513,
+        "BenefitsAssistance": 0.44048142433166504,
+        "Eligibility": 0.45399942994117737,
+        "ApplicationProcess": 0.4758884906768799,
+        "TimelineFrequency": 0.44257035851478577,
+        "AuthoritiesGovernance": 0.40782099962234497,
+        "DefinitionsReferences": 0.35853517055511475
+      }
+    },
+    {
+      "sentence": "The primary objective of the Maternity Benefit Scheme is to provide financial support to women during pregnancy and after childbirth.",
+      "role": "ContextObjective",
+      "confidence": 0.5705299377441406,
+      "similarities": {
+        "ContextObjective": 0.5705299377441406,
+        "BenefitsAssistance": 0.521426260471344,
+        "Eligibility": 0.46772897243499756,
+        "ApplicationProcess": 0.41698285937309265,
+        "TimelineFrequency": 0.442177414894104,
+        "AuthoritiesGovernance": 0.399402379989624,
+        "DefinitionsReferences": 0.37276339530944824
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce maternal and infant mortality rates by promoting better health and nutrition for mothers and their newborns.",
+      "role": "ContextObjective",
+      "confidence": 0.4764396846294403,
+      "similarities": {
+        "ContextObjective": 0.4764396846294403,
+        "BenefitsAssistance": 0.4047238826751709,
+        "Eligibility": 0.4412175416946411,
+        "ApplicationProcess": 0.38311129808425903,
+        "TimelineFrequency": 0.3855021297931671,
+        "AuthoritiesGovernance": 0.3956894874572754,
+        "DefinitionsReferences": 0.332374632358551
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets women who are in the workforce and are entitled to maternity benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5000295639038086,
+      "similarities": {
+        "ContextObjective": 0.49996417760849,
+        "BenefitsAssistance": 0.4349515438079834,
+        "Eligibility": 0.5000295639038086,
+        "ApplicationProcess": 0.3936253488063812,
+        "TimelineFrequency": 0.4496668577194214,
+        "AuthoritiesGovernance": 0.3788849711418152,
+        "DefinitionsReferences": 0.3400227427482605
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible women receive a cash benefit of ₹5,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5071923732757568,
+      "similarities": {
+        "ContextObjective": 0.4301838278770447,
+        "BenefitsAssistance": 0.5071923732757568,
+        "Eligibility": 0.4639192819595337,
+        "ApplicationProcess": 0.40238314867019653,
+        "TimelineFrequency": 0.38216114044189453,
+        "AuthoritiesGovernance": 0.35102102160453796,
+        "DefinitionsReferences": 0.34019801020622253
+      }
+    },
+    {
+      "sentence": "This amount is provided in three installments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6100795269012451,
+      "similarities": {
+        "ContextObjective": 0.5088808536529541,
+        "BenefitsAssistance": 0.6100795269012451,
+        "Eligibility": 0.4978312849998474,
+        "ApplicationProcess": 0.473425030708313,
+        "TimelineFrequency": 0.5253121256828308,
+        "AuthoritiesGovernance": 0.4553353786468506,
+        "DefinitionsReferences": 0.47118648886680603
+      }
+    },
+    {
+      "sentence": "The first installment of ₹1,000 is given at the time of registration of pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5491483211517334,
+      "similarities": {
+        "ContextObjective": 0.4551836848258972,
+        "BenefitsAssistance": 0.5491483211517334,
+        "Eligibility": 0.4799257516860962,
+        "ApplicationProcess": 0.46551501750946045,
+        "TimelineFrequency": 0.46563440561294556,
+        "AuthoritiesGovernance": 0.3741821050643921,
+        "DefinitionsReferences": 0.38273024559020996
+      }
+    },
+    {
+      "sentence": "The second installment of ₹2,000 is provided after the birth of the child.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5325103998184204,
+      "similarities": {
+        "ContextObjective": 0.43893876671791077,
+        "BenefitsAssistance": 0.5325103998184204,
+        "Eligibility": 0.43988263607025146,
+        "ApplicationProcess": 0.4122272729873657,
+        "TimelineFrequency": 0.4125397503376007,
+        "AuthoritiesGovernance": 0.3776460587978363,
+        "DefinitionsReferences": 0.39683714509010315
+      }
+    },
+    {
+      "sentence": "The final installment of ₹2,000 is given after the child is six months old.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47970640659332275,
+      "similarities": {
+        "ContextObjective": 0.38510140776634216,
+        "BenefitsAssistance": 0.47970640659332275,
+        "Eligibility": 0.42688626050949097,
+        "ApplicationProcess": 0.399798721075058,
+        "TimelineFrequency": 0.40455323457717896,
+        "AuthoritiesGovernance": 0.362800270318985,
+        "DefinitionsReferences": 0.3617609441280365
+      }
+    },
+    {
+      "sentence": "The total benefit of ₹5,000 is aimed at supporting women during the crucial phases of pregnancy and early motherhood.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5267016887664795,
+      "similarities": {
+        "ContextObjective": 0.4436367452144623,
+        "BenefitsAssistance": 0.5267016887664795,
+        "Eligibility": 0.4324648976325989,
+        "ApplicationProcess": 0.39072805643081665,
+        "TimelineFrequency": 0.4119645357131958,
+        "AuthoritiesGovernance": 0.34983766078948975,
+        "DefinitionsReferences": 0.37005311250686646
+      }
+    },
+    {
+      "sentence": "The Maternity Benefit Scheme is applicable to all women who are registered under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5063661336898804,
+      "similarities": {
+        "ContextObjective": 0.45170193910598755,
+        "BenefitsAssistance": 0.44878634810447693,
+        "Eligibility": 0.5063661336898804,
+        "ApplicationProcess": 0.4122617542743683,
+        "TimelineFrequency": 0.43695545196533203,
+        "AuthoritiesGovernance": 0.4145818054676056,
+        "DefinitionsReferences": 0.38962703943252563
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, the applicant must be a woman aged 18 years or older.",
+      "role": "Eligibility",
+      "confidence": 0.5986301302909851,
+      "similarities": {
+        "ContextObjective": 0.4986984431743622,
+        "BenefitsAssistance": 0.4535679817199707,
+        "Eligibility": 0.5986301302909851,
+        "ApplicationProcess": 0.5279501676559448,
+        "TimelineFrequency": 0.5072851777076721,
+        "AuthoritiesGovernance": 0.38895171880722046,
+        "DefinitionsReferences": 0.3622693419456482
+      }
+    },
+    {
+      "sentence": "The woman must also be a resident of India.",
+      "role": "Eligibility",
+      "confidence": 0.5367535352706909,
+      "similarities": {
+        "ContextObjective": 0.4211500883102417,
+        "BenefitsAssistance": 0.4197999835014343,
+        "Eligibility": 0.5367535352706909,
+        "ApplicationProcess": 0.49323946237564087,
+        "TimelineFrequency": 0.41678375005722046,
+        "AuthoritiesGovernance": 0.40603500604629517,
+        "DefinitionsReferences": 0.3761000335216522
+      }
+    },
+    {
+      "sentence": "The scheme is available to women who are expecting their first or second child.",
+      "role": "Eligibility",
+      "confidence": 0.5388287305831909,
+      "similarities": {
+        "ContextObjective": 0.5379084944725037,
+        "BenefitsAssistance": 0.510675847530365,
+        "Eligibility": 0.5388287305831909,
+        "ApplicationProcess": 0.484394371509552,
+        "TimelineFrequency": 0.49998706579208374,
+        "AuthoritiesGovernance": 0.3928144872188568,
+        "DefinitionsReferences": 0.3842557966709137
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹2.5 lakh per annum for families.",
+      "role": "Eligibility",
+      "confidence": 0.5777119398117065,
+      "similarities": {
+        "ContextObjective": 0.421193927526474,
+        "BenefitsAssistance": 0.49441155791282654,
+        "Eligibility": 0.5777119398117065,
+        "ApplicationProcess": 0.4509768486022949,
+        "TimelineFrequency": 0.43231308460235596,
+        "AuthoritiesGovernance": 0.35297149419784546,
+        "DefinitionsReferences": 0.3664877116680145
+      }
+    },
+    {
+      "sentence": "Women who are working in the organized sector are not eligible for this scheme as they are entitled to maternity benefits under the Employees' State Insurance Act.",
+      "role": "Eligibility",
+      "confidence": 0.4670618772506714,
+      "similarities": {
+        "ContextObjective": 0.3232653737068176,
+        "BenefitsAssistance": 0.37529417872428894,
+        "Eligibility": 0.4670618772506714,
+        "ApplicationProcess": 0.32856789231300354,
+        "TimelineFrequency": 0.3553621172904968,
+        "AuthoritiesGovernance": 0.4020824432373047,
+        "DefinitionsReferences": 0.2912803590297699
+      }
+    },
+    {
+      "sentence": "The application process for the Maternity Benefit Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.533244252204895,
+      "similarities": {
+        "ContextObjective": 0.5329638719558716,
+        "BenefitsAssistance": 0.4586368203163147,
+        "Eligibility": 0.51044762134552,
+        "ApplicationProcess": 0.533244252204895,
+        "TimelineFrequency": 0.5012804269790649,
+        "AuthoritiesGovernance": 0.4052426218986511,
+        "DefinitionsReferences": 0.3669411540031433
+      }
+    },
+    {
+      "sentence": "Eligible women must apply through the official website or at designated government offices.",
+      "role": "Eligibility",
+      "confidence": 0.6357340812683105,
+      "similarities": {
+        "ContextObjective": 0.4603717625141144,
+        "BenefitsAssistance": 0.4579761028289795,
+        "Eligibility": 0.6357340812683105,
+        "ApplicationProcess": 0.6228148937225342,
+        "TimelineFrequency": 0.5461328029632568,
+        "AuthoritiesGovernance": 0.4964205026626587,
+        "DefinitionsReferences": 0.47846662998199463
+      }
+    },
+    {
+      "sentence": "The application form can be downloaded from the official website of the Ministry of Women and Child Development.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6199638843536377,
+      "similarities": {
+        "ContextObjective": 0.4516441822052002,
+        "BenefitsAssistance": 0.4456486701965332,
+        "Eligibility": 0.5379053354263306,
+        "ApplicationProcess": 0.6199638843536377,
+        "TimelineFrequency": 0.5056787729263306,
+        "AuthoritiesGovernance": 0.45933353900909424,
+        "DefinitionsReferences": 0.43268710374832153
+      }
+    },
+    {
+      "sentence": "Applicants must provide specific documents including proof of pregnancy, identity proof, and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.636546790599823,
+      "similarities": {
+        "ContextObjective": 0.46814507246017456,
+        "BenefitsAssistance": 0.5750888586044312,
+        "Eligibility": 0.6024284958839417,
+        "ApplicationProcess": 0.636546790599823,
+        "TimelineFrequency": 0.5494285225868225,
+        "AuthoritiesGovernance": 0.42466312646865845,
+        "DefinitionsReferences": 0.503571093082428
+      }
+    },
+    {
+      "sentence": "The proof of pregnancy can be a certificate from a registered medical practitioner.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49831175804138184,
+      "similarities": {
+        "ContextObjective": 0.4341144561767578,
+        "BenefitsAssistance": 0.4576973617076874,
+        "Eligibility": 0.4592271149158478,
+        "ApplicationProcess": 0.49831175804138184,
+        "TimelineFrequency": 0.44778886437416077,
+        "AuthoritiesGovernance": 0.37497538328170776,
+        "DefinitionsReferences": 0.4446635842323303
+      }
+    },
+    {
+      "sentence": "The identity proof can include documents such as an Aadhar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.543670654296875,
+      "similarities": {
+        "ContextObjective": 0.4466368556022644,
+        "BenefitsAssistance": 0.5115187764167786,
+        "Eligibility": 0.4783061146736145,
+        "ApplicationProcess": 0.543670654296875,
+        "TimelineFrequency": 0.4505355954170227,
+        "AuthoritiesGovernance": 0.4159727394580841,
+        "DefinitionsReferences": 0.4883824586868286
+      }
+    },
+    {
+      "sentence": "The income certificate must be issued by a competent authority.",
+      "role": "Eligibility",
+      "confidence": 0.5449825525283813,
+      "similarities": {
+        "ContextObjective": 0.4770485460758209,
+        "BenefitsAssistance": 0.47015368938446045,
+        "Eligibility": 0.5449825525283813,
+        "ApplicationProcess": 0.5180963277816772,
+        "TimelineFrequency": 0.4154855012893677,
+        "AuthoritiesGovernance": 0.45573681592941284,
+        "DefinitionsReferences": 0.4320429563522339
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7232561111450195,
+      "similarities": {
+        "ContextObjective": 0.5142143964767456,
+        "BenefitsAssistance": 0.47200608253479004,
+        "Eligibility": 0.5876018404960632,
+        "ApplicationProcess": 0.7232561111450195,
+        "TimelineFrequency": 0.5488145351409912,
+        "AuthoritiesGovernance": 0.48696058988571167,
+        "DefinitionsReferences": 0.49431416392326355
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 to 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6170081496238708,
+      "similarities": {
+        "ContextObjective": 0.4187864065170288,
+        "BenefitsAssistance": 0.4725809693336487,
+        "Eligibility": 0.49795427918434143,
+        "ApplicationProcess": 0.6170081496238708,
+        "TimelineFrequency": 0.5579826831817627,
+        "AuthoritiesGovernance": 0.4405880570411682,
+        "DefinitionsReferences": 0.4455951750278473
+      }
+    },
+    {
+      "sentence": "After successful verification, the cash benefits are transferred directly to the bank account of the beneficiary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5080550312995911,
+      "similarities": {
+        "ContextObjective": 0.39529818296432495,
+        "BenefitsAssistance": 0.4999418556690216,
+        "Eligibility": 0.4997822344303131,
+        "ApplicationProcess": 0.5080550312995911,
+        "TimelineFrequency": 0.37617188692092896,
+        "AuthoritiesGovernance": 0.37444746494293213,
+        "DefinitionsReferences": 0.3669385612010956
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is done electronically to ensure transparency and efficiency.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6012599468231201,
+      "similarities": {
+        "ContextObjective": 0.4442440867424011,
+        "BenefitsAssistance": 0.6012599468231201,
+        "Eligibility": 0.4907630383968353,
+        "ApplicationProcess": 0.5337020754814148,
+        "TimelineFrequency": 0.47071993350982666,
+        "AuthoritiesGovernance": 0.515334963798523,
+        "DefinitionsReferences": 0.42787638306617737
+      }
+    },
+    {
+      "sentence": "The Maternity Benefit Scheme is implemented by the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5206041932106018,
+      "similarities": {
+        "ContextObjective": 0.49002736806869507,
+        "BenefitsAssistance": 0.46680182218551636,
+        "Eligibility": 0.4654202163219452,
+        "ApplicationProcess": 0.42260998487472534,
+        "TimelineFrequency": 0.41302329301834106,
+        "AuthoritiesGovernance": 0.5206041932106018,
+        "DefinitionsReferences": 0.37983763217926025
+      }
+    },
+    {
+      "sentence": "State governments also play a crucial role in the implementation of this scheme at the grassroots level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5651978254318237,
+      "similarities": {
+        "ContextObjective": 0.4794221520423889,
+        "BenefitsAssistance": 0.4003232717514038,
+        "Eligibility": 0.47133854031562805,
+        "ApplicationProcess": 0.4316599369049072,
+        "TimelineFrequency": 0.3537037968635559,
+        "AuthoritiesGovernance": 0.5651978254318237,
+        "DefinitionsReferences": 0.4253830909729004
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger National Food Security Act, which aims to provide nutritional support to pregnant and lactating women.",
+      "role": "ContextObjective",
+      "confidence": 0.4899330139160156,
+      "similarities": {
+        "ContextObjective": 0.4899330139160156,
+        "BenefitsAssistance": 0.45489412546157837,
+        "Eligibility": 0.46956199407577515,
+        "ApplicationProcess": 0.4077261686325073,
+        "TimelineFrequency": 0.3882916569709778,
+        "AuthoritiesGovernance": 0.3987863063812256,
+        "DefinitionsReferences": 0.4003990888595581
+      }
+    },
+    {
+      "sentence": "The Maternity Benefit Scheme is also aligned with the Sustainable Development Goals, particularly Goal 3, which focuses on ensuring healthy lives and promoting well-being for all at all ages.",
+      "role": "ContextObjective",
+      "confidence": 0.4950682520866394,
+      "similarities": {
+        "ContextObjective": 0.4950682520866394,
+        "BenefitsAssistance": 0.40398895740509033,
+        "Eligibility": 0.44836968183517456,
+        "ApplicationProcess": 0.34916892647743225,
+        "TimelineFrequency": 0.3752337396144867,
+        "AuthoritiesGovernance": 0.37296929955482483,
+        "DefinitionsReferences": 0.3531341850757599
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has benefited millions of women across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5028200745582581,
+      "similarities": {
+        "ContextObjective": 0.5028200745582581,
+        "BenefitsAssistance": 0.41572073101997375,
+        "Eligibility": 0.4588141441345215,
+        "ApplicationProcess": 0.3582566976547241,
+        "TimelineFrequency": 0.3916945159435272,
+        "AuthoritiesGovernance": 0.38362962007522583,
+        "DefinitionsReferences": 0.3499978482723236
+      }
+    },
+    {
+      "sentence": "Reports indicate that over 1 crore women have received benefits under this scheme since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.43841552734375,
+      "similarities": {
+        "ContextObjective": 0.43841552734375,
+        "BenefitsAssistance": 0.41799864172935486,
+        "Eligibility": 0.37778234481811523,
+        "ApplicationProcess": 0.3305339813232422,
+        "TimelineFrequency": 0.3230862021446228,
+        "AuthoritiesGovernance": 0.3805869221687317,
+        "DefinitionsReferences": 0.32198163866996765
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in improving maternal health indicators in various states.",
+      "role": "ContextObjective",
+      "confidence": 0.4974178671836853,
+      "similarities": {
+        "ContextObjective": 0.4974178671836853,
+        "BenefitsAssistance": 0.4555701017379761,
+        "Eligibility": 0.4636838138103485,
+        "ApplicationProcess": 0.40651077032089233,
+        "TimelineFrequency": 0.4180404543876648,
+        "AuthoritiesGovernance": 0.4447122812271118,
+        "DefinitionsReferences": 0.39223140478134155
+      }
+    },
+    {
+      "sentence": "The government has also initiated awareness campaigns to educate women about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4870586395263672,
+      "similarities": {
+        "ContextObjective": 0.4870586395263672,
+        "BenefitsAssistance": 0.44544553756713867,
+        "Eligibility": 0.43531832098960876,
+        "ApplicationProcess": 0.4138244390487671,
+        "TimelineFrequency": 0.3800787925720215,
+        "AuthoritiesGovernance": 0.4307425320148468,
+        "DefinitionsReferences": 0.38473212718963623
+      }
+    },
+    {
+      "sentence": "These campaigns aim to reach women in rural and underserved areas where access to information is limited.",
+      "role": "Eligibility",
+      "confidence": 0.47435763478279114,
+      "similarities": {
+        "ContextObjective": 0.45334282517433167,
+        "BenefitsAssistance": 0.4048144221305847,
+        "Eligibility": 0.47435763478279114,
+        "ApplicationProcess": 0.38606321811676025,
+        "TimelineFrequency": 0.397341251373291,
+        "AuthoritiesGovernance": 0.4348350465297699,
+        "DefinitionsReferences": 0.37105458974838257
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader effort by the Indian government to empower women and promote gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5077582597732544,
+      "similarities": {
+        "ContextObjective": 0.5077582597732544,
+        "BenefitsAssistance": 0.3835912048816681,
+        "Eligibility": 0.4279540777206421,
+        "ApplicationProcess": 0.3948790431022644,
+        "TimelineFrequency": 0.36626893281936646,
+        "AuthoritiesGovernance": 0.42528247833251953,
+        "DefinitionsReferences": 0.35789334774017334
+      }
+    },
+    {
+      "sentence": "The Maternity Benefit Scheme is also linked with other welfare programs aimed at women and children.",
+      "role": "ContextObjective",
+      "confidence": 0.47805601358413696,
+      "similarities": {
+        "ContextObjective": 0.47805601358413696,
+        "BenefitsAssistance": 0.45853620767593384,
+        "Eligibility": 0.4538381099700928,
+        "ApplicationProcess": 0.3499460816383362,
+        "TimelineFrequency": 0.4013326168060303,
+        "AuthoritiesGovernance": 0.40363940596580505,
+        "DefinitionsReferences": 0.39147254824638367
+      }
+    },
+    {
+      "sentence": "This includes schemes focused on nutrition, health care, and education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5397900342941284,
+      "similarities": {
+        "ContextObjective": 0.5256109237670898,
+        "BenefitsAssistance": 0.5397900342941284,
+        "Eligibility": 0.48613283038139343,
+        "ApplicationProcess": 0.42744624614715576,
+        "TimelineFrequency": 0.45046550035476685,
+        "AuthoritiesGovernance": 0.471625953912735,
+        "DefinitionsReferences": 0.4689970016479492
+      }
+    },
+    {
+      "sentence": "The government continuously reviews and updates the scheme based on feedback from beneficiaries and stakeholders.",
+      "role": "Eligibility",
+      "confidence": 0.5130911469459534,
+      "similarities": {
+        "ContextObjective": 0.49832379817962646,
+        "BenefitsAssistance": 0.48741966485977173,
+        "Eligibility": 0.5130911469459534,
+        "ApplicationProcess": 0.47793909907341003,
+        "TimelineFrequency": 0.456773579120636,
+        "AuthoritiesGovernance": 0.5055087208747864,
+        "DefinitionsReferences": 0.4493557810783386
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme encourages women to seek prenatal and postnatal care.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4996517300605774,
+      "similarities": {
+        "ContextObjective": 0.4709867537021637,
+        "BenefitsAssistance": 0.4996517300605774,
+        "Eligibility": 0.43518614768981934,
+        "ApplicationProcess": 0.40748322010040283,
+        "TimelineFrequency": 0.4083900451660156,
+        "AuthoritiesGovernance": 0.34570181369781494,
+        "DefinitionsReferences": 0.36860859394073486
+      }
+    },
+    {
+      "sentence": "Health care providers are also encouraged to educate women about the importance of nutrition during pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4092736840248108,
+      "similarities": {
+        "ContextObjective": 0.3454747796058655,
+        "BenefitsAssistance": 0.4092736840248108,
+        "Eligibility": 0.3636016249656677,
+        "ApplicationProcess": 0.34158772230148315,
+        "TimelineFrequency": 0.36053377389907837,
+        "AuthoritiesGovernance": 0.35524260997772217,
+        "DefinitionsReferences": 0.3521461486816406
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who report improved health outcomes for themselves and their children.",
+      "role": "ContextObjective",
+      "confidence": 0.46615302562713623,
+      "similarities": {
+        "ContextObjective": 0.46615302562713623,
+        "BenefitsAssistance": 0.46194902062416077,
+        "Eligibility": 0.4647453725337982,
+        "ApplicationProcess": 0.37848585844039917,
+        "TimelineFrequency": 0.34206515550613403,
+        "AuthoritiesGovernance": 0.3780370056629181,
+        "DefinitionsReferences": 0.34260645508766174
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that the benefits reach the intended recipients without any delays.",
+      "role": "Eligibility",
+      "confidence": 0.48422592878341675,
+      "similarities": {
+        "ContextObjective": 0.44361698627471924,
+        "BenefitsAssistance": 0.4459081292152405,
+        "Eligibility": 0.48422592878341675,
+        "ApplicationProcess": 0.41496628522872925,
+        "TimelineFrequency": 0.415386438369751,
+        "AuthoritiesGovernance": 0.4373399615287781,
+        "DefinitionsReferences": 0.3490145802497864
+      }
+    },
+    {
+      "sentence": "Regular audits and assessments are conducted to evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5198943614959717,
+      "similarities": {
+        "ContextObjective": 0.5198943614959717,
+        "BenefitsAssistance": 0.4681588113307953,
+        "Eligibility": 0.47432321310043335,
+        "ApplicationProcess": 0.5040401816368103,
+        "TimelineFrequency": 0.4710753858089447,
+        "AuthoritiesGovernance": 0.4902806878089905,
+        "DefinitionsReferences": 0.44397425651550293
+      }
+    },
+    {
+      "sentence": "The Maternity Benefit Scheme is a crucial step towards ensuring that women receive the support they need during one of the most critical phases of their lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5257248878479004,
+      "similarities": {
+        "ContextObjective": 0.5257248878479004,
+        "BenefitsAssistance": 0.4909668266773224,
+        "Eligibility": 0.4954937696456909,
+        "ApplicationProcess": 0.46650582551956177,
+        "TimelineFrequency": 0.47232574224472046,
+        "AuthoritiesGovernance": 0.4041629433631897,
+        "DefinitionsReferences": 0.38554975390434265
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to improving maternal health and reducing infant mortality rates.",
+      "role": "ContextObjective",
+      "confidence": 0.4404163956642151,
+      "similarities": {
+        "ContextObjective": 0.4404163956642151,
+        "BenefitsAssistance": 0.3833673298358917,
+        "Eligibility": 0.40557560324668884,
+        "ApplicationProcess": 0.3886621296405792,
+        "TimelineFrequency": 0.36685431003570557,
+        "AuthoritiesGovernance": 0.3976415991783142,
+        "DefinitionsReferences": 0.3397315740585327
+      }
+    },
+    {
+      "sentence": "It also serves as a recognition of the role of women in the workforce and the importance of supporting them during pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4271344244480133,
+      "similarities": {
+        "ContextObjective": 0.3935377895832062,
+        "BenefitsAssistance": 0.4271344244480133,
+        "Eligibility": 0.38040974736213684,
+        "ApplicationProcess": 0.3538680672645569,
+        "TimelineFrequency": 0.38641172647476196,
+        "AuthoritiesGovernance": 0.32852959632873535,
+        "DefinitionsReferences": 0.3865758776664734
+      }
+    },
+    {
+      "sentence": "The Maternity Benefit Scheme is a testament to the government's efforts to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.5012449026107788,
+      "similarities": {
+        "ContextObjective": 0.5012449026107788,
+        "BenefitsAssistance": 0.40368789434432983,
+        "Eligibility": 0.4265265166759491,
+        "ApplicationProcess": 0.3633236289024353,
+        "TimelineFrequency": 0.3362348973751068,
+        "AuthoritiesGovernance": 0.40622830390930176,
+        "DefinitionsReferences": 0.3524336814880371
+      }
+    },
+    {
+      "sentence": "The scheme is expected to continue evolving to meet the changing needs of women in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5223864912986755,
+      "similarities": {
+        "ContextObjective": 0.5223864912986755,
+        "BenefitsAssistance": 0.44393065571784973,
+        "Eligibility": 0.4829391837120056,
+        "ApplicationProcess": 0.43208080530166626,
+        "TimelineFrequency": 0.4256066083908081,
+        "AuthoritiesGovernance": 0.4324103593826294,
+        "DefinitionsReferences": 0.38736677169799805
+      }
+    },
+    {
+      "sentence": "As more women enter the workforce, the demand for maternity benefits is likely to increase.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47262775897979736,
+      "similarities": {
+        "ContextObjective": 0.43544262647628784,
+        "BenefitsAssistance": 0.47262775897979736,
+        "Eligibility": 0.4452274441719055,
+        "ApplicationProcess": 0.40250691771507263,
+        "TimelineFrequency": 0.4478306472301483,
+        "AuthoritiesGovernance": 0.36143651604652405,
+        "DefinitionsReferences": 0.3837868869304657
+      }
+    },
+    {
+      "sentence": "The government is prepared to address these challenges through policy adjustments and enhanced support mechanisms.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5359877347946167,
+      "similarities": {
+        "ContextObjective": 0.46385708451271057,
+        "BenefitsAssistance": 0.5272473096847534,
+        "Eligibility": 0.501645028591156,
+        "ApplicationProcess": 0.4595940113067627,
+        "TimelineFrequency": 0.42866548895835876,
+        "AuthoritiesGovernance": 0.5359877347946167,
+        "DefinitionsReferences": 0.4696839153766632
+      }
+    },
+    {
+      "sentence": "Overall, the Maternity Benefit Scheme is a vital initiative that has the potential to transform the lives of women and their families across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5351548194885254,
+      "similarities": {
+        "ContextObjective": 0.5351548194885254,
+        "BenefitsAssistance": 0.4336897134780884,
+        "Eligibility": 0.47461432218551636,
+        "ApplicationProcess": 0.3946491777896881,
+        "TimelineFrequency": 0.4041213095188141,
+        "AuthoritiesGovernance": 0.3931885063648224,
+        "DefinitionsReferences": 0.3611152768135071
+      }
+    },
+    {
+      "sentence": "It stands as a model for other welfare schemes aimed at supporting vulnerable populations.",
+      "role": "ContextObjective",
+      "confidence": 0.48188501596450806,
+      "similarities": {
+        "ContextObjective": 0.48188501596450806,
+        "BenefitsAssistance": 0.4099508225917816,
+        "Eligibility": 0.4743203818798065,
+        "ApplicationProcess": 0.36690348386764526,
+        "TimelineFrequency": 0.36773741245269775,
+        "AuthoritiesGovernance": 0.38264280557632446,
+        "DefinitionsReferences": 0.38186487555503845
+      }
+    },
+    {
+      "sentence": "The scheme underscores the importance of maternal health in achieving broader public health goals.",
+      "role": "ContextObjective",
+      "confidence": 0.5141410827636719,
+      "similarities": {
+        "ContextObjective": 0.5141410827636719,
+        "BenefitsAssistance": 0.4232151210308075,
+        "Eligibility": 0.44268661737442017,
+        "ApplicationProcess": 0.3866218328475952,
+        "TimelineFrequency": 0.3709445595741272,
+        "AuthoritiesGovernance": 0.41219592094421387,
+        "DefinitionsReferences": 0.37796205282211304
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to create a healthier and more prosperous future for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5006077289581299,
+      "similarities": {
+        "ContextObjective": 0.5006077289581299,
+        "BenefitsAssistance": 0.38600677251815796,
+        "Eligibility": 0.41872677206993103,
+        "ApplicationProcess": 0.39248231053352356,
+        "TimelineFrequency": 0.3497500419616699,
+        "AuthoritiesGovernance": 0.41810446977615356,
+        "DefinitionsReferences": 0.36940544843673706
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "Eligibility": 12,
+    "BenefitsAssistance": 12,
+    "ApplicationProcess": 8,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:30:48.291034"
+}

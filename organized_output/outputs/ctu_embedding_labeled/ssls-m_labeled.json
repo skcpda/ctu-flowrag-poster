@@ -1,0 +1,883 @@
+{
+  "scheme_name": "Small Scale Lending Scheme (Microfinance)",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Small Scale Lending Scheme, commonly known as the Microfinance Scheme, was launched by the Government of India in 2011.",
+      "role": "ContextObjective",
+      "confidence": 0.5528944730758667,
+      "similarities": {
+        "ContextObjective": 0.5528944730758667,
+        "BenefitsAssistance": 0.4782610237598419,
+        "Eligibility": 0.4800108075141907,
+        "ApplicationProcess": 0.43797534704208374,
+        "TimelineFrequency": 0.4183398187160492,
+        "AuthoritiesGovernance": 0.44249463081359863,
+        "DefinitionsReferences": 0.3792303800582886
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide financial assistance to small entrepreneurs and micro-businesses that lack access to traditional banking services.",
+      "role": "Eligibility",
+      "confidence": 0.4905168414115906,
+      "similarities": {
+        "ContextObjective": 0.48859477043151855,
+        "BenefitsAssistance": 0.48503684997558594,
+        "Eligibility": 0.4905168414115906,
+        "ApplicationProcess": 0.4304066300392151,
+        "TimelineFrequency": 0.3880643844604492,
+        "AuthoritiesGovernance": 0.37185361981391907,
+        "DefinitionsReferences": 0.32631105184555054
+      }
+    },
+    {
+      "sentence": "The primary objective of the Small Scale Lending Scheme is to promote self-employment and entrepreneurship among the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5289230942726135,
+      "similarities": {
+        "ContextObjective": 0.5289230942726135,
+        "BenefitsAssistance": 0.3822588324546814,
+        "Eligibility": 0.41940194368362427,
+        "ApplicationProcess": 0.3727794289588928,
+        "TimelineFrequency": 0.3591308295726776,
+        "AuthoritiesGovernance": 0.3605802357196808,
+        "DefinitionsReferences": 0.3085300624370575
+      }
+    },
+    {
+      "sentence": "The scheme targets individuals who are unable to secure loans from formal financial institutions due to lack of collateral or credit history.",
+      "role": "Eligibility",
+      "confidence": 0.5502437353134155,
+      "similarities": {
+        "ContextObjective": 0.5101727247238159,
+        "BenefitsAssistance": 0.4537183344364166,
+        "Eligibility": 0.5502437353134155,
+        "ApplicationProcess": 0.45719167590141296,
+        "TimelineFrequency": 0.43863987922668457,
+        "AuthoritiesGovernance": 0.36866894364356995,
+        "DefinitionsReferences": 0.3589140772819519
+      }
+    },
+    {
+      "sentence": "The government aims to empower at least 10 million individuals through this scheme by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.5076127052307129,
+      "similarities": {
+        "ContextObjective": 0.5076127052307129,
+        "BenefitsAssistance": 0.4062589406967163,
+        "Eligibility": 0.46459558606147766,
+        "ApplicationProcess": 0.4001002907752991,
+        "TimelineFrequency": 0.3831883668899536,
+        "AuthoritiesGovernance": 0.4272744059562683,
+        "DefinitionsReferences": 0.35171887278556824
+      }
+    },
+    {
+      "sentence": "The benefits of the Small Scale Lending Scheme include access to loans ranging from ₹10,000 to ₹1,00,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5023136734962463,
+      "similarities": {
+        "ContextObjective": 0.4286283254623413,
+        "BenefitsAssistance": 0.5023136734962463,
+        "Eligibility": 0.47029909491539,
+        "ApplicationProcess": 0.39523863792419434,
+        "TimelineFrequency": 0.39506131410598755,
+        "AuthoritiesGovernance": 0.33340373635292053,
+        "DefinitionsReferences": 0.3805103898048401
+      }
+    },
+    {
+      "sentence": "The interest rates on these loans are significantly lower than those offered by private lenders, typically ranging from 7% to 12% per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39228755235671997,
+      "similarities": {
+        "ContextObjective": 0.31531721353530884,
+        "BenefitsAssistance": 0.39228755235671997,
+        "Eligibility": 0.3622831702232361,
+        "ApplicationProcess": 0.3402865529060364,
+        "TimelineFrequency": 0.36927804350852966,
+        "AuthoritiesGovernance": 0.25864744186401367,
+        "DefinitionsReferences": 0.29005688428878784
+      }
+    },
+    {
+      "sentence": "The loans are intended to be used for various purposes including starting a small business, purchasing equipment, or expanding existing operations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5319193601608276,
+      "similarities": {
+        "ContextObjective": 0.5113610625267029,
+        "BenefitsAssistance": 0.5319193601608276,
+        "Eligibility": 0.5135620832443237,
+        "ApplicationProcess": 0.47060078382492065,
+        "TimelineFrequency": 0.4973068833351135,
+        "AuthoritiesGovernance": 0.39620694518089294,
+        "DefinitionsReferences": 0.4919208884239197
+      }
+    },
+    {
+      "sentence": "The scheme also encourages women entrepreneurs by offering additional incentives.",
+      "role": "ContextObjective",
+      "confidence": 0.4698359966278076,
+      "similarities": {
+        "ContextObjective": 0.4698359966278076,
+        "BenefitsAssistance": 0.41466042399406433,
+        "Eligibility": 0.4312562644481659,
+        "ApplicationProcess": 0.3765002489089966,
+        "TimelineFrequency": 0.39028313755989075,
+        "AuthoritiesGovernance": 0.3546353876590729,
+        "DefinitionsReferences": 0.3484758734703064
+      }
+    },
+    {
+      "sentence": "Women applicants can receive a higher loan amount of up to ₹1,50,000 under certain conditions.",
+      "role": "Eligibility",
+      "confidence": 0.5289701223373413,
+      "similarities": {
+        "ContextObjective": 0.4200168251991272,
+        "BenefitsAssistance": 0.5066064596176147,
+        "Eligibility": 0.5289701223373413,
+        "ApplicationProcess": 0.4534802734851837,
+        "TimelineFrequency": 0.4514346420764923,
+        "AuthoritiesGovernance": 0.3426101803779602,
+        "DefinitionsReferences": 0.4019731879234314
+      }
+    },
+    {
+      "sentence": "Eligibility for the Small Scale Lending Scheme is primarily based on the applicant's income level.",
+      "role": "Eligibility",
+      "confidence": 0.5728229880332947,
+      "similarities": {
+        "ContextObjective": 0.4591803252696991,
+        "BenefitsAssistance": 0.44995906949043274,
+        "Eligibility": 0.5728229880332947,
+        "ApplicationProcess": 0.4763684570789337,
+        "TimelineFrequency": 0.44639676809310913,
+        "AuthoritiesGovernance": 0.34130534529685974,
+        "DefinitionsReferences": 0.3339124917984009
+      }
+    },
+    {
+      "sentence": "Individuals with a monthly income of less than ₹15,000 are eligible to apply.",
+      "role": "Eligibility",
+      "confidence": 0.6170649528503418,
+      "similarities": {
+        "ContextObjective": 0.45705246925354004,
+        "BenefitsAssistance": 0.5561761856079102,
+        "Eligibility": 0.6170649528503418,
+        "ApplicationProcess": 0.5432116985321045,
+        "TimelineFrequency": 0.5142104625701904,
+        "AuthoritiesGovernance": 0.41054072976112366,
+        "DefinitionsReferences": 0.37884676456451416
+      }
+    },
+    {
+      "sentence": "The scheme is open to both men and women aged between 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5706262588500977,
+      "similarities": {
+        "ContextObjective": 0.53056800365448,
+        "BenefitsAssistance": 0.49233677983283997,
+        "Eligibility": 0.5706262588500977,
+        "ApplicationProcess": 0.4943777918815613,
+        "TimelineFrequency": 0.48200342059135437,
+        "AuthoritiesGovernance": 0.4203881621360779,
+        "DefinitionsReferences": 0.3771820366382599
+      }
+    },
+    {
+      "sentence": "Applicants must not have any outstanding loans from other financial institutions.",
+      "role": "Eligibility",
+      "confidence": 0.6002512574195862,
+      "similarities": {
+        "ContextObjective": 0.42750391364097595,
+        "BenefitsAssistance": 0.4509572982788086,
+        "Eligibility": 0.6002512574195862,
+        "ApplicationProcess": 0.5372785329818726,
+        "TimelineFrequency": 0.4883860647678375,
+        "AuthoritiesGovernance": 0.35792285203933716,
+        "DefinitionsReferences": 0.36588621139526367
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not a strict requirement for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5122826099395752,
+      "similarities": {
+        "ContextObjective": 0.49453967809677124,
+        "BenefitsAssistance": 0.42481112480163574,
+        "Eligibility": 0.5122826099395752,
+        "ApplicationProcess": 0.48348069190979004,
+        "TimelineFrequency": 0.4290834963321686,
+        "AuthoritiesGovernance": 0.37605518102645874,
+        "DefinitionsReferences": 0.3598361015319824
+      }
+    },
+    {
+      "sentence": "However, applicants are encouraged to have some basic understanding of business operations.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5496317744255066,
+      "similarities": {
+        "ContextObjective": 0.4970383048057556,
+        "BenefitsAssistance": 0.4689527153968811,
+        "Eligibility": 0.5485397577285767,
+        "ApplicationProcess": 0.5496317744255066,
+        "TimelineFrequency": 0.5158091187477112,
+        "AuthoritiesGovernance": 0.45024752616882324,
+        "DefinitionsReferences": 0.48337072134017944
+      }
+    },
+    {
+      "sentence": "The application process for the Small Scale Lending Scheme is straightforward and involves several key steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5952662229537964,
+      "similarities": {
+        "ContextObjective": 0.524264395236969,
+        "BenefitsAssistance": 0.4514197111129761,
+        "Eligibility": 0.514764666557312,
+        "ApplicationProcess": 0.5952662229537964,
+        "TimelineFrequency": 0.5051331520080566,
+        "AuthoritiesGovernance": 0.40544334053993225,
+        "DefinitionsReferences": 0.4137033224105835
+      }
+    },
+    {
+      "sentence": "Interested individuals must first approach a designated financial institution or microfinance organization approved by the government.",
+      "role": "Eligibility",
+      "confidence": 0.6075375080108643,
+      "similarities": {
+        "ContextObjective": 0.5009929537773132,
+        "BenefitsAssistance": 0.498646080493927,
+        "Eligibility": 0.6075375080108643,
+        "ApplicationProcess": 0.5740869641304016,
+        "TimelineFrequency": 0.4403127431869507,
+        "AuthoritiesGovernance": 0.47669410705566406,
+        "DefinitionsReferences": 0.4342988133430481
+      }
+    },
+    {
+      "sentence": "They are required to fill out an application form, which can often be obtained online or directly from the institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7161267995834351,
+      "similarities": {
+        "ContextObjective": 0.4642724394798279,
+        "BenefitsAssistance": 0.4813574552536011,
+        "Eligibility": 0.5764874219894409,
+        "ApplicationProcess": 0.7161267995834351,
+        "TimelineFrequency": 0.5746963620185852,
+        "AuthoritiesGovernance": 0.44278791546821594,
+        "DefinitionsReferences": 0.4657798707485199
+      }
+    },
+    {
+      "sentence": "Along with the application form, applicants must submit several documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7404218316078186,
+      "similarities": {
+        "ContextObjective": 0.5236945152282715,
+        "BenefitsAssistance": 0.5593727827072144,
+        "Eligibility": 0.6199676990509033,
+        "ApplicationProcess": 0.7404218316078186,
+        "TimelineFrequency": 0.6425430774688721,
+        "AuthoritiesGovernance": 0.49194270372390747,
+        "DefinitionsReferences": 0.5825840830802917
+      }
+    },
+    {
+      "sentence": "These documents typically include proof of identity such as an Aadhar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5348044633865356,
+      "similarities": {
+        "ContextObjective": 0.435646653175354,
+        "BenefitsAssistance": 0.4909532070159912,
+        "Eligibility": 0.4357970654964447,
+        "ApplicationProcess": 0.5348044633865356,
+        "TimelineFrequency": 0.43898820877075195,
+        "AuthoritiesGovernance": 0.4263288080692291,
+        "DefinitionsReferences": 0.4958990216255188
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of residence such as a utility bill or rental agreement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6446852684020996,
+      "similarities": {
+        "ContextObjective": 0.4242779016494751,
+        "BenefitsAssistance": 0.531748354434967,
+        "Eligibility": 0.549262285232544,
+        "ApplicationProcess": 0.6446852684020996,
+        "TimelineFrequency": 0.5422605276107788,
+        "AuthoritiesGovernance": 0.41707947850227356,
+        "DefinitionsReferences": 0.49050331115722656
+      }
+    },
+    {
+      "sentence": "Income proof is required and can be demonstrated through payslips or income certificates.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5589423179626465,
+      "similarities": {
+        "ContextObjective": 0.45616376399993896,
+        "BenefitsAssistance": 0.5589423179626465,
+        "Eligibility": 0.5387377738952637,
+        "ApplicationProcess": 0.5360991358757019,
+        "TimelineFrequency": 0.47078388929367065,
+        "AuthoritiesGovernance": 0.3827115297317505,
+        "DefinitionsReferences": 0.44025376439094543
+      }
+    },
+    {
+      "sentence": "Additionally, a business plan outlining the intended use of the loan may be requested.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5538046956062317,
+      "similarities": {
+        "ContextObjective": 0.5421793460845947,
+        "BenefitsAssistance": 0.5538046956062317,
+        "Eligibility": 0.5304182171821594,
+        "ApplicationProcess": 0.5060309171676636,
+        "TimelineFrequency": 0.5070069432258606,
+        "AuthoritiesGovernance": 0.407690167427063,
+        "DefinitionsReferences": 0.4907015562057495
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the financial institution will conduct a background check and assess the applicant's creditworthiness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6064033508300781,
+      "similarities": {
+        "ContextObjective": 0.46608635783195496,
+        "BenefitsAssistance": 0.516048014163971,
+        "Eligibility": 0.5824612975120544,
+        "ApplicationProcess": 0.6064033508300781,
+        "TimelineFrequency": 0.5082862973213196,
+        "AuthoritiesGovernance": 0.42241454124450684,
+        "DefinitionsReferences": 0.4355190694332123
+      }
+    },
+    {
+      "sentence": "The approval process usually takes between 7 to 15 working days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6123129725456238,
+      "similarities": {
+        "ContextObjective": 0.4540560245513916,
+        "BenefitsAssistance": 0.5045086741447449,
+        "Eligibility": 0.5209408402442932,
+        "ApplicationProcess": 0.6123129725456238,
+        "TimelineFrequency": 0.611546516418457,
+        "AuthoritiesGovernance": 0.5035994648933411,
+        "DefinitionsReferences": 0.47247231006622314
+      }
+    },
+    {
+      "sentence": "If approved, the loan amount is disbursed directly to the applicant's bank account.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5188127756118774,
+      "similarities": {
+        "ContextObjective": 0.3852025270462036,
+        "BenefitsAssistance": 0.5183966159820557,
+        "Eligibility": 0.4991912841796875,
+        "ApplicationProcess": 0.5188127756118774,
+        "TimelineFrequency": 0.4643307626247406,
+        "AuthoritiesGovernance": 0.3885115385055542,
+        "DefinitionsReferences": 0.35265934467315674
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is typically done in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5562682151794434,
+      "similarities": {
+        "ContextObjective": 0.4581030011177063,
+        "BenefitsAssistance": 0.5562682151794434,
+        "Eligibility": 0.440510630607605,
+        "ApplicationProcess": 0.4501431882381439,
+        "TimelineFrequency": 0.47977787256240845,
+        "AuthoritiesGovernance": 0.44281005859375,
+        "DefinitionsReferences": 0.4021639823913574
+      }
+    },
+    {
+      "sentence": "Loan repayments are structured to be flexible, allowing borrowers to repay in monthly installments over a period of 1 to 5 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5583969354629517,
+      "similarities": {
+        "ContextObjective": 0.44644686579704285,
+        "BenefitsAssistance": 0.5293663740158081,
+        "Eligibility": 0.5211626291275024,
+        "ApplicationProcess": 0.49119192361831665,
+        "TimelineFrequency": 0.5583969354629517,
+        "AuthoritiesGovernance": 0.4229140281677246,
+        "DefinitionsReferences": 0.4396577775478363
+      }
+    },
+    {
+      "sentence": "The frequency of repayments can be adjusted based on the borrower's cash flow.",
+      "role": "TimelineFrequency",
+      "confidence": 0.529386043548584,
+      "similarities": {
+        "ContextObjective": 0.3938104510307312,
+        "BenefitsAssistance": 0.5195249319076538,
+        "Eligibility": 0.495760440826416,
+        "ApplicationProcess": 0.4329225718975067,
+        "TimelineFrequency": 0.529386043548584,
+        "AuthoritiesGovernance": 0.3932340741157532,
+        "DefinitionsReferences": 0.41478869318962097
+      }
+    },
+    {
+      "sentence": "The Small Scale Lending Scheme is implemented by various financial institutions including public sector banks, private banks, and microfinance institutions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5401228070259094,
+      "similarities": {
+        "ContextObjective": 0.48453694581985474,
+        "BenefitsAssistance": 0.4948806166648865,
+        "Eligibility": 0.4928053021430969,
+        "ApplicationProcess": 0.45523709058761597,
+        "TimelineFrequency": 0.44935792684555054,
+        "AuthoritiesGovernance": 0.5401228070259094,
+        "DefinitionsReferences": 0.4331948757171631
+      }
+    },
+    {
+      "sentence": "The Ministry of Finance oversees the overall implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6197586059570312,
+      "similarities": {
+        "ContextObjective": 0.537793755531311,
+        "BenefitsAssistance": 0.5427756309509277,
+        "Eligibility": 0.49994295835494995,
+        "ApplicationProcess": 0.5076888203620911,
+        "TimelineFrequency": 0.4385669529438019,
+        "AuthoritiesGovernance": 0.6197586059570312,
+        "DefinitionsReferences": 0.44562143087387085
+      }
+    },
+    {
+      "sentence": "Specific departments such as the Department of Financial Services are responsible for monitoring and evaluating the scheme's performance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5314637422561646,
+      "similarities": {
+        "ContextObjective": 0.4903451204299927,
+        "BenefitsAssistance": 0.5314637422561646,
+        "Eligibility": 0.5159547924995422,
+        "ApplicationProcess": 0.4674643874168396,
+        "TimelineFrequency": 0.4505345821380615,
+        "AuthoritiesGovernance": 0.4951000213623047,
+        "DefinitionsReferences": 0.4122384786605835
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,000 crores for the Microfinance Scheme for the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.4876537322998047,
+      "similarities": {
+        "ContextObjective": 0.4876537322998047,
+        "BenefitsAssistance": 0.47558674216270447,
+        "Eligibility": 0.4823754131793976,
+        "ApplicationProcess": 0.38845133781433105,
+        "TimelineFrequency": 0.4000852704048157,
+        "AuthoritiesGovernance": 0.4173125922679901,
+        "DefinitionsReferences": 0.3359265923500061
+      }
+    },
+    {
+      "sentence": "This budget is aimed at supporting the growing number of applicants and ensuring that funds are readily available.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5359295606613159,
+      "similarities": {
+        "ContextObjective": 0.48565876483917236,
+        "BenefitsAssistance": 0.5359295606613159,
+        "Eligibility": 0.5269085168838501,
+        "ApplicationProcess": 0.49065157771110535,
+        "TimelineFrequency": 0.5215344429016113,
+        "AuthoritiesGovernance": 0.40770334005355835,
+        "DefinitionsReferences": 0.4071955680847168
+      }
+    },
+    {
+      "sentence": "As of October 2023, approximately 1.5 million loans have been disbursed under this scheme since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.49049824476242065,
+      "similarities": {
+        "ContextObjective": 0.49049824476242065,
+        "BenefitsAssistance": 0.47501489520072937,
+        "Eligibility": 0.4320056736469269,
+        "ApplicationProcess": 0.4063607156276703,
+        "TimelineFrequency": 0.43742629885673523,
+        "AuthoritiesGovernance": 0.39510267972946167,
+        "DefinitionsReferences": 0.37521761655807495
+      }
+    },
+    {
+      "sentence": "The total amount disbursed is estimated to be around ₹8,000 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5242419242858887,
+      "similarities": {
+        "ContextObjective": 0.39951080083847046,
+        "BenefitsAssistance": 0.5242419242858887,
+        "Eligibility": 0.3906572461128235,
+        "ApplicationProcess": 0.35113734006881714,
+        "TimelineFrequency": 0.35479575395584106,
+        "AuthoritiesGovernance": 0.4335780143737793,
+        "DefinitionsReferences": 0.36669856309890747
+      }
+    },
+    {
+      "sentence": "The scheme has significantly contributed to the livelihoods of many families, particularly in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.48303115367889404,
+      "similarities": {
+        "ContextObjective": 0.48303115367889404,
+        "BenefitsAssistance": 0.4433400630950928,
+        "Eligibility": 0.45868635177612305,
+        "ApplicationProcess": 0.3821175992488861,
+        "TimelineFrequency": 0.3513649106025696,
+        "AuthoritiesGovernance": 0.39416518807411194,
+        "DefinitionsReferences": 0.37771931290626526
+      }
+    },
+    {
+      "sentence": "Statistical data indicates that 60% of the beneficiaries are women, highlighting the scheme's focus on empowering female entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.4068610668182373,
+      "similarities": {
+        "ContextObjective": 0.4068610668182373,
+        "BenefitsAssistance": 0.3685639202594757,
+        "Eligibility": 0.38904887437820435,
+        "ApplicationProcess": 0.3198179006576538,
+        "TimelineFrequency": 0.321641743183136,
+        "AuthoritiesGovernance": 0.32528722286224365,
+        "DefinitionsReferences": 0.31915488839149475
+      }
+    },
+    {
+      "sentence": "The government has also introduced training programs to help beneficiaries develop their business skills.",
+      "role": "Eligibility",
+      "confidence": 0.47021743655204773,
+      "similarities": {
+        "ContextObjective": 0.46609294414520264,
+        "BenefitsAssistance": 0.4445981979370117,
+        "Eligibility": 0.47021743655204773,
+        "ApplicationProcess": 0.4161953330039978,
+        "TimelineFrequency": 0.39594489336013794,
+        "AuthoritiesGovernance": 0.45485371351242065,
+        "DefinitionsReferences": 0.4499323070049286
+      }
+    },
+    {
+      "sentence": "These programs cover topics such as financial literacy, marketing strategies, and operational management.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.542294442653656,
+      "similarities": {
+        "ContextObjective": 0.4742799699306488,
+        "BenefitsAssistance": 0.542294442653656,
+        "Eligibility": 0.47422075271606445,
+        "ApplicationProcess": 0.43340328335762024,
+        "TimelineFrequency": 0.48168838024139404,
+        "AuthoritiesGovernance": 0.4305206835269928,
+        "DefinitionsReferences": 0.4907398819923401
+      }
+    },
+    {
+      "sentence": "The training sessions are often conducted in collaboration with local NGOs and business development service providers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.479608416557312,
+      "similarities": {
+        "ContextObjective": 0.45589134097099304,
+        "BenefitsAssistance": 0.39036110043525696,
+        "Eligibility": 0.4179621934890747,
+        "ApplicationProcess": 0.3811367452144623,
+        "TimelineFrequency": 0.39450785517692566,
+        "AuthoritiesGovernance": 0.479608416557312,
+        "DefinitionsReferences": 0.44189417362213135
+      }
+    },
+    {
+      "sentence": "The Small Scale Lending Scheme has been instrumental in reducing poverty levels in targeted regions.",
+      "role": "ContextObjective",
+      "confidence": 0.46778786182403564,
+      "similarities": {
+        "ContextObjective": 0.46778786182403564,
+        "BenefitsAssistance": 0.38903123140335083,
+        "Eligibility": 0.447566956281662,
+        "ApplicationProcess": 0.3401128053665161,
+        "TimelineFrequency": 0.32468193769454956,
+        "AuthoritiesGovernance": 0.3788900375366211,
+        "DefinitionsReferences": 0.32561808824539185
+      }
+    },
+    {
+      "sentence": "According to recent surveys, beneficiaries have reported an increase in their monthly income by an average of 30% after receiving loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4542320966720581,
+      "similarities": {
+        "ContextObjective": 0.3735549747943878,
+        "BenefitsAssistance": 0.4542320966720581,
+        "Eligibility": 0.4161074161529541,
+        "ApplicationProcess": 0.36375510692596436,
+        "TimelineFrequency": 0.3568870425224304,
+        "AuthoritiesGovernance": 0.3320516347885132,
+        "DefinitionsReferences": 0.3479604721069336
+      }
+    },
+    {
+      "sentence": "The scheme has also led to the creation of approximately 2 million jobs across various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.47460275888442993,
+      "similarities": {
+        "ContextObjective": 0.47460275888442993,
+        "BenefitsAssistance": 0.408194899559021,
+        "Eligibility": 0.4213351011276245,
+        "ApplicationProcess": 0.36273515224456787,
+        "TimelineFrequency": 0.37754637002944946,
+        "AuthoritiesGovernance": 0.397516131401062,
+        "DefinitionsReferences": 0.3811129331588745
+      }
+    },
+    {
+      "sentence": "In addition to direct financial assistance, the scheme promotes the establishment of self-help groups.",
+      "role": "ContextObjective",
+      "confidence": 0.5110569596290588,
+      "similarities": {
+        "ContextObjective": 0.5110569596290588,
+        "BenefitsAssistance": 0.5069990754127502,
+        "Eligibility": 0.43925583362579346,
+        "ApplicationProcess": 0.37449902296066284,
+        "TimelineFrequency": 0.3568372130393982,
+        "AuthoritiesGovernance": 0.41081327199935913,
+        "DefinitionsReferences": 0.3773350119590759
+      }
+    },
+    {
+      "sentence": "These groups provide a platform for individuals to share resources and support each other in their business ventures.",
+      "role": "ContextObjective",
+      "confidence": 0.5220893025398254,
+      "similarities": {
+        "ContextObjective": 0.5220893025398254,
+        "BenefitsAssistance": 0.4885847568511963,
+        "Eligibility": 0.4876302182674408,
+        "ApplicationProcess": 0.40916743874549866,
+        "TimelineFrequency": 0.41143471002578735,
+        "AuthoritiesGovernance": 0.4710390865802765,
+        "DefinitionsReferences": 0.49245119094848633
+      }
+    },
+    {
+      "sentence": "The government encourages the formation of self-help groups by offering additional financial incentives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5111879110336304,
+      "similarities": {
+        "ContextObjective": 0.5000098943710327,
+        "BenefitsAssistance": 0.5111879110336304,
+        "Eligibility": 0.4785333275794983,
+        "ApplicationProcess": 0.4031975567340851,
+        "TimelineFrequency": 0.38816046714782715,
+        "AuthoritiesGovernance": 0.45075559616088867,
+        "DefinitionsReferences": 0.4130514860153198
+      }
+    },
+    {
+      "sentence": "For example, groups that successfully repay their loans on time may be eligible for larger amounts in subsequent loans.",
+      "role": "Eligibility",
+      "confidence": 0.5370316505432129,
+      "similarities": {
+        "ContextObjective": 0.46588629484176636,
+        "BenefitsAssistance": 0.48790451884269714,
+        "Eligibility": 0.5370316505432129,
+        "ApplicationProcess": 0.4393260180950165,
+        "TimelineFrequency": 0.4887527823448181,
+        "AuthoritiesGovernance": 0.3825213313102722,
+        "DefinitionsReferences": 0.42400699853897095
+      }
+    },
+    {
+      "sentence": "The Small Scale Lending Scheme is part of a broader initiative by the Indian government to enhance financial inclusion.",
+      "role": "ContextObjective",
+      "confidence": 0.5169787406921387,
+      "similarities": {
+        "ContextObjective": 0.5169787406921387,
+        "BenefitsAssistance": 0.48248523473739624,
+        "Eligibility": 0.4871765971183777,
+        "ApplicationProcess": 0.43133842945098877,
+        "TimelineFrequency": 0.39919453859329224,
+        "AuthoritiesGovernance": 0.43854814767837524,
+        "DefinitionsReferences": 0.39696669578552246
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that at least 80% of the population has access to financial services by 2025.",
+      "role": "Eligibility",
+      "confidence": 0.4771614372730255,
+      "similarities": {
+        "ContextObjective": 0.4655676782131195,
+        "BenefitsAssistance": 0.46454477310180664,
+        "Eligibility": 0.4771614372730255,
+        "ApplicationProcess": 0.43794453144073486,
+        "TimelineFrequency": 0.4081411361694336,
+        "AuthoritiesGovernance": 0.43433260917663574,
+        "DefinitionsReferences": 0.3724977374076843
+      }
+    },
+    {
+      "sentence": "Through this scheme, the government is also working to bridge the gap between urban and rural financial services.",
+      "role": "ContextObjective",
+      "confidence": 0.4622262716293335,
+      "similarities": {
+        "ContextObjective": 0.4622262716293335,
+        "BenefitsAssistance": 0.40814459323883057,
+        "Eligibility": 0.4282340705394745,
+        "ApplicationProcess": 0.4122151732444763,
+        "TimelineFrequency": 0.3587397336959839,
+        "AuthoritiesGovernance": 0.3681424856185913,
+        "DefinitionsReferences": 0.33213603496551514
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who have experienced improved living standards.",
+      "role": "ContextObjective",
+      "confidence": 0.5086524486541748,
+      "similarities": {
+        "ContextObjective": 0.5086524486541748,
+        "BenefitsAssistance": 0.4685057997703552,
+        "Eligibility": 0.48700326681137085,
+        "ApplicationProcess": 0.4056507647037506,
+        "TimelineFrequency": 0.366096556186676,
+        "AuthoritiesGovernance": 0.3982110023498535,
+        "DefinitionsReferences": 0.37771934270858765
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have reported being able to afford better education for their children as a result of increased income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5225920677185059,
+      "similarities": {
+        "ContextObjective": 0.4433422088623047,
+        "BenefitsAssistance": 0.5225920677185059,
+        "Eligibility": 0.4629068374633789,
+        "ApplicationProcess": 0.3844713568687439,
+        "TimelineFrequency": 0.3659658432006836,
+        "AuthoritiesGovernance": 0.35158735513687134,
+        "DefinitionsReferences": 0.40675219893455505
+      }
+    },
+    {
+      "sentence": "The government continues to evaluate the scheme's impact and make necessary adjustments to improve its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4956347644329071,
+      "similarities": {
+        "ContextObjective": 0.49103298783302307,
+        "BenefitsAssistance": 0.449158251285553,
+        "Eligibility": 0.46603989601135254,
+        "ApplicationProcess": 0.4611004590988159,
+        "TimelineFrequency": 0.4203837811946869,
+        "AuthoritiesGovernance": 0.4956347644329071,
+        "DefinitionsReferences": 0.4100738763809204
+      }
+    },
+    {
+      "sentence": "Regular workshops and feedback sessions are held to gather insights from beneficiaries and stakeholders.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5280109643936157,
+      "similarities": {
+        "ContextObjective": 0.4860163629055023,
+        "BenefitsAssistance": 0.4766174852848053,
+        "Eligibility": 0.4884830713272095,
+        "ApplicationProcess": 0.43377357721328735,
+        "TimelineFrequency": 0.45297324657440186,
+        "AuthoritiesGovernance": 0.5280109643936157,
+        "DefinitionsReferences": 0.4780319929122925
+      }
+    },
+    {
+      "sentence": "Overall, the Small Scale Lending Scheme represents a significant step towards fostering entrepreneurship and economic development in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4440176486968994,
+      "similarities": {
+        "ContextObjective": 0.4440176486968994,
+        "BenefitsAssistance": 0.37566637992858887,
+        "Eligibility": 0.37432947754859924,
+        "ApplicationProcess": 0.3797362446784973,
+        "TimelineFrequency": 0.33767935633659363,
+        "AuthoritiesGovernance": 0.3274058699607849,
+        "DefinitionsReferences": 0.35299384593963623
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial support but also empowers individuals to take control of their economic futures.",
+      "role": "ContextObjective",
+      "confidence": 0.5437040328979492,
+      "similarities": {
+        "ContextObjective": 0.5437040328979492,
+        "BenefitsAssistance": 0.5145888328552246,
+        "Eligibility": 0.48344218730926514,
+        "ApplicationProcess": 0.3973315358161926,
+        "TimelineFrequency": 0.40459495782852173,
+        "AuthoritiesGovernance": 0.3939330279827118,
+        "DefinitionsReferences": 0.3709579110145569
+      }
+    },
+    {
+      "sentence": "By focusing on microfinance, the government is addressing the critical need for accessible financial services for the underserved population.",
+      "role": "Eligibility",
+      "confidence": 0.5052899718284607,
+      "similarities": {
+        "ContextObjective": 0.46375933289527893,
+        "BenefitsAssistance": 0.4781685471534729,
+        "Eligibility": 0.5052899718284607,
+        "ApplicationProcess": 0.41908514499664307,
+        "TimelineFrequency": 0.3523305058479309,
+        "AuthoritiesGovernance": 0.413867324590683,
+        "DefinitionsReferences": 0.35641032457351685
+      }
+    },
+    {
+      "sentence": "This initiative is expected to play a crucial role in achieving the country's economic growth targets in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.5005894303321838,
+      "similarities": {
+        "ContextObjective": 0.5005894303321838,
+        "BenefitsAssistance": 0.39764857292175293,
+        "Eligibility": 0.44141513109207153,
+        "ApplicationProcess": 0.4156345725059509,
+        "TimelineFrequency": 0.39313578605651855,
+        "AuthoritiesGovernance": 0.3996727168560028,
+        "DefinitionsReferences": 0.38071370124816895
+      }
+    },
+    {
+      "sentence": "The success of the Small Scale Lending Scheme can serve as a model for similar initiatives in other developing nations.",
+      "role": "ContextObjective",
+      "confidence": 0.47190582752227783,
+      "similarities": {
+        "ContextObjective": 0.47190582752227783,
+        "BenefitsAssistance": 0.37038636207580566,
+        "Eligibility": 0.44586044549942017,
+        "ApplicationProcess": 0.379673570394516,
+        "TimelineFrequency": 0.34432506561279297,
+        "AuthoritiesGovernance": 0.38161981105804443,
+        "DefinitionsReferences": 0.36835962533950806
+      }
+    },
+    {
+      "sentence": "The government remains committed to expanding the reach and impact of this scheme in the future.",
+      "role": "ContextObjective",
+      "confidence": 0.5065262317657471,
+      "similarities": {
+        "ContextObjective": 0.5065262317657471,
+        "BenefitsAssistance": 0.4052519202232361,
+        "Eligibility": 0.4606338143348694,
+        "ApplicationProcess": 0.4051661491394043,
+        "TimelineFrequency": 0.3796059489250183,
+        "AuthoritiesGovernance": 0.44731783866882324,
+        "DefinitionsReferences": 0.4020160138607025
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "Eligibility": 13,
+    "BenefitsAssistance": 13,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-24T21:03:10.775175"
+}

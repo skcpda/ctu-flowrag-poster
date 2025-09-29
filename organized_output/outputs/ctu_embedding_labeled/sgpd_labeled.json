@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Surgical Grant For The Prevention Of Disability",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Surgical Grant For The Prevention Of Disability is a significant welfare scheme initiated by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5000976324081421,
+      "similarities": {
+        "ContextObjective": 0.5000976324081421,
+        "BenefitsAssistance": 0.4670683443546295,
+        "Eligibility": 0.48011553287506104,
+        "ApplicationProcess": 0.3960067629814148,
+        "TimelineFrequency": 0.35239148139953613,
+        "AuthoritiesGovernance": 0.4137428402900696,
+        "DefinitionsReferences": 0.34965780377388
+      }
+    },
+    {
+      "sentence": "This scheme was launched in the year 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.6224925518035889,
+      "similarities": {
+        "ContextObjective": 0.6224925518035889,
+        "BenefitsAssistance": 0.47945594787597656,
+        "Eligibility": 0.502655565738678,
+        "ApplicationProcess": 0.5056948661804199,
+        "TimelineFrequency": 0.4754999279975891,
+        "AuthoritiesGovernance": 0.4274693727493286,
+        "DefinitionsReferences": 0.413979709148407
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance for surgical interventions to prevent disabilities among individuals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5550240278244019,
+      "similarities": {
+        "ContextObjective": 0.4866499900817871,
+        "BenefitsAssistance": 0.5550240278244019,
+        "Eligibility": 0.5370901823043823,
+        "ApplicationProcess": 0.4244470000267029,
+        "TimelineFrequency": 0.39656829833984375,
+        "AuthoritiesGovernance": 0.4328637719154358,
+        "DefinitionsReferences": 0.3743579685688019
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to reduce the incidence of disabilities caused by various medical conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.560909628868103,
+      "similarities": {
+        "ContextObjective": 0.560909628868103,
+        "BenefitsAssistance": 0.4634624719619751,
+        "Eligibility": 0.514164388179779,
+        "ApplicationProcess": 0.4495241045951843,
+        "TimelineFrequency": 0.44451847672462463,
+        "AuthoritiesGovernance": 0.4539988040924072,
+        "DefinitionsReferences": 0.3796359598636627
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets individuals suffering from conditions such as congenital deformities, trauma, and other medical conditions that can lead to disabilities if not treated.",
+      "role": "Eligibility",
+      "confidence": 0.5716786980628967,
+      "similarities": {
+        "ContextObjective": 0.4791331887245178,
+        "BenefitsAssistance": 0.46749019622802734,
+        "Eligibility": 0.5716786980628967,
+        "ApplicationProcess": 0.43742233514785767,
+        "TimelineFrequency": 0.43888479471206665,
+        "AuthoritiesGovernance": 0.3963741064071655,
+        "DefinitionsReferences": 0.3650972843170166
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target to assist approximately 1 million individuals under this scheme annually.",
+      "role": "ContextObjective",
+      "confidence": 0.5229541659355164,
+      "similarities": {
+        "ContextObjective": 0.5229541659355164,
+        "BenefitsAssistance": 0.4465111494064331,
+        "Eligibility": 0.5118955373764038,
+        "ApplicationProcess": 0.42036882042884827,
+        "TimelineFrequency": 0.3878551423549652,
+        "AuthoritiesGovernance": 0.42526811361312866,
+        "DefinitionsReferences": 0.3310385048389435
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is up to INR 1 lakh per individual.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5577595233917236,
+      "similarities": {
+        "ContextObjective": 0.45776623487472534,
+        "BenefitsAssistance": 0.5577595233917236,
+        "Eligibility": 0.509086549282074,
+        "ApplicationProcess": 0.4263458847999573,
+        "TimelineFrequency": 0.38920605182647705,
+        "AuthoritiesGovernance": 0.4058881998062134,
+        "DefinitionsReferences": 0.36257246136665344
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover the costs of surgeries, hospitalization, and post-operative care.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6391832828521729,
+      "similarities": {
+        "ContextObjective": 0.442282497882843,
+        "BenefitsAssistance": 0.6391832828521729,
+        "Eligibility": 0.4341035485267639,
+        "ApplicationProcess": 0.4295988082885742,
+        "TimelineFrequency": 0.4242939054965973,
+        "AuthoritiesGovernance": 0.4141314625740051,
+        "DefinitionsReferences": 0.4343447685241699
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5289045572280884,
+      "similarities": {
+        "ContextObjective": 0.5289045572280884,
+        "BenefitsAssistance": 0.4591618776321411,
+        "Eligibility": 0.5011030435562134,
+        "ApplicationProcess": 0.40053972601890564,
+        "TimelineFrequency": 0.4009166657924652,
+        "AuthoritiesGovernance": 0.42928165197372437,
+        "DefinitionsReferences": 0.35777074098587036
+      }
+    },
+    {
+      "sentence": "Individuals with an annual income of less than INR 3 lakh are eligible to apply for assistance under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6011620759963989,
+      "similarities": {
+        "ContextObjective": 0.49114564061164856,
+        "BenefitsAssistance": 0.5400438904762268,
+        "Eligibility": 0.6011620759963989,
+        "ApplicationProcess": 0.5206931829452515,
+        "TimelineFrequency": 0.477852463722229,
+        "AuthoritiesGovernance": 0.42414891719818115,
+        "DefinitionsReferences": 0.3671327233314514
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5692412853240967,
+      "similarities": {
+        "ContextObjective": 0.4365748167037964,
+        "BenefitsAssistance": 0.44919970631599426,
+        "Eligibility": 0.5692412853240967,
+        "ApplicationProcess": 0.450136661529541,
+        "TimelineFrequency": 0.47083744406700134,
+        "AuthoritiesGovernance": 0.36204925179481506,
+        "DefinitionsReferences": 0.3656081259250641
+      }
+    },
+    {
+      "sentence": "However, preference is given to children and young adults who are more likely to benefit from surgical interventions.",
+      "role": "Eligibility",
+      "confidence": 0.4093788266181946,
+      "similarities": {
+        "ContextObjective": 0.3649190664291382,
+        "BenefitsAssistance": 0.3544948101043701,
+        "Eligibility": 0.4093788266181946,
+        "ApplicationProcess": 0.30258238315582275,
+        "TimelineFrequency": 0.3322816491127014,
+        "AuthoritiesGovernance": 0.3296234607696533,
+        "DefinitionsReferences": 0.30965304374694824
+      }
+    },
+    {
+      "sentence": "The application process for the Surgical Grant For The Prevention Of Disability is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4964350461959839,
+      "similarities": {
+        "ContextObjective": 0.44481104612350464,
+        "BenefitsAssistance": 0.42035138607025146,
+        "Eligibility": 0.49042800068855286,
+        "ApplicationProcess": 0.4964350461959839,
+        "TimelineFrequency": 0.42583513259887695,
+        "AuthoritiesGovernance": 0.36535346508026123,
+        "DefinitionsReferences": 0.3197669982910156
+      }
+    },
+    {
+      "sentence": "Interested individuals must approach the nearest government hospital or health center.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5243022441864014,
+      "similarities": {
+        "ContextObjective": 0.43621134757995605,
+        "BenefitsAssistance": 0.4492644965648651,
+        "Eligibility": 0.5173587799072266,
+        "ApplicationProcess": 0.5243022441864014,
+        "TimelineFrequency": 0.4116806387901306,
+        "AuthoritiesGovernance": 0.4776124358177185,
+        "DefinitionsReferences": 0.41488972306251526
+      }
+    },
+    {
+      "sentence": "They need to fill out an application form that is available at these facilities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6874094605445862,
+      "similarities": {
+        "ContextObjective": 0.48367416858673096,
+        "BenefitsAssistance": 0.4980909526348114,
+        "Eligibility": 0.6188582181930542,
+        "ApplicationProcess": 0.6874094605445862,
+        "TimelineFrequency": 0.5678135752677917,
+        "AuthoritiesGovernance": 0.47773393988609314,
+        "DefinitionsReferences": 0.48892277479171753
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the applicant's name, age, address, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7093074321746826,
+      "similarities": {
+        "ContextObjective": 0.5164268016815186,
+        "BenefitsAssistance": 0.6032060384750366,
+        "Eligibility": 0.6491953134536743,
+        "ApplicationProcess": 0.7093074321746826,
+        "TimelineFrequency": 0.5881029367446899,
+        "AuthoritiesGovernance": 0.4621865451335907,
+        "DefinitionsReferences": 0.5245068073272705
+      }
+    },
+    {
+      "sentence": "Additionally, medical documentation supporting the need for surgery must be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5680622458457947,
+      "similarities": {
+        "ContextObjective": 0.4412599802017212,
+        "BenefitsAssistance": 0.5524188280105591,
+        "Eligibility": 0.514630913734436,
+        "ApplicationProcess": 0.5680622458457947,
+        "TimelineFrequency": 0.46233731508255005,
+        "AuthoritiesGovernance": 0.42555683851242065,
+        "DefinitionsReferences": 0.46984899044036865
+      }
+    },
+    {
+      "sentence": "This documentation should include a diagnosis from a qualified medical professional.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5195106267929077,
+      "similarities": {
+        "ContextObjective": 0.4608047604560852,
+        "BenefitsAssistance": 0.5093522667884827,
+        "Eligibility": 0.49263375997543335,
+        "ApplicationProcess": 0.5195106267929077,
+        "TimelineFrequency": 0.44053617119789124,
+        "AuthoritiesGovernance": 0.43825507164001465,
+        "DefinitionsReferences": 0.457389771938324
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by a committee at the health facility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5837637186050415,
+      "similarities": {
+        "ContextObjective": 0.4453040361404419,
+        "BenefitsAssistance": 0.46903228759765625,
+        "Eligibility": 0.5310829281806946,
+        "ApplicationProcess": 0.5837637186050415,
+        "TimelineFrequency": 0.49016687273979187,
+        "AuthoritiesGovernance": 0.4876982569694519,
+        "DefinitionsReferences": 0.4001067876815796
+      }
+    },
+    {
+      "sentence": "The committee assesses the medical need and financial eligibility of the applicant.",
+      "role": "Eligibility",
+      "confidence": 0.6077746152877808,
+      "similarities": {
+        "ContextObjective": 0.49853062629699707,
+        "BenefitsAssistance": 0.5810139775276184,
+        "Eligibility": 0.6077746152877808,
+        "ApplicationProcess": 0.5615981817245483,
+        "TimelineFrequency": 0.5261721014976501,
+        "AuthoritiesGovernance": 0.45383885502815247,
+        "DefinitionsReferences": 0.4144805073738098
+      }
+    },
+    {
+      "sentence": "If approved, the grant is disbursed directly to the hospital where the surgery will be performed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44315940141677856,
+      "similarities": {
+        "ContextObjective": 0.34224221110343933,
+        "BenefitsAssistance": 0.44315940141677856,
+        "Eligibility": 0.4403996169567108,
+        "ApplicationProcess": 0.39823073148727417,
+        "TimelineFrequency": 0.3429758846759796,
+        "AuthoritiesGovernance": 0.40533941984176636,
+        "DefinitionsReferences": 0.29455453157424927
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications typically ranges from 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.664146900177002,
+      "similarities": {
+        "ContextObjective": 0.47051680088043213,
+        "BenefitsAssistance": 0.4881230592727661,
+        "Eligibility": 0.5471484065055847,
+        "ApplicationProcess": 0.61158287525177,
+        "TimelineFrequency": 0.664146900177002,
+        "AuthoritiesGovernance": 0.4704633355140686,
+        "DefinitionsReferences": 0.4608253836631775
+      }
+    },
+    {
+      "sentence": "Disbursement of funds is usually completed before the scheduled surgery date.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5198110938072205,
+      "similarities": {
+        "ContextObjective": 0.4196474850177765,
+        "BenefitsAssistance": 0.5198110938072205,
+        "Eligibility": 0.4399278163909912,
+        "ApplicationProcess": 0.39367830753326416,
+        "TimelineFrequency": 0.45529407262802124,
+        "AuthoritiesGovernance": 0.383567214012146,
+        "DefinitionsReferences": 0.33054763078689575
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Health and Family Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5760237574577332,
+      "similarities": {
+        "ContextObjective": 0.4669407606124878,
+        "BenefitsAssistance": 0.4473905861377716,
+        "Eligibility": 0.5046538710594177,
+        "ApplicationProcess": 0.43879374861717224,
+        "TimelineFrequency": 0.38055428862571716,
+        "AuthoritiesGovernance": 0.5760237574577332,
+        "DefinitionsReferences": 0.3920864164829254
+      }
+    },
+    {
+      "sentence": "The National Health Mission is also involved in the execution of this scheme at the state level.",
+      "role": "ContextObjective",
+      "confidence": 0.48018717765808105,
+      "similarities": {
+        "ContextObjective": 0.48018717765808105,
+        "BenefitsAssistance": 0.4022098183631897,
+        "Eligibility": 0.4708409309387207,
+        "ApplicationProcess": 0.4257398843765259,
+        "TimelineFrequency": 0.3554157316684723,
+        "AuthoritiesGovernance": 0.46707883477211,
+        "DefinitionsReferences": 0.34754639863967896
+      }
+    },
+    {
+      "sentence": "State health departments are responsible for the local implementation and monitoring of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.591603696346283,
+      "similarities": {
+        "ContextObjective": 0.4684777557849884,
+        "BenefitsAssistance": 0.45850658416748047,
+        "Eligibility": 0.5162491798400879,
+        "ApplicationProcess": 0.4858029782772064,
+        "TimelineFrequency": 0.41505008935928345,
+        "AuthoritiesGovernance": 0.591603696346283,
+        "DefinitionsReferences": 0.41118019819259644
+      }
+    },
+    {
+      "sentence": "Contact details for inquiries can typically be found on the official website of the Ministry of Health and Family Welfare.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5293272733688354,
+      "similarities": {
+        "ContextObjective": 0.433994859457016,
+        "BenefitsAssistance": 0.4946441352367401,
+        "Eligibility": 0.4758613705635071,
+        "ApplicationProcess": 0.5293272733688354,
+        "TimelineFrequency": 0.43388545513153076,
+        "AuthoritiesGovernance": 0.5202590227127075,
+        "DefinitionsReferences": 0.45895200967788696
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing the burden of disabilities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4808277487754822,
+      "similarities": {
+        "ContextObjective": 0.4808277487754822,
+        "BenefitsAssistance": 0.4210970401763916,
+        "Eligibility": 0.4523034989833832,
+        "ApplicationProcess": 0.3791784644126892,
+        "TimelineFrequency": 0.3386038839817047,
+        "AuthoritiesGovernance": 0.3889693319797516,
+        "DefinitionsReferences": 0.3480403423309326
+      }
+    },
+    {
+      "sentence": "According to reports, over 500,000 individuals have benefited from this scheme since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.4760056734085083,
+      "similarities": {
+        "ContextObjective": 0.4760056734085083,
+        "BenefitsAssistance": 0.468637079000473,
+        "Eligibility": 0.4410088062286377,
+        "ApplicationProcess": 0.3852027952671051,
+        "TimelineFrequency": 0.37248069047927856,
+        "AuthoritiesGovernance": 0.38997673988342285,
+        "DefinitionsReferences": 0.36187341809272766
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the financial year 2023-2024 to support this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4697003960609436,
+      "similarities": {
+        "ContextObjective": 0.4697003960609436,
+        "BenefitsAssistance": 0.4605787694454193,
+        "Eligibility": 0.43716323375701904,
+        "ApplicationProcess": 0.39880484342575073,
+        "TimelineFrequency": 0.41089579463005066,
+        "AuthoritiesGovernance": 0.41806286573410034,
+        "DefinitionsReferences": 0.36774930357933044
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader effort by the government to improve healthcare access and outcomes for marginalized populations.",
+      "role": "ContextObjective",
+      "confidence": 0.49368470907211304,
+      "similarities": {
+        "ContextObjective": 0.49368470907211304,
+        "BenefitsAssistance": 0.4517241418361664,
+        "Eligibility": 0.46654874086380005,
+        "ApplicationProcess": 0.40470367670059204,
+        "TimelineFrequency": 0.3667537569999695,
+        "AuthoritiesGovernance": 0.4660092294216156,
+        "DefinitionsReferences": 0.3625139594078064
+      }
+    },
+    {
+      "sentence": "In addition to surgical grants, the government also provides rehabilitation services to individuals post-surgery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4665537178516388,
+      "similarities": {
+        "ContextObjective": 0.4061110019683838,
+        "BenefitsAssistance": 0.4665537178516388,
+        "Eligibility": 0.4297671318054199,
+        "ApplicationProcess": 0.3961566984653473,
+        "TimelineFrequency": 0.3576716482639313,
+        "AuthoritiesGovernance": 0.4316771626472473,
+        "DefinitionsReferences": 0.3708401918411255
+      }
+    },
+    {
+      "sentence": "These services include physiotherapy and counseling to ensure a smooth recovery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4838813245296478,
+      "similarities": {
+        "ContextObjective": 0.4179331064224243,
+        "BenefitsAssistance": 0.4838813245296478,
+        "Eligibility": 0.4027014374732971,
+        "ApplicationProcess": 0.44529926776885986,
+        "TimelineFrequency": 0.40993961691856384,
+        "AuthoritiesGovernance": 0.4252306818962097,
+        "DefinitionsReferences": 0.38740935921669006
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to inform the public about the availability of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5686484575271606,
+      "similarities": {
+        "ContextObjective": 0.5686484575271606,
+        "BenefitsAssistance": 0.47478365898132324,
+        "Eligibility": 0.5230396389961243,
+        "ApplicationProcess": 0.5114021301269531,
+        "TimelineFrequency": 0.44554629921913147,
+        "AuthoritiesGovernance": 0.4717118442058563,
+        "DefinitionsReferences": 0.4022260904312134
+      }
+    },
+    {
+      "sentence": "These campaigns are aimed at both urban and rural populations to maximize outreach.",
+      "role": "ContextObjective",
+      "confidence": 0.47565019130706787,
+      "similarities": {
+        "ContextObjective": 0.47565019130706787,
+        "BenefitsAssistance": 0.4001123905181885,
+        "Eligibility": 0.47066012024879456,
+        "ApplicationProcess": 0.39625391364097595,
+        "TimelineFrequency": 0.41590309143066406,
+        "AuthoritiesGovernance": 0.4481048285961151,
+        "DefinitionsReferences": 0.40314650535583496
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the United Nations Sustainable Development Goals, particularly Goal 3, which aims to ensure healthy lives and promote well-being for all.",
+      "role": "ContextObjective",
+      "confidence": 0.5374058485031128,
+      "similarities": {
+        "ContextObjective": 0.5374058485031128,
+        "BenefitsAssistance": 0.3904123604297638,
+        "Eligibility": 0.46351319551467896,
+        "ApplicationProcess": 0.4021031856536865,
+        "TimelineFrequency": 0.37290579080581665,
+        "AuthoritiesGovernance": 0.40953528881073,
+        "DefinitionsReferences": 0.364629864692688
+      }
+    },
+    {
+      "sentence": "The government continuously monitors the effectiveness of the scheme through various health indicators.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49437642097473145,
+      "similarities": {
+        "ContextObjective": 0.46422716975212097,
+        "BenefitsAssistance": 0.4852333962917328,
+        "Eligibility": 0.4796717166900635,
+        "ApplicationProcess": 0.46253007650375366,
+        "TimelineFrequency": 0.44970083236694336,
+        "AuthoritiesGovernance": 0.49437642097473145,
+        "DefinitionsReferences": 0.42998671531677246
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is also collected to improve the scheme's implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5219515562057495,
+      "similarities": {
+        "ContextObjective": 0.5138274431228638,
+        "BenefitsAssistance": 0.48925110697746277,
+        "Eligibility": 0.5136396884918213,
+        "ApplicationProcess": 0.457762211561203,
+        "TimelineFrequency": 0.40362221002578735,
+        "AuthoritiesGovernance": 0.5219515562057495,
+        "DefinitionsReferences": 0.423343688249588
+      }
+    },
+    {
+      "sentence": "The Surgical Grant For The Prevention Of Disability is a crucial step towards achieving a more inclusive society.",
+      "role": "Eligibility",
+      "confidence": 0.47373145818710327,
+      "similarities": {
+        "ContextObjective": 0.45451295375823975,
+        "BenefitsAssistance": 0.42239224910736084,
+        "Eligibility": 0.47373145818710327,
+        "ApplicationProcess": 0.37801411747932434,
+        "TimelineFrequency": 0.3169698119163513,
+        "AuthoritiesGovernance": 0.3768784999847412,
+        "DefinitionsReferences": 0.334529310464859
+      }
+    },
+    {
+      "sentence": "It empowers individuals with disabilities to regain their independence and improve their quality of life.",
+      "role": "ContextObjective",
+      "confidence": 0.4811609387397766,
+      "similarities": {
+        "ContextObjective": 0.4811609387397766,
+        "BenefitsAssistance": 0.47508490085601807,
+        "Eligibility": 0.4657280743122101,
+        "ApplicationProcess": 0.4183915853500366,
+        "TimelineFrequency": 0.3986204266548157,
+        "AuthoritiesGovernance": 0.4434826970100403,
+        "DefinitionsReferences": 0.39271432161331177
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from healthcare professionals and beneficiaries alike.",
+      "role": "ContextObjective",
+      "confidence": 0.49927639961242676,
+      "similarities": {
+        "ContextObjective": 0.49927639961242676,
+        "BenefitsAssistance": 0.4690324068069458,
+        "Eligibility": 0.46215206384658813,
+        "ApplicationProcess": 0.3977528512477875,
+        "TimelineFrequency": 0.3660135865211487,
+        "AuthoritiesGovernance": 0.39568451046943665,
+        "DefinitionsReferences": 0.38137805461883545
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have reported significant improvements in their physical capabilities post-surgery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47243934869766235,
+      "similarities": {
+        "ContextObjective": 0.38851678371429443,
+        "BenefitsAssistance": 0.47243934869766235,
+        "Eligibility": 0.44501274824142456,
+        "ApplicationProcess": 0.36729615926742554,
+        "TimelineFrequency": 0.3447595238685608,
+        "AuthoritiesGovernance": 0.3506479859352112,
+        "DefinitionsReferences": 0.38030362129211426
+      }
+    },
+    {
+      "sentence": "The government encourages families to seek assistance early to maximize the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5120654702186584,
+      "similarities": {
+        "ContextObjective": 0.5120654702186584,
+        "BenefitsAssistance": 0.48490673303604126,
+        "Eligibility": 0.49876436591148376,
+        "ApplicationProcess": 0.44217050075531006,
+        "TimelineFrequency": 0.4519924819469452,
+        "AuthoritiesGovernance": 0.40880969166755676,
+        "DefinitionsReferences": 0.35983806848526
+      }
+    },
+    {
+      "sentence": "In conclusion, the Surgical Grant For The Prevention Of Disability is a vital welfare initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.44275134801864624,
+      "similarities": {
+        "ContextObjective": 0.44275134801864624,
+        "BenefitsAssistance": 0.4123970866203308,
+        "Eligibility": 0.426744282245636,
+        "ApplicationProcess": 0.34506720304489136,
+        "TimelineFrequency": 0.312463641166687,
+        "AuthoritiesGovernance": 0.3448393940925598,
+        "DefinitionsReferences": 0.3220006823539734
+      }
+    },
+    {
+      "sentence": "It addresses the pressing issue of disabilities in India through targeted financial support for surgical interventions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49295493960380554,
+      "similarities": {
+        "ContextObjective": 0.424221396446228,
+        "BenefitsAssistance": 0.49295493960380554,
+        "Eligibility": 0.4640829563140869,
+        "ApplicationProcess": 0.34681111574172974,
+        "TimelineFrequency": 0.31412315368652344,
+        "AuthoritiesGovernance": 0.37872666120529175,
+        "DefinitionsReferences": 0.33024728298187256
+      }
+    },
+    {
+      "sentence": "The scheme's comprehensive approach ensures that individuals receive the necessary medical care and rehabilitation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5168498754501343,
+      "similarities": {
+        "ContextObjective": 0.4957824945449829,
+        "BenefitsAssistance": 0.5168498754501343,
+        "Eligibility": 0.4942794442176819,
+        "ApplicationProcess": 0.497730553150177,
+        "TimelineFrequency": 0.4193808436393738,
+        "AuthoritiesGovernance": 0.460063636302948,
+        "DefinitionsReferences": 0.37919503450393677
+      }
+    },
+    {
+      "sentence": "By focusing on economically disadvantaged groups, the scheme promotes social equity in healthcare access.",
+      "role": "ContextObjective",
+      "confidence": 0.47559666633605957,
+      "similarities": {
+        "ContextObjective": 0.47559666633605957,
+        "BenefitsAssistance": 0.4218105971813202,
+        "Eligibility": 0.4713524580001831,
+        "ApplicationProcess": 0.3517740070819855,
+        "TimelineFrequency": 0.34311044216156006,
+        "AuthoritiesGovernance": 0.3851950764656067,
+        "DefinitionsReferences": 0.32228583097457886
+      }
+    },
+    {
+      "sentence": "The ongoing commitment of the government to fund and improve this scheme reflects its dedication to public health and welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4471402168273926,
+      "similarities": {
+        "ContextObjective": 0.4471402168273926,
+        "BenefitsAssistance": 0.43284985423088074,
+        "Eligibility": 0.4136525094509125,
+        "ApplicationProcess": 0.40636569261550903,
+        "TimelineFrequency": 0.3571321964263916,
+        "AuthoritiesGovernance": 0.3996248245239258,
+        "DefinitionsReferences": 0.3704783320426941
+      }
+    },
+    {
+      "sentence": "Overall, the Surgical Grant For The Prevention Of Disability is a testament to the government's efforts to create a more inclusive society.",
+      "role": "Eligibility",
+      "confidence": 0.44618362188339233,
+      "similarities": {
+        "ContextObjective": 0.4323071241378784,
+        "BenefitsAssistance": 0.43081218004226685,
+        "Eligibility": 0.44618362188339233,
+        "ApplicationProcess": 0.3541468679904938,
+        "TimelineFrequency": 0.2933441698551178,
+        "AuthoritiesGovernance": 0.37936931848526,
+        "DefinitionsReferences": 0.35083794593811035
+      }
+    },
+    {
+      "sentence": "It stands as a beacon of hope for many individuals and families affected by disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.4873804748058319,
+      "similarities": {
+        "ContextObjective": 0.4733974039554596,
+        "BenefitsAssistance": 0.443135529756546,
+        "Eligibility": 0.4873804748058319,
+        "ApplicationProcess": 0.37902146577835083,
+        "TimelineFrequency": 0.36248311400413513,
+        "AuthoritiesGovernance": 0.3674411177635193,
+        "DefinitionsReferences": 0.3893381357192993
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also fosters a sense of community and support among beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5301225185394287,
+      "similarities": {
+        "ContextObjective": 0.5301225185394287,
+        "BenefitsAssistance": 0.5123583674430847,
+        "Eligibility": 0.475582480430603,
+        "ApplicationProcess": 0.39093253016471863,
+        "TimelineFrequency": 0.3712630569934845,
+        "AuthoritiesGovernance": 0.39385518431663513,
+        "DefinitionsReferences": 0.3701270818710327
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it is expected to reach even more individuals in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5493899583816528,
+      "similarities": {
+        "ContextObjective": 0.5493899583816528,
+        "BenefitsAssistance": 0.48877424001693726,
+        "Eligibility": 0.5384809374809265,
+        "ApplicationProcess": 0.45073097944259644,
+        "TimelineFrequency": 0.42874979972839355,
+        "AuthoritiesGovernance": 0.45503658056259155,
+        "DefinitionsReferences": 0.4117514491081238
+      }
+    },
+    {
+      "sentence": "The government's proactive approach in addressing disabilities through this scheme is commendable.",
+      "role": "ContextObjective",
+      "confidence": 0.510994553565979,
+      "similarities": {
+        "ContextObjective": 0.510994553565979,
+        "BenefitsAssistance": 0.45204535126686096,
+        "Eligibility": 0.46147245168685913,
+        "ApplicationProcess": 0.42365562915802,
+        "TimelineFrequency": 0.37837421894073486,
+        "AuthoritiesGovernance": 0.4360666573047638,
+        "DefinitionsReferences": 0.3858027756214142
+      }
+    },
+    {
+      "sentence": "It highlights the importance of timely medical intervention in preventing long-term disabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44047945737838745,
+      "similarities": {
+        "ContextObjective": 0.4086853563785553,
+        "BenefitsAssistance": 0.44047945737838745,
+        "Eligibility": 0.4018704295158386,
+        "ApplicationProcess": 0.372353732585907,
+        "TimelineFrequency": 0.41552725434303284,
+        "AuthoritiesGovernance": 0.3546120524406433,
+        "DefinitionsReferences": 0.36517319083213806
+      }
+    },
+    {
+      "sentence": "The Surgical Grant For The Prevention Of Disability is indeed a significant step towards a healthier and more equitable India.",
+      "role": "Eligibility",
+      "confidence": 0.3881288468837738,
+      "similarities": {
+        "ContextObjective": 0.37950778007507324,
+        "BenefitsAssistance": 0.37286803126335144,
+        "Eligibility": 0.3881288468837738,
+        "ApplicationProcess": 0.3272991180419922,
+        "TimelineFrequency": 0.26106715202331543,
+        "AuthoritiesGovernance": 0.32924655079841614,
+        "DefinitionsReferences": 0.3044557571411133
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "BenefitsAssistance": 11,
+    "Eligibility": 9,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:32:48.333528"
+}

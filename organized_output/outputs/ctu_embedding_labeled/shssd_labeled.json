@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Student Housing Scheme for Students with Disabilities",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Student Housing Scheme for Students with Disabilities was launched by the Government of India in 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5527169108390808,
+      "similarities": {
+        "ContextObjective": 0.5527169108390808,
+        "BenefitsAssistance": 0.4934422969818115,
+        "Eligibility": 0.5254487991333008,
+        "ApplicationProcess": 0.4693220853805542,
+        "TimelineFrequency": 0.47306421399116516,
+        "AuthoritiesGovernance": 0.46334031224250793,
+        "DefinitionsReferences": 0.3965725898742676
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance for the construction and maintenance of hostels for students with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5125397443771362,
+      "similarities": {
+        "ContextObjective": 0.5125397443771362,
+        "BenefitsAssistance": 0.5060945749282837,
+        "Eligibility": 0.5004547238349915,
+        "ApplicationProcess": 0.4441113770008087,
+        "TimelineFrequency": 0.44266247749328613,
+        "AuthoritiesGovernance": 0.3991881012916565,
+        "DefinitionsReferences": 0.36498579382896423
+      }
+    },
+    {
+      "sentence": "The initiative recognizes the challenges faced by students with disabilities in accessing quality education.",
+      "role": "Eligibility",
+      "confidence": 0.47389084100723267,
+      "similarities": {
+        "ContextObjective": 0.4089459180831909,
+        "BenefitsAssistance": 0.41311585903167725,
+        "Eligibility": 0.47389084100723267,
+        "ApplicationProcess": 0.40300995111465454,
+        "TimelineFrequency": 0.40323472023010254,
+        "AuthoritiesGovernance": 0.3866485357284546,
+        "DefinitionsReferences": 0.3556096851825714
+      }
+    },
+    {
+      "sentence": "It seeks to create an inclusive educational environment by ensuring that students with disabilities have access to safe and affordable housing.",
+      "role": "ContextObjective",
+      "confidence": 0.4972403645515442,
+      "similarities": {
+        "ContextObjective": 0.4972403645515442,
+        "BenefitsAssistance": 0.43412521481513977,
+        "Eligibility": 0.48937761783599854,
+        "ApplicationProcess": 0.4453328847885132,
+        "TimelineFrequency": 0.4072614312171936,
+        "AuthoritiesGovernance": 0.3857802152633667,
+        "DefinitionsReferences": 0.37832653522491455
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide adequate housing facilities for students with disabilities who are pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5759555697441101,
+      "similarities": {
+        "ContextObjective": 0.5759555697441101,
+        "BenefitsAssistance": 0.46108824014663696,
+        "Eligibility": 0.5090824961662292,
+        "ApplicationProcess": 0.4667120575904846,
+        "TimelineFrequency": 0.4365219473838806,
+        "AuthoritiesGovernance": 0.40862494707107544,
+        "DefinitionsReferences": 0.38576608896255493
+      }
+    },
+    {
+      "sentence": "The scheme targets students enrolled in recognized universities and colleges across India.",
+      "role": "Eligibility",
+      "confidence": 0.5386847853660583,
+      "similarities": {
+        "ContextObjective": 0.528237521648407,
+        "BenefitsAssistance": 0.43198245763778687,
+        "Eligibility": 0.5386847853660583,
+        "ApplicationProcess": 0.45939314365386963,
+        "TimelineFrequency": 0.4572032690048218,
+        "AuthoritiesGovernance": 0.4240873456001282,
+        "DefinitionsReferences": 0.40197038650512695
+      }
+    },
+    {
+      "sentence": "The government aims to support the construction of at least 100 new hostels under this scheme within the first three years of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.49050214886665344,
+      "similarities": {
+        "ContextObjective": 0.49050214886665344,
+        "BenefitsAssistance": 0.4084196388721466,
+        "Eligibility": 0.43432068824768066,
+        "ApplicationProcess": 0.4057615399360657,
+        "TimelineFrequency": 0.39232414960861206,
+        "AuthoritiesGovernance": 0.4101504683494568,
+        "DefinitionsReferences": 0.3568469285964966
+      }
+    },
+    {
+      "sentence": "Each hostel is expected to accommodate a minimum of 50 students with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.5003807544708252,
+      "similarities": {
+        "ContextObjective": 0.4200177490711212,
+        "BenefitsAssistance": 0.4423527121543884,
+        "Eligibility": 0.5003807544708252,
+        "ApplicationProcess": 0.42409831285476685,
+        "TimelineFrequency": 0.4376467168331146,
+        "AuthoritiesGovernance": 0.3868391513824463,
+        "DefinitionsReferences": 0.37108927965164185
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the scheme can go up to INR 1 crore for the construction of a new hostel.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4875040352344513,
+      "similarities": {
+        "ContextObjective": 0.42246800661087036,
+        "BenefitsAssistance": 0.4875040352344513,
+        "Eligibility": 0.4392600357532501,
+        "ApplicationProcess": 0.3911817967891693,
+        "TimelineFrequency": 0.3559337854385376,
+        "AuthoritiesGovernance": 0.3536841571331024,
+        "DefinitionsReferences": 0.3290269672870636
+      }
+    },
+    {
+      "sentence": "For existing hostels, the scheme offers up to INR 50 lakh for renovations and improvements to make them more accessible.",
+      "role": "ContextObjective",
+      "confidence": 0.41478025913238525,
+      "similarities": {
+        "ContextObjective": 0.41478025913238525,
+        "BenefitsAssistance": 0.4131239354610443,
+        "Eligibility": 0.41125601530075073,
+        "ApplicationProcess": 0.405746191740036,
+        "TimelineFrequency": 0.35457098484039307,
+        "AuthoritiesGovernance": 0.3289649486541748,
+        "DefinitionsReferences": 0.3205745816230774
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of creating barrier-free environments in educational institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.46273350715637207,
+      "similarities": {
+        "ContextObjective": 0.46273350715637207,
+        "BenefitsAssistance": 0.3307967483997345,
+        "Eligibility": 0.4033147990703583,
+        "ApplicationProcess": 0.36794525384902954,
+        "TimelineFrequency": 0.3248659670352936,
+        "AuthoritiesGovernance": 0.3119522035121918,
+        "DefinitionsReferences": 0.333687961101532
+      }
+    },
+    {
+      "sentence": "Students with disabilities are defined as those who have a physical or mental impairment that substantially limits one or more major life activities.",
+      "role": "Eligibility",
+      "confidence": 0.5310114026069641,
+      "similarities": {
+        "ContextObjective": 0.4064429700374603,
+        "BenefitsAssistance": 0.48102933168411255,
+        "Eligibility": 0.5310114026069641,
+        "ApplicationProcess": 0.4130685329437256,
+        "TimelineFrequency": 0.4816840887069702,
+        "AuthoritiesGovernance": 0.38470011949539185,
+        "DefinitionsReferences": 0.4247815012931824
+      }
+    },
+    {
+      "sentence": "To be eligible for the scheme, students must be enrolled in a recognized institution of higher education.",
+      "role": "Eligibility",
+      "confidence": 0.5813149213790894,
+      "similarities": {
+        "ContextObjective": 0.49579066038131714,
+        "BenefitsAssistance": 0.44118666648864746,
+        "Eligibility": 0.5813149213790894,
+        "ApplicationProcess": 0.5306768417358398,
+        "TimelineFrequency": 0.47360116243362427,
+        "AuthoritiesGovernance": 0.4198169708251953,
+        "DefinitionsReferences": 0.4032127261161804
+      }
+    },
+    {
+      "sentence": "There is no specific age limit for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5857532024383545,
+      "similarities": {
+        "ContextObjective": 0.454439640045166,
+        "BenefitsAssistance": 0.4358917474746704,
+        "Eligibility": 0.5857532024383545,
+        "ApplicationProcess": 0.516714334487915,
+        "TimelineFrequency": 0.510940432548523,
+        "AuthoritiesGovernance": 0.391213595867157,
+        "DefinitionsReferences": 0.3752855062484741
+      }
+    },
+    {
+      "sentence": "However, students must provide proof of their disability through a certificate issued by a recognized medical authority.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49074381589889526,
+      "similarities": {
+        "ContextObjective": 0.37335318326950073,
+        "BenefitsAssistance": 0.45990094542503357,
+        "Eligibility": 0.47280561923980713,
+        "ApplicationProcess": 0.49074381589889526,
+        "TimelineFrequency": 0.4059000015258789,
+        "AuthoritiesGovernance": 0.3691139817237854,
+        "DefinitionsReferences": 0.40608102083206177
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility stipulate that the family income of the applicant should not exceed INR 8 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5626137256622314,
+      "similarities": {
+        "ContextObjective": 0.4363662004470825,
+        "BenefitsAssistance": 0.45117151737213135,
+        "Eligibility": 0.5626137256622314,
+        "ApplicationProcess": 0.48576074838638306,
+        "TimelineFrequency": 0.4400103986263275,
+        "AuthoritiesGovernance": 0.3387136161327362,
+        "DefinitionsReferences": 0.35932934284210205
+      }
+    },
+    {
+      "sentence": "The application process involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7814483642578125,
+      "similarities": {
+        "ContextObjective": 0.5850433707237244,
+        "BenefitsAssistance": 0.5570006370544434,
+        "Eligibility": 0.655730128288269,
+        "ApplicationProcess": 0.7814483642578125,
+        "TimelineFrequency": 0.6901986002922058,
+        "AuthoritiesGovernance": 0.5501036643981934,
+        "DefinitionsReferences": 0.5526537895202637
+      }
+    },
+    {
+      "sentence": "Interested applicants must first fill out an online application form available on the official government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7227179408073425,
+      "similarities": {
+        "ContextObjective": 0.4684966802597046,
+        "BenefitsAssistance": 0.439810186624527,
+        "Eligibility": 0.5514142513275146,
+        "ApplicationProcess": 0.7227179408073425,
+        "TimelineFrequency": 0.5125772356987,
+        "AuthoritiesGovernance": 0.43532317876815796,
+        "DefinitionsReferences": 0.43044528365135193
+      }
+    },
+    {
+      "sentence": "They are required to upload necessary documents including proof of disability and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6256040334701538,
+      "similarities": {
+        "ContextObjective": 0.43550461530685425,
+        "BenefitsAssistance": 0.5765873193740845,
+        "Eligibility": 0.5743395090103149,
+        "ApplicationProcess": 0.6256040334701538,
+        "TimelineFrequency": 0.47964560985565186,
+        "AuthoritiesGovernance": 0.4677972197532654,
+        "DefinitionsReferences": 0.48476719856262207
+      }
+    },
+    {
+      "sentence": "The application must also include details of the educational institution where the student is enrolled.",
+      "role": "ApplicationProcess",
+      "confidence": 0.629887044429779,
+      "similarities": {
+        "ContextObjective": 0.5090513229370117,
+        "BenefitsAssistance": 0.5669469833374023,
+        "Eligibility": 0.6262079477310181,
+        "ApplicationProcess": 0.629887044429779,
+        "TimelineFrequency": 0.5887105464935303,
+        "AuthoritiesGovernance": 0.45480015873908997,
+        "DefinitionsReferences": 0.5057958960533142
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5619117617607117,
+      "similarities": {
+        "ContextObjective": 0.4352940320968628,
+        "BenefitsAssistance": 0.4509149491786957,
+        "Eligibility": 0.47341489791870117,
+        "ApplicationProcess": 0.5501819849014282,
+        "TimelineFrequency": 0.5619117617607117,
+        "AuthoritiesGovernance": 0.46758198738098145,
+        "DefinitionsReferences": 0.4665638506412506
+      }
+    },
+    {
+      "sentence": "If approved, the financial assistance is disbursed directly to the educational institution or the hostel management.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5048056840896606,
+      "similarities": {
+        "ContextObjective": 0.3754807710647583,
+        "BenefitsAssistance": 0.5048056840896606,
+        "Eligibility": 0.45453593134880066,
+        "ApplicationProcess": 0.43529704213142395,
+        "TimelineFrequency": 0.39251434803009033,
+        "AuthoritiesGovernance": 0.43013015389442444,
+        "DefinitionsReferences": 0.3444194495677948
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Social Justice and Empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.5632627010345459,
+      "similarities": {
+        "ContextObjective": 0.5632627010345459,
+        "BenefitsAssistance": 0.4405364394187927,
+        "Eligibility": 0.4887925684452057,
+        "ApplicationProcess": 0.45737266540527344,
+        "TimelineFrequency": 0.3938085436820984,
+        "AuthoritiesGovernance": 0.5427449941635132,
+        "DefinitionsReferences": 0.3966583013534546
+      }
+    },
+    {
+      "sentence": "The Department of Empowerment of Persons with Disabilities is the nodal agency responsible for overseeing the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5507659316062927,
+      "similarities": {
+        "ContextObjective": 0.49747660756111145,
+        "BenefitsAssistance": 0.42620277404785156,
+        "Eligibility": 0.5074061155319214,
+        "ApplicationProcess": 0.43089810013771057,
+        "TimelineFrequency": 0.3886300027370453,
+        "AuthoritiesGovernance": 0.5507659316062927,
+        "DefinitionsReferences": 0.38738155364990234
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Empowerment of Persons with Disabilities can be found on the official government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.550941526889801,
+      "similarities": {
+        "ContextObjective": 0.4474461078643799,
+        "BenefitsAssistance": 0.4965404272079468,
+        "Eligibility": 0.4921242594718933,
+        "ApplicationProcess": 0.48029816150665283,
+        "TimelineFrequency": 0.41320091485977173,
+        "AuthoritiesGovernance": 0.550941526889801,
+        "DefinitionsReferences": 0.4646305441856384
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to promote the rights of persons with disabilities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5218998193740845,
+      "similarities": {
+        "ContextObjective": 0.5218998193740845,
+        "BenefitsAssistance": 0.4330747127532959,
+        "Eligibility": 0.49678879976272583,
+        "ApplicationProcess": 0.4264591932296753,
+        "TimelineFrequency": 0.38576042652130127,
+        "AuthoritiesGovernance": 0.446167528629303,
+        "DefinitionsReferences": 0.3932027816772461
+      }
+    },
+    {
+      "sentence": "It aligns with the provisions of the Rights of Persons with Disabilities Act 2016.",
+      "role": "Eligibility",
+      "confidence": 0.4977821111679077,
+      "similarities": {
+        "ContextObjective": 0.4558817148208618,
+        "BenefitsAssistance": 0.45022958517074585,
+        "Eligibility": 0.4977821111679077,
+        "ApplicationProcess": 0.4275040030479431,
+        "TimelineFrequency": 0.3850116729736328,
+        "AuthoritiesGovernance": 0.4410383701324463,
+        "DefinitionsReferences": 0.4560663402080536
+      }
+    },
+    {
+      "sentence": "The Act mandates the government to ensure equal opportunities for persons with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.5637952089309692,
+      "similarities": {
+        "ContextObjective": 0.47134464979171753,
+        "BenefitsAssistance": 0.4384043216705322,
+        "Eligibility": 0.5637952089309692,
+        "ApplicationProcess": 0.4739679992198944,
+        "TimelineFrequency": 0.42480650544166565,
+        "AuthoritiesGovernance": 0.4888870120048523,
+        "DefinitionsReferences": 0.4458264112472534
+      }
+    },
+    {
+      "sentence": "The scheme also aims to enhance the quality of education for students with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5271034240722656,
+      "similarities": {
+        "ContextObjective": 0.5271034240722656,
+        "BenefitsAssistance": 0.42333707213401794,
+        "Eligibility": 0.47198009490966797,
+        "ApplicationProcess": 0.40724682807922363,
+        "TimelineFrequency": 0.4043433368206024,
+        "AuthoritiesGovernance": 0.37099140882492065,
+        "DefinitionsReferences": 0.3654211163520813
+      }
+    },
+    {
+      "sentence": "By providing adequate housing, the government hopes to reduce dropout rates among students with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.46656718850135803,
+      "similarities": {
+        "ContextObjective": 0.41349342465400696,
+        "BenefitsAssistance": 0.4341241121292114,
+        "Eligibility": 0.46656718850135803,
+        "ApplicationProcess": 0.4113708436489105,
+        "TimelineFrequency": 0.40282461047172546,
+        "AuthoritiesGovernance": 0.44274207949638367,
+        "DefinitionsReferences": 0.36314570903778076
+      }
+    },
+    {
+      "sentence": "Statistical data indicates that students with disabilities face higher dropout rates compared to their peers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43913063406944275,
+      "similarities": {
+        "ContextObjective": 0.3340545892715454,
+        "BenefitsAssistance": 0.43913063406944275,
+        "Eligibility": 0.42445170879364014,
+        "ApplicationProcess": 0.32727208733558655,
+        "TimelineFrequency": 0.4155939221382141,
+        "AuthoritiesGovernance": 0.37892866134643555,
+        "DefinitionsReferences": 0.3659752607345581
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly improve access to education for this marginalized group.",
+      "role": "ContextObjective",
+      "confidence": 0.48580652475357056,
+      "similarities": {
+        "ContextObjective": 0.48580652475357056,
+        "BenefitsAssistance": 0.4177685081958771,
+        "Eligibility": 0.4475160837173462,
+        "ApplicationProcess": 0.38104307651519775,
+        "TimelineFrequency": 0.3565279543399811,
+        "AuthoritiesGovernance": 0.38527870178222656,
+        "DefinitionsReferences": 0.33971118927001953
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the implementation of this scheme over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.46925991773605347,
+      "similarities": {
+        "ContextObjective": 0.46925991773605347,
+        "BenefitsAssistance": 0.4557269215583801,
+        "Eligibility": 0.439238965511322,
+        "ApplicationProcess": 0.42026716470718384,
+        "TimelineFrequency": 0.4218262732028961,
+        "AuthoritiesGovernance": 0.45307421684265137,
+        "DefinitionsReferences": 0.3617357909679413
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme will be conducted periodically to assess its impact.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5177990198135376,
+      "similarities": {
+        "ContextObjective": 0.5057709813117981,
+        "BenefitsAssistance": 0.4857237637042999,
+        "Eligibility": 0.5116890668869019,
+        "ApplicationProcess": 0.48347461223602295,
+        "TimelineFrequency": 0.5177990198135376,
+        "AuthoritiesGovernance": 0.4819104075431824,
+        "DefinitionsReferences": 0.420409619808197
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to make necessary adjustments to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5898857116699219,
+      "similarities": {
+        "ContextObjective": 0.5156930685043335,
+        "BenefitsAssistance": 0.559584379196167,
+        "Eligibility": 0.5898857116699219,
+        "ApplicationProcess": 0.5267806053161621,
+        "TimelineFrequency": 0.47931236028671265,
+        "AuthoritiesGovernance": 0.533300518989563,
+        "DefinitionsReferences": 0.46218448877334595
+      }
+    },
+    {
+      "sentence": "The scheme also encourages partnerships with non-governmental organizations and private sector entities.",
+      "role": "ContextObjective",
+      "confidence": 0.4873337149620056,
+      "similarities": {
+        "ContextObjective": 0.4873337149620056,
+        "BenefitsAssistance": 0.42698466777801514,
+        "Eligibility": 0.4559428095817566,
+        "ApplicationProcess": 0.41140687465667725,
+        "TimelineFrequency": 0.39158305525779724,
+        "AuthoritiesGovernance": 0.4151800274848938,
+        "DefinitionsReferences": 0.4140370488166809
+      }
+    },
+    {
+      "sentence": "These partnerships can help in the construction and maintenance of hostels.",
+      "role": "ContextObjective",
+      "confidence": 0.4297129213809967,
+      "similarities": {
+        "ContextObjective": 0.4297129213809967,
+        "BenefitsAssistance": 0.4230417013168335,
+        "Eligibility": 0.42523521184921265,
+        "ApplicationProcess": 0.42384210228919983,
+        "TimelineFrequency": 0.42507797479629517,
+        "AuthoritiesGovernance": 0.41629815101623535,
+        "DefinitionsReferences": 0.4248492419719696
+      }
+    },
+    {
+      "sentence": "Awareness campaigns will be conducted to inform students about the availability of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5526446104049683,
+      "similarities": {
+        "ContextObjective": 0.5526446104049683,
+        "BenefitsAssistance": 0.47397977113723755,
+        "Eligibility": 0.5233262181282043,
+        "ApplicationProcess": 0.5006168484687805,
+        "TimelineFrequency": 0.4852326810359955,
+        "AuthoritiesGovernance": 0.4323467016220093,
+        "DefinitionsReferences": 0.4072946310043335
+      }
+    },
+    {
+      "sentence": "The government aims to reach out to at least 10,000 students with disabilities through this initiative.",
+      "role": "Eligibility",
+      "confidence": 0.48354870080947876,
+      "similarities": {
+        "ContextObjective": 0.4508887231349945,
+        "BenefitsAssistance": 0.4079248905181885,
+        "Eligibility": 0.48354870080947876,
+        "ApplicationProcess": 0.40876534581184387,
+        "TimelineFrequency": 0.39590805768966675,
+        "AuthoritiesGovernance": 0.4123917818069458,
+        "DefinitionsReferences": 0.37290388345718384
+      }
+    },
+    {
+      "sentence": "The scheme also promotes the use of technology in creating accessible housing solutions.",
+      "role": "ContextObjective",
+      "confidence": 0.5052090883255005,
+      "similarities": {
+        "ContextObjective": 0.5052090883255005,
+        "BenefitsAssistance": 0.43654245138168335,
+        "Eligibility": 0.4705376625061035,
+        "ApplicationProcess": 0.4762941598892212,
+        "TimelineFrequency": 0.4015880227088928,
+        "AuthoritiesGovernance": 0.37322354316711426,
+        "DefinitionsReferences": 0.37061601877212524
+      }
+    },
+    {
+      "sentence": "In addition to physical infrastructure, the scheme emphasizes the need for support services for students with disabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5075053572654724,
+      "similarities": {
+        "ContextObjective": 0.4974600672721863,
+        "BenefitsAssistance": 0.5075053572654724,
+        "Eligibility": 0.4593547582626343,
+        "ApplicationProcess": 0.4232354760169983,
+        "TimelineFrequency": 0.42330339550971985,
+        "AuthoritiesGovernance": 0.397213339805603,
+        "DefinitionsReferences": 0.42740505933761597
+      }
+    },
+    {
+      "sentence": "These support services may include counseling, tutoring, and skill development programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5492458939552307,
+      "similarities": {
+        "ContextObjective": 0.47964125871658325,
+        "BenefitsAssistance": 0.5492458939552307,
+        "Eligibility": 0.4564058780670166,
+        "ApplicationProcess": 0.45097506046295166,
+        "TimelineFrequency": 0.4851589500904083,
+        "AuthoritiesGovernance": 0.43913015723228455,
+        "DefinitionsReferences": 0.4855751395225525
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that students with disabilities have the same opportunities as their peers.",
+      "role": "Eligibility",
+      "confidence": 0.5102686882019043,
+      "similarities": {
+        "ContextObjective": 0.4548790454864502,
+        "BenefitsAssistance": 0.41599398851394653,
+        "Eligibility": 0.5102686882019043,
+        "ApplicationProcess": 0.4379323422908783,
+        "TimelineFrequency": 0.4084059000015259,
+        "AuthoritiesGovernance": 0.46366095542907715,
+        "DefinitionsReferences": 0.4325825572013855
+      }
+    },
+    {
+      "sentence": "The success of the scheme will be measured by the number of students who benefit from improved housing facilities.",
+      "role": "ContextObjective",
+      "confidence": 0.441792756319046,
+      "similarities": {
+        "ContextObjective": 0.441792756319046,
+        "BenefitsAssistance": 0.4079318642616272,
+        "Eligibility": 0.4107518494129181,
+        "ApplicationProcess": 0.3837566673755646,
+        "TimelineFrequency": 0.36495935916900635,
+        "AuthoritiesGovernance": 0.37056848406791687,
+        "DefinitionsReferences": 0.34918826818466187
+      }
+    },
+    {
+      "sentence": "The scheme is expected to foster a sense of independence among students with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5425126552581787,
+      "similarities": {
+        "ContextObjective": 0.5425126552581787,
+        "BenefitsAssistance": 0.45031577348709106,
+        "Eligibility": 0.45035186409950256,
+        "ApplicationProcess": 0.4001828730106354,
+        "TimelineFrequency": 0.4076595902442932,
+        "AuthoritiesGovernance": 0.3795468211174011,
+        "DefinitionsReferences": 0.38497114181518555
+      }
+    },
+    {
+      "sentence": "By providing safe and accessible housing, the government aims to empower these students to pursue their academic goals.",
+      "role": "Eligibility",
+      "confidence": 0.4659769535064697,
+      "similarities": {
+        "ContextObjective": 0.46272677183151245,
+        "BenefitsAssistance": 0.40810391306877136,
+        "Eligibility": 0.4659769535064697,
+        "ApplicationProcess": 0.4302678108215332,
+        "TimelineFrequency": 0.38122713565826416,
+        "AuthoritiesGovernance": 0.402713418006897,
+        "DefinitionsReferences": 0.3975680470466614
+      }
+    },
+    {
+      "sentence": "The long-term vision of the scheme is to create a more inclusive society where individuals with disabilities can thrive.",
+      "role": "ContextObjective",
+      "confidence": 0.5696651935577393,
+      "similarities": {
+        "ContextObjective": 0.5696651935577393,
+        "BenefitsAssistance": 0.41554737091064453,
+        "Eligibility": 0.4748919606208801,
+        "ApplicationProcess": 0.37632298469543457,
+        "TimelineFrequency": 0.3560411334037781,
+        "AuthoritiesGovernance": 0.3663780391216278,
+        "DefinitionsReferences": 0.3434693217277527
+      }
+    },
+    {
+      "sentence": "The scheme is a significant step towards achieving the Sustainable Development Goals related to education and equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5513310432434082,
+      "similarities": {
+        "ContextObjective": 0.5513310432434082,
+        "BenefitsAssistance": 0.4027084708213806,
+        "Eligibility": 0.44777625799179077,
+        "ApplicationProcess": 0.42172545194625854,
+        "TimelineFrequency": 0.3883289098739624,
+        "AuthoritiesGovernance": 0.41046953201293945,
+        "DefinitionsReferences": 0.37006059288978577
+      }
+    },
+    {
+      "sentence": "The government encourages educational institutions to adopt inclusive practices.",
+      "role": "Eligibility",
+      "confidence": 0.5308106541633606,
+      "similarities": {
+        "ContextObjective": 0.5042705535888672,
+        "BenefitsAssistance": 0.49483606219291687,
+        "Eligibility": 0.5308106541633606,
+        "ApplicationProcess": 0.4599180519580841,
+        "TimelineFrequency": 0.4348018169403076,
+        "AuthoritiesGovernance": 0.5170048475265503,
+        "DefinitionsReferences": 0.4933224618434906
+      }
+    },
+    {
+      "sentence": "This includes training staff to better support students with disabilities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46196746826171875,
+      "similarities": {
+        "ContextObjective": 0.4218894839286804,
+        "BenefitsAssistance": 0.4537227153778076,
+        "Eligibility": 0.4367592930793762,
+        "ApplicationProcess": 0.37529414892196655,
+        "TimelineFrequency": 0.4014076590538025,
+        "AuthoritiesGovernance": 0.46196746826171875,
+        "DefinitionsReferences": 0.4204588532447815
+      }
+    },
+    {
+      "sentence": "The Student Housing Scheme for Students with Disabilities is a vital component of India's commitment to disability rights.",
+      "role": "Eligibility",
+      "confidence": 0.4777308702468872,
+      "similarities": {
+        "ContextObjective": 0.4540955424308777,
+        "BenefitsAssistance": 0.4400613009929657,
+        "Eligibility": 0.4777308702468872,
+        "ApplicationProcess": 0.42572733759880066,
+        "TimelineFrequency": 0.40756165981292725,
+        "AuthoritiesGovernance": 0.38076403737068176,
+        "DefinitionsReferences": 0.4053722023963928
+      }
+    },
+    {
+      "sentence": "It reflects the government's recognition of the unique challenges faced by students with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.48914778232574463,
+      "similarities": {
+        "ContextObjective": 0.44128769636154175,
+        "BenefitsAssistance": 0.4516792893409729,
+        "Eligibility": 0.48914778232574463,
+        "ApplicationProcess": 0.4061426520347595,
+        "TimelineFrequency": 0.41349709033966064,
+        "AuthoritiesGovernance": 0.3991827964782715,
+        "DefinitionsReferences": 0.41026532649993896
+      }
+    },
+    {
+      "sentence": "The scheme is expected to play a crucial role in bridging the educational gap for this demographic.",
+      "role": "ContextObjective",
+      "confidence": 0.5285581350326538,
+      "similarities": {
+        "ContextObjective": 0.5285581350326538,
+        "BenefitsAssistance": 0.4157865047454834,
+        "Eligibility": 0.4874703884124756,
+        "ApplicationProcess": 0.4307011365890503,
+        "TimelineFrequency": 0.40971314907073975,
+        "AuthoritiesGovernance": 0.37290164828300476,
+        "DefinitionsReferences": 0.35861581563949585
+      }
+    },
+    {
+      "sentence": "Overall, the Student Housing Scheme for Students with Disabilities is a comprehensive initiative aimed at enhancing the educational experience for students with disabilities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5386070609092712,
+      "similarities": {
+        "ContextObjective": 0.5386070609092712,
+        "BenefitsAssistance": 0.4993419051170349,
+        "Eligibility": 0.510969877243042,
+        "ApplicationProcess": 0.4721486270427704,
+        "TimelineFrequency": 0.4631221294403076,
+        "AuthoritiesGovernance": 0.42820173501968384,
+        "DefinitionsReferences": 0.40840789675712585
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "Eligibility": 17,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 6,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:34:03.454064"
+}

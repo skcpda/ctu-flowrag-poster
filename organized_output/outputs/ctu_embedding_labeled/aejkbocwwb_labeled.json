@@ -1,0 +1,630 @@
+{
+  "scheme_name": "Academic Education (JKBOCWWB)",
+  "total_sentences": 44,
+  "labeled_sentences": [
+    {
+      "sentence": "The Jammu and Kashmir Building and Other Construction Workers Welfare Board scheme is designed to provide financial assistance and support to the workers engaged in the building and construction sector in the Union Territory of Jammu and Kashmir.",
+      "role": "ContextObjective",
+      "confidence": 0.5359270572662354,
+      "similarities": {
+        "ContextObjective": 0.5359270572662354,
+        "BenefitsAssistance": 0.5053025484085083,
+        "Eligibility": 0.5339769124984741,
+        "ApplicationProcess": 0.47903186082839966,
+        "TimelineFrequency": 0.4639103412628174,
+        "AuthoritiesGovernance": 0.5071549415588379,
+        "DefinitionsReferences": 0.4135768413543701
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched in 2019 as part of the government's initiative to improve the welfare of construction workers in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.473518967628479,
+      "similarities": {
+        "ContextObjective": 0.473518967628479,
+        "BenefitsAssistance": 0.3611603379249573,
+        "Eligibility": 0.4244381785392761,
+        "ApplicationProcess": 0.40940597653388977,
+        "TimelineFrequency": 0.3762030601501465,
+        "AuthoritiesGovernance": 0.3885727524757385,
+        "DefinitionsReferences": 0.2967282235622406
+      }
+    },
+    {
+      "sentence": "The primary objective of the JKBOCWWB scheme is to provide social security and welfare benefits to construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5177317261695862,
+      "similarities": {
+        "ContextObjective": 0.5177317261695862,
+        "BenefitsAssistance": 0.4136474132537842,
+        "Eligibility": 0.4466048777103424,
+        "ApplicationProcess": 0.4038596749305725,
+        "TimelineFrequency": 0.3652774691581726,
+        "AuthoritiesGovernance": 0.38223183155059814,
+        "DefinitionsReferences": 0.3420414924621582
+      }
+    },
+    {
+      "sentence": "The scheme aims to cover a significant number of construction workers who are often vulnerable and lack access to basic social security.",
+      "role": "Eligibility",
+      "confidence": 0.5012658834457397,
+      "similarities": {
+        "ContextObjective": 0.44755709171295166,
+        "BenefitsAssistance": 0.4586246609687805,
+        "Eligibility": 0.5012658834457397,
+        "ApplicationProcess": 0.40348875522613525,
+        "TimelineFrequency": 0.3814562261104584,
+        "AuthoritiesGovernance": 0.36295491456985474,
+        "DefinitionsReferences": 0.3177233338356018
+      }
+    },
+    {
+      "sentence": "The JKBOCWWB scheme has set a target to register at least 50,000 construction workers within the first year of its implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.456262469291687,
+      "similarities": {
+        "ContextObjective": 0.456262469291687,
+        "BenefitsAssistance": 0.35421764850616455,
+        "Eligibility": 0.42677244544029236,
+        "ApplicationProcess": 0.40012383460998535,
+        "TimelineFrequency": 0.38217031955718994,
+        "AuthoritiesGovernance": 0.34892767667770386,
+        "DefinitionsReferences": 0.32672786712646484
+      }
+    },
+    {
+      "sentence": "The benefits under this scheme include financial assistance for medical emergencies, education for children, and pension schemes for workers upon reaching the age of 60.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5319300889968872,
+      "similarities": {
+        "ContextObjective": 0.4851120114326477,
+        "BenefitsAssistance": 0.5319300889968872,
+        "Eligibility": 0.4795611798763275,
+        "ApplicationProcess": 0.42028701305389404,
+        "TimelineFrequency": 0.42131268978118896,
+        "AuthoritiesGovernance": 0.4059600830078125,
+        "DefinitionsReferences": 0.3645969033241272
+      }
+    },
+    {
+      "sentence": "Workers registered under the JKBOCWWB scheme are entitled to receive a financial assistance of up to INR 2,000 for medical treatment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5492505431175232,
+      "similarities": {
+        "ContextObjective": 0.4088684618473053,
+        "BenefitsAssistance": 0.5492505431175232,
+        "Eligibility": 0.5134490728378296,
+        "ApplicationProcess": 0.4220985770225525,
+        "TimelineFrequency": 0.39506441354751587,
+        "AuthoritiesGovernance": 0.4246589243412018,
+        "DefinitionsReferences": 0.3920522928237915
+      }
+    },
+    {
+      "sentence": "In addition to medical assistance, the scheme provides educational assistance of INR 1,000 per month for children of registered workers pursuing higher education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4880920946598053,
+      "similarities": {
+        "ContextObjective": 0.4017658829689026,
+        "BenefitsAssistance": 0.4880920946598053,
+        "Eligibility": 0.41461512446403503,
+        "ApplicationProcess": 0.3871087431907654,
+        "TimelineFrequency": 0.364918053150177,
+        "AuthoritiesGovernance": 0.33808451890945435,
+        "DefinitionsReferences": 0.31334787607192993
+      }
+    },
+    {
+      "sentence": "The scheme also includes a provision for a one-time financial grant of INR 20,000 for the marriage of daughters of registered workers.",
+      "role": "Eligibility",
+      "confidence": 0.42693501710891724,
+      "similarities": {
+        "ContextObjective": 0.3653462529182434,
+        "BenefitsAssistance": 0.39930790662765503,
+        "Eligibility": 0.42693501710891724,
+        "ApplicationProcess": 0.38236361742019653,
+        "TimelineFrequency": 0.3611891269683838,
+        "AuthoritiesGovernance": 0.3100297749042511,
+        "DefinitionsReferences": 0.29953518509864807
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the JKBOCWWB scheme include being a registered construction worker in Jammu and Kashmir.",
+      "role": "Eligibility",
+      "confidence": 0.5826775431632996,
+      "similarities": {
+        "ContextObjective": 0.45648884773254395,
+        "BenefitsAssistance": 0.4013272225856781,
+        "Eligibility": 0.5826775431632996,
+        "ApplicationProcess": 0.5077629685401917,
+        "TimelineFrequency": 0.4508494436740875,
+        "AuthoritiesGovernance": 0.3651805520057678,
+        "DefinitionsReferences": 0.3917686343193054
+      }
+    },
+    {
+      "sentence": "Applicants must be at least 18 years old and not more than 60 years old to qualify for registration under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.6207219362258911,
+      "similarities": {
+        "ContextObjective": 0.4947236180305481,
+        "BenefitsAssistance": 0.44947123527526855,
+        "Eligibility": 0.6207219362258911,
+        "ApplicationProcess": 0.5709508061408997,
+        "TimelineFrequency": 0.5394209027290344,
+        "AuthoritiesGovernance": 0.39709582924842834,
+        "DefinitionsReferences": 0.3816930055618286
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at INR 15,000 per month for the applicant to qualify for the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.6096460819244385,
+      "similarities": {
+        "ContextObjective": 0.4387034475803375,
+        "BenefitsAssistance": 0.5341288447380066,
+        "Eligibility": 0.6096460819244385,
+        "ApplicationProcess": 0.5187563300132751,
+        "TimelineFrequency": 0.4860915541648865,
+        "AuthoritiesGovernance": 0.37473392486572266,
+        "DefinitionsReferences": 0.3637516498565674
+      }
+    },
+    {
+      "sentence": "Workers must provide proof of employment in the construction sector to be eligible for registration.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5910288691520691,
+      "similarities": {
+        "ContextObjective": 0.4366944432258606,
+        "BenefitsAssistance": 0.444541871547699,
+        "Eligibility": 0.5685954093933105,
+        "ApplicationProcess": 0.5910288691520691,
+        "TimelineFrequency": 0.4870584011077881,
+        "AuthoritiesGovernance": 0.4066527187824249,
+        "DefinitionsReferences": 0.4265900254249573
+      }
+    },
+    {
+      "sentence": "The application process for the JKBOCWWB scheme requires workers to fill out a registration form available at designated offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6109663844108582,
+      "similarities": {
+        "ContextObjective": 0.43667900562286377,
+        "BenefitsAssistance": 0.4141022562980652,
+        "Eligibility": 0.5355666279792786,
+        "ApplicationProcess": 0.6109663844108582,
+        "TimelineFrequency": 0.47767066955566406,
+        "AuthoritiesGovernance": 0.43829110264778137,
+        "DefinitionsReferences": 0.4422140121459961
+      }
+    },
+    {
+      "sentence": "Applicants must submit documents such as proof of identity, proof of employment, and income certificates along with the registration form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6976428627967834,
+      "similarities": {
+        "ContextObjective": 0.47779569029808044,
+        "BenefitsAssistance": 0.5551626682281494,
+        "Eligibility": 0.5812758803367615,
+        "ApplicationProcess": 0.6976428627967834,
+        "TimelineFrequency": 0.5648409724235535,
+        "AuthoritiesGovernance": 0.4498612880706787,
+        "DefinitionsReferences": 0.5256233811378479
+      }
+    },
+    {
+      "sentence": "The registration form can also be accessed online through the official website of the Jammu and Kashmir Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5639293193817139,
+      "similarities": {
+        "ContextObjective": 0.397438108921051,
+        "BenefitsAssistance": 0.4424701929092407,
+        "Eligibility": 0.43255096673965454,
+        "ApplicationProcess": 0.5639293193817139,
+        "TimelineFrequency": 0.4239358901977539,
+        "AuthoritiesGovernance": 0.3856583833694458,
+        "DefinitionsReferences": 0.4205106496810913
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities for verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7306643724441528,
+      "similarities": {
+        "ContextObjective": 0.5016064047813416,
+        "BenefitsAssistance": 0.47205647826194763,
+        "Eligibility": 0.5926876068115234,
+        "ApplicationProcess": 0.7306643724441528,
+        "TimelineFrequency": 0.5728499293327332,
+        "AuthoritiesGovernance": 0.48549795150756836,
+        "DefinitionsReferences": 0.5051699280738831
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 days from the date of application submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.649215817451477,
+      "similarities": {
+        "ContextObjective": 0.4146970510482788,
+        "BenefitsAssistance": 0.4602624773979187,
+        "Eligibility": 0.515372633934021,
+        "ApplicationProcess": 0.649215817451477,
+        "TimelineFrequency": 0.5956963896751404,
+        "AuthoritiesGovernance": 0.41449174284935,
+        "DefinitionsReferences": 0.4251881241798401
+      }
+    },
+    {
+      "sentence": "After successful verification, the applicant is registered and can avail of the benefits under the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6387660503387451,
+      "similarities": {
+        "ContextObjective": 0.5398072600364685,
+        "BenefitsAssistance": 0.5062796473503113,
+        "Eligibility": 0.5964236259460449,
+        "ApplicationProcess": 0.6387660503387451,
+        "TimelineFrequency": 0.5133231282234192,
+        "AuthoritiesGovernance": 0.4450911581516266,
+        "DefinitionsReferences": 0.4429498314857483
+      }
+    },
+    {
+      "sentence": "The disbursement of financial assistance under the JKBOCWWB scheme is carried out on a quarterly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5271631479263306,
+      "similarities": {
+        "ContextObjective": 0.4640481472015381,
+        "BenefitsAssistance": 0.5271631479263306,
+        "Eligibility": 0.4841512441635132,
+        "ApplicationProcess": 0.44149160385131836,
+        "TimelineFrequency": 0.4743616580963135,
+        "AuthoritiesGovernance": 0.462532103061676,
+        "DefinitionsReferences": 0.39750492572784424
+      }
+    },
+    {
+      "sentence": "Workers can expect to receive their benefits directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5632133483886719,
+      "similarities": {
+        "ContextObjective": 0.42305660247802734,
+        "BenefitsAssistance": 0.5632133483886719,
+        "Eligibility": 0.5087625980377197,
+        "ApplicationProcess": 0.4788821339607239,
+        "TimelineFrequency": 0.42403072118759155,
+        "AuthoritiesGovernance": 0.4423735737800598,
+        "DefinitionsReferences": 0.3911159336566925
+      }
+    },
+    {
+      "sentence": "The first disbursement of benefits under the scheme was made in January 2020.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5128673315048218,
+      "similarities": {
+        "ContextObjective": 0.4564172923564911,
+        "BenefitsAssistance": 0.5128673315048218,
+        "Eligibility": 0.46390751004219055,
+        "ApplicationProcess": 0.411088228225708,
+        "TimelineFrequency": 0.42864856123924255,
+        "AuthoritiesGovernance": 0.39198172092437744,
+        "DefinitionsReferences": 0.3121819794178009
+      }
+    },
+    {
+      "sentence": "The implementing authority for the JKBOCWWB scheme is the Jammu and Kashmir Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5320432186126709,
+      "similarities": {
+        "ContextObjective": 0.42309823632240295,
+        "BenefitsAssistance": 0.3765508234500885,
+        "Eligibility": 0.4737342298030853,
+        "ApplicationProcess": 0.40541136264801025,
+        "TimelineFrequency": 0.3644424378871918,
+        "AuthoritiesGovernance": 0.5320432186126709,
+        "DefinitionsReferences": 0.39087116718292236
+      }
+    },
+    {
+      "sentence": "The board operates under the Department of Labour and Employment of the Jammu and Kashmir government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4913593530654907,
+      "similarities": {
+        "ContextObjective": 0.40297138690948486,
+        "BenefitsAssistance": 0.39987045526504517,
+        "Eligibility": 0.4433678090572357,
+        "ApplicationProcess": 0.43174219131469727,
+        "TimelineFrequency": 0.38779646158218384,
+        "AuthoritiesGovernance": 0.4913593530654907,
+        "DefinitionsReferences": 0.37056219577789307
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, workers can contact the board's office located in Jammu and Srinagar.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4707391858100891,
+      "similarities": {
+        "ContextObjective": 0.40050339698791504,
+        "BenefitsAssistance": 0.4388112425804138,
+        "Eligibility": 0.4424456059932709,
+        "ApplicationProcess": 0.4453226923942566,
+        "TimelineFrequency": 0.38747841119766235,
+        "AuthoritiesGovernance": 0.4707391858100891,
+        "DefinitionsReferences": 0.38181838393211365
+      }
+    },
+    {
+      "sentence": "The contact number for the Jammu office is 0191-254-1570 and for the Srinagar office is 0194-245-1250.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4557555913925171,
+      "similarities": {
+        "ContextObjective": 0.35176438093185425,
+        "BenefitsAssistance": 0.4142722487449646,
+        "Eligibility": 0.4265129268169403,
+        "ApplicationProcess": 0.44284164905548096,
+        "TimelineFrequency": 0.3916715979576111,
+        "AuthoritiesGovernance": 0.4557555913925171,
+        "DefinitionsReferences": 0.35456013679504395
+      }
+    },
+    {
+      "sentence": "The JKBOCWWB scheme also emphasizes the importance of skill development for construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.3946736454963684,
+      "similarities": {
+        "ContextObjective": 0.3946736454963684,
+        "BenefitsAssistance": 0.3383738398551941,
+        "Eligibility": 0.36997440457344055,
+        "ApplicationProcess": 0.35646766424179077,
+        "TimelineFrequency": 0.34487348794937134,
+        "AuthoritiesGovernance": 0.3095792233943939,
+        "DefinitionsReferences": 0.36805427074432373
+      }
+    },
+    {
+      "sentence": "Skill development programs are organized to enhance the skills of workers and improve their employability.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4849575161933899,
+      "similarities": {
+        "ContextObjective": 0.47717785835266113,
+        "BenefitsAssistance": 0.41147756576538086,
+        "Eligibility": 0.456387996673584,
+        "ApplicationProcess": 0.4318721294403076,
+        "TimelineFrequency": 0.4618874788284302,
+        "AuthoritiesGovernance": 0.4849575161933899,
+        "DefinitionsReferences": 0.4333019554615021
+      }
+    },
+    {
+      "sentence": "The board collaborates with various training institutes to provide skill development programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5041621327400208,
+      "similarities": {
+        "ContextObjective": 0.4614933133125305,
+        "BenefitsAssistance": 0.3967280983924866,
+        "Eligibility": 0.4334845542907715,
+        "ApplicationProcess": 0.4063132405281067,
+        "TimelineFrequency": 0.4391939043998718,
+        "AuthoritiesGovernance": 0.5041621327400208,
+        "DefinitionsReferences": 0.44317352771759033
+      }
+    },
+    {
+      "sentence": "Workers who complete these programs may receive additional financial incentives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5304015874862671,
+      "similarities": {
+        "ContextObjective": 0.46251994371414185,
+        "BenefitsAssistance": 0.5304015874862671,
+        "Eligibility": 0.5153695940971375,
+        "ApplicationProcess": 0.4715750813484192,
+        "TimelineFrequency": 0.4750464856624603,
+        "AuthoritiesGovernance": 0.4376413822174072,
+        "DefinitionsReferences": 0.42327436804771423
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create awareness among construction workers about their rights and benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.5139366984367371,
+      "similarities": {
+        "ContextObjective": 0.5139366984367371,
+        "BenefitsAssistance": 0.41794928908348083,
+        "Eligibility": 0.4499328136444092,
+        "ApplicationProcess": 0.43191292881965637,
+        "TimelineFrequency": 0.3723680078983307,
+        "AuthoritiesGovernance": 0.4075312614440918,
+        "DefinitionsReferences": 0.35718318819999695
+      }
+    },
+    {
+      "sentence": "Regular workshops and seminars are conducted to educate workers about the scheme and its benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.47804224491119385,
+      "similarities": {
+        "ContextObjective": 0.47804224491119385,
+        "BenefitsAssistance": 0.4426999092102051,
+        "Eligibility": 0.42444032430648804,
+        "ApplicationProcess": 0.41580742597579956,
+        "TimelineFrequency": 0.40432411432266235,
+        "AuthoritiesGovernance": 0.4664660692214966,
+        "DefinitionsReferences": 0.40719425678253174
+      }
+    },
+    {
+      "sentence": "The JKBOCWWB scheme is part of a larger initiative by the government to promote the welfare of unorganized workers.",
+      "role": "ContextObjective",
+      "confidence": 0.44634443521499634,
+      "similarities": {
+        "ContextObjective": 0.44634443521499634,
+        "BenefitsAssistance": 0.391541063785553,
+        "Eligibility": 0.4129831790924072,
+        "ApplicationProcess": 0.37225785851478577,
+        "TimelineFrequency": 0.34234118461608887,
+        "AuthoritiesGovernance": 0.4461413025856018,
+        "DefinitionsReferences": 0.36776208877563477
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 50 crores for the implementation of the JKBOCWWB scheme for the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5035818815231323,
+      "similarities": {
+        "ContextObjective": 0.5035818815231323,
+        "BenefitsAssistance": 0.48162388801574707,
+        "Eligibility": 0.4942028820514679,
+        "ApplicationProcess": 0.43784594535827637,
+        "TimelineFrequency": 0.44021299481391907,
+        "AuthoritiesGovernance": 0.4805169999599457,
+        "DefinitionsReferences": 0.39335376024246216
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly improve the living standards of construction workers in Jammu and Kashmir.",
+      "role": "ContextObjective",
+      "confidence": 0.4481056332588196,
+      "similarities": {
+        "ContextObjective": 0.4481056332588196,
+        "BenefitsAssistance": 0.4002913236618042,
+        "Eligibility": 0.4015933871269226,
+        "ApplicationProcess": 0.3718184232711792,
+        "TimelineFrequency": 0.3316327929496765,
+        "AuthoritiesGovernance": 0.3546730577945709,
+        "DefinitionsReferences": 0.31525924801826477
+      }
+    },
+    {
+      "sentence": "The board regularly reviews the scheme to ensure that it meets the needs of the workers effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5263356566429138,
+      "similarities": {
+        "ContextObjective": 0.5263356566429138,
+        "BenefitsAssistance": 0.4379398822784424,
+        "Eligibility": 0.4881668984889984,
+        "ApplicationProcess": 0.49612173438072205,
+        "TimelineFrequency": 0.45725029706954956,
+        "AuthoritiesGovernance": 0.45396915078163147,
+        "DefinitionsReferences": 0.4220220744609833
+      }
+    },
+    {
+      "sentence": "Feedback from registered workers is taken into account for making necessary improvements to the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5062563419342041,
+      "similarities": {
+        "ContextObjective": 0.4769083559513092,
+        "BenefitsAssistance": 0.45723816752433777,
+        "Eligibility": 0.4845602512359619,
+        "ApplicationProcess": 0.4799038767814636,
+        "TimelineFrequency": 0.4404766857624054,
+        "AuthoritiesGovernance": 0.5062563419342041,
+        "DefinitionsReferences": 0.4272715747356415
+      }
+    },
+    {
+      "sentence": "The JKBOCWWB scheme is a crucial step towards providing social security to a largely unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.44931265711784363,
+      "similarities": {
+        "ContextObjective": 0.44931265711784363,
+        "BenefitsAssistance": 0.41219592094421387,
+        "Eligibility": 0.4340288043022156,
+        "ApplicationProcess": 0.40229010581970215,
+        "TimelineFrequency": 0.3380974531173706,
+        "AuthoritiesGovernance": 0.4009151756763458,
+        "DefinitionsReferences": 0.34798455238342285
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that no construction worker is left without support in times of need.",
+      "role": "Eligibility",
+      "confidence": 0.4916480779647827,
+      "similarities": {
+        "ContextObjective": 0.48013871908187866,
+        "BenefitsAssistance": 0.49059879779815674,
+        "Eligibility": 0.4916480779647827,
+        "ApplicationProcess": 0.44528669118881226,
+        "TimelineFrequency": 0.3974514901638031,
+        "AuthoritiesGovernance": 0.4586859345436096,
+        "DefinitionsReferences": 0.41707053780555725
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the government's broader goal of promoting welfare and development in the Union Territory.",
+      "role": "ContextObjective",
+      "confidence": 0.5360735654830933,
+      "similarities": {
+        "ContextObjective": 0.5360735654830933,
+        "BenefitsAssistance": 0.4063044786453247,
+        "Eligibility": 0.44805723428726196,
+        "ApplicationProcess": 0.39707496762275696,
+        "TimelineFrequency": 0.36131352186203003,
+        "AuthoritiesGovernance": 0.4343871474266052,
+        "DefinitionsReferences": 0.37884896993637085
+      }
+    },
+    {
+      "sentence": "In conclusion, the JKBOCWWB scheme represents a significant effort by the government of Jammu and Kashmir to uplift the construction workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.44255170226097107,
+      "similarities": {
+        "ContextObjective": 0.44255170226097107,
+        "BenefitsAssistance": 0.3669312000274658,
+        "Eligibility": 0.3808170557022095,
+        "ApplicationProcess": 0.3817664384841919,
+        "TimelineFrequency": 0.32929927110671997,
+        "AuthoritiesGovernance": 0.3573418855667114,
+        "DefinitionsReferences": 0.34961825609207153
+      }
+    },
+    {
+      "sentence": "Through various benefits and support mechanisms, the scheme aims to provide a safety net for workers in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5172348022460938,
+      "similarities": {
+        "ContextObjective": 0.5172348022460938,
+        "BenefitsAssistance": 0.5141208171844482,
+        "Eligibility": 0.49786895513534546,
+        "ApplicationProcess": 0.43636882305145264,
+        "TimelineFrequency": 0.4204294681549072,
+        "AuthoritiesGovernance": 0.4251728057861328,
+        "DefinitionsReferences": 0.3925899267196655
+      }
+    },
+    {
+      "sentence": "The implementation of this scheme is a testament to the government's commitment to enhancing the welfare of its citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4801073670387268,
+      "similarities": {
+        "ContextObjective": 0.47229254245758057,
+        "BenefitsAssistance": 0.4208715558052063,
+        "Eligibility": 0.444736123085022,
+        "ApplicationProcess": 0.42352545261383057,
+        "TimelineFrequency": 0.3503778576850891,
+        "AuthoritiesGovernance": 0.4801073670387268,
+        "DefinitionsReferences": 0.39671969413757324
+      }
+    },
+    {
+      "sentence": "The JKBOCWWB scheme is an essential initiative that addresses the specific needs of construction workers in Jammu and Kashmir.",
+      "role": "ContextObjective",
+      "confidence": 0.5056426525115967,
+      "similarities": {
+        "ContextObjective": 0.5056426525115967,
+        "BenefitsAssistance": 0.41121166944503784,
+        "Eligibility": 0.48573586344718933,
+        "ApplicationProcess": 0.4320952892303467,
+        "TimelineFrequency": 0.4044168293476105,
+        "AuthoritiesGovernance": 0.4157769978046417,
+        "DefinitionsReferences": 0.36773231625556946
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 16,
+    "Eligibility": 6,
+    "BenefitsAssistance": 7,
+    "ApplicationProcess": 7,
+    "AuthoritiesGovernance": 8
+  },
+  "processing_timestamp": "2025-09-25T20:32:59.364151"
+}

@@ -1,0 +1,729 @@
+{
+  "scheme_name": "Sero Positive Illness Scheme",
+  "total_sentences": 51,
+  "labeled_sentences": [
+    {
+      "sentence": "The Sero Positive Illness Scheme is a welfare initiative launched by the Government of India to provide financial assistance and support to individuals living with HIV/AIDS.",
+      "role": "ContextObjective",
+      "confidence": 0.5534391403198242,
+      "similarities": {
+        "ContextObjective": 0.5534391403198242,
+        "BenefitsAssistance": 0.49642667174339294,
+        "Eligibility": 0.5393034219741821,
+        "ApplicationProcess": 0.44960519671440125,
+        "TimelineFrequency": 0.4131873846054077,
+        "AuthoritiesGovernance": 0.4534200131893158,
+        "DefinitionsReferences": 0.3424941897392273
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on December 1, 2020, coinciding with World AIDS Day.",
+      "role": "ContextObjective",
+      "confidence": 0.4954185485839844,
+      "similarities": {
+        "ContextObjective": 0.4954185485839844,
+        "BenefitsAssistance": 0.4081000089645386,
+        "Eligibility": 0.4315585196018219,
+        "ApplicationProcess": 0.41041964292526245,
+        "TimelineFrequency": 0.4323381185531616,
+        "AuthoritiesGovernance": 0.3796902298927307,
+        "DefinitionsReferences": 0.31765055656433105
+      }
+    },
+    {
+      "sentence": "The primary objective of the Sero Positive Illness Scheme is to ensure that individuals affected by HIV/AIDS receive timely medical treatment and financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.5339970588684082,
+      "similarities": {
+        "ContextObjective": 0.5339970588684082,
+        "BenefitsAssistance": 0.48791900277137756,
+        "Eligibility": 0.5023277401924133,
+        "ApplicationProcess": 0.4287075400352478,
+        "TimelineFrequency": 0.41110968589782715,
+        "AuthoritiesGovernance": 0.42888855934143066,
+        "DefinitionsReferences": 0.30577459931373596
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce the financial burden on families affected by HIV/AIDS by providing monetary assistance for medical expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.539997935295105,
+      "similarities": {
+        "ContextObjective": 0.4579547047615051,
+        "BenefitsAssistance": 0.539997935295105,
+        "Eligibility": 0.46440887451171875,
+        "ApplicationProcess": 0.39467358589172363,
+        "TimelineFrequency": 0.3605162501335144,
+        "AuthoritiesGovernance": 0.3751392364501953,
+        "DefinitionsReferences": 0.319965124130249
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of assisting at least 50,000 individuals under this scheme annually.",
+      "role": "ContextObjective",
+      "confidence": 0.5403646230697632,
+      "similarities": {
+        "ContextObjective": 0.5403646230697632,
+        "BenefitsAssistance": 0.4643101990222931,
+        "Eligibility": 0.5269936919212341,
+        "ApplicationProcess": 0.44283628463745117,
+        "TimelineFrequency": 0.4185020327568054,
+        "AuthoritiesGovernance": 0.42495250701904297,
+        "DefinitionsReferences": 0.3687722682952881
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under the Sero Positive Illness Scheme is up to INR 2,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5464884042739868,
+      "similarities": {
+        "ContextObjective": 0.4145582318305969,
+        "BenefitsAssistance": 0.5464884042739868,
+        "Eligibility": 0.4777066707611084,
+        "ApplicationProcess": 0.40540647506713867,
+        "TimelineFrequency": 0.3882521390914917,
+        "AuthoritiesGovernance": 0.3622899055480957,
+        "DefinitionsReferences": 0.329880952835083
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover the costs of antiretroviral therapy and other necessary medical treatments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6100775003433228,
+      "similarities": {
+        "ContextObjective": 0.4288747310638428,
+        "BenefitsAssistance": 0.6100775003433228,
+        "Eligibility": 0.4524405002593994,
+        "ApplicationProcess": 0.4127749800682068,
+        "TimelineFrequency": 0.40750735998153687,
+        "AuthoritiesGovernance": 0.40969520807266235,
+        "DefinitionsReferences": 0.4247949719429016
+      }
+    },
+    {
+      "sentence": "In addition to financial support, the scheme also focuses on providing psychological counseling and social support to individuals living with HIV/AIDS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5020253658294678,
+      "similarities": {
+        "ContextObjective": 0.476216197013855,
+        "BenefitsAssistance": 0.5020253658294678,
+        "Eligibility": 0.42586666345596313,
+        "ApplicationProcess": 0.39563310146331787,
+        "TimelineFrequency": 0.37229210138320923,
+        "AuthoritiesGovernance": 0.3712817430496216,
+        "DefinitionsReferences": 0.37999486923217773
+      }
+    },
+    {
+      "sentence": "Eligibility for the Sero Positive Illness Scheme is primarily based on the individual's HIV status.",
+      "role": "Eligibility",
+      "confidence": 0.5508618354797363,
+      "similarities": {
+        "ContextObjective": 0.4598795771598816,
+        "BenefitsAssistance": 0.42235541343688965,
+        "Eligibility": 0.5508618354797363,
+        "ApplicationProcess": 0.44370418787002563,
+        "TimelineFrequency": 0.40841159224510193,
+        "AuthoritiesGovernance": 0.33857452869415283,
+        "DefinitionsReferences": 0.30078279972076416
+      }
+    },
+    {
+      "sentence": "Applicants must provide a valid HIV positive certificate issued by a recognized health institution.",
+      "role": "Eligibility",
+      "confidence": 0.5729106664657593,
+      "similarities": {
+        "ContextObjective": 0.44008010625839233,
+        "BenefitsAssistance": 0.44401586055755615,
+        "Eligibility": 0.5729106664657593,
+        "ApplicationProcess": 0.5519182682037354,
+        "TimelineFrequency": 0.44401174783706665,
+        "AuthoritiesGovernance": 0.42388486862182617,
+        "DefinitionsReferences": 0.39730146527290344
+      }
+    },
+    {
+      "sentence": "The scheme is open to individuals aged 18 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.5880653858184814,
+      "similarities": {
+        "ContextObjective": 0.5507959127426147,
+        "BenefitsAssistance": 0.5055499076843262,
+        "Eligibility": 0.5880653858184814,
+        "ApplicationProcess": 0.5138481259346008,
+        "TimelineFrequency": 0.4847215414047241,
+        "AuthoritiesGovernance": 0.4151802361011505,
+        "DefinitionsReferences": 0.39215314388275146
+      }
+    },
+    {
+      "sentence": "There is no upper age limit for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5436100363731384,
+      "similarities": {
+        "ContextObjective": 0.42381757497787476,
+        "BenefitsAssistance": 0.43201306462287903,
+        "Eligibility": 0.5436100363731384,
+        "ApplicationProcess": 0.43681833148002625,
+        "TimelineFrequency": 0.432769775390625,
+        "AuthoritiesGovernance": 0.34648197889328003,
+        "DefinitionsReferences": 0.34773921966552734
+      }
+    },
+    {
+      "sentence": "Income criteria for the scheme specify that applicants must have a monthly income of less than INR 15,000.",
+      "role": "Eligibility",
+      "confidence": 0.5876410007476807,
+      "similarities": {
+        "ContextObjective": 0.4807829260826111,
+        "BenefitsAssistance": 0.4905429780483246,
+        "Eligibility": 0.5876410007476807,
+        "ApplicationProcess": 0.5311588644981384,
+        "TimelineFrequency": 0.49800509214401245,
+        "AuthoritiesGovernance": 0.3546546697616577,
+        "DefinitionsReferences": 0.36366939544677734
+      }
+    },
+    {
+      "sentence": "This income limit ensures that the scheme targets economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.5058178901672363,
+      "similarities": {
+        "ContextObjective": 0.4439510703086853,
+        "BenefitsAssistance": 0.401559978723526,
+        "Eligibility": 0.5058178901672363,
+        "ApplicationProcess": 0.3481641411781311,
+        "TimelineFrequency": 0.3536998927593231,
+        "AuthoritiesGovernance": 0.33942463994026184,
+        "DefinitionsReferences": 0.2967280447483063
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not a prerequisite for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5079891085624695,
+      "similarities": {
+        "ContextObjective": 0.454757958650589,
+        "BenefitsAssistance": 0.3877176344394684,
+        "Eligibility": 0.5079891085624695,
+        "ApplicationProcess": 0.45103418827056885,
+        "TimelineFrequency": 0.4016159772872925,
+        "AuthoritiesGovernance": 0.345953106880188,
+        "DefinitionsReferences": 0.32970163226127625
+      }
+    },
+    {
+      "sentence": "The application process for the Sero Positive Illness Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6786366701126099,
+      "similarities": {
+        "ContextObjective": 0.5845904350280762,
+        "BenefitsAssistance": 0.5163103342056274,
+        "Eligibility": 0.6213753819465637,
+        "ApplicationProcess": 0.6786366701126099,
+        "TimelineFrequency": 0.5775271654129028,
+        "AuthoritiesGovernance": 0.48405736684799194,
+        "DefinitionsReferences": 0.43011587858200073
+      }
+    },
+    {
+      "sentence": "Interested individuals must first obtain the HIV positive certificate from a government hospital or an accredited healthcare facility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5238498449325562,
+      "similarities": {
+        "ContextObjective": 0.4167196452617645,
+        "BenefitsAssistance": 0.40722817182540894,
+        "Eligibility": 0.5097036957740784,
+        "ApplicationProcess": 0.5238498449325562,
+        "TimelineFrequency": 0.37680286169052124,
+        "AuthoritiesGovernance": 0.4181542992591858,
+        "DefinitionsReferences": 0.3751315474510193
+      }
+    },
+    {
+      "sentence": "Once the certificate is obtained, applicants need to fill out the application form available at designated health centers or online on the official government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6888421773910522,
+      "similarities": {
+        "ContextObjective": 0.4199957251548767,
+        "BenefitsAssistance": 0.45019692182540894,
+        "Eligibility": 0.5330542922019958,
+        "ApplicationProcess": 0.6888421773910522,
+        "TimelineFrequency": 0.5048301219940186,
+        "AuthoritiesGovernance": 0.44016265869140625,
+        "DefinitionsReferences": 0.4414587616920471
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7019224166870117,
+      "similarities": {
+        "ContextObjective": 0.5078127980232239,
+        "BenefitsAssistance": 0.5981009006500244,
+        "Eligibility": 0.645250678062439,
+        "ApplicationProcess": 0.7019224166870117,
+        "TimelineFrequency": 0.5861561894416809,
+        "AuthoritiesGovernance": 0.46677321195602417,
+        "DefinitionsReferences": 0.527523398399353
+      }
+    },
+    {
+      "sentence": "Applicants must also attach a copy of their HIV positive certificate along with the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5855275392532349,
+      "similarities": {
+        "ContextObjective": 0.42235493659973145,
+        "BenefitsAssistance": 0.44033101201057434,
+        "Eligibility": 0.501869261264801,
+        "ApplicationProcess": 0.5855275392532349,
+        "TimelineFrequency": 0.4554842710494995,
+        "AuthoritiesGovernance": 0.35412561893463135,
+        "DefinitionsReferences": 0.4164975881576538
+      }
+    },
+    {
+      "sentence": "Additionally, proof of income such as salary slips or income certificates must be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6100019216537476,
+      "similarities": {
+        "ContextObjective": 0.4315280020236969,
+        "BenefitsAssistance": 0.5547865033149719,
+        "Eligibility": 0.5274571776390076,
+        "ApplicationProcess": 0.6100019216537476,
+        "TimelineFrequency": 0.49451613426208496,
+        "AuthoritiesGovernance": 0.401868999004364,
+        "DefinitionsReferences": 0.4787287712097168
+      }
+    },
+    {
+      "sentence": "After completing the application form and gathering the necessary documents, applicants should submit them to the local health department office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6500842571258545,
+      "similarities": {
+        "ContextObjective": 0.3926317095756531,
+        "BenefitsAssistance": 0.4254896640777588,
+        "Eligibility": 0.5009245872497559,
+        "ApplicationProcess": 0.6500842571258545,
+        "TimelineFrequency": 0.4763549864292145,
+        "AuthoritiesGovernance": 0.4754447340965271,
+        "DefinitionsReferences": 0.4050503671169281
+      }
+    },
+    {
+      "sentence": "The local health department will then verify the application and documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6587635278701782,
+      "similarities": {
+        "ContextObjective": 0.42036306858062744,
+        "BenefitsAssistance": 0.47798264026641846,
+        "Eligibility": 0.532538890838623,
+        "ApplicationProcess": 0.6587635278701782,
+        "TimelineFrequency": 0.49942344427108765,
+        "AuthoritiesGovernance": 0.46652406454086304,
+        "DefinitionsReferences": 0.4602724611759186
+      }
+    },
+    {
+      "sentence": "Verification typically takes around 15 to 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.606670618057251,
+      "similarities": {
+        "ContextObjective": 0.4158063530921936,
+        "BenefitsAssistance": 0.46703627705574036,
+        "Eligibility": 0.4951149821281433,
+        "ApplicationProcess": 0.606670618057251,
+        "TimelineFrequency": 0.5575166344642639,
+        "AuthoritiesGovernance": 0.4340526759624481,
+        "DefinitionsReferences": 0.44487184286117554
+      }
+    },
+    {
+      "sentence": "Once verified, eligible applicants will receive the financial assistance directly into their bank accounts.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5868540406227112,
+      "similarities": {
+        "ContextObjective": 0.4242485761642456,
+        "BenefitsAssistance": 0.5449085235595703,
+        "Eligibility": 0.5691372752189636,
+        "ApplicationProcess": 0.5868540406227112,
+        "TimelineFrequency": 0.4777771234512329,
+        "AuthoritiesGovernance": 0.4113776683807373,
+        "DefinitionsReferences": 0.3894098699092865
+      }
+    },
+    {
+      "sentence": "The disbursement of funds occurs on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6154215335845947,
+      "similarities": {
+        "ContextObjective": 0.5043214559555054,
+        "BenefitsAssistance": 0.6154215335845947,
+        "Eligibility": 0.5219678282737732,
+        "ApplicationProcess": 0.4981571137905121,
+        "TimelineFrequency": 0.5691496133804321,
+        "AuthoritiesGovernance": 0.4960361421108246,
+        "DefinitionsReferences": 0.44273513555526733
+      }
+    },
+    {
+      "sentence": "Payments are made on the first week of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.568846583366394,
+      "similarities": {
+        "ContextObjective": 0.4631098210811615,
+        "BenefitsAssistance": 0.564302921295166,
+        "Eligibility": 0.48951539397239685,
+        "ApplicationProcess": 0.48388680815696716,
+        "TimelineFrequency": 0.568846583366394,
+        "AuthoritiesGovernance": 0.4372384548187256,
+        "DefinitionsReferences": 0.43175196647644043
+      }
+    },
+    {
+      "sentence": "The Sero Positive Illness Scheme is implemented by the Ministry of Health and Family Welfare.",
+      "role": "Eligibility",
+      "confidence": 0.5036084055900574,
+      "similarities": {
+        "ContextObjective": 0.487076997756958,
+        "BenefitsAssistance": 0.4561317563056946,
+        "Eligibility": 0.5036084055900574,
+        "ApplicationProcess": 0.4622761011123657,
+        "TimelineFrequency": 0.38821274042129517,
+        "AuthoritiesGovernance": 0.4870966076850891,
+        "DefinitionsReferences": 0.33731532096862793
+      }
+    },
+    {
+      "sentence": "The National AIDS Control Organization is the primary agency responsible for overseeing the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5641921758651733,
+      "similarities": {
+        "ContextObjective": 0.457141637802124,
+        "BenefitsAssistance": 0.4066179394721985,
+        "Eligibility": 0.4411008358001709,
+        "ApplicationProcess": 0.43618905544281006,
+        "TimelineFrequency": 0.354092001914978,
+        "AuthoritiesGovernance": 0.5641921758651733,
+        "DefinitionsReferences": 0.3800514042377472
+      }
+    },
+    {
+      "sentence": "Contact details for inquiries can be found on the official website of the National AIDS Control Organization.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4716852903366089,
+      "similarities": {
+        "ContextObjective": 0.40417036414146423,
+        "BenefitsAssistance": 0.4575929045677185,
+        "Eligibility": 0.4418884515762329,
+        "ApplicationProcess": 0.467659592628479,
+        "TimelineFrequency": 0.37351787090301514,
+        "AuthoritiesGovernance": 0.4716852903366089,
+        "DefinitionsReferences": 0.4261772632598877
+      }
+    },
+    {
+      "sentence": "The scheme also collaborates with various non-governmental organizations to enhance outreach and support services.",
+      "role": "ContextObjective",
+      "confidence": 0.4850381016731262,
+      "similarities": {
+        "ContextObjective": 0.4850381016731262,
+        "BenefitsAssistance": 0.44832393527030945,
+        "Eligibility": 0.42323145270347595,
+        "ApplicationProcess": 0.38929885625839233,
+        "TimelineFrequency": 0.37655922770500183,
+        "AuthoritiesGovernance": 0.4667086601257324,
+        "DefinitionsReferences": 0.41379278898239136
+      }
+    },
+    {
+      "sentence": "In terms of statistics, it is estimated that around 2.1 million people are living with HIV in India as of 2021.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39565223455429077,
+      "similarities": {
+        "ContextObjective": 0.37911662459373474,
+        "BenefitsAssistance": 0.39565223455429077,
+        "Eligibility": 0.3922968804836273,
+        "ApplicationProcess": 0.3304242491722107,
+        "TimelineFrequency": 0.3234494626522064,
+        "AuthoritiesGovernance": 0.38802671432495117,
+        "DefinitionsReferences": 0.3280627727508545
+      }
+    },
+    {
+      "sentence": "The Sero Positive Illness Scheme aims to address the needs of this population by providing essential support.",
+      "role": "ContextObjective",
+      "confidence": 0.5553527474403381,
+      "similarities": {
+        "ContextObjective": 0.5553527474403381,
+        "BenefitsAssistance": 0.4869592785835266,
+        "Eligibility": 0.5132931470870972,
+        "ApplicationProcess": 0.4560856819152832,
+        "TimelineFrequency": 0.39830631017684937,
+        "AuthoritiesGovernance": 0.4275701642036438,
+        "DefinitionsReferences": 0.33641937375068665
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crores for the implementation of this scheme over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.469142347574234,
+      "similarities": {
+        "ContextObjective": 0.469142347574234,
+        "BenefitsAssistance": 0.45729315280914307,
+        "Eligibility": 0.43911993503570557,
+        "ApplicationProcess": 0.4195166528224945,
+        "TimelineFrequency": 0.4229598045349121,
+        "AuthoritiesGovernance": 0.45362600684165955,
+        "DefinitionsReferences": 0.3646731972694397
+      }
+    },
+    {
+      "sentence": "This budget is intended to ensure that the scheme can sustain itself and reach its target beneficiaries effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5833209156990051,
+      "similarities": {
+        "ContextObjective": 0.5833209156990051,
+        "BenefitsAssistance": 0.5008270740509033,
+        "Eligibility": 0.502640426158905,
+        "ApplicationProcess": 0.4213680028915405,
+        "TimelineFrequency": 0.4346972703933716,
+        "AuthoritiesGovernance": 0.45083343982696533,
+        "DefinitionsReferences": 0.3581947982311249
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness and education regarding HIV/AIDS.",
+      "role": "ContextObjective",
+      "confidence": 0.4945971667766571,
+      "similarities": {
+        "ContextObjective": 0.4945971667766571,
+        "BenefitsAssistance": 0.4258560538291931,
+        "Eligibility": 0.4188840985298157,
+        "ApplicationProcess": 0.3949267268180847,
+        "TimelineFrequency": 0.35511350631713867,
+        "AuthoritiesGovernance": 0.35696905851364136,
+        "DefinitionsReferences": 0.3498953580856323
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to reduce stigma and discrimination against individuals living with HIV/AIDS.",
+      "role": "Eligibility",
+      "confidence": 0.47119763493537903,
+      "similarities": {
+        "ContextObjective": 0.4419366717338562,
+        "BenefitsAssistance": 0.42129331827163696,
+        "Eligibility": 0.47119763493537903,
+        "ApplicationProcess": 0.39976370334625244,
+        "TimelineFrequency": 0.36331212520599365,
+        "AuthoritiesGovernance": 0.44328615069389343,
+        "DefinitionsReferences": 0.3689593970775604
+      }
+    },
+    {
+      "sentence": "These campaigns aim to educate the public about the rights of individuals with HIV and the importance of treatment.",
+      "role": "ContextObjective",
+      "confidence": 0.4490758776664734,
+      "similarities": {
+        "ContextObjective": 0.4490758776664734,
+        "BenefitsAssistance": 0.4130050539970398,
+        "Eligibility": 0.43433108925819397,
+        "ApplicationProcess": 0.3701404929161072,
+        "TimelineFrequency": 0.3626350164413452,
+        "AuthoritiesGovernance": 0.4454421401023865,
+        "DefinitionsReferences": 0.38451337814331055
+      }
+    },
+    {
+      "sentence": "The Sero Positive Illness Scheme is part of a broader strategy by the Indian government to combat the HIV/AIDS epidemic.",
+      "role": "ContextObjective",
+      "confidence": 0.4788058400154114,
+      "similarities": {
+        "ContextObjective": 0.4788058400154114,
+        "BenefitsAssistance": 0.4021596908569336,
+        "Eligibility": 0.4333474636077881,
+        "ApplicationProcess": 0.38213762640953064,
+        "TimelineFrequency": 0.35119330883026123,
+        "AuthoritiesGovernance": 0.40326401591300964,
+        "DefinitionsReferences": 0.3244836628437042
+      }
+    },
+    {
+      "sentence": "This strategy includes prevention, treatment, and care initiatives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.508376955986023,
+      "similarities": {
+        "ContextObjective": 0.5002857446670532,
+        "BenefitsAssistance": 0.508376955986023,
+        "Eligibility": 0.45119959115982056,
+        "ApplicationProcess": 0.42472612857818604,
+        "TimelineFrequency": 0.4360032081604004,
+        "AuthoritiesGovernance": 0.467548131942749,
+        "DefinitionsReferences": 0.45447206497192383
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the United Nations Sustainable Development Goals to ensure healthy lives and promote well-being for all.",
+      "role": "ContextObjective",
+      "confidence": 0.503665030002594,
+      "similarities": {
+        "ContextObjective": 0.503665030002594,
+        "BenefitsAssistance": 0.381896436214447,
+        "Eligibility": 0.4414697587490082,
+        "ApplicationProcess": 0.39541471004486084,
+        "TimelineFrequency": 0.35688334703445435,
+        "AuthoritiesGovernance": 0.3921000063419342,
+        "DefinitionsReferences": 0.3509446382522583
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also provides access to healthcare services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5970070362091064,
+      "similarities": {
+        "ContextObjective": 0.49767082929611206,
+        "BenefitsAssistance": 0.5970070362091064,
+        "Eligibility": 0.5171530246734619,
+        "ApplicationProcess": 0.46318358182907104,
+        "TimelineFrequency": 0.4415985941886902,
+        "AuthoritiesGovernance": 0.43254581093788147,
+        "DefinitionsReferences": 0.4144746661186218
+      }
+    },
+    {
+      "sentence": "This includes regular health check-ups and monitoring of the health status of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5537643432617188,
+      "similarities": {
+        "ContextObjective": 0.4015117883682251,
+        "BenefitsAssistance": 0.5537643432617188,
+        "Eligibility": 0.5035593509674072,
+        "ApplicationProcess": 0.4745335280895233,
+        "TimelineFrequency": 0.41778987646102905,
+        "AuthoritiesGovernance": 0.43091967701911926,
+        "DefinitionsReferences": 0.4344503879547119
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to participate in support groups and community health initiatives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5336366891860962,
+      "similarities": {
+        "ContextObjective": 0.47294309735298157,
+        "BenefitsAssistance": 0.5336366891860962,
+        "Eligibility": 0.5102419257164001,
+        "ApplicationProcess": 0.4225916862487793,
+        "TimelineFrequency": 0.40300989151000977,
+        "AuthoritiesGovernance": 0.4743720293045044,
+        "DefinitionsReferences": 0.427532821893692
+      }
+    },
+    {
+      "sentence": "These initiatives aim to foster a sense of community and support among individuals living with HIV/AIDS.",
+      "role": "ContextObjective",
+      "confidence": 0.48023951053619385,
+      "similarities": {
+        "ContextObjective": 0.48023951053619385,
+        "BenefitsAssistance": 0.3999957740306854,
+        "Eligibility": 0.41259902715682983,
+        "ApplicationProcess": 0.35460197925567627,
+        "TimelineFrequency": 0.34164413809776306,
+        "AuthoritiesGovernance": 0.4291156828403473,
+        "DefinitionsReferences": 0.37049925327301025
+      }
+    },
+    {
+      "sentence": "The government also provides training for healthcare providers to improve the quality of care for HIV-positive individuals.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.44619134068489075,
+      "similarities": {
+        "ContextObjective": 0.37776586413383484,
+        "BenefitsAssistance": 0.396584689617157,
+        "Eligibility": 0.4163585305213928,
+        "ApplicationProcess": 0.36788588762283325,
+        "TimelineFrequency": 0.3496650457382202,
+        "AuthoritiesGovernance": 0.44619134068489075,
+        "DefinitionsReferences": 0.35858333110809326
+      }
+    },
+    {
+      "sentence": "The Sero Positive Illness Scheme reflects the government's commitment to improving the quality of life for individuals affected by HIV/AIDS.",
+      "role": "ContextObjective",
+      "confidence": 0.4526289701461792,
+      "similarities": {
+        "ContextObjective": 0.4526289701461792,
+        "BenefitsAssistance": 0.3815286159515381,
+        "Eligibility": 0.4446218013763428,
+        "ApplicationProcess": 0.3841935694217682,
+        "TimelineFrequency": 0.3393474817276001,
+        "AuthoritiesGovernance": 0.36896243691444397,
+        "DefinitionsReferences": 0.3139480948448181
+      }
+    },
+    {
+      "sentence": "By providing financial assistance and support, the scheme aims to empower individuals to lead healthier lives.",
+      "role": "ContextObjective",
+      "confidence": 0.5374950766563416,
+      "similarities": {
+        "ContextObjective": 0.5374950766563416,
+        "BenefitsAssistance": 0.5330100059509277,
+        "Eligibility": 0.5015954971313477,
+        "ApplicationProcess": 0.431661456823349,
+        "TimelineFrequency": 0.3910840153694153,
+        "AuthoritiesGovernance": 0.41845300793647766,
+        "DefinitionsReferences": 0.37725454568862915
+      }
+    },
+    {
+      "sentence": "The scheme also seeks to promote social inclusion and reduce the stigma associated with HIV/AIDS.",
+      "role": "ContextObjective",
+      "confidence": 0.4962359070777893,
+      "similarities": {
+        "ContextObjective": 0.4962359070777893,
+        "BenefitsAssistance": 0.4169321358203888,
+        "Eligibility": 0.4638090133666992,
+        "ApplicationProcess": 0.3690435588359833,
+        "TimelineFrequency": 0.3242827355861664,
+        "AuthoritiesGovernance": 0.3746819794178009,
+        "DefinitionsReferences": 0.3174822926521301
+      }
+    },
+    {
+      "sentence": "Overall, the Sero Positive Illness Scheme represents a significant step towards addressing the challenges faced by individuals living with HIV/AIDS in India.",
+      "role": "Eligibility",
+      "confidence": 0.46094217896461487,
+      "similarities": {
+        "ContextObjective": 0.4551226794719696,
+        "BenefitsAssistance": 0.41763460636138916,
+        "Eligibility": 0.46094217896461487,
+        "ApplicationProcess": 0.41870322823524475,
+        "TimelineFrequency": 0.3473036289215088,
+        "AuthoritiesGovernance": 0.3910934329032898,
+        "DefinitionsReferences": 0.32280534505844116
+      }
+    },
+    {
+      "sentence": "With its comprehensive approach to support and assistance, the scheme aims to create a more equitable healthcare system for all.",
+      "role": "ContextObjective",
+      "confidence": 0.49734845757484436,
+      "similarities": {
+        "ContextObjective": 0.49734845757484436,
+        "BenefitsAssistance": 0.48681753873825073,
+        "Eligibility": 0.45880240201950073,
+        "ApplicationProcess": 0.4093225598335266,
+        "TimelineFrequency": 0.3743646740913391,
+        "AuthoritiesGovernance": 0.4311418831348419,
+        "DefinitionsReferences": 0.35084068775177
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 17,
+    "BenefitsAssistance": 10,
+    "Eligibility": 10,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:46:00.374946"
+}

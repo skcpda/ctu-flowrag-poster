@@ -1,0 +1,827 @@
+{
+  "scheme_name": "Interest Free Loan (CBOCWWB)",
+  "total_sentences": 58,
+  "labeled_sentences": [
+    {
+      "sentence": "The Interest Free Loan scheme for Construction Workers is a welfare initiative launched by the Government of India to support construction workers financially.",
+      "role": "ContextObjective",
+      "confidence": 0.5296103358268738,
+      "similarities": {
+        "ContextObjective": 0.5296103358268738,
+        "BenefitsAssistance": 0.49012064933776855,
+        "Eligibility": 0.4967755973339081,
+        "ApplicationProcess": 0.4480646848678589,
+        "TimelineFrequency": 0.4346892535686493,
+        "AuthoritiesGovernance": 0.43478116393089294,
+        "DefinitionsReferences": 0.39764201641082764
+      }
+    },
+    {
+      "sentence": "This scheme is specifically designed for the benefit of construction workers who are registered under the Construction Workers Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.47338616847991943,
+      "similarities": {
+        "ContextObjective": 0.47338616847991943,
+        "BenefitsAssistance": 0.43039393424987793,
+        "Eligibility": 0.46449780464172363,
+        "ApplicationProcess": 0.43082574009895325,
+        "TimelineFrequency": 0.40391767024993896,
+        "AuthoritiesGovernance": 0.40243521332740784,
+        "DefinitionsReferences": 0.35816407203674316
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st January 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5824316740036011,
+      "similarities": {
+        "ContextObjective": 0.5824316740036011,
+        "BenefitsAssistance": 0.4395069479942322,
+        "Eligibility": 0.46752357482910156,
+        "ApplicationProcess": 0.4572252929210663,
+        "TimelineFrequency": 0.4580341875553131,
+        "AuthoritiesGovernance": 0.430794894695282,
+        "DefinitionsReferences": 0.3392212390899658
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance to construction workers in the form of interest-free loans.",
+      "role": "ContextObjective",
+      "confidence": 0.5179651975631714,
+      "similarities": {
+        "ContextObjective": 0.5179651975631714,
+        "BenefitsAssistance": 0.46604907512664795,
+        "Eligibility": 0.45344704389572144,
+        "ApplicationProcess": 0.423261433839798,
+        "TimelineFrequency": 0.3971284329891205,
+        "AuthoritiesGovernance": 0.35987865924835205,
+        "DefinitionsReferences": 0.3456735610961914
+      }
+    },
+    {
+      "sentence": "The scheme aims to help workers meet their immediate financial needs without the burden of interest.",
+      "role": "ContextObjective",
+      "confidence": 0.5220220685005188,
+      "similarities": {
+        "ContextObjective": 0.5220220685005188,
+        "BenefitsAssistance": 0.4945407509803772,
+        "Eligibility": 0.45368677377700806,
+        "ApplicationProcess": 0.4020657539367676,
+        "TimelineFrequency": 0.39301055669784546,
+        "AuthoritiesGovernance": 0.35202932357788086,
+        "DefinitionsReferences": 0.3396778404712677
+      }
+    },
+    {
+      "sentence": "The target beneficiaries of this scheme are construction workers who are registered with the respective State Construction Workers Welfare Boards.",
+      "role": "Eligibility",
+      "confidence": 0.4993479251861572,
+      "similarities": {
+        "ContextObjective": 0.4542669653892517,
+        "BenefitsAssistance": 0.38505393266677856,
+        "Eligibility": 0.4993479251861572,
+        "ApplicationProcess": 0.3579089939594269,
+        "TimelineFrequency": 0.3507917821407318,
+        "AuthoritiesGovernance": 0.40434062480926514,
+        "DefinitionsReferences": 0.3382629156112671
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide loans up to a maximum amount of INR 1 lakh.",
+      "role": "ContextObjective",
+      "confidence": 0.524399995803833,
+      "similarities": {
+        "ContextObjective": 0.524399995803833,
+        "BenefitsAssistance": 0.5005733966827393,
+        "Eligibility": 0.5215687155723572,
+        "ApplicationProcess": 0.459306001663208,
+        "TimelineFrequency": 0.4488721787929535,
+        "AuthoritiesGovernance": 0.36344069242477417,
+        "DefinitionsReferences": 0.3904644250869751
+      }
+    },
+    {
+      "sentence": "The loans are intended to assist workers in various situations such as medical emergencies, education expenses, or other urgent financial needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5769544839859009,
+      "similarities": {
+        "ContextObjective": 0.467204213142395,
+        "BenefitsAssistance": 0.5769544839859009,
+        "Eligibility": 0.5294696092605591,
+        "ApplicationProcess": 0.4594423770904541,
+        "TimelineFrequency": 0.49577897787094116,
+        "AuthoritiesGovernance": 0.4274098575115204,
+        "DefinitionsReferences": 0.46319201588630676
+      }
+    },
+    {
+      "sentence": "The loan amount is disbursed without any interest charges, making it an attractive option for workers who may otherwise rely on high-interest loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.427345871925354,
+      "similarities": {
+        "ContextObjective": 0.3481023907661438,
+        "BenefitsAssistance": 0.427345871925354,
+        "Eligibility": 0.3779529333114624,
+        "ApplicationProcess": 0.3309893012046814,
+        "TimelineFrequency": 0.32819411158561707,
+        "AuthoritiesGovernance": 0.25906163454055786,
+        "DefinitionsReferences": 0.2760627269744873
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for this scheme include being a registered construction worker under the Construction Workers Welfare Board.",
+      "role": "Eligibility",
+      "confidence": 0.5608230829238892,
+      "similarities": {
+        "ContextObjective": 0.46474775671958923,
+        "BenefitsAssistance": 0.4029582738876343,
+        "Eligibility": 0.5608230829238892,
+        "ApplicationProcess": 0.5085453987121582,
+        "TimelineFrequency": 0.43986546993255615,
+        "AuthoritiesGovernance": 0.3734983801841736,
+        "DefinitionsReferences": 0.3724045753479004
+      }
+    },
+    {
+      "sentence": "Applicants must also be above the age of 18 years to qualify for the loan.",
+      "role": "Eligibility",
+      "confidence": 0.6063317656517029,
+      "similarities": {
+        "ContextObjective": 0.44695913791656494,
+        "BenefitsAssistance": 0.4993174374103546,
+        "Eligibility": 0.6063317656517029,
+        "ApplicationProcess": 0.5451424717903137,
+        "TimelineFrequency": 0.5177951455116272,
+        "AuthoritiesGovernance": 0.3554583787918091,
+        "DefinitionsReferences": 0.39829134941101074
+      }
+    },
+    {
+      "sentence": "There is no specific income ceiling mentioned for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5254093408584595,
+      "similarities": {
+        "ContextObjective": 0.4578964114189148,
+        "BenefitsAssistance": 0.44673585891723633,
+        "Eligibility": 0.5254093408584595,
+        "ApplicationProcess": 0.39369437098503113,
+        "TimelineFrequency": 0.3996269106864929,
+        "AuthoritiesGovernance": 0.33069807291030884,
+        "DefinitionsReferences": 0.2984725832939148
+      }
+    },
+    {
+      "sentence": "However, applicants must provide proof of their registration with the Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5748237371444702,
+      "similarities": {
+        "ContextObjective": 0.41372203826904297,
+        "BenefitsAssistance": 0.41808587312698364,
+        "Eligibility": 0.5236071944236755,
+        "ApplicationProcess": 0.5748237371444702,
+        "TimelineFrequency": 0.4658369719982147,
+        "AuthoritiesGovernance": 0.3832857310771942,
+        "DefinitionsReferences": 0.40038952231407166
+      }
+    },
+    {
+      "sentence": "The application process for the Interest Free Loan scheme begins with the submission of an application form to the local Construction Workers Welfare Board office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5982831120491028,
+      "similarities": {
+        "ContextObjective": 0.5073575377464294,
+        "BenefitsAssistance": 0.4334008991718292,
+        "Eligibility": 0.5141956210136414,
+        "ApplicationProcess": 0.5982831120491028,
+        "TimelineFrequency": 0.4895220696926117,
+        "AuthoritiesGovernance": 0.3990110158920288,
+        "DefinitionsReferences": 0.3853708505630493
+      }
+    },
+    {
+      "sentence": "Applicants are required to fill out the application form accurately and completely.",
+      "role": "ApplicationProcess",
+      "confidence": 0.694862961769104,
+      "similarities": {
+        "ContextObjective": 0.47932538390159607,
+        "BenefitsAssistance": 0.48009195923805237,
+        "Eligibility": 0.5697623491287231,
+        "ApplicationProcess": 0.694862961769104,
+        "TimelineFrequency": 0.5561445355415344,
+        "AuthoritiesGovernance": 0.44697874784469604,
+        "DefinitionsReferences": 0.45953860878944397
+      }
+    },
+    {
+      "sentence": "Along with the application form, applicants must submit a copy of their registration certificate with the Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5972647666931152,
+      "similarities": {
+        "ContextObjective": 0.394435852766037,
+        "BenefitsAssistance": 0.41078537702560425,
+        "Eligibility": 0.46602529287338257,
+        "ApplicationProcess": 0.5972647666931152,
+        "TimelineFrequency": 0.4597146511077881,
+        "AuthoritiesGovernance": 0.3730650246143341,
+        "DefinitionsReferences": 0.41594359278678894
+      }
+    },
+    {
+      "sentence": "They must also provide valid identification proof such as an Aadhar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5441434383392334,
+      "similarities": {
+        "ContextObjective": 0.42232781648635864,
+        "BenefitsAssistance": 0.4505385160446167,
+        "Eligibility": 0.4693205952644348,
+        "ApplicationProcess": 0.5441434383392334,
+        "TimelineFrequency": 0.4167367219924927,
+        "AuthoritiesGovernance": 0.3995616137981415,
+        "DefinitionsReferences": 0.42812442779541016
+      }
+    },
+    {
+      "sentence": "Additionally, proof of the purpose for which the loan is being sought may be required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6159877777099609,
+      "similarities": {
+        "ContextObjective": 0.5659831166267395,
+        "BenefitsAssistance": 0.5734806656837463,
+        "Eligibility": 0.5897982120513916,
+        "ApplicationProcess": 0.6159877777099609,
+        "TimelineFrequency": 0.5409783124923706,
+        "AuthoritiesGovernance": 0.4295017421245575,
+        "DefinitionsReferences": 0.5227476358413696
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the local board will verify the details provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6986464262008667,
+      "similarities": {
+        "ContextObjective": 0.524610161781311,
+        "BenefitsAssistance": 0.5076773166656494,
+        "Eligibility": 0.5878698825836182,
+        "ApplicationProcess": 0.6986464262008667,
+        "TimelineFrequency": 0.5719977617263794,
+        "AuthoritiesGovernance": 0.48243600130081177,
+        "DefinitionsReferences": 0.4758879840373993
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 to 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6170081496238708,
+      "similarities": {
+        "ContextObjective": 0.4187864065170288,
+        "BenefitsAssistance": 0.4725809693336487,
+        "Eligibility": 0.49795427918434143,
+        "ApplicationProcess": 0.6170081496238708,
+        "TimelineFrequency": 0.5579826831817627,
+        "AuthoritiesGovernance": 0.4405880570411682,
+        "DefinitionsReferences": 0.4455951750278473
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the loan amount is disbursed to the applicant's bank account.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5669360160827637,
+      "similarities": {
+        "ContextObjective": 0.39980995655059814,
+        "BenefitsAssistance": 0.5373145341873169,
+        "Eligibility": 0.5150377750396729,
+        "ApplicationProcess": 0.5669360160827637,
+        "TimelineFrequency": 0.477511465549469,
+        "AuthoritiesGovernance": 0.3983219861984253,
+        "DefinitionsReferences": 0.38913214206695557
+      }
+    },
+    {
+      "sentence": "The disbursement of the loan is done in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.52335524559021,
+      "similarities": {
+        "ContextObjective": 0.43263036012649536,
+        "BenefitsAssistance": 0.52335524559021,
+        "Eligibility": 0.4168992340564728,
+        "ApplicationProcess": 0.4294634461402893,
+        "TimelineFrequency": 0.4546090364456177,
+        "AuthoritiesGovernance": 0.39470434188842773,
+        "DefinitionsReferences": 0.381906658411026
+      }
+    },
+    {
+      "sentence": "The loan must be repaid within a period of 12 months from the date of disbursement.",
+      "role": "TimelineFrequency",
+      "confidence": 0.544219970703125,
+      "similarities": {
+        "ContextObjective": 0.4232921600341797,
+        "BenefitsAssistance": 0.5332938432693481,
+        "Eligibility": 0.5199142098426819,
+        "ApplicationProcess": 0.46354177594184875,
+        "TimelineFrequency": 0.544219970703125,
+        "AuthoritiesGovernance": 0.37866538763046265,
+        "DefinitionsReferences": 0.37802854180336
+      }
+    },
+    {
+      "sentence": "There are no penalties for early repayment of the loan.",
+      "role": "Eligibility",
+      "confidence": 0.4097472131252289,
+      "similarities": {
+        "ContextObjective": 0.33758699893951416,
+        "BenefitsAssistance": 0.3882957100868225,
+        "Eligibility": 0.4097472131252289,
+        "ApplicationProcess": 0.3434445858001709,
+        "TimelineFrequency": 0.3621625304222107,
+        "AuthoritiesGovernance": 0.2884558439254761,
+        "DefinitionsReferences": 0.2888844907283783
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Labour and Employment, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5717949867248535,
+      "similarities": {
+        "ContextObjective": 0.46500545740127563,
+        "BenefitsAssistance": 0.41193687915802,
+        "Eligibility": 0.4787296652793884,
+        "ApplicationProcess": 0.4331563711166382,
+        "TimelineFrequency": 0.3922344446182251,
+        "AuthoritiesGovernance": 0.5717949867248535,
+        "DefinitionsReferences": 0.39169490337371826
+      }
+    },
+    {
+      "sentence": "Each state has its own Construction Workers Welfare Board that oversees the implementation of the scheme at the state level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5556254386901855,
+      "similarities": {
+        "ContextObjective": 0.47030389308929443,
+        "BenefitsAssistance": 0.4384082853794098,
+        "Eligibility": 0.4937325119972229,
+        "ApplicationProcess": 0.4371753931045532,
+        "TimelineFrequency": 0.40683597326278687,
+        "AuthoritiesGovernance": 0.5556254386901855,
+        "DefinitionsReferences": 0.40662071108818054
+      }
+    },
+    {
+      "sentence": "For any queries regarding the scheme, beneficiaries can contact the local Construction Workers Welfare Board office.",
+      "role": "Eligibility",
+      "confidence": 0.5183877944946289,
+      "similarities": {
+        "ContextObjective": 0.4739292562007904,
+        "BenefitsAssistance": 0.47561338543891907,
+        "Eligibility": 0.5183877944946289,
+        "ApplicationProcess": 0.4666042923927307,
+        "TimelineFrequency": 0.3923269212245941,
+        "AuthoritiesGovernance": 0.46237489581108093,
+        "DefinitionsReferences": 0.3467472195625305
+      }
+    },
+    {
+      "sentence": "The contact details for these offices can be found on the official website of the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5250916481018066,
+      "similarities": {
+        "ContextObjective": 0.3935202956199646,
+        "BenefitsAssistance": 0.45198917388916016,
+        "Eligibility": 0.41867518424987793,
+        "ApplicationProcess": 0.462060809135437,
+        "TimelineFrequency": 0.43999460339546204,
+        "AuthoritiesGovernance": 0.5250916481018066,
+        "DefinitionsReferences": 0.4597698450088501
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to improve the welfare of construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4713997542858124,
+      "similarities": {
+        "ContextObjective": 0.4713997542858124,
+        "BenefitsAssistance": 0.4123387038707733,
+        "Eligibility": 0.43315374851226807,
+        "ApplicationProcess": 0.3987610638141632,
+        "TimelineFrequency": 0.3621898293495178,
+        "AuthoritiesGovernance": 0.4155421853065491,
+        "DefinitionsReferences": 0.33978766202926636
+      }
+    },
+    {
+      "sentence": "According to the Ministry of Labour and Employment, there are approximately 50 million construction workers registered across the country.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.41272732615470886,
+      "similarities": {
+        "ContextObjective": 0.3674027621746063,
+        "BenefitsAssistance": 0.3654105067253113,
+        "Eligibility": 0.3929481506347656,
+        "ApplicationProcess": 0.3885037899017334,
+        "TimelineFrequency": 0.36700284481048584,
+        "AuthoritiesGovernance": 0.41272732615470886,
+        "DefinitionsReferences": 0.3715379238128662
+      }
+    },
+    {
+      "sentence": "This scheme is expected to benefit a significant number of these workers by providing them with easy access to financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5189768671989441,
+      "similarities": {
+        "ContextObjective": 0.4899679720401764,
+        "BenefitsAssistance": 0.5189768671989441,
+        "Eligibility": 0.4920913577079773,
+        "ApplicationProcess": 0.41041454672813416,
+        "TimelineFrequency": 0.3758212924003601,
+        "AuthoritiesGovernance": 0.38728517293930054,
+        "DefinitionsReferences": 0.3566547632217407
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crores for the implementation of this scheme in the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5041853189468384,
+      "similarities": {
+        "ContextObjective": 0.5041853189468384,
+        "BenefitsAssistance": 0.4926202893257141,
+        "Eligibility": 0.48047250509262085,
+        "ApplicationProcess": 0.436795711517334,
+        "TimelineFrequency": 0.4546872079372406,
+        "AuthoritiesGovernance": 0.49036264419555664,
+        "DefinitionsReferences": 0.3663157820701599
+      }
+    },
+    {
+      "sentence": "The scheme is expected to reduce the financial burden on construction workers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48093700408935547,
+      "similarities": {
+        "ContextObjective": 0.4284185469150543,
+        "BenefitsAssistance": 0.48093700408935547,
+        "Eligibility": 0.4224289059638977,
+        "ApplicationProcess": 0.3754797577857971,
+        "TimelineFrequency": 0.34892573952674866,
+        "AuthoritiesGovernance": 0.35127830505371094,
+        "DefinitionsReferences": 0.30843642354011536
+      }
+    },
+    {
+      "sentence": "It aims to empower workers by providing them with the necessary financial resources to manage emergencies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5093416571617126,
+      "similarities": {
+        "ContextObjective": 0.4795847237110138,
+        "BenefitsAssistance": 0.5093416571617126,
+        "Eligibility": 0.4539757966995239,
+        "ApplicationProcess": 0.40637722611427307,
+        "TimelineFrequency": 0.4126671552658081,
+        "AuthoritiesGovernance": 0.43314939737319946,
+        "DefinitionsReferences": 0.3876444697380066
+      }
+    },
+    {
+      "sentence": "The Interest Free Loan scheme is part of the larger framework of welfare measures for unorganized workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.47085922956466675,
+      "similarities": {
+        "ContextObjective": 0.47085922956466675,
+        "BenefitsAssistance": 0.4615730047225952,
+        "Eligibility": 0.4574539363384247,
+        "ApplicationProcess": 0.39647984504699707,
+        "TimelineFrequency": 0.39080148935317993,
+        "AuthoritiesGovernance": 0.4192315340042114,
+        "DefinitionsReferences": 0.397297203540802
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be user-friendly and accessible to all eligible construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.5017534494400024,
+      "similarities": {
+        "ContextObjective": 0.4797486364841461,
+        "BenefitsAssistance": 0.43572330474853516,
+        "Eligibility": 0.5017534494400024,
+        "ApplicationProcess": 0.4653729200363159,
+        "TimelineFrequency": 0.4279290437698364,
+        "AuthoritiesGovernance": 0.4031733274459839,
+        "DefinitionsReferences": 0.36336058378219604
+      }
+    },
+    {
+      "sentence": "The government encourages all registered construction workers to take advantage of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.45800232887268066,
+      "similarities": {
+        "ContextObjective": 0.45800232887268066,
+        "BenefitsAssistance": 0.4021380841732025,
+        "Eligibility": 0.44788986444473267,
+        "ApplicationProcess": 0.4338611364364624,
+        "TimelineFrequency": 0.3822866678237915,
+        "AuthoritiesGovernance": 0.3841060698032379,
+        "DefinitionsReferences": 0.37067466974258423
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are being conducted to inform workers about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5473687648773193,
+      "similarities": {
+        "ContextObjective": 0.5473687648773193,
+        "BenefitsAssistance": 0.5136333703994751,
+        "Eligibility": 0.5052746534347534,
+        "ApplicationProcess": 0.4750080108642578,
+        "TimelineFrequency": 0.44288238883018494,
+        "AuthoritiesGovernance": 0.4732421040534973,
+        "DefinitionsReferences": 0.4268081486225128
+      }
+    },
+    {
+      "sentence": "Workers are urged to visit their local Construction Workers Welfare Board offices for more information.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4752228558063507,
+      "similarities": {
+        "ContextObjective": 0.42270851135253906,
+        "BenefitsAssistance": 0.4632018208503723,
+        "Eligibility": 0.43953192234039307,
+        "ApplicationProcess": 0.46096840500831604,
+        "TimelineFrequency": 0.4019261598587036,
+        "AuthoritiesGovernance": 0.4752228558063507,
+        "DefinitionsReferences": 0.405548632144928
+      }
+    },
+    {
+      "sentence": "The scheme is a significant step towards improving the socio-economic conditions of construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.446786493062973,
+      "similarities": {
+        "ContextObjective": 0.446786493062973,
+        "BenefitsAssistance": 0.38750502467155457,
+        "Eligibility": 0.40769362449645996,
+        "ApplicationProcess": 0.39418020844459534,
+        "TimelineFrequency": 0.33395832777023315,
+        "AuthoritiesGovernance": 0.36139678955078125,
+        "DefinitionsReferences": 0.3326740860939026
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to ensuring the welfare of workers in the unorganized sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.44453564286231995,
+      "similarities": {
+        "ContextObjective": 0.37760239839553833,
+        "BenefitsAssistance": 0.3822014629840851,
+        "Eligibility": 0.40411660075187683,
+        "ApplicationProcess": 0.38443928956985474,
+        "TimelineFrequency": 0.33738747239112854,
+        "AuthoritiesGovernance": 0.44453564286231995,
+        "DefinitionsReferences": 0.37748563289642334
+      }
+    },
+    {
+      "sentence": "The scheme is expected to enhance the financial stability of construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4793221950531006,
+      "similarities": {
+        "ContextObjective": 0.4695058763027191,
+        "BenefitsAssistance": 0.4793221950531006,
+        "Eligibility": 0.4300960898399353,
+        "ApplicationProcess": 0.39186131954193115,
+        "TimelineFrequency": 0.3797578811645508,
+        "AuthoritiesGovernance": 0.3542943596839905,
+        "DefinitionsReferences": 0.34006378054618835
+      }
+    },
+    {
+      "sentence": "By providing interest-free loans, the government aims to reduce the dependency of workers on informal credit sources.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41868117451667786,
+      "similarities": {
+        "ContextObjective": 0.37489771842956543,
+        "BenefitsAssistance": 0.41868117451667786,
+        "Eligibility": 0.4096333980560303,
+        "ApplicationProcess": 0.3665483593940735,
+        "TimelineFrequency": 0.352080374956131,
+        "AuthoritiesGovernance": 0.3594416379928589,
+        "DefinitionsReferences": 0.3569909334182739
+      }
+    },
+    {
+      "sentence": "This initiative is a part of the government's broader strategy to promote financial inclusion among marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5060739517211914,
+      "similarities": {
+        "ContextObjective": 0.5060739517211914,
+        "BenefitsAssistance": 0.4763284921646118,
+        "Eligibility": 0.48039281368255615,
+        "ApplicationProcess": 0.3976013660430908,
+        "TimelineFrequency": 0.3671897053718567,
+        "AuthoritiesGovernance": 0.43715840578079224,
+        "DefinitionsReferences": 0.38298195600509644
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to contribute to the overall economic development of the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4782536029815674,
+      "similarities": {
+        "ContextObjective": 0.4782536029815674,
+        "BenefitsAssistance": 0.41082698106765747,
+        "Eligibility": 0.3707568645477295,
+        "ApplicationProcess": 0.39229804277420044,
+        "TimelineFrequency": 0.3508392572402954,
+        "AuthoritiesGovernance": 0.3676024079322815,
+        "DefinitionsReferences": 0.3509169816970825
+      }
+    },
+    {
+      "sentence": "By supporting workers financially, the government aims to ensure that they can continue to contribute to the economy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.506566047668457,
+      "similarities": {
+        "ContextObjective": 0.46131137013435364,
+        "BenefitsAssistance": 0.506566047668457,
+        "Eligibility": 0.45790934562683105,
+        "ApplicationProcess": 0.4121200442314148,
+        "TimelineFrequency": 0.37819284200668335,
+        "AuthoritiesGovernance": 0.425628662109375,
+        "DefinitionsReferences": 0.3952925503253937
+      }
+    },
+    {
+      "sentence": "The Interest Free Loan scheme is a progressive move towards recognizing the rights and needs of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4677388668060303,
+      "similarities": {
+        "ContextObjective": 0.4677388668060303,
+        "BenefitsAssistance": 0.4488365650177002,
+        "Eligibility": 0.4601234495639801,
+        "ApplicationProcess": 0.4325263798236847,
+        "TimelineFrequency": 0.39893704652786255,
+        "AuthoritiesGovernance": 0.3781701922416687,
+        "DefinitionsReferences": 0.389860063791275
+      }
+    },
+    {
+      "sentence": "It is a vital resource for workers who often face financial hardships due to the nature of their employment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5377658605575562,
+      "similarities": {
+        "ContextObjective": 0.4423844814300537,
+        "BenefitsAssistance": 0.5377658605575562,
+        "Eligibility": 0.535158634185791,
+        "ApplicationProcess": 0.44891807436943054,
+        "TimelineFrequency": 0.48138871788978577,
+        "AuthoritiesGovernance": 0.41730910539627075,
+        "DefinitionsReferences": 0.47992008924484253
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring the implementation of the scheme to ensure its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.565947413444519,
+      "similarities": {
+        "ContextObjective": 0.5188102722167969,
+        "BenefitsAssistance": 0.45570823550224304,
+        "Eligibility": 0.49280858039855957,
+        "ApplicationProcess": 0.5090726613998413,
+        "TimelineFrequency": 0.4381706118583679,
+        "AuthoritiesGovernance": 0.565947413444519,
+        "DefinitionsReferences": 0.437619149684906
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is being collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5437206029891968,
+      "similarities": {
+        "ContextObjective": 0.5437206029891968,
+        "BenefitsAssistance": 0.5099180340766907,
+        "Eligibility": 0.5358737707138062,
+        "ApplicationProcess": 0.48631036281585693,
+        "TimelineFrequency": 0.4395204484462738,
+        "AuthoritiesGovernance": 0.5095455646514893,
+        "DefinitionsReferences": 0.4367799162864685
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's efforts to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.555225670337677,
+      "similarities": {
+        "ContextObjective": 0.555225670337677,
+        "BenefitsAssistance": 0.4118519425392151,
+        "Eligibility": 0.46692943572998047,
+        "ApplicationProcess": 0.4255196452140808,
+        "TimelineFrequency": 0.36178892850875854,
+        "AuthoritiesGovernance": 0.4421367049217224,
+        "DefinitionsReferences": 0.38453733921051025
+      }
+    },
+    {
+      "sentence": "In conclusion, the Interest Free Loan scheme for Construction Workers is a crucial welfare initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4648038148880005,
+      "similarities": {
+        "ContextObjective": 0.4648038148880005,
+        "BenefitsAssistance": 0.4069732427597046,
+        "Eligibility": 0.4141266644001007,
+        "ApplicationProcess": 0.3751585781574249,
+        "TimelineFrequency": 0.3449978828430176,
+        "AuthoritiesGovernance": 0.32617849111557007,
+        "DefinitionsReferences": 0.3289198875427246
+      }
+    },
+    {
+      "sentence": "It provides much-needed financial assistance to a vulnerable segment of the workforce.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5240346789360046,
+      "similarities": {
+        "ContextObjective": 0.4016466736793518,
+        "BenefitsAssistance": 0.5240346789360046,
+        "Eligibility": 0.4705962538719177,
+        "ApplicationProcess": 0.37918955087661743,
+        "TimelineFrequency": 0.3727143406867981,
+        "AuthoritiesGovernance": 0.3658819794654846,
+        "DefinitionsReferences": 0.3353962302207947
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower construction workers by alleviating their financial burdens.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4952830672264099,
+      "similarities": {
+        "ContextObjective": 0.4789072573184967,
+        "BenefitsAssistance": 0.4952830672264099,
+        "Eligibility": 0.4384460151195526,
+        "ApplicationProcess": 0.38319462537765503,
+        "TimelineFrequency": 0.36686021089553833,
+        "AuthoritiesGovernance": 0.36274248361587524,
+        "DefinitionsReferences": 0.3236580491065979
+      }
+    },
+    {
+      "sentence": "It is an essential step towards improving the living standards of construction workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4140133261680603,
+      "similarities": {
+        "ContextObjective": 0.4140133261680603,
+        "BenefitsAssistance": 0.3734857439994812,
+        "Eligibility": 0.3859328031539917,
+        "ApplicationProcess": 0.41182082891464233,
+        "TimelineFrequency": 0.33453798294067383,
+        "AuthoritiesGovernance": 0.3933939039707184,
+        "DefinitionsReferences": 0.3564556837081909
+      }
+    },
+    {
+      "sentence": "The government remains committed to enhancing the welfare of all workers through such initiatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4683583974838257,
+      "similarities": {
+        "ContextObjective": 0.4089212417602539,
+        "BenefitsAssistance": 0.40053820610046387,
+        "Eligibility": 0.4023023247718811,
+        "ApplicationProcess": 0.3615511655807495,
+        "TimelineFrequency": 0.33895957469940186,
+        "AuthoritiesGovernance": 0.4683583974838257,
+        "DefinitionsReferences": 0.39416348934173584
+      }
+    },
+    {
+      "sentence": "This scheme is a significant part of the ongoing efforts to support the unorganized labor sector.",
+      "role": "ContextObjective",
+      "confidence": 0.48686885833740234,
+      "similarities": {
+        "ContextObjective": 0.48686885833740234,
+        "BenefitsAssistance": 0.46444064378738403,
+        "Eligibility": 0.4210541248321533,
+        "ApplicationProcess": 0.416202187538147,
+        "TimelineFrequency": 0.39244940876960754,
+        "AuthoritiesGovernance": 0.458210825920105,
+        "DefinitionsReferences": 0.38223564624786377
+      }
+    },
+    {
+      "sentence": "The Interest Free Loan scheme is a beacon of hope for many construction workers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.47727543115615845,
+      "similarities": {
+        "ContextObjective": 0.47727543115615845,
+        "BenefitsAssistance": 0.41051846742630005,
+        "Eligibility": 0.4394703507423401,
+        "ApplicationProcess": 0.378925621509552,
+        "TimelineFrequency": 0.3518841862678528,
+        "AuthoritiesGovernance": 0.3378664255142212,
+        "DefinitionsReferences": 0.34259122610092163
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "Eligibility": 7,
+    "BenefitsAssistance": 12,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 8
+  },
+  "processing_timestamp": "2025-09-25T20:33:38.184468"
+}

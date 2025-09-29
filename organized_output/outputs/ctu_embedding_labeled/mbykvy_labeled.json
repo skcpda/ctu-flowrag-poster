@@ -1,0 +1,884 @@
+{
+  "scheme_name": "Mukhyamantri Bagwani Mission: Kela Vikas Yojana",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana is a significant initiative launched by the Government of Haryana in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4959014654159546,
+      "similarities": {
+        "ContextObjective": 0.4959014654159546,
+        "BenefitsAssistance": 0.3798081874847412,
+        "Eligibility": 0.46560537815093994,
+        "ApplicationProcess": 0.39678889513015747,
+        "TimelineFrequency": 0.38328033685684204,
+        "AuthoritiesGovernance": 0.43894076347351074,
+        "DefinitionsReferences": 0.3772830367088318
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 7th July 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5954367518424988,
+      "similarities": {
+        "ContextObjective": 0.5954367518424988,
+        "BenefitsAssistance": 0.45051759481430054,
+        "Eligibility": 0.47179514169692993,
+        "ApplicationProcess": 0.4797073006629944,
+        "TimelineFrequency": 0.47739511728286743,
+        "AuthoritiesGovernance": 0.43359464406967163,
+        "DefinitionsReferences": 0.36316990852355957
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to promote banana cultivation in the state of Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.5370638370513916,
+      "similarities": {
+        "ContextObjective": 0.5370638370513916,
+        "BenefitsAssistance": 0.3431921899318695,
+        "Eligibility": 0.44706761837005615,
+        "ApplicationProcess": 0.40612757205963135,
+        "TimelineFrequency": 0.3839114010334015,
+        "AuthoritiesGovernance": 0.3863242566585541,
+        "DefinitionsReferences": 0.3429481089115143
+      }
+    },
+    {
+      "sentence": "The government aims to increase the area under banana cultivation to enhance the income of farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.42955848574638367,
+      "similarities": {
+        "ContextObjective": 0.42955848574638367,
+        "BenefitsAssistance": 0.3801579475402832,
+        "Eligibility": 0.41253048181533813,
+        "ApplicationProcess": 0.36601370573043823,
+        "TimelineFrequency": 0.3431776165962219,
+        "AuthoritiesGovernance": 0.37318265438079834,
+        "DefinitionsReferences": 0.36707666516304016
+      }
+    },
+    {
+      "sentence": "The scheme also seeks to provide technical support and financial assistance to farmers engaged in banana farming.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47675418853759766,
+      "similarities": {
+        "ContextObjective": 0.4683006703853607,
+        "BenefitsAssistance": 0.47675418853759766,
+        "Eligibility": 0.46941515803337097,
+        "ApplicationProcess": 0.4214417338371277,
+        "TimelineFrequency": 0.38376206159591675,
+        "AuthoritiesGovernance": 0.3821698725223541,
+        "DefinitionsReferences": 0.3626979887485504
+      }
+    },
+    {
+      "sentence": "One of the measurable targets of the Mukhyamantri Bagwani Mission: Kela Vikas Yojana is to increase banana production in Haryana by 50 percent by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.4791947901248932,
+      "similarities": {
+        "ContextObjective": 0.4791947901248932,
+        "BenefitsAssistance": 0.3825168311595917,
+        "Eligibility": 0.45127546787261963,
+        "ApplicationProcess": 0.3701319992542267,
+        "TimelineFrequency": 0.3953799605369568,
+        "AuthoritiesGovernance": 0.3796464800834656,
+        "DefinitionsReferences": 0.348619282245636
+      }
+    },
+    {
+      "sentence": "The government has set a goal to cover at least 10,000 acres of land under banana cultivation through this initiative.",
+      "role": "Eligibility",
+      "confidence": 0.4458138346672058,
+      "similarities": {
+        "ContextObjective": 0.4419475793838501,
+        "BenefitsAssistance": 0.37398427724838257,
+        "Eligibility": 0.4458138346672058,
+        "ApplicationProcess": 0.38285309076309204,
+        "TimelineFrequency": 0.34799724817276,
+        "AuthoritiesGovernance": 0.36074593663215637,
+        "DefinitionsReferences": 0.3771774172782898
+      }
+    },
+    {
+      "sentence": "The benefits provided under this scheme include financial assistance of up to ₹50,000 per acre for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5006287097930908,
+      "similarities": {
+        "ContextObjective": 0.4403917193412781,
+        "BenefitsAssistance": 0.5006287097930908,
+        "Eligibility": 0.4575573205947876,
+        "ApplicationProcess": 0.3945581018924713,
+        "TimelineFrequency": 0.3756892681121826,
+        "AuthoritiesGovernance": 0.35618236660957336,
+        "DefinitionsReferences": 0.3565469980239868
+      }
+    },
+    {
+      "sentence": "Farmers will receive this amount to cover the costs of inputs such as seeds, fertilizers, and irrigation facilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.559984564781189,
+      "similarities": {
+        "ContextObjective": 0.40578126907348633,
+        "BenefitsAssistance": 0.559984564781189,
+        "Eligibility": 0.4454188942909241,
+        "ApplicationProcess": 0.40118569135665894,
+        "TimelineFrequency": 0.39076268672943115,
+        "AuthoritiesGovernance": 0.40174049139022827,
+        "DefinitionsReferences": 0.4281381368637085
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme provides for the establishment of banana nurseries to ensure the availability of quality planting material.",
+      "role": "ContextObjective",
+      "confidence": 0.4719729423522949,
+      "similarities": {
+        "ContextObjective": 0.4719729423522949,
+        "BenefitsAssistance": 0.3661543130874634,
+        "Eligibility": 0.4585088789463043,
+        "ApplicationProcess": 0.4409608840942383,
+        "TimelineFrequency": 0.3999926447868347,
+        "AuthoritiesGovernance": 0.36151307821273804,
+        "DefinitionsReferences": 0.38486310839653015
+      }
+    },
+    {
+      "sentence": "Farmers are also offered training programs to educate them about best practices in banana cultivation.",
+      "role": "ContextObjective",
+      "confidence": 0.4098810851573944,
+      "similarities": {
+        "ContextObjective": 0.4098810851573944,
+        "BenefitsAssistance": 0.3607480525970459,
+        "Eligibility": 0.40242284536361694,
+        "ApplicationProcess": 0.38039064407348633,
+        "TimelineFrequency": 0.3555779755115509,
+        "AuthoritiesGovernance": 0.40471792221069336,
+        "DefinitionsReferences": 0.37892070412635803
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for this scheme include being a resident of Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.6068153381347656,
+      "similarities": {
+        "ContextObjective": 0.4960598051548004,
+        "BenefitsAssistance": 0.42183762788772583,
+        "Eligibility": 0.6068153381347656,
+        "ApplicationProcess": 0.5231473445892334,
+        "TimelineFrequency": 0.49024665355682373,
+        "AuthoritiesGovernance": 0.3822208344936371,
+        "DefinitionsReferences": 0.3831942081451416
+      }
+    },
+    {
+      "sentence": "Farmers must also possess a minimum of one acre of land for banana cultivation.",
+      "role": "Eligibility",
+      "confidence": 0.4578520655632019,
+      "similarities": {
+        "ContextObjective": 0.3777192533016205,
+        "BenefitsAssistance": 0.33459246158599854,
+        "Eligibility": 0.4578520655632019,
+        "ApplicationProcess": 0.3994380831718445,
+        "TimelineFrequency": 0.3423118591308594,
+        "AuthoritiesGovernance": 0.32615184783935547,
+        "DefinitionsReferences": 0.34123802185058594
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for applicants under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.533958911895752,
+      "similarities": {
+        "ContextObjective": 0.46084222197532654,
+        "BenefitsAssistance": 0.38265180587768555,
+        "Eligibility": 0.533958911895752,
+        "ApplicationProcess": 0.43699193000793457,
+        "TimelineFrequency": 0.4491996467113495,
+        "AuthoritiesGovernance": 0.3312910497188568,
+        "DefinitionsReferences": 0.30409568548202515
+      }
+    },
+    {
+      "sentence": "However, it is essential for applicants to have basic knowledge of farming practices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5433987379074097,
+      "similarities": {
+        "ContextObjective": 0.4362500309944153,
+        "BenefitsAssistance": 0.40814387798309326,
+        "Eligibility": 0.5342531204223633,
+        "ApplicationProcess": 0.5433987379074097,
+        "TimelineFrequency": 0.48212718963623047,
+        "AuthoritiesGovernance": 0.424858033657074,
+        "DefinitionsReferences": 0.4348432123661041
+      }
+    },
+    {
+      "sentence": "The application process for the Mukhyamantri Bagwani Mission: Kela Vikas Yojana involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6182065010070801,
+      "similarities": {
+        "ContextObjective": 0.5519919991493225,
+        "BenefitsAssistance": 0.4504714012145996,
+        "Eligibility": 0.5630869269371033,
+        "ApplicationProcess": 0.6182065010070801,
+        "TimelineFrequency": 0.524287223815918,
+        "AuthoritiesGovernance": 0.4629634618759155,
+        "DefinitionsReferences": 0.45536503195762634
+      }
+    },
+    {
+      "sentence": "Farmers must first visit the official website of the Haryana Government's Agriculture Department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.474319726228714,
+      "similarities": {
+        "ContextObjective": 0.3731045424938202,
+        "BenefitsAssistance": 0.35573437809944153,
+        "Eligibility": 0.4392385482788086,
+        "ApplicationProcess": 0.474319726228714,
+        "TimelineFrequency": 0.37583011388778687,
+        "AuthoritiesGovernance": 0.4169254004955292,
+        "DefinitionsReferences": 0.3764841556549072
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form available online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.758642315864563,
+      "similarities": {
+        "ContextObjective": 0.4839334189891815,
+        "BenefitsAssistance": 0.5135431289672852,
+        "Eligibility": 0.6133712530136108,
+        "ApplicationProcess": 0.758642315864563,
+        "TimelineFrequency": 0.5707775354385376,
+        "AuthoritiesGovernance": 0.464728444814682,
+        "DefinitionsReferences": 0.45835644006729126
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the applicant's name, address, landholding details, and bank account information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.68284010887146,
+      "similarities": {
+        "ContextObjective": 0.5091542601585388,
+        "BenefitsAssistance": 0.5796043276786804,
+        "Eligibility": 0.6266298294067383,
+        "ApplicationProcess": 0.68284010887146,
+        "TimelineFrequency": 0.5561643838882446,
+        "AuthoritiesGovernance": 0.4621841609477997,
+        "DefinitionsReferences": 0.5263208150863647
+      }
+    },
+    {
+      "sentence": "Farmers must also upload necessary documents such as land ownership proof and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.605146050453186,
+      "similarities": {
+        "ContextObjective": 0.43355053663253784,
+        "BenefitsAssistance": 0.4902542531490326,
+        "Eligibility": 0.525215744972229,
+        "ApplicationProcess": 0.605146050453186,
+        "TimelineFrequency": 0.45393940806388855,
+        "AuthoritiesGovernance": 0.4291036128997803,
+        "DefinitionsReferences": 0.4916999936103821
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "Farmers may be required to undergo a verification process to confirm their eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.650284469127655,
+      "similarities": {
+        "ContextObjective": 0.467704713344574,
+        "BenefitsAssistance": 0.48778069019317627,
+        "Eligibility": 0.61577308177948,
+        "ApplicationProcess": 0.650284469127655,
+        "TimelineFrequency": 0.5161746144294739,
+        "AuthoritiesGovernance": 0.46156397461891174,
+        "DefinitionsReferences": 0.46874839067459106
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the financial assistance will be disbursed directly to the farmer's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4968547821044922,
+      "similarities": {
+        "ContextObjective": 0.33306723833084106,
+        "BenefitsAssistance": 0.4968547821044922,
+        "Eligibility": 0.4351032078266144,
+        "ApplicationProcess": 0.47932836413383484,
+        "TimelineFrequency": 0.35993027687072754,
+        "AuthoritiesGovernance": 0.36045050621032715,
+        "DefinitionsReferences": 0.33139169216156006
+      }
+    },
+    {
+      "sentence": "The timeline for application submission is typically open throughout the year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.689621090888977,
+      "similarities": {
+        "ContextObjective": 0.5279291868209839,
+        "BenefitsAssistance": 0.47411617636680603,
+        "Eligibility": 0.5612095594406128,
+        "ApplicationProcess": 0.6172505617141724,
+        "TimelineFrequency": 0.689621090888977,
+        "AuthoritiesGovernance": 0.4618632197380066,
+        "DefinitionsReferences": 0.46487319469451904
+      }
+    },
+    {
+      "sentence": "However, farmers are encouraged to apply during the pre-sowing season to avail of the benefits in a timely manner.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4955914616584778,
+      "similarities": {
+        "ContextObjective": 0.4533834457397461,
+        "BenefitsAssistance": 0.406049907207489,
+        "Eligibility": 0.470401793718338,
+        "ApplicationProcess": 0.43631142377853394,
+        "TimelineFrequency": 0.4955914616584778,
+        "AuthoritiesGovernance": 0.35940685868263245,
+        "DefinitionsReferences": 0.34602296352386475
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is usually processed within 30 days of application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5569806098937988,
+      "similarities": {
+        "ContextObjective": 0.4578661322593689,
+        "BenefitsAssistance": 0.5436877012252808,
+        "Eligibility": 0.5324192047119141,
+        "ApplicationProcess": 0.5282334089279175,
+        "TimelineFrequency": 0.5569806098937988,
+        "AuthoritiesGovernance": 0.46145904064178467,
+        "DefinitionsReferences": 0.41357851028442383
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Agriculture and Farmers' Welfare, Haryana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.54271399974823,
+      "similarities": {
+        "ContextObjective": 0.44208574295043945,
+        "BenefitsAssistance": 0.39135926961898804,
+        "Eligibility": 0.4724690914154053,
+        "ApplicationProcess": 0.4161457419395447,
+        "TimelineFrequency": 0.3750399649143219,
+        "AuthoritiesGovernance": 0.54271399974823,
+        "DefinitionsReferences": 0.3742675185203552
+      }
+    },
+    {
+      "sentence": "Farmers can contact the department for any queries related to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5267812013626099,
+      "similarities": {
+        "ContextObjective": 0.5124080181121826,
+        "BenefitsAssistance": 0.4845944344997406,
+        "Eligibility": 0.5267812013626099,
+        "ApplicationProcess": 0.5063154697418213,
+        "TimelineFrequency": 0.43933117389678955,
+        "AuthoritiesGovernance": 0.5260257124900818,
+        "DefinitionsReferences": 0.40974628925323486
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Agriculture and Farmers' Welfare are available on the official Haryana Government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4881693720817566,
+      "similarities": {
+        "ContextObjective": 0.39286449551582336,
+        "BenefitsAssistance": 0.46472620964050293,
+        "Eligibility": 0.44985735416412354,
+        "ApplicationProcess": 0.48128095269203186,
+        "TimelineFrequency": 0.4024306535720825,
+        "AuthoritiesGovernance": 0.4881693720817566,
+        "DefinitionsReferences": 0.4202401041984558
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana also emphasizes the importance of sustainable farming practices.",
+      "role": "ContextObjective",
+      "confidence": 0.43808552622795105,
+      "similarities": {
+        "ContextObjective": 0.43808552622795105,
+        "BenefitsAssistance": 0.3319247364997864,
+        "Eligibility": 0.3614417314529419,
+        "ApplicationProcess": 0.34518808126449585,
+        "TimelineFrequency": 0.3145030736923218,
+        "AuthoritiesGovernance": 0.3094465434551239,
+        "DefinitionsReferences": 0.34386369585990906
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to adopt organic farming methods to enhance soil health and improve yield.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4111909568309784,
+      "similarities": {
+        "ContextObjective": 0.3816959261894226,
+        "BenefitsAssistance": 0.37295806407928467,
+        "Eligibility": 0.39001718163490295,
+        "ApplicationProcess": 0.4111909568309784,
+        "TimelineFrequency": 0.35170260071754456,
+        "AuthoritiesGovernance": 0.37479567527770996,
+        "DefinitionsReferences": 0.40617987513542175
+      }
+    },
+    {
+      "sentence": "The government provides training and workshops to educate farmers about organic farming techniques.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4799657464027405,
+      "similarities": {
+        "ContextObjective": 0.43239083886146545,
+        "BenefitsAssistance": 0.38175123929977417,
+        "Eligibility": 0.4216635227203369,
+        "ApplicationProcess": 0.4379621148109436,
+        "TimelineFrequency": 0.3820303976535797,
+        "AuthoritiesGovernance": 0.4799657464027405,
+        "DefinitionsReferences": 0.43418315052986145
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create awareness about the nutritional benefits of bananas among the public.",
+      "role": "ContextObjective",
+      "confidence": 0.4983823895454407,
+      "similarities": {
+        "ContextObjective": 0.4983823895454407,
+        "BenefitsAssistance": 0.37040191888809204,
+        "Eligibility": 0.4262453317642212,
+        "ApplicationProcess": 0.3949185013771057,
+        "TimelineFrequency": 0.32686010003089905,
+        "AuthoritiesGovernance": 0.3567058742046356,
+        "DefinitionsReferences": 0.32278716564178467
+      }
+    },
+    {
+      "sentence": "Bananas are a rich source of vitamins and minerals, making them a valuable crop for farmers.",
+      "role": "Eligibility",
+      "confidence": 0.40190035104751587,
+      "similarities": {
+        "ContextObjective": 0.38668423891067505,
+        "BenefitsAssistance": 0.38483330607414246,
+        "Eligibility": 0.40190035104751587,
+        "ApplicationProcess": 0.34236520528793335,
+        "TimelineFrequency": 0.3658285439014435,
+        "AuthoritiesGovernance": 0.3098364770412445,
+        "DefinitionsReferences": 0.3895561099052429
+      }
+    },
+    {
+      "sentence": "The government has partnered with various agricultural universities to conduct research on banana cultivation.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4218328893184662,
+      "similarities": {
+        "ContextObjective": 0.3949943780899048,
+        "BenefitsAssistance": 0.381526380777359,
+        "Eligibility": 0.4035746455192566,
+        "ApplicationProcess": 0.3877105116844177,
+        "TimelineFrequency": 0.3709511160850525,
+        "AuthoritiesGovernance": 0.41670382022857666,
+        "DefinitionsReferences": 0.4218328893184662
+      }
+    },
+    {
+      "sentence": "This research aims to develop high-yielding and disease-resistant banana varieties.",
+      "role": "Eligibility",
+      "confidence": 0.44273310899734497,
+      "similarities": {
+        "ContextObjective": 0.4253684878349304,
+        "BenefitsAssistance": 0.38547924160957336,
+        "Eligibility": 0.44273310899734497,
+        "ApplicationProcess": 0.4030638337135315,
+        "TimelineFrequency": 0.4050142467021942,
+        "AuthoritiesGovernance": 0.37921270728111267,
+        "DefinitionsReferences": 0.3682432174682617
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana is part of a broader initiative to boost the agricultural sector in Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.48129236698150635,
+      "similarities": {
+        "ContextObjective": 0.48129236698150635,
+        "BenefitsAssistance": 0.39210301637649536,
+        "Eligibility": 0.4491253197193146,
+        "ApplicationProcess": 0.38693204522132874,
+        "TimelineFrequency": 0.3822263479232788,
+        "AuthoritiesGovernance": 0.4149181842803955,
+        "DefinitionsReferences": 0.3789621889591217
+      }
+    },
+    {
+      "sentence": "The state government has allocated a budget of ₹10 crores for the implementation of this scheme in its initial phase.",
+      "role": "ContextObjective",
+      "confidence": 0.45929065346717834,
+      "similarities": {
+        "ContextObjective": 0.45929065346717834,
+        "BenefitsAssistance": 0.4555197060108185,
+        "Eligibility": 0.45690110325813293,
+        "ApplicationProcess": 0.42631807923316956,
+        "TimelineFrequency": 0.39455369114875793,
+        "AuthoritiesGovernance": 0.4407261908054352,
+        "DefinitionsReferences": 0.35072585940361023
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit thousands of farmers across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.49955296516418457,
+      "similarities": {
+        "ContextObjective": 0.49955296516418457,
+        "BenefitsAssistance": 0.4389473497867584,
+        "Eligibility": 0.495317667722702,
+        "ApplicationProcess": 0.40046006441116333,
+        "TimelineFrequency": 0.38603928685188293,
+        "AuthoritiesGovernance": 0.3980388641357422,
+        "DefinitionsReferences": 0.36554640531539917
+      }
+    },
+    {
+      "sentence": "By promoting banana cultivation, the government aims to enhance the livelihoods of farmers and reduce rural poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.44276273250579834,
+      "similarities": {
+        "ContextObjective": 0.44276273250579834,
+        "BenefitsAssistance": 0.36363041400909424,
+        "Eligibility": 0.4119139611721039,
+        "ApplicationProcess": 0.35578179359436035,
+        "TimelineFrequency": 0.30850881338119507,
+        "AuthoritiesGovernance": 0.40404319763183594,
+        "DefinitionsReferences": 0.35091954469680786
+      }
+    },
+    {
+      "sentence": "The initiative also aligns with the national goal of increasing agricultural productivity and ensuring food security.",
+      "role": "ContextObjective",
+      "confidence": 0.44192349910736084,
+      "similarities": {
+        "ContextObjective": 0.44192349910736084,
+        "BenefitsAssistance": 0.34975552558898926,
+        "Eligibility": 0.3954423666000366,
+        "ApplicationProcess": 0.38830676674842834,
+        "TimelineFrequency": 0.3438318967819214,
+        "AuthoritiesGovernance": 0.3844679892063141,
+        "DefinitionsReferences": 0.3400164544582367
+      }
+    },
+    {
+      "sentence": "Farmers participating in the scheme will have access to market linkages to sell their produce.",
+      "role": "Eligibility",
+      "confidence": 0.506697952747345,
+      "similarities": {
+        "ContextObjective": 0.49479854106903076,
+        "BenefitsAssistance": 0.4360641539096832,
+        "Eligibility": 0.506697952747345,
+        "ApplicationProcess": 0.4440169632434845,
+        "TimelineFrequency": 0.4088239371776581,
+        "AuthoritiesGovernance": 0.4125012755393982,
+        "DefinitionsReferences": 0.41471874713897705
+      }
+    },
+    {
+      "sentence": "The government will facilitate connections with local markets and wholesalers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5238715410232544,
+      "similarities": {
+        "ContextObjective": 0.4692445993423462,
+        "BenefitsAssistance": 0.4445960521697998,
+        "Eligibility": 0.5004763007164001,
+        "ApplicationProcess": 0.4737092852592468,
+        "TimelineFrequency": 0.41364586353302,
+        "AuthoritiesGovernance": 0.5238715410232544,
+        "DefinitionsReferences": 0.4862106442451477
+      }
+    },
+    {
+      "sentence": "This will help farmers secure better prices for their bananas.",
+      "role": "Eligibility",
+      "confidence": 0.41811779141426086,
+      "similarities": {
+        "ContextObjective": 0.3892456889152527,
+        "BenefitsAssistance": 0.4063202142715454,
+        "Eligibility": 0.41811779141426086,
+        "ApplicationProcess": 0.39156320691108704,
+        "TimelineFrequency": 0.3712809681892395,
+        "AuthoritiesGovernance": 0.360332727432251,
+        "DefinitionsReferences": 0.36494529247283936
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana is a crucial step towards achieving self-sufficiency in banana production in Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.4855348765850067,
+      "similarities": {
+        "ContextObjective": 0.4855348765850067,
+        "BenefitsAssistance": 0.40875089168548584,
+        "Eligibility": 0.4694073796272278,
+        "ApplicationProcess": 0.40471675992012024,
+        "TimelineFrequency": 0.3865627646446228,
+        "AuthoritiesGovernance": 0.4086155891418457,
+        "DefinitionsReferences": 0.3745543956756592
+      }
+    },
+    {
+      "sentence": "The scheme is expected to create employment opportunities in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.5430811047554016,
+      "similarities": {
+        "ContextObjective": 0.5430811047554016,
+        "BenefitsAssistance": 0.41090303659439087,
+        "Eligibility": 0.521276593208313,
+        "ApplicationProcess": 0.44427254796028137,
+        "TimelineFrequency": 0.4365620017051697,
+        "AuthoritiesGovernance": 0.4092843234539032,
+        "DefinitionsReferences": 0.3698298931121826
+      }
+    },
+    {
+      "sentence": "By increasing banana cultivation, the government aims to promote agro-based industries in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.40901315212249756,
+      "similarities": {
+        "ContextObjective": 0.40901315212249756,
+        "BenefitsAssistance": 0.3427489995956421,
+        "Eligibility": 0.39853689074516296,
+        "ApplicationProcess": 0.3624648153781891,
+        "TimelineFrequency": 0.3452654182910919,
+        "AuthoritiesGovernance": 0.3881898522377014,
+        "DefinitionsReferences": 0.3788476884365082
+      }
+    },
+    {
+      "sentence": "The initiative is also likely to attract investments in the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4400845766067505,
+      "similarities": {
+        "ContextObjective": 0.4400845766067505,
+        "BenefitsAssistance": 0.37584176659584045,
+        "Eligibility": 0.40705791115760803,
+        "ApplicationProcess": 0.3610166907310486,
+        "TimelineFrequency": 0.34189122915267944,
+        "AuthoritiesGovernance": 0.3564215898513794,
+        "DefinitionsReferences": 0.3615395426750183
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana is a testament to the Haryana Government's commitment to farmer welfare.",
+      "role": "Eligibility",
+      "confidence": 0.4322073757648468,
+      "similarities": {
+        "ContextObjective": 0.42792314291000366,
+        "BenefitsAssistance": 0.37824589014053345,
+        "Eligibility": 0.4322073757648468,
+        "ApplicationProcess": 0.36748695373535156,
+        "TimelineFrequency": 0.3347570300102234,
+        "AuthoritiesGovernance": 0.38262033462524414,
+        "DefinitionsReferences": 0.36801350116729736
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's focus on enhancing agricultural productivity through innovative approaches.",
+      "role": "ContextObjective",
+      "confidence": 0.5027548670768738,
+      "similarities": {
+        "ContextObjective": 0.5027548670768738,
+        "BenefitsAssistance": 0.3817049264907837,
+        "Eligibility": 0.4072035849094391,
+        "ApplicationProcess": 0.41014617681503296,
+        "TimelineFrequency": 0.38195401430130005,
+        "AuthoritiesGovernance": 0.41188132762908936,
+        "DefinitionsReferences": 0.3879476487636566
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of this scheme to improve their economic conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.4761209487915039,
+      "similarities": {
+        "ContextObjective": 0.4761209487915039,
+        "BenefitsAssistance": 0.43506941199302673,
+        "Eligibility": 0.4470481276512146,
+        "ApplicationProcess": 0.40869247913360596,
+        "TimelineFrequency": 0.37734729051589966,
+        "AuthoritiesGovernance": 0.38526812195777893,
+        "DefinitionsReferences": 0.3785229027271271
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana is an important component of Haryana's agricultural development strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.4663073420524597,
+      "similarities": {
+        "ContextObjective": 0.4663073420524597,
+        "BenefitsAssistance": 0.36110052466392517,
+        "Eligibility": 0.41986000537872314,
+        "ApplicationProcess": 0.3675612211227417,
+        "TimelineFrequency": 0.362992525100708,
+        "AuthoritiesGovernance": 0.3957898020744324,
+        "DefinitionsReferences": 0.3823186755180359
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring the implementation of this scheme to ensure its success.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5384323596954346,
+      "similarities": {
+        "ContextObjective": 0.5206786394119263,
+        "BenefitsAssistance": 0.4483664929866791,
+        "Eligibility": 0.475265771150589,
+        "ApplicationProcess": 0.5030831098556519,
+        "TimelineFrequency": 0.42025887966156006,
+        "AuthoritiesGovernance": 0.5384323596954346,
+        "DefinitionsReferences": 0.43380847573280334
+      }
+    },
+    {
+      "sentence": "Regular feedback from farmers is being sought to make necessary adjustments to the program.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5017862319946289,
+      "similarities": {
+        "ContextObjective": 0.43335089087486267,
+        "BenefitsAssistance": 0.4414571225643158,
+        "Eligibility": 0.4679919481277466,
+        "ApplicationProcess": 0.48801127076148987,
+        "TimelineFrequency": 0.4648476839065552,
+        "AuthoritiesGovernance": 0.5017862319946289,
+        "DefinitionsReferences": 0.428979754447937
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a significant impact on the agricultural landscape of Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.43693190813064575,
+      "similarities": {
+        "ContextObjective": 0.4292970895767212,
+        "BenefitsAssistance": 0.3649679720401764,
+        "Eligibility": 0.43693190813064575,
+        "ApplicationProcess": 0.35073554515838623,
+        "TimelineFrequency": 0.36326995491981506,
+        "AuthoritiesGovernance": 0.34901314973831177,
+        "DefinitionsReferences": 0.33907246589660645
+      }
+    },
+    {
+      "sentence": "Overall, the Mukhyamantri Bagwani Mission: Kela Vikas Yojana represents a proactive approach to addressing the challenges faced by banana farmers in Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.4931638240814209,
+      "similarities": {
+        "ContextObjective": 0.4931638240814209,
+        "BenefitsAssistance": 0.4031223654747009,
+        "Eligibility": 0.47729408740997314,
+        "ApplicationProcess": 0.40360042452812195,
+        "TimelineFrequency": 0.39875510334968567,
+        "AuthoritiesGovernance": 0.42261993885040283,
+        "DefinitionsReferences": 0.3804326057434082
+      }
+    },
+    {
+      "sentence": "The initiative aims to empower farmers with the resources and knowledge needed to thrive in the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4812988042831421,
+      "similarities": {
+        "ContextObjective": 0.4812988042831421,
+        "BenefitsAssistance": 0.3821156620979309,
+        "Eligibility": 0.44192010164260864,
+        "ApplicationProcess": 0.39382195472717285,
+        "TimelineFrequency": 0.36905020475387573,
+        "AuthoritiesGovernance": 0.42258989810943604,
+        "DefinitionsReferences": 0.3986201584339142
+      }
+    },
+    {
+      "sentence": "Through this scheme, the Haryana Government is taking concrete steps towards sustainable agricultural development.",
+      "role": "ContextObjective",
+      "confidence": 0.45825421810150146,
+      "similarities": {
+        "ContextObjective": 0.45825421810150146,
+        "BenefitsAssistance": 0.3502497673034668,
+        "Eligibility": 0.39437559247016907,
+        "ApplicationProcess": 0.42378494143486023,
+        "TimelineFrequency": 0.3538234829902649,
+        "AuthoritiesGovernance": 0.40519580245018005,
+        "DefinitionsReferences": 0.3720186948776245
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to stay informed about the latest updates and guidelines related to the Mukhyamantri Bagwani Mission: Kela Vikas Yojana.",
+      "role": "Eligibility",
+      "confidence": 0.459911584854126,
+      "similarities": {
+        "ContextObjective": 0.44140881299972534,
+        "BenefitsAssistance": 0.435077428817749,
+        "Eligibility": 0.459911584854126,
+        "ApplicationProcess": 0.4205610752105713,
+        "TimelineFrequency": 0.3978937566280365,
+        "AuthoritiesGovernance": 0.419709175825119,
+        "DefinitionsReferences": 0.42218783497810364
+      }
+    },
+    {
+      "sentence": "This will enable them to make the most of the opportunities provided by the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5740838646888733,
+      "similarities": {
+        "ContextObjective": 0.5740838646888733,
+        "BenefitsAssistance": 0.47149062156677246,
+        "Eligibility": 0.546177864074707,
+        "ApplicationProcess": 0.4641808867454529,
+        "TimelineFrequency": 0.4727863371372223,
+        "AuthoritiesGovernance": 0.4191943407058716,
+        "DefinitionsReferences": 0.40702706575393677
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Bagwani Mission: Kela Vikas Yojana is a significant move towards enhancing the agricultural economy of Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.4514423906803131,
+      "similarities": {
+        "ContextObjective": 0.4514423906803131,
+        "BenefitsAssistance": 0.3688335418701172,
+        "Eligibility": 0.4210345149040222,
+        "ApplicationProcess": 0.3668948709964752,
+        "TimelineFrequency": 0.35564976930618286,
+        "AuthoritiesGovernance": 0.3806937038898468,
+        "DefinitionsReferences": 0.3667217791080475
+      }
+    },
+    {
+      "sentence": "The scheme is a part of the larger vision of the government to transform the agricultural sector in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5277466177940369,
+      "similarities": {
+        "ContextObjective": 0.5277466177940369,
+        "BenefitsAssistance": 0.37292248010635376,
+        "Eligibility": 0.43815016746520996,
+        "ApplicationProcess": 0.42141950130462646,
+        "TimelineFrequency": 0.36715325713157654,
+        "AuthoritiesGovernance": 0.44400113821029663,
+        "DefinitionsReferences": 0.376170814037323
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 27,
+    "BenefitsAssistance": 4,
+    "Eligibility": 12,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 3,
+    "AuthoritiesGovernance": 6,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:45:42.127193"
+}

@@ -1,0 +1,813 @@
+{
+  "scheme_name": "SUBHADRA",
+  "total_sentences": 57,
+  "labeled_sentences": [
+    {
+      "sentence": "The Subhadra scheme is a welfare initiative launched by the Government of India aimed at providing financial assistance to women.",
+      "role": "ContextObjective",
+      "confidence": 0.5300424695014954,
+      "similarities": {
+        "ContextObjective": 0.5300424695014954,
+        "BenefitsAssistance": 0.4715622067451477,
+        "Eligibility": 0.47843191027641296,
+        "ApplicationProcess": 0.409676730632782,
+        "TimelineFrequency": 0.40141183137893677,
+        "AuthoritiesGovernance": 0.4384421110153198,
+        "DefinitionsReferences": 0.3275298476219177
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on March 8, 2021, coinciding with International Women’s Day.",
+      "role": "ContextObjective",
+      "confidence": 0.5573835372924805,
+      "similarities": {
+        "ContextObjective": 0.5573835372924805,
+        "BenefitsAssistance": 0.4218675196170807,
+        "Eligibility": 0.45396339893341064,
+        "ApplicationProcess": 0.41155770421028137,
+        "TimelineFrequency": 0.4640493094921112,
+        "AuthoritiesGovernance": 0.4325900077819824,
+        "DefinitionsReferences": 0.3345247507095337
+      }
+    },
+    {
+      "sentence": "This initiative is part of the broader efforts by the Indian government to empower women and promote gender equality in society.",
+      "role": "ContextObjective",
+      "confidence": 0.4710853695869446,
+      "similarities": {
+        "ContextObjective": 0.4710853695869446,
+        "BenefitsAssistance": 0.3691076636314392,
+        "Eligibility": 0.40029704570770264,
+        "ApplicationProcess": 0.3828936517238617,
+        "TimelineFrequency": 0.3449099063873291,
+        "AuthoritiesGovernance": 0.43736016750335693,
+        "DefinitionsReferences": 0.37099573016166687
+      }
+    },
+    {
+      "sentence": "The primary objective of the Subhadra scheme is to provide financial support to women for their economic upliftment.",
+      "role": "ContextObjective",
+      "confidence": 0.5252652168273926,
+      "similarities": {
+        "ContextObjective": 0.5252652168273926,
+        "BenefitsAssistance": 0.4476979374885559,
+        "Eligibility": 0.3961261510848999,
+        "ApplicationProcess": 0.35855185985565186,
+        "TimelineFrequency": 0.34343641996383667,
+        "AuthoritiesGovernance": 0.3550097942352295,
+        "DefinitionsReferences": 0.30621567368507385
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance the livelihood opportunities for women by providing them with the necessary financial resources.",
+      "role": "ContextObjective",
+      "confidence": 0.5434804558753967,
+      "similarities": {
+        "ContextObjective": 0.5434804558753967,
+        "BenefitsAssistance": 0.49754834175109863,
+        "Eligibility": 0.4977410137653351,
+        "ApplicationProcess": 0.4302615523338318,
+        "TimelineFrequency": 0.41877448558807373,
+        "AuthoritiesGovernance": 0.4034076929092407,
+        "DefinitionsReferences": 0.3766801357269287
+      }
+    },
+    {
+      "sentence": "The target beneficiaries of the Subhadra scheme are women from economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.4569883644580841,
+      "similarities": {
+        "ContextObjective": 0.42613545060157776,
+        "BenefitsAssistance": 0.37066131830215454,
+        "Eligibility": 0.4569883644580841,
+        "ApplicationProcess": 0.28501594066619873,
+        "TimelineFrequency": 0.3046445846557617,
+        "AuthoritiesGovernance": 0.353048712015152,
+        "DefinitionsReferences": 0.2636508047580719
+      }
+    },
+    {
+      "sentence": "The scheme specifically focuses on women who are heads of households or belong to marginalized communities.",
+      "role": "Eligibility",
+      "confidence": 0.5249729156494141,
+      "similarities": {
+        "ContextObjective": 0.49558573961257935,
+        "BenefitsAssistance": 0.4165915548801422,
+        "Eligibility": 0.5249729156494141,
+        "ApplicationProcess": 0.38353943824768066,
+        "TimelineFrequency": 0.38981226086616516,
+        "AuthoritiesGovernance": 0.4444047510623932,
+        "DefinitionsReferences": 0.35738593339920044
+      }
+    },
+    {
+      "sentence": "Eligible women can receive financial assistance of up to INR 50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5565180778503418,
+      "similarities": {
+        "ContextObjective": 0.43899086117744446,
+        "BenefitsAssistance": 0.5565180778503418,
+        "Eligibility": 0.5459245443344116,
+        "ApplicationProcess": 0.4413355588912964,
+        "TimelineFrequency": 0.4329366087913513,
+        "AuthoritiesGovernance": 0.39995187520980835,
+        "DefinitionsReferences": 0.39351171255111694
+      }
+    },
+    {
+      "sentence": "This amount is intended to help them start or expand small businesses or engage in self-employment activities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5174083709716797,
+      "similarities": {
+        "ContextObjective": 0.48119035363197327,
+        "BenefitsAssistance": 0.5174083709716797,
+        "Eligibility": 0.46498408913612366,
+        "ApplicationProcess": 0.4137353301048279,
+        "TimelineFrequency": 0.39956462383270264,
+        "AuthoritiesGovernance": 0.3796110153198242,
+        "DefinitionsReferences": 0.4232390224933624
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote skill development among women to enhance their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.47292786836624146,
+      "similarities": {
+        "ContextObjective": 0.47292786836624146,
+        "BenefitsAssistance": 0.3423512578010559,
+        "Eligibility": 0.4176706075668335,
+        "ApplicationProcess": 0.3718651533126831,
+        "TimelineFrequency": 0.38101649284362793,
+        "AuthoritiesGovernance": 0.34378141164779663,
+        "DefinitionsReferences": 0.3455967307090759
+      }
+    },
+    {
+      "sentence": "Women beneficiaries are encouraged to participate in training programs that will equip them with necessary skills.",
+      "role": "Eligibility",
+      "confidence": 0.5011464357376099,
+      "similarities": {
+        "ContextObjective": 0.472642719745636,
+        "BenefitsAssistance": 0.4494016468524933,
+        "Eligibility": 0.5011464357376099,
+        "ApplicationProcess": 0.42471224069595337,
+        "TimelineFrequency": 0.4359924793243408,
+        "AuthoritiesGovernance": 0.46121537685394287,
+        "DefinitionsReferences": 0.412880003452301
+      }
+    },
+    {
+      "sentence": "The Subhadra scheme has set a target of reaching at least 1 million women across the country in its first year of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.46368926763534546,
+      "similarities": {
+        "ContextObjective": 0.46368926763534546,
+        "BenefitsAssistance": 0.34582725167274475,
+        "Eligibility": 0.40895840525627136,
+        "ApplicationProcess": 0.3530351519584656,
+        "TimelineFrequency": 0.3222515285015106,
+        "AuthoritiesGovernance": 0.3683406114578247,
+        "DefinitionsReferences": 0.2646356225013733
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that at least 30 percent of the beneficiaries are from Scheduled Castes and Scheduled Tribes.",
+      "role": "Eligibility",
+      "confidence": 0.4953148663043976,
+      "similarities": {
+        "ContextObjective": 0.4296072721481323,
+        "BenefitsAssistance": 0.3866472840309143,
+        "Eligibility": 0.4953148663043976,
+        "ApplicationProcess": 0.3837401568889618,
+        "TimelineFrequency": 0.36008894443511963,
+        "AuthoritiesGovernance": 0.41813671588897705,
+        "DefinitionsReferences": 0.34953808784484863
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Subhadra scheme include being a woman aged 18 years or above.",
+      "role": "Eligibility",
+      "confidence": 0.5462338924407959,
+      "similarities": {
+        "ContextObjective": 0.4500490427017212,
+        "BenefitsAssistance": 0.4352778196334839,
+        "Eligibility": 0.5462338924407959,
+        "ApplicationProcess": 0.4638247489929199,
+        "TimelineFrequency": 0.4551372528076172,
+        "AuthoritiesGovernance": 0.3496018648147583,
+        "DefinitionsReferences": 0.34495359659194946
+      }
+    },
+    {
+      "sentence": "Applicants must belong to families with an annual income of less than INR 3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.6056878566741943,
+      "similarities": {
+        "ContextObjective": 0.45835375785827637,
+        "BenefitsAssistance": 0.4889412820339203,
+        "Eligibility": 0.6056878566741943,
+        "ApplicationProcess": 0.5410716533660889,
+        "TimelineFrequency": 0.49196454882621765,
+        "AuthoritiesGovernance": 0.3951095938682556,
+        "DefinitionsReferences": 0.37233006954193115
+      }
+    },
+    {
+      "sentence": "Women who have completed at least 8th grade in school are given preference in the selection process.",
+      "role": "Eligibility",
+      "confidence": 0.4865177571773529,
+      "similarities": {
+        "ContextObjective": 0.41525799036026,
+        "BenefitsAssistance": 0.35992276668548584,
+        "Eligibility": 0.4865177571773529,
+        "ApplicationProcess": 0.4360198974609375,
+        "TimelineFrequency": 0.4767625331878662,
+        "AuthoritiesGovernance": 0.40324681997299194,
+        "DefinitionsReferences": 0.3678675591945648
+      }
+    },
+    {
+      "sentence": "The application process for the Subhadra scheme is designed to be straightforward and user-friendly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5213456153869629,
+      "similarities": {
+        "ContextObjective": 0.48356229066848755,
+        "BenefitsAssistance": 0.4033817648887634,
+        "Eligibility": 0.46919044852256775,
+        "ApplicationProcess": 0.5213456153869629,
+        "TimelineFrequency": 0.4655524790287018,
+        "AuthoritiesGovernance": 0.3890952467918396,
+        "DefinitionsReferences": 0.32150065898895264
+      }
+    },
+    {
+      "sentence": "Interested applicants can apply online through the official government portal dedicated to the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6384161710739136,
+      "similarities": {
+        "ContextObjective": 0.5093488693237305,
+        "BenefitsAssistance": 0.4311671853065491,
+        "Eligibility": 0.5586310029029846,
+        "ApplicationProcess": 0.6384161710739136,
+        "TimelineFrequency": 0.4955942630767822,
+        "AuthoritiesGovernance": 0.40383195877075195,
+        "DefinitionsReferences": 0.3901894688606262
+      }
+    },
+    {
+      "sentence": "The application form requires basic personal information such as name, age, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6753295063972473,
+      "similarities": {
+        "ContextObjective": 0.4813115894794464,
+        "BenefitsAssistance": 0.5877559185028076,
+        "Eligibility": 0.6195864677429199,
+        "ApplicationProcess": 0.6753295063972473,
+        "TimelineFrequency": 0.5687674283981323,
+        "AuthoritiesGovernance": 0.4500201940536499,
+        "DefinitionsReferences": 0.4971984028816223
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of identity and income, such as an Aadhar card and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5941351652145386,
+      "similarities": {
+        "ContextObjective": 0.42978131771087646,
+        "BenefitsAssistance": 0.5132271647453308,
+        "Eligibility": 0.5112333297729492,
+        "ApplicationProcess": 0.5941351652145386,
+        "TimelineFrequency": 0.471276193857193,
+        "AuthoritiesGovernance": 0.37263867259025574,
+        "DefinitionsReferences": 0.4465579688549042
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the designated authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6578150987625122,
+      "similarities": {
+        "ContextObjective": 0.4994831681251526,
+        "BenefitsAssistance": 0.43357300758361816,
+        "Eligibility": 0.5956863760948181,
+        "ApplicationProcess": 0.6578150987625122,
+        "TimelineFrequency": 0.5556896328926086,
+        "AuthoritiesGovernance": 0.5234570503234863,
+        "DefinitionsReferences": 0.4955136775970459
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days from the date of application submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5997006893157959,
+      "similarities": {
+        "ContextObjective": 0.42595145106315613,
+        "BenefitsAssistance": 0.4215329885482788,
+        "Eligibility": 0.4965263903141022,
+        "ApplicationProcess": 0.586835503578186,
+        "TimelineFrequency": 0.5997006893157959,
+        "AuthoritiesGovernance": 0.4339979887008667,
+        "DefinitionsReferences": 0.4322313666343689
+      }
+    },
+    {
+      "sentence": "Successful applicants will receive a notification via SMS or email regarding their approval status.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6312600374221802,
+      "similarities": {
+        "ContextObjective": 0.49112802743911743,
+        "BenefitsAssistance": 0.5010311007499695,
+        "Eligibility": 0.5727756023406982,
+        "ApplicationProcess": 0.6312600374221802,
+        "TimelineFrequency": 0.5885214805603027,
+        "AuthoritiesGovernance": 0.4908212423324585,
+        "DefinitionsReferences": 0.44510892033576965
+      }
+    },
+    {
+      "sentence": "The disbursement of funds under the Subhadra scheme is done directly into the beneficiaries' bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48457372188568115,
+      "similarities": {
+        "ContextObjective": 0.38580596446990967,
+        "BenefitsAssistance": 0.48457372188568115,
+        "Eligibility": 0.43032318353652954,
+        "ApplicationProcess": 0.38535505533218384,
+        "TimelineFrequency": 0.3232533037662506,
+        "AuthoritiesGovernance": 0.37555983662605286,
+        "DefinitionsReferences": 0.281576931476593
+      }
+    },
+    {
+      "sentence": "Payments are made in a single installment to ensure that women have immediate access to the funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49181562662124634,
+      "similarities": {
+        "ContextObjective": 0.3941035568714142,
+        "BenefitsAssistance": 0.49181562662124634,
+        "Eligibility": 0.42837095260620117,
+        "ApplicationProcess": 0.4072054624557495,
+        "TimelineFrequency": 0.4147559106349945,
+        "AuthoritiesGovernance": 0.3653953969478607,
+        "DefinitionsReferences": 0.3411800265312195
+      }
+    },
+    {
+      "sentence": "The government has partnered with various financial institutions to facilitate the smooth disbursement of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5680074095726013,
+      "similarities": {
+        "ContextObjective": 0.4482797682285309,
+        "BenefitsAssistance": 0.5680074095726013,
+        "Eligibility": 0.4782865643501282,
+        "ApplicationProcess": 0.4378671646118164,
+        "TimelineFrequency": 0.4253886342048645,
+        "AuthoritiesGovernance": 0.49962693452835083,
+        "DefinitionsReferences": 0.4471689462661743
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Subhadra scheme is the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5467185974121094,
+      "similarities": {
+        "ContextObjective": 0.4106711149215698,
+        "BenefitsAssistance": 0.3755345940589905,
+        "Eligibility": 0.44162145256996155,
+        "ApplicationProcess": 0.3795661926269531,
+        "TimelineFrequency": 0.355989933013916,
+        "AuthoritiesGovernance": 0.5467185974121094,
+        "DefinitionsReferences": 0.3536168932914734
+      }
+    },
+    {
+      "sentence": "State governments are also involved in the implementation and monitoring of the scheme at the local level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5799009799957275,
+      "similarities": {
+        "ContextObjective": 0.47420552372932434,
+        "BenefitsAssistance": 0.45612257719039917,
+        "Eligibility": 0.50661700963974,
+        "ApplicationProcess": 0.4920569062232971,
+        "TimelineFrequency": 0.41923415660858154,
+        "AuthoritiesGovernance": 0.5799009799957275,
+        "DefinitionsReferences": 0.43041345477104187
+      }
+    },
+    {
+      "sentence": "The Ministry has set up a helpline number for beneficiaries to address any queries or issues related to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5290898084640503,
+      "similarities": {
+        "ContextObjective": 0.49418777227401733,
+        "BenefitsAssistance": 0.510922908782959,
+        "Eligibility": 0.5290898084640503,
+        "ApplicationProcess": 0.4683443307876587,
+        "TimelineFrequency": 0.4085257947444916,
+        "AuthoritiesGovernance": 0.5072559118270874,
+        "DefinitionsReferences": 0.379928857088089
+      }
+    },
+    {
+      "sentence": "The helpline number is 1800-123-4567 and is operational from 9 AM to 6 PM on all working days.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49413830041885376,
+      "similarities": {
+        "ContextObjective": 0.3969951272010803,
+        "BenefitsAssistance": 0.49413830041885376,
+        "Eligibility": 0.4446495473384857,
+        "ApplicationProcess": 0.43809300661087036,
+        "TimelineFrequency": 0.4465002417564392,
+        "AuthoritiesGovernance": 0.4521061182022095,
+        "DefinitionsReferences": 0.38973915576934814
+      }
+    },
+    {
+      "sentence": "The Subhadra scheme is part of a larger framework of initiatives aimed at women's empowerment in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5129885673522949,
+      "similarities": {
+        "ContextObjective": 0.5129885673522949,
+        "BenefitsAssistance": 0.4001498818397522,
+        "Eligibility": 0.43908318877220154,
+        "ApplicationProcess": 0.38453739881515503,
+        "TimelineFrequency": 0.38480210304260254,
+        "AuthoritiesGovernance": 0.43443313241004944,
+        "DefinitionsReferences": 0.3469654619693756
+      }
+    },
+    {
+      "sentence": "These initiatives include the Beti Bachao Beti Padhao scheme and the Mahila E-Haat platform.",
+      "role": "ContextObjective",
+      "confidence": 0.49526190757751465,
+      "similarities": {
+        "ContextObjective": 0.49526190757751465,
+        "BenefitsAssistance": 0.37649407982826233,
+        "Eligibility": 0.40819036960601807,
+        "ApplicationProcess": 0.41779977083206177,
+        "TimelineFrequency": 0.35922640562057495,
+        "AuthoritiesGovernance": 0.3676159679889679,
+        "DefinitionsReferences": 0.3748787045478821
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the implementation of the Subhadra scheme over the next five years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43466007709503174,
+      "similarities": {
+        "ContextObjective": 0.4308069050312042,
+        "BenefitsAssistance": 0.43466007709503174,
+        "Eligibility": 0.40930527448654175,
+        "ApplicationProcess": 0.3829697072505951,
+        "TimelineFrequency": 0.3915746808052063,
+        "AuthoritiesGovernance": 0.4256991147994995,
+        "DefinitionsReferences": 0.3248634934425354
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme will be conducted regularly to assess its impact on women's livelihoods.",
+      "role": "Eligibility",
+      "confidence": 0.4675544202327728,
+      "similarities": {
+        "ContextObjective": 0.44677990674972534,
+        "BenefitsAssistance": 0.4635036885738373,
+        "Eligibility": 0.4675544202327728,
+        "ApplicationProcess": 0.43144726753234863,
+        "TimelineFrequency": 0.4338906407356262,
+        "AuthoritiesGovernance": 0.4475367069244385,
+        "DefinitionsReferences": 0.4024007320404053
+      }
+    },
+    {
+      "sentence": "The government aims to publish an annual report detailing the progress of the scheme and its beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.550412654876709,
+      "similarities": {
+        "ContextObjective": 0.550412654876709,
+        "BenefitsAssistance": 0.5112577676773071,
+        "Eligibility": 0.46801936626434326,
+        "ApplicationProcess": 0.48719602823257446,
+        "TimelineFrequency": 0.4261135458946228,
+        "AuthoritiesGovernance": 0.4498714208602905,
+        "DefinitionsReferences": 0.387362003326416
+      }
+    },
+    {
+      "sentence": "The Subhadra scheme is expected to contribute significantly to reducing the gender gap in economic participation.",
+      "role": "ContextObjective",
+      "confidence": 0.3774508833885193,
+      "similarities": {
+        "ContextObjective": 0.3774508833885193,
+        "BenefitsAssistance": 0.35446035861968994,
+        "Eligibility": 0.3615666627883911,
+        "ApplicationProcess": 0.32127875089645386,
+        "TimelineFrequency": 0.3081246614456177,
+        "AuthoritiesGovernance": 0.310767263174057,
+        "DefinitionsReferences": 0.22616153955459595
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme aims to enhance women's decision-making power within households.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4916400611400604,
+      "similarities": {
+        "ContextObjective": 0.48332858085632324,
+        "BenefitsAssistance": 0.4916400611400604,
+        "Eligibility": 0.4726564884185791,
+        "ApplicationProcess": 0.39107298851013184,
+        "TimelineFrequency": 0.3894904851913452,
+        "AuthoritiesGovernance": 0.4241097867488861,
+        "DefinitionsReferences": 0.3499256670475006
+      }
+    },
+    {
+      "sentence": "The scheme also seeks to promote entrepreneurship among women, thereby fostering economic independence.",
+      "role": "ContextObjective",
+      "confidence": 0.49332907795906067,
+      "similarities": {
+        "ContextObjective": 0.49332907795906067,
+        "BenefitsAssistance": 0.3723309636116028,
+        "Eligibility": 0.3825141191482544,
+        "ApplicationProcess": 0.33924663066864014,
+        "TimelineFrequency": 0.33242130279541016,
+        "AuthoritiesGovernance": 0.3076610267162323,
+        "DefinitionsReferences": 0.29997560381889343
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the Subhadra scheme emphasizes the importance of community support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5061362981796265,
+      "similarities": {
+        "ContextObjective": 0.45403021574020386,
+        "BenefitsAssistance": 0.5061362981796265,
+        "Eligibility": 0.4244031310081482,
+        "ApplicationProcess": 0.3723859190940857,
+        "TimelineFrequency": 0.35946124792099,
+        "AuthoritiesGovernance": 0.36378636956214905,
+        "DefinitionsReferences": 0.36940205097198486
+      }
+    },
+    {
+      "sentence": "Women are encouraged to form self-help groups to share experiences and resources.",
+      "role": "ContextObjective",
+      "confidence": 0.4519577622413635,
+      "similarities": {
+        "ContextObjective": 0.4519577622413635,
+        "BenefitsAssistance": 0.4321123957633972,
+        "Eligibility": 0.4158830940723419,
+        "ApplicationProcess": 0.36224281787872314,
+        "TimelineFrequency": 0.36518460512161255,
+        "AuthoritiesGovernance": 0.4423363208770752,
+        "DefinitionsReferences": 0.40608301758766174
+      }
+    },
+    {
+      "sentence": "These groups can also facilitate collective bargaining and access to markets for their products.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4576631188392639,
+      "similarities": {
+        "ContextObjective": 0.4155540466308594,
+        "BenefitsAssistance": 0.44141632318496704,
+        "Eligibility": 0.4513337016105652,
+        "ApplicationProcess": 0.3817085325717926,
+        "TimelineFrequency": 0.39040637016296387,
+        "AuthoritiesGovernance": 0.4576631188392639,
+        "DefinitionsReferences": 0.42541277408599854
+      }
+    },
+    {
+      "sentence": "The government is also working on creating awareness about the scheme through various outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.54563307762146,
+      "similarities": {
+        "ContextObjective": 0.54563307762146,
+        "BenefitsAssistance": 0.46686699986457825,
+        "Eligibility": 0.48263290524482727,
+        "ApplicationProcess": 0.4805106520652771,
+        "TimelineFrequency": 0.40120238065719604,
+        "AuthoritiesGovernance": 0.508263111114502,
+        "DefinitionsReferences": 0.41922786831855774
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are being organized in rural and urban areas to educate women about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.47783687710762024,
+      "similarities": {
+        "ContextObjective": 0.47783687710762024,
+        "BenefitsAssistance": 0.4240243434906006,
+        "Eligibility": 0.44068190455436707,
+        "ApplicationProcess": 0.3980832099914551,
+        "TimelineFrequency": 0.39877793192863464,
+        "AuthoritiesGovernance": 0.4702461361885071,
+        "DefinitionsReferences": 0.3957657814025879
+      }
+    },
+    {
+      "sentence": "Collaboration with NGOs and local organizations is being sought to reach out to potential beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5500238537788391,
+      "similarities": {
+        "ContextObjective": 0.5236414670944214,
+        "BenefitsAssistance": 0.48779061436653137,
+        "Eligibility": 0.5500238537788391,
+        "ApplicationProcess": 0.4640246629714966,
+        "TimelineFrequency": 0.4334576427936554,
+        "AuthoritiesGovernance": 0.5161086320877075,
+        "DefinitionsReferences": 0.4344917833805084
+      }
+    },
+    {
+      "sentence": "The success of the Subhadra scheme will be measured through various indicators such as the number of women empowered and businesses started.",
+      "role": "ContextObjective",
+      "confidence": 0.4642597436904907,
+      "similarities": {
+        "ContextObjective": 0.4642597436904907,
+        "BenefitsAssistance": 0.4326704144477844,
+        "Eligibility": 0.4231117367744446,
+        "ApplicationProcess": 0.3796989917755127,
+        "TimelineFrequency": 0.3884580433368683,
+        "AuthoritiesGovernance": 0.38741934299468994,
+        "DefinitionsReferences": 0.36881154775619507
+      }
+    },
+    {
+      "sentence": "The government aims to conduct surveys to gather feedback from beneficiaries to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.523360550403595,
+      "similarities": {
+        "ContextObjective": 0.523360550403595,
+        "BenefitsAssistance": 0.46659189462661743,
+        "Eligibility": 0.4963885247707367,
+        "ApplicationProcess": 0.46609026193618774,
+        "TimelineFrequency": 0.4003669023513794,
+        "AuthoritiesGovernance": 0.48143690824508667,
+        "DefinitionsReferences": 0.37785571813583374
+      }
+    },
+    {
+      "sentence": "The long-term vision of the Subhadra scheme is to create a more inclusive economy where women play a pivotal role.",
+      "role": "ContextObjective",
+      "confidence": 0.47753235697746277,
+      "similarities": {
+        "ContextObjective": 0.47753235697746277,
+        "BenefitsAssistance": 0.3612023591995239,
+        "Eligibility": 0.3764343857765198,
+        "ApplicationProcess": 0.2949715554714203,
+        "TimelineFrequency": 0.30157220363616943,
+        "AuthoritiesGovernance": 0.32475143671035767,
+        "DefinitionsReferences": 0.297298401594162
+      }
+    },
+    {
+      "sentence": "By addressing the financial barriers faced by women, the scheme aims to foster a culture of entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.4887600243091583,
+      "similarities": {
+        "ContextObjective": 0.4887600243091583,
+        "BenefitsAssistance": 0.40398019552230835,
+        "Eligibility": 0.4204689860343933,
+        "ApplicationProcess": 0.3717350959777832,
+        "TimelineFrequency": 0.3737756609916687,
+        "AuthoritiesGovernance": 0.34369975328445435,
+        "DefinitionsReferences": 0.309866726398468
+      }
+    },
+    {
+      "sentence": "The Subhadra scheme is a step towards achieving the Sustainable Development Goals related to gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5173279047012329,
+      "similarities": {
+        "ContextObjective": 0.5173279047012329,
+        "BenefitsAssistance": 0.37518733739852905,
+        "Eligibility": 0.43532413244247437,
+        "ApplicationProcess": 0.41322994232177734,
+        "TimelineFrequency": 0.3804693818092346,
+        "AuthoritiesGovernance": 0.42195263504981995,
+        "DefinitionsReferences": 0.3366222679615021
+      }
+    },
+    {
+      "sentence": "Overall, the Subhadra scheme represents a significant commitment by the Indian government to uplift women economically and socially.",
+      "role": "ContextObjective",
+      "confidence": 0.43965762853622437,
+      "similarities": {
+        "ContextObjective": 0.43965762853622437,
+        "BenefitsAssistance": 0.3865385949611664,
+        "Eligibility": 0.3746938109397888,
+        "ApplicationProcess": 0.34703874588012695,
+        "TimelineFrequency": 0.3223334550857544,
+        "AuthoritiesGovernance": 0.3421397805213928,
+        "DefinitionsReferences": 0.3358449637889862
+      }
+    },
+    {
+      "sentence": "It is designed to empower women to take charge of their financial futures and contribute to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.4508739411830902,
+      "similarities": {
+        "ContextObjective": 0.4508739411830902,
+        "BenefitsAssistance": 0.4272446632385254,
+        "Eligibility": 0.39365285634994507,
+        "ApplicationProcess": 0.34764528274536133,
+        "TimelineFrequency": 0.3720783591270447,
+        "AuthoritiesGovernance": 0.3646458387374878,
+        "DefinitionsReferences": 0.3228403329849243
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a transformative impact on the lives of millions of women across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4814443588256836,
+      "similarities": {
+        "ContextObjective": 0.4814443588256836,
+        "BenefitsAssistance": 0.3810468316078186,
+        "Eligibility": 0.43688470125198364,
+        "ApplicationProcess": 0.3709515333175659,
+        "TimelineFrequency": 0.34980079531669617,
+        "AuthoritiesGovernance": 0.38655704259872437,
+        "DefinitionsReferences": 0.3419411778450012
+      }
+    },
+    {
+      "sentence": "By providing targeted support and resources, the Subhadra scheme aims to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.5230768918991089,
+      "similarities": {
+        "ContextObjective": 0.5230768918991089,
+        "BenefitsAssistance": 0.41194450855255127,
+        "Eligibility": 0.45924824476242065,
+        "ApplicationProcess": 0.37773415446281433,
+        "TimelineFrequency": 0.3496522009372711,
+        "AuthoritiesGovernance": 0.4103280007839203,
+        "DefinitionsReferences": 0.3389858603477478
+      }
+    },
+    {
+      "sentence": "In conclusion, the Subhadra scheme is a comprehensive initiative that addresses the multifaceted challenges faced by women in India.",
+      "role": "ContextObjective",
+      "confidence": 0.486783504486084,
+      "similarities": {
+        "ContextObjective": 0.486783504486084,
+        "BenefitsAssistance": 0.4507526457309723,
+        "Eligibility": 0.450634241104126,
+        "ApplicationProcess": 0.4026791751384735,
+        "TimelineFrequency": 0.3931238055229187,
+        "AuthoritiesGovernance": 0.41701561212539673,
+        "DefinitionsReferences": 0.3481959104537964
+      }
+    },
+    {
+      "sentence": "It combines financial assistance with skill development and community support to ensure sustainable empowerment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5031967163085938,
+      "similarities": {
+        "ContextObjective": 0.4700249135494232,
+        "BenefitsAssistance": 0.5031967163085938,
+        "Eligibility": 0.44721758365631104,
+        "ApplicationProcess": 0.40998172760009766,
+        "TimelineFrequency": 0.3865897059440613,
+        "AuthoritiesGovernance": 0.4312363266944885,
+        "DefinitionsReferences": 0.38808509707450867
+      }
+    },
+    {
+      "sentence": "The scheme is a vital part of India's broader strategy to enhance women's participation in the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.4907800555229187,
+      "similarities": {
+        "ContextObjective": 0.4907800555229187,
+        "BenefitsAssistance": 0.3918188214302063,
+        "Eligibility": 0.42031872272491455,
+        "ApplicationProcess": 0.3866792917251587,
+        "TimelineFrequency": 0.38278746604919434,
+        "AuthoritiesGovernance": 0.3755146563053131,
+        "DefinitionsReferences": 0.34523260593414307
+      }
+    },
+    {
+      "sentence": "The government remains committed to monitoring and improving the scheme to maximize its impact on women's lives.",
+      "role": "ContextObjective",
+      "confidence": 0.4555058181285858,
+      "similarities": {
+        "ContextObjective": 0.4555058181285858,
+        "BenefitsAssistance": 0.4018248915672302,
+        "Eligibility": 0.42283788323402405,
+        "ApplicationProcess": 0.39796555042266846,
+        "TimelineFrequency": 0.36800891160964966,
+        "AuthoritiesGovernance": 0.4409085512161255,
+        "DefinitionsReferences": 0.3611610531806946
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 27,
+    "Eligibility": 10,
+    "BenefitsAssistance": 10,
+    "ApplicationProcess": 6,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:50:08.976710"
+}

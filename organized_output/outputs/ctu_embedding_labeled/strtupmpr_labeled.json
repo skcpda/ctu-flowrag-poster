@@ -1,0 +1,939 @@
+{
+  "scheme_name": "Startup Manipur",
+  "total_sentences": 66,
+  "labeled_sentences": [
+    {
+      "sentence": "Startup Manipur is a government initiative aimed at fostering entrepreneurship and innovation in the northeastern state of Manipur.",
+      "role": "ContextObjective",
+      "confidence": 0.49953946471214294,
+      "similarities": {
+        "ContextObjective": 0.49953946471214294,
+        "BenefitsAssistance": 0.39532744884490967,
+        "Eligibility": 0.45733970403671265,
+        "ApplicationProcess": 0.4367910921573639,
+        "TimelineFrequency": 0.4349210858345032,
+        "AuthoritiesGovernance": 0.43503934144973755,
+        "DefinitionsReferences": 0.3778725862503052
+      }
+    },
+    {
+      "sentence": "The scheme was launched in 2018 by the Government of Manipur.",
+      "role": "ContextObjective",
+      "confidence": 0.5431390404701233,
+      "similarities": {
+        "ContextObjective": 0.5431390404701233,
+        "BenefitsAssistance": 0.4020116925239563,
+        "Eligibility": 0.4481392502784729,
+        "ApplicationProcess": 0.4457186758518219,
+        "TimelineFrequency": 0.41168728470802307,
+        "AuthoritiesGovernance": 0.3835119605064392,
+        "DefinitionsReferences": 0.3340906500816345
+      }
+    },
+    {
+      "sentence": "This initiative is part of the broader Startup India movement launched by the Government of India in January 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.46959495544433594,
+      "similarities": {
+        "ContextObjective": 0.46959495544433594,
+        "BenefitsAssistance": 0.36312755942344666,
+        "Eligibility": 0.38484877347946167,
+        "ApplicationProcess": 0.38698217272758484,
+        "TimelineFrequency": 0.35980239510536194,
+        "AuthoritiesGovernance": 0.3800901770591736,
+        "DefinitionsReferences": 0.36161112785339355
+      }
+    },
+    {
+      "sentence": "The primary objective of Startup Manipur is to create a conducive environment for startups and entrepreneurs in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5471467971801758,
+      "similarities": {
+        "ContextObjective": 0.5471467971801758,
+        "BenefitsAssistance": 0.3425333797931671,
+        "Eligibility": 0.4320954978466034,
+        "ApplicationProcess": 0.40499839186668396,
+        "TimelineFrequency": 0.3720053434371948,
+        "AuthoritiesGovernance": 0.38222184777259827,
+        "DefinitionsReferences": 0.3380182385444641
+      }
+    },
+    {
+      "sentence": "The scheme aims to promote innovation and provide financial support to budding entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.5270994305610657,
+      "similarities": {
+        "ContextObjective": 0.5270994305610657,
+        "BenefitsAssistance": 0.45352476835250854,
+        "Eligibility": 0.44566601514816284,
+        "ApplicationProcess": 0.3965933322906494,
+        "TimelineFrequency": 0.3832206726074219,
+        "AuthoritiesGovernance": 0.33437013626098633,
+        "DefinitionsReferences": 0.3295055031776428
+      }
+    },
+    {
+      "sentence": "One of the measurable targets of the scheme is to support at least 100 startups in the state by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.5414976477622986,
+      "similarities": {
+        "ContextObjective": 0.5414976477622986,
+        "BenefitsAssistance": 0.41386204957962036,
+        "Eligibility": 0.4772403836250305,
+        "ApplicationProcess": 0.4058612585067749,
+        "TimelineFrequency": 0.4298328161239624,
+        "AuthoritiesGovernance": 0.3449159264564514,
+        "DefinitionsReferences": 0.35223641991615295
+      }
+    },
+    {
+      "sentence": "The government has set a goal to create over 10,000 jobs through this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4813954830169678,
+      "similarities": {
+        "ContextObjective": 0.4813954830169678,
+        "BenefitsAssistance": 0.3710402250289917,
+        "Eligibility": 0.4442833662033081,
+        "ApplicationProcess": 0.3934924900531769,
+        "TimelineFrequency": 0.3788837194442749,
+        "AuthoritiesGovernance": 0.3771745264530182,
+        "DefinitionsReferences": 0.3550340533256531
+      }
+    },
+    {
+      "sentence": "Startup Manipur provides various benefits and assistance to eligible startups.",
+      "role": "Eligibility",
+      "confidence": 0.5640155076980591,
+      "similarities": {
+        "ContextObjective": 0.5353591442108154,
+        "BenefitsAssistance": 0.5499060750007629,
+        "Eligibility": 0.5640155076980591,
+        "ApplicationProcess": 0.494360089302063,
+        "TimelineFrequency": 0.4942220449447632,
+        "AuthoritiesGovernance": 0.442766010761261,
+        "DefinitionsReferences": 0.4491770267486572
+      }
+    },
+    {
+      "sentence": "Financial assistance is available in the form of grants and seed funding.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6007729172706604,
+      "similarities": {
+        "ContextObjective": 0.5251261591911316,
+        "BenefitsAssistance": 0.6007729172706604,
+        "Eligibility": 0.5716224908828735,
+        "ApplicationProcess": 0.5253918170928955,
+        "TimelineFrequency": 0.5056843757629395,
+        "AuthoritiesGovernance": 0.48881834745407104,
+        "DefinitionsReferences": 0.4843108057975769
+      }
+    },
+    {
+      "sentence": "The maximum grant amount available under this scheme is ₹25 lakh per startup.",
+      "role": "Eligibility",
+      "confidence": 0.48539772629737854,
+      "similarities": {
+        "ContextObjective": 0.44086170196533203,
+        "BenefitsAssistance": 0.4648814797401428,
+        "Eligibility": 0.48539772629737854,
+        "ApplicationProcess": 0.407342791557312,
+        "TimelineFrequency": 0.41329145431518555,
+        "AuthoritiesGovernance": 0.32373732328414917,
+        "DefinitionsReferences": 0.3599396347999573
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme offers a seed funding of up to ₹5 lakh for early-stage startups.",
+      "role": "ContextObjective",
+      "confidence": 0.48467087745666504,
+      "similarities": {
+        "ContextObjective": 0.48467087745666504,
+        "BenefitsAssistance": 0.4589477777481079,
+        "Eligibility": 0.4456411302089691,
+        "ApplicationProcess": 0.41256266832351685,
+        "TimelineFrequency": 0.41035786271095276,
+        "AuthoritiesGovernance": 0.3183797597885132,
+        "DefinitionsReferences": 0.36361077427864075
+      }
+    },
+    {
+      "sentence": "The financial support is aimed at helping startups cover operational costs and product development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5933640003204346,
+      "similarities": {
+        "ContextObjective": 0.48568037152290344,
+        "BenefitsAssistance": 0.5933640003204346,
+        "Eligibility": 0.47645097970962524,
+        "ApplicationProcess": 0.4402603507041931,
+        "TimelineFrequency": 0.4426145553588867,
+        "AuthoritiesGovernance": 0.3931230902671814,
+        "DefinitionsReferences": 0.41655486822128296
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for Startup Manipur include being a registered startup under the Startup India initiative.",
+      "role": "Eligibility",
+      "confidence": 0.5951676368713379,
+      "similarities": {
+        "ContextObjective": 0.5343823432922363,
+        "BenefitsAssistance": 0.430634081363678,
+        "Eligibility": 0.5951676368713379,
+        "ApplicationProcess": 0.5292590260505676,
+        "TimelineFrequency": 0.48955363035202026,
+        "AuthoritiesGovernance": 0.39735832810401917,
+        "DefinitionsReferences": 0.40609776973724365
+      }
+    },
+    {
+      "sentence": "Startups must also have a registered office in Manipur.",
+      "role": "Eligibility",
+      "confidence": 0.4530511200428009,
+      "similarities": {
+        "ContextObjective": 0.41704225540161133,
+        "BenefitsAssistance": 0.3596796989440918,
+        "Eligibility": 0.4530511200428009,
+        "ApplicationProcess": 0.426481693983078,
+        "TimelineFrequency": 0.37420761585235596,
+        "AuthoritiesGovernance": 0.36972832679748535,
+        "DefinitionsReferences": 0.3937769830226898
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is generally between 18 to 45 years.",
+      "role": "Eligibility",
+      "confidence": 0.6291944980621338,
+      "similarities": {
+        "ContextObjective": 0.48675253987312317,
+        "BenefitsAssistance": 0.48254290223121643,
+        "Eligibility": 0.6291944980621338,
+        "ApplicationProcess": 0.5761752128601074,
+        "TimelineFrequency": 0.5654868483543396,
+        "AuthoritiesGovernance": 0.42052897810935974,
+        "DefinitionsReferences": 0.41847312450408936
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications mandated for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5109127163887024,
+      "similarities": {
+        "ContextObjective": 0.39587658643722534,
+        "BenefitsAssistance": 0.3561304211616516,
+        "Eligibility": 0.5109127163887024,
+        "ApplicationProcess": 0.48468878865242004,
+        "TimelineFrequency": 0.44298580288887024,
+        "AuthoritiesGovernance": 0.37170153856277466,
+        "DefinitionsReferences": 0.3341144919395447
+      }
+    },
+    {
+      "sentence": "However, preference is given to startups with innovative ideas and a viable business model.",
+      "role": "ContextObjective",
+      "confidence": 0.4794587790966034,
+      "similarities": {
+        "ContextObjective": 0.4794587790966034,
+        "BenefitsAssistance": 0.3366320729255676,
+        "Eligibility": 0.4038064479827881,
+        "ApplicationProcess": 0.3576659858226776,
+        "TimelineFrequency": 0.3665618896484375,
+        "AuthoritiesGovernance": 0.2929687201976776,
+        "DefinitionsReferences": 0.33341699838638306
+      }
+    },
+    {
+      "sentence": "The application process for Startup Manipur involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6472914218902588,
+      "similarities": {
+        "ContextObjective": 0.5709667205810547,
+        "BenefitsAssistance": 0.48631495237350464,
+        "Eligibility": 0.5639441013336182,
+        "ApplicationProcess": 0.6472914218902588,
+        "TimelineFrequency": 0.5753239989280701,
+        "AuthoritiesGovernance": 0.46730372309684753,
+        "DefinitionsReferences": 0.4810520112514496
+      }
+    },
+    {
+      "sentence": "First, interested entrepreneurs must fill out an online application form available on the official Startup Manipur website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6417573690414429,
+      "similarities": {
+        "ContextObjective": 0.4621654450893402,
+        "BenefitsAssistance": 0.400140643119812,
+        "Eligibility": 0.4993618130683899,
+        "ApplicationProcess": 0.6417573690414429,
+        "TimelineFrequency": 0.46421438455581665,
+        "AuthoritiesGovernance": 0.35412856936454773,
+        "DefinitionsReferences": 0.36501258611679077
+      }
+    },
+    {
+      "sentence": "The application requires details about the startup idea, business model, and financial projections.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.609810471534729,
+      "similarities": {
+        "ContextObjective": 0.6039625406265259,
+        "BenefitsAssistance": 0.609810471534729,
+        "Eligibility": 0.5843473672866821,
+        "ApplicationProcess": 0.608208417892456,
+        "TimelineFrequency": 0.5950722098350525,
+        "AuthoritiesGovernance": 0.4238054156303406,
+        "DefinitionsReferences": 0.5016883611679077
+      }
+    },
+    {
+      "sentence": "Applicants must also submit a pitch deck outlining their business strategy.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5396921634674072,
+      "similarities": {
+        "ContextObjective": 0.5086948275566101,
+        "BenefitsAssistance": 0.4267888367176056,
+        "Eligibility": 0.5089970827102661,
+        "ApplicationProcess": 0.5396921634674072,
+        "TimelineFrequency": 0.4935948848724365,
+        "AuthoritiesGovernance": 0.3659743666648865,
+        "DefinitionsReferences": 0.4454192519187927
+      }
+    },
+    {
+      "sentence": "Supporting documents such as identity proof, address proof, and registration certificates must be uploaded.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6473478078842163,
+      "similarities": {
+        "ContextObjective": 0.49196159839630127,
+        "BenefitsAssistance": 0.5738916397094727,
+        "Eligibility": 0.5770896673202515,
+        "ApplicationProcess": 0.6473478078842163,
+        "TimelineFrequency": 0.5347594618797302,
+        "AuthoritiesGovernance": 0.48459041118621826,
+        "DefinitionsReferences": 0.5471000075340271
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes a review process by the Startup Manipur team.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5860970616340637,
+      "similarities": {
+        "ContextObjective": 0.4888325333595276,
+        "BenefitsAssistance": 0.4045622646808624,
+        "Eligibility": 0.4952039122581482,
+        "ApplicationProcess": 0.5860970616340637,
+        "TimelineFrequency": 0.4975259602069855,
+        "AuthoritiesGovernance": 0.4159206748008728,
+        "DefinitionsReferences": 0.3940354287624359
+      }
+    },
+    {
+      "sentence": "Shortlisted candidates are then invited to present their ideas to a selection committee.",
+      "role": "ContextObjective",
+      "confidence": 0.5143894553184509,
+      "similarities": {
+        "ContextObjective": 0.5143894553184509,
+        "BenefitsAssistance": 0.3573230504989624,
+        "Eligibility": 0.4624412953853607,
+        "ApplicationProcess": 0.4683051109313965,
+        "TimelineFrequency": 0.43629226088523865,
+        "AuthoritiesGovernance": 0.4173167645931244,
+        "DefinitionsReferences": 0.35612213611602783
+      }
+    },
+    {
+      "sentence": "The selection committee evaluates the proposals based on innovation, feasibility, and market potential.",
+      "role": "ContextObjective",
+      "confidence": 0.476021945476532,
+      "similarities": {
+        "ContextObjective": 0.476021945476532,
+        "BenefitsAssistance": 0.3423912525177002,
+        "Eligibility": 0.44938182830810547,
+        "ApplicationProcess": 0.4162771701812744,
+        "TimelineFrequency": 0.3997317850589752,
+        "AuthoritiesGovernance": 0.37890568375587463,
+        "DefinitionsReferences": 0.3517116606235504
+      }
+    },
+    {
+      "sentence": "Successful applicants receive a letter of approval and are required to sign a memorandum of understanding with the government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5856579542160034,
+      "similarities": {
+        "ContextObjective": 0.4271577000617981,
+        "BenefitsAssistance": 0.41857707500457764,
+        "Eligibility": 0.5215486884117126,
+        "ApplicationProcess": 0.5856579542160034,
+        "TimelineFrequency": 0.45392972230911255,
+        "AuthoritiesGovernance": 0.45732349157333374,
+        "DefinitionsReferences": 0.46742603182792664
+      }
+    },
+    {
+      "sentence": "Disbursement of funds occurs in phases based on the achievement of predefined milestones.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5729383826255798,
+      "similarities": {
+        "ContextObjective": 0.5462605953216553,
+        "BenefitsAssistance": 0.5729383826255798,
+        "Eligibility": 0.5406293272972107,
+        "ApplicationProcess": 0.510810375213623,
+        "TimelineFrequency": 0.5466820001602173,
+        "AuthoritiesGovernance": 0.5080119371414185,
+        "DefinitionsReferences": 0.4743340015411377
+      }
+    },
+    {
+      "sentence": "The timeline for application submission is open throughout the year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6851050853729248,
+      "similarities": {
+        "ContextObjective": 0.541102945804596,
+        "BenefitsAssistance": 0.4820035398006439,
+        "Eligibility": 0.57113116979599,
+        "ApplicationProcess": 0.6137357950210571,
+        "TimelineFrequency": 0.6851050853729248,
+        "AuthoritiesGovernance": 0.4716765880584717,
+        "DefinitionsReferences": 0.46441683173179626
+      }
+    },
+    {
+      "sentence": "However, specific deadlines may be set for particular funding rounds or events.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6290475130081177,
+      "similarities": {
+        "ContextObjective": 0.4967879354953766,
+        "BenefitsAssistance": 0.5224944949150085,
+        "Eligibility": 0.5815777778625488,
+        "ApplicationProcess": 0.4961071014404297,
+        "TimelineFrequency": 0.6290475130081177,
+        "AuthoritiesGovernance": 0.4516046643257141,
+        "DefinitionsReferences": 0.45343253016471863
+      }
+    },
+    {
+      "sentence": "The implementing authority for Startup Manipur is the Department of Commerce and Industry, Government of Manipur.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5570671558380127,
+      "similarities": {
+        "ContextObjective": 0.48549357056617737,
+        "BenefitsAssistance": 0.40828177332878113,
+        "Eligibility": 0.46170735359191895,
+        "ApplicationProcess": 0.43740078806877136,
+        "TimelineFrequency": 0.4024767279624939,
+        "AuthoritiesGovernance": 0.5570671558380127,
+        "DefinitionsReferences": 0.4225105047225952
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the implementation of the scheme and providing support to startups.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5929340124130249,
+      "similarities": {
+        "ContextObjective": 0.5779198408126831,
+        "BenefitsAssistance": 0.5173779726028442,
+        "Eligibility": 0.5078897476196289,
+        "ApplicationProcess": 0.4937252104282379,
+        "TimelineFrequency": 0.4413753151893616,
+        "AuthoritiesGovernance": 0.5929340124130249,
+        "DefinitionsReferences": 0.4415282607078552
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Commerce and Industry can be found on the official government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5099830627441406,
+      "similarities": {
+        "ContextObjective": 0.43100041151046753,
+        "BenefitsAssistance": 0.47759079933166504,
+        "Eligibility": 0.42941296100616455,
+        "ApplicationProcess": 0.4902132749557495,
+        "TimelineFrequency": 0.4090687036514282,
+        "AuthoritiesGovernance": 0.5099830627441406,
+        "DefinitionsReferences": 0.49128952622413635
+      }
+    },
+    {
+      "sentence": "Startup Manipur also collaborates with various incubators and accelerators in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.43632832169532776,
+      "similarities": {
+        "ContextObjective": 0.43632832169532776,
+        "BenefitsAssistance": 0.3614795207977295,
+        "Eligibility": 0.39404988288879395,
+        "ApplicationProcess": 0.3525612950325012,
+        "TimelineFrequency": 0.3838508427143097,
+        "AuthoritiesGovernance": 0.36985331773757935,
+        "DefinitionsReferences": 0.3704821467399597
+      }
+    },
+    {
+      "sentence": "These partnerships aim to provide mentorship and guidance to startups.",
+      "role": "ContextObjective",
+      "confidence": 0.5035972595214844,
+      "similarities": {
+        "ContextObjective": 0.5035972595214844,
+        "BenefitsAssistance": 0.3797837197780609,
+        "Eligibility": 0.4337025284767151,
+        "ApplicationProcess": 0.3941934108734131,
+        "TimelineFrequency": 0.41348662972450256,
+        "AuthoritiesGovernance": 0.38904210925102234,
+        "DefinitionsReferences": 0.42875897884368896
+      }
+    },
+    {
+      "sentence": "The scheme encourages participation from various sectors including technology, agriculture, and handicrafts.",
+      "role": "ContextObjective",
+      "confidence": 0.5360426902770996,
+      "similarities": {
+        "ContextObjective": 0.5360426902770996,
+        "BenefitsAssistance": 0.4755678176879883,
+        "Eligibility": 0.5040707588195801,
+        "ApplicationProcess": 0.4691680669784546,
+        "TimelineFrequency": 0.4530780017375946,
+        "AuthoritiesGovernance": 0.45385754108428955,
+        "DefinitionsReferences": 0.4241879880428314
+      }
+    },
+    {
+      "sentence": "In addition to financial support, the initiative offers capacity-building programs for entrepreneurs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4831761419773102,
+      "similarities": {
+        "ContextObjective": 0.45575159788131714,
+        "BenefitsAssistance": 0.4831761419773102,
+        "Eligibility": 0.4256671071052551,
+        "ApplicationProcess": 0.3570386469364166,
+        "TimelineFrequency": 0.3797066807746887,
+        "AuthoritiesGovernance": 0.37698182463645935,
+        "DefinitionsReferences": 0.3956942856311798
+      }
+    },
+    {
+      "sentence": "Workshops and training sessions are conducted to enhance skills in business management and marketing.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4709429442882538,
+      "similarities": {
+        "ContextObjective": 0.4541066288948059,
+        "BenefitsAssistance": 0.41250520944595337,
+        "Eligibility": 0.41774874925613403,
+        "ApplicationProcess": 0.41185262799263,
+        "TimelineFrequency": 0.4443930685520172,
+        "AuthoritiesGovernance": 0.4709429442882538,
+        "DefinitionsReferences": 0.46530860662460327
+      }
+    },
+    {
+      "sentence": "Startup Manipur also facilitates networking opportunities for startups with investors and industry experts.",
+      "role": "ContextObjective",
+      "confidence": 0.4539211690425873,
+      "similarities": {
+        "ContextObjective": 0.4539211690425873,
+        "BenefitsAssistance": 0.3907056450843811,
+        "Eligibility": 0.403838574886322,
+        "ApplicationProcess": 0.3500228524208069,
+        "TimelineFrequency": 0.35029715299606323,
+        "AuthoritiesGovernance": 0.3794102072715759,
+        "DefinitionsReferences": 0.3576551675796509
+      }
+    },
+    {
+      "sentence": "The scheme has seen a positive response since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.6150096654891968,
+      "similarities": {
+        "ContextObjective": 0.6150096654891968,
+        "BenefitsAssistance": 0.4539380669593811,
+        "Eligibility": 0.4768108129501343,
+        "ApplicationProcess": 0.46069976687431335,
+        "TimelineFrequency": 0.4239627420902252,
+        "AuthoritiesGovernance": 0.43778616189956665,
+        "DefinitionsReferences": 0.40826842188835144
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 50 startups have been supported under the Startup Manipur initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.496914267539978,
+      "similarities": {
+        "ContextObjective": 0.496914267539978,
+        "BenefitsAssistance": 0.4336901307106018,
+        "Eligibility": 0.43176692724227905,
+        "ApplicationProcess": 0.39282143115997314,
+        "TimelineFrequency": 0.42806166410446167,
+        "AuthoritiesGovernance": 0.3809683322906494,
+        "DefinitionsReferences": 0.4056849479675293
+      }
+    },
+    {
+      "sentence": "These startups span diverse sectors such as information technology, food processing, and tourism.",
+      "role": "ContextObjective",
+      "confidence": 0.47874757647514343,
+      "similarities": {
+        "ContextObjective": 0.47874757647514343,
+        "BenefitsAssistance": 0.4285908639431,
+        "Eligibility": 0.44325268268585205,
+        "ApplicationProcess": 0.39807096123695374,
+        "TimelineFrequency": 0.44005075097084045,
+        "AuthoritiesGovernance": 0.3935718536376953,
+        "DefinitionsReferences": 0.41231173276901245
+      }
+    },
+    {
+      "sentence": "The government has reported that the initiative has contributed to the creation of approximately 2,500 jobs in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4035915732383728,
+      "similarities": {
+        "ContextObjective": 0.4035915732383728,
+        "BenefitsAssistance": 0.37860357761383057,
+        "Eligibility": 0.37141627073287964,
+        "ApplicationProcess": 0.35996976494789124,
+        "TimelineFrequency": 0.35584312677383423,
+        "AuthoritiesGovernance": 0.37416911125183105,
+        "DefinitionsReferences": 0.34852761030197144
+      }
+    },
+    {
+      "sentence": "Startup Manipur is part of a larger effort to promote economic development in the northeastern region.",
+      "role": "ContextObjective",
+      "confidence": 0.4428609013557434,
+      "similarities": {
+        "ContextObjective": 0.4428609013557434,
+        "BenefitsAssistance": 0.3665129542350769,
+        "Eligibility": 0.4053536057472229,
+        "ApplicationProcess": 0.3833025097846985,
+        "TimelineFrequency": 0.3776395916938782,
+        "AuthoritiesGovernance": 0.383339524269104,
+        "DefinitionsReferences": 0.34758180379867554
+      }
+    },
+    {
+      "sentence": "The government aims to position Manipur as a hub for innovation and entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.45964619517326355,
+      "similarities": {
+        "ContextObjective": 0.45964619517326355,
+        "BenefitsAssistance": 0.3336266279220581,
+        "Eligibility": 0.3961316645145416,
+        "ApplicationProcess": 0.375021368265152,
+        "TimelineFrequency": 0.3470602333545685,
+        "AuthoritiesGovernance": 0.4004250168800354,
+        "DefinitionsReferences": 0.36465248465538025
+      }
+    },
+    {
+      "sentence": "By supporting local startups, the initiative seeks to reduce unemployment and enhance the standard of living.",
+      "role": "ContextObjective",
+      "confidence": 0.46341681480407715,
+      "similarities": {
+        "ContextObjective": 0.46341681480407715,
+        "BenefitsAssistance": 0.399566650390625,
+        "Eligibility": 0.42207813262939453,
+        "ApplicationProcess": 0.3970127999782562,
+        "TimelineFrequency": 0.38280314207077026,
+        "AuthoritiesGovernance": 0.3938978910446167,
+        "DefinitionsReferences": 0.30879032611846924
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the national vision of promoting self-reliance through entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.571266770362854,
+      "similarities": {
+        "ContextObjective": 0.571266770362854,
+        "BenefitsAssistance": 0.385097861289978,
+        "Eligibility": 0.42121025919914246,
+        "ApplicationProcess": 0.38744592666625977,
+        "TimelineFrequency": 0.35581350326538086,
+        "AuthoritiesGovernance": 0.3457743525505066,
+        "DefinitionsReferences": 0.33781713247299194
+      }
+    },
+    {
+      "sentence": "In conclusion, Startup Manipur is a comprehensive initiative designed to empower entrepreneurs in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.47614458203315735,
+      "similarities": {
+        "ContextObjective": 0.47614458203315735,
+        "BenefitsAssistance": 0.3995516300201416,
+        "Eligibility": 0.40057969093322754,
+        "ApplicationProcess": 0.4018266201019287,
+        "TimelineFrequency": 0.36719071865081787,
+        "AuthoritiesGovernance": 0.3978879153728485,
+        "DefinitionsReferences": 0.3616948127746582
+      }
+    },
+    {
+      "sentence": "With financial support, mentorship, and training, the scheme aims to foster a vibrant startup ecosystem.",
+      "role": "ContextObjective",
+      "confidence": 0.5428510904312134,
+      "similarities": {
+        "ContextObjective": 0.5428510904312134,
+        "BenefitsAssistance": 0.4163685739040375,
+        "Eligibility": 0.42856696248054504,
+        "ApplicationProcess": 0.37493079900741577,
+        "TimelineFrequency": 0.3967151641845703,
+        "AuthoritiesGovernance": 0.35544124245643616,
+        "DefinitionsReferences": 0.3632412552833557
+      }
+    },
+    {
+      "sentence": "The initiative is a significant step towards economic growth and job creation in Manipur.",
+      "role": "ContextObjective",
+      "confidence": 0.41293686628341675,
+      "similarities": {
+        "ContextObjective": 0.41293686628341675,
+        "BenefitsAssistance": 0.35479602217674255,
+        "Eligibility": 0.35304754972457886,
+        "ApplicationProcess": 0.3535405695438385,
+        "TimelineFrequency": 0.3243635296821594,
+        "AuthoritiesGovernance": 0.32333308458328247,
+        "DefinitionsReferences": 0.324441522359848
+      }
+    },
+    {
+      "sentence": "For more information, interested individuals can visit the official Startup Manipur website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5186374187469482,
+      "similarities": {
+        "ContextObjective": 0.5104252099990845,
+        "BenefitsAssistance": 0.48601144552230835,
+        "Eligibility": 0.48081767559051514,
+        "ApplicationProcess": 0.5186374187469482,
+        "TimelineFrequency": 0.4400872588157654,
+        "AuthoritiesGovernance": 0.4172704815864563,
+        "DefinitionsReferences": 0.44054746627807617
+      }
+    },
+    {
+      "sentence": "The website provides detailed guidelines and updates on the application process and available resources.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6702300310134888,
+      "similarities": {
+        "ContextObjective": 0.5219260454177856,
+        "BenefitsAssistance": 0.5676239132881165,
+        "Eligibility": 0.6159217357635498,
+        "ApplicationProcess": 0.6702300310134888,
+        "TimelineFrequency": 0.6353690028190613,
+        "AuthoritiesGovernance": 0.5094826221466064,
+        "DefinitionsReferences": 0.5692323446273804
+      }
+    },
+    {
+      "sentence": "Overall, Startup Manipur represents a commitment by the government to nurture innovation and entrepreneurship in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.446940541267395,
+      "similarities": {
+        "ContextObjective": 0.446940541267395,
+        "BenefitsAssistance": 0.3438720703125,
+        "Eligibility": 0.4033416509628296,
+        "ApplicationProcess": 0.3914400637149811,
+        "TimelineFrequency": 0.39206019043922424,
+        "AuthoritiesGovernance": 0.39971962571144104,
+        "DefinitionsReferences": 0.36221012473106384
+      }
+    },
+    {
+      "sentence": "The initiative is expected to have a lasting impact on the economic landscape of Manipur.",
+      "role": "ContextObjective",
+      "confidence": 0.4297179579734802,
+      "similarities": {
+        "ContextObjective": 0.4297179579734802,
+        "BenefitsAssistance": 0.34684669971466064,
+        "Eligibility": 0.37475651502609253,
+        "ApplicationProcess": 0.3240479528903961,
+        "TimelineFrequency": 0.32430291175842285,
+        "AuthoritiesGovernance": 0.3534359931945801,
+        "DefinitionsReferences": 0.35124361515045166
+      }
+    },
+    {
+      "sentence": "By encouraging startups, the government aims to harness the potential of local talent and resources.",
+      "role": "ContextObjective",
+      "confidence": 0.4889090061187744,
+      "similarities": {
+        "ContextObjective": 0.4889090061187744,
+        "BenefitsAssistance": 0.3607003688812256,
+        "Eligibility": 0.4603251814842224,
+        "ApplicationProcess": 0.4036964178085327,
+        "TimelineFrequency": 0.40355032682418823,
+        "AuthoritiesGovernance": 0.42084503173828125,
+        "DefinitionsReferences": 0.38707852363586426
+      }
+    },
+    {
+      "sentence": "This initiative is a crucial component of the broader strategy to develop the northeastern states of India.",
+      "role": "ContextObjective",
+      "confidence": 0.4612147808074951,
+      "similarities": {
+        "ContextObjective": 0.4612147808074951,
+        "BenefitsAssistance": 0.34362512826919556,
+        "Eligibility": 0.4013543426990509,
+        "ApplicationProcess": 0.3700740337371826,
+        "TimelineFrequency": 0.3687654435634613,
+        "AuthoritiesGovernance": 0.3884117603302002,
+        "DefinitionsReferences": 0.366963267326355
+      }
+    },
+    {
+      "sentence": "Through Startup Manipur, the government is paving the way for a new generation of entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.46033474802970886,
+      "similarities": {
+        "ContextObjective": 0.46033474802970886,
+        "BenefitsAssistance": 0.3322182893753052,
+        "Eligibility": 0.4192515015602112,
+        "ApplicationProcess": 0.3942202627658844,
+        "TimelineFrequency": 0.3520408570766449,
+        "AuthoritiesGovernance": 0.3792227804660797,
+        "DefinitionsReferences": 0.3532862961292267
+      }
+    },
+    {
+      "sentence": "The focus on innovation and technology is expected to drive sustainable growth in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4199404716491699,
+      "similarities": {
+        "ContextObjective": 0.4199404716491699,
+        "BenefitsAssistance": 0.38980773091316223,
+        "Eligibility": 0.3729989528656006,
+        "ApplicationProcess": 0.3768305778503418,
+        "TimelineFrequency": 0.3657841086387634,
+        "AuthoritiesGovernance": 0.3635011911392212,
+        "DefinitionsReferences": 0.3608711361885071
+      }
+    },
+    {
+      "sentence": "As the initiative progresses, it will be essential to monitor its impact on the local economy and job market.",
+      "role": "ApplicationProcess",
+      "confidence": 0.45312708616256714,
+      "similarities": {
+        "ContextObjective": 0.4282151758670807,
+        "BenefitsAssistance": 0.4319779872894287,
+        "Eligibility": 0.44719454646110535,
+        "ApplicationProcess": 0.45312708616256714,
+        "TimelineFrequency": 0.4314323663711548,
+        "AuthoritiesGovernance": 0.43388935923576355,
+        "DefinitionsReferences": 0.39544957876205444
+      }
+    },
+    {
+      "sentence": "Startup Manipur is a promising step towards realizing the entrepreneurial aspirations of the youth in Manipur.",
+      "role": "ContextObjective",
+      "confidence": 0.5101652145385742,
+      "similarities": {
+        "ContextObjective": 0.5101652145385742,
+        "BenefitsAssistance": 0.3444889187812805,
+        "Eligibility": 0.4187334179878235,
+        "ApplicationProcess": 0.4067964553833008,
+        "TimelineFrequency": 0.39054304361343384,
+        "AuthoritiesGovernance": 0.35775282979011536,
+        "DefinitionsReferences": 0.357003778219223
+      }
+    },
+    {
+      "sentence": "The government remains committed to supporting startups and fostering a culture of innovation.",
+      "role": "ContextObjective",
+      "confidence": 0.4528425335884094,
+      "similarities": {
+        "ContextObjective": 0.4528425335884094,
+        "BenefitsAssistance": 0.3841891288757324,
+        "Eligibility": 0.38948261737823486,
+        "ApplicationProcess": 0.39259690046310425,
+        "TimelineFrequency": 0.37350597977638245,
+        "AuthoritiesGovernance": 0.4369910657405853,
+        "DefinitionsReferences": 0.3958607614040375
+      }
+    },
+    {
+      "sentence": "This initiative is a testament to the belief that entrepreneurship can transform lives and communities.",
+      "role": "ContextObjective",
+      "confidence": 0.4715820848941803,
+      "similarities": {
+        "ContextObjective": 0.4715820848941803,
+        "BenefitsAssistance": 0.3180007040500641,
+        "Eligibility": 0.38796931505203247,
+        "ApplicationProcess": 0.3434298634529114,
+        "TimelineFrequency": 0.3090152144432068,
+        "AuthoritiesGovernance": 0.34887030720710754,
+        "DefinitionsReferences": 0.32412755489349365
+      }
+    },
+    {
+      "sentence": "The future of Startup Manipur looks bright with ongoing support and resources for entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.5111703872680664,
+      "similarities": {
+        "ContextObjective": 0.5111703872680664,
+        "BenefitsAssistance": 0.46305662393569946,
+        "Eligibility": 0.4308054745197296,
+        "ApplicationProcess": 0.39307862520217896,
+        "TimelineFrequency": 0.4221424460411072,
+        "AuthoritiesGovernance": 0.39322715997695923,
+        "DefinitionsReferences": 0.4323594868183136
+      }
+    },
+    {
+      "sentence": "In summary, Startup Manipur is a vital scheme that embodies the spirit of entrepreneurship in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.5108006000518799,
+      "similarities": {
+        "ContextObjective": 0.5108006000518799,
+        "BenefitsAssistance": 0.3459520936012268,
+        "Eligibility": 0.3964613080024719,
+        "ApplicationProcess": 0.3635856509208679,
+        "TimelineFrequency": 0.3715970814228058,
+        "AuthoritiesGovernance": 0.3204922676086426,
+        "DefinitionsReferences": 0.3288406729698181
+      }
+    },
+    {
+      "sentence": "It offers a range of benefits and opportunities for aspiring entrepreneurs to thrive.",
+      "role": "ContextObjective",
+      "confidence": 0.5557527542114258,
+      "similarities": {
+        "ContextObjective": 0.5557527542114258,
+        "BenefitsAssistance": 0.4460582733154297,
+        "Eligibility": 0.5104491710662842,
+        "ApplicationProcess": 0.4248022437095642,
+        "TimelineFrequency": 0.4572826623916626,
+        "AuthoritiesGovernance": 0.36306482553482056,
+        "DefinitionsReferences": 0.440134197473526
+      }
+    },
+    {
+      "sentence": "The initiative is a significant driver of economic development and job creation in Manipur.",
+      "role": "ContextObjective",
+      "confidence": 0.4267840087413788,
+      "similarities": {
+        "ContextObjective": 0.4267840087413788,
+        "BenefitsAssistance": 0.33865195512771606,
+        "Eligibility": 0.36551332473754883,
+        "ApplicationProcess": 0.32663801312446594,
+        "TimelineFrequency": 0.3226722478866577,
+        "AuthoritiesGovernance": 0.33264121413230896,
+        "DefinitionsReferences": 0.3142573833465576
+      }
+    },
+    {
+      "sentence": "With continued support and investment, Startup Manipur has the potential to reshape the entrepreneurial landscape of the state.",
+      "role": "ContextObjective",
+      "confidence": 0.44419142603874207,
+      "similarities": {
+        "ContextObjective": 0.44419142603874207,
+        "BenefitsAssistance": 0.3777227997779846,
+        "Eligibility": 0.3730875849723816,
+        "ApplicationProcess": 0.33786749839782715,
+        "TimelineFrequency": 0.33472275733947754,
+        "AuthoritiesGovernance": 0.3387546241283417,
+        "DefinitionsReferences": 0.36284130811691284
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 40,
+    "Eligibility": 6,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:41:00.759889"
+}

@@ -1,0 +1,772 @@
+{
+  "scheme_name": "Medical Assistance (A.B.O.C.W.W.B)",
+  "total_sentences": 54,
+  "labeled_sentences": [
+    {
+      "sentence": "The Medical Assistance Scheme under the A.B.O.C.W.W.B. stands for the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4782579839229584,
+      "similarities": {
+        "ContextObjective": 0.45603203773498535,
+        "BenefitsAssistance": 0.4782579839229584,
+        "Eligibility": 0.46173903346061707,
+        "ApplicationProcess": 0.41344088315963745,
+        "TimelineFrequency": 0.42563891410827637,
+        "AuthoritiesGovernance": 0.41822680830955505,
+        "DefinitionsReferences": 0.42044028639793396
+      }
+    },
+    {
+      "sentence": "This scheme was launched to provide financial assistance for medical treatment to registered construction workers and their dependents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5176066160202026,
+      "similarities": {
+        "ContextObjective": 0.4739554226398468,
+        "BenefitsAssistance": 0.5176066160202026,
+        "Eligibility": 0.48095816373825073,
+        "ApplicationProcess": 0.41196590662002563,
+        "TimelineFrequency": 0.3902859091758728,
+        "AuthoritiesGovernance": 0.3834156095981598,
+        "DefinitionsReferences": 0.33502742648124695
+      }
+    },
+    {
+      "sentence": "The scheme was initiated in the year 2017.",
+      "role": "ContextObjective",
+      "confidence": 0.626919150352478,
+      "similarities": {
+        "ContextObjective": 0.626919150352478,
+        "BenefitsAssistance": 0.48324713110923767,
+        "Eligibility": 0.5133525133132935,
+        "ApplicationProcess": 0.5263333916664124,
+        "TimelineFrequency": 0.4956314265727997,
+        "AuthoritiesGovernance": 0.46083810925483704,
+        "DefinitionsReferences": 0.4070819020271301
+      }
+    },
+    {
+      "sentence": "The primary objective of the Medical Assistance Scheme is to ensure that construction workers have access to necessary medical treatment without financial burden.",
+      "role": "ContextObjective",
+      "confidence": 0.5045075416564941,
+      "similarities": {
+        "ContextObjective": 0.5045075416564941,
+        "BenefitsAssistance": 0.48114925622940063,
+        "Eligibility": 0.44108808040618896,
+        "ApplicationProcess": 0.41389045119285583,
+        "TimelineFrequency": 0.36381277441978455,
+        "AuthoritiesGovernance": 0.37755852937698364,
+        "DefinitionsReferences": 0.31856030225753784
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide financial assistance for various medical conditions including surgeries, hospitalizations, and other health-related issues.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6089184880256653,
+      "similarities": {
+        "ContextObjective": 0.5561649203300476,
+        "BenefitsAssistance": 0.6089184880256653,
+        "Eligibility": 0.5642656087875366,
+        "ApplicationProcess": 0.49339449405670166,
+        "TimelineFrequency": 0.48132434487342834,
+        "AuthoritiesGovernance": 0.45276203751564026,
+        "DefinitionsReferences": 0.4189378619194031
+      }
+    },
+    {
+      "sentence": "The specific target is to cover the medical expenses of construction workers and their families who are registered under the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5303235054016113,
+      "similarities": {
+        "ContextObjective": 0.437128484249115,
+        "BenefitsAssistance": 0.5303235054016113,
+        "Eligibility": 0.48876819014549255,
+        "ApplicationProcess": 0.40107762813568115,
+        "TimelineFrequency": 0.39556652307510376,
+        "AuthoritiesGovernance": 0.4109812080860138,
+        "DefinitionsReferences": 0.37040311098098755
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries under this scheme include registered construction workers who have contributed to the welfare fund.",
+      "role": "Eligibility",
+      "confidence": 0.5390167832374573,
+      "similarities": {
+        "ContextObjective": 0.4280220568180084,
+        "BenefitsAssistance": 0.43513262271881104,
+        "Eligibility": 0.5390167832374573,
+        "ApplicationProcess": 0.3889417052268982,
+        "TimelineFrequency": 0.3673551082611084,
+        "AuthoritiesGovernance": 0.3815036416053772,
+        "DefinitionsReferences": 0.33259618282318115
+      }
+    },
+    {
+      "sentence": "The age limit for eligibility is typically 18 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.6402316093444824,
+      "similarities": {
+        "ContextObjective": 0.4982377290725708,
+        "BenefitsAssistance": 0.5156320333480835,
+        "Eligibility": 0.6402316093444824,
+        "ApplicationProcess": 0.550108790397644,
+        "TimelineFrequency": 0.5428479313850403,
+        "AuthoritiesGovernance": 0.4177996516227722,
+        "DefinitionsReferences": 0.43986111879348755
+      }
+    },
+    {
+      "sentence": "There is no specific income ceiling mentioned for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5254093408584595,
+      "similarities": {
+        "ContextObjective": 0.4578964114189148,
+        "BenefitsAssistance": 0.44673585891723633,
+        "Eligibility": 0.5254093408584595,
+        "ApplicationProcess": 0.39369437098503113,
+        "TimelineFrequency": 0.3996269106864929,
+        "AuthoritiesGovernance": 0.33069807291030884,
+        "DefinitionsReferences": 0.2984725832939148
+      }
+    },
+    {
+      "sentence": "However, applicants must be registered with the A.B.O.C.W.W.B. to avail of the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.5517219305038452,
+      "similarities": {
+        "ContextObjective": 0.3999703526496887,
+        "BenefitsAssistance": 0.437325119972229,
+        "Eligibility": 0.5517219305038452,
+        "ApplicationProcess": 0.5475250482559204,
+        "TimelineFrequency": 0.4854002296924591,
+        "AuthoritiesGovernance": 0.40551868081092834,
+        "DefinitionsReferences": 0.42207998037338257
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is up to INR 1 lakh for medical treatment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5534228682518005,
+      "similarities": {
+        "ContextObjective": 0.4241073727607727,
+        "BenefitsAssistance": 0.5534228682518005,
+        "Eligibility": 0.46236109733581543,
+        "ApplicationProcess": 0.4024566113948822,
+        "TimelineFrequency": 0.3653355836868286,
+        "AuthoritiesGovernance": 0.3740410804748535,
+        "DefinitionsReferences": 0.3454204797744751
+      }
+    },
+    {
+      "sentence": "This amount can be utilized for various medical expenses including hospitalization, surgeries, and other necessary treatments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.618417501449585,
+      "similarities": {
+        "ContextObjective": 0.40875566005706787,
+        "BenefitsAssistance": 0.618417501449585,
+        "Eligibility": 0.46917811036109924,
+        "ApplicationProcess": 0.43820202350616455,
+        "TimelineFrequency": 0.45190638303756714,
+        "AuthoritiesGovernance": 0.39663952589035034,
+        "DefinitionsReferences": 0.4594942331314087
+      }
+    },
+    {
+      "sentence": "The assistance is provided on a reimbursement basis after the treatment has been completed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5770580768585205,
+      "similarities": {
+        "ContextObjective": 0.4460803270339966,
+        "BenefitsAssistance": 0.5770580768585205,
+        "Eligibility": 0.5021147727966309,
+        "ApplicationProcess": 0.4928279221057892,
+        "TimelineFrequency": 0.47355884313583374,
+        "AuthoritiesGovernance": 0.4853733479976654,
+        "DefinitionsReferences": 0.4371648132801056
+      }
+    },
+    {
+      "sentence": "To apply for the Medical Assistance Scheme, the applicant must follow a specific process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6795084476470947,
+      "similarities": {
+        "ContextObjective": 0.5468922853469849,
+        "BenefitsAssistance": 0.546316385269165,
+        "Eligibility": 0.6458592414855957,
+        "ApplicationProcess": 0.6795084476470947,
+        "TimelineFrequency": 0.5665793418884277,
+        "AuthoritiesGovernance": 0.48730069398880005,
+        "DefinitionsReferences": 0.4384448528289795
+      }
+    },
+    {
+      "sentence": "The first step is to obtain the application form which can be downloaded from the official website of the A.B.O.C.W.W.B.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6567448377609253,
+      "similarities": {
+        "ContextObjective": 0.45712214708328247,
+        "BenefitsAssistance": 0.42748507857322693,
+        "Eligibility": 0.5085310935974121,
+        "ApplicationProcess": 0.6567448377609253,
+        "TimelineFrequency": 0.4834790825843811,
+        "AuthoritiesGovernance": 0.4109734892845154,
+        "DefinitionsReferences": 0.43134304881095886
+      }
+    },
+    {
+      "sentence": "The applicant must fill out the form with accurate details including personal information and details of the medical condition.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6725900173187256,
+      "similarities": {
+        "ContextObjective": 0.4798901081085205,
+        "BenefitsAssistance": 0.5873485803604126,
+        "Eligibility": 0.6155612468719482,
+        "ApplicationProcess": 0.6725900173187256,
+        "TimelineFrequency": 0.5540664196014404,
+        "AuthoritiesGovernance": 0.4520374834537506,
+        "DefinitionsReferences": 0.4861660599708557
+      }
+    },
+    {
+      "sentence": "Along with the application form, the applicant must submit certain documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7598513960838318,
+      "similarities": {
+        "ContextObjective": 0.5247284770011902,
+        "BenefitsAssistance": 0.563023567199707,
+        "Eligibility": 0.6439783573150635,
+        "ApplicationProcess": 0.7598513960838318,
+        "TimelineFrequency": 0.6336647272109985,
+        "AuthoritiesGovernance": 0.49041682481765747,
+        "DefinitionsReferences": 0.5627439022064209
+      }
+    },
+    {
+      "sentence": "These documents typically include a copy of the worker's registration certificate with the A.B.O.C.W.W.B.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5165449380874634,
+      "similarities": {
+        "ContextObjective": 0.38758641481399536,
+        "BenefitsAssistance": 0.44809818267822266,
+        "Eligibility": 0.3860461115837097,
+        "ApplicationProcess": 0.4832797646522522,
+        "TimelineFrequency": 0.4124477505683899,
+        "AuthoritiesGovernance": 0.37601882219314575,
+        "DefinitionsReferences": 0.5165449380874634
+      }
+    },
+    {
+      "sentence": "A medical certificate from a registered medical practitioner is also required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5202416181564331,
+      "similarities": {
+        "ContextObjective": 0.4094045162200928,
+        "BenefitsAssistance": 0.44891661405563354,
+        "Eligibility": 0.4675481617450714,
+        "ApplicationProcess": 0.5202416181564331,
+        "TimelineFrequency": 0.4255877733230591,
+        "AuthoritiesGovernance": 0.39976823329925537,
+        "DefinitionsReferences": 0.43791091442108154
+      }
+    },
+    {
+      "sentence": "Additionally, the applicant must provide hospital discharge summary and bills related to the medical treatment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.612606406211853,
+      "similarities": {
+        "ContextObjective": 0.4343388080596924,
+        "BenefitsAssistance": 0.612606406211853,
+        "Eligibility": 0.5454759001731873,
+        "ApplicationProcess": 0.5659379959106445,
+        "TimelineFrequency": 0.5293674468994141,
+        "AuthoritiesGovernance": 0.4482766091823578,
+        "DefinitionsReferences": 0.44592931866645813
+      }
+    },
+    {
+      "sentence": "Once the application form and documents are ready, the applicant must submit them to the nearest A.B.O.C.W.W.B. office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6499732732772827,
+      "similarities": {
+        "ContextObjective": 0.4099171459674835,
+        "BenefitsAssistance": 0.4206043481826782,
+        "Eligibility": 0.5351861715316772,
+        "ApplicationProcess": 0.6499732732772827,
+        "TimelineFrequency": 0.504117488861084,
+        "AuthoritiesGovernance": 0.4339468777179718,
+        "DefinitionsReferences": 0.4180164635181427
+      }
+    },
+    {
+      "sentence": "The application can also be submitted online through the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7100350260734558,
+      "similarities": {
+        "ContextObjective": 0.4683174192905426,
+        "BenefitsAssistance": 0.4698408544063568,
+        "Eligibility": 0.5514096617698669,
+        "ApplicationProcess": 0.7100350260734558,
+        "TimelineFrequency": 0.5569331645965576,
+        "AuthoritiesGovernance": 0.455178439617157,
+        "DefinitionsReferences": 0.4594636857509613
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6928691864013672,
+      "similarities": {
+        "ContextObjective": 0.5195109248161316,
+        "BenefitsAssistance": 0.46513882279396057,
+        "Eligibility": 0.599595308303833,
+        "ApplicationProcess": 0.6928691864013672,
+        "TimelineFrequency": 0.5777101516723633,
+        "AuthoritiesGovernance": 0.5179823637008667,
+        "DefinitionsReferences": 0.49028652906417847
+      }
+    },
+    {
+      "sentence": "The processing time for the application is generally around 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6343916654586792,
+      "similarities": {
+        "ContextObjective": 0.46789664030075073,
+        "BenefitsAssistance": 0.4931318163871765,
+        "Eligibility": 0.5551142692565918,
+        "ApplicationProcess": 0.6291633248329163,
+        "TimelineFrequency": 0.6343916654586792,
+        "AuthoritiesGovernance": 0.46383923292160034,
+        "DefinitionsReferences": 0.4477831721305847
+      }
+    },
+    {
+      "sentence": "Upon approval, the financial assistance amount will be disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5583904981613159,
+      "similarities": {
+        "ContextObjective": 0.3877341151237488,
+        "BenefitsAssistance": 0.5583904981613159,
+        "Eligibility": 0.5257983207702637,
+        "ApplicationProcess": 0.5252182483673096,
+        "TimelineFrequency": 0.4548409581184387,
+        "AuthoritiesGovernance": 0.4190901815891266,
+        "DefinitionsReferences": 0.3556567430496216
+      }
+    },
+    {
+      "sentence": "The disbursement is typically done through electronic transfer to ensure timely delivery of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5624569654464722,
+      "similarities": {
+        "ContextObjective": 0.43885257840156555,
+        "BenefitsAssistance": 0.5624569654464722,
+        "Eligibility": 0.4972851872444153,
+        "ApplicationProcess": 0.5064159631729126,
+        "TimelineFrequency": 0.47968506813049316,
+        "AuthoritiesGovernance": 0.46550869941711426,
+        "DefinitionsReferences": 0.40968385338783264
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4919523000717163,
+      "similarities": {
+        "ContextObjective": 0.4837351143360138,
+        "BenefitsAssistance": 0.44537150859832764,
+        "Eligibility": 0.45468828082084656,
+        "ApplicationProcess": 0.43237072229385376,
+        "TimelineFrequency": 0.38794684410095215,
+        "AuthoritiesGovernance": 0.4919523000717163,
+        "DefinitionsReferences": 0.36122292280197144
+      }
+    },
+    {
+      "sentence": "This board operates under the Department of Labour and Employment of the Government of Andhra Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5113265514373779,
+      "similarities": {
+        "ContextObjective": 0.4169188439846039,
+        "BenefitsAssistance": 0.42743614315986633,
+        "Eligibility": 0.453614205121994,
+        "ApplicationProcess": 0.43599289655685425,
+        "TimelineFrequency": 0.4111160635948181,
+        "AuthoritiesGovernance": 0.5113265514373779,
+        "DefinitionsReferences": 0.3889177441596985
+      }
+    },
+    {
+      "sentence": "For any queries regarding the scheme, beneficiaries can contact the A.B.O.C.W.W.B. office directly.",
+      "role": "Eligibility",
+      "confidence": 0.4911837875843048,
+      "similarities": {
+        "ContextObjective": 0.43993231654167175,
+        "BenefitsAssistance": 0.47013938426971436,
+        "Eligibility": 0.4911837875843048,
+        "ApplicationProcess": 0.4552501142024994,
+        "TimelineFrequency": 0.3628091812133789,
+        "AuthoritiesGovernance": 0.4181465804576874,
+        "DefinitionsReferences": 0.3477340638637543
+      }
+    },
+    {
+      "sentence": "The contact details including phone numbers and email addresses are available on the official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5773782730102539,
+      "similarities": {
+        "ContextObjective": 0.4593195915222168,
+        "BenefitsAssistance": 0.5471839904785156,
+        "Eligibility": 0.5068849325180054,
+        "ApplicationProcess": 0.557787299156189,
+        "TimelineFrequency": 0.4773906469345093,
+        "AuthoritiesGovernance": 0.5773782730102539,
+        "DefinitionsReferences": 0.5538758635520935
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Government of Andhra Pradesh to support the welfare of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4694597125053406,
+      "similarities": {
+        "ContextObjective": 0.4694597125053406,
+        "BenefitsAssistance": 0.4479558765888214,
+        "Eligibility": 0.4391510486602783,
+        "ApplicationProcess": 0.3967337906360626,
+        "TimelineFrequency": 0.3729144334793091,
+        "AuthoritiesGovernance": 0.41739577054977417,
+        "DefinitionsReferences": 0.3600861430168152
+      }
+    },
+    {
+      "sentence": "The government recognizes the challenges faced by construction workers in accessing healthcare.",
+      "role": "Eligibility",
+      "confidence": 0.45951148867607117,
+      "similarities": {
+        "ContextObjective": 0.36207032203674316,
+        "BenefitsAssistance": 0.44395875930786133,
+        "Eligibility": 0.45951148867607117,
+        "ApplicationProcess": 0.4222610890865326,
+        "TimelineFrequency": 0.38071221113204956,
+        "AuthoritiesGovernance": 0.43023881316185,
+        "DefinitionsReferences": 0.36171942949295044
+      }
+    },
+    {
+      "sentence": "As of October 2023, the A.B.O.C.W.W.B. has registered over 1.5 million construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.3832155466079712,
+      "similarities": {
+        "ContextObjective": 0.3832155466079712,
+        "BenefitsAssistance": 0.37639319896698,
+        "Eligibility": 0.380370557308197,
+        "ApplicationProcess": 0.3750566840171814,
+        "TimelineFrequency": 0.36632436513900757,
+        "AuthoritiesGovernance": 0.35926908254623413,
+        "DefinitionsReferences": 0.36647191643714905
+      }
+    },
+    {
+      "sentence": "This large number indicates the significant impact of the welfare board in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43678075075149536,
+      "similarities": {
+        "ContextObjective": 0.3633783161640167,
+        "BenefitsAssistance": 0.43678075075149536,
+        "Eligibility": 0.4118192791938782,
+        "ApplicationProcess": 0.3387577533721924,
+        "TimelineFrequency": 0.3226430416107178,
+        "AuthoritiesGovernance": 0.3825015425682068,
+        "DefinitionsReferences": 0.39168116450309753
+      }
+    },
+    {
+      "sentence": "The Medical Assistance Scheme is one of several initiatives aimed at improving the living standards of construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49901875853538513,
+      "similarities": {
+        "ContextObjective": 0.48661375045776367,
+        "BenefitsAssistance": 0.49901875853538513,
+        "Eligibility": 0.4502124488353729,
+        "ApplicationProcess": 0.42040419578552246,
+        "TimelineFrequency": 0.40441834926605225,
+        "AuthoritiesGovernance": 0.4385427236557007,
+        "DefinitionsReferences": 0.37503311038017273
+      }
+    },
+    {
+      "sentence": "The scheme is designed to alleviate the financial strain caused by medical emergencies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5531774759292603,
+      "similarities": {
+        "ContextObjective": 0.5028344392776489,
+        "BenefitsAssistance": 0.5531774759292603,
+        "Eligibility": 0.4758317172527313,
+        "ApplicationProcess": 0.4278528690338135,
+        "TimelineFrequency": 0.4280906021595001,
+        "AuthoritiesGovernance": 0.3929663896560669,
+        "DefinitionsReferences": 0.36004263162612915
+      }
+    },
+    {
+      "sentence": "It is important for beneficiaries to keep their registration updated with the A.B.O.C.W.W.B. to ensure continued eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.599117636680603,
+      "similarities": {
+        "ContextObjective": 0.4636155962944031,
+        "BenefitsAssistance": 0.5294320583343506,
+        "Eligibility": 0.599117636680603,
+        "ApplicationProcess": 0.5266956090927124,
+        "TimelineFrequency": 0.5246179103851318,
+        "AuthoritiesGovernance": 0.4532715082168579,
+        "DefinitionsReferences": 0.45428037643432617
+      }
+    },
+    {
+      "sentence": "The board regularly conducts awareness programs to inform workers about the benefits available under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5048041343688965,
+      "similarities": {
+        "ContextObjective": 0.5048041343688965,
+        "BenefitsAssistance": 0.4718689024448395,
+        "Eligibility": 0.4678928852081299,
+        "ApplicationProcess": 0.4530796408653259,
+        "TimelineFrequency": 0.42995449900627136,
+        "AuthoritiesGovernance": 0.42565637826919556,
+        "DefinitionsReferences": 0.4092906713485718
+      }
+    },
+    {
+      "sentence": "These programs are aimed at educating workers on how to access medical assistance effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4958949685096741,
+      "similarities": {
+        "ContextObjective": 0.4700719714164734,
+        "BenefitsAssistance": 0.4958949685096741,
+        "Eligibility": 0.4821251630783081,
+        "ApplicationProcess": 0.47026151418685913,
+        "TimelineFrequency": 0.45379775762557983,
+        "AuthoritiesGovernance": 0.48581239581108093,
+        "DefinitionsReferences": 0.4011595845222473
+      }
+    },
+    {
+      "sentence": "The government has allocated a substantial budget for the welfare of construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48127076029777527,
+      "similarities": {
+        "ContextObjective": 0.4009142220020294,
+        "BenefitsAssistance": 0.48127076029777527,
+        "Eligibility": 0.4230613708496094,
+        "ApplicationProcess": 0.35389280319213867,
+        "TimelineFrequency": 0.35912784934043884,
+        "AuthoritiesGovernance": 0.4133686125278473,
+        "DefinitionsReferences": 0.3668363094329834
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the allocation for the A.B.O.C.W.W.B. was approximately INR 200 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.454917311668396,
+      "similarities": {
+        "ContextObjective": 0.42854970693588257,
+        "BenefitsAssistance": 0.454917311668396,
+        "Eligibility": 0.44149351119995117,
+        "ApplicationProcess": 0.3606102168560028,
+        "TimelineFrequency": 0.3992483615875244,
+        "AuthoritiesGovernance": 0.34950852394104004,
+        "DefinitionsReferences": 0.38015878200531006
+      }
+    },
+    {
+      "sentence": "This budget supports various welfare schemes including the Medical Assistance Scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.578934907913208,
+      "similarities": {
+        "ContextObjective": 0.45306718349456787,
+        "BenefitsAssistance": 0.578934907913208,
+        "Eligibility": 0.43364405632019043,
+        "ApplicationProcess": 0.35103175044059753,
+        "TimelineFrequency": 0.37951749563217163,
+        "AuthoritiesGovernance": 0.4002910256385803,
+        "DefinitionsReferences": 0.38203415274620056
+      }
+    },
+    {
+      "sentence": "The government also encourages construction workers to participate in skill development programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.42789924144744873,
+      "similarities": {
+        "ContextObjective": 0.41361990571022034,
+        "BenefitsAssistance": 0.3930007517337799,
+        "Eligibility": 0.4126458764076233,
+        "ApplicationProcess": 0.4194154739379883,
+        "TimelineFrequency": 0.39129745960235596,
+        "AuthoritiesGovernance": 0.42789924144744873,
+        "DefinitionsReferences": 0.40163519978523254
+      }
+    },
+    {
+      "sentence": "These programs aim to enhance the employability of workers in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.48591309785842896,
+      "similarities": {
+        "ContextObjective": 0.48591309785842896,
+        "BenefitsAssistance": 0.3820450007915497,
+        "Eligibility": 0.46134865283966064,
+        "ApplicationProcess": 0.43407779932022095,
+        "TimelineFrequency": 0.44000715017318726,
+        "AuthoritiesGovernance": 0.4166765511035919,
+        "DefinitionsReferences": 0.36547255516052246
+      }
+    },
+    {
+      "sentence": "The Medical Assistance Scheme is a crucial component of the overall welfare strategy for construction workers in Andhra Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49158403277397156,
+      "similarities": {
+        "ContextObjective": 0.4430743455886841,
+        "BenefitsAssistance": 0.49158403277397156,
+        "Eligibility": 0.43054986000061035,
+        "ApplicationProcess": 0.39998021721839905,
+        "TimelineFrequency": 0.3833580017089844,
+        "AuthoritiesGovernance": 0.4180443286895752,
+        "DefinitionsReferences": 0.3670124411582947
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial support but also promotes health awareness among workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5201596617698669,
+      "similarities": {
+        "ContextObjective": 0.48058652877807617,
+        "BenefitsAssistance": 0.5201596617698669,
+        "Eligibility": 0.44270291924476624,
+        "ApplicationProcess": 0.400762140750885,
+        "TimelineFrequency": 0.3650903105735779,
+        "AuthoritiesGovernance": 0.36719268560409546,
+        "DefinitionsReferences": 0.3546496033668518
+      }
+    },
+    {
+      "sentence": "The government aims to reduce the out-of-pocket expenditure on health for construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44889557361602783,
+      "similarities": {
+        "ContextObjective": 0.35391223430633545,
+        "BenefitsAssistance": 0.44889557361602783,
+        "Eligibility": 0.3746604025363922,
+        "ApplicationProcess": 0.37677282094955444,
+        "TimelineFrequency": 0.330056369304657,
+        "AuthoritiesGovernance": 0.39157670736312866,
+        "DefinitionsReferences": 0.31872642040252686
+      }
+    },
+    {
+      "sentence": "This initiative is aligned with the national goal of achieving Universal Health Coverage.",
+      "role": "ContextObjective",
+      "confidence": 0.47638779878616333,
+      "similarities": {
+        "ContextObjective": 0.47638779878616333,
+        "BenefitsAssistance": 0.4594682455062866,
+        "Eligibility": 0.4548058807849884,
+        "ApplicationProcess": 0.4119340181350708,
+        "TimelineFrequency": 0.361198365688324,
+        "AuthoritiesGovernance": 0.43609362840652466,
+        "DefinitionsReferences": 0.36342138051986694
+      }
+    },
+    {
+      "sentence": "The A.B.O.C.W.W.B. continues to monitor the implementation of the scheme to ensure that benefits reach the intended beneficiaries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4903338849544525,
+      "similarities": {
+        "ContextObjective": 0.46299540996551514,
+        "BenefitsAssistance": 0.4596219062805176,
+        "Eligibility": 0.48788022994995117,
+        "ApplicationProcess": 0.4314589500427246,
+        "TimelineFrequency": 0.376167356967926,
+        "AuthoritiesGovernance": 0.4903338849544525,
+        "DefinitionsReferences": 0.3892444968223572
+      }
+    },
+    {
+      "sentence": "Regular audits and assessments are conducted to evaluate the effectiveness of the Medical Assistance Scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5181208252906799,
+      "similarities": {
+        "ContextObjective": 0.4780305325984955,
+        "BenefitsAssistance": 0.5181208252906799,
+        "Eligibility": 0.4731292724609375,
+        "ApplicationProcess": 0.4824337363243103,
+        "TimelineFrequency": 0.44773298501968384,
+        "AuthoritiesGovernance": 0.47192472219467163,
+        "DefinitionsReferences": 0.4264615774154663
+      }
+    },
+    {
+      "sentence": "The government is committed to improving the health outcomes of construction workers through this initiative.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.41853857040405273,
+      "similarities": {
+        "ContextObjective": 0.3713439702987671,
+        "BenefitsAssistance": 0.37495678663253784,
+        "Eligibility": 0.38031941652297974,
+        "ApplicationProcess": 0.3945201635360718,
+        "TimelineFrequency": 0.3433520793914795,
+        "AuthoritiesGovernance": 0.41853857040405273,
+        "DefinitionsReferences": 0.3407013714313507
+      }
+    },
+    {
+      "sentence": "In conclusion, the Medical Assistance Scheme under the A.B.O.C.W.W.B. is a vital support system for construction workers in Andhra Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4592576324939728,
+      "similarities": {
+        "ContextObjective": 0.4331071972846985,
+        "BenefitsAssistance": 0.4592576324939728,
+        "Eligibility": 0.41249746084213257,
+        "ApplicationProcess": 0.37108471989631653,
+        "TimelineFrequency": 0.35220563411712646,
+        "AuthoritiesGovernance": 0.3720334470272064,
+        "DefinitionsReferences": 0.3717138469219208
+      }
+    },
+    {
+      "sentence": "It provides necessary financial assistance for medical treatment ensuring that workers can access healthcare without financial distress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5511354207992554,
+      "similarities": {
+        "ContextObjective": 0.41696107387542725,
+        "BenefitsAssistance": 0.5511354207992554,
+        "Eligibility": 0.4848799705505371,
+        "ApplicationProcess": 0.44099855422973633,
+        "TimelineFrequency": 0.3835686445236206,
+        "AuthoritiesGovernance": 0.3864282965660095,
+        "DefinitionsReferences": 0.35480377078056335
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to the welfare of construction workers and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.46132758259773254,
+      "similarities": {
+        "ContextObjective": 0.46132758259773254,
+        "BenefitsAssistance": 0.4374203383922577,
+        "Eligibility": 0.4535633623600006,
+        "ApplicationProcess": 0.40556612610816956,
+        "TimelineFrequency": 0.3677065968513489,
+        "AuthoritiesGovernance": 0.3883608281612396,
+        "DefinitionsReferences": 0.36394399404525757
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 23,
+    "ContextObjective": 8,
+    "Eligibility": 7,
+    "ApplicationProcess": 8,
+    "DefinitionsReferences": 1,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-25T20:34:54.625063"
+}

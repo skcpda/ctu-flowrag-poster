@@ -1,0 +1,840 @@
+{
+  "scheme_name": "Anganwadi Workers Welfare Fund",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Anganwadi Workers Welfare Fund is a significant initiative launched by the Government of India to support the welfare of Anganwadi workers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4804649353027344,
+      "similarities": {
+        "ContextObjective": 0.4804649353027344,
+        "BenefitsAssistance": 0.4631638824939728,
+        "Eligibility": 0.47173306345939636,
+        "ApplicationProcess": 0.3816535472869873,
+        "TimelineFrequency": 0.3806847333908081,
+        "AuthoritiesGovernance": 0.4631538391113281,
+        "DefinitionsReferences": 0.376509428024292
+      }
+    },
+    {
+      "sentence": "This scheme was officially announced in the year 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5713129043579102,
+      "similarities": {
+        "ContextObjective": 0.5713129043579102,
+        "BenefitsAssistance": 0.45780494809150696,
+        "Eligibility": 0.46850401163101196,
+        "ApplicationProcess": 0.47121375799179077,
+        "TimelineFrequency": 0.4671127498149872,
+        "AuthoritiesGovernance": 0.4470307230949402,
+        "DefinitionsReferences": 0.3721916675567627
+      }
+    },
+    {
+      "sentence": "The primary objective of the Anganwadi Workers Welfare Fund is to provide financial assistance and social security benefits to Anganwadi workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5064668655395508,
+      "similarities": {
+        "ContextObjective": 0.5064668655395508,
+        "BenefitsAssistance": 0.4961036145687103,
+        "Eligibility": 0.47149014472961426,
+        "ApplicationProcess": 0.39950430393218994,
+        "TimelineFrequency": 0.3743792772293091,
+        "AuthoritiesGovernance": 0.4285951256752014,
+        "DefinitionsReferences": 0.35758695006370544
+      }
+    },
+    {
+      "sentence": "Anganwadi workers play a crucial role in the Integrated Child Development Services program.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45270872116088867,
+      "similarities": {
+        "ContextObjective": 0.43813303112983704,
+        "BenefitsAssistance": 0.4155159592628479,
+        "Eligibility": 0.4379875659942627,
+        "ApplicationProcess": 0.38880327343940735,
+        "TimelineFrequency": 0.37971043586730957,
+        "AuthoritiesGovernance": 0.45270872116088867,
+        "DefinitionsReferences": 0.3712901771068573
+      }
+    },
+    {
+      "sentence": "They are responsible for delivering essential health and nutrition services to children under the age of six and to pregnant and lactating women.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4636455774307251,
+      "similarities": {
+        "ContextObjective": 0.40264949202537537,
+        "BenefitsAssistance": 0.4213946461677551,
+        "Eligibility": 0.4610178768634796,
+        "ApplicationProcess": 0.3966650366783142,
+        "TimelineFrequency": 0.39758771657943726,
+        "AuthoritiesGovernance": 0.4636455774307251,
+        "DefinitionsReferences": 0.3689466714859009
+      }
+    },
+    {
+      "sentence": "The welfare fund aims to recognize their efforts and provide them with a safety net.",
+      "role": "Eligibility",
+      "confidence": 0.5073448419570923,
+      "similarities": {
+        "ContextObjective": 0.44624173641204834,
+        "BenefitsAssistance": 0.48795437812805176,
+        "Eligibility": 0.5073448419570923,
+        "ApplicationProcess": 0.3949549198150635,
+        "TimelineFrequency": 0.34357166290283203,
+        "AuthoritiesGovernance": 0.4224937856197357,
+        "DefinitionsReferences": 0.33547043800354004
+      }
+    },
+    {
+      "sentence": "The Government of India has allocated a budget of ₹1,000 crores for the establishment of this fund.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4521651566028595,
+      "similarities": {
+        "ContextObjective": 0.4476824998855591,
+        "BenefitsAssistance": 0.4521651566028595,
+        "Eligibility": 0.44730255007743835,
+        "ApplicationProcess": 0.36257487535476685,
+        "TimelineFrequency": 0.3453236520290375,
+        "AuthoritiesGovernance": 0.41098877787590027,
+        "DefinitionsReferences": 0.33906078338623047
+      }
+    },
+    {
+      "sentence": "The fund is designed to provide various benefits including financial assistance for medical emergencies, educational support for their children, and retirement benefits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6094560623168945,
+      "similarities": {
+        "ContextObjective": 0.47348594665527344,
+        "BenefitsAssistance": 0.6094560623168945,
+        "Eligibility": 0.5197322368621826,
+        "ApplicationProcess": 0.40569865703582764,
+        "TimelineFrequency": 0.426606148481369,
+        "AuthoritiesGovernance": 0.42064565420150757,
+        "DefinitionsReferences": 0.3995402157306671
+      }
+    },
+    {
+      "sentence": "One of the key benefits includes a one-time financial assistance of ₹50,000 for medical emergencies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5093834400177002,
+      "similarities": {
+        "ContextObjective": 0.41491174697875977,
+        "BenefitsAssistance": 0.5093834400177002,
+        "Eligibility": 0.4363402724266052,
+        "ApplicationProcess": 0.38722729682922363,
+        "TimelineFrequency": 0.37509796023368835,
+        "AuthoritiesGovernance": 0.3364304006099701,
+        "DefinitionsReferences": 0.34940966963768005
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme provides educational assistance of ₹20,000 per child for up to two children of Anganwadi workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43683838844299316,
+      "similarities": {
+        "ContextObjective": 0.3749640882015228,
+        "BenefitsAssistance": 0.43683838844299316,
+        "Eligibility": 0.41632887721061707,
+        "ApplicationProcess": 0.36083388328552246,
+        "TimelineFrequency": 0.34834179282188416,
+        "AuthoritiesGovernance": 0.33377477526664734,
+        "DefinitionsReferences": 0.3196905851364136
+      }
+    },
+    {
+      "sentence": "This assistance is aimed at ensuring that the children of Anganwadi workers have access to quality education.",
+      "role": "Eligibility",
+      "confidence": 0.4645262658596039,
+      "similarities": {
+        "ContextObjective": 0.4247705936431885,
+        "BenefitsAssistance": 0.4226760268211365,
+        "Eligibility": 0.4645262658596039,
+        "ApplicationProcess": 0.42115721106529236,
+        "TimelineFrequency": 0.37991201877593994,
+        "AuthoritiesGovernance": 0.40936279296875,
+        "DefinitionsReferences": 0.3519402742385864
+      }
+    },
+    {
+      "sentence": "The retirement benefits under this scheme include a monthly pension of ₹3,000 after the age of 60.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47122180461883545,
+      "similarities": {
+        "ContextObjective": 0.45206528902053833,
+        "BenefitsAssistance": 0.47122180461883545,
+        "Eligibility": 0.4279297888278961,
+        "ApplicationProcess": 0.39781859517097473,
+        "TimelineFrequency": 0.3792676329612732,
+        "AuthoritiesGovernance": 0.3531600832939148,
+        "DefinitionsReferences": 0.34118106961250305
+      }
+    },
+    {
+      "sentence": "Anganwadi workers must have completed a minimum of 10 years of service to be eligible for the pension.",
+      "role": "Eligibility",
+      "confidence": 0.5031030178070068,
+      "similarities": {
+        "ContextObjective": 0.4094932973384857,
+        "BenefitsAssistance": 0.394162118434906,
+        "Eligibility": 0.5031030178070068,
+        "ApplicationProcess": 0.4693223834037781,
+        "TimelineFrequency": 0.43496227264404297,
+        "AuthoritiesGovernance": 0.35599470138549805,
+        "DefinitionsReferences": 0.348819762468338
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Anganwadi Workers Welfare Fund are specific.",
+      "role": "Eligibility",
+      "confidence": 0.6349740028381348,
+      "similarities": {
+        "ContextObjective": 0.4840738773345947,
+        "BenefitsAssistance": 0.4963327646255493,
+        "Eligibility": 0.6349740028381348,
+        "ApplicationProcess": 0.48567214608192444,
+        "TimelineFrequency": 0.48304280638694763,
+        "AuthoritiesGovernance": 0.39949047565460205,
+        "DefinitionsReferences": 0.4001920223236084
+      }
+    },
+    {
+      "sentence": "Anganwadi workers must be between the ages of 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5190165042877197,
+      "similarities": {
+        "ContextObjective": 0.40556591749191284,
+        "BenefitsAssistance": 0.41814810037612915,
+        "Eligibility": 0.5190165042877197,
+        "ApplicationProcess": 0.4597890079021454,
+        "TimelineFrequency": 0.4449229836463928,
+        "AuthoritiesGovernance": 0.4178110957145691,
+        "DefinitionsReferences": 0.4045092463493347
+      }
+    },
+    {
+      "sentence": "They must be registered under the Integrated Child Development Services scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5302370190620422,
+      "similarities": {
+        "ContextObjective": 0.4594743847846985,
+        "BenefitsAssistance": 0.42406004667282104,
+        "Eligibility": 0.5302370190620422,
+        "ApplicationProcess": 0.4999736249446869,
+        "TimelineFrequency": 0.4280471205711365,
+        "AuthoritiesGovernance": 0.4534546732902527,
+        "DefinitionsReferences": 0.394758939743042
+      }
+    },
+    {
+      "sentence": "The workers must have a minimum educational qualification of 10th grade.",
+      "role": "Eligibility",
+      "confidence": 0.5299006700515747,
+      "similarities": {
+        "ContextObjective": 0.4122847318649292,
+        "BenefitsAssistance": 0.4077899754047394,
+        "Eligibility": 0.5299006700515747,
+        "ApplicationProcess": 0.494096577167511,
+        "TimelineFrequency": 0.4456893503665924,
+        "AuthoritiesGovernance": 0.4213722348213196,
+        "DefinitionsReferences": 0.4088628590106964
+      }
+    },
+    {
+      "sentence": "Income criteria state that the annual income of the Anganwadi worker should not exceed ₹3 lakhs.",
+      "role": "Eligibility",
+      "confidence": 0.48283132910728455,
+      "similarities": {
+        "ContextObjective": 0.39524155855178833,
+        "BenefitsAssistance": 0.410438597202301,
+        "Eligibility": 0.48283132910728455,
+        "ApplicationProcess": 0.40324312448501587,
+        "TimelineFrequency": 0.37469735741615295,
+        "AuthoritiesGovernance": 0.31146055459976196,
+        "DefinitionsReferences": 0.35238736867904663
+      }
+    },
+    {
+      "sentence": "The application process for the Anganwadi Workers Welfare Fund is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5214757919311523,
+      "similarities": {
+        "ContextObjective": 0.4598592519760132,
+        "BenefitsAssistance": 0.436177134513855,
+        "Eligibility": 0.49859148263931274,
+        "ApplicationProcess": 0.5214757919311523,
+        "TimelineFrequency": 0.4507159888744354,
+        "AuthoritiesGovernance": 0.4019416868686676,
+        "DefinitionsReferences": 0.35151994228363037
+      }
+    },
+    {
+      "sentence": "Interested Anganwadi workers must fill out an application form available at their local Anganwadi center.",
+      "role": "ApplicationProcess",
+      "confidence": 0.609131932258606,
+      "similarities": {
+        "ContextObjective": 0.4290381073951721,
+        "BenefitsAssistance": 0.41480663418769836,
+        "Eligibility": 0.5283029079437256,
+        "ApplicationProcess": 0.609131932258606,
+        "TimelineFrequency": 0.46261975169181824,
+        "AuthoritiesGovernance": 0.39300858974456787,
+        "DefinitionsReferences": 0.4006507992744446
+      }
+    },
+    {
+      "sentence": "They must submit the completed form along with required documents such as identity proof, income certificate, and proof of service.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6668390035629272,
+      "similarities": {
+        "ContextObjective": 0.45334458351135254,
+        "BenefitsAssistance": 0.5408436059951782,
+        "Eligibility": 0.5349406599998474,
+        "ApplicationProcess": 0.6668390035629272,
+        "TimelineFrequency": 0.47408559918403625,
+        "AuthoritiesGovernance": 0.4308527112007141,
+        "DefinitionsReferences": 0.46769917011260986
+      }
+    },
+    {
+      "sentence": "The application must be submitted to the Block Development Officer.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6214455962181091,
+      "similarities": {
+        "ContextObjective": 0.4603618085384369,
+        "BenefitsAssistance": 0.4017396569252014,
+        "Eligibility": 0.5604571104049683,
+        "ApplicationProcess": 0.6214455962181091,
+        "TimelineFrequency": 0.535369873046875,
+        "AuthoritiesGovernance": 0.4674112796783447,
+        "DefinitionsReferences": 0.38572728633880615
+      }
+    },
+    {
+      "sentence": "Once submitted, the Block Development Officer will verify the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.636459231376648,
+      "similarities": {
+        "ContextObjective": 0.4482751488685608,
+        "BenefitsAssistance": 0.4071412682533264,
+        "Eligibility": 0.5056933760643005,
+        "ApplicationProcess": 0.636459231376648,
+        "TimelineFrequency": 0.5029450058937073,
+        "AuthoritiesGovernance": 0.43723148107528687,
+        "DefinitionsReferences": 0.400037944316864
+      }
+    },
+    {
+      "sentence": "Verification includes checking the eligibility criteria and the authenticity of the documents provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6904283761978149,
+      "similarities": {
+        "ContextObjective": 0.5309832692146301,
+        "BenefitsAssistance": 0.5475272536277771,
+        "Eligibility": 0.6303915977478027,
+        "ApplicationProcess": 0.6904283761978149,
+        "TimelineFrequency": 0.5807859897613525,
+        "AuthoritiesGovernance": 0.47103604674339294,
+        "DefinitionsReferences": 0.5467372536659241
+      }
+    },
+    {
+      "sentence": "After successful verification, the application will be forwarded to the District Collector.",
+      "role": "ApplicationProcess",
+      "confidence": 0.627199649810791,
+      "similarities": {
+        "ContextObjective": 0.4493657350540161,
+        "BenefitsAssistance": 0.4564858078956604,
+        "Eligibility": 0.5390676856040955,
+        "ApplicationProcess": 0.627199649810791,
+        "TimelineFrequency": 0.4898751974105835,
+        "AuthoritiesGovernance": 0.45858487486839294,
+        "DefinitionsReferences": 0.41100624203681946
+      }
+    },
+    {
+      "sentence": "The District Collector will then approve the application for benefits under the fund.",
+      "role": "Eligibility",
+      "confidence": 0.5486322641372681,
+      "similarities": {
+        "ContextObjective": 0.42445358633995056,
+        "BenefitsAssistance": 0.4965543746948242,
+        "Eligibility": 0.5486322641372681,
+        "ApplicationProcess": 0.5218842029571533,
+        "TimelineFrequency": 0.43994417786598206,
+        "AuthoritiesGovernance": 0.42544543743133545,
+        "DefinitionsReferences": 0.35880598425865173
+      }
+    },
+    {
+      "sentence": "Disbursement of benefits occurs on a quarterly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.625076174736023,
+      "similarities": {
+        "ContextObjective": 0.4919726252555847,
+        "BenefitsAssistance": 0.625076174736023,
+        "Eligibility": 0.5256212949752808,
+        "ApplicationProcess": 0.4659267067909241,
+        "TimelineFrequency": 0.5527609586715698,
+        "AuthoritiesGovernance": 0.5140466094017029,
+        "DefinitionsReferences": 0.43236878514289856
+      }
+    },
+    {
+      "sentence": "The first disbursement is made within three months of the application approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5151315927505493,
+      "similarities": {
+        "ContextObjective": 0.4483724534511566,
+        "BenefitsAssistance": 0.5151315927505493,
+        "Eligibility": 0.47467654943466187,
+        "ApplicationProcess": 0.4636836051940918,
+        "TimelineFrequency": 0.4934341013431549,
+        "AuthoritiesGovernance": 0.3831450343132019,
+        "DefinitionsReferences": 0.33916670083999634
+      }
+    },
+    {
+      "sentence": "Subsequent disbursements are made every three months thereafter.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5103814005851746,
+      "similarities": {
+        "ContextObjective": 0.4309365451335907,
+        "BenefitsAssistance": 0.5103814005851746,
+        "Eligibility": 0.42462968826293945,
+        "ApplicationProcess": 0.40086767077445984,
+        "TimelineFrequency": 0.4928412139415741,
+        "AuthoritiesGovernance": 0.4086782932281494,
+        "DefinitionsReferences": 0.3895529508590698
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Anganwadi Workers Welfare Fund is the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.549964189529419,
+      "similarities": {
+        "ContextObjective": 0.36697420477867126,
+        "BenefitsAssistance": 0.41367676854133606,
+        "Eligibility": 0.4531274437904358,
+        "ApplicationProcess": 0.3506917357444763,
+        "TimelineFrequency": 0.3442358076572418,
+        "AuthoritiesGovernance": 0.549964189529419,
+        "DefinitionsReferences": 0.37810343503952026
+      }
+    },
+    {
+      "sentence": "The ministry is responsible for overseeing the implementation of the fund and ensuring that benefits reach the intended beneficiaries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6158615350723267,
+      "similarities": {
+        "ContextObjective": 0.5017393231391907,
+        "BenefitsAssistance": 0.5172685980796814,
+        "Eligibility": 0.5668925046920776,
+        "ApplicationProcess": 0.47657185792922974,
+        "TimelineFrequency": 0.4107710123062134,
+        "AuthoritiesGovernance": 0.6158615350723267,
+        "DefinitionsReferences": 0.4085673689842224
+      }
+    },
+    {
+      "sentence": "State governments also play a crucial role in the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5647686719894409,
+      "similarities": {
+        "ContextObjective": 0.5080933570861816,
+        "BenefitsAssistance": 0.4366004467010498,
+        "Eligibility": 0.503511369228363,
+        "ApplicationProcess": 0.4720490872859955,
+        "TimelineFrequency": 0.41085413098335266,
+        "AuthoritiesGovernance": 0.5647686719894409,
+        "DefinitionsReferences": 0.4404604732990265
+      }
+    },
+    {
+      "sentence": "They are responsible for the ground-level execution and monitoring of the fund's benefits.",
+      "role": "Eligibility",
+      "confidence": 0.53175950050354,
+      "similarities": {
+        "ContextObjective": 0.47507813572883606,
+        "BenefitsAssistance": 0.5253822207450867,
+        "Eligibility": 0.53175950050354,
+        "ApplicationProcess": 0.4516058564186096,
+        "TimelineFrequency": 0.3955422639846802,
+        "AuthoritiesGovernance": 0.5268678665161133,
+        "DefinitionsReferences": 0.41446274518966675
+      }
+    },
+    {
+      "sentence": "The Anganwadi Workers Welfare Fund aims to cover approximately 13 lakh Anganwadi workers across India.",
+      "role": "Eligibility",
+      "confidence": 0.43842175602912903,
+      "similarities": {
+        "ContextObjective": 0.3997793197631836,
+        "BenefitsAssistance": 0.43106403946876526,
+        "Eligibility": 0.43842175602912903,
+        "ApplicationProcess": 0.32915884256362915,
+        "TimelineFrequency": 0.32067376375198364,
+        "AuthoritiesGovernance": 0.3765471875667572,
+        "DefinitionsReferences": 0.31054461002349854
+      }
+    },
+    {
+      "sentence": "This initiative is expected to significantly improve the financial stability of Anganwadi workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4281679689884186,
+      "similarities": {
+        "ContextObjective": 0.385068416595459,
+        "BenefitsAssistance": 0.4281679689884186,
+        "Eligibility": 0.3676048517227173,
+        "ApplicationProcess": 0.33224809169769287,
+        "TimelineFrequency": 0.31413424015045166,
+        "AuthoritiesGovernance": 0.33522722125053406,
+        "DefinitionsReferences": 0.3117913007736206
+      }
+    },
+    {
+      "sentence": "It also aims to enhance their quality of life and provide them with a sense of security.",
+      "role": "ContextObjective",
+      "confidence": 0.4666459560394287,
+      "similarities": {
+        "ContextObjective": 0.4666459560394287,
+        "BenefitsAssistance": 0.4037296772003174,
+        "Eligibility": 0.4222564101219177,
+        "ApplicationProcess": 0.4167627990245819,
+        "TimelineFrequency": 0.34732508659362793,
+        "AuthoritiesGovernance": 0.3605409860610962,
+        "DefinitionsReferences": 0.38036584854125977
+      }
+    },
+    {
+      "sentence": "The fund is part of a broader effort by the Government of India to empower women.",
+      "role": "Eligibility",
+      "confidence": 0.4264127016067505,
+      "similarities": {
+        "ContextObjective": 0.4204502999782562,
+        "BenefitsAssistance": 0.4243015944957733,
+        "Eligibility": 0.4264127016067505,
+        "ApplicationProcess": 0.34428924322128296,
+        "TimelineFrequency": 0.3133906424045563,
+        "AuthoritiesGovernance": 0.3971065282821655,
+        "DefinitionsReferences": 0.3381009101867676
+      }
+    },
+    {
+      "sentence": "Women constitute a significant majority of Anganwadi workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.323575496673584,
+      "similarities": {
+        "ContextObjective": 0.30584415793418884,
+        "BenefitsAssistance": 0.323575496673584,
+        "Eligibility": 0.3060302734375,
+        "ApplicationProcess": 0.26952505111694336,
+        "TimelineFrequency": 0.279298335313797,
+        "AuthoritiesGovernance": 0.3224581480026245,
+        "DefinitionsReferences": 0.31559038162231445
+      }
+    },
+    {
+      "sentence": "This initiative aligns with the government's commitment to gender equality and women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.4587436318397522,
+      "similarities": {
+        "ContextObjective": 0.4587436318397522,
+        "BenefitsAssistance": 0.37589558959007263,
+        "Eligibility": 0.4231470823287964,
+        "ApplicationProcess": 0.402438223361969,
+        "TimelineFrequency": 0.3727557957172394,
+        "AuthoritiesGovernance": 0.44508564472198486,
+        "DefinitionsReferences": 0.38635510206222534
+      }
+    },
+    {
+      "sentence": "The Anganwadi Workers Welfare Fund is a step towards recognizing the invaluable contributions of these workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4148651957511902,
+      "similarities": {
+        "ContextObjective": 0.3748311698436737,
+        "BenefitsAssistance": 0.4148651957511902,
+        "Eligibility": 0.3980482816696167,
+        "ApplicationProcess": 0.34283876419067383,
+        "TimelineFrequency": 0.2877616286277771,
+        "AuthoritiesGovernance": 0.35347723960876465,
+        "DefinitionsReferences": 0.36412888765335083
+      }
+    },
+    {
+      "sentence": "They are often the backbone of rural health and nutrition services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4453626871109009,
+      "similarities": {
+        "ContextObjective": 0.3914109170436859,
+        "BenefitsAssistance": 0.4173547625541687,
+        "Eligibility": 0.41726016998291016,
+        "ApplicationProcess": 0.3517552614212036,
+        "TimelineFrequency": 0.3758968114852905,
+        "AuthoritiesGovernance": 0.4453626871109009,
+        "DefinitionsReferences": 0.4153003692626953
+      }
+    },
+    {
+      "sentence": "The fund also aims to encourage more women to join the workforce as Anganwadi workers.",
+      "role": "ContextObjective",
+      "confidence": 0.38787660002708435,
+      "similarities": {
+        "ContextObjective": 0.38787660002708435,
+        "BenefitsAssistance": 0.36627644300460815,
+        "Eligibility": 0.37510064244270325,
+        "ApplicationProcess": 0.326458215713501,
+        "TimelineFrequency": 0.32432258129119873,
+        "AuthoritiesGovernance": 0.3016848564147949,
+        "DefinitionsReferences": 0.30307066440582275
+      }
+    },
+    {
+      "sentence": "By providing financial security and benefits, the government hopes to attract more educated women into this essential role.",
+      "role": "ContextObjective",
+      "confidence": 0.4387809634208679,
+      "similarities": {
+        "ContextObjective": 0.4387809634208679,
+        "BenefitsAssistance": 0.4304221272468567,
+        "Eligibility": 0.428155779838562,
+        "ApplicationProcess": 0.39071226119995117,
+        "TimelineFrequency": 0.35254794359207153,
+        "AuthoritiesGovernance": 0.35252854228019714,
+        "DefinitionsReferences": 0.3480220437049866
+      }
+    },
+    {
+      "sentence": "The welfare fund is expected to have a positive impact on the health and nutrition of children in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44009843468666077,
+      "similarities": {
+        "ContextObjective": 0.3995691239833832,
+        "BenefitsAssistance": 0.44009843468666077,
+        "Eligibility": 0.4380291700363159,
+        "ApplicationProcess": 0.33237510919570923,
+        "TimelineFrequency": 0.30242741107940674,
+        "AuthoritiesGovernance": 0.35555148124694824,
+        "DefinitionsReferences": 0.3304237425327301
+      }
+    },
+    {
+      "sentence": "With better support for Anganwadi workers, the quality of services provided to children and mothers is likely to improve.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46068310737609863,
+      "similarities": {
+        "ContextObjective": 0.40103715658187866,
+        "BenefitsAssistance": 0.46068310737609863,
+        "Eligibility": 0.39784687757492065,
+        "ApplicationProcess": 0.3547688126564026,
+        "TimelineFrequency": 0.37113529443740845,
+        "AuthoritiesGovernance": 0.42577704787254333,
+        "DefinitionsReferences": 0.3880837857723236
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to reduce the dropout rates of children from schools.",
+      "role": "ContextObjective",
+      "confidence": 0.44885528087615967,
+      "similarities": {
+        "ContextObjective": 0.44885528087615967,
+        "BenefitsAssistance": 0.3558516800403595,
+        "Eligibility": 0.41661232709884644,
+        "ApplicationProcess": 0.3538638949394226,
+        "TimelineFrequency": 0.37834852933883667,
+        "AuthoritiesGovernance": 0.38659775257110596,
+        "DefinitionsReferences": 0.2849048972129822
+      }
+    },
+    {
+      "sentence": "With educational assistance, Anganwadi workers can ensure that their children receive proper education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4631093144416809,
+      "similarities": {
+        "ContextObjective": 0.42385584115982056,
+        "BenefitsAssistance": 0.4631093144416809,
+        "Eligibility": 0.45911896228790283,
+        "ApplicationProcess": 0.4327058792114258,
+        "TimelineFrequency": 0.39239436388015747,
+        "AuthoritiesGovernance": 0.43381834030151367,
+        "DefinitionsReferences": 0.371939092874527
+      }
+    },
+    {
+      "sentence": "The Anganwadi Workers Welfare Fund represents a significant investment in human capital.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4220540523529053,
+      "similarities": {
+        "ContextObjective": 0.37307649850845337,
+        "BenefitsAssistance": 0.4220540523529053,
+        "Eligibility": 0.3925479054450989,
+        "ApplicationProcess": 0.30218982696533203,
+        "TimelineFrequency": 0.3135179281234741,
+        "AuthoritiesGovernance": 0.3487262725830078,
+        "DefinitionsReferences": 0.3566731810569763
+      }
+    },
+    {
+      "sentence": "It acknowledges the critical role that Anganwadi workers play in the development of the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.37665632367134094,
+      "similarities": {
+        "ContextObjective": 0.37665632367134094,
+        "BenefitsAssistance": 0.35490384697914124,
+        "Eligibility": 0.35889410972595215,
+        "ApplicationProcess": 0.3463316261768341,
+        "TimelineFrequency": 0.3227514922618866,
+        "AuthoritiesGovernance": 0.3586782217025757,
+        "DefinitionsReferences": 0.3682370185852051
+      }
+    },
+    {
+      "sentence": "The fund is a part of the larger Integrated Child Development Services scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.500988781452179,
+      "similarities": {
+        "ContextObjective": 0.48186373710632324,
+        "BenefitsAssistance": 0.500988781452179,
+        "Eligibility": 0.44896572828292847,
+        "ApplicationProcess": 0.37629690766334534,
+        "TimelineFrequency": 0.3688546419143677,
+        "AuthoritiesGovernance": 0.41453272104263306,
+        "DefinitionsReferences": 0.35006558895111084
+      }
+    },
+    {
+      "sentence": "This scheme was launched in 1975 and has been instrumental in improving child health and nutrition in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5053286552429199,
+      "similarities": {
+        "ContextObjective": 0.5053286552429199,
+        "BenefitsAssistance": 0.35503673553466797,
+        "Eligibility": 0.38877180218696594,
+        "ApplicationProcess": 0.3549202084541321,
+        "TimelineFrequency": 0.33238884806632996,
+        "AuthoritiesGovernance": 0.33522701263427734,
+        "DefinitionsReferences": 0.30884838104248047
+      }
+    },
+    {
+      "sentence": "The Anganwadi Workers Welfare Fund is a timely initiative given the challenges faced by Anganwadi workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4566698968410492,
+      "similarities": {
+        "ContextObjective": 0.4446122348308563,
+        "BenefitsAssistance": 0.4566698968410492,
+        "Eligibility": 0.45359766483306885,
+        "ApplicationProcess": 0.38285189867019653,
+        "TimelineFrequency": 0.39847928285598755,
+        "AuthoritiesGovernance": 0.41039276123046875,
+        "DefinitionsReferences": 0.3390706777572632
+      }
+    },
+    {
+      "sentence": "Many of them work in remote areas and face financial hardships.",
+      "role": "Eligibility",
+      "confidence": 0.5173576474189758,
+      "similarities": {
+        "ContextObjective": 0.4314942955970764,
+        "BenefitsAssistance": 0.4936901926994324,
+        "Eligibility": 0.5173576474189758,
+        "ApplicationProcess": 0.41122764348983765,
+        "TimelineFrequency": 0.40943828225135803,
+        "AuthoritiesGovernance": 0.42428046464920044,
+        "DefinitionsReferences": 0.3708539605140686
+      }
+    },
+    {
+      "sentence": "The fund aims to alleviate some of these challenges by providing financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5764352083206177,
+      "similarities": {
+        "ContextObjective": 0.4871293902397156,
+        "BenefitsAssistance": 0.5764352083206177,
+        "Eligibility": 0.514277458190918,
+        "ApplicationProcess": 0.41913843154907227,
+        "TimelineFrequency": 0.4128892421722412,
+        "AuthoritiesGovernance": 0.43702057003974915,
+        "DefinitionsReferences": 0.3811313211917877
+      }
+    },
+    {
+      "sentence": "In conclusion, the Anganwadi Workers Welfare Fund is a comprehensive initiative aimed at enhancing the welfare of Anganwadi workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46722015738487244,
+      "similarities": {
+        "ContextObjective": 0.4389345049858093,
+        "BenefitsAssistance": 0.46722015738487244,
+        "Eligibility": 0.41651564836502075,
+        "ApplicationProcess": 0.383085161447525,
+        "TimelineFrequency": 0.35663989186286926,
+        "AuthoritiesGovernance": 0.43523186445236206,
+        "DefinitionsReferences": 0.3645801842212677
+      }
+    },
+    {
+      "sentence": "It provides them with essential financial assistance and social security benefits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5645603537559509,
+      "similarities": {
+        "ContextObjective": 0.45004168152809143,
+        "BenefitsAssistance": 0.5645603537559509,
+        "Eligibility": 0.4987558424472809,
+        "ApplicationProcess": 0.44220635294914246,
+        "TimelineFrequency": 0.39373350143432617,
+        "AuthoritiesGovernance": 0.41914552450180054,
+        "DefinitionsReferences": 0.4029676020145416
+      }
+    },
+    {
+      "sentence": "The scheme is a recognition of their hard work and dedication to improving the health and nutrition of children in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4531146287918091,
+      "similarities": {
+        "ContextObjective": 0.4531146287918091,
+        "BenefitsAssistance": 0.3742580711841583,
+        "Eligibility": 0.43143391609191895,
+        "ApplicationProcess": 0.3936900198459625,
+        "TimelineFrequency": 0.32887163758277893,
+        "AuthoritiesGovernance": 0.3562784790992737,
+        "DefinitionsReferences": 0.31926870346069336
+      }
+    },
+    {
+      "sentence": "With specific benefits and a clear application process, the fund is designed to be accessible to all eligible Anganwadi workers.",
+      "role": "Eligibility",
+      "confidence": 0.5722175240516663,
+      "similarities": {
+        "ContextObjective": 0.4618130028247833,
+        "BenefitsAssistance": 0.47712770104408264,
+        "Eligibility": 0.5722175240516663,
+        "ApplicationProcess": 0.48917222023010254,
+        "TimelineFrequency": 0.44212332367897034,
+        "AuthoritiesGovernance": 0.4037345349788666,
+        "DefinitionsReferences": 0.36620622873306274
+      }
+    },
+    {
+      "sentence": "This initiative is a crucial step towards empowering women and improving the overall well-being of families in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4199809432029724,
+      "similarities": {
+        "ContextObjective": 0.4199809432029724,
+        "BenefitsAssistance": 0.3594306409358978,
+        "Eligibility": 0.40503013134002686,
+        "ApplicationProcess": 0.37331777811050415,
+        "TimelineFrequency": 0.32238686084747314,
+        "AuthoritiesGovernance": 0.3868715167045593,
+        "DefinitionsReferences": 0.3252093493938446
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 12,
+    "AuthoritiesGovernance": 6,
+    "Eligibility": 14,
+    "BenefitsAssistance": 20,
+    "ApplicationProcess": 7
+  },
+  "processing_timestamp": "2025-09-25T20:39:58.558850"
+}

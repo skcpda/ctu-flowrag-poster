@@ -1,0 +1,730 @@
+{
+  "scheme_name": "Popular Tiatr Competition",
+  "total_sentences": 51,
+  "labeled_sentences": [
+    {
+      "sentence": "The Popular Tiatr Competition is an initiative by the Government of Goa aimed at promoting and preserving the rich cultural heritage of the Tiatr art form.",
+      "role": "ContextObjective",
+      "confidence": 0.41857582330703735,
+      "similarities": {
+        "ContextObjective": 0.41857582330703735,
+        "BenefitsAssistance": 0.2911747694015503,
+        "Eligibility": 0.3715192675590515,
+        "ApplicationProcess": 0.38176581263542175,
+        "TimelineFrequency": 0.3446612060070038,
+        "AuthoritiesGovernance": 0.34088462591171265,
+        "DefinitionsReferences": 0.3316708207130432
+      }
+    },
+    {
+      "sentence": "Tiatr is a traditional form of musical theater that originated in Goa and has significant historical and cultural importance.",
+      "role": "ContextObjective",
+      "confidence": 0.36612629890441895,
+      "similarities": {
+        "ContextObjective": 0.36612629890441895,
+        "BenefitsAssistance": 0.3050871789455414,
+        "Eligibility": 0.31443411111831665,
+        "ApplicationProcess": 0.3251691162586212,
+        "TimelineFrequency": 0.3397815227508545,
+        "AuthoritiesGovernance": 0.3028123378753662,
+        "DefinitionsReferences": 0.3629642128944397
+      }
+    },
+    {
+      "sentence": "The competition was officially launched in 2015 as part of the government's broader efforts to support local arts and culture.",
+      "role": "ContextObjective",
+      "confidence": 0.4788396954536438,
+      "similarities": {
+        "ContextObjective": 0.4788396954536438,
+        "BenefitsAssistance": 0.3703800439834595,
+        "Eligibility": 0.4155079126358032,
+        "ApplicationProcess": 0.43276089429855347,
+        "TimelineFrequency": 0.3866674602031708,
+        "AuthoritiesGovernance": 0.3767910301685333,
+        "DefinitionsReferences": 0.3602708578109741
+      }
+    },
+    {
+      "sentence": "The primary objective of the Popular Tiatr Competition is to encourage and promote the art of Tiatr among the youth and the general public.",
+      "role": "ContextObjective",
+      "confidence": 0.4713522493839264,
+      "similarities": {
+        "ContextObjective": 0.4713522493839264,
+        "BenefitsAssistance": 0.29148340225219727,
+        "Eligibility": 0.3753810524940491,
+        "ApplicationProcess": 0.3810853958129883,
+        "TimelineFrequency": 0.3685547113418579,
+        "AuthoritiesGovernance": 0.3456493616104126,
+        "DefinitionsReferences": 0.3337680995464325
+      }
+    },
+    {
+      "sentence": "The government aims to provide a platform for budding artists to showcase their talents and contribute to the preservation of this unique art form.",
+      "role": "ContextObjective",
+      "confidence": 0.5167023539543152,
+      "similarities": {
+        "ContextObjective": 0.5167023539543152,
+        "BenefitsAssistance": 0.3627012372016907,
+        "Eligibility": 0.4656917452812195,
+        "ApplicationProcess": 0.4500792324542999,
+        "TimelineFrequency": 0.3938235640525818,
+        "AuthoritiesGovernance": 0.4208945035934448,
+        "DefinitionsReferences": 0.39794766902923584
+      }
+    },
+    {
+      "sentence": "The competition also seeks to enhance the quality of Tiatr performances by encouraging innovative themes and high production standards.",
+      "role": "ContextObjective",
+      "confidence": 0.42686599493026733,
+      "similarities": {
+        "ContextObjective": 0.42686599493026733,
+        "BenefitsAssistance": 0.310229629278183,
+        "Eligibility": 0.37669238448143005,
+        "ApplicationProcess": 0.35944998264312744,
+        "TimelineFrequency": 0.3779377341270447,
+        "AuthoritiesGovernance": 0.3022002875804901,
+        "DefinitionsReferences": 0.3619195222854614
+      }
+    },
+    {
+      "sentence": "The competition is held annually, with specific dates announced by the Department of Art and Culture, Government of Goa.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49969857931137085,
+      "similarities": {
+        "ContextObjective": 0.441140353679657,
+        "BenefitsAssistance": 0.384674608707428,
+        "Eligibility": 0.4293769299983978,
+        "ApplicationProcess": 0.43210065364837646,
+        "TimelineFrequency": 0.49969857931137085,
+        "AuthoritiesGovernance": 0.396664559841156,
+        "DefinitionsReferences": 0.37259045243263245
+      }
+    },
+    {
+      "sentence": "The benefits of participating in the Popular Tiatr Competition include monetary awards and recognition for outstanding performances.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41549253463745117,
+      "similarities": {
+        "ContextObjective": 0.40427204966545105,
+        "BenefitsAssistance": 0.41549253463745117,
+        "Eligibility": 0.40921950340270996,
+        "ApplicationProcess": 0.3847057521343231,
+        "TimelineFrequency": 0.39564812183380127,
+        "AuthoritiesGovernance": 0.3196258544921875,
+        "DefinitionsReferences": 0.3747227191925049
+      }
+    },
+    {
+      "sentence": "The total prize money for the competition is approximately ₹10 lakh, distributed among various categories.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5062068700790405,
+      "similarities": {
+        "ContextObjective": 0.40780502557754517,
+        "BenefitsAssistance": 0.5062068700790405,
+        "Eligibility": 0.46579962968826294,
+        "ApplicationProcess": 0.40951216220855713,
+        "TimelineFrequency": 0.41287750005722046,
+        "AuthoritiesGovernance": 0.3848855197429657,
+        "DefinitionsReferences": 0.42229247093200684
+      }
+    },
+    {
+      "sentence": "Winners in the Best Tiatr category receive ₹1 lakh, while the Best Director and Best Actor categories each receive ₹50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.36192116141319275,
+      "similarities": {
+        "ContextObjective": 0.3542982339859009,
+        "BenefitsAssistance": 0.36192116141319275,
+        "Eligibility": 0.35303759574890137,
+        "ApplicationProcess": 0.3156423568725586,
+        "TimelineFrequency": 0.31996485590934753,
+        "AuthoritiesGovernance": 0.3116649389266968,
+        "DefinitionsReferences": 0.2921677529811859
+      }
+    },
+    {
+      "sentence": "Additionally, there are awards for Best Actress, Best Music Director, and Best Script, each receiving ₹25,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44606074690818787,
+      "similarities": {
+        "ContextObjective": 0.35923445224761963,
+        "BenefitsAssistance": 0.44606074690818787,
+        "Eligibility": 0.3656551241874695,
+        "ApplicationProcess": 0.35955899953842163,
+        "TimelineFrequency": 0.37582212686538696,
+        "AuthoritiesGovernance": 0.3597308397293091,
+        "DefinitionsReferences": 0.3864148259162903
+      }
+    },
+    {
+      "sentence": "The competition also recognizes the Best Supporting Actor and Actress, with awards of ₹15,000 each.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.40501928329467773,
+      "similarities": {
+        "ContextObjective": 0.3173082768917084,
+        "BenefitsAssistance": 0.40501928329467773,
+        "Eligibility": 0.34750455617904663,
+        "ApplicationProcess": 0.313717246055603,
+        "TimelineFrequency": 0.3052731156349182,
+        "AuthoritiesGovernance": 0.27186936140060425,
+        "DefinitionsReferences": 0.3180074095726013
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for participating in the Popular Tiatr Competition are specific and inclusive.",
+      "role": "Eligibility",
+      "confidence": 0.6228914260864258,
+      "similarities": {
+        "ContextObjective": 0.5008394122123718,
+        "BenefitsAssistance": 0.46572262048721313,
+        "Eligibility": 0.6228914260864258,
+        "ApplicationProcess": 0.5229750871658325,
+        "TimelineFrequency": 0.529656708240509,
+        "AuthoritiesGovernance": 0.3878668546676636,
+        "DefinitionsReferences": 0.42640814185142517
+      }
+    },
+    {
+      "sentence": "Participants must be residents of Goa and should be at least 18 years old to enter the competition.",
+      "role": "Eligibility",
+      "confidence": 0.5185614228248596,
+      "similarities": {
+        "ContextObjective": 0.4027504324913025,
+        "BenefitsAssistance": 0.36308592557907104,
+        "Eligibility": 0.5185614228248596,
+        "ApplicationProcess": 0.46199989318847656,
+        "TimelineFrequency": 0.40235793590545654,
+        "AuthoritiesGovernance": 0.3575834631919861,
+        "DefinitionsReferences": 0.33908236026763916
+      }
+    },
+    {
+      "sentence": "There are no upper age limits, allowing individuals of all ages to participate.",
+      "role": "Eligibility",
+      "confidence": 0.4722917675971985,
+      "similarities": {
+        "ContextObjective": 0.3823053538799286,
+        "BenefitsAssistance": 0.39660581946372986,
+        "Eligibility": 0.4722917675971985,
+        "ApplicationProcess": 0.36633431911468506,
+        "TimelineFrequency": 0.3654419779777527,
+        "AuthoritiesGovernance": 0.3343193531036377,
+        "DefinitionsReferences": 0.3271487057209015
+      }
+    },
+    {
+      "sentence": "The competition is open to both professional and amateur artists.",
+      "role": "Eligibility",
+      "confidence": 0.46260005235671997,
+      "similarities": {
+        "ContextObjective": 0.41794833540916443,
+        "BenefitsAssistance": 0.4089207053184509,
+        "Eligibility": 0.46260005235671997,
+        "ApplicationProcess": 0.43291088938713074,
+        "TimelineFrequency": 0.4485466480255127,
+        "AuthoritiesGovernance": 0.37276971340179443,
+        "DefinitionsReferences": 0.3726469874382019
+      }
+    },
+    {
+      "sentence": "To apply for the competition, participants must submit an application form along with a script of their Tiatr performance.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6094405651092529,
+      "similarities": {
+        "ContextObjective": 0.4447401762008667,
+        "BenefitsAssistance": 0.40453970432281494,
+        "Eligibility": 0.5266121625900269,
+        "ApplicationProcess": 0.6094405651092529,
+        "TimelineFrequency": 0.520129382610321,
+        "AuthoritiesGovernance": 0.36134350299835205,
+        "DefinitionsReferences": 0.40887343883514404
+      }
+    },
+    {
+      "sentence": "The application form can be obtained from the Department of Art and Culture's official website or their office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6245764493942261,
+      "similarities": {
+        "ContextObjective": 0.4369133710861206,
+        "BenefitsAssistance": 0.43922144174575806,
+        "Eligibility": 0.5134151577949524,
+        "ApplicationProcess": 0.6245764493942261,
+        "TimelineFrequency": 0.5099959373474121,
+        "AuthoritiesGovernance": 0.4573100805282593,
+        "DefinitionsReferences": 0.42264264822006226
+      }
+    },
+    {
+      "sentence": "Participants are also required to submit a copy of their identity proof, such as an Aadhaar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5665969252586365,
+      "similarities": {
+        "ContextObjective": 0.4051971435546875,
+        "BenefitsAssistance": 0.46548911929130554,
+        "Eligibility": 0.48267239332199097,
+        "ApplicationProcess": 0.5665969252586365,
+        "TimelineFrequency": 0.42283689975738525,
+        "AuthoritiesGovernance": 0.4022521376609802,
+        "DefinitionsReferences": 0.4236023724079132
+      }
+    },
+    {
+      "sentence": "The competition typically has a deadline for submissions, which is usually set for one month before the event.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5759592056274414,
+      "similarities": {
+        "ContextObjective": 0.4750763773918152,
+        "BenefitsAssistance": 0.3846701383590698,
+        "Eligibility": 0.502975344657898,
+        "ApplicationProcess": 0.5100420713424683,
+        "TimelineFrequency": 0.5759592056274414,
+        "AuthoritiesGovernance": 0.3840455412864685,
+        "DefinitionsReferences": 0.3907606601715088
+      }
+    },
+    {
+      "sentence": "Once applications are received, a selection committee reviews the scripts and selects the entries that will participate in the competition.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5521205067634583,
+      "similarities": {
+        "ContextObjective": 0.47011613845825195,
+        "BenefitsAssistance": 0.39752742648124695,
+        "Eligibility": 0.5142734050750732,
+        "ApplicationProcess": 0.5521205067634583,
+        "TimelineFrequency": 0.5005468130111694,
+        "AuthoritiesGovernance": 0.43440181016921997,
+        "DefinitionsReferences": 0.40392738580703735
+      }
+    },
+    {
+      "sentence": "The selected participants are then notified and provided with guidelines for the performance.",
+      "role": "Eligibility",
+      "confidence": 0.5464017391204834,
+      "similarities": {
+        "ContextObjective": 0.4709029495716095,
+        "BenefitsAssistance": 0.4735521376132965,
+        "Eligibility": 0.5464017391204834,
+        "ApplicationProcess": 0.5010448694229126,
+        "TimelineFrequency": 0.4695160984992981,
+        "AuthoritiesGovernance": 0.4861030578613281,
+        "DefinitionsReferences": 0.4431251585483551
+      }
+    },
+    {
+      "sentence": "The performances are usually held over a span of several days, with multiple shows scheduled.",
+      "role": "TimelineFrequency",
+      "confidence": 0.551619827747345,
+      "similarities": {
+        "ContextObjective": 0.4467272460460663,
+        "BenefitsAssistance": 0.43038976192474365,
+        "Eligibility": 0.40241050720214844,
+        "ApplicationProcess": 0.4022011160850525,
+        "TimelineFrequency": 0.551619827747345,
+        "AuthoritiesGovernance": 0.4152528643608093,
+        "DefinitionsReferences": 0.47094905376434326
+      }
+    },
+    {
+      "sentence": "The competition culminates in a grand finale where the winners are announced and awarded.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42722654342651367,
+      "similarities": {
+        "ContextObjective": 0.4136686623096466,
+        "BenefitsAssistance": 0.42722654342651367,
+        "Eligibility": 0.405035138130188,
+        "ApplicationProcess": 0.4207678735256195,
+        "TimelineFrequency": 0.411266565322876,
+        "AuthoritiesGovernance": 0.41183197498321533,
+        "DefinitionsReferences": 0.3991013169288635
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Popular Tiatr Competition is the Department of Art and Culture, Government of Goa.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4828311800956726,
+      "similarities": {
+        "ContextObjective": 0.38186877965927124,
+        "BenefitsAssistance": 0.3278179168701172,
+        "Eligibility": 0.4289141893386841,
+        "ApplicationProcess": 0.4045742452144623,
+        "TimelineFrequency": 0.3646206259727478,
+        "AuthoritiesGovernance": 0.4828311800956726,
+        "DefinitionsReferences": 0.37253206968307495
+      }
+    },
+    {
+      "sentence": "The department is responsible for organizing the event, managing the logistics, and ensuring the smooth conduct of the competition.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.51766437292099,
+      "similarities": {
+        "ContextObjective": 0.46590501070022583,
+        "BenefitsAssistance": 0.4313165545463562,
+        "Eligibility": 0.46238943934440613,
+        "ApplicationProcess": 0.4728190302848816,
+        "TimelineFrequency": 0.4724198877811432,
+        "AuthoritiesGovernance": 0.51766437292099,
+        "DefinitionsReferences": 0.42828696966171265
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, participants can contact the Department of Art and Culture at their office located in Patto, Panaji, Goa.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4938851594924927,
+      "similarities": {
+        "ContextObjective": 0.4001867175102234,
+        "BenefitsAssistance": 0.42683714628219604,
+        "Eligibility": 0.45436644554138184,
+        "ApplicationProcess": 0.46657830476760864,
+        "TimelineFrequency": 0.3744162917137146,
+        "AuthoritiesGovernance": 0.4938851594924927,
+        "DefinitionsReferences": 0.3674132227897644
+      }
+    },
+    {
+      "sentence": "The contact number for the department is +91 832 241 9420.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5239906907081604,
+      "similarities": {
+        "ContextObjective": 0.3766728639602661,
+        "BenefitsAssistance": 0.45202720165252686,
+        "Eligibility": 0.4327530264854431,
+        "ApplicationProcess": 0.46188250184059143,
+        "TimelineFrequency": 0.400473952293396,
+        "AuthoritiesGovernance": 0.5239906907081604,
+        "DefinitionsReferences": 0.4040328860282898
+      }
+    },
+    {
+      "sentence": "The government also promotes the competition through various media channels to ensure maximum participation.",
+      "role": "ContextObjective",
+      "confidence": 0.49174559116363525,
+      "similarities": {
+        "ContextObjective": 0.49174559116363525,
+        "BenefitsAssistance": 0.4154174327850342,
+        "Eligibility": 0.47122475504875183,
+        "ApplicationProcess": 0.48002755641937256,
+        "TimelineFrequency": 0.43697020411491394,
+        "AuthoritiesGovernance": 0.4527358412742615,
+        "DefinitionsReferences": 0.44922882318496704
+      }
+    },
+    {
+      "sentence": "The Popular Tiatr Competition has seen a growing number of participants since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.46429944038391113,
+      "similarities": {
+        "ContextObjective": 0.46429944038391113,
+        "BenefitsAssistance": 0.3741941452026367,
+        "Eligibility": 0.43205851316452026,
+        "ApplicationProcess": 0.42031925916671753,
+        "TimelineFrequency": 0.4298704266548157,
+        "AuthoritiesGovernance": 0.37479913234710693,
+        "DefinitionsReferences": 0.388937771320343
+      }
+    },
+    {
+      "sentence": "In the first year, the competition attracted around 30 entries, which has increased to over 50 entries in recent years.",
+      "role": "ContextObjective",
+      "confidence": 0.4696092903614044,
+      "similarities": {
+        "ContextObjective": 0.4696092903614044,
+        "BenefitsAssistance": 0.3853461742401123,
+        "Eligibility": 0.4356613755226135,
+        "ApplicationProcess": 0.4511836767196655,
+        "TimelineFrequency": 0.4418492615222931,
+        "AuthoritiesGovernance": 0.34431028366088867,
+        "DefinitionsReferences": 0.37427759170532227
+      }
+    },
+    {
+      "sentence": "The competition not only provides monetary benefits but also fosters community engagement and cultural pride among the Goan populace.",
+      "role": "ContextObjective",
+      "confidence": 0.405611127614975,
+      "similarities": {
+        "ContextObjective": 0.405611127614975,
+        "BenefitsAssistance": 0.36635977029800415,
+        "Eligibility": 0.364108681678772,
+        "ApplicationProcess": 0.3357383608818054,
+        "TimelineFrequency": 0.3076682984828949,
+        "AuthoritiesGovernance": 0.31001564860343933,
+        "DefinitionsReferences": 0.32083338499069214
+      }
+    },
+    {
+      "sentence": "It serves as a platform for social commentary, allowing artists to address contemporary issues through their performances.",
+      "role": "ContextObjective",
+      "confidence": 0.4447305500507355,
+      "similarities": {
+        "ContextObjective": 0.4447305500507355,
+        "BenefitsAssistance": 0.3823912739753723,
+        "Eligibility": 0.3955342769622803,
+        "ApplicationProcess": 0.3332042694091797,
+        "TimelineFrequency": 0.36234986782073975,
+        "AuthoritiesGovernance": 0.36988234519958496,
+        "DefinitionsReferences": 0.4025523364543915
+      }
+    },
+    {
+      "sentence": "The government has also introduced workshops and training sessions for aspiring Tiatr artists as part of the competition initiative.",
+      "role": "ApplicationProcess",
+      "confidence": 0.43109339475631714,
+      "similarities": {
+        "ContextObjective": 0.41648346185684204,
+        "BenefitsAssistance": 0.3395615518093109,
+        "Eligibility": 0.4175707697868347,
+        "ApplicationProcess": 0.43109339475631714,
+        "TimelineFrequency": 0.4152485132217407,
+        "AuthoritiesGovernance": 0.41014915704727173,
+        "DefinitionsReferences": 0.36643490195274353
+      }
+    },
+    {
+      "sentence": "These workshops focus on various aspects of Tiatr, including scriptwriting, acting, music composition, and stage management.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.48231762647628784,
+      "similarities": {
+        "ContextObjective": 0.4267902970314026,
+        "BenefitsAssistance": 0.4211561977863312,
+        "Eligibility": 0.3728700876235962,
+        "ApplicationProcess": 0.39317479729652405,
+        "TimelineFrequency": 0.4591706097126007,
+        "AuthoritiesGovernance": 0.422544002532959,
+        "DefinitionsReferences": 0.48231762647628784
+      }
+    },
+    {
+      "sentence": "The aim is to enhance the skills of participants and elevate the overall quality of performances.",
+      "role": "ContextObjective",
+      "confidence": 0.5398207902908325,
+      "similarities": {
+        "ContextObjective": 0.5398207902908325,
+        "BenefitsAssistance": 0.41043415665626526,
+        "Eligibility": 0.4715409278869629,
+        "ApplicationProcess": 0.44281643629074097,
+        "TimelineFrequency": 0.4586638808250427,
+        "AuthoritiesGovernance": 0.4745938181877136,
+        "DefinitionsReferences": 0.444607138633728
+      }
+    },
+    {
+      "sentence": "The Popular Tiatr Competition is part of a broader cultural policy by the Government of Goa to support traditional art forms.",
+      "role": "ContextObjective",
+      "confidence": 0.3918200135231018,
+      "similarities": {
+        "ContextObjective": 0.3918200135231018,
+        "BenefitsAssistance": 0.33750149607658386,
+        "Eligibility": 0.37945184111595154,
+        "ApplicationProcess": 0.37009093165397644,
+        "TimelineFrequency": 0.3443331718444824,
+        "AuthoritiesGovernance": 0.36249667406082153,
+        "DefinitionsReferences": 0.3773293197154999
+      }
+    },
+    {
+      "sentence": "The government recognizes the importance of preserving Tiatr as a vital aspect of Goan identity and culture.",
+      "role": "ContextObjective",
+      "confidence": 0.40929725766181946,
+      "similarities": {
+        "ContextObjective": 0.40929725766181946,
+        "BenefitsAssistance": 0.3259713053703308,
+        "Eligibility": 0.36739933490753174,
+        "ApplicationProcess": 0.3812715411186218,
+        "TimelineFrequency": 0.3185045123100281,
+        "AuthoritiesGovernance": 0.3462960124015808,
+        "DefinitionsReferences": 0.3951079249382019
+      }
+    },
+    {
+      "sentence": "In addition to the competition, the government also organizes festivals and events that celebrate Tiatr and its artists.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.40761810541152954,
+      "similarities": {
+        "ContextObjective": 0.40470826625823975,
+        "BenefitsAssistance": 0.3596643805503845,
+        "Eligibility": 0.3874831199645996,
+        "ApplicationProcess": 0.3707069754600525,
+        "TimelineFrequency": 0.40385013818740845,
+        "AuthoritiesGovernance": 0.40761810541152954,
+        "DefinitionsReferences": 0.3962610960006714
+      }
+    },
+    {
+      "sentence": "The competition has received positive feedback from participants and audiences alike, contributing to its growing popularity.",
+      "role": "ContextObjective",
+      "confidence": 0.465955525636673,
+      "similarities": {
+        "ContextObjective": 0.465955525636673,
+        "BenefitsAssistance": 0.3631957471370697,
+        "Eligibility": 0.3921680152416229,
+        "ApplicationProcess": 0.3807342052459717,
+        "TimelineFrequency": 0.37058225274086,
+        "AuthoritiesGovernance": 0.3539171814918518,
+        "DefinitionsReferences": 0.40908801555633545
+      }
+    },
+    {
+      "sentence": "Many past winners have gone on to achieve significant recognition in the field of performing arts.",
+      "role": "Eligibility",
+      "confidence": 0.41972655057907104,
+      "similarities": {
+        "ContextObjective": 0.4002133309841156,
+        "BenefitsAssistance": 0.3739350438117981,
+        "Eligibility": 0.41972655057907104,
+        "ApplicationProcess": 0.36780741810798645,
+        "TimelineFrequency": 0.3849610686302185,
+        "AuthoritiesGovernance": 0.3492286801338196,
+        "DefinitionsReferences": 0.40965595841407776
+      }
+    },
+    {
+      "sentence": "The government continues to evaluate and improve the competition based on participant feedback and changing cultural dynamics.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4665214717388153,
+      "similarities": {
+        "ContextObjective": 0.4223223328590393,
+        "BenefitsAssistance": 0.3861057460308075,
+        "Eligibility": 0.41201040148735046,
+        "ApplicationProcess": 0.4195846915245056,
+        "TimelineFrequency": 0.3972560465335846,
+        "AuthoritiesGovernance": 0.4665214717388153,
+        "DefinitionsReferences": 0.4125640392303467
+      }
+    },
+    {
+      "sentence": "The Popular Tiatr Competition is a testament to the Government of Goa's commitment to fostering artistic expression and cultural heritage.",
+      "role": "ContextObjective",
+      "confidence": 0.38748791813850403,
+      "similarities": {
+        "ContextObjective": 0.38748791813850403,
+        "BenefitsAssistance": 0.2830836772918701,
+        "Eligibility": 0.34599781036376953,
+        "ApplicationProcess": 0.3493565618991852,
+        "TimelineFrequency": 0.31583988666534424,
+        "AuthoritiesGovernance": 0.2947359085083008,
+        "DefinitionsReferences": 0.33247971534729004
+      }
+    },
+    {
+      "sentence": "It highlights the importance of community involvement in preserving traditional art forms for future generations.",
+      "role": "ContextObjective",
+      "confidence": 0.4017789959907532,
+      "similarities": {
+        "ContextObjective": 0.4017789959907532,
+        "BenefitsAssistance": 0.3260173797607422,
+        "Eligibility": 0.3489744961261749,
+        "ApplicationProcess": 0.35160303115844727,
+        "TimelineFrequency": 0.3245954215526581,
+        "AuthoritiesGovernance": 0.34688013792037964,
+        "DefinitionsReferences": 0.3564181327819824
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to ensure that Tiatr remains a vibrant and relevant part of Goan culture.",
+      "role": "ContextObjective",
+      "confidence": 0.45743852853775024,
+      "similarities": {
+        "ContextObjective": 0.45743852853775024,
+        "BenefitsAssistance": 0.3079363703727722,
+        "Eligibility": 0.3853145241737366,
+        "ApplicationProcess": 0.37920522689819336,
+        "TimelineFrequency": 0.34004294872283936,
+        "AuthoritiesGovernance": 0.38715264201164246,
+        "DefinitionsReferences": 0.36197030544281006
+      }
+    },
+    {
+      "sentence": "Overall, the Popular Tiatr Competition plays a crucial role in the cultural landscape of Goa, promoting creativity and artistic collaboration.",
+      "role": "ContextObjective",
+      "confidence": 0.3907890319824219,
+      "similarities": {
+        "ContextObjective": 0.3907890319824219,
+        "BenefitsAssistance": 0.2630353569984436,
+        "Eligibility": 0.3262650966644287,
+        "ApplicationProcess": 0.3129456043243408,
+        "TimelineFrequency": 0.31924158334732056,
+        "AuthoritiesGovernance": 0.29149580001831055,
+        "DefinitionsReferences": 0.3267214894294739
+      }
+    },
+    {
+      "sentence": "The initiative not only supports individual artists but also strengthens the community by bringing people together through the love of Tiatr.",
+      "role": "ContextObjective",
+      "confidence": 0.39188921451568604,
+      "similarities": {
+        "ContextObjective": 0.39188921451568604,
+        "BenefitsAssistance": 0.3413819670677185,
+        "Eligibility": 0.36592307686805725,
+        "ApplicationProcess": 0.3207035958766937,
+        "TimelineFrequency": 0.31597715616226196,
+        "AuthoritiesGovernance": 0.3528616428375244,
+        "DefinitionsReferences": 0.3221777677536011
+      }
+    },
+    {
+      "sentence": "In conclusion, the Popular Tiatr Competition is a significant welfare scheme that embodies the spirit of Goan culture and tradition.",
+      "role": "ContextObjective",
+      "confidence": 0.44198495149612427,
+      "similarities": {
+        "ContextObjective": 0.44198495149612427,
+        "BenefitsAssistance": 0.3412270247936249,
+        "Eligibility": 0.36055952310562134,
+        "ApplicationProcess": 0.3428735136985779,
+        "TimelineFrequency": 0.3145654797554016,
+        "AuthoritiesGovernance": 0.30545252561569214,
+        "DefinitionsReferences": 0.3329624831676483
+      }
+    },
+    {
+      "sentence": "It provides a structured platform for artists to thrive while ensuring the preservation of a beloved art form.",
+      "role": "ContextObjective",
+      "confidence": 0.4981854557991028,
+      "similarities": {
+        "ContextObjective": 0.4981854557991028,
+        "BenefitsAssistance": 0.41512662172317505,
+        "Eligibility": 0.4655799865722656,
+        "ApplicationProcess": 0.4571670889854431,
+        "TimelineFrequency": 0.4187361001968384,
+        "AuthoritiesGovernance": 0.42449134588241577,
+        "DefinitionsReferences": 0.4520449638366699
+      }
+    },
+    {
+      "sentence": "The competition continues to evolve, reflecting the changing dynamics of society while staying true to its roots.",
+      "role": "ContextObjective",
+      "confidence": 0.4443505108356476,
+      "similarities": {
+        "ContextObjective": 0.4443505108356476,
+        "BenefitsAssistance": 0.3505861759185791,
+        "Eligibility": 0.37763622403144836,
+        "ApplicationProcess": 0.37703752517700195,
+        "TimelineFrequency": 0.3778161406517029,
+        "AuthoritiesGovernance": 0.38642269372940063,
+        "DefinitionsReferences": 0.41538792848587036
+      }
+    },
+    {
+      "sentence": "This initiative is a prime example of how government support can enhance cultural expressions and foster community pride.",
+      "role": "ContextObjective",
+      "confidence": 0.46660685539245605,
+      "similarities": {
+        "ContextObjective": 0.46660685539245605,
+        "BenefitsAssistance": 0.3641945719718933,
+        "Eligibility": 0.38225120306015015,
+        "ApplicationProcess": 0.3566236197948456,
+        "TimelineFrequency": 0.3279803395271301,
+        "AuthoritiesGovernance": 0.3518081307411194,
+        "DefinitionsReferences": 0.35461676120758057
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "TimelineFrequency": 3,
+    "BenefitsAssistance": 6,
+    "Eligibility": 6,
+    "ApplicationProcess": 5,
+    "AuthoritiesGovernance": 6,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:43:53.819304"
+}

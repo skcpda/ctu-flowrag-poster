@@ -1,0 +1,911 @@
+{
+  "scheme_name": "Ganga Swarupa Pension Scheme",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "The Ganga Swarupa Pension Scheme is a welfare initiative launched by the Government of Uttarakhand.",
+      "role": "ContextObjective",
+      "confidence": 0.5288469791412354,
+      "similarities": {
+        "ContextObjective": 0.5288469791412354,
+        "BenefitsAssistance": 0.4374447464942932,
+        "Eligibility": 0.46557801961898804,
+        "ApplicationProcess": 0.38879695534706116,
+        "TimelineFrequency": 0.37352797389030457,
+        "AuthoritiesGovernance": 0.4378868043422699,
+        "DefinitionsReferences": 0.3343994915485382
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on December 1, 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5799374580383301,
+      "similarities": {
+        "ContextObjective": 0.5799374580383301,
+        "BenefitsAssistance": 0.4433644115924835,
+        "Eligibility": 0.4680069088935852,
+        "ApplicationProcess": 0.4712989032268524,
+        "TimelineFrequency": 0.4672808349132538,
+        "AuthoritiesGovernance": 0.43661290407180786,
+        "DefinitionsReferences": 0.3468681573867798
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance to the elderly population of the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5002796649932861,
+      "similarities": {
+        "ContextObjective": 0.45782697200775146,
+        "BenefitsAssistance": 0.5002796649932861,
+        "Eligibility": 0.49684178829193115,
+        "ApplicationProcess": 0.424460232257843,
+        "TimelineFrequency": 0.40668320655822754,
+        "AuthoritiesGovernance": 0.4315856099128723,
+        "DefinitionsReferences": 0.36477530002593994
+      }
+    },
+    {
+      "sentence": "The primary objective of the Ganga Swarupa Pension Scheme is to ensure that senior citizens receive a monthly pension.",
+      "role": "ContextObjective",
+      "confidence": 0.5340278148651123,
+      "similarities": {
+        "ContextObjective": 0.5340278148651123,
+        "BenefitsAssistance": 0.43717634677886963,
+        "Eligibility": 0.4679248631000519,
+        "ApplicationProcess": 0.4209505021572113,
+        "TimelineFrequency": 0.4108848571777344,
+        "AuthoritiesGovernance": 0.4099288880825043,
+        "DefinitionsReferences": 0.33006662130355835
+      }
+    },
+    {
+      "sentence": "The scheme targets individuals aged 60 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.5778883099555969,
+      "similarities": {
+        "ContextObjective": 0.5419901609420776,
+        "BenefitsAssistance": 0.4896693229675293,
+        "Eligibility": 0.5778883099555969,
+        "ApplicationProcess": 0.4817454218864441,
+        "TimelineFrequency": 0.47374585270881653,
+        "AuthoritiesGovernance": 0.42621904611587524,
+        "DefinitionsReferences": 0.3758332133293152
+      }
+    },
+    {
+      "sentence": "The pension amount provided under this scheme is ₹1,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49759748578071594,
+      "similarities": {
+        "ContextObjective": 0.4652702510356903,
+        "BenefitsAssistance": 0.49759748578071594,
+        "Eligibility": 0.46108222007751465,
+        "ApplicationProcess": 0.4089273512363434,
+        "TimelineFrequency": 0.40126752853393555,
+        "AuthoritiesGovernance": 0.37851476669311523,
+        "DefinitionsReferences": 0.3233128488063812
+      }
+    },
+    {
+      "sentence": "This financial assistance is aimed at improving the quality of life for the elderly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5253764390945435,
+      "similarities": {
+        "ContextObjective": 0.4479389786720276,
+        "BenefitsAssistance": 0.5253764390945435,
+        "Eligibility": 0.47657448053359985,
+        "ApplicationProcess": 0.4179918169975281,
+        "TimelineFrequency": 0.40347588062286377,
+        "AuthoritiesGovernance": 0.41795986890792847,
+        "DefinitionsReferences": 0.3854371905326843
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on those who are economically disadvantaged.",
+      "role": "Eligibility",
+      "confidence": 0.5544633865356445,
+      "similarities": {
+        "ContextObjective": 0.5410538911819458,
+        "BenefitsAssistance": 0.49660438299179077,
+        "Eligibility": 0.5544633865356445,
+        "ApplicationProcess": 0.4305279850959778,
+        "TimelineFrequency": 0.4321727752685547,
+        "AuthoritiesGovernance": 0.4327390193939209,
+        "DefinitionsReferences": 0.3726981282234192
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Ganga Swarupa Pension Scheme include specific age and income limits.",
+      "role": "Eligibility",
+      "confidence": 0.6155807375907898,
+      "similarities": {
+        "ContextObjective": 0.4838676154613495,
+        "BenefitsAssistance": 0.5040796399116516,
+        "Eligibility": 0.6155807375907898,
+        "ApplicationProcess": 0.4637446701526642,
+        "TimelineFrequency": 0.47184982895851135,
+        "AuthoritiesGovernance": 0.3621753454208374,
+        "DefinitionsReferences": 0.3758224844932556
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Uttarakhand.",
+      "role": "Eligibility",
+      "confidence": 0.6072922945022583,
+      "similarities": {
+        "ContextObjective": 0.45550864934921265,
+        "BenefitsAssistance": 0.3994588255882263,
+        "Eligibility": 0.6072922945022583,
+        "ApplicationProcess": 0.5427700281143188,
+        "TimelineFrequency": 0.4732246994972229,
+        "AuthoritiesGovernance": 0.42045706510543823,
+        "DefinitionsReferences": 0.3760462999343872
+      }
+    },
+    {
+      "sentence": "They must be at least 60 years old at the time of application.",
+      "role": "Eligibility",
+      "confidence": 0.6167378425598145,
+      "similarities": {
+        "ContextObjective": 0.45727381110191345,
+        "BenefitsAssistance": 0.43932050466537476,
+        "Eligibility": 0.6167378425598145,
+        "ApplicationProcess": 0.5648163557052612,
+        "TimelineFrequency": 0.5381093621253967,
+        "AuthoritiesGovernance": 0.43382537364959717,
+        "DefinitionsReferences": 0.40024423599243164
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹1 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5887008905410767,
+      "similarities": {
+        "ContextObjective": 0.45203396677970886,
+        "BenefitsAssistance": 0.47750380635261536,
+        "Eligibility": 0.5887008905410767,
+        "ApplicationProcess": 0.4764295816421509,
+        "TimelineFrequency": 0.4445642828941345,
+        "AuthoritiesGovernance": 0.35823312401771545,
+        "DefinitionsReferences": 0.3632851243019104
+      }
+    },
+    {
+      "sentence": "This means that individuals whose annual income exceeds this threshold are not eligible for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5355144739151001,
+      "similarities": {
+        "ContextObjective": 0.3848721385002136,
+        "BenefitsAssistance": 0.4036253094673157,
+        "Eligibility": 0.5355144739151001,
+        "ApplicationProcess": 0.3692573010921478,
+        "TimelineFrequency": 0.40349406003952026,
+        "AuthoritiesGovernance": 0.3266211450099945,
+        "DefinitionsReferences": 0.23212988674640656
+      }
+    },
+    {
+      "sentence": "The application process for the Ganga Swarupa Pension Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.51808762550354,
+      "similarities": {
+        "ContextObjective": 0.507529079914093,
+        "BenefitsAssistance": 0.42422449588775635,
+        "Eligibility": 0.4899422228336334,
+        "ApplicationProcess": 0.51808762550354,
+        "TimelineFrequency": 0.450888454914093,
+        "AuthoritiesGovernance": 0.38938525319099426,
+        "DefinitionsReferences": 0.3353821635246277
+      }
+    },
+    {
+      "sentence": "Interested individuals must fill out an application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7618227005004883,
+      "similarities": {
+        "ContextObjective": 0.5647612810134888,
+        "BenefitsAssistance": 0.5313513278961182,
+        "Eligibility": 0.6743445992469788,
+        "ApplicationProcess": 0.7618227005004883,
+        "TimelineFrequency": 0.6105011701583862,
+        "AuthoritiesGovernance": 0.5002185702323914,
+        "DefinitionsReferences": 0.5041553974151611
+      }
+    },
+    {
+      "sentence": "This form can be obtained from the local government offices or online portals.",
+      "role": "ApplicationProcess",
+      "confidence": 0.674414336681366,
+      "similarities": {
+        "ContextObjective": 0.5021308660507202,
+        "BenefitsAssistance": 0.5452878475189209,
+        "Eligibility": 0.5489196181297302,
+        "ApplicationProcess": 0.674414336681366,
+        "TimelineFrequency": 0.535178005695343,
+        "AuthoritiesGovernance": 0.5367569327354431,
+        "DefinitionsReferences": 0.5351038575172424
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit proof of age.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6816402673721313,
+      "similarities": {
+        "ContextObjective": 0.4764859974384308,
+        "BenefitsAssistance": 0.5051278471946716,
+        "Eligibility": 0.6296209096908569,
+        "ApplicationProcess": 0.6816402673721313,
+        "TimelineFrequency": 0.6021760702133179,
+        "AuthoritiesGovernance": 0.4527989625930786,
+        "DefinitionsReferences": 0.47533226013183594
+      }
+    },
+    {
+      "sentence": "This can be done through documents such as an Aadhaar card or birth certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6059132218360901,
+      "similarities": {
+        "ContextObjective": 0.46502628922462463,
+        "BenefitsAssistance": 0.5651053190231323,
+        "Eligibility": 0.5120740532875061,
+        "ApplicationProcess": 0.6059132218360901,
+        "TimelineFrequency": 0.49771586060523987,
+        "AuthoritiesGovernance": 0.4353508949279785,
+        "DefinitionsReferences": 0.5160097479820251
+      }
+    },
+    {
+      "sentence": "Proof of residence in Uttarakhand is also necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5697773694992065,
+      "similarities": {
+        "ContextObjective": 0.4470946788787842,
+        "BenefitsAssistance": 0.44764259457588196,
+        "Eligibility": 0.5277354717254639,
+        "ApplicationProcess": 0.5697773694992065,
+        "TimelineFrequency": 0.4398789405822754,
+        "AuthoritiesGovernance": 0.42520666122436523,
+        "DefinitionsReferences": 0.436231404542923
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must provide income proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6340125799179077,
+      "similarities": {
+        "ContextObjective": 0.4869968295097351,
+        "BenefitsAssistance": 0.5530561208724976,
+        "Eligibility": 0.6091905832290649,
+        "ApplicationProcess": 0.6340125799179077,
+        "TimelineFrequency": 0.5241600275039673,
+        "AuthoritiesGovernance": 0.3978383541107178,
+        "DefinitionsReferences": 0.4610366225242615
+      }
+    },
+    {
+      "sentence": "This can include income certificates or tax returns.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6043252348899841,
+      "similarities": {
+        "ContextObjective": 0.46793070435523987,
+        "BenefitsAssistance": 0.6043252348899841,
+        "Eligibility": 0.5347793102264404,
+        "ApplicationProcess": 0.5586632490158081,
+        "TimelineFrequency": 0.4990147352218628,
+        "AuthoritiesGovernance": 0.43006664514541626,
+        "DefinitionsReferences": 0.544457197189331
+      }
+    },
+    {
+      "sentence": "Once the application form is completed, it must be submitted to the local Panchayat or municipal office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6515690088272095,
+      "similarities": {
+        "ContextObjective": 0.43318212032318115,
+        "BenefitsAssistance": 0.40923526883125305,
+        "Eligibility": 0.5132441520690918,
+        "ApplicationProcess": 0.6515690088272095,
+        "TimelineFrequency": 0.4939437508583069,
+        "AuthoritiesGovernance": 0.4655618965625763,
+        "DefinitionsReferences": 0.39408767223358154
+      }
+    },
+    {
+      "sentence": "The application will then be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6749379634857178,
+      "similarities": {
+        "ContextObjective": 0.5218541622161865,
+        "BenefitsAssistance": 0.47402623295783997,
+        "Eligibility": 0.6071313619613647,
+        "ApplicationProcess": 0.6749379634857178,
+        "TimelineFrequency": 0.5793724656105042,
+        "AuthoritiesGovernance": 0.52391117811203,
+        "DefinitionsReferences": 0.5022296905517578
+      }
+    },
+    {
+      "sentence": "Successful applicants will receive their pension payments on a monthly basis.",
+      "role": "Eligibility",
+      "confidence": 0.5362157225608826,
+      "similarities": {
+        "ContextObjective": 0.48118922114372253,
+        "BenefitsAssistance": 0.5067794919013977,
+        "Eligibility": 0.5362157225608826,
+        "ApplicationProcess": 0.5327925682067871,
+        "TimelineFrequency": 0.5326194763183594,
+        "AuthoritiesGovernance": 0.44947701692581177,
+        "DefinitionsReferences": 0.3655921220779419
+      }
+    },
+    {
+      "sentence": "The disbursement of pensions occurs on the first week of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5211206078529358,
+      "similarities": {
+        "ContextObjective": 0.4747159481048584,
+        "BenefitsAssistance": 0.515658438205719,
+        "Eligibility": 0.4648338258266449,
+        "ApplicationProcess": 0.409219890832901,
+        "TimelineFrequency": 0.5211206078529358,
+        "AuthoritiesGovernance": 0.4634104371070862,
+        "DefinitionsReferences": 0.3645994961261749
+      }
+    },
+    {
+      "sentence": "The funds are transferred directly to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5192859172821045,
+      "similarities": {
+        "ContextObjective": 0.4240413308143616,
+        "BenefitsAssistance": 0.5192859172821045,
+        "Eligibility": 0.5119043588638306,
+        "ApplicationProcess": 0.430419921875,
+        "TimelineFrequency": 0.3837969899177551,
+        "AuthoritiesGovernance": 0.4211660623550415,
+        "DefinitionsReferences": 0.3703829050064087
+      }
+    },
+    {
+      "sentence": "This ensures that the assistance reaches the intended recipients without any delays.",
+      "role": "Eligibility",
+      "confidence": 0.47884535789489746,
+      "similarities": {
+        "ContextObjective": 0.4344971179962158,
+        "BenefitsAssistance": 0.4467306435108185,
+        "Eligibility": 0.47884535789489746,
+        "ApplicationProcess": 0.393231064081192,
+        "TimelineFrequency": 0.4056970775127411,
+        "AuthoritiesGovernance": 0.4148682951927185,
+        "DefinitionsReferences": 0.315939337015152
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Ganga Swarupa Pension Scheme is the Social Welfare Department of Uttarakhand.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5316451191902161,
+      "similarities": {
+        "ContextObjective": 0.42748355865478516,
+        "BenefitsAssistance": 0.40820905566215515,
+        "Eligibility": 0.4663432240486145,
+        "ApplicationProcess": 0.35684332251548767,
+        "TimelineFrequency": 0.3274496793746948,
+        "AuthoritiesGovernance": 0.5316451191902161,
+        "DefinitionsReferences": 0.3408993184566498
+      }
+    },
+    {
+      "sentence": "This department is responsible for overseeing the application process and disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6173387765884399,
+      "similarities": {
+        "ContextObjective": 0.4927130341529846,
+        "BenefitsAssistance": 0.5903558731079102,
+        "Eligibility": 0.5830530524253845,
+        "ApplicationProcess": 0.6173387765884399,
+        "TimelineFrequency": 0.5654948353767395,
+        "AuthoritiesGovernance": 0.5714191198348999,
+        "DefinitionsReferences": 0.4548545479774475
+      }
+    },
+    {
+      "sentence": "The contact details for the Social Welfare Department can be found on the official Uttarakhand government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5009645223617554,
+      "similarities": {
+        "ContextObjective": 0.4309552311897278,
+        "BenefitsAssistance": 0.48231667280197144,
+        "Eligibility": 0.44972532987594604,
+        "ApplicationProcess": 0.4658132791519165,
+        "TimelineFrequency": 0.3740050792694092,
+        "AuthoritiesGovernance": 0.5009645223617554,
+        "DefinitionsReferences": 0.4228138327598572
+      }
+    },
+    {
+      "sentence": "The Ganga Swarupa Pension Scheme is part of a broader initiative to support the elderly population in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4786536693572998,
+      "similarities": {
+        "ContextObjective": 0.4786536693572998,
+        "BenefitsAssistance": 0.4495396614074707,
+        "Eligibility": 0.4565093517303467,
+        "ApplicationProcess": 0.37487322092056274,
+        "TimelineFrequency": 0.355276882648468,
+        "AuthoritiesGovernance": 0.4138134717941284,
+        "DefinitionsReferences": 0.34772592782974243
+      }
+    },
+    {
+      "sentence": "According to the 2011 Census, the elderly population in Uttarakhand was approximately 1.3 million.",
+      "role": "Eligibility",
+      "confidence": 0.3605210781097412,
+      "similarities": {
+        "ContextObjective": 0.3227114677429199,
+        "BenefitsAssistance": 0.3437597155570984,
+        "Eligibility": 0.3605210781097412,
+        "ApplicationProcess": 0.30827438831329346,
+        "TimelineFrequency": 0.28587692975997925,
+        "AuthoritiesGovernance": 0.3495247960090637,
+        "DefinitionsReferences": 0.2813047766685486
+      }
+    },
+    {
+      "sentence": "This number has likely increased in recent years due to demographic changes.",
+      "role": "ContextObjective",
+      "confidence": 0.41094881296157837,
+      "similarities": {
+        "ContextObjective": 0.41094881296157837,
+        "BenefitsAssistance": 0.3959776759147644,
+        "Eligibility": 0.40242689847946167,
+        "ApplicationProcess": 0.38959163427352905,
+        "TimelineFrequency": 0.38909509778022766,
+        "AuthoritiesGovernance": 0.3532295525074005,
+        "DefinitionsReferences": 0.38429826498031616
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit a significant portion of this elderly demographic.",
+      "role": "Eligibility",
+      "confidence": 0.5060296058654785,
+      "similarities": {
+        "ContextObjective": 0.48776355385780334,
+        "BenefitsAssistance": 0.4714435338973999,
+        "Eligibility": 0.5060296058654785,
+        "ApplicationProcess": 0.39777952432632446,
+        "TimelineFrequency": 0.38111868500709534,
+        "AuthoritiesGovernance": 0.40749895572662354,
+        "DefinitionsReferences": 0.3525315523147583
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹100 crore for the implementation of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4855138063430786,
+      "similarities": {
+        "ContextObjective": 0.47073429822921753,
+        "BenefitsAssistance": 0.47771432995796204,
+        "Eligibility": 0.4855138063430786,
+        "ApplicationProcess": 0.4105668067932129,
+        "TimelineFrequency": 0.39217761158943176,
+        "AuthoritiesGovernance": 0.47261902689933777,
+        "DefinitionsReferences": 0.3485284447669983
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that the financial assistance is sustainable.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5653525590896606,
+      "similarities": {
+        "ContextObjective": 0.5045095086097717,
+        "BenefitsAssistance": 0.5653525590896606,
+        "Eligibility": 0.49846455454826355,
+        "ApplicationProcess": 0.4564092457294464,
+        "TimelineFrequency": 0.46014246344566345,
+        "AuthoritiesGovernance": 0.4595682919025421,
+        "DefinitionsReferences": 0.4075661301612854
+      }
+    },
+    {
+      "sentence": "The Ganga Swarupa Pension Scheme is a crucial step towards social security for senior citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.46190789341926575,
+      "similarities": {
+        "ContextObjective": 0.46190789341926575,
+        "BenefitsAssistance": 0.4280150532722473,
+        "Eligibility": 0.42658212780952454,
+        "ApplicationProcess": 0.39682769775390625,
+        "TimelineFrequency": 0.34033867716789246,
+        "AuthoritiesGovernance": 0.3546501398086548,
+        "DefinitionsReferences": 0.3521551489830017
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving the welfare of the elderly.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.42396873235702515,
+      "similarities": {
+        "ContextObjective": 0.3968755602836609,
+        "BenefitsAssistance": 0.3936871290206909,
+        "Eligibility": 0.3983011841773987,
+        "ApplicationProcess": 0.3784090280532837,
+        "TimelineFrequency": 0.3457867205142975,
+        "AuthoritiesGovernance": 0.42396873235702515,
+        "DefinitionsReferences": 0.3821107745170593
+      }
+    },
+    {
+      "sentence": "The scheme also aims to reduce poverty among the elderly population.",
+      "role": "ContextObjective",
+      "confidence": 0.4803617298603058,
+      "similarities": {
+        "ContextObjective": 0.4803617298603058,
+        "BenefitsAssistance": 0.4126775562763214,
+        "Eligibility": 0.46630528569221497,
+        "ApplicationProcess": 0.39250481128692627,
+        "TimelineFrequency": 0.34468257427215576,
+        "AuthoritiesGovernance": 0.4002755284309387,
+        "DefinitionsReferences": 0.3210797905921936
+      }
+    },
+    {
+      "sentence": "By providing a stable source of income, the scheme helps to alleviate financial stress.",
+      "role": "ContextObjective",
+      "confidence": 0.5098131895065308,
+      "similarities": {
+        "ContextObjective": 0.5098131895065308,
+        "BenefitsAssistance": 0.5063177347183228,
+        "Eligibility": 0.4745394289493561,
+        "ApplicationProcess": 0.42941030859947205,
+        "TimelineFrequency": 0.3997710049152374,
+        "AuthoritiesGovernance": 0.36614128947257996,
+        "DefinitionsReferences": 0.3608629107475281
+      }
+    },
+    {
+      "sentence": "This is particularly important in a state like Uttarakhand, where many elderly individuals rely on family support.",
+      "role": "Eligibility",
+      "confidence": 0.455160915851593,
+      "similarities": {
+        "ContextObjective": 0.38313013315200806,
+        "BenefitsAssistance": 0.4370005130767822,
+        "Eligibility": 0.455160915851593,
+        "ApplicationProcess": 0.36669307947158813,
+        "TimelineFrequency": 0.352727472782135,
+        "AuthoritiesGovernance": 0.39065608382225037,
+        "DefinitionsReferences": 0.3706952929496765
+      }
+    },
+    {
+      "sentence": "The scheme is expected to empower elderly citizens by giving them financial independence.",
+      "role": "ContextObjective",
+      "confidence": 0.4937841296195984,
+      "similarities": {
+        "ContextObjective": 0.4937841296195984,
+        "BenefitsAssistance": 0.4881143271923065,
+        "Eligibility": 0.4885963201522827,
+        "ApplicationProcess": 0.4069664180278778,
+        "TimelineFrequency": 0.38218289613723755,
+        "AuthoritiesGovernance": 0.3922211825847626,
+        "DefinitionsReferences": 0.3439563512802124
+      }
+    },
+    {
+      "sentence": "Moreover, it encourages a sense of dignity among the elderly.",
+      "role": "ContextObjective",
+      "confidence": 0.3885335326194763,
+      "similarities": {
+        "ContextObjective": 0.3885335326194763,
+        "BenefitsAssistance": 0.33467358350753784,
+        "Eligibility": 0.3457111716270447,
+        "ApplicationProcess": 0.31936249136924744,
+        "TimelineFrequency": 0.2912178039550781,
+        "AuthoritiesGovernance": 0.30476921796798706,
+        "DefinitionsReferences": 0.33725506067276
+      }
+    },
+    {
+      "sentence": "The government has also initiated awareness campaigns about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.554860532283783,
+      "similarities": {
+        "ContextObjective": 0.554860532283783,
+        "BenefitsAssistance": 0.47246330976486206,
+        "Eligibility": 0.4889110326766968,
+        "ApplicationProcess": 0.4881662428379059,
+        "TimelineFrequency": 0.4178851246833801,
+        "AuthoritiesGovernance": 0.4928795099258423,
+        "DefinitionsReferences": 0.43592774868011475
+      }
+    },
+    {
+      "sentence": "These campaigns aim to inform potential beneficiaries about the application process and eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6801678538322449,
+      "similarities": {
+        "ContextObjective": 0.5916457176208496,
+        "BenefitsAssistance": 0.530601978302002,
+        "Eligibility": 0.6801678538322449,
+        "ApplicationProcess": 0.607676088809967,
+        "TimelineFrequency": 0.5910619497299194,
+        "AuthoritiesGovernance": 0.4849887490272522,
+        "DefinitionsReferences": 0.47079193592071533
+      }
+    },
+    {
+      "sentence": "Local government officials are trained to assist applicants in filling out forms.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6280184984207153,
+      "similarities": {
+        "ContextObjective": 0.47765684127807617,
+        "BenefitsAssistance": 0.4606187641620636,
+        "Eligibility": 0.5619016885757446,
+        "ApplicationProcess": 0.6280184984207153,
+        "TimelineFrequency": 0.5307127237319946,
+        "AuthoritiesGovernance": 0.5705521106719971,
+        "DefinitionsReferences": 0.515579104423523
+      }
+    },
+    {
+      "sentence": "This ensures that the process is user-friendly and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5474096536636353,
+      "similarities": {
+        "ContextObjective": 0.4611745774745941,
+        "BenefitsAssistance": 0.4892018437385559,
+        "Eligibility": 0.49620288610458374,
+        "ApplicationProcess": 0.5474096536636353,
+        "TimelineFrequency": 0.4722474217414856,
+        "AuthoritiesGovernance": 0.46561914682388306,
+        "DefinitionsReferences": 0.45544421672821045
+      }
+    },
+    {
+      "sentence": "The Ganga Swarupa Pension Scheme is part of the larger framework of welfare schemes in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5346301794052124,
+      "similarities": {
+        "ContextObjective": 0.5346301794052124,
+        "BenefitsAssistance": 0.4914407730102539,
+        "Eligibility": 0.4873875081539154,
+        "ApplicationProcess": 0.39714592695236206,
+        "TimelineFrequency": 0.3967519700527191,
+        "AuthoritiesGovernance": 0.45993128418922424,
+        "DefinitionsReferences": 0.392453134059906
+      }
+    },
+    {
+      "sentence": "It aligns with the National Policy on Older Persons, which emphasizes the need for social security.",
+      "role": "ContextObjective",
+      "confidence": 0.43541374802589417,
+      "similarities": {
+        "ContextObjective": 0.43541374802589417,
+        "BenefitsAssistance": 0.4310610890388489,
+        "Eligibility": 0.4337829351425171,
+        "ApplicationProcess": 0.3988114595413208,
+        "TimelineFrequency": 0.352702796459198,
+        "AuthoritiesGovernance": 0.3451741933822632,
+        "DefinitionsReferences": 0.3638521432876587
+      }
+    },
+    {
+      "sentence": "The scheme is expected to be reviewed periodically to assess its impact.",
+      "role": "TimelineFrequency",
+      "confidence": 0.543508768081665,
+      "similarities": {
+        "ContextObjective": 0.5375797748565674,
+        "BenefitsAssistance": 0.5090640783309937,
+        "Eligibility": 0.5331184267997742,
+        "ApplicationProcess": 0.5080079436302185,
+        "TimelineFrequency": 0.543508768081665,
+        "AuthoritiesGovernance": 0.4712793529033661,
+        "DefinitionsReferences": 0.45412442088127136
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5384361147880554,
+      "similarities": {
+        "ContextObjective": 0.5384361147880554,
+        "BenefitsAssistance": 0.5036500692367554,
+        "Eligibility": 0.5350629687309265,
+        "ApplicationProcess": 0.481128066778183,
+        "TimelineFrequency": 0.4394797086715698,
+        "AuthoritiesGovernance": 0.4984210133552551,
+        "DefinitionsReferences": 0.43036162853240967
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that the scheme remains relevant to the needs of the elderly.",
+      "role": "ContextObjective",
+      "confidence": 0.5419738292694092,
+      "similarities": {
+        "ContextObjective": 0.5419738292694092,
+        "BenefitsAssistance": 0.43458038568496704,
+        "Eligibility": 0.5283203125,
+        "ApplicationProcess": 0.44657617807388306,
+        "TimelineFrequency": 0.42439547181129456,
+        "AuthoritiesGovernance": 0.46427077054977417,
+        "DefinitionsReferences": 0.4037175178527832
+      }
+    },
+    {
+      "sentence": "In conclusion, the Ganga Swarupa Pension Scheme is a significant initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5085349678993225,
+      "similarities": {
+        "ContextObjective": 0.5085349678993225,
+        "BenefitsAssistance": 0.4255761206150055,
+        "Eligibility": 0.3962969183921814,
+        "ApplicationProcess": 0.3732772171497345,
+        "TimelineFrequency": 0.3470330834388733,
+        "AuthoritiesGovernance": 0.3629133105278015,
+        "DefinitionsReferences": 0.3424533009529114
+      }
+    },
+    {
+      "sentence": "It provides essential financial support to the elderly population in Uttarakhand.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47887682914733887,
+      "similarities": {
+        "ContextObjective": 0.3953930735588074,
+        "BenefitsAssistance": 0.47887682914733887,
+        "Eligibility": 0.4374281167984009,
+        "ApplicationProcess": 0.3593757748603821,
+        "TimelineFrequency": 0.3323139250278473,
+        "AuthoritiesGovernance": 0.3677215576171875,
+        "DefinitionsReferences": 0.34487009048461914
+      }
+    },
+    {
+      "sentence": "With a monthly pension of ₹1,000, it aims to enhance the quality of life for senior citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4613887667655945,
+      "similarities": {
+        "ContextObjective": 0.4613887667655945,
+        "BenefitsAssistance": 0.4531898498535156,
+        "Eligibility": 0.4267662465572357,
+        "ApplicationProcess": 0.3850846290588379,
+        "TimelineFrequency": 0.3476131856441498,
+        "AuthoritiesGovernance": 0.3588098883628845,
+        "DefinitionsReferences": 0.33870843052864075
+      }
+    },
+    {
+      "sentence": "The eligibility criteria are clear and focused on economically disadvantaged individuals.",
+      "role": "Eligibility",
+      "confidence": 0.6330646276473999,
+      "similarities": {
+        "ContextObjective": 0.49863991141319275,
+        "BenefitsAssistance": 0.4896388351917267,
+        "Eligibility": 0.6330646276473999,
+        "ApplicationProcess": 0.4791261851787567,
+        "TimelineFrequency": 0.46691739559173584,
+        "AuthoritiesGovernance": 0.4057455062866211,
+        "DefinitionsReferences": 0.3983704447746277
+      }
+    },
+    {
+      "sentence": "The application process is designed to be straightforward and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6448320746421814,
+      "similarities": {
+        "ContextObjective": 0.5327168703079224,
+        "BenefitsAssistance": 0.48585888743400574,
+        "Eligibility": 0.5793018341064453,
+        "ApplicationProcess": 0.6448320746421814,
+        "TimelineFrequency": 0.5681957602500916,
+        "AuthoritiesGovernance": 0.45981231331825256,
+        "DefinitionsReferences": 0.45673006772994995
+      }
+    },
+    {
+      "sentence": "Overall, the scheme represents a commitment to social welfare and the empowerment of the elderly.",
+      "role": "ContextObjective",
+      "confidence": 0.5057679414749146,
+      "similarities": {
+        "ContextObjective": 0.5057679414749146,
+        "BenefitsAssistance": 0.43119531869888306,
+        "Eligibility": 0.4637220501899719,
+        "ApplicationProcess": 0.39830267429351807,
+        "TimelineFrequency": 0.37821221351623535,
+        "AuthoritiesGovernance": 0.4168683886528015,
+        "DefinitionsReferences": 0.3755379319190979
+      }
+    },
+    {
+      "sentence": "It is a vital step towards ensuring that senior citizens can live with dignity and security.",
+      "role": "ApplicationProcess",
+      "confidence": 0.46608367562294006,
+      "similarities": {
+        "ContextObjective": 0.4383857250213623,
+        "BenefitsAssistance": 0.40731972455978394,
+        "Eligibility": 0.4577702283859253,
+        "ApplicationProcess": 0.46608367562294006,
+        "TimelineFrequency": 0.358974814414978,
+        "AuthoritiesGovernance": 0.40202027559280396,
+        "DefinitionsReferences": 0.4079362154006958
+      }
+    },
+    {
+      "sentence": "The Ganga Swarupa Pension Scheme is a model for similar initiatives across India.",
+      "role": "ContextObjective",
+      "confidence": 0.48270970582962036,
+      "similarities": {
+        "ContextObjective": 0.48270970582962036,
+        "BenefitsAssistance": 0.40783509612083435,
+        "Eligibility": 0.42829471826553345,
+        "ApplicationProcess": 0.3700907528400421,
+        "TimelineFrequency": 0.36411935091018677,
+        "AuthoritiesGovernance": 0.39071428775787354,
+        "DefinitionsReferences": 0.3680726885795593
+      }
+    },
+    {
+      "sentence": "It highlights the importance of targeted financial assistance for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.5324469208717346,
+      "similarities": {
+        "ContextObjective": 0.45430511236190796,
+        "BenefitsAssistance": 0.5071690082550049,
+        "Eligibility": 0.5324469208717346,
+        "ApplicationProcess": 0.3718720078468323,
+        "TimelineFrequency": 0.3985656499862671,
+        "AuthoritiesGovernance": 0.3726436495780945,
+        "DefinitionsReferences": 0.36234188079833984
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a lasting impact on the lives of many elderly individuals in Uttarakhand.",
+      "role": "ContextObjective",
+      "confidence": 0.4575340747833252,
+      "similarities": {
+        "ContextObjective": 0.4575340747833252,
+        "BenefitsAssistance": 0.40268099308013916,
+        "Eligibility": 0.4534420669078827,
+        "ApplicationProcess": 0.36980319023132324,
+        "TimelineFrequency": 0.3521847724914551,
+        "AuthoritiesGovernance": 0.39755141735076904,
+        "DefinitionsReferences": 0.352131724357605
+      }
+    },
+    {
+      "sentence": "As the population continues to age, initiatives like this will become increasingly important.",
+      "role": "ContextObjective",
+      "confidence": 0.46747511625289917,
+      "similarities": {
+        "ContextObjective": 0.46747511625289917,
+        "BenefitsAssistance": 0.4193061888217926,
+        "Eligibility": 0.45541372895240784,
+        "ApplicationProcess": 0.4242189824581146,
+        "TimelineFrequency": 0.4337422847747803,
+        "AuthoritiesGovernance": 0.41063058376312256,
+        "DefinitionsReferences": 0.4236909747123718
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to supporting its elderly citizens through such welfare schemes.",
+      "role": "ContextObjective",
+      "confidence": 0.43748044967651367,
+      "similarities": {
+        "ContextObjective": 0.43748044967651367,
+        "BenefitsAssistance": 0.42699235677719116,
+        "Eligibility": 0.42338457703590393,
+        "ApplicationProcess": 0.37290364503860474,
+        "TimelineFrequency": 0.33634334802627563,
+        "AuthoritiesGovernance": 0.43407440185546875,
+        "DefinitionsReferences": 0.38590937852859497
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "BenefitsAssistance": 7,
+    "Eligibility": 16,
+    "ApplicationProcess": 14,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-24T21:06:47.721594"
+}

@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme was launched by the Government of Bihar on January 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.4957948923110962,
+      "similarities": {
+        "ContextObjective": 0.4957948923110962,
+        "BenefitsAssistance": 0.41305679082870483,
+        "Eligibility": 0.4521690607070923,
+        "ApplicationProcess": 0.4228273630142212,
+        "TimelineFrequency": 0.4458266496658325,
+        "AuthoritiesGovernance": 0.41721925139427185,
+        "DefinitionsReferences": 0.3697066903114319
+      }
+    },
+    {
+      "sentence": "This scheme is named after Karpoori Thakur who was a prominent leader and social reformer in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.46534693241119385,
+      "similarities": {
+        "ContextObjective": 0.46534693241119385,
+        "BenefitsAssistance": 0.31438151001930237,
+        "Eligibility": 0.33391261100769043,
+        "ApplicationProcess": 0.283740758895874,
+        "TimelineFrequency": 0.25724703073501587,
+        "AuthoritiesGovernance": 0.3653874695301056,
+        "DefinitionsReferences": 0.321228563785553
+      }
+    },
+    {
+      "sentence": "The primary objective of the Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is to provide accommodation to students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.49642056226730347,
+      "similarities": {
+        "ContextObjective": 0.49642056226730347,
+        "BenefitsAssistance": 0.39414238929748535,
+        "Eligibility": 0.43937742710113525,
+        "ApplicationProcess": 0.3781871199607849,
+        "TimelineFrequency": 0.38074222207069397,
+        "AuthoritiesGovernance": 0.38758379220962524,
+        "DefinitionsReferences": 0.3276994228363037
+      }
+    },
+    {
+      "sentence": "The scheme aims to facilitate access to education for students who may otherwise face challenges due to financial constraints.",
+      "role": "Eligibility",
+      "confidence": 0.5575612187385559,
+      "similarities": {
+        "ContextObjective": 0.5481884479522705,
+        "BenefitsAssistance": 0.5200894474983215,
+        "Eligibility": 0.5575612187385559,
+        "ApplicationProcess": 0.4777976870536804,
+        "TimelineFrequency": 0.4640344977378845,
+        "AuthoritiesGovernance": 0.38464462757110596,
+        "DefinitionsReferences": 0.37748634815216064
+      }
+    },
+    {
+      "sentence": "The government has set a target to establish a total of 50 hostels under this scheme across various districts in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.4952411949634552,
+      "similarities": {
+        "ContextObjective": 0.4952411949634552,
+        "BenefitsAssistance": 0.400632381439209,
+        "Eligibility": 0.4751821756362915,
+        "ApplicationProcess": 0.4096904993057251,
+        "TimelineFrequency": 0.41928818821907043,
+        "AuthoritiesGovernance": 0.4308716654777527,
+        "DefinitionsReferences": 0.3886539340019226
+      }
+    },
+    {
+      "sentence": "These hostels are specifically designed to cater to the needs of students from Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.4480489194393158,
+      "similarities": {
+        "ContextObjective": 0.41957899928092957,
+        "BenefitsAssistance": 0.3784402012825012,
+        "Eligibility": 0.4480489194393158,
+        "ApplicationProcess": 0.37903040647506714,
+        "TimelineFrequency": 0.4093514680862427,
+        "AuthoritiesGovernance": 0.36106327176094055,
+        "DefinitionsReferences": 0.3475155830383301
+      }
+    },
+    {
+      "sentence": "The hostels aim to provide a safe and conducive environment for students to pursue their studies.",
+      "role": "ContextObjective",
+      "confidence": 0.4527873992919922,
+      "similarities": {
+        "ContextObjective": 0.4527873992919922,
+        "BenefitsAssistance": 0.3550150394439697,
+        "Eligibility": 0.41605904698371887,
+        "ApplicationProcess": 0.41209959983825684,
+        "TimelineFrequency": 0.38617315888404846,
+        "AuthoritiesGovernance": 0.3408679962158203,
+        "DefinitionsReferences": 0.38042065501213074
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government provides financial assistance for the construction and maintenance of these hostels.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48493045568466187,
+      "similarities": {
+        "ContextObjective": 0.4465160071849823,
+        "BenefitsAssistance": 0.48493045568466187,
+        "Eligibility": 0.43336009979248047,
+        "ApplicationProcess": 0.4368549883365631,
+        "TimelineFrequency": 0.4042784869670868,
+        "AuthoritiesGovernance": 0.4142533540725708,
+        "DefinitionsReferences": 0.3731687068939209
+      }
+    },
+    {
+      "sentence": "The financial assistance provided is up to ₹1 crore for each hostel.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49726927280426025,
+      "similarities": {
+        "ContextObjective": 0.3978593349456787,
+        "BenefitsAssistance": 0.49726927280426025,
+        "Eligibility": 0.41629090905189514,
+        "ApplicationProcess": 0.35568198561668396,
+        "TimelineFrequency": 0.353370726108551,
+        "AuthoritiesGovernance": 0.375870943069458,
+        "DefinitionsReferences": 0.3376883268356323
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover all expenses related to the establishment of the hostel, including infrastructure development and basic amenities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5651461482048035,
+      "similarities": {
+        "ContextObjective": 0.43935155868530273,
+        "BenefitsAssistance": 0.5651461482048035,
+        "Eligibility": 0.4218939542770386,
+        "ApplicationProcess": 0.4355659782886505,
+        "TimelineFrequency": 0.39616507291793823,
+        "AuthoritiesGovernance": 0.3972926735877991,
+        "DefinitionsReferences": 0.43012046813964844
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for the maintenance of the hostels for a period of five years after their establishment.",
+      "role": "ContextObjective",
+      "confidence": 0.4685872197151184,
+      "similarities": {
+        "ContextObjective": 0.4685872197151184,
+        "BenefitsAssistance": 0.4398176670074463,
+        "Eligibility": 0.43034642934799194,
+        "ApplicationProcess": 0.4442329704761505,
+        "TimelineFrequency": 0.4508309066295624,
+        "AuthoritiesGovernance": 0.3848380446434021,
+        "DefinitionsReferences": 0.39687249064445496
+      }
+    },
+    {
+      "sentence": "The hostels are expected to provide essential facilities such as food, clean drinking water, and recreational areas.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4442780017852783,
+      "similarities": {
+        "ContextObjective": 0.43787097930908203,
+        "BenefitsAssistance": 0.4442780017852783,
+        "Eligibility": 0.4345398545265198,
+        "ApplicationProcess": 0.42116472125053406,
+        "TimelineFrequency": 0.4047638177871704,
+        "AuthoritiesGovernance": 0.4046823978424072,
+        "DefinitionsReferences": 0.42397964000701904
+      }
+    },
+    {
+      "sentence": "Each hostel is expected to accommodate a minimum of 100 students.",
+      "role": "Eligibility",
+      "confidence": 0.4850311875343323,
+      "similarities": {
+        "ContextObjective": 0.4313458800315857,
+        "BenefitsAssistance": 0.4192889630794525,
+        "Eligibility": 0.4850311875343323,
+        "ApplicationProcess": 0.4317777752876282,
+        "TimelineFrequency": 0.4522600769996643,
+        "AuthoritiesGovernance": 0.3764025568962097,
+        "DefinitionsReferences": 0.38327133655548096
+      }
+    },
+    {
+      "sentence": "The government has also set a target to ensure that at least 30% of the hostel capacity is reserved for female students.",
+      "role": "Eligibility",
+      "confidence": 0.41085290908813477,
+      "similarities": {
+        "ContextObjective": 0.37413597106933594,
+        "BenefitsAssistance": 0.32945987582206726,
+        "Eligibility": 0.41085290908813477,
+        "ApplicationProcess": 0.3419685959815979,
+        "TimelineFrequency": 0.3496044874191284,
+        "AuthoritiesGovernance": 0.3129655718803406,
+        "DefinitionsReferences": 0.3234423100948334
+      }
+    },
+    {
+      "sentence": "This is in line with the government's commitment to promoting gender equality in education.",
+      "role": "ContextObjective",
+      "confidence": 0.4356728792190552,
+      "similarities": {
+        "ContextObjective": 0.4356728792190552,
+        "BenefitsAssistance": 0.35944825410842896,
+        "Eligibility": 0.39829298853874207,
+        "ApplicationProcess": 0.389071524143219,
+        "TimelineFrequency": 0.37104445695877075,
+        "AuthoritiesGovernance": 0.3968350887298584,
+        "DefinitionsReferences": 0.3922157287597656
+      }
+    },
+    {
+      "sentence": "Eligibility for the Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is primarily based on the socio-economic status of the applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5486345887184143,
+      "similarities": {
+        "ContextObjective": 0.4580676555633545,
+        "BenefitsAssistance": 0.41331946849823,
+        "Eligibility": 0.5486345887184143,
+        "ApplicationProcess": 0.45076805353164673,
+        "TimelineFrequency": 0.43890875577926636,
+        "AuthoritiesGovernance": 0.3456442356109619,
+        "DefinitionsReferences": 0.3639369010925293
+      }
+    },
+    {
+      "sentence": "Students belonging to Scheduled Castes, Scheduled Tribes, and Other Backward Classes are eligible to apply.",
+      "role": "Eligibility",
+      "confidence": 0.5947192907333374,
+      "similarities": {
+        "ContextObjective": 0.4767124652862549,
+        "BenefitsAssistance": 0.44461750984191895,
+        "Eligibility": 0.5947192907333374,
+        "ApplicationProcess": 0.5054219961166382,
+        "TimelineFrequency": 0.5203933715820312,
+        "AuthoritiesGovernance": 0.4066011607646942,
+        "DefinitionsReferences": 0.41837531328201294
+      }
+    },
+    {
+      "sentence": "The income limit for families applying for this scheme is set at ₹2.5 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5429827570915222,
+      "similarities": {
+        "ContextObjective": 0.4344828426837921,
+        "BenefitsAssistance": 0.4735323190689087,
+        "Eligibility": 0.5429827570915222,
+        "ApplicationProcess": 0.44436267018318176,
+        "TimelineFrequency": 0.4264693260192871,
+        "AuthoritiesGovernance": 0.3424559235572815,
+        "DefinitionsReferences": 0.3376620411872864
+      }
+    },
+    {
+      "sentence": "Students must be enrolled in recognized educational institutions to qualify for the hostel accommodation.",
+      "role": "Eligibility",
+      "confidence": 0.5408433079719543,
+      "similarities": {
+        "ContextObjective": 0.42962849140167236,
+        "BenefitsAssistance": 0.4267914295196533,
+        "Eligibility": 0.5408433079719543,
+        "ApplicationProcess": 0.5321561098098755,
+        "TimelineFrequency": 0.48025763034820557,
+        "AuthoritiesGovernance": 0.43067753314971924,
+        "DefinitionsReferences": 0.4220614433288574
+      }
+    },
+    {
+      "sentence": "There are no specific age limits mentioned for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.549888551235199,
+      "similarities": {
+        "ContextObjective": 0.4778227210044861,
+        "BenefitsAssistance": 0.4274725317955017,
+        "Eligibility": 0.549888551235199,
+        "ApplicationProcess": 0.4256417155265808,
+        "TimelineFrequency": 0.446938693523407,
+        "AuthoritiesGovernance": 0.339356005191803,
+        "DefinitionsReferences": 0.33025163412094116
+      }
+    },
+    {
+      "sentence": "The application process for the Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5250074863433838,
+      "similarities": {
+        "ContextObjective": 0.4676799178123474,
+        "BenefitsAssistance": 0.3802225589752197,
+        "Eligibility": 0.46772193908691406,
+        "ApplicationProcess": 0.5250074863433838,
+        "TimelineFrequency": 0.44985276460647583,
+        "AuthoritiesGovernance": 0.37424612045288086,
+        "DefinitionsReferences": 0.35772472620010376
+      }
+    },
+    {
+      "sentence": "Interested students must fill out an application form available at designated government offices or online portals.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7114964723587036,
+      "similarities": {
+        "ContextObjective": 0.4799696207046509,
+        "BenefitsAssistance": 0.47316062450408936,
+        "Eligibility": 0.5885394811630249,
+        "ApplicationProcess": 0.7114964723587036,
+        "TimelineFrequency": 0.5581814050674438,
+        "AuthoritiesGovernance": 0.45738792419433594,
+        "DefinitionsReferences": 0.4949268698692322
+      }
+    },
+    {
+      "sentence": "The application form requires details such as personal information, family income, and educational background.",
+      "role": "ApplicationProcess",
+      "confidence": 0.704062283039093,
+      "similarities": {
+        "ContextObjective": 0.519394040107727,
+        "BenefitsAssistance": 0.6102263927459717,
+        "Eligibility": 0.6595120429992676,
+        "ApplicationProcess": 0.704062283039093,
+        "TimelineFrequency": 0.5936039686203003,
+        "AuthoritiesGovernance": 0.45655715465545654,
+        "DefinitionsReferences": 0.5165671110153198
+      }
+    },
+    {
+      "sentence": "Applicants must submit supporting documents including income certificates, caste certificates, and proof of admission to an educational institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6483778357505798,
+      "similarities": {
+        "ContextObjective": 0.4903928339481354,
+        "BenefitsAssistance": 0.5479016900062561,
+        "Eligibility": 0.5748560428619385,
+        "ApplicationProcess": 0.6483778357505798,
+        "TimelineFrequency": 0.5326741933822632,
+        "AuthoritiesGovernance": 0.42835497856140137,
+        "DefinitionsReferences": 0.5199111104011536
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The selection process is based on the eligibility criteria set forth by the government.",
+      "role": "Eligibility",
+      "confidence": 0.6884723901748657,
+      "similarities": {
+        "ContextObjective": 0.5417017936706543,
+        "BenefitsAssistance": 0.4465920031070709,
+        "Eligibility": 0.6884723901748657,
+        "ApplicationProcess": 0.6035418510437012,
+        "TimelineFrequency": 0.5521343350410461,
+        "AuthoritiesGovernance": 0.5006942749023438,
+        "DefinitionsReferences": 0.47301116585731506
+      }
+    },
+    {
+      "sentence": "Successful applicants are then allocated a place in the nearest available hostel.",
+      "role": "Eligibility",
+      "confidence": 0.48673903942108154,
+      "similarities": {
+        "ContextObjective": 0.42258208990097046,
+        "BenefitsAssistance": 0.3470086455345154,
+        "Eligibility": 0.48673903942108154,
+        "ApplicationProcess": 0.4593559503555298,
+        "TimelineFrequency": 0.43498969078063965,
+        "AuthoritiesGovernance": 0.36238664388656616,
+        "DefinitionsReferences": 0.34441202878952026
+      }
+    },
+    {
+      "sentence": "The timeline for the application process is typically announced through official government notifications.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6229665279388428,
+      "similarities": {
+        "ContextObjective": 0.5079985857009888,
+        "BenefitsAssistance": 0.4614522159099579,
+        "Eligibility": 0.5443154573440552,
+        "ApplicationProcess": 0.6069337725639343,
+        "TimelineFrequency": 0.6229665279388428,
+        "AuthoritiesGovernance": 0.5028653740882874,
+        "DefinitionsReferences": 0.47079718112945557
+      }
+    },
+    {
+      "sentence": "The government usually opens the application window at the beginning of each academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6436460018157959,
+      "similarities": {
+        "ContextObjective": 0.5166941285133362,
+        "BenefitsAssistance": 0.4398028254508972,
+        "Eligibility": 0.5331976413726807,
+        "ApplicationProcess": 0.5643712282180786,
+        "TimelineFrequency": 0.6436460018157959,
+        "AuthoritiesGovernance": 0.4452703893184662,
+        "DefinitionsReferences": 0.44254687428474426
+      }
+    },
+    {
+      "sentence": "Disbursement of funds for the construction of hostels is scheduled to occur in phases.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5272046327590942,
+      "similarities": {
+        "ContextObjective": 0.48732608556747437,
+        "BenefitsAssistance": 0.5232091546058655,
+        "Eligibility": 0.4672299325466156,
+        "ApplicationProcess": 0.4835640490055084,
+        "TimelineFrequency": 0.5272046327590942,
+        "AuthoritiesGovernance": 0.47067326307296753,
+        "DefinitionsReferences": 0.4111507534980774
+      }
+    },
+    {
+      "sentence": "The first phase of funding is released upon approval of the hostel project.",
+      "role": "ApplicationProcess",
+      "confidence": 0.46424049139022827,
+      "similarities": {
+        "ContextObjective": 0.443570613861084,
+        "BenefitsAssistance": 0.4477044939994812,
+        "Eligibility": 0.43356648087501526,
+        "ApplicationProcess": 0.46424049139022827,
+        "TimelineFrequency": 0.4233916401863098,
+        "AuthoritiesGovernance": 0.377799928188324,
+        "DefinitionsReferences": 0.34655675292015076
+      }
+    },
+    {
+      "sentence": "Subsequent phases are contingent upon the progress of construction and adherence to guidelines.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5228219032287598,
+      "similarities": {
+        "ContextObjective": 0.47751280665397644,
+        "BenefitsAssistance": 0.44809287786483765,
+        "Eligibility": 0.4706304967403412,
+        "ApplicationProcess": 0.5228219032287598,
+        "TimelineFrequency": 0.5008484125137329,
+        "AuthoritiesGovernance": 0.48183584213256836,
+        "DefinitionsReferences": 0.48295432329177856
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is the Department of Social Welfare, Government of Bihar.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5642189383506775,
+      "similarities": {
+        "ContextObjective": 0.4348982870578766,
+        "BenefitsAssistance": 0.42322659492492676,
+        "Eligibility": 0.4909401834011078,
+        "ApplicationProcess": 0.4143384099006653,
+        "TimelineFrequency": 0.37255436182022095,
+        "AuthoritiesGovernance": 0.5642189383506775,
+        "DefinitionsReferences": 0.4194895923137665
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the establishment and functioning of the hostels.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5326585173606873,
+      "similarities": {
+        "ContextObjective": 0.4798167943954468,
+        "BenefitsAssistance": 0.44011035561561584,
+        "Eligibility": 0.4546767473220825,
+        "ApplicationProcess": 0.4870367646217346,
+        "TimelineFrequency": 0.44344592094421387,
+        "AuthoritiesGovernance": 0.5326585173606873,
+        "DefinitionsReferences": 0.4404105544090271
+      }
+    },
+    {
+      "sentence": "They also handle the disbursement of funds and ensure compliance with the scheme's objectives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5515117645263672,
+      "similarities": {
+        "ContextObjective": 0.5335327386856079,
+        "BenefitsAssistance": 0.5515117645263672,
+        "Eligibility": 0.546963095664978,
+        "ApplicationProcess": 0.49754753708839417,
+        "TimelineFrequency": 0.4346697926521301,
+        "AuthoritiesGovernance": 0.5366603136062622,
+        "DefinitionsReferences": 0.40835243463516235
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, the contact details for the Department of Social Welfare can be found on the official Bihar government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5268700122833252,
+      "similarities": {
+        "ContextObjective": 0.4338420629501343,
+        "BenefitsAssistance": 0.5241087079048157,
+        "Eligibility": 0.4747809171676636,
+        "ApplicationProcess": 0.5024030208587646,
+        "TimelineFrequency": 0.4002251625061035,
+        "AuthoritiesGovernance": 0.5268700122833252,
+        "DefinitionsReferences": 0.45302462577819824
+      }
+    },
+    {
+      "sentence": "The Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is part of a broader initiative by the Bihar government to enhance educational opportunities for marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.47005605697631836,
+      "similarities": {
+        "ContextObjective": 0.47005605697631836,
+        "BenefitsAssistance": 0.40244191884994507,
+        "Eligibility": 0.4374935030937195,
+        "ApplicationProcess": 0.3753874897956848,
+        "TimelineFrequency": 0.374965637922287,
+        "AuthoritiesGovernance": 0.4157760441303253,
+        "DefinitionsReferences": 0.3762893080711365
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to social justice and equality in education.",
+      "role": "ContextObjective",
+      "confidence": 0.5244677066802979,
+      "similarities": {
+        "ContextObjective": 0.5244677066802979,
+        "BenefitsAssistance": 0.3849666118621826,
+        "Eligibility": 0.4458337426185608,
+        "ApplicationProcess": 0.4063516855239868,
+        "TimelineFrequency": 0.38852161169052124,
+        "AuthoritiesGovernance": 0.388126015663147,
+        "DefinitionsReferences": 0.3869457244873047
+      }
+    },
+    {
+      "sentence": "As of October 2023, the government has reported the successful establishment of 20 hostels under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.472428560256958,
+      "similarities": {
+        "ContextObjective": 0.472428560256958,
+        "BenefitsAssistance": 0.40125030279159546,
+        "Eligibility": 0.4250839352607727,
+        "ApplicationProcess": 0.40860143303871155,
+        "TimelineFrequency": 0.397422194480896,
+        "AuthoritiesGovernance": 0.4029766321182251,
+        "DefinitionsReferences": 0.38363009691238403
+      }
+    },
+    {
+      "sentence": "These hostels have already accommodated over 2,000 students since their inception.",
+      "role": "ContextObjective",
+      "confidence": 0.3955625891685486,
+      "similarities": {
+        "ContextObjective": 0.3955625891685486,
+        "BenefitsAssistance": 0.3639990985393524,
+        "Eligibility": 0.33932608366012573,
+        "ApplicationProcess": 0.32467570900917053,
+        "TimelineFrequency": 0.34518206119537354,
+        "AuthoritiesGovernance": 0.33609384298324585,
+        "DefinitionsReferences": 0.3587244153022766
+      }
+    },
+    {
+      "sentence": "Feedback from students indicates a positive impact on their educational pursuits and overall well-being.",
+      "role": "ContextObjective",
+      "confidence": 0.43643856048583984,
+      "similarities": {
+        "ContextObjective": 0.43643856048583984,
+        "BenefitsAssistance": 0.41557618975639343,
+        "Eligibility": 0.40089184045791626,
+        "ApplicationProcess": 0.3909305930137634,
+        "TimelineFrequency": 0.3911515474319458,
+        "AuthoritiesGovernance": 0.3670401871204376,
+        "DefinitionsReferences": 0.4238685369491577
+      }
+    },
+    {
+      "sentence": "The government plans to continue expanding the scheme to reach more students in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5218691825866699,
+      "similarities": {
+        "ContextObjective": 0.5218691825866699,
+        "BenefitsAssistance": 0.4482274055480957,
+        "Eligibility": 0.4820086658000946,
+        "ApplicationProcess": 0.42141193151474,
+        "TimelineFrequency": 0.42625880241394043,
+        "AuthoritiesGovernance": 0.4207538962364197,
+        "DefinitionsReferences": 0.38925421237945557
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the effectiveness of the hostels in meeting the needs of students.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4755881428718567,
+      "similarities": {
+        "ContextObjective": 0.4330727458000183,
+        "BenefitsAssistance": 0.41591739654541016,
+        "Eligibility": 0.44006720185279846,
+        "ApplicationProcess": 0.45529359579086304,
+        "TimelineFrequency": 0.4755881428718567,
+        "AuthoritiesGovernance": 0.4376217722892761,
+        "DefinitionsReferences": 0.4159553050994873
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the national objectives of improving literacy rates and educational attainment among disadvantaged groups.",
+      "role": "ContextObjective",
+      "confidence": 0.5334792137145996,
+      "similarities": {
+        "ContextObjective": 0.5334792137145996,
+        "BenefitsAssistance": 0.41178274154663086,
+        "Eligibility": 0.45225703716278076,
+        "ApplicationProcess": 0.39148592948913574,
+        "TimelineFrequency": 0.39308300614356995,
+        "AuthoritiesGovernance": 0.4218739867210388,
+        "DefinitionsReferences": 0.36626625061035156
+      }
+    },
+    {
+      "sentence": "The Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is a significant step towards creating an inclusive educational environment in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.47075793147087097,
+      "similarities": {
+        "ContextObjective": 0.47075793147087097,
+        "BenefitsAssistance": 0.4005746841430664,
+        "Eligibility": 0.4464681148529053,
+        "ApplicationProcess": 0.3801911473274231,
+        "TimelineFrequency": 0.352799654006958,
+        "AuthoritiesGovernance": 0.3868718147277832,
+        "DefinitionsReferences": 0.38032984733581543
+      }
+    },
+    {
+      "sentence": "The government is committed to ensuring that no student is deprived of education due to lack of accommodation.",
+      "role": "Eligibility",
+      "confidence": 0.46745193004608154,
+      "similarities": {
+        "ContextObjective": 0.4109989404678345,
+        "BenefitsAssistance": 0.40720534324645996,
+        "Eligibility": 0.46745193004608154,
+        "ApplicationProcess": 0.44139519333839417,
+        "TimelineFrequency": 0.37802010774612427,
+        "AuthoritiesGovernance": 0.4087219536304474,
+        "DefinitionsReferences": 0.37218284606933594
+      }
+    },
+    {
+      "sentence": "Overall, the scheme represents a proactive approach to addressing the barriers faced by economically disadvantaged students in accessing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.49984896183013916,
+      "similarities": {
+        "ContextObjective": 0.49984896183013916,
+        "BenefitsAssistance": 0.41713467240333557,
+        "Eligibility": 0.456405907869339,
+        "ApplicationProcess": 0.42078155279159546,
+        "TimelineFrequency": 0.4125519096851349,
+        "AuthoritiesGovernance": 0.3742997646331787,
+        "DefinitionsReferences": 0.3412885367870331
+      }
+    },
+    {
+      "sentence": "Through this initiative, the Bihar government aims to empower students and promote their socio-economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.4452897310256958,
+      "similarities": {
+        "ContextObjective": 0.4452897310256958,
+        "BenefitsAssistance": 0.3487088680267334,
+        "Eligibility": 0.3800148665904999,
+        "ApplicationProcess": 0.3612462878227234,
+        "TimelineFrequency": 0.3328034281730652,
+        "AuthoritiesGovernance": 0.3833897113800049,
+        "DefinitionsReferences": 0.34805721044540405
+      }
+    },
+    {
+      "sentence": "The long-term vision of the scheme is to create a more equitable society where education is accessible to all.",
+      "role": "ContextObjective",
+      "confidence": 0.5458749532699585,
+      "similarities": {
+        "ContextObjective": 0.5458749532699585,
+        "BenefitsAssistance": 0.3586086332798004,
+        "Eligibility": 0.431693971157074,
+        "ApplicationProcess": 0.3648149073123932,
+        "TimelineFrequency": 0.35354721546173096,
+        "AuthoritiesGovernance": 0.3454362154006958,
+        "DefinitionsReferences": 0.3212217688560486
+      }
+    },
+    {
+      "sentence": "This aligns with the broader goals of the Indian government to achieve sustainable development and social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.5085050463676453,
+      "similarities": {
+        "ContextObjective": 0.5085050463676453,
+        "BenefitsAssistance": 0.41056644916534424,
+        "Eligibility": 0.42241930961608887,
+        "ApplicationProcess": 0.3953171968460083,
+        "TimelineFrequency": 0.35008201003074646,
+        "AuthoritiesGovernance": 0.4502055048942566,
+        "DefinitionsReferences": 0.3961488604545593
+      }
+    },
+    {
+      "sentence": "The Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is a testament to the ongoing efforts to uplift marginalized communities in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.4340766370296478,
+      "similarities": {
+        "ContextObjective": 0.4340766370296478,
+        "BenefitsAssistance": 0.36548835039138794,
+        "Eligibility": 0.3848133683204651,
+        "ApplicationProcess": 0.3168944716453552,
+        "TimelineFrequency": 0.28977170586586,
+        "AuthoritiesGovernance": 0.36471933126449585,
+        "DefinitionsReferences": 0.3367632031440735
+      }
+    },
+    {
+      "sentence": "It serves as a model for similar initiatives across other states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4814453125,
+      "similarities": {
+        "ContextObjective": 0.4814453125,
+        "BenefitsAssistance": 0.3825013041496277,
+        "Eligibility": 0.44383156299591064,
+        "ApplicationProcess": 0.4169289469718933,
+        "TimelineFrequency": 0.39694613218307495,
+        "AuthoritiesGovernance": 0.45700782537460327,
+        "DefinitionsReferences": 0.44475212693214417
+      }
+    },
+    {
+      "sentence": "The scheme is expected to continue evolving based on the needs and feedback of the students it serves.",
+      "role": "ContextObjective",
+      "confidence": 0.5577563643455505,
+      "similarities": {
+        "ContextObjective": 0.5577563643455505,
+        "BenefitsAssistance": 0.43153199553489685,
+        "Eligibility": 0.48870977759361267,
+        "ApplicationProcess": 0.4516769051551819,
+        "TimelineFrequency": 0.4571312665939331,
+        "AuthoritiesGovernance": 0.45757830142974854,
+        "DefinitionsReferences": 0.4234139621257782
+      }
+    },
+    {
+      "sentence": "In conclusion, the Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme is a comprehensive welfare initiative aimed at enhancing educational access for underprivileged students in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.46321356296539307,
+      "similarities": {
+        "ContextObjective": 0.46321356296539307,
+        "BenefitsAssistance": 0.425736665725708,
+        "Eligibility": 0.42968159914016724,
+        "ApplicationProcess": 0.3798411786556244,
+        "TimelineFrequency": 0.3682164251804352,
+        "AuthoritiesGovernance": 0.40177011489868164,
+        "DefinitionsReferences": 0.35332340002059937
+      }
+    },
+    {
+      "sentence": "With its specific objectives and measurable targets, the scheme is poised to make a significant impact on the lives of many students in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.562656581401825,
+      "similarities": {
+        "ContextObjective": 0.562656581401825,
+        "BenefitsAssistance": 0.4207017421722412,
+        "Eligibility": 0.4990559220314026,
+        "ApplicationProcess": 0.41011351346969604,
+        "TimelineFrequency": 0.4224798381328583,
+        "AuthoritiesGovernance": 0.3807360827922821,
+        "DefinitionsReferences": 0.380379319190979
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "Eligibility": 12,
+    "BenefitsAssistance": 5,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:50:29.477074"
+}

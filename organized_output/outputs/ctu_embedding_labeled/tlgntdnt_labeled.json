@@ -1,0 +1,631 @@
+{
+  "scheme_name": "Term Loan Scheme (GNDTDC)",
+  "total_sentences": 44,
+  "labeled_sentences": [
+    {
+      "sentence": "The Term Loan Scheme is an initiative under the Government of India aimed at providing financial assistance to various sectors, particularly focusing on small and medium enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.5783525109291077,
+      "similarities": {
+        "ContextObjective": 0.5783525109291077,
+        "BenefitsAssistance": 0.5161322355270386,
+        "Eligibility": 0.5330765247344971,
+        "ApplicationProcess": 0.4894368350505829,
+        "TimelineFrequency": 0.5223589539527893,
+        "AuthoritiesGovernance": 0.4637261629104614,
+        "DefinitionsReferences": 0.48360610008239746
+      }
+    },
+    {
+      "sentence": "The scheme was launched by the Government of India in the year 2000 to promote entrepreneurship and enhance the growth of small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.5385549068450928,
+      "similarities": {
+        "ContextObjective": 0.5385549068450928,
+        "BenefitsAssistance": 0.3858475983142853,
+        "Eligibility": 0.407990038394928,
+        "ApplicationProcess": 0.38453638553619385,
+        "TimelineFrequency": 0.3843907117843628,
+        "AuthoritiesGovernance": 0.3656156361103058,
+        "DefinitionsReferences": 0.3456529974937439
+      }
+    },
+    {
+      "sentence": "The primary objective of the Term Loan Scheme is to facilitate the availability of credit to small and medium enterprises in order to boost their operational capabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5793225169181824,
+      "similarities": {
+        "ContextObjective": 0.5793225169181824,
+        "BenefitsAssistance": 0.4504980146884918,
+        "Eligibility": 0.48815101385116577,
+        "ApplicationProcess": 0.443847119808197,
+        "TimelineFrequency": 0.47431471943855286,
+        "AuthoritiesGovernance": 0.4075208902359009,
+        "DefinitionsReferences": 0.4288666844367981
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide term loans to eligible businesses for the purchase of fixed assets such as machinery, equipment, and infrastructure.",
+      "role": "Eligibility",
+      "confidence": 0.5295289158821106,
+      "similarities": {
+        "ContextObjective": 0.5233954787254333,
+        "BenefitsAssistance": 0.47309282422065735,
+        "Eligibility": 0.5295289158821106,
+        "ApplicationProcess": 0.45699676871299744,
+        "TimelineFrequency": 0.4861587584018707,
+        "AuthoritiesGovernance": 0.3689669966697693,
+        "DefinitionsReferences": 0.45009464025497437
+      }
+    },
+    {
+      "sentence": "The financial assistance under this scheme can range from INR 1 lakh to INR 5 crores depending on the project requirements and the scale of the business.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5770958662033081,
+      "similarities": {
+        "ContextObjective": 0.49448925256729126,
+        "BenefitsAssistance": 0.5770958662033081,
+        "Eligibility": 0.5240551233291626,
+        "ApplicationProcess": 0.46072646975517273,
+        "TimelineFrequency": 0.4346640408039093,
+        "AuthoritiesGovernance": 0.3885438144207001,
+        "DefinitionsReferences": 0.38909798860549927
+      }
+    },
+    {
+      "sentence": "The repayment period for the loans can vary from 3 years to 7 years based on the nature of the project and the cash flow of the business.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5459939241409302,
+      "similarities": {
+        "ContextObjective": 0.4476209282875061,
+        "BenefitsAssistance": 0.49369439482688904,
+        "Eligibility": 0.4941563606262207,
+        "ApplicationProcess": 0.44579175114631653,
+        "TimelineFrequency": 0.5459939241409302,
+        "AuthoritiesGovernance": 0.3747161030769348,
+        "DefinitionsReferences": 0.40530580282211304
+      }
+    },
+    {
+      "sentence": "Interest rates under the Term Loan Scheme are competitive and typically range from 8 percent to 12 percent per annum.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4721018075942993,
+      "similarities": {
+        "ContextObjective": 0.4521535038948059,
+        "BenefitsAssistance": 0.4627206325531006,
+        "Eligibility": 0.4288744032382965,
+        "ApplicationProcess": 0.4110170304775238,
+        "TimelineFrequency": 0.4721018075942993,
+        "AuthoritiesGovernance": 0.34177154302597046,
+        "DefinitionsReferences": 0.3838239312171936
+      }
+    },
+    {
+      "sentence": "The scheme also includes a moratorium period which allows businesses to start generating revenue before they begin repaying the loan.",
+      "role": "TimelineFrequency",
+      "confidence": 0.44592222571372986,
+      "similarities": {
+        "ContextObjective": 0.44093817472457886,
+        "BenefitsAssistance": 0.41175782680511475,
+        "Eligibility": 0.44438636302948,
+        "ApplicationProcess": 0.3919190466403961,
+        "TimelineFrequency": 0.44592222571372986,
+        "AuthoritiesGovernance": 0.3195638358592987,
+        "DefinitionsReferences": 0.3163366913795471
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Term Loan Scheme include being a registered small or medium enterprise as defined by the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "Eligibility",
+      "confidence": 0.6040433645248413,
+      "similarities": {
+        "ContextObjective": 0.5160149931907654,
+        "BenefitsAssistance": 0.45762649178504944,
+        "Eligibility": 0.6040433645248413,
+        "ApplicationProcess": 0.5267437696456909,
+        "TimelineFrequency": 0.522528886795044,
+        "AuthoritiesGovernance": 0.3988637328147888,
+        "DefinitionsReferences": 0.461696594953537
+      }
+    },
+    {
+      "sentence": "Applicants must also demonstrate the viability of their business proposal and provide a detailed project report outlining the intended use of the funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.527249813079834,
+      "similarities": {
+        "ContextObjective": 0.5043217539787292,
+        "BenefitsAssistance": 0.4860961139202118,
+        "Eligibility": 0.519210934638977,
+        "ApplicationProcess": 0.527249813079834,
+        "TimelineFrequency": 0.4564971923828125,
+        "AuthoritiesGovernance": 0.3328426480293274,
+        "DefinitionsReferences": 0.42191508412361145
+      }
+    },
+    {
+      "sentence": "The scheme is open to individuals above the age of 18 who are Indian citizens and have a viable business idea.",
+      "role": "ContextObjective",
+      "confidence": 0.5501588582992554,
+      "similarities": {
+        "ContextObjective": 0.5501588582992554,
+        "BenefitsAssistance": 0.44092050194740295,
+        "Eligibility": 0.5454708337783813,
+        "ApplicationProcess": 0.4707777500152588,
+        "TimelineFrequency": 0.4043266773223877,
+        "AuthoritiesGovernance": 0.3649190664291382,
+        "DefinitionsReferences": 0.36198827624320984
+      }
+    },
+    {
+      "sentence": "In addition to age and citizenship, applicants must have a minimum educational qualification of 10th grade or equivalent.",
+      "role": "Eligibility",
+      "confidence": 0.5348954200744629,
+      "similarities": {
+        "ContextObjective": 0.4078234136104584,
+        "BenefitsAssistance": 0.39783602952957153,
+        "Eligibility": 0.5348954200744629,
+        "ApplicationProcess": 0.5312857031822205,
+        "TimelineFrequency": 0.4780243933200836,
+        "AuthoritiesGovernance": 0.3674812912940979,
+        "DefinitionsReferences": 0.42486751079559326
+      }
+    },
+    {
+      "sentence": "The application process for the Term Loan Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6988306641578674,
+      "similarities": {
+        "ContextObjective": 0.603974461555481,
+        "BenefitsAssistance": 0.554965615272522,
+        "Eligibility": 0.6141675114631653,
+        "ApplicationProcess": 0.6988306641578674,
+        "TimelineFrequency": 0.6455749273300171,
+        "AuthoritiesGovernance": 0.4762556254863739,
+        "DefinitionsReferences": 0.5285576581954956
+      }
+    },
+    {
+      "sentence": "First, the applicant must prepare a detailed project report that includes the business plan, financial projections, and the intended use of the loan.",
+      "role": "ApplicationProcess",
+      "confidence": 0.547351598739624,
+      "similarities": {
+        "ContextObjective": 0.4897748827934265,
+        "BenefitsAssistance": 0.5025465488433838,
+        "Eligibility": 0.507097065448761,
+        "ApplicationProcess": 0.547351598739624,
+        "TimelineFrequency": 0.5014111995697021,
+        "AuthoritiesGovernance": 0.3716585040092468,
+        "DefinitionsReferences": 0.438130259513855
+      }
+    },
+    {
+      "sentence": "Next, the applicant must approach a financial institution that is authorized to disburse loans under this scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5716560482978821,
+      "similarities": {
+        "ContextObjective": 0.48184436559677124,
+        "BenefitsAssistance": 0.5077043771743774,
+        "Eligibility": 0.5670254826545715,
+        "ApplicationProcess": 0.5716560482978821,
+        "TimelineFrequency": 0.4900791645050049,
+        "AuthoritiesGovernance": 0.43626800179481506,
+        "DefinitionsReferences": 0.3990527391433716
+      }
+    },
+    {
+      "sentence": "The applicant will need to submit the project report along with required documents such as identity proof, address proof, and business registration documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6808181405067444,
+      "similarities": {
+        "ContextObjective": 0.48869577050209045,
+        "BenefitsAssistance": 0.5278967618942261,
+        "Eligibility": 0.5734503865242004,
+        "ApplicationProcess": 0.6808181405067444,
+        "TimelineFrequency": 0.5375844836235046,
+        "AuthoritiesGovernance": 0.444705069065094,
+        "DefinitionsReferences": 0.4860045313835144
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the financial institution will conduct a thorough assessment of the project proposal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5934950113296509,
+      "similarities": {
+        "ContextObjective": 0.4857775568962097,
+        "BenefitsAssistance": 0.5186679363250732,
+        "Eligibility": 0.5327526330947876,
+        "ApplicationProcess": 0.5934950113296509,
+        "TimelineFrequency": 0.5249667763710022,
+        "AuthoritiesGovernance": 0.4389398694038391,
+        "DefinitionsReferences": 0.43134939670562744
+      }
+    },
+    {
+      "sentence": "This assessment includes evaluating the business model, market potential, and financial viability.",
+      "role": "ContextObjective",
+      "confidence": 0.49075180292129517,
+      "similarities": {
+        "ContextObjective": 0.49075180292129517,
+        "BenefitsAssistance": 0.4764794707298279,
+        "Eligibility": 0.45198607444763184,
+        "ApplicationProcess": 0.4353591203689575,
+        "TimelineFrequency": 0.43935686349868774,
+        "AuthoritiesGovernance": 0.3459787666797638,
+        "DefinitionsReferences": 0.43042805790901184
+      }
+    },
+    {
+      "sentence": "If the proposal is approved, the financial institution will issue a sanction letter detailing the loan amount, interest rate, and repayment schedule.",
+      "role": "Eligibility",
+      "confidence": 0.5576144456863403,
+      "similarities": {
+        "ContextObjective": 0.44661226868629456,
+        "BenefitsAssistance": 0.555778443813324,
+        "Eligibility": 0.5576144456863403,
+        "ApplicationProcess": 0.5258342027664185,
+        "TimelineFrequency": 0.510598361492157,
+        "AuthoritiesGovernance": 0.4604554772377014,
+        "DefinitionsReferences": 0.46500831842422485
+      }
+    },
+    {
+      "sentence": "The disbursement of the loan amount is typically done in installments based on the progress of the project.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5329810380935669,
+      "similarities": {
+        "ContextObjective": 0.4580976366996765,
+        "BenefitsAssistance": 0.5238038301467896,
+        "Eligibility": 0.4472486972808838,
+        "ApplicationProcess": 0.47544291615486145,
+        "TimelineFrequency": 0.5329810380935669,
+        "AuthoritiesGovernance": 0.437666118144989,
+        "DefinitionsReferences": 0.4135841727256775
+      }
+    },
+    {
+      "sentence": "The Term Loan Scheme is implemented by various financial institutions including public sector banks, private banks, and non-banking financial companies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5434747934341431,
+      "similarities": {
+        "ContextObjective": 0.5233263373374939,
+        "BenefitsAssistance": 0.5299757719039917,
+        "Eligibility": 0.5245787501335144,
+        "ApplicationProcess": 0.49726754426956177,
+        "TimelineFrequency": 0.5172684192657471,
+        "AuthoritiesGovernance": 0.5434747934341431,
+        "DefinitionsReferences": 0.5108543038368225
+      }
+    },
+    {
+      "sentence": "The Ministry of Micro, Small and Medium Enterprises is the nodal authority overseeing the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.581478476524353,
+      "similarities": {
+        "ContextObjective": 0.49326056241989136,
+        "BenefitsAssistance": 0.40134918689727783,
+        "Eligibility": 0.48383522033691406,
+        "ApplicationProcess": 0.44826120138168335,
+        "TimelineFrequency": 0.39064112305641174,
+        "AuthoritiesGovernance": 0.581478476524353,
+        "DefinitionsReferences": 0.40146881341934204
+      }
+    },
+    {
+      "sentence": "The scheme is designed to support various sectors including manufacturing, services, and agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.5897406339645386,
+      "similarities": {
+        "ContextObjective": 0.5897406339645386,
+        "BenefitsAssistance": 0.5498474836349487,
+        "Eligibility": 0.5325720310211182,
+        "ApplicationProcess": 0.4646674394607544,
+        "TimelineFrequency": 0.5028167963027954,
+        "AuthoritiesGovernance": 0.47687828540802,
+        "DefinitionsReferences": 0.4696473777294159
+      }
+    },
+    {
+      "sentence": "As of 2023, the Government of India has allocated approximately INR 10,000 crores for the Term Loan Scheme to ensure adequate funding for eligible enterprises.",
+      "role": "Eligibility",
+      "confidence": 0.5301140546798706,
+      "similarities": {
+        "ContextObjective": 0.5195100903511047,
+        "BenefitsAssistance": 0.5145399570465088,
+        "Eligibility": 0.5301140546798706,
+        "ApplicationProcess": 0.44959667325019836,
+        "TimelineFrequency": 0.47546908259391785,
+        "AuthoritiesGovernance": 0.434664249420166,
+        "DefinitionsReferences": 0.44749730825424194
+      }
+    },
+    {
+      "sentence": "The scheme has successfully disbursed loans to over 1 lakh small and medium enterprises since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.4828653335571289,
+      "similarities": {
+        "ContextObjective": 0.4828653335571289,
+        "BenefitsAssistance": 0.43599486351013184,
+        "Eligibility": 0.42264968156814575,
+        "ApplicationProcess": 0.3815115690231323,
+        "TimelineFrequency": 0.34848034381866455,
+        "AuthoritiesGovernance": 0.37001997232437134,
+        "DefinitionsReferences": 0.33119872212409973
+      }
+    },
+    {
+      "sentence": "The impact of the Term Loan Scheme has been significant in terms of job creation and economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.4418708086013794,
+      "similarities": {
+        "ContextObjective": 0.4418708086013794,
+        "BenefitsAssistance": 0.42919862270355225,
+        "Eligibility": 0.39403581619262695,
+        "ApplicationProcess": 0.35799139738082886,
+        "TimelineFrequency": 0.3928007483482361,
+        "AuthoritiesGovernance": 0.3066864013671875,
+        "DefinitionsReferences": 0.383545458316803
+      }
+    },
+    {
+      "sentence": "According to reports, businesses that have availed loans under this scheme have reported an average growth rate of 15 percent in their annual revenue.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42885100841522217,
+      "similarities": {
+        "ContextObjective": 0.3936890959739685,
+        "BenefitsAssistance": 0.42885100841522217,
+        "Eligibility": 0.3711130619049072,
+        "ApplicationProcess": 0.37271925806999207,
+        "TimelineFrequency": 0.3829345107078552,
+        "AuthoritiesGovernance": 0.32347920536994934,
+        "DefinitionsReferences": 0.37150269746780396
+      }
+    },
+    {
+      "sentence": "The scheme also encourages the adoption of modern technology and practices among small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.44234153628349304,
+      "similarities": {
+        "ContextObjective": 0.44234153628349304,
+        "BenefitsAssistance": 0.39969003200531006,
+        "Eligibility": 0.3966425061225891,
+        "ApplicationProcess": 0.4157869815826416,
+        "TimelineFrequency": 0.3496413230895996,
+        "AuthoritiesGovernance": 0.36171799898147583,
+        "DefinitionsReferences": 0.36545127630233765
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the Term Loan Scheme provides advisory services to help entrepreneurs manage their businesses effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5220407843589783,
+      "similarities": {
+        "ContextObjective": 0.5094462633132935,
+        "BenefitsAssistance": 0.5220407843589783,
+        "Eligibility": 0.45741429924964905,
+        "ApplicationProcess": 0.4284444749355316,
+        "TimelineFrequency": 0.4588002562522888,
+        "AuthoritiesGovernance": 0.407569944858551,
+        "DefinitionsReferences": 0.4560130834579468
+      }
+    },
+    {
+      "sentence": "The Government conducts regular workshops and training sessions to educate potential applicants about the scheme and the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5335924625396729,
+      "similarities": {
+        "ContextObjective": 0.4991350769996643,
+        "BenefitsAssistance": 0.38182738423347473,
+        "Eligibility": 0.4972020983695984,
+        "ApplicationProcess": 0.5335924625396729,
+        "TimelineFrequency": 0.49688005447387695,
+        "AuthoritiesGovernance": 0.4585299491882324,
+        "DefinitionsReferences": 0.40728652477264404
+      }
+    },
+    {
+      "sentence": "The Term Loan Scheme is part of a broader initiative by the Government of India to foster entrepreneurship and self-employment among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5463290214538574,
+      "similarities": {
+        "ContextObjective": 0.5463290214538574,
+        "BenefitsAssistance": 0.4362788796424866,
+        "Eligibility": 0.4515523612499237,
+        "ApplicationProcess": 0.4207236170768738,
+        "TimelineFrequency": 0.44511955976486206,
+        "AuthoritiesGovernance": 0.3926928639411926,
+        "DefinitionsReferences": 0.43210574984550476
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the \"Make in India\" initiative which aims to promote manufacturing and innovation in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.49227815866470337,
+      "similarities": {
+        "ContextObjective": 0.49227815866470337,
+        "BenefitsAssistance": 0.35166507959365845,
+        "Eligibility": 0.41003575921058655,
+        "ApplicationProcess": 0.4055168330669403,
+        "TimelineFrequency": 0.3532247245311737,
+        "AuthoritiesGovernance": 0.37817710638046265,
+        "DefinitionsReferences": 0.3278357982635498
+      }
+    },
+    {
+      "sentence": "The Government has also introduced digital platforms to streamline the application process and enhance transparency.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5980581045150757,
+      "similarities": {
+        "ContextObjective": 0.45773380994796753,
+        "BenefitsAssistance": 0.47067952156066895,
+        "Eligibility": 0.4988883435726166,
+        "ApplicationProcess": 0.5980581045150757,
+        "TimelineFrequency": 0.4906509220600128,
+        "AuthoritiesGovernance": 0.47668391466140747,
+        "DefinitionsReferences": 0.4630460739135742
+      }
+    },
+    {
+      "sentence": "Applicants can track the status of their loan application online through the respective financial institution's portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6322696805000305,
+      "similarities": {
+        "ContextObjective": 0.4351468086242676,
+        "BenefitsAssistance": 0.5301967859268188,
+        "Eligibility": 0.5625004768371582,
+        "ApplicationProcess": 0.6322696805000305,
+        "TimelineFrequency": 0.5657404065132141,
+        "AuthoritiesGovernance": 0.43271034955978394,
+        "DefinitionsReferences": 0.43450528383255005
+      }
+    },
+    {
+      "sentence": "The scheme has provisions for refinancing options for businesses that may face challenges in repayment.",
+      "role": "Eligibility",
+      "confidence": 0.5396621227264404,
+      "similarities": {
+        "ContextObjective": 0.46855589747428894,
+        "BenefitsAssistance": 0.5381283760070801,
+        "Eligibility": 0.5396621227264404,
+        "ApplicationProcess": 0.4607716202735901,
+        "TimelineFrequency": 0.4752521216869354,
+        "AuthoritiesGovernance": 0.39480629563331604,
+        "DefinitionsReferences": 0.41451650857925415
+      }
+    },
+    {
+      "sentence": "In cases of default, the financial institutions are required to follow a structured recovery process to assist the borrowers.",
+      "role": "Eligibility",
+      "confidence": 0.5296369194984436,
+      "similarities": {
+        "ContextObjective": 0.44747108221054077,
+        "BenefitsAssistance": 0.4911196231842041,
+        "Eligibility": 0.5296369194984436,
+        "ApplicationProcess": 0.5286040902137756,
+        "TimelineFrequency": 0.4477175772190094,
+        "AuthoritiesGovernance": 0.4996778964996338,
+        "DefinitionsReferences": 0.44861745834350586
+      }
+    },
+    {
+      "sentence": "The Term Loan Scheme also emphasizes the importance of financial literacy among entrepreneurs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4658896028995514,
+      "similarities": {
+        "ContextObjective": 0.4639453887939453,
+        "BenefitsAssistance": 0.4658896028995514,
+        "Eligibility": 0.41457492113113403,
+        "ApplicationProcess": 0.37636950612068176,
+        "TimelineFrequency": 0.390238881111145,
+        "AuthoritiesGovernance": 0.29950639605522156,
+        "DefinitionsReferences": 0.40355920791625977
+      }
+    },
+    {
+      "sentence": "The Government has partnered with various organizations to provide training and resources to help businesses improve their financial management skills.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5124711394309998,
+      "similarities": {
+        "ContextObjective": 0.4451500475406647,
+        "BenefitsAssistance": 0.5124711394309998,
+        "Eligibility": 0.46019065380096436,
+        "ApplicationProcess": 0.4276878237724304,
+        "TimelineFrequency": 0.44296714663505554,
+        "AuthoritiesGovernance": 0.5028558969497681,
+        "DefinitionsReferences": 0.5002084970474243
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in promoting inclusive growth by supporting marginalized communities and women entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.5147167444229126,
+      "similarities": {
+        "ContextObjective": 0.5147167444229126,
+        "BenefitsAssistance": 0.42100340127944946,
+        "Eligibility": 0.4466715157032013,
+        "ApplicationProcess": 0.32536429166793823,
+        "TimelineFrequency": 0.3340212106704712,
+        "AuthoritiesGovernance": 0.3792494535446167,
+        "DefinitionsReferences": 0.3496628701686859
+      }
+    },
+    {
+      "sentence": "Special provisions are in place to encourage women-led businesses to apply for loans under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5284886360168457,
+      "similarities": {
+        "ContextObjective": 0.48349419236183167,
+        "BenefitsAssistance": 0.45348042249679565,
+        "Eligibility": 0.5284886360168457,
+        "ApplicationProcess": 0.4520336985588074,
+        "TimelineFrequency": 0.4471853971481323,
+        "AuthoritiesGovernance": 0.35690969228744507,
+        "DefinitionsReferences": 0.4309077262878418
+      }
+    },
+    {
+      "sentence": "The Government has set a target of increasing the number of beneficiaries under the Term Loan Scheme by 20 percent annually.",
+      "role": "Eligibility",
+      "confidence": 0.4571203589439392,
+      "similarities": {
+        "ContextObjective": 0.446478009223938,
+        "BenefitsAssistance": 0.40518152713775635,
+        "Eligibility": 0.4571203589439392,
+        "ApplicationProcess": 0.37398892641067505,
+        "TimelineFrequency": 0.3872031569480896,
+        "AuthoritiesGovernance": 0.34813496470451355,
+        "DefinitionsReferences": 0.35346925258636475
+      }
+    },
+    {
+      "sentence": "In 2022, the scheme saw a 25 percent increase in loan disbursements compared to the previous year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4405774474143982,
+      "similarities": {
+        "ContextObjective": 0.3786349296569824,
+        "BenefitsAssistance": 0.4405774474143982,
+        "Eligibility": 0.36794134974479675,
+        "ApplicationProcess": 0.33974581956863403,
+        "TimelineFrequency": 0.3874228596687317,
+        "AuthoritiesGovernance": 0.3084423840045929,
+        "DefinitionsReferences": 0.3145087957382202
+      }
+    },
+    {
+      "sentence": "The Term Loan Scheme is a vital component of the Government's strategy to boost the economy and create employment opportunities.",
+      "role": "ContextObjective",
+      "confidence": 0.543203592300415,
+      "similarities": {
+        "ContextObjective": 0.543203592300415,
+        "BenefitsAssistance": 0.4275456666946411,
+        "Eligibility": 0.4534083604812622,
+        "ApplicationProcess": 0.44304102659225464,
+        "TimelineFrequency": 0.47113749384880066,
+        "AuthoritiesGovernance": 0.3772435486316681,
+        "DefinitionsReferences": 0.42461898922920227
+      }
+    },
+    {
+      "sentence": "Overall, the Term Loan Scheme is designed to empower small and medium enterprises by providing them with the necessary financial resources to grow and thrive in a competitive market.",
+      "role": "ContextObjective",
+      "confidence": 0.5549641251564026,
+      "similarities": {
+        "ContextObjective": 0.5549641251564026,
+        "BenefitsAssistance": 0.4573825001716614,
+        "Eligibility": 0.4814930558204651,
+        "ApplicationProcess": 0.4365435540676117,
+        "TimelineFrequency": 0.4691498875617981,
+        "AuthoritiesGovernance": 0.39117297530174255,
+        "DefinitionsReferences": 0.4347009062767029
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 14,
+    "Eligibility": 9,
+    "BenefitsAssistance": 6,
+    "TimelineFrequency": 4,
+    "ApplicationProcess": 9,
+    "AuthoritiesGovernance": 2
+  },
+  "processing_timestamp": "2025-09-25T20:30:12.771933"
+}

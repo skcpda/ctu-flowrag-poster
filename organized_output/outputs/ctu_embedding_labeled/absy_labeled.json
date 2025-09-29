@@ -1,0 +1,854 @@
+{
+  "scheme_name": "Aaws Bhatta Sahayata Yojana",
+  "total_sentences": 60,
+  "labeled_sentences": [
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is a welfare scheme initiated by the Government of India to provide financial assistance to the economically disadvantaged sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5574493408203125,
+      "similarities": {
+        "ContextObjective": 0.5574493408203125,
+        "BenefitsAssistance": 0.48136505484580994,
+        "Eligibility": 0.5475175380706787,
+        "ApplicationProcess": 0.4479811191558838,
+        "TimelineFrequency": 0.4478522837162018,
+        "AuthoritiesGovernance": 0.46227365732192993,
+        "DefinitionsReferences": 0.41425251960754395
+      }
+    },
+    {
+      "sentence": "This scheme was launched on 1st April 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.6189368367195129,
+      "similarities": {
+        "ContextObjective": 0.6189368367195129,
+        "BenefitsAssistance": 0.45844364166259766,
+        "Eligibility": 0.5004586577415466,
+        "ApplicationProcess": 0.4669495224952698,
+        "TimelineFrequency": 0.4909588694572449,
+        "AuthoritiesGovernance": 0.45150691270828247,
+        "DefinitionsReferences": 0.36068472266197205
+      }
+    },
+    {
+      "sentence": "The primary objective of the Aaws Bhatta Sahayata Yojana is to provide financial support to families living below the poverty line.",
+      "role": "ContextObjective",
+      "confidence": 0.5326175689697266,
+      "similarities": {
+        "ContextObjective": 0.5326175689697266,
+        "BenefitsAssistance": 0.46589088439941406,
+        "Eligibility": 0.5050601363182068,
+        "ApplicationProcess": 0.4085704982280731,
+        "TimelineFrequency": 0.37081199884414673,
+        "AuthoritiesGovernance": 0.38127148151397705,
+        "DefinitionsReferences": 0.3612940311431885
+      }
+    },
+    {
+      "sentence": "The scheme aims to alleviate poverty by providing a monthly financial assistance of ₹1,000.",
+      "role": "ContextObjective",
+      "confidence": 0.5183044075965881,
+      "similarities": {
+        "ContextObjective": 0.5183044075965881,
+        "BenefitsAssistance": 0.5111541748046875,
+        "Eligibility": 0.49545806646347046,
+        "ApplicationProcess": 0.4272928237915039,
+        "TimelineFrequency": 0.3928945064544678,
+        "AuthoritiesGovernance": 0.3991464376449585,
+        "DefinitionsReferences": 0.31649911403656006
+      }
+    },
+    {
+      "sentence": "This amount is intended to help families meet their basic needs such as food, clothing, and shelter.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5897263884544373,
+      "similarities": {
+        "ContextObjective": 0.46391981840133667,
+        "BenefitsAssistance": 0.5897263884544373,
+        "Eligibility": 0.5142096877098083,
+        "ApplicationProcess": 0.4472232162952423,
+        "TimelineFrequency": 0.4331214427947998,
+        "AuthoritiesGovernance": 0.4451291561126709,
+        "DefinitionsReferences": 0.43660420179367065
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on supporting marginalized communities, including Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "ContextObjective",
+      "confidence": 0.5057374835014343,
+      "similarities": {
+        "ContextObjective": 0.5057374835014343,
+        "BenefitsAssistance": 0.4322208762168884,
+        "Eligibility": 0.48265892267227173,
+        "ApplicationProcess": 0.36700648069381714,
+        "TimelineFrequency": 0.372439444065094,
+        "AuthoritiesGovernance": 0.41647225618362427,
+        "DefinitionsReferences": 0.38352856040000916
+      }
+    },
+    {
+      "sentence": "The government has set a target to cover at least 10 million families under this scheme within the first three years of its implementation.",
+      "role": "Eligibility",
+      "confidence": 0.5098339319229126,
+      "similarities": {
+        "ContextObjective": 0.5030195116996765,
+        "BenefitsAssistance": 0.46119147539138794,
+        "Eligibility": 0.5098339319229126,
+        "ApplicationProcess": 0.402624249458313,
+        "TimelineFrequency": 0.3829227685928345,
+        "AuthoritiesGovernance": 0.4069836437702179,
+        "DefinitionsReferences": 0.3633936047554016
+      }
+    },
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is designed to be a direct benefit transfer scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5088565349578857,
+      "similarities": {
+        "ContextObjective": 0.5088565349578857,
+        "BenefitsAssistance": 0.4515765309333801,
+        "Eligibility": 0.49872371554374695,
+        "ApplicationProcess": 0.4340490996837616,
+        "TimelineFrequency": 0.4024280905723572,
+        "AuthoritiesGovernance": 0.38968831300735474,
+        "DefinitionsReferences": 0.36464011669158936
+      }
+    },
+    {
+      "sentence": "This means that the financial assistance is directly credited to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5317684412002563,
+      "similarities": {
+        "ContextObjective": 0.4022107720375061,
+        "BenefitsAssistance": 0.5317684412002563,
+        "Eligibility": 0.4902743697166443,
+        "ApplicationProcess": 0.41107574105262756,
+        "TimelineFrequency": 0.38003167510032654,
+        "AuthoritiesGovernance": 0.4010336101055145,
+        "DefinitionsReferences": 0.3773271441459656
+      }
+    },
+    {
+      "sentence": "To be eligible for the Aaws Bhatta Sahayata Yojana, applicants must meet certain criteria.",
+      "role": "Eligibility",
+      "confidence": 0.676240086555481,
+      "similarities": {
+        "ContextObjective": 0.532210111618042,
+        "BenefitsAssistance": 0.4612147808074951,
+        "Eligibility": 0.676240086555481,
+        "ApplicationProcess": 0.6017665863037109,
+        "TimelineFrequency": 0.5533221960067749,
+        "AuthoritiesGovernance": 0.4129539132118225,
+        "DefinitionsReferences": 0.43831753730773926
+      }
+    },
+    {
+      "sentence": "The applicant must be a resident of India.",
+      "role": "Eligibility",
+      "confidence": 0.6463309526443481,
+      "similarities": {
+        "ContextObjective": 0.5080668926239014,
+        "BenefitsAssistance": 0.4595189392566681,
+        "Eligibility": 0.6463309526443481,
+        "ApplicationProcess": 0.6234988570213318,
+        "TimelineFrequency": 0.5301551222801208,
+        "AuthoritiesGovernance": 0.4532979428768158,
+        "DefinitionsReferences": 0.4309958815574646
+      }
+    },
+    {
+      "sentence": "The applicant must belong to a family that is classified as below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.6525619626045227,
+      "similarities": {
+        "ContextObjective": 0.4723658263683319,
+        "BenefitsAssistance": 0.5055912733078003,
+        "Eligibility": 0.6525619626045227,
+        "ApplicationProcess": 0.5529772043228149,
+        "TimelineFrequency": 0.4931632876396179,
+        "AuthoritiesGovernance": 0.41823118925094604,
+        "DefinitionsReferences": 0.39352232217788696
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹1 lakh per annum for urban areas and ₹75,000 per annum for rural areas.",
+      "role": "Eligibility",
+      "confidence": 0.5352109670639038,
+      "similarities": {
+        "ContextObjective": 0.4113512933254242,
+        "BenefitsAssistance": 0.44456467032432556,
+        "Eligibility": 0.5352109670639038,
+        "ApplicationProcess": 0.42739546298980713,
+        "TimelineFrequency": 0.4167698323726654,
+        "AuthoritiesGovernance": 0.34153419733047485,
+        "DefinitionsReferences": 0.3434908092021942
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49370497465133667,
+      "similarities": {
+        "ContextObjective": 0.4676801264286041,
+        "BenefitsAssistance": 0.3654477000236511,
+        "Eligibility": 0.49370497465133667,
+        "ApplicationProcess": 0.46376174688339233,
+        "TimelineFrequency": 0.41034406423568726,
+        "AuthoritiesGovernance": 0.32643362879753113,
+        "DefinitionsReferences": 0.29340898990631104
+      }
+    },
+    {
+      "sentence": "The application process for the Aaws Bhatta Sahayata Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5551442503929138,
+      "similarities": {
+        "ContextObjective": 0.49878185987472534,
+        "BenefitsAssistance": 0.4125034213066101,
+        "Eligibility": 0.5119805335998535,
+        "ApplicationProcess": 0.5551442503929138,
+        "TimelineFrequency": 0.48417311906814575,
+        "AuthoritiesGovernance": 0.3860195279121399,
+        "DefinitionsReferences": 0.3791320025920868
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6356682181358337,
+      "similarities": {
+        "ContextObjective": 0.5676701068878174,
+        "BenefitsAssistance": 0.4488692283630371,
+        "Eligibility": 0.5895899534225464,
+        "ApplicationProcess": 0.6356682181358337,
+        "TimelineFrequency": 0.521776020526886,
+        "AuthoritiesGovernance": 0.4441312551498413,
+        "DefinitionsReferences": 0.43721872568130493
+      }
+    },
+    {
+      "sentence": "They need to fill out the online application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7471202611923218,
+      "similarities": {
+        "ContextObjective": 0.4723776578903198,
+        "BenefitsAssistance": 0.4942702353000641,
+        "Eligibility": 0.5976070165634155,
+        "ApplicationProcess": 0.7471202611923218,
+        "TimelineFrequency": 0.5615777373313904,
+        "AuthoritiesGovernance": 0.4436802268028259,
+        "DefinitionsReferences": 0.44033098220825195
+      }
+    },
+    {
+      "sentence": "The application form requires details such as the applicant's name, address, income details, and family composition.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6904755234718323,
+      "similarities": {
+        "ContextObjective": 0.5069864988327026,
+        "BenefitsAssistance": 0.5998850464820862,
+        "Eligibility": 0.6448900699615479,
+        "ApplicationProcess": 0.6904755234718323,
+        "TimelineFrequency": 0.5696205496788025,
+        "AuthoritiesGovernance": 0.452981173992157,
+        "DefinitionsReferences": 0.518059492111206
+      }
+    },
+    {
+      "sentence": "Applicants must also upload necessary documents such as proof of identity, proof of income, and proof of residence.",
+      "role": "ApplicationProcess",
+      "confidence": 0.705248236656189,
+      "similarities": {
+        "ContextObjective": 0.471235454082489,
+        "BenefitsAssistance": 0.5523295998573303,
+        "Eligibility": 0.599963903427124,
+        "ApplicationProcess": 0.705248236656189,
+        "TimelineFrequency": 0.5625849962234497,
+        "AuthoritiesGovernance": 0.46001726388931274,
+        "DefinitionsReferences": 0.5305904746055603
+      }
+    },
+    {
+      "sentence": "The required documents include aadhar card, income certificate, and ration card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5929068326950073,
+      "similarities": {
+        "ContextObjective": 0.45663338899612427,
+        "BenefitsAssistance": 0.5609325766563416,
+        "Eligibility": 0.514939546585083,
+        "ApplicationProcess": 0.5929068326950073,
+        "TimelineFrequency": 0.47896450757980347,
+        "AuthoritiesGovernance": 0.45461025834083557,
+        "DefinitionsReferences": 0.5249215960502625
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7421252727508545,
+      "similarities": {
+        "ContextObjective": 0.5256931185722351,
+        "BenefitsAssistance": 0.48475033044815063,
+        "Eligibility": 0.6106557846069336,
+        "ApplicationProcess": 0.7421252727508545,
+        "TimelineFrequency": 0.576748251914978,
+        "AuthoritiesGovernance": 0.5001997947692871,
+        "DefinitionsReferences": 0.5012801885604858
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 to 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6170081496238708,
+      "similarities": {
+        "ContextObjective": 0.4187864065170288,
+        "BenefitsAssistance": 0.4725809693336487,
+        "Eligibility": 0.49795427918434143,
+        "ApplicationProcess": 0.6170081496238708,
+        "TimelineFrequency": 0.5579826831817627,
+        "AuthoritiesGovernance": 0.4405880570411682,
+        "DefinitionsReferences": 0.4455951750278473
+      }
+    },
+    {
+      "sentence": "After successful verification, the financial assistance will be credited to the beneficiary's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5783823132514954,
+      "similarities": {
+        "ContextObjective": 0.4322970509529114,
+        "BenefitsAssistance": 0.5783823132514954,
+        "Eligibility": 0.5576220154762268,
+        "ApplicationProcess": 0.5671237707138062,
+        "TimelineFrequency": 0.4451579451560974,
+        "AuthoritiesGovernance": 0.4273749589920044,
+        "DefinitionsReferences": 0.4310622215270996
+      }
+    },
+    {
+      "sentence": "The disbursement of funds occurs on the first day of every month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5529378652572632,
+      "similarities": {
+        "ContextObjective": 0.4724300503730774,
+        "BenefitsAssistance": 0.5529378652572632,
+        "Eligibility": 0.4735264778137207,
+        "ApplicationProcess": 0.4465135335922241,
+        "TimelineFrequency": 0.5381864309310913,
+        "AuthoritiesGovernance": 0.4520152509212494,
+        "DefinitionsReferences": 0.39306971430778503
+      }
+    },
+    {
+      "sentence": "Beneficiaries can expect to receive the ₹1,000 assistance regularly as long as they meet the eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.5851246118545532,
+      "similarities": {
+        "ContextObjective": 0.46665024757385254,
+        "BenefitsAssistance": 0.5308411121368408,
+        "Eligibility": 0.5851246118545532,
+        "ApplicationProcess": 0.48150765895843506,
+        "TimelineFrequency": 0.456585556268692,
+        "AuthoritiesGovernance": 0.4230136275291443,
+        "DefinitionsReferences": 0.3763577938079834
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Aaws Bhatta Sahayata Yojana is the Ministry of Rural Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5362663865089417,
+      "similarities": {
+        "ContextObjective": 0.4305571913719177,
+        "BenefitsAssistance": 0.3730255365371704,
+        "Eligibility": 0.484519362449646,
+        "ApplicationProcess": 0.4171951413154602,
+        "TimelineFrequency": 0.3675154149532318,
+        "AuthoritiesGovernance": 0.5362663865089417,
+        "DefinitionsReferences": 0.4022636413574219
+      }
+    },
+    {
+      "sentence": "The Ministry of Rural Development is responsible for the overall management and implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5959961414337158,
+      "similarities": {
+        "ContextObjective": 0.49255549907684326,
+        "BenefitsAssistance": 0.4440717399120331,
+        "Eligibility": 0.455447256565094,
+        "ApplicationProcess": 0.4826977849006653,
+        "TimelineFrequency": 0.40728098154067993,
+        "AuthoritiesGovernance": 0.5959961414337158,
+        "DefinitionsReferences": 0.4007962942123413
+      }
+    },
+    {
+      "sentence": "State governments also play a crucial role in the execution of the scheme at the local level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5306874513626099,
+      "similarities": {
+        "ContextObjective": 0.49948957562446594,
+        "BenefitsAssistance": 0.41072195768356323,
+        "Eligibility": 0.5010424852371216,
+        "ApplicationProcess": 0.45368462800979614,
+        "TimelineFrequency": 0.39917075634002686,
+        "AuthoritiesGovernance": 0.5306874513626099,
+        "DefinitionsReferences": 0.4214804768562317
+      }
+    },
+    {
+      "sentence": "They are responsible for the identification of beneficiaries and the verification of applications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6679603457450867,
+      "similarities": {
+        "ContextObjective": 0.5517814755439758,
+        "BenefitsAssistance": 0.588808536529541,
+        "Eligibility": 0.6636762022972107,
+        "ApplicationProcess": 0.6679603457450867,
+        "TimelineFrequency": 0.5688604712486267,
+        "AuthoritiesGovernance": 0.5324171781539917,
+        "DefinitionsReferences": 0.5239157676696777
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.5936596393585205,
+      "similarities": {
+        "ContextObjective": 0.5936596393585205,
+        "BenefitsAssistance": 0.42664939165115356,
+        "Eligibility": 0.4543163776397705,
+        "ApplicationProcess": 0.436822772026062,
+        "TimelineFrequency": 0.3904264271259308,
+        "AuthoritiesGovernance": 0.41232579946517944,
+        "DefinitionsReferences": 0.385079562664032
+      }
+    },
+    {
+      "sentence": "It aims to provide a safety net for the most vulnerable sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.5119959115982056,
+      "similarities": {
+        "ContextObjective": 0.5073341727256775,
+        "BenefitsAssistance": 0.46148258447647095,
+        "Eligibility": 0.5119959115982056,
+        "ApplicationProcess": 0.3991289734840393,
+        "TimelineFrequency": 0.37635117769241333,
+        "AuthoritiesGovernance": 0.4201796054840088,
+        "DefinitionsReferences": 0.35224607586860657
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,200 crores for the first year of implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4793066084384918,
+      "similarities": {
+        "ContextObjective": 0.4558739960193634,
+        "BenefitsAssistance": 0.47877737879753113,
+        "Eligibility": 0.44201934337615967,
+        "ApplicationProcess": 0.41538238525390625,
+        "TimelineFrequency": 0.40666741132736206,
+        "AuthoritiesGovernance": 0.4793066084384918,
+        "DefinitionsReferences": 0.3904274106025696
+      }
+    },
+    {
+      "sentence": "This budget is expected to cover the financial assistance for approximately 10 million families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5381963849067688,
+      "similarities": {
+        "ContextObjective": 0.40036481618881226,
+        "BenefitsAssistance": 0.5381963849067688,
+        "Eligibility": 0.4790876805782318,
+        "ApplicationProcess": 0.370667040348053,
+        "TimelineFrequency": 0.39659756422042847,
+        "AuthoritiesGovernance": 0.4083212614059448,
+        "DefinitionsReferences": 0.37928521633148193
+      }
+    },
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is part of a broader initiative by the Indian government to reduce poverty and improve the living standards of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5159127712249756,
+      "similarities": {
+        "ContextObjective": 0.5159127712249756,
+        "BenefitsAssistance": 0.4374089241027832,
+        "Eligibility": 0.4994714856147766,
+        "ApplicationProcess": 0.43645423650741577,
+        "TimelineFrequency": 0.40022894740104675,
+        "AuthoritiesGovernance": 0.4611445665359497,
+        "DefinitionsReferences": 0.4098023772239685
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.5615109801292419,
+      "similarities": {
+        "ContextObjective": 0.5615109801292419,
+        "BenefitsAssistance": 0.41291093826293945,
+        "Eligibility": 0.48820146918296814,
+        "ApplicationProcess": 0.4466150104999542,
+        "TimelineFrequency": 0.4025406241416931,
+        "AuthoritiesGovernance": 0.4389907717704773,
+        "DefinitionsReferences": 0.38763052225112915
+      }
+    },
+    {
+      "sentence": "These goals include eradicating poverty in all its forms everywhere.",
+      "role": "ContextObjective",
+      "confidence": 0.5272350311279297,
+      "similarities": {
+        "ContextObjective": 0.5272350311279297,
+        "BenefitsAssistance": 0.4590388536453247,
+        "Eligibility": 0.48319363594055176,
+        "ApplicationProcess": 0.3993768095970154,
+        "TimelineFrequency": 0.3793949484825134,
+        "AuthoritiesGovernance": 0.4440411925315857,
+        "DefinitionsReferences": 0.4208395481109619
+      }
+    },
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is a significant step towards achieving these goals.",
+      "role": "ContextObjective",
+      "confidence": 0.5126440525054932,
+      "similarities": {
+        "ContextObjective": 0.5126440525054932,
+        "BenefitsAssistance": 0.4205704927444458,
+        "Eligibility": 0.4641073942184448,
+        "ApplicationProcess": 0.4397681951522827,
+        "TimelineFrequency": 0.3922539949417114,
+        "AuthoritiesGovernance": 0.38430482149124146,
+        "DefinitionsReferences": 0.4040749967098236
+      }
+    },
+    {
+      "sentence": "The scheme also aims to empower women by providing them with financial independence.",
+      "role": "ContextObjective",
+      "confidence": 0.5060580372810364,
+      "similarities": {
+        "ContextObjective": 0.5060580372810364,
+        "BenefitsAssistance": 0.46778684854507446,
+        "Eligibility": 0.4476849436759949,
+        "ApplicationProcess": 0.3733375072479248,
+        "TimelineFrequency": 0.36671239137649536,
+        "AuthoritiesGovernance": 0.3303072452545166,
+        "DefinitionsReferences": 0.3214012384414673
+      }
+    },
+    {
+      "sentence": "Women are often the primary caregivers in families and having access to financial resources can improve their status in society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4787899851799011,
+      "similarities": {
+        "ContextObjective": 0.39121970534324646,
+        "BenefitsAssistance": 0.4787899851799011,
+        "Eligibility": 0.43970590829849243,
+        "ApplicationProcess": 0.36388498544692993,
+        "TimelineFrequency": 0.37263572216033936,
+        "AuthoritiesGovernance": 0.3858962059020996,
+        "DefinitionsReferences": 0.38533884286880493
+      }
+    },
+    {
+      "sentence": "The government has also emphasized the importance of awareness campaigns to educate people about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5240780711174011,
+      "similarities": {
+        "ContextObjective": 0.5240780711174011,
+        "BenefitsAssistance": 0.4255697727203369,
+        "Eligibility": 0.45548778772354126,
+        "ApplicationProcess": 0.44364094734191895,
+        "TimelineFrequency": 0.3831924796104431,
+        "AuthoritiesGovernance": 0.4341878294944763,
+        "DefinitionsReferences": 0.3953093886375427
+      }
+    },
+    {
+      "sentence": "These campaigns are aimed at ensuring that eligible families are informed about the benefits available to them.",
+      "role": "Eligibility",
+      "confidence": 0.6144701838493347,
+      "similarities": {
+        "ContextObjective": 0.5422881841659546,
+        "BenefitsAssistance": 0.5532119274139404,
+        "Eligibility": 0.6144701838493347,
+        "ApplicationProcess": 0.5315029621124268,
+        "TimelineFrequency": 0.5048112273216248,
+        "AuthoritiesGovernance": 0.49340197443962097,
+        "DefinitionsReferences": 0.44142407178878784
+      }
+    },
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is expected to have a positive impact on the overall economy.",
+      "role": "ContextObjective",
+      "confidence": 0.45905637741088867,
+      "similarities": {
+        "ContextObjective": 0.45905637741088867,
+        "BenefitsAssistance": 0.42928075790405273,
+        "Eligibility": 0.43155163526535034,
+        "ApplicationProcess": 0.3767586350440979,
+        "TimelineFrequency": 0.36962318420410156,
+        "AuthoritiesGovernance": 0.3664143681526184,
+        "DefinitionsReferences": 0.37303802371025085
+      }
+    },
+    {
+      "sentence": "By providing financial assistance to the poor, the scheme will increase their purchasing power.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49446216225624084,
+      "similarities": {
+        "ContextObjective": 0.48082128167152405,
+        "BenefitsAssistance": 0.49446216225624084,
+        "Eligibility": 0.4480639696121216,
+        "ApplicationProcess": 0.3839033544063568,
+        "TimelineFrequency": 0.3501354455947876,
+        "AuthoritiesGovernance": 0.3782269358634949,
+        "DefinitionsReferences": 0.33907461166381836
+      }
+    },
+    {
+      "sentence": "This, in turn, will stimulate demand for goods and services in the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.4433022737503052,
+      "similarities": {
+        "ContextObjective": 0.4433022737503052,
+        "BenefitsAssistance": 0.3776376247406006,
+        "Eligibility": 0.358345091342926,
+        "ApplicationProcess": 0.3637886047363281,
+        "TimelineFrequency": 0.3809701204299927,
+        "AuthoritiesGovernance": 0.3275079131126404,
+        "DefinitionsReferences": 0.3520958721637726
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to reduce the burden on local governments and community organizations that provide support to the poor.",
+      "role": "ContextObjective",
+      "confidence": 0.46592533588409424,
+      "similarities": {
+        "ContextObjective": 0.46592533588409424,
+        "BenefitsAssistance": 0.45442628860473633,
+        "Eligibility": 0.4518159329891205,
+        "ApplicationProcess": 0.3767765164375305,
+        "TimelineFrequency": 0.34643542766571045,
+        "AuthoritiesGovernance": 0.461771160364151,
+        "DefinitionsReferences": 0.3564666211605072
+      }
+    },
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is an example of the government's commitment to social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.47431284189224243,
+      "similarities": {
+        "ContextObjective": 0.47431284189224243,
+        "BenefitsAssistance": 0.42611217498779297,
+        "Eligibility": 0.46464282274246216,
+        "ApplicationProcess": 0.3920212984085083,
+        "TimelineFrequency": 0.3676306903362274,
+        "AuthoritiesGovernance": 0.3845449686050415,
+        "DefinitionsReferences": 0.40553683042526245
+      }
+    },
+    {
+      "sentence": "It reflects the government's efforts to create a more inclusive society.",
+      "role": "ContextObjective",
+      "confidence": 0.5502496957778931,
+      "similarities": {
+        "ContextObjective": 0.5502496957778931,
+        "BenefitsAssistance": 0.464128702878952,
+        "Eligibility": 0.5070422887802124,
+        "ApplicationProcess": 0.4499637484550476,
+        "TimelineFrequency": 0.40014320611953735,
+        "AuthoritiesGovernance": 0.4831143617630005,
+        "DefinitionsReferences": 0.44831594824790955
+      }
+    },
+    {
+      "sentence": "The scheme is also part of a larger set of welfare initiatives aimed at improving the quality of life for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5188541412353516,
+      "similarities": {
+        "ContextObjective": 0.5188541412353516,
+        "BenefitsAssistance": 0.4305218458175659,
+        "Eligibility": 0.4620215892791748,
+        "ApplicationProcess": 0.4004809856414795,
+        "TimelineFrequency": 0.3795604109764099,
+        "AuthoritiesGovernance": 0.4337056875228882,
+        "DefinitionsReferences": 0.38517963886260986
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to operate effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.586920440196991,
+      "similarities": {
+        "ContextObjective": 0.586920440196991,
+        "BenefitsAssistance": 0.4486834704875946,
+        "Eligibility": 0.4815589487552643,
+        "ApplicationProcess": 0.4519932270050049,
+        "TimelineFrequency": 0.45273151993751526,
+        "AuthoritiesGovernance": 0.45669031143188477,
+        "DefinitionsReferences": 0.40785613656044006
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring its implementation and impact.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5959494113922119,
+      "similarities": {
+        "ContextObjective": 0.4822021722793579,
+        "BenefitsAssistance": 0.5001485347747803,
+        "Eligibility": 0.4950312674045563,
+        "ApplicationProcess": 0.4998464584350586,
+        "TimelineFrequency": 0.44419997930526733,
+        "AuthoritiesGovernance": 0.5959494113922119,
+        "DefinitionsReferences": 0.5013079047203064
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is being collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.5437206029891968,
+      "similarities": {
+        "ContextObjective": 0.5437206029891968,
+        "BenefitsAssistance": 0.5099180340766907,
+        "Eligibility": 0.5358737707138062,
+        "ApplicationProcess": 0.48631036281585693,
+        "TimelineFrequency": 0.4395204484462738,
+        "AuthoritiesGovernance": 0.5095455646514893,
+        "DefinitionsReferences": 0.4367799162864685
+      }
+    },
+    {
+      "sentence": "The Aaws Bhatta Sahayata Yojana is a crucial initiative in the fight against poverty in India.",
+      "role": "ContextObjective",
+      "confidence": 0.49817129969596863,
+      "similarities": {
+        "ContextObjective": 0.49817129969596863,
+        "BenefitsAssistance": 0.40733832120895386,
+        "Eligibility": 0.4798050820827484,
+        "ApplicationProcess": 0.3965955972671509,
+        "TimelineFrequency": 0.37651923298835754,
+        "AuthoritiesGovernance": 0.3872501850128174,
+        "DefinitionsReferences": 0.3677583932876587
+      }
+    },
+    {
+      "sentence": "It provides much-needed financial support to those who need it the most.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.564323902130127,
+      "similarities": {
+        "ContextObjective": 0.43394508957862854,
+        "BenefitsAssistance": 0.564323902130127,
+        "Eligibility": 0.4785727262496948,
+        "ApplicationProcess": 0.383918821811676,
+        "TimelineFrequency": 0.38356778025627136,
+        "AuthoritiesGovernance": 0.38511741161346436,
+        "DefinitionsReferences": 0.3885314464569092
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's dedication to uplifting the underprivileged.",
+      "role": "ContextObjective",
+      "confidence": 0.5066606998443604,
+      "similarities": {
+        "ContextObjective": 0.5066606998443604,
+        "BenefitsAssistance": 0.42325037717819214,
+        "Eligibility": 0.43721893429756165,
+        "ApplicationProcess": 0.38869035243988037,
+        "TimelineFrequency": 0.33028775453567505,
+        "AuthoritiesGovernance": 0.3876896798610687,
+        "DefinitionsReferences": 0.345884770154953
+      }
+    },
+    {
+      "sentence": "In conclusion, the Aaws Bhatta Sahayata Yojana is a comprehensive welfare scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5188704133033752,
+      "similarities": {
+        "ContextObjective": 0.5188704133033752,
+        "BenefitsAssistance": 0.5056922435760498,
+        "Eligibility": 0.48913294076919556,
+        "ApplicationProcess": 0.4439791142940521,
+        "TimelineFrequency": 0.4129682779312134,
+        "AuthoritiesGovernance": 0.41977429389953613,
+        "DefinitionsReferences": 0.3953137993812561
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance to families living below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.5399222373962402,
+      "similarities": {
+        "ContextObjective": 0.4992760419845581,
+        "BenefitsAssistance": 0.5107590556144714,
+        "Eligibility": 0.5399222373962402,
+        "ApplicationProcess": 0.4308919608592987,
+        "TimelineFrequency": 0.3971680700778961,
+        "AuthoritiesGovernance": 0.4214766025543213,
+        "DefinitionsReferences": 0.36125099658966064
+      }
+    },
+    {
+      "sentence": "With a monthly assistance of ₹1,000, the scheme seeks to improve the living conditions of millions of families across India.",
+      "role": "Eligibility",
+      "confidence": 0.4786891043186188,
+      "similarities": {
+        "ContextObjective": 0.4708555340766907,
+        "BenefitsAssistance": 0.4605451226234436,
+        "Eligibility": 0.4786891043186188,
+        "ApplicationProcess": 0.3982848525047302,
+        "TimelineFrequency": 0.36817270517349243,
+        "AuthoritiesGovernance": 0.3989110589027405,
+        "DefinitionsReferences": 0.31966644525527954
+      }
+    },
+    {
+      "sentence": "The eligibility criteria are clear and accessible, ensuring that those in need can apply easily.",
+      "role": "Eligibility",
+      "confidence": 0.655730128288269,
+      "similarities": {
+        "ContextObjective": 0.5164005756378174,
+        "BenefitsAssistance": 0.4782913625240326,
+        "Eligibility": 0.655730128288269,
+        "ApplicationProcess": 0.5504142642021179,
+        "TimelineFrequency": 0.5139801502227783,
+        "AuthoritiesGovernance": 0.4169705808162689,
+        "DefinitionsReferences": 0.40996891260147095
+      }
+    },
+    {
+      "sentence": "The application process is designed to be user-friendly, with a focus on transparency and efficiency.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5997968912124634,
+      "similarities": {
+        "ContextObjective": 0.4812977910041809,
+        "BenefitsAssistance": 0.47264471650123596,
+        "Eligibility": 0.5176303386688232,
+        "ApplicationProcess": 0.5997968912124634,
+        "TimelineFrequency": 0.5397369265556335,
+        "AuthoritiesGovernance": 0.44237297773361206,
+        "DefinitionsReferences": 0.41797110438346863
+      }
+    },
+    {
+      "sentence": "Overall, the Aaws Bhatta Sahayata Yojana represents a significant step towards achieving social equity and economic empowerment in India.",
+      "role": "ContextObjective",
+      "confidence": 0.487254798412323,
+      "similarities": {
+        "ContextObjective": 0.487254798412323,
+        "BenefitsAssistance": 0.408157080411911,
+        "Eligibility": 0.45081475377082825,
+        "ApplicationProcess": 0.3987584114074707,
+        "TimelineFrequency": 0.3577207922935486,
+        "AuthoritiesGovernance": 0.3948030173778534,
+        "DefinitionsReferences": 0.38079047203063965
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 25,
+    "BenefitsAssistance": 8,
+    "Eligibility": 12,
+    "ApplicationProcess": 10,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-24T21:01:37.619024"
+}

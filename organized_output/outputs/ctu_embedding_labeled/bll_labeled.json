@@ -1,0 +1,912 @@
+{
+  "scheme_name": "Bidya Lakshmi Loan",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme was launched by the Government of India in 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5659976005554199,
+      "similarities": {
+        "ContextObjective": 0.5659976005554199,
+        "BenefitsAssistance": 0.466938316822052,
+        "Eligibility": 0.5135664343833923,
+        "ApplicationProcess": 0.4629666209220886,
+        "TimelineFrequency": 0.46255579590797424,
+        "AuthoritiesGovernance": 0.44297417998313904,
+        "DefinitionsReferences": 0.3890526592731476
+      }
+    },
+    {
+      "sentence": "This scheme is specifically aimed at providing financial assistance to students pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5441842079162598,
+      "similarities": {
+        "ContextObjective": 0.5441842079162598,
+        "BenefitsAssistance": 0.5360060930252075,
+        "Eligibility": 0.5146601796150208,
+        "ApplicationProcess": 0.47736018896102905,
+        "TimelineFrequency": 0.46229302883148193,
+        "AuthoritiesGovernance": 0.38050055503845215,
+        "DefinitionsReferences": 0.3824694752693176
+      }
+    },
+    {
+      "sentence": "The primary objective of the Bidya Lakshmi Loan scheme is to promote education among students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5188431739807129,
+      "similarities": {
+        "ContextObjective": 0.5188431739807129,
+        "BenefitsAssistance": 0.381949245929718,
+        "Eligibility": 0.4493694007396698,
+        "ApplicationProcess": 0.38488584756851196,
+        "TimelineFrequency": 0.38756728172302246,
+        "AuthoritiesGovernance": 0.36737680435180664,
+        "DefinitionsReferences": 0.3295733630657196
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that students have access to necessary funds to cover their educational expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5748057961463928,
+      "similarities": {
+        "ContextObjective": 0.5652374029159546,
+        "BenefitsAssistance": 0.5748057961463928,
+        "Eligibility": 0.5720467567443848,
+        "ApplicationProcess": 0.5283528566360474,
+        "TimelineFrequency": 0.5019400119781494,
+        "AuthoritiesGovernance": 0.42072004079818726,
+        "DefinitionsReferences": 0.42480456829071045
+      }
+    },
+    {
+      "sentence": "The initiative is part of a broader effort by the Indian government to enhance educational opportunities and reduce dropout rates among students.",
+      "role": "ContextObjective",
+      "confidence": 0.442338764667511,
+      "similarities": {
+        "ContextObjective": 0.442338764667511,
+        "BenefitsAssistance": 0.3783753216266632,
+        "Eligibility": 0.41593465209007263,
+        "ApplicationProcess": 0.38858115673065186,
+        "TimelineFrequency": 0.39153051376342773,
+        "AuthoritiesGovernance": 0.4252139925956726,
+        "DefinitionsReferences": 0.3598698675632477
+      }
+    },
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme is designed to provide loans at a subsidized interest rate.",
+      "role": "ContextObjective",
+      "confidence": 0.4747612476348877,
+      "similarities": {
+        "ContextObjective": 0.4747612476348877,
+        "BenefitsAssistance": 0.46758508682250977,
+        "Eligibility": 0.4547613263130188,
+        "ApplicationProcess": 0.41980940103530884,
+        "TimelineFrequency": 0.42538806796073914,
+        "AuthoritiesGovernance": 0.35657787322998047,
+        "DefinitionsReferences": 0.3704071640968323
+      }
+    },
+    {
+      "sentence": "Eligible students can avail loans up to INR 10 lakh for pursuing higher education.",
+      "role": "Eligibility",
+      "confidence": 0.5176914930343628,
+      "similarities": {
+        "ContextObjective": 0.42175957560539246,
+        "BenefitsAssistance": 0.4885368347167969,
+        "Eligibility": 0.5176914930343628,
+        "ApplicationProcess": 0.4452391564846039,
+        "TimelineFrequency": 0.43536558747291565,
+        "AuthoritiesGovernance": 0.3321637809276581,
+        "DefinitionsReferences": 0.40426570177078247
+      }
+    },
+    {
+      "sentence": "The interest rate on these loans is set at a competitive rate of 4 percent per annum.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4285927414894104,
+      "similarities": {
+        "ContextObjective": 0.3976578116416931,
+        "BenefitsAssistance": 0.4021568298339844,
+        "Eligibility": 0.41562002897262573,
+        "ApplicationProcess": 0.38531655073165894,
+        "TimelineFrequency": 0.4285927414894104,
+        "AuthoritiesGovernance": 0.309723436832428,
+        "DefinitionsReferences": 0.3505660891532898
+      }
+    },
+    {
+      "sentence": "The repayment period for the loan is flexible, allowing students to repay over a period of up to 10 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5334717631340027,
+      "similarities": {
+        "ContextObjective": 0.40594786405563354,
+        "BenefitsAssistance": 0.5134049654006958,
+        "Eligibility": 0.5124331712722778,
+        "ApplicationProcess": 0.4587690532207489,
+        "TimelineFrequency": 0.5334717631340027,
+        "AuthoritiesGovernance": 0.3717729151248932,
+        "DefinitionsReferences": 0.43766874074935913
+      }
+    },
+    {
+      "sentence": "The scheme covers various fields of study, including engineering, medicine, management, and other professional courses.",
+      "role": "ContextObjective",
+      "confidence": 0.5464801788330078,
+      "similarities": {
+        "ContextObjective": 0.5464801788330078,
+        "BenefitsAssistance": 0.5172518491744995,
+        "Eligibility": 0.5088037252426147,
+        "ApplicationProcess": 0.46379905939102173,
+        "TimelineFrequency": 0.5080139636993408,
+        "AuthoritiesGovernance": 0.4320497512817383,
+        "DefinitionsReferences": 0.4888707101345062
+      }
+    },
+    {
+      "sentence": "To be eligible for the Bidya Lakshmi Loan scheme, applicants must be Indian citizens.",
+      "role": "Eligibility",
+      "confidence": 0.5865216255187988,
+      "similarities": {
+        "ContextObjective": 0.4314929246902466,
+        "BenefitsAssistance": 0.39160972833633423,
+        "Eligibility": 0.5865216255187988,
+        "ApplicationProcess": 0.50913006067276,
+        "TimelineFrequency": 0.42623379826545715,
+        "AuthoritiesGovernance": 0.33634960651397705,
+        "DefinitionsReferences": 0.3381793200969696
+      }
+    },
+    {
+      "sentence": "Students must be enrolled in recognized institutions for higher education.",
+      "role": "Eligibility",
+      "confidence": 0.5752227902412415,
+      "similarities": {
+        "ContextObjective": 0.4819817543029785,
+        "BenefitsAssistance": 0.48654821515083313,
+        "Eligibility": 0.5752227902412415,
+        "ApplicationProcess": 0.5528346300125122,
+        "TimelineFrequency": 0.5138795971870422,
+        "AuthoritiesGovernance": 0.46402156352996826,
+        "DefinitionsReferences": 0.4854881763458252
+      }
+    },
+    {
+      "sentence": "The scheme is targeted towards students from families with an annual income of less than INR 6 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5018333196640015,
+      "similarities": {
+        "ContextObjective": 0.47668683528900146,
+        "BenefitsAssistance": 0.457012414932251,
+        "Eligibility": 0.5018333196640015,
+        "ApplicationProcess": 0.43599098920822144,
+        "TimelineFrequency": 0.4378235936164856,
+        "AuthoritiesGovernance": 0.3439176380634308,
+        "DefinitionsReferences": 0.3241678476333618
+      }
+    },
+    {
+      "sentence": "Applicants must be between the ages of 18 and 35 years at the time of applying for the loan.",
+      "role": "Eligibility",
+      "confidence": 0.6023784875869751,
+      "similarities": {
+        "ContextObjective": 0.4646185040473938,
+        "BenefitsAssistance": 0.5198262929916382,
+        "Eligibility": 0.6023784875869751,
+        "ApplicationProcess": 0.5564084053039551,
+        "TimelineFrequency": 0.5424826145172119,
+        "AuthoritiesGovernance": 0.3807843327522278,
+        "DefinitionsReferences": 0.4068593978881836
+      }
+    },
+    {
+      "sentence": "The educational qualification required is a minimum of 50 percent marks in the qualifying examination.",
+      "role": "Eligibility",
+      "confidence": 0.49103617668151855,
+      "similarities": {
+        "ContextObjective": 0.4169575572013855,
+        "BenefitsAssistance": 0.36624979972839355,
+        "Eligibility": 0.49103617668151855,
+        "ApplicationProcess": 0.4885554015636444,
+        "TimelineFrequency": 0.42120161652565,
+        "AuthoritiesGovernance": 0.3458181619644165,
+        "DefinitionsReferences": 0.3679082691669464
+      }
+    },
+    {
+      "sentence": "The application process for the Bidya Lakshmi Loan scheme is straightforward and can be completed online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.630403995513916,
+      "similarities": {
+        "ContextObjective": 0.4973108768463135,
+        "BenefitsAssistance": 0.45993080735206604,
+        "Eligibility": 0.5188924074172974,
+        "ApplicationProcess": 0.630403995513916,
+        "TimelineFrequency": 0.5027604699134827,
+        "AuthoritiesGovernance": 0.37888777256011963,
+        "DefinitionsReferences": 0.3723753094673157
+      }
+    },
+    {
+      "sentence": "Students must visit the official website of the scheme to access the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6518586874008179,
+      "similarities": {
+        "ContextObjective": 0.505334734916687,
+        "BenefitsAssistance": 0.4406863749027252,
+        "Eligibility": 0.5474330186843872,
+        "ApplicationProcess": 0.6518586874008179,
+        "TimelineFrequency": 0.5130602121353149,
+        "AuthoritiesGovernance": 0.4103057086467743,
+        "DefinitionsReferences": 0.43339842557907104
+      }
+    },
+    {
+      "sentence": "The application form requires personal details, educational qualifications, and family income information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6837243437767029,
+      "similarities": {
+        "ContextObjective": 0.49610084295272827,
+        "BenefitsAssistance": 0.5852103233337402,
+        "Eligibility": 0.6518391370773315,
+        "ApplicationProcess": 0.6837243437767029,
+        "TimelineFrequency": 0.5755728483200073,
+        "AuthoritiesGovernance": 0.4554303288459778,
+        "DefinitionsReferences": 0.4941568374633789
+      }
+    },
+    {
+      "sentence": "Applicants must submit documents such as identity proof, income certificate, and admission letter from the educational institution.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6746063232421875,
+      "similarities": {
+        "ContextObjective": 0.46935245394706726,
+        "BenefitsAssistance": 0.5310418605804443,
+        "Eligibility": 0.5713506937026978,
+        "ApplicationProcess": 0.6746063232421875,
+        "TimelineFrequency": 0.5462474822998047,
+        "AuthoritiesGovernance": 0.4308124780654907,
+        "DefinitionsReferences": 0.49236392974853516
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes a verification process by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7574277520179749,
+      "similarities": {
+        "ContextObjective": 0.521491527557373,
+        "BenefitsAssistance": 0.48432305455207825,
+        "Eligibility": 0.600461483001709,
+        "ApplicationProcess": 0.7574277520179749,
+        "TimelineFrequency": 0.5735339522361755,
+        "AuthoritiesGovernance": 0.5012916326522827,
+        "DefinitionsReferences": 0.5034582614898682
+      }
+    },
+    {
+      "sentence": "The loan amount is disbursed directly to the educational institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5225173234939575,
+      "similarities": {
+        "ContextObjective": 0.425807386636734,
+        "BenefitsAssistance": 0.5225173234939575,
+        "Eligibility": 0.44597265124320984,
+        "ApplicationProcess": 0.4202490448951721,
+        "TimelineFrequency": 0.42558932304382324,
+        "AuthoritiesGovernance": 0.4257960915565491,
+        "DefinitionsReferences": 0.3772166967391968
+      }
+    },
+    {
+      "sentence": "The disbursement of funds typically occurs within 15 days of the application approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5507375597953796,
+      "similarities": {
+        "ContextObjective": 0.432098388671875,
+        "BenefitsAssistance": 0.5507375597953796,
+        "Eligibility": 0.5019020438194275,
+        "ApplicationProcess": 0.5047028064727783,
+        "TimelineFrequency": 0.5433515906333923,
+        "AuthoritiesGovernance": 0.4286278486251831,
+        "DefinitionsReferences": 0.38750049471855164
+      }
+    },
+    {
+      "sentence": "Students are required to start repaying the loan six months after completing their course.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49663299322128296,
+      "similarities": {
+        "ContextObjective": 0.40147754549980164,
+        "BenefitsAssistance": 0.4322252571582794,
+        "Eligibility": 0.4660533666610718,
+        "ApplicationProcess": 0.45935457944869995,
+        "TimelineFrequency": 0.49663299322128296,
+        "AuthoritiesGovernance": 0.3512112498283386,
+        "DefinitionsReferences": 0.374383807182312
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for interest subsidies for students from marginalized communities.",
+      "role": "Eligibility",
+      "confidence": 0.5052293539047241,
+      "similarities": {
+        "ContextObjective": 0.4749148488044739,
+        "BenefitsAssistance": 0.481295645236969,
+        "Eligibility": 0.5052293539047241,
+        "ApplicationProcess": 0.3861469030380249,
+        "TimelineFrequency": 0.41259950399398804,
+        "AuthoritiesGovernance": 0.37102073431015015,
+        "DefinitionsReferences": 0.38530510663986206
+      }
+    },
+    {
+      "sentence": "This includes Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.4887831211090088,
+      "similarities": {
+        "ContextObjective": 0.4462430477142334,
+        "BenefitsAssistance": 0.4632662534713745,
+        "Eligibility": 0.4887831211090088,
+        "ApplicationProcess": 0.39802777767181396,
+        "TimelineFrequency": 0.4235646724700928,
+        "AuthoritiesGovernance": 0.44410479068756104,
+        "DefinitionsReferences": 0.4621849060058594
+      }
+    },
+    {
+      "sentence": "The government aims to provide a 100 percent interest subsidy for eligible students during the course duration.",
+      "role": "Eligibility",
+      "confidence": 0.4768677353858948,
+      "similarities": {
+        "ContextObjective": 0.4681442975997925,
+        "BenefitsAssistance": 0.4402981996536255,
+        "Eligibility": 0.4768677353858948,
+        "ApplicationProcess": 0.40675392746925354,
+        "TimelineFrequency": 0.4487905204296112,
+        "AuthoritiesGovernance": 0.3629342317581177,
+        "DefinitionsReferences": 0.37529104948043823
+      }
+    },
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme is implemented by the Ministry of Education.",
+      "role": "ContextObjective",
+      "confidence": 0.5006417036056519,
+      "similarities": {
+        "ContextObjective": 0.5006417036056519,
+        "BenefitsAssistance": 0.4576101303100586,
+        "Eligibility": 0.48234957456588745,
+        "ApplicationProcess": 0.46584352850914,
+        "TimelineFrequency": 0.4295055866241455,
+        "AuthoritiesGovernance": 0.49357250332832336,
+        "DefinitionsReferences": 0.4029160439968109
+      }
+    },
+    {
+      "sentence": "The National Bank for Agriculture and Rural Development is one of the key agencies involved in the scheme's execution.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5164133906364441,
+      "similarities": {
+        "ContextObjective": 0.5097792148590088,
+        "BenefitsAssistance": 0.4345856308937073,
+        "Eligibility": 0.49944186210632324,
+        "ApplicationProcess": 0.4588044285774231,
+        "TimelineFrequency": 0.40364792943000793,
+        "AuthoritiesGovernance": 0.5164133906364441,
+        "DefinitionsReferences": 0.4130675494670868
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received, with thousands of students applying for loans since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5220796465873718,
+      "similarities": {
+        "ContextObjective": 0.5220796465873718,
+        "BenefitsAssistance": 0.41895729303359985,
+        "Eligibility": 0.4589712619781494,
+        "ApplicationProcess": 0.4391816258430481,
+        "TimelineFrequency": 0.4271284341812134,
+        "AuthoritiesGovernance": 0.34499114751815796,
+        "DefinitionsReferences": 0.36652418971061707
+      }
+    },
+    {
+      "sentence": "In the first year alone, over 50,000 applications were received.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48900899291038513,
+      "similarities": {
+        "ContextObjective": 0.4547573924064636,
+        "BenefitsAssistance": 0.4018424153327942,
+        "Eligibility": 0.4532737731933594,
+        "ApplicationProcess": 0.48900899291038513,
+        "TimelineFrequency": 0.4680180847644806,
+        "AuthoritiesGovernance": 0.35656309127807617,
+        "DefinitionsReferences": 0.3460383415222168
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the initial phase of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.503463625907898,
+      "similarities": {
+        "ContextObjective": 0.503463625907898,
+        "BenefitsAssistance": 0.4583282172679901,
+        "Eligibility": 0.4515115022659302,
+        "ApplicationProcess": 0.4389541745185852,
+        "TimelineFrequency": 0.4243704080581665,
+        "AuthoritiesGovernance": 0.4188975989818573,
+        "DefinitionsReferences": 0.35833072662353516
+      }
+    },
+    {
+      "sentence": "This budget is expected to support approximately 50,000 students in their higher education pursuits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4383445382118225,
+      "similarities": {
+        "ContextObjective": 0.4053647518157959,
+        "BenefitsAssistance": 0.4383445382118225,
+        "Eligibility": 0.3853051960468292,
+        "ApplicationProcess": 0.3536220192909241,
+        "TimelineFrequency": 0.38499078154563904,
+        "AuthoritiesGovernance": 0.33892709016799927,
+        "DefinitionsReferences": 0.3528602123260498
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger National Education Policy 2020 initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5170267820358276,
+      "similarities": {
+        "ContextObjective": 0.5170267820358276,
+        "BenefitsAssistance": 0.42491084337234497,
+        "Eligibility": 0.41987910866737366,
+        "ApplicationProcess": 0.38748404383659363,
+        "TimelineFrequency": 0.3950255513191223,
+        "AuthoritiesGovernance": 0.39654213190078735,
+        "DefinitionsReferences": 0.3693178594112396
+      }
+    },
+    {
+      "sentence": "The policy aims to increase Gross Enrollment Ratio in higher education to 50 percent by 2035.",
+      "role": "ContextObjective",
+      "confidence": 0.4034166932106018,
+      "similarities": {
+        "ContextObjective": 0.4034166932106018,
+        "BenefitsAssistance": 0.3611690402030945,
+        "Eligibility": 0.3735377788543701,
+        "ApplicationProcess": 0.3575153350830078,
+        "TimelineFrequency": 0.3683292269706726,
+        "AuthoritiesGovernance": 0.33479684591293335,
+        "DefinitionsReferences": 0.29860764741897583
+      }
+    },
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme is a crucial step towards achieving this target.",
+      "role": "ContextObjective",
+      "confidence": 0.5211406946182251,
+      "similarities": {
+        "ContextObjective": 0.5211406946182251,
+        "BenefitsAssistance": 0.4115385413169861,
+        "Eligibility": 0.4652531147003174,
+        "ApplicationProcess": 0.4420607089996338,
+        "TimelineFrequency": 0.3895140290260315,
+        "AuthoritiesGovernance": 0.3747798204421997,
+        "DefinitionsReferences": 0.37816497683525085
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of skill development alongside academic education.",
+      "role": "ContextObjective",
+      "confidence": 0.47066929936408997,
+      "similarities": {
+        "ContextObjective": 0.47066929936408997,
+        "BenefitsAssistance": 0.3787146210670471,
+        "Eligibility": 0.36191055178642273,
+        "ApplicationProcess": 0.38323959708213806,
+        "TimelineFrequency": 0.3845422863960266,
+        "AuthoritiesGovernance": 0.32431650161743164,
+        "DefinitionsReferences": 0.3854987919330597
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government aims to reduce the financial burden on families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5530080199241638,
+      "similarities": {
+        "ContextObjective": 0.4578995704650879,
+        "BenefitsAssistance": 0.5530080199241638,
+        "Eligibility": 0.49867916107177734,
+        "ApplicationProcess": 0.42483586072921753,
+        "TimelineFrequency": 0.3995978832244873,
+        "AuthoritiesGovernance": 0.44198334217071533,
+        "DefinitionsReferences": 0.3781903386116028
+      }
+    },
+    {
+      "sentence": "This is particularly important for families from low-income backgrounds.",
+      "role": "Eligibility",
+      "confidence": 0.5118966698646545,
+      "similarities": {
+        "ContextObjective": 0.43363505601882935,
+        "BenefitsAssistance": 0.4880239963531494,
+        "Eligibility": 0.5118966698646545,
+        "ApplicationProcess": 0.40972357988357544,
+        "TimelineFrequency": 0.39738938212394714,
+        "AuthoritiesGovernance": 0.38812726736068726,
+        "DefinitionsReferences": 0.38105952739715576
+      }
+    },
+    {
+      "sentence": "The scheme is designed to empower students to pursue their dreams without financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5625555515289307,
+      "similarities": {
+        "ContextObjective": 0.5625555515289307,
+        "BenefitsAssistance": 0.4319140315055847,
+        "Eligibility": 0.45257800817489624,
+        "ApplicationProcess": 0.42902934551239014,
+        "TimelineFrequency": 0.4130712151527405,
+        "AuthoritiesGovernance": 0.30949264764785767,
+        "DefinitionsReferences": 0.34169650077819824
+      }
+    },
+    {
+      "sentence": "The government has also set up a helpline for applicants to address queries related to the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5659357309341431,
+      "similarities": {
+        "ContextObjective": 0.5392729640007019,
+        "BenefitsAssistance": 0.487992525100708,
+        "Eligibility": 0.5659357309341431,
+        "ApplicationProcess": 0.5601826906204224,
+        "TimelineFrequency": 0.500622034072876,
+        "AuthoritiesGovernance": 0.4812123775482178,
+        "DefinitionsReferences": 0.4178851544857025
+      }
+    },
+    {
+      "sentence": "The helpline can be accessed through the official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5363876223564148,
+      "similarities": {
+        "ContextObjective": 0.46142053604125977,
+        "BenefitsAssistance": 0.5231059789657593,
+        "Eligibility": 0.49289414286613464,
+        "ApplicationProcess": 0.5196959376335144,
+        "TimelineFrequency": 0.45049554109573364,
+        "AuthoritiesGovernance": 0.5363876223564148,
+        "DefinitionsReferences": 0.46791478991508484
+      }
+    },
+    {
+      "sentence": "Students can also find detailed FAQs and guidelines on the website.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5889993906021118,
+      "similarities": {
+        "ContextObjective": 0.4926891624927521,
+        "BenefitsAssistance": 0.5511184930801392,
+        "Eligibility": 0.5218479633331299,
+        "ApplicationProcess": 0.5632500648498535,
+        "TimelineFrequency": 0.5349276065826416,
+        "AuthoritiesGovernance": 0.4459846615791321,
+        "DefinitionsReferences": 0.5889993906021118
+      }
+    },
+    {
+      "sentence": "The application process is expected to be user-friendly to encourage maximum participation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6006984710693359,
+      "similarities": {
+        "ContextObjective": 0.49570557475090027,
+        "BenefitsAssistance": 0.4521876573562622,
+        "Eligibility": 0.553045392036438,
+        "ApplicationProcess": 0.6006984710693359,
+        "TimelineFrequency": 0.5410388708114624,
+        "AuthoritiesGovernance": 0.45046383142471313,
+        "DefinitionsReferences": 0.41087862849235535
+      }
+    },
+    {
+      "sentence": "The government has partnered with various educational institutions to promote the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5421531796455383,
+      "similarities": {
+        "ContextObjective": 0.5421531796455383,
+        "BenefitsAssistance": 0.47188600897789,
+        "Eligibility": 0.47502321004867554,
+        "ApplicationProcess": 0.4542692303657532,
+        "TimelineFrequency": 0.4481786787509918,
+        "AuthoritiesGovernance": 0.4873191714286804,
+        "DefinitionsReferences": 0.4731764793395996
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are being conducted to raise awareness about the Bidya Lakshmi Loan scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4766010642051697,
+      "similarities": {
+        "ContextObjective": 0.4766010642051697,
+        "BenefitsAssistance": 0.4594234824180603,
+        "Eligibility": 0.45337796211242676,
+        "ApplicationProcess": 0.42159950733184814,
+        "TimelineFrequency": 0.40067940950393677,
+        "AuthoritiesGovernance": 0.43359673023223877,
+        "DefinitionsReferences": 0.40914279222488403
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly contribute to the educational landscape of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5115118622779846,
+      "similarities": {
+        "ContextObjective": 0.5115118622779846,
+        "BenefitsAssistance": 0.39323481917381287,
+        "Eligibility": 0.4246150255203247,
+        "ApplicationProcess": 0.373046875,
+        "TimelineFrequency": 0.35325857996940613,
+        "AuthoritiesGovernance": 0.3310163617134094,
+        "DefinitionsReferences": 0.35143333673477173
+      }
+    },
+    {
+      "sentence": "By facilitating access to higher education, the government aims to foster a more educated workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.4640595316886902,
+      "similarities": {
+        "ContextObjective": 0.4640595316886902,
+        "BenefitsAssistance": 0.40077751874923706,
+        "Eligibility": 0.42450666427612305,
+        "ApplicationProcess": 0.40496736764907837,
+        "TimelineFrequency": 0.39408576488494873,
+        "AuthoritiesGovernance": 0.43855130672454834,
+        "DefinitionsReferences": 0.38837215304374695
+      }
+    },
+    {
+      "sentence": "This is essential for the country's economic growth and development.",
+      "role": "ContextObjective",
+      "confidence": 0.46745428442955017,
+      "similarities": {
+        "ContextObjective": 0.46745428442955017,
+        "BenefitsAssistance": 0.4573378562927246,
+        "Eligibility": 0.4404698610305786,
+        "ApplicationProcess": 0.45280611515045166,
+        "TimelineFrequency": 0.4130918085575104,
+        "AuthoritiesGovernance": 0.41857486963272095,
+        "DefinitionsReferences": 0.43936392664909363
+      }
+    },
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme is a testament to the government's commitment to education.",
+      "role": "ContextObjective",
+      "confidence": 0.45136746764183044,
+      "similarities": {
+        "ContextObjective": 0.45136746764183044,
+        "BenefitsAssistance": 0.4096947908401489,
+        "Eligibility": 0.4109773337841034,
+        "ApplicationProcess": 0.3954055905342102,
+        "TimelineFrequency": 0.37014496326446533,
+        "AuthoritiesGovernance": 0.34327417612075806,
+        "DefinitionsReferences": 0.39667028188705444
+      }
+    },
+    {
+      "sentence": "It reflects the understanding that education is a powerful tool for social mobility.",
+      "role": "ContextObjective",
+      "confidence": 0.47072887420654297,
+      "similarities": {
+        "ContextObjective": 0.47072887420654297,
+        "BenefitsAssistance": 0.36300593614578247,
+        "Eligibility": 0.39077576994895935,
+        "ApplicationProcess": 0.3632109761238098,
+        "TimelineFrequency": 0.35225579142570496,
+        "AuthoritiesGovernance": 0.31726181507110596,
+        "DefinitionsReferences": 0.39544594287872314
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve over time based on feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5497024059295654,
+      "similarities": {
+        "ContextObjective": 0.5497024059295654,
+        "BenefitsAssistance": 0.5057631731033325,
+        "Eligibility": 0.5312007665634155,
+        "ApplicationProcess": 0.4576095938682556,
+        "TimelineFrequency": 0.4641816020011902,
+        "AuthoritiesGovernance": 0.47357308864593506,
+        "DefinitionsReferences": 0.4403016269207001
+      }
+    },
+    {
+      "sentence": "The government is committed to making necessary adjustments to improve the scheme's effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5067573189735413,
+      "similarities": {
+        "ContextObjective": 0.49590635299682617,
+        "BenefitsAssistance": 0.4432907998561859,
+        "Eligibility": 0.4947706460952759,
+        "ApplicationProcess": 0.4803139865398407,
+        "TimelineFrequency": 0.42996734380722046,
+        "AuthoritiesGovernance": 0.5067573189735413,
+        "DefinitionsReferences": 0.40777456760406494
+      }
+    },
+    {
+      "sentence": "Overall, the Bidya Lakshmi Loan scheme represents a significant investment in the future of India's youth.",
+      "role": "ContextObjective",
+      "confidence": 0.4272621273994446,
+      "similarities": {
+        "ContextObjective": 0.4272621273994446,
+        "BenefitsAssistance": 0.3707178831100464,
+        "Eligibility": 0.3752909004688263,
+        "ApplicationProcess": 0.3251746892929077,
+        "TimelineFrequency": 0.3307446241378784,
+        "AuthoritiesGovernance": 0.28966817259788513,
+        "DefinitionsReferences": 0.3345022201538086
+      }
+    },
+    {
+      "sentence": "It aims to create a more equitable educational environment for all students.",
+      "role": "ContextObjective",
+      "confidence": 0.4862395226955414,
+      "similarities": {
+        "ContextObjective": 0.4862395226955414,
+        "BenefitsAssistance": 0.36645737290382385,
+        "Eligibility": 0.4323579668998718,
+        "ApplicationProcess": 0.37856268882751465,
+        "TimelineFrequency": 0.38742268085479736,
+        "AuthoritiesGovernance": 0.39558541774749756,
+        "DefinitionsReferences": 0.3759281635284424
+      }
+    },
+    {
+      "sentence": "The scheme is a vital part of India's strategy to enhance educational access and quality.",
+      "role": "ContextObjective",
+      "confidence": 0.5204719305038452,
+      "similarities": {
+        "ContextObjective": 0.5204719305038452,
+        "BenefitsAssistance": 0.38287949562072754,
+        "Eligibility": 0.4533119201660156,
+        "ApplicationProcess": 0.42781832814216614,
+        "TimelineFrequency": 0.3902978301048279,
+        "AuthoritiesGovernance": 0.3770011365413666,
+        "DefinitionsReferences": 0.37332892417907715
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government hopes to inspire a generation of learners.",
+      "role": "ContextObjective",
+      "confidence": 0.5438182353973389,
+      "similarities": {
+        "ContextObjective": 0.5438182353973389,
+        "BenefitsAssistance": 0.35970956087112427,
+        "Eligibility": 0.44442611932754517,
+        "ApplicationProcess": 0.41838526725769043,
+        "TimelineFrequency": 0.40040701627731323,
+        "AuthoritiesGovernance": 0.41525357961654663,
+        "DefinitionsReferences": 0.39547067880630493
+      }
+    },
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme is an important step towards achieving inclusive education in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5235327482223511,
+      "similarities": {
+        "ContextObjective": 0.5235327482223511,
+        "BenefitsAssistance": 0.4679713845252991,
+        "Eligibility": 0.5202233195304871,
+        "ApplicationProcess": 0.45022135972976685,
+        "TimelineFrequency": 0.4159889817237854,
+        "AuthoritiesGovernance": 0.405890554189682,
+        "DefinitionsReferences": 0.4007042944431305
+      }
+    },
+    {
+      "sentence": "It is designed to ensure that financial barriers do not hinder students from pursuing their educational aspirations.",
+      "role": "Eligibility",
+      "confidence": 0.5049784779548645,
+      "similarities": {
+        "ContextObjective": 0.48939839005470276,
+        "BenefitsAssistance": 0.4549139738082886,
+        "Eligibility": 0.5049784779548645,
+        "ApplicationProcess": 0.4538935422897339,
+        "TimelineFrequency": 0.43563881516456604,
+        "AuthoritiesGovernance": 0.33649277687072754,
+        "DefinitionsReferences": 0.34931764006614685
+      }
+    },
+    {
+      "sentence": "The scheme's impact will be measured by the number of students who successfully complete their higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.4576420485973358,
+      "similarities": {
+        "ContextObjective": 0.4576420485973358,
+        "BenefitsAssistance": 0.4146293103694916,
+        "Eligibility": 0.4436832070350647,
+        "ApplicationProcess": 0.4067067503929138,
+        "TimelineFrequency": 0.3878251910209656,
+        "AuthoritiesGovernance": 0.35090383887290955,
+        "DefinitionsReferences": 0.3235373795032501
+      }
+    },
+    {
+      "sentence": "The government is optimistic that the Bidya Lakshmi Loan scheme will lead to increased enrollment in higher education institutions across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.45950421690940857,
+      "similarities": {
+        "ContextObjective": 0.45950421690940857,
+        "BenefitsAssistance": 0.40869319438934326,
+        "Eligibility": 0.41947948932647705,
+        "ApplicationProcess": 0.398324579000473,
+        "TimelineFrequency": 0.3848620057106018,
+        "AuthoritiesGovernance": 0.37938982248306274,
+        "DefinitionsReferences": 0.38079625368118286
+      }
+    },
+    {
+      "sentence": "This initiative is a crucial part of India's long-term vision for education and skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.495288610458374,
+      "similarities": {
+        "ContextObjective": 0.495288610458374,
+        "BenefitsAssistance": 0.34192535281181335,
+        "Eligibility": 0.3911842107772827,
+        "ApplicationProcess": 0.3757936656475067,
+        "TimelineFrequency": 0.35247501730918884,
+        "AuthoritiesGovernance": 0.35065385699272156,
+        "DefinitionsReferences": 0.3616672158241272
+      }
+    },
+    {
+      "sentence": "The Bidya Lakshmi Loan scheme is a beacon of hope for many aspiring students.",
+      "role": "ContextObjective",
+      "confidence": 0.4992498755455017,
+      "similarities": {
+        "ContextObjective": 0.4992498755455017,
+        "BenefitsAssistance": 0.393890917301178,
+        "Eligibility": 0.45660680532455444,
+        "ApplicationProcess": 0.4031379222869873,
+        "TimelineFrequency": 0.39642947912216187,
+        "AuthoritiesGovernance": 0.32003962993621826,
+        "DefinitionsReferences": 0.35427820682525635
+      }
+    },
+    {
+      "sentence": "It embodies the belief that education should be accessible to all, regardless of economic background.",
+      "role": "ContextObjective",
+      "confidence": 0.4518581032752991,
+      "similarities": {
+        "ContextObjective": 0.4518581032752991,
+        "BenefitsAssistance": 0.3850613832473755,
+        "Eligibility": 0.44286108016967773,
+        "ApplicationProcess": 0.368827223777771,
+        "TimelineFrequency": 0.34339776635169983,
+        "AuthoritiesGovernance": 0.33368930220603943,
+        "DefinitionsReferences": 0.3565766215324402
+      }
+    },
+    {
+      "sentence": "The government continues to work towards making higher education a reality for every student in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4551612138748169,
+      "similarities": {
+        "ContextObjective": 0.4551612138748169,
+        "BenefitsAssistance": 0.40072980523109436,
+        "Eligibility": 0.4230039417743683,
+        "ApplicationProcess": 0.42811572551727295,
+        "TimelineFrequency": 0.37711453437805176,
+        "AuthoritiesGovernance": 0.4280652403831482,
+        "DefinitionsReferences": 0.3851166367530823
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 33,
+    "BenefitsAssistance": 5,
+    "Eligibility": 12,
+    "TimelineFrequency": 3,
+    "ApplicationProcess": 7,
+    "AuthoritiesGovernance": 3,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:45:12.840980"
+}

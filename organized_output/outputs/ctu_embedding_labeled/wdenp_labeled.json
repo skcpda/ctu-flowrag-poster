@@ -1,0 +1,897 @@
+{
+  "scheme_name": "Widow/Abandoned/Single Woman Pension Scheme",
+  "total_sentences": 63,
+  "labeled_sentences": [
+    {
+      "sentence": "The Widow/Abandoned/Single Woman Pension Scheme is a significant welfare initiative launched by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5480782985687256,
+      "similarities": {
+        "ContextObjective": 0.5480782985687256,
+        "BenefitsAssistance": 0.4581402838230133,
+        "Eligibility": 0.46246159076690674,
+        "ApplicationProcess": 0.39658063650131226,
+        "TimelineFrequency": 0.3837561011314392,
+        "AuthoritiesGovernance": 0.4457106590270996,
+        "DefinitionsReferences": 0.35265082120895386
+      }
+    },
+    {
+      "sentence": "This scheme was introduced in 2009 as part of the National Social Assistance Programme.",
+      "role": "ContextObjective",
+      "confidence": 0.5190711617469788,
+      "similarities": {
+        "ContextObjective": 0.5190711617469788,
+        "BenefitsAssistance": 0.4729035496711731,
+        "Eligibility": 0.48418354988098145,
+        "ApplicationProcess": 0.457538902759552,
+        "TimelineFrequency": 0.4088253378868103,
+        "AuthoritiesGovernance": 0.41722139716148376,
+        "DefinitionsReferences": 0.3639054000377655
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance to widows, abandoned women, and single women who are in dire need of support.",
+      "role": "ContextObjective",
+      "confidence": 0.5716357231140137,
+      "similarities": {
+        "ContextObjective": 0.5716357231140137,
+        "BenefitsAssistance": 0.5029447078704834,
+        "Eligibility": 0.5034835934638977,
+        "ApplicationProcess": 0.4151671230792999,
+        "TimelineFrequency": 0.42863237857818604,
+        "AuthoritiesGovernance": 0.424482524394989,
+        "DefinitionsReferences": 0.3615993857383728
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower these women by ensuring they have a stable source of income.",
+      "role": "ContextObjective",
+      "confidence": 0.5261102914810181,
+      "similarities": {
+        "ContextObjective": 0.5261102914810181,
+        "BenefitsAssistance": 0.44694170355796814,
+        "Eligibility": 0.5068777799606323,
+        "ApplicationProcess": 0.43457889556884766,
+        "TimelineFrequency": 0.4030396342277527,
+        "AuthoritiesGovernance": 0.4141048491001129,
+        "DefinitionsReferences": 0.35768598318099976
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹1,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5597691535949707,
+      "similarities": {
+        "ContextObjective": 0.4605935513973236,
+        "BenefitsAssistance": 0.5597691535949707,
+        "Eligibility": 0.5075045824050903,
+        "ApplicationProcess": 0.43487662076950073,
+        "TimelineFrequency": 0.40829673409461975,
+        "AuthoritiesGovernance": 0.3959563672542572,
+        "DefinitionsReferences": 0.34296685457229614
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover basic living expenses such as food, clothing, and shelter.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6325502991676331,
+      "similarities": {
+        "ContextObjective": 0.46674326062202454,
+        "BenefitsAssistance": 0.6325502991676331,
+        "Eligibility": 0.48219940066337585,
+        "ApplicationProcess": 0.46008187532424927,
+        "TimelineFrequency": 0.44236478209495544,
+        "AuthoritiesGovernance": 0.4301072955131531,
+        "DefinitionsReferences": 0.46497470140457153
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on women who are aged 40 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.5193535089492798,
+      "similarities": {
+        "ContextObjective": 0.5106278657913208,
+        "BenefitsAssistance": 0.4506652057170868,
+        "Eligibility": 0.5193535089492798,
+        "ApplicationProcess": 0.43415573239326477,
+        "TimelineFrequency": 0.446933388710022,
+        "AuthoritiesGovernance": 0.3835563659667969,
+        "DefinitionsReferences": 0.3846862316131592
+      }
+    },
+    {
+      "sentence": "However, in some states, the eligibility age may vary.",
+      "role": "Eligibility",
+      "confidence": 0.6456459760665894,
+      "similarities": {
+        "ContextObjective": 0.47595322132110596,
+        "BenefitsAssistance": 0.5072778463363647,
+        "Eligibility": 0.6456459760665894,
+        "ApplicationProcess": 0.536056637763977,
+        "TimelineFrequency": 0.5618231296539307,
+        "AuthoritiesGovernance": 0.4311266541481018,
+        "DefinitionsReferences": 0.45525360107421875
+      }
+    },
+    {
+      "sentence": "For instance, in some regions, women aged 35 and above may also qualify.",
+      "role": "Eligibility",
+      "confidence": 0.6001220345497131,
+      "similarities": {
+        "ContextObjective": 0.4423256814479828,
+        "BenefitsAssistance": 0.47595664858818054,
+        "Eligibility": 0.6001220345497131,
+        "ApplicationProcess": 0.45143812894821167,
+        "TimelineFrequency": 0.489297479391098,
+        "AuthoritiesGovernance": 0.4005943834781647,
+        "DefinitionsReferences": 0.4073931574821472
+      }
+    },
+    {
+      "sentence": "To be eligible for the scheme, applicants must be residents of India.",
+      "role": "Eligibility",
+      "confidence": 0.6406255960464478,
+      "similarities": {
+        "ContextObjective": 0.4987676739692688,
+        "BenefitsAssistance": 0.39928942918777466,
+        "Eligibility": 0.6406255960464478,
+        "ApplicationProcess": 0.5594909191131592,
+        "TimelineFrequency": 0.4750147759914398,
+        "AuthoritiesGovernance": 0.39736470580101013,
+        "DefinitionsReferences": 0.3443460762500763
+      }
+    },
+    {
+      "sentence": "They must also meet specific income criteria, which is generally set at ₹2,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.5351811051368713,
+      "similarities": {
+        "ContextObjective": 0.4337437152862549,
+        "BenefitsAssistance": 0.49713581800460815,
+        "Eligibility": 0.5351811051368713,
+        "ApplicationProcess": 0.4624153971672058,
+        "TimelineFrequency": 0.4315623939037323,
+        "AuthoritiesGovernance": 0.36699098348617554,
+        "DefinitionsReferences": 0.38874202966690063
+      }
+    },
+    {
+      "sentence": "This income limit is applicable to the total household income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5475631952285767,
+      "similarities": {
+        "ContextObjective": 0.41138193011283875,
+        "BenefitsAssistance": 0.5475631952285767,
+        "Eligibility": 0.5413850545883179,
+        "ApplicationProcess": 0.44375258684158325,
+        "TimelineFrequency": 0.44061365723609924,
+        "AuthoritiesGovernance": 0.41684985160827637,
+        "DefinitionsReferences": 0.4063592255115509
+      }
+    },
+    {
+      "sentence": "The scheme is designed to target women who are economically disadvantaged.",
+      "role": "Eligibility",
+      "confidence": 0.5270004272460938,
+      "similarities": {
+        "ContextObjective": 0.5266273021697998,
+        "BenefitsAssistance": 0.4606398344039917,
+        "Eligibility": 0.5270004272460938,
+        "ApplicationProcess": 0.4097156524658203,
+        "TimelineFrequency": 0.43289533257484436,
+        "AuthoritiesGovernance": 0.4051225185394287,
+        "DefinitionsReferences": 0.3454000949859619
+      }
+    },
+    {
+      "sentence": "The application process for the Widow/Abandoned/Single Woman Pension Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5165432691574097,
+      "similarities": {
+        "ContextObjective": 0.5094979405403137,
+        "BenefitsAssistance": 0.43513795733451843,
+        "Eligibility": 0.47976887226104736,
+        "ApplicationProcess": 0.5165432691574097,
+        "TimelineFrequency": 0.4552485942840576,
+        "AuthoritiesGovernance": 0.3967024087905884,
+        "DefinitionsReferences": 0.32974234223365784
+      }
+    },
+    {
+      "sentence": "Interested applicants must approach the local government office or the designated social welfare department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6247363090515137,
+      "similarities": {
+        "ContextObjective": 0.498350590467453,
+        "BenefitsAssistance": 0.45553988218307495,
+        "Eligibility": 0.6047992706298828,
+        "ApplicationProcess": 0.6247363090515137,
+        "TimelineFrequency": 0.5151473879814148,
+        "AuthoritiesGovernance": 0.5033996105194092,
+        "DefinitionsReferences": 0.43469563126564026
+      }
+    },
+    {
+      "sentence": "They need to fill out an application form that is available at these offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6832398772239685,
+      "similarities": {
+        "ContextObjective": 0.47453945875167847,
+        "BenefitsAssistance": 0.48528340458869934,
+        "Eligibility": 0.5950452089309692,
+        "ApplicationProcess": 0.6832398772239685,
+        "TimelineFrequency": 0.5666993856430054,
+        "AuthoritiesGovernance": 0.4947803020477295,
+        "DefinitionsReferences": 0.48687130212783813
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and marital status.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7054859399795532,
+      "similarities": {
+        "ContextObjective": 0.49064311385154724,
+        "BenefitsAssistance": 0.5651181936264038,
+        "Eligibility": 0.6304481029510498,
+        "ApplicationProcess": 0.7054859399795532,
+        "TimelineFrequency": 0.5957078337669373,
+        "AuthoritiesGovernance": 0.4754123091697693,
+        "DefinitionsReferences": 0.520331859588623
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of their widowhood or abandonment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5771909952163696,
+      "similarities": {
+        "ContextObjective": 0.4486123025417328,
+        "BenefitsAssistance": 0.5059811472892761,
+        "Eligibility": 0.5609737038612366,
+        "ApplicationProcess": 0.5771909952163696,
+        "TimelineFrequency": 0.5144708752632141,
+        "AuthoritiesGovernance": 0.399774968624115,
+        "DefinitionsReferences": 0.4441886246204376
+      }
+    },
+    {
+      "sentence": "This can include a death certificate of the husband or a declaration of abandonment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5135395526885986,
+      "similarities": {
+        "ContextObjective": 0.4281158447265625,
+        "BenefitsAssistance": 0.5135395526885986,
+        "Eligibility": 0.467929482460022,
+        "ApplicationProcess": 0.49613717198371887,
+        "TimelineFrequency": 0.45164477825164795,
+        "AuthoritiesGovernance": 0.4162827134132385,
+        "DefinitionsReferences": 0.4665569067001343
+      }
+    },
+    {
+      "sentence": "Additionally, proof of income is required to ensure eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.6323333978652954,
+      "similarities": {
+        "ContextObjective": 0.4850612282752991,
+        "BenefitsAssistance": 0.5769982933998108,
+        "Eligibility": 0.6323333978652954,
+        "ApplicationProcess": 0.6314568519592285,
+        "TimelineFrequency": 0.5216282606124878,
+        "AuthoritiesGovernance": 0.4193724989891052,
+        "DefinitionsReferences": 0.4720844030380249
+      }
+    },
+    {
+      "sentence": "Documents such as income certificates or affidavits may be necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6296313405036926,
+      "similarities": {
+        "ContextObjective": 0.4761713743209839,
+        "BenefitsAssistance": 0.6038817167282104,
+        "Eligibility": 0.5685422420501709,
+        "ApplicationProcess": 0.6296313405036926,
+        "TimelineFrequency": 0.5077033042907715,
+        "AuthoritiesGovernance": 0.45834967494010925,
+        "DefinitionsReferences": 0.5520858764648438
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the local authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6633883714675903,
+      "similarities": {
+        "ContextObjective": 0.51549232006073,
+        "BenefitsAssistance": 0.46505701541900635,
+        "Eligibility": 0.5853759050369263,
+        "ApplicationProcess": 0.6633883714675903,
+        "TimelineFrequency": 0.5834710001945496,
+        "AuthoritiesGovernance": 0.530604898929596,
+        "DefinitionsReferences": 0.4771342873573303
+      }
+    },
+    {
+      "sentence": "The review process typically takes about 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5619117617607117,
+      "similarities": {
+        "ContextObjective": 0.4352940320968628,
+        "BenefitsAssistance": 0.4509149491786957,
+        "Eligibility": 0.47341489791870117,
+        "ApplicationProcess": 0.5501819849014282,
+        "TimelineFrequency": 0.5619117617607117,
+        "AuthoritiesGovernance": 0.46758198738098145,
+        "DefinitionsReferences": 0.4665638506412506
+      }
+    },
+    {
+      "sentence": "After approval, the pension amount is disbursed monthly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5441809892654419,
+      "similarities": {
+        "ContextObjective": 0.4359646141529083,
+        "BenefitsAssistance": 0.5441809892654419,
+        "Eligibility": 0.496066689491272,
+        "ApplicationProcess": 0.4856318235397339,
+        "TimelineFrequency": 0.4919486939907074,
+        "AuthoritiesGovernance": 0.46415865421295166,
+        "DefinitionsReferences": 0.3709586560726166
+      }
+    },
+    {
+      "sentence": "Payments are made directly to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5556886792182922,
+      "similarities": {
+        "ContextObjective": 0.4235905706882477,
+        "BenefitsAssistance": 0.5556886792182922,
+        "Eligibility": 0.5132617354393005,
+        "ApplicationProcess": 0.44584333896636963,
+        "TimelineFrequency": 0.40957915782928467,
+        "AuthoritiesGovernance": 0.43713536858558655,
+        "DefinitionsReferences": 0.3926237225532532
+      }
+    },
+    {
+      "sentence": "In some states, the disbursement may occur on specific dates each month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6142163872718811,
+      "similarities": {
+        "ContextObjective": 0.46644407510757446,
+        "BenefitsAssistance": 0.5612970590591431,
+        "Eligibility": 0.5608790516853333,
+        "ApplicationProcess": 0.4753153324127197,
+        "TimelineFrequency": 0.6142163872718811,
+        "AuthoritiesGovernance": 0.46271663904190063,
+        "DefinitionsReferences": 0.4489623010158539
+      }
+    },
+    {
+      "sentence": "For example, payments may be made on the first of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5631709098815918,
+      "similarities": {
+        "ContextObjective": 0.4432706832885742,
+        "BenefitsAssistance": 0.528239369392395,
+        "Eligibility": 0.4826892018318176,
+        "ApplicationProcess": 0.4722088575363159,
+        "TimelineFrequency": 0.5631709098815918,
+        "AuthoritiesGovernance": 0.38619741797447205,
+        "DefinitionsReferences": 0.41568905115127563
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5293956995010376,
+      "similarities": {
+        "ContextObjective": 0.5211690068244934,
+        "BenefitsAssistance": 0.45258721709251404,
+        "Eligibility": 0.4855269193649292,
+        "ApplicationProcess": 0.4555923342704773,
+        "TimelineFrequency": 0.41587287187576294,
+        "AuthoritiesGovernance": 0.5293956995010376,
+        "DefinitionsReferences": 0.3885047733783722
+      }
+    },
+    {
+      "sentence": "State governments also play a crucial role in the execution of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5428292155265808,
+      "similarities": {
+        "ContextObjective": 0.5339999794960022,
+        "BenefitsAssistance": 0.4299265742301941,
+        "Eligibility": 0.5166470408439636,
+        "ApplicationProcess": 0.46196240186691284,
+        "TimelineFrequency": 0.4165814220905304,
+        "AuthoritiesGovernance": 0.5428292155265808,
+        "DefinitionsReferences": 0.4355893135070801
+      }
+    },
+    {
+      "sentence": "They are responsible for the identification of beneficiaries and the disbursement of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6485570073127747,
+      "similarities": {
+        "ContextObjective": 0.5226086378097534,
+        "BenefitsAssistance": 0.6485570073127747,
+        "Eligibility": 0.6104899644851685,
+        "ApplicationProcess": 0.5357955098152161,
+        "TimelineFrequency": 0.4875613749027252,
+        "AuthoritiesGovernance": 0.5629690885543823,
+        "DefinitionsReferences": 0.4885728359222412
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant participation since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.6058274507522583,
+      "similarities": {
+        "ContextObjective": 0.6058274507522583,
+        "BenefitsAssistance": 0.4836575388908386,
+        "Eligibility": 0.5017507672309875,
+        "ApplicationProcess": 0.4833923280239105,
+        "TimelineFrequency": 0.463206022977829,
+        "AuthoritiesGovernance": 0.4528270661830902,
+        "DefinitionsReferences": 0.4249652922153473
+      }
+    },
+    {
+      "sentence": "As of the latest reports, over 1.5 million women have benefited from this initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4176051616668701,
+      "similarities": {
+        "ContextObjective": 0.397207111120224,
+        "BenefitsAssistance": 0.4176051616668701,
+        "Eligibility": 0.38204699754714966,
+        "ApplicationProcess": 0.3527730703353882,
+        "TimelineFrequency": 0.3297363221645355,
+        "AuthoritiesGovernance": 0.37830886244773865,
+        "DefinitionsReferences": 0.3370293378829956
+      }
+    },
+    {
+      "sentence": "The government allocates a substantial budget for this scheme every financial year.",
+      "role": "ContextObjective",
+      "confidence": 0.5160506367683411,
+      "similarities": {
+        "ContextObjective": 0.5160506367683411,
+        "BenefitsAssistance": 0.4951728284358978,
+        "Eligibility": 0.44803038239479065,
+        "ApplicationProcess": 0.39963364601135254,
+        "TimelineFrequency": 0.4686394929885864,
+        "AuthoritiesGovernance": 0.40262195467948914,
+        "DefinitionsReferences": 0.3761483430862427
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the allocation was approximately ₹1,000 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48185285925865173,
+      "similarities": {
+        "ContextObjective": 0.4517520070075989,
+        "BenefitsAssistance": 0.48185285925865173,
+        "Eligibility": 0.460138201713562,
+        "ApplicationProcess": 0.35244661569595337,
+        "TimelineFrequency": 0.40176922082901,
+        "AuthoritiesGovernance": 0.3835144340991974,
+        "DefinitionsReferences": 0.3550349473953247
+      }
+    },
+    {
+      "sentence": "This budget is aimed at expanding the reach of the scheme and increasing the number of beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5288496017456055,
+      "similarities": {
+        "ContextObjective": 0.5288496017456055,
+        "BenefitsAssistance": 0.4901621341705322,
+        "Eligibility": 0.5200591087341309,
+        "ApplicationProcess": 0.39470428228378296,
+        "TimelineFrequency": 0.41070395708084106,
+        "AuthoritiesGovernance": 0.4201154112815857,
+        "DefinitionsReferences": 0.38181108236312866
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader strategy to improve the socio-economic status of women in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5067963600158691,
+      "similarities": {
+        "ContextObjective": 0.5067963600158691,
+        "BenefitsAssistance": 0.4144423007965088,
+        "Eligibility": 0.41952943801879883,
+        "ApplicationProcess": 0.3767396807670593,
+        "TimelineFrequency": 0.35662180185317993,
+        "AuthoritiesGovernance": 0.3922458291053772,
+        "DefinitionsReferences": 0.35754698514938354
+      }
+    },
+    {
+      "sentence": "It aligns with various national policies aimed at gender equality and women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.49340540170669556,
+      "similarities": {
+        "ContextObjective": 0.49340540170669556,
+        "BenefitsAssistance": 0.4265071153640747,
+        "Eligibility": 0.4596408009529114,
+        "ApplicationProcess": 0.39235174655914307,
+        "TimelineFrequency": 0.4099212884902954,
+        "AuthoritiesGovernance": 0.4746561646461487,
+        "DefinitionsReferences": 0.4400995373725891
+      }
+    },
+    {
+      "sentence": "The government regularly conducts awareness programs to inform eligible women about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5101686716079712,
+      "similarities": {
+        "ContextObjective": 0.5101686716079712,
+        "BenefitsAssistance": 0.4579685628414154,
+        "Eligibility": 0.49977630376815796,
+        "ApplicationProcess": 0.48063841462135315,
+        "TimelineFrequency": 0.4398118853569031,
+        "AuthoritiesGovernance": 0.4398227334022522,
+        "DefinitionsReferences": 0.40000593662261963
+      }
+    },
+    {
+      "sentence": "These programs are often held in rural areas where awareness is limited.",
+      "role": "Eligibility",
+      "confidence": 0.4922085404396057,
+      "similarities": {
+        "ContextObjective": 0.46450918912887573,
+        "BenefitsAssistance": 0.42474937438964844,
+        "Eligibility": 0.4922085404396057,
+        "ApplicationProcess": 0.4062274098396301,
+        "TimelineFrequency": 0.4063124656677246,
+        "AuthoritiesGovernance": 0.4457906484603882,
+        "DefinitionsReferences": 0.3766547739505768
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is also collected to improve the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5187197923660278,
+      "similarities": {
+        "ContextObjective": 0.5182785391807556,
+        "BenefitsAssistance": 0.4979223608970642,
+        "Eligibility": 0.5187197923660278,
+        "ApplicationProcess": 0.4597795605659485,
+        "TimelineFrequency": 0.4206685423851013,
+        "AuthoritiesGovernance": 0.4897385835647583,
+        "DefinitionsReferences": 0.4276714622974396
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for providing a safety net for vulnerable women.",
+      "role": "ContextObjective",
+      "confidence": 0.4681902527809143,
+      "similarities": {
+        "ContextObjective": 0.4681902527809143,
+        "BenefitsAssistance": 0.4427143335342407,
+        "Eligibility": 0.4560783803462982,
+        "ApplicationProcess": 0.3452695608139038,
+        "TimelineFrequency": 0.3494974374771118,
+        "AuthoritiesGovernance": 0.341240793466568,
+        "DefinitionsReferences": 0.3266313076019287
+      }
+    },
+    {
+      "sentence": "However, challenges remain in terms of reaching all eligible women.",
+      "role": "Eligibility",
+      "confidence": 0.5480682849884033,
+      "similarities": {
+        "ContextObjective": 0.4510977268218994,
+        "BenefitsAssistance": 0.43471983075141907,
+        "Eligibility": 0.5480682849884033,
+        "ApplicationProcess": 0.43363094329833984,
+        "TimelineFrequency": 0.45537516474723816,
+        "AuthoritiesGovernance": 0.4454849362373352,
+        "DefinitionsReferences": 0.38193586468696594
+      }
+    },
+    {
+      "sentence": "Some women may not be aware of the scheme or may face difficulties in the application process.",
+      "role": "Eligibility",
+      "confidence": 0.5951460599899292,
+      "similarities": {
+        "ContextObjective": 0.5218019485473633,
+        "BenefitsAssistance": 0.4938172996044159,
+        "Eligibility": 0.5951460599899292,
+        "ApplicationProcess": 0.5481555461883545,
+        "TimelineFrequency": 0.5183397531509399,
+        "AuthoritiesGovernance": 0.4569316506385803,
+        "DefinitionsReferences": 0.39165014028549194
+      }
+    },
+    {
+      "sentence": "To address these challenges, the government has introduced online application facilities in some states.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6454786062240601,
+      "similarities": {
+        "ContextObjective": 0.48610174655914307,
+        "BenefitsAssistance": 0.49629098176956177,
+        "Eligibility": 0.5821020603179932,
+        "ApplicationProcess": 0.6454786062240601,
+        "TimelineFrequency": 0.5539308786392212,
+        "AuthoritiesGovernance": 0.5132707357406616,
+        "DefinitionsReferences": 0.462557852268219
+      }
+    },
+    {
+      "sentence": "This allows women to apply for the pension from the comfort of their homes.",
+      "role": "ApplicationProcess",
+      "confidence": 0.47276338934898376,
+      "similarities": {
+        "ContextObjective": 0.423841655254364,
+        "BenefitsAssistance": 0.425104022026062,
+        "Eligibility": 0.4684513807296753,
+        "ApplicationProcess": 0.47276338934898376,
+        "TimelineFrequency": 0.4040389358997345,
+        "AuthoritiesGovernance": 0.34913185238838196,
+        "DefinitionsReferences": 0.3247222304344177
+      }
+    },
+    {
+      "sentence": "The online system also helps in tracking the status of applications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6730474829673767,
+      "similarities": {
+        "ContextObjective": 0.5041936635971069,
+        "BenefitsAssistance": 0.5479227900505066,
+        "Eligibility": 0.5748851895332336,
+        "ApplicationProcess": 0.6730474829673767,
+        "TimelineFrequency": 0.6337962746620178,
+        "AuthoritiesGovernance": 0.47560039162635803,
+        "DefinitionsReferences": 0.4979482889175415
+      }
+    },
+    {
+      "sentence": "State governments are encouraged to streamline the process to make it more efficient.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5509187579154968,
+      "similarities": {
+        "ContextObjective": 0.459394633769989,
+        "BenefitsAssistance": 0.44327035546302795,
+        "Eligibility": 0.46968913078308105,
+        "ApplicationProcess": 0.5107401609420776,
+        "TimelineFrequency": 0.48397964239120483,
+        "AuthoritiesGovernance": 0.5509187579154968,
+        "DefinitionsReferences": 0.4690399765968323
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing poverty among women.",
+      "role": "ContextObjective",
+      "confidence": 0.49008822441101074,
+      "similarities": {
+        "ContextObjective": 0.49008822441101074,
+        "BenefitsAssistance": 0.4015078544616699,
+        "Eligibility": 0.42013365030288696,
+        "ApplicationProcess": 0.3482440710067749,
+        "TimelineFrequency": 0.31487053632736206,
+        "AuthoritiesGovernance": 0.38078218698501587,
+        "DefinitionsReferences": 0.3261995017528534
+      }
+    },
+    {
+      "sentence": "It has also contributed to improving the overall health and well-being of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5007601976394653,
+      "similarities": {
+        "ContextObjective": 0.43311160802841187,
+        "BenefitsAssistance": 0.5007601976394653,
+        "Eligibility": 0.44643375277519226,
+        "ApplicationProcess": 0.3835872411727905,
+        "TimelineFrequency": 0.35297706723213196,
+        "AuthoritiesGovernance": 0.42241233587265015,
+        "DefinitionsReferences": 0.39931416511535645
+      }
+    },
+    {
+      "sentence": "Women receiving the pension are better able to afford healthcare and nutrition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4611130356788635,
+      "similarities": {
+        "ContextObjective": 0.3618814945220947,
+        "BenefitsAssistance": 0.4611130356788635,
+        "Eligibility": 0.3912648558616638,
+        "ApplicationProcess": 0.3041397035121918,
+        "TimelineFrequency": 0.3030007481575012,
+        "AuthoritiesGovernance": 0.32809221744537354,
+        "DefinitionsReferences": 0.2913229465484619
+      }
+    },
+    {
+      "sentence": "The scheme has also been linked with other social welfare programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5439644455909729,
+      "similarities": {
+        "ContextObjective": 0.5439644455909729,
+        "BenefitsAssistance": 0.49229276180267334,
+        "Eligibility": 0.47743842005729675,
+        "ApplicationProcess": 0.4238051176071167,
+        "TimelineFrequency": 0.4161773920059204,
+        "AuthoritiesGovernance": 0.43883180618286133,
+        "DefinitionsReferences": 0.4334447383880615
+      }
+    },
+    {
+      "sentence": "For instance, beneficiaries are often encouraged to participate in skill development programs.",
+      "role": "Eligibility",
+      "confidence": 0.5153548121452332,
+      "similarities": {
+        "ContextObjective": 0.48932352662086487,
+        "BenefitsAssistance": 0.47742554545402527,
+        "Eligibility": 0.5153548121452332,
+        "ApplicationProcess": 0.4453408122062683,
+        "TimelineFrequency": 0.4397629499435425,
+        "AuthoritiesGovernance": 0.4400695562362671,
+        "DefinitionsReferences": 0.4472292959690094
+      }
+    },
+    {
+      "sentence": "This helps them become financially independent in the long run.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4765472114086151,
+      "similarities": {
+        "ContextObjective": 0.4408879280090332,
+        "BenefitsAssistance": 0.4765472114086151,
+        "Eligibility": 0.4266510009765625,
+        "ApplicationProcess": 0.40283694863319397,
+        "TimelineFrequency": 0.36706095933914185,
+        "AuthoritiesGovernance": 0.33317315578460693,
+        "DefinitionsReferences": 0.37700432538986206
+      }
+    },
+    {
+      "sentence": "The government monitors the implementation of the scheme through regular audits.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5463021993637085,
+      "similarities": {
+        "ContextObjective": 0.4727674722671509,
+        "BenefitsAssistance": 0.46375876665115356,
+        "Eligibility": 0.44665130972862244,
+        "ApplicationProcess": 0.5025665760040283,
+        "TimelineFrequency": 0.4221840500831604,
+        "AuthoritiesGovernance": 0.5463021993637085,
+        "DefinitionsReferences": 0.45533162355422974
+      }
+    },
+    {
+      "sentence": "These audits ensure that funds are being utilized effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4872010350227356,
+      "similarities": {
+        "ContextObjective": 0.44761210680007935,
+        "BenefitsAssistance": 0.4872010350227356,
+        "Eligibility": 0.4313528537750244,
+        "ApplicationProcess": 0.4153914451599121,
+        "TimelineFrequency": 0.40380218625068665,
+        "AuthoritiesGovernance": 0.4508916437625885,
+        "DefinitionsReferences": 0.4217468202114105
+      }
+    },
+    {
+      "sentence": "The scheme is also evaluated periodically to assess its impact.",
+      "role": "TimelineFrequency",
+      "confidence": 0.53908371925354,
+      "similarities": {
+        "ContextObjective": 0.533656895160675,
+        "BenefitsAssistance": 0.4876110255718231,
+        "Eligibility": 0.5054776072502136,
+        "ApplicationProcess": 0.4661823511123657,
+        "TimelineFrequency": 0.53908371925354,
+        "AuthoritiesGovernance": 0.4684056043624878,
+        "DefinitionsReferences": 0.43596315383911133
+      }
+    },
+    {
+      "sentence": "The findings from these evaluations are used to make necessary adjustments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.507043182849884,
+      "similarities": {
+        "ContextObjective": 0.44860711693763733,
+        "BenefitsAssistance": 0.49226149916648865,
+        "Eligibility": 0.4831080138683319,
+        "ApplicationProcess": 0.46796751022338867,
+        "TimelineFrequency": 0.4637098014354706,
+        "AuthoritiesGovernance": 0.507043182849884,
+        "DefinitionsReferences": 0.4861023426055908
+      }
+    },
+    {
+      "sentence": "In conclusion, the Widow/Abandoned/Single Woman Pension Scheme is a vital initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5342200994491577,
+      "similarities": {
+        "ContextObjective": 0.5342200994491577,
+        "BenefitsAssistance": 0.4141232371330261,
+        "Eligibility": 0.40655678510665894,
+        "ApplicationProcess": 0.37451693415641785,
+        "TimelineFrequency": 0.36355650424957275,
+        "AuthoritiesGovernance": 0.38062170147895813,
+        "DefinitionsReferences": 0.342623770236969
+      }
+    },
+    {
+      "sentence": "It provides essential financial support to some of the most vulnerable women in society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4918278157711029,
+      "similarities": {
+        "ContextObjective": 0.40552622079849243,
+        "BenefitsAssistance": 0.4918278157711029,
+        "Eligibility": 0.46512970328330994,
+        "ApplicationProcess": 0.35458457469940186,
+        "TimelineFrequency": 0.35327014327049255,
+        "AuthoritiesGovernance": 0.3530071973800659,
+        "DefinitionsReferences": 0.35517987608909607
+      }
+    },
+    {
+      "sentence": "With a monthly pension of ₹1,000, it aims to empower women and improve their living conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.4441179931163788,
+      "similarities": {
+        "ContextObjective": 0.4441179931163788,
+        "BenefitsAssistance": 0.43699443340301514,
+        "Eligibility": 0.41767340898513794,
+        "ApplicationProcess": 0.3571200668811798,
+        "TimelineFrequency": 0.3316475749015808,
+        "AuthoritiesGovernance": 0.38726457953453064,
+        "DefinitionsReferences": 0.3111104965209961
+      }
+    },
+    {
+      "sentence": "The scheme has a clear eligibility criterion and a straightforward application process.",
+      "role": "Eligibility",
+      "confidence": 0.5810461044311523,
+      "similarities": {
+        "ContextObjective": 0.5775387287139893,
+        "BenefitsAssistance": 0.4200482964515686,
+        "Eligibility": 0.5810461044311523,
+        "ApplicationProcess": 0.5692615509033203,
+        "TimelineFrequency": 0.49977147579193115,
+        "AuthoritiesGovernance": 0.3798706531524658,
+        "DefinitionsReferences": 0.3632793426513672
+      }
+    },
+    {
+      "sentence": "It is supported by a robust implementation framework involving both central and state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5626927614212036,
+      "similarities": {
+        "ContextObjective": 0.481428325176239,
+        "BenefitsAssistance": 0.48849478363990784,
+        "Eligibility": 0.49089592695236206,
+        "ApplicationProcess": 0.4481067359447479,
+        "TimelineFrequency": 0.43769383430480957,
+        "AuthoritiesGovernance": 0.5626927614212036,
+        "DefinitionsReferences": 0.4443211853504181
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it remains a critical component of India's welfare strategy for women.",
+      "role": "ContextObjective",
+      "confidence": 0.4796489179134369,
+      "similarities": {
+        "ContextObjective": 0.4796489179134369,
+        "BenefitsAssistance": 0.4147353768348694,
+        "Eligibility": 0.4233696460723877,
+        "ApplicationProcess": 0.38543975353240967,
+        "TimelineFrequency": 0.3691145181655884,
+        "AuthoritiesGovernance": 0.4057862162590027,
+        "DefinitionsReferences": 0.37386661767959595
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 16,
+    "BenefitsAssistance": 14,
+    "Eligibility": 13,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-25T20:39:04.622388"
+}

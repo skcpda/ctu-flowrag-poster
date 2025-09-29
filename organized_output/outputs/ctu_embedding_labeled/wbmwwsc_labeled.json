@@ -1,0 +1,785 @@
+{
+  "scheme_name": "West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body was launched by the Government of West Bengal on May 5, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5220067501068115,
+      "similarities": {
+        "ContextObjective": 0.5220067501068115,
+        "BenefitsAssistance": 0.413265585899353,
+        "Eligibility": 0.4777258038520813,
+        "ApplicationProcess": 0.43270131945610046,
+        "TimelineFrequency": 0.4325640797615051,
+        "AuthoritiesGovernance": 0.4313852787017822,
+        "DefinitionsReferences": 0.35089895129203796
+      }
+    },
+    {
+      "sentence": "This scheme was initiated in response to the challenges faced by migrant workers during the COVID-19 pandemic.",
+      "role": "Eligibility",
+      "confidence": 0.5186631679534912,
+      "similarities": {
+        "ContextObjective": 0.5061773061752319,
+        "BenefitsAssistance": 0.4431871771812439,
+        "Eligibility": 0.5186631679534912,
+        "ApplicationProcess": 0.4731626510620117,
+        "TimelineFrequency": 0.43211662769317627,
+        "AuthoritiesGovernance": 0.4347715377807617,
+        "DefinitionsReferences": 0.35809993743896484
+      }
+    },
+    {
+      "sentence": "The West Bengal government recognized the plight of migrant workers who were stranded in various states and countries due to lockdowns and travel restrictions.",
+      "role": "Eligibility",
+      "confidence": 0.4680103361606598,
+      "similarities": {
+        "ContextObjective": 0.3374186158180237,
+        "BenefitsAssistance": 0.37224864959716797,
+        "Eligibility": 0.4680103361606598,
+        "ApplicationProcess": 0.3755017817020416,
+        "TimelineFrequency": 0.3517358899116516,
+        "AuthoritiesGovernance": 0.40423303842544556,
+        "DefinitionsReferences": 0.3554338812828064
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance for the repatriation of the dead bodies of migrant workers who die while working outside the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4999564290046692,
+      "similarities": {
+        "ContextObjective": 0.4999564290046692,
+        "BenefitsAssistance": 0.41204386949539185,
+        "Eligibility": 0.46339404582977295,
+        "ApplicationProcess": 0.3960358500480652,
+        "TimelineFrequency": 0.3536728620529175,
+        "AuthoritiesGovernance": 0.37635019421577454,
+        "DefinitionsReferences": 0.29899919033050537
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that the families of deceased migrant workers do not face additional financial burdens during their time of grief.",
+      "role": "ContextObjective",
+      "confidence": 0.45848414301872253,
+      "similarities": {
+        "ContextObjective": 0.45848414301872253,
+        "BenefitsAssistance": 0.4308316707611084,
+        "Eligibility": 0.4541538655757904,
+        "ApplicationProcess": 0.3735610842704773,
+        "TimelineFrequency": 0.33167606592178345,
+        "AuthoritiesGovernance": 0.3325618803501129,
+        "DefinitionsReferences": 0.2943807542324066
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government provides a financial assistance amount of ₹1 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5405383706092834,
+      "similarities": {
+        "ContextObjective": 0.493427038192749,
+        "BenefitsAssistance": 0.5405383706092834,
+        "Eligibility": 0.4878929853439331,
+        "ApplicationProcess": 0.4432438313961029,
+        "TimelineFrequency": 0.3974001407623291,
+        "AuthoritiesGovernance": 0.4278992712497711,
+        "DefinitionsReferences": 0.3782390058040619
+      }
+    },
+    {
+      "sentence": "This amount is specifically allocated for the transportation of the deceased worker's body back to their home district in West Bengal.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39254844188690186,
+      "similarities": {
+        "ContextObjective": 0.35564124584198,
+        "BenefitsAssistance": 0.39254844188690186,
+        "Eligibility": 0.3822793960571289,
+        "ApplicationProcess": 0.3282053470611572,
+        "TimelineFrequency": 0.32208240032196045,
+        "AuthoritiesGovernance": 0.3498731255531311,
+        "DefinitionsReferences": 0.29718396067619324
+      }
+    },
+    {
+      "sentence": "The scheme is designed to cover all migrant workers from West Bengal who die while working in other states or countries.",
+      "role": "Eligibility",
+      "confidence": 0.4749540090560913,
+      "similarities": {
+        "ContextObjective": 0.4206992983818054,
+        "BenefitsAssistance": 0.3852871358394623,
+        "Eligibility": 0.4749540090560913,
+        "ApplicationProcess": 0.3720227777957916,
+        "TimelineFrequency": 0.34376272559165955,
+        "AuthoritiesGovernance": 0.3626251220703125,
+        "DefinitionsReferences": 0.30336540937423706
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5484940409660339,
+      "similarities": {
+        "ContextObjective": 0.47553113102912903,
+        "BenefitsAssistance": 0.4193827211856842,
+        "Eligibility": 0.5484940409660339,
+        "ApplicationProcess": 0.4230141341686249,
+        "TimelineFrequency": 0.4413020610809326,
+        "AuthoritiesGovernance": 0.3343411684036255,
+        "DefinitionsReferences": 0.3236128091812134
+      }
+    },
+    {
+      "sentence": "Any migrant worker who is a resident of West Bengal and dies while working outside the state qualifies for this assistance.",
+      "role": "Eligibility",
+      "confidence": 0.5081133842468262,
+      "similarities": {
+        "ContextObjective": 0.3606893718242645,
+        "BenefitsAssistance": 0.39747053384780884,
+        "Eligibility": 0.5081133842468262,
+        "ApplicationProcess": 0.4030207395553589,
+        "TimelineFrequency": 0.35017824172973633,
+        "AuthoritiesGovernance": 0.36413753032684326,
+        "DefinitionsReferences": 0.3176044225692749
+      }
+    },
+    {
+      "sentence": "The scheme does not impose any income criteria for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.49541333317756653,
+      "similarities": {
+        "ContextObjective": 0.4736286997795105,
+        "BenefitsAssistance": 0.4076482057571411,
+        "Eligibility": 0.49541333317756653,
+        "ApplicationProcess": 0.4234081506729126,
+        "TimelineFrequency": 0.38061046600341797,
+        "AuthoritiesGovernance": 0.3020254969596863,
+        "DefinitionsReferences": 0.290930837392807
+      }
+    },
+    {
+      "sentence": "This means that all migrant workers, regardless of their income levels, can benefit from this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.48501792550086975,
+      "similarities": {
+        "ContextObjective": 0.43568164110183716,
+        "BenefitsAssistance": 0.4113242030143738,
+        "Eligibility": 0.48501792550086975,
+        "ApplicationProcess": 0.35091856122016907,
+        "TimelineFrequency": 0.33824628591537476,
+        "AuthoritiesGovernance": 0.34789520502090454,
+        "DefinitionsReferences": 0.32836464047431946
+      }
+    },
+    {
+      "sentence": "To apply for the assistance under this scheme, the family members of the deceased worker must follow a specific application process.",
+      "role": "Eligibility",
+      "confidence": 0.5962449312210083,
+      "similarities": {
+        "ContextObjective": 0.46626514196395874,
+        "BenefitsAssistance": 0.4630151689052582,
+        "Eligibility": 0.5962449312210083,
+        "ApplicationProcess": 0.5906844139099121,
+        "TimelineFrequency": 0.5066490173339844,
+        "AuthoritiesGovernance": 0.44454699754714966,
+        "DefinitionsReferences": 0.38120126724243164
+      }
+    },
+    {
+      "sentence": "The first step is to obtain a death certificate from the relevant authorities where the worker passed away.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5464920997619629,
+      "similarities": {
+        "ContextObjective": 0.4222964644432068,
+        "BenefitsAssistance": 0.4282152056694031,
+        "Eligibility": 0.4610580801963806,
+        "ApplicationProcess": 0.5464920997619629,
+        "TimelineFrequency": 0.40225768089294434,
+        "AuthoritiesGovernance": 0.4421083331108093,
+        "DefinitionsReferences": 0.4184249937534332
+      }
+    },
+    {
+      "sentence": "This death certificate must be duly attested and should clearly mention the cause of death.",
+      "role": "ApplicationProcess",
+      "confidence": 0.46351248025894165,
+      "similarities": {
+        "ContextObjective": 0.43219903111457825,
+        "BenefitsAssistance": 0.4195733368396759,
+        "Eligibility": 0.4123145341873169,
+        "ApplicationProcess": 0.46351248025894165,
+        "TimelineFrequency": 0.39134103059768677,
+        "AuthoritiesGovernance": 0.36477500200271606,
+        "DefinitionsReferences": 0.4027636647224426
+      }
+    },
+    {
+      "sentence": "Next, the family must fill out the application form provided by the West Bengal government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6366324424743652,
+      "similarities": {
+        "ContextObjective": 0.43637558817863464,
+        "BenefitsAssistance": 0.4360465407371521,
+        "Eligibility": 0.5295482873916626,
+        "ApplicationProcess": 0.6366324424743652,
+        "TimelineFrequency": 0.4663274884223938,
+        "AuthoritiesGovernance": 0.42893460392951965,
+        "DefinitionsReferences": 0.4137744903564453
+      }
+    },
+    {
+      "sentence": "This application form can be obtained from the official website of the West Bengal Labour Department or the local administrative offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6310611963272095,
+      "similarities": {
+        "ContextObjective": 0.4421629011631012,
+        "BenefitsAssistance": 0.44552454352378845,
+        "Eligibility": 0.515178918838501,
+        "ApplicationProcess": 0.6310611963272095,
+        "TimelineFrequency": 0.5093080997467041,
+        "AuthoritiesGovernance": 0.45706138014793396,
+        "DefinitionsReferences": 0.4337136745452881
+      }
+    },
+    {
+      "sentence": "Along with the application form, the family must submit a copy of the deceased worker's identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5717231631278992,
+      "similarities": {
+        "ContextObjective": 0.37344664335250854,
+        "BenefitsAssistance": 0.44261911511421204,
+        "Eligibility": 0.4693622589111328,
+        "ApplicationProcess": 0.5717231631278992,
+        "TimelineFrequency": 0.4130375385284424,
+        "AuthoritiesGovernance": 0.36950555443763733,
+        "DefinitionsReferences": 0.4071238040924072
+      }
+    },
+    {
+      "sentence": "This identity proof can include documents such as an Aadhaar card or voter ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5208613872528076,
+      "similarities": {
+        "ContextObjective": 0.42842668294906616,
+        "BenefitsAssistance": 0.5087801218032837,
+        "Eligibility": 0.45455124974250793,
+        "ApplicationProcess": 0.5208613872528076,
+        "TimelineFrequency": 0.43400609493255615,
+        "AuthoritiesGovernance": 0.3862271308898926,
+        "DefinitionsReferences": 0.4755794405937195
+      }
+    },
+    {
+      "sentence": "Additionally, the family must provide proof of residence in West Bengal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5572888255119324,
+      "similarities": {
+        "ContextObjective": 0.43046993017196655,
+        "BenefitsAssistance": 0.44813448190689087,
+        "Eligibility": 0.5389345288276672,
+        "ApplicationProcess": 0.5572888255119324,
+        "TimelineFrequency": 0.4275091886520386,
+        "AuthoritiesGovernance": 0.3956258296966553,
+        "DefinitionsReferences": 0.42939993739128113
+      }
+    },
+    {
+      "sentence": "This can be in the form of a ration card or any government-issued document that confirms the family's address in the state.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5461018085479736,
+      "similarities": {
+        "ContextObjective": 0.4345130920410156,
+        "BenefitsAssistance": 0.5012577176094055,
+        "Eligibility": 0.5215332508087158,
+        "ApplicationProcess": 0.5461018085479736,
+        "TimelineFrequency": 0.43445780873298645,
+        "AuthoritiesGovernance": 0.44964003562927246,
+        "DefinitionsReferences": 0.470804899930954
+      }
+    },
+    {
+      "sentence": "The application must also include a letter from the local panchayat or municipality confirming the identity of the deceased worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5579571723937988,
+      "similarities": {
+        "ContextObjective": 0.4151696562767029,
+        "BenefitsAssistance": 0.41153085231781006,
+        "Eligibility": 0.4855954647064209,
+        "ApplicationProcess": 0.5579571723937988,
+        "TimelineFrequency": 0.45082417130470276,
+        "AuthoritiesGovernance": 0.427798867225647,
+        "DefinitionsReferences": 0.41075336933135986
+      }
+    },
+    {
+      "sentence": "Once all the documents are gathered, the family must submit the application to the local Labour Department office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6296535730361938,
+      "similarities": {
+        "ContextObjective": 0.40879860520362854,
+        "BenefitsAssistance": 0.45908209681510925,
+        "Eligibility": 0.5135345458984375,
+        "ApplicationProcess": 0.6296535730361938,
+        "TimelineFrequency": 0.49124258756637573,
+        "AuthoritiesGovernance": 0.46779507398605347,
+        "DefinitionsReferences": 0.41760894656181335
+      }
+    },
+    {
+      "sentence": "The application will be processed by the officials, and upon verification of the documents, the financial assistance will be disbursed.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6590064764022827,
+      "similarities": {
+        "ContextObjective": 0.4524920582771301,
+        "BenefitsAssistance": 0.5816088914871216,
+        "Eligibility": 0.5878475904464722,
+        "ApplicationProcess": 0.6590064764022827,
+        "TimelineFrequency": 0.5239542126655579,
+        "AuthoritiesGovernance": 0.511123776435852,
+        "DefinitionsReferences": 0.4606732130050659
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is typically done through bank transfers to the account of the deceased worker's family.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4964369535446167,
+      "similarities": {
+        "ContextObjective": 0.3697291612625122,
+        "BenefitsAssistance": 0.4964369535446167,
+        "Eligibility": 0.4598308205604553,
+        "ApplicationProcess": 0.4011579751968384,
+        "TimelineFrequency": 0.36589351296424866,
+        "AuthoritiesGovernance": 0.4148407578468323,
+        "DefinitionsReferences": 0.34850895404815674
+      }
+    },
+    {
+      "sentence": "The timeline for processing the application is generally around 15 to 30 days, depending on the completeness of the submitted documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6682920455932617,
+      "similarities": {
+        "ContextObjective": 0.4816477298736572,
+        "BenefitsAssistance": 0.5024043321609497,
+        "Eligibility": 0.5572839975357056,
+        "ApplicationProcess": 0.6682920455932617,
+        "TimelineFrequency": 0.6528414487838745,
+        "AuthoritiesGovernance": 0.46762615442276,
+        "DefinitionsReferences": 0.4747692942619324
+      }
+    },
+    {
+      "sentence": "The frequency of assistance is based on the occurrence of deaths among migrant workers.",
+      "role": "Eligibility",
+      "confidence": 0.43514490127563477,
+      "similarities": {
+        "ContextObjective": 0.38478732109069824,
+        "BenefitsAssistance": 0.3943801820278168,
+        "Eligibility": 0.43514490127563477,
+        "ApplicationProcess": 0.35743436217308044,
+        "TimelineFrequency": 0.4159198999404907,
+        "AuthoritiesGovernance": 0.40286576747894287,
+        "DefinitionsReferences": 0.3653933107852936
+      }
+    },
+    {
+      "sentence": "There is no specific limit on the number of times a family can apply for this assistance as long as the criteria are met for each case.",
+      "role": "Eligibility",
+      "confidence": 0.6157948970794678,
+      "similarities": {
+        "ContextObjective": 0.4785943031311035,
+        "BenefitsAssistance": 0.4983307123184204,
+        "Eligibility": 0.6157948970794678,
+        "ApplicationProcess": 0.5026307106018066,
+        "TimelineFrequency": 0.5221652984619141,
+        "AuthoritiesGovernance": 0.411038339138031,
+        "DefinitionsReferences": 0.424888551235199
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the West Bengal Labour Department.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5593914985656738,
+      "similarities": {
+        "ContextObjective": 0.43813493847846985,
+        "BenefitsAssistance": 0.38290703296661377,
+        "Eligibility": 0.44592252373695374,
+        "ApplicationProcess": 0.40545713901519775,
+        "TimelineFrequency": 0.3808151185512543,
+        "AuthoritiesGovernance": 0.5593914985656738,
+        "DefinitionsReferences": 0.3705477714538574
+      }
+    },
+    {
+      "sentence": "The Labour Department is responsible for overseeing the application process and ensuring timely disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5615553259849548,
+      "similarities": {
+        "ContextObjective": 0.4632941782474518,
+        "BenefitsAssistance": 0.5350704193115234,
+        "Eligibility": 0.5322092175483704,
+        "ApplicationProcess": 0.5615553259849548,
+        "TimelineFrequency": 0.5415186882019043,
+        "AuthoritiesGovernance": 0.528075635433197,
+        "DefinitionsReferences": 0.4139668047428131
+      }
+    },
+    {
+      "sentence": "Families can contact the Labour Department for any queries or assistance related to the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5718422532081604,
+      "similarities": {
+        "ContextObjective": 0.4518510699272156,
+        "BenefitsAssistance": 0.5091279745101929,
+        "Eligibility": 0.556252121925354,
+        "ApplicationProcess": 0.5718422532081604,
+        "TimelineFrequency": 0.49920910596847534,
+        "AuthoritiesGovernance": 0.5179321765899658,
+        "DefinitionsReferences": 0.4158027172088623
+      }
+    },
+    {
+      "sentence": "The contact details for the West Bengal Labour Department can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48130980134010315,
+      "similarities": {
+        "ContextObjective": 0.3787689805030823,
+        "BenefitsAssistance": 0.45014429092407227,
+        "Eligibility": 0.400757372379303,
+        "ApplicationProcess": 0.4530557692050934,
+        "TimelineFrequency": 0.4045602083206177,
+        "AuthoritiesGovernance": 0.48130980134010315,
+        "DefinitionsReferences": 0.4232311248779297
+      }
+    },
+    {
+      "sentence": "The scheme has been particularly beneficial for families who may not have the financial means to repatriate the bodies of their deceased loved ones.",
+      "role": "Eligibility",
+      "confidence": 0.44821667671203613,
+      "similarities": {
+        "ContextObjective": 0.43077552318573,
+        "BenefitsAssistance": 0.3962293267250061,
+        "Eligibility": 0.44821667671203613,
+        "ApplicationProcess": 0.3691631257534027,
+        "TimelineFrequency": 0.32044535875320435,
+        "AuthoritiesGovernance": 0.3096856474876404,
+        "DefinitionsReferences": 0.30873215198516846
+      }
+    },
+    {
+      "sentence": "It alleviates the emotional and financial stress associated with such tragic circumstances.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48632991313934326,
+      "similarities": {
+        "ContextObjective": 0.41699856519699097,
+        "BenefitsAssistance": 0.48632991313934326,
+        "Eligibility": 0.3888165056705475,
+        "ApplicationProcess": 0.3458285331726074,
+        "TimelineFrequency": 0.34359443187713623,
+        "AuthoritiesGovernance": 0.32252445816993713,
+        "DefinitionsReferences": 0.33333173394203186
+      }
+    },
+    {
+      "sentence": "The initiative is part of a broader effort by the West Bengal government to support its migrant workers during the pandemic.",
+      "role": "Eligibility",
+      "confidence": 0.42596137523651123,
+      "similarities": {
+        "ContextObjective": 0.4027116000652313,
+        "BenefitsAssistance": 0.41152817010879517,
+        "Eligibility": 0.42596137523651123,
+        "ApplicationProcess": 0.39060381054878235,
+        "TimelineFrequency": 0.3559078872203827,
+        "AuthoritiesGovernance": 0.4086892604827881,
+        "DefinitionsReferences": 0.352836012840271
+      }
+    },
+    {
+      "sentence": "In addition to this scheme, the government has launched several other welfare initiatives aimed at providing assistance to migrant workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4965551197528839,
+      "similarities": {
+        "ContextObjective": 0.4965551197528839,
+        "BenefitsAssistance": 0.4556892514228821,
+        "Eligibility": 0.4654797315597534,
+        "ApplicationProcess": 0.41941314935684204,
+        "TimelineFrequency": 0.3921244442462921,
+        "AuthoritiesGovernance": 0.4385969042778015,
+        "DefinitionsReferences": 0.40100422501564026
+      }
+    },
+    {
+      "sentence": "These initiatives include financial aid for stranded workers, food distribution, and transportation services to help workers return home safely.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48547428846359253,
+      "similarities": {
+        "ContextObjective": 0.39925718307495117,
+        "BenefitsAssistance": 0.48547428846359253,
+        "Eligibility": 0.4064464271068573,
+        "ApplicationProcess": 0.38717758655548096,
+        "TimelineFrequency": 0.3502665162086487,
+        "AuthoritiesGovernance": 0.40242844820022583,
+        "DefinitionsReferences": 0.3558727502822876
+      }
+    },
+    {
+      "sentence": "The West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body is a crucial component of the government's commitment to the welfare of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4768003821372986,
+      "similarities": {
+        "ContextObjective": 0.4768003821372986,
+        "BenefitsAssistance": 0.4228171110153198,
+        "Eligibility": 0.47250574827194214,
+        "ApplicationProcess": 0.4269866347312927,
+        "TimelineFrequency": 0.39243173599243164,
+        "AuthoritiesGovernance": 0.4519340395927429,
+        "DefinitionsReferences": 0.4033712148666382
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's recognition of the sacrifices made by migrant workers who contribute significantly to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.44182416796684265,
+      "similarities": {
+        "ContextObjective": 0.44182416796684265,
+        "BenefitsAssistance": 0.39351385831832886,
+        "Eligibility": 0.4141674041748047,
+        "ApplicationProcess": 0.3775588274002075,
+        "TimelineFrequency": 0.3302488327026367,
+        "AuthoritiesGovernance": 0.3279556930065155,
+        "DefinitionsReferences": 0.33567532896995544
+      }
+    },
+    {
+      "sentence": "In the context of the COVID-19 pandemic, the scheme has gained additional importance as many workers faced unprecedented challenges.",
+      "role": "Eligibility",
+      "confidence": 0.5381549596786499,
+      "similarities": {
+        "ContextObjective": 0.5324664115905762,
+        "BenefitsAssistance": 0.49710512161254883,
+        "Eligibility": 0.5381549596786499,
+        "ApplicationProcess": 0.48959827423095703,
+        "TimelineFrequency": 0.4807111620903015,
+        "AuthoritiesGovernance": 0.45683151483535767,
+        "DefinitionsReferences": 0.42409753799438477
+      }
+    },
+    {
+      "sentence": "The West Bengal government has emphasized the need for comprehensive support systems for migrant workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45878273248672485,
+      "similarities": {
+        "ContextObjective": 0.43330490589141846,
+        "BenefitsAssistance": 0.45878273248672485,
+        "Eligibility": 0.45432186126708984,
+        "ApplicationProcess": 0.4103071689605713,
+        "TimelineFrequency": 0.37136247754096985,
+        "AuthoritiesGovernance": 0.4386621117591858,
+        "DefinitionsReferences": 0.4109453558921814
+      }
+    },
+    {
+      "sentence": "This includes not only financial assistance but also mental health support and job security measures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6354280710220337,
+      "similarities": {
+        "ContextObjective": 0.4428849220275879,
+        "BenefitsAssistance": 0.6354280710220337,
+        "Eligibility": 0.5072295665740967,
+        "ApplicationProcess": 0.4712419807910919,
+        "TimelineFrequency": 0.45929649472236633,
+        "AuthoritiesGovernance": 0.4464133679866791,
+        "DefinitionsReferences": 0.4685462713241577
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public, and many families have benefited from the timely assistance provided.",
+      "role": "ContextObjective",
+      "confidence": 0.49366456270217896,
+      "similarities": {
+        "ContextObjective": 0.49366456270217896,
+        "BenefitsAssistance": 0.47059130668640137,
+        "Eligibility": 0.4660206437110901,
+        "ApplicationProcess": 0.4063810408115387,
+        "TimelineFrequency": 0.37114274501800537,
+        "AuthoritiesGovernance": 0.4143944978713989,
+        "DefinitionsReferences": 0.3470610976219177
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to operate and support families in need.",
+      "role": "ContextObjective",
+      "confidence": 0.5360682010650635,
+      "similarities": {
+        "ContextObjective": 0.5360682010650635,
+        "BenefitsAssistance": 0.4805755019187927,
+        "Eligibility": 0.4963211417198181,
+        "ApplicationProcess": 0.4144628942012787,
+        "TimelineFrequency": 0.43254154920578003,
+        "AuthoritiesGovernance": 0.4340217113494873,
+        "DefinitionsReferences": 0.3856065273284912
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to ensure that it meets the needs of the migrant worker community effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.4936065077781677,
+      "similarities": {
+        "ContextObjective": 0.4936065077781677,
+        "BenefitsAssistance": 0.41561076045036316,
+        "Eligibility": 0.4899228811264038,
+        "ApplicationProcess": 0.4827946126461029,
+        "TimelineFrequency": 0.40322208404541016,
+        "AuthoritiesGovernance": 0.4440016746520996,
+        "DefinitionsReferences": 0.4002588391304016
+      }
+    },
+    {
+      "sentence": "Overall, the West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body is a vital initiative that underscores the importance of supporting vulnerable populations.",
+      "role": "ContextObjective",
+      "confidence": 0.4841649532318115,
+      "similarities": {
+        "ContextObjective": 0.4841649532318115,
+        "BenefitsAssistance": 0.4099990725517273,
+        "Eligibility": 0.4775393009185791,
+        "ApplicationProcess": 0.3926697373390198,
+        "TimelineFrequency": 0.37356510758399963,
+        "AuthoritiesGovernance": 0.40133345127105713,
+        "DefinitionsReferences": 0.347322940826416
+      }
+    },
+    {
+      "sentence": "It serves as a reminder of the government's responsibility to protect the rights and welfare of its citizens, especially during crises.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.45338404178619385,
+      "similarities": {
+        "ContextObjective": 0.4475323557853699,
+        "BenefitsAssistance": 0.4385293424129486,
+        "Eligibility": 0.4375224709510803,
+        "ApplicationProcess": 0.40509945154190063,
+        "TimelineFrequency": 0.39188915491104126,
+        "AuthoritiesGovernance": 0.43923360109329224,
+        "DefinitionsReferences": 0.45338404178619385
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial relief but also restores dignity to the deceased workers and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.4528232216835022,
+      "similarities": {
+        "ContextObjective": 0.4528232216835022,
+        "BenefitsAssistance": 0.44660043716430664,
+        "Eligibility": 0.4072185158729553,
+        "ApplicationProcess": 0.3453173339366913,
+        "TimelineFrequency": 0.31223297119140625,
+        "AuthoritiesGovernance": 0.34891843795776367,
+        "DefinitionsReferences": 0.303849458694458
+      }
+    },
+    {
+      "sentence": "By facilitating the repatriation of bodies, the government helps families to perform last rites according to their customs and traditions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4410179853439331,
+      "similarities": {
+        "ContextObjective": 0.3703503906726837,
+        "BenefitsAssistance": 0.36371034383773804,
+        "Eligibility": 0.4063597321510315,
+        "ApplicationProcess": 0.40172266960144043,
+        "TimelineFrequency": 0.34100592136383057,
+        "AuthoritiesGovernance": 0.4410179853439331,
+        "DefinitionsReferences": 0.3978135585784912
+      }
+    },
+    {
+      "sentence": "This scheme is a testament to the commitment of the West Bengal government to the welfare of its people.",
+      "role": "ContextObjective",
+      "confidence": 0.4563227891921997,
+      "similarities": {
+        "ContextObjective": 0.4563227891921997,
+        "BenefitsAssistance": 0.4044187366962433,
+        "Eligibility": 0.43414241075515747,
+        "ApplicationProcess": 0.39967265725135803,
+        "TimelineFrequency": 0.35161226987838745,
+        "AuthoritiesGovernance": 0.3807837665081024,
+        "DefinitionsReferences": 0.37140563130378723
+      }
+    },
+    {
+      "sentence": "In conclusion, the West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body is an essential program that addresses a critical need.",
+      "role": "ContextObjective",
+      "confidence": 0.48702749609947205,
+      "similarities": {
+        "ContextObjective": 0.48702749609947205,
+        "BenefitsAssistance": 0.3995445966720581,
+        "Eligibility": 0.45139962434768677,
+        "ApplicationProcess": 0.40753695368766785,
+        "TimelineFrequency": 0.3700610399246216,
+        "AuthoritiesGovernance": 0.4006190299987793,
+        "DefinitionsReferences": 0.3377619683742523
+      }
+    },
+    {
+      "sentence": "It provides a lifeline to families who have lost their loved ones while working far from home.",
+      "role": "Eligibility",
+      "confidence": 0.4213722050189972,
+      "similarities": {
+        "ContextObjective": 0.41215866804122925,
+        "BenefitsAssistance": 0.40649697184562683,
+        "Eligibility": 0.4213722050189972,
+        "ApplicationProcess": 0.3769803047180176,
+        "TimelineFrequency": 0.35096704959869385,
+        "AuthoritiesGovernance": 0.34858188033103943,
+        "DefinitionsReferences": 0.34490978717803955
+      }
+    },
+    {
+      "sentence": "The financial assistance offered is significant and plays a crucial role in easing the burden of repatriation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4825763702392578,
+      "similarities": {
+        "ContextObjective": 0.3996967077255249,
+        "BenefitsAssistance": 0.4825763702392578,
+        "Eligibility": 0.44068360328674316,
+        "ApplicationProcess": 0.38910216093063354,
+        "TimelineFrequency": 0.3393389582633972,
+        "AuthoritiesGovernance": 0.34573179483413696,
+        "DefinitionsReferences": 0.3363008499145508
+      }
+    },
+    {
+      "sentence": "The scheme is a clear indication of the government's proactive approach to addressing the challenges faced by migrant workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4847996234893799,
+      "similarities": {
+        "ContextObjective": 0.4847996234893799,
+        "BenefitsAssistance": 0.38782626390457153,
+        "Eligibility": 0.44897016882896423,
+        "ApplicationProcess": 0.4093649387359619,
+        "TimelineFrequency": 0.35874733328819275,
+        "AuthoritiesGovernance": 0.39496704936027527,
+        "DefinitionsReferences": 0.3453458547592163
+      }
+    },
+    {
+      "sentence": "It is a vital resource for families navigating the difficult process of loss and repatriation.",
+      "role": "Eligibility",
+      "confidence": 0.4694598913192749,
+      "similarities": {
+        "ContextObjective": 0.4126920700073242,
+        "BenefitsAssistance": 0.4125610589981079,
+        "Eligibility": 0.4694598913192749,
+        "ApplicationProcess": 0.44537657499313354,
+        "TimelineFrequency": 0.41525864601135254,
+        "AuthoritiesGovernance": 0.39008861780166626,
+        "DefinitionsReferences": 0.41713958978652954
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 14,
+    "Eligibility": 15,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 14,
+    "AuthoritiesGovernance": 3,
+    "DefinitionsReferences": 1
+  },
+  "processing_timestamp": "2025-09-25T20:32:19.649385"
+}

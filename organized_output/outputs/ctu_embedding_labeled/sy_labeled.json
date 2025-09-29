@@ -1,0 +1,841 @@
+{
+  "scheme_name": "Shagun Yojana",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "Shagun Yojana is a welfare scheme launched by the Government of India to promote the welfare of women and children in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5563995838165283,
+      "similarities": {
+        "ContextObjective": 0.5563995838165283,
+        "BenefitsAssistance": 0.4649083614349365,
+        "Eligibility": 0.5121084451675415,
+        "ApplicationProcess": 0.4492931663990021,
+        "TimelineFrequency": 0.42717957496643066,
+        "AuthoritiesGovernance": 0.472422331571579,
+        "DefinitionsReferences": 0.38372036814689636
+      }
+    },
+    {
+      "sentence": "The scheme was initiated in the year 2016 by the Government of Uttar Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.526321291923523,
+      "similarities": {
+        "ContextObjective": 0.526321291923523,
+        "BenefitsAssistance": 0.4099003076553345,
+        "Eligibility": 0.43606099486351013,
+        "ApplicationProcess": 0.4398825168609619,
+        "TimelineFrequency": 0.40743017196655273,
+        "AuthoritiesGovernance": 0.40160736441612244,
+        "DefinitionsReferences": 0.3483535051345825
+      }
+    },
+    {
+      "sentence": "The primary objective of the Shagun Yojana is to provide financial assistance to families for the marriage of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.5059723258018494,
+      "similarities": {
+        "ContextObjective": 0.5059723258018494,
+        "BenefitsAssistance": 0.4463174343109131,
+        "Eligibility": 0.46014103293418884,
+        "ApplicationProcess": 0.42157238721847534,
+        "TimelineFrequency": 0.3964616060256958,
+        "AuthoritiesGovernance": 0.3785592317581177,
+        "DefinitionsReferences": 0.3264387845993042
+      }
+    },
+    {
+      "sentence": "This initiative aims to alleviate the financial burden on families, especially those belonging to economically weaker sections of society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47293466329574585,
+      "similarities": {
+        "ContextObjective": 0.458117812871933,
+        "BenefitsAssistance": 0.47293466329574585,
+        "Eligibility": 0.4701153635978699,
+        "ApplicationProcess": 0.3737499713897705,
+        "TimelineFrequency": 0.35814017057418823,
+        "AuthoritiesGovernance": 0.38548049330711365,
+        "DefinitionsReferences": 0.3033127188682556
+      }
+    },
+    {
+      "sentence": "The scheme is particularly focused on ensuring that girls from underprivileged backgrounds can have a dignified marriage.",
+      "role": "ContextObjective",
+      "confidence": 0.5091637372970581,
+      "similarities": {
+        "ContextObjective": 0.5091637372970581,
+        "BenefitsAssistance": 0.3770260214805603,
+        "Eligibility": 0.47319334745407104,
+        "ApplicationProcess": 0.42412304878234863,
+        "TimelineFrequency": 0.380947470664978,
+        "AuthoritiesGovernance": 0.3736817240715027,
+        "DefinitionsReferences": 0.3438588082790375
+      }
+    },
+    {
+      "sentence": "Under the Shagun Yojana, a financial assistance of ₹51,000 is provided to eligible families for the marriage of their daughters.",
+      "role": "Eligibility",
+      "confidence": 0.4723966121673584,
+      "similarities": {
+        "ContextObjective": 0.40501177310943604,
+        "BenefitsAssistance": 0.4590030312538147,
+        "Eligibility": 0.4723966121673584,
+        "ApplicationProcess": 0.41545408964157104,
+        "TimelineFrequency": 0.390001118183136,
+        "AuthoritiesGovernance": 0.3544708490371704,
+        "DefinitionsReferences": 0.30862537026405334
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover various expenses associated with the wedding ceremony.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.61972975730896,
+      "similarities": {
+        "ContextObjective": 0.4842309355735779,
+        "BenefitsAssistance": 0.61972975730896,
+        "Eligibility": 0.4814566969871521,
+        "ApplicationProcess": 0.4765551686286926,
+        "TimelineFrequency": 0.4961773455142975,
+        "AuthoritiesGovernance": 0.42346063256263733,
+        "DefinitionsReferences": 0.4758361577987671
+      }
+    },
+    {
+      "sentence": "The scheme is designed to encourage families to prioritize the education of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.5292900204658508,
+      "similarities": {
+        "ContextObjective": 0.5292900204658508,
+        "BenefitsAssistance": 0.4073016941547394,
+        "Eligibility": 0.4628485441207886,
+        "ApplicationProcess": 0.4181644320487976,
+        "TimelineFrequency": 0.4383196234703064,
+        "AuthoritiesGovernance": 0.37516582012176514,
+        "DefinitionsReferences": 0.3540918231010437
+      }
+    },
+    {
+      "sentence": "By providing financial support, the government aims to reduce the incidence of child marriage.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43959200382232666,
+      "similarities": {
+        "ContextObjective": 0.4063119888305664,
+        "BenefitsAssistance": 0.43959200382232666,
+        "Eligibility": 0.42857784032821655,
+        "ApplicationProcess": 0.391342431306839,
+        "TimelineFrequency": 0.36465537548065186,
+        "AuthoritiesGovernance": 0.40626996755599976,
+        "DefinitionsReferences": 0.3355879783630371
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana is implemented by the Department of Women and Child Development in Uttar Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49812236428260803,
+      "similarities": {
+        "ContextObjective": 0.4251730442047119,
+        "BenefitsAssistance": 0.4192008376121521,
+        "Eligibility": 0.45394688844680786,
+        "ApplicationProcess": 0.410396546125412,
+        "TimelineFrequency": 0.3745460510253906,
+        "AuthoritiesGovernance": 0.49812236428260803,
+        "DefinitionsReferences": 0.3415214717388153
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for the Shagun Yojana include specific income limits.",
+      "role": "Eligibility",
+      "confidence": 0.6493568420410156,
+      "similarities": {
+        "ContextObjective": 0.48360133171081543,
+        "BenefitsAssistance": 0.5244978666305542,
+        "Eligibility": 0.6493568420410156,
+        "ApplicationProcess": 0.49432072043418884,
+        "TimelineFrequency": 0.48289334774017334,
+        "AuthoritiesGovernance": 0.3765326738357544,
+        "DefinitionsReferences": 0.40922439098358154
+      }
+    },
+    {
+      "sentence": "Families with an annual income of less than ₹2 lakh are eligible to apply for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5936259031295776,
+      "similarities": {
+        "ContextObjective": 0.48854121565818787,
+        "BenefitsAssistance": 0.5116384625434875,
+        "Eligibility": 0.5936259031295776,
+        "ApplicationProcess": 0.5112980604171753,
+        "TimelineFrequency": 0.4819059371948242,
+        "AuthoritiesGovernance": 0.38102012872695923,
+        "DefinitionsReferences": 0.3543933928012848
+      }
+    },
+    {
+      "sentence": "The applicant must be a resident of Uttar Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5983428359031677,
+      "similarities": {
+        "ContextObjective": 0.4768102467060089,
+        "BenefitsAssistance": 0.4393593668937683,
+        "Eligibility": 0.5983428359031677,
+        "ApplicationProcess": 0.5752708315849304,
+        "TimelineFrequency": 0.5020652413368225,
+        "AuthoritiesGovernance": 0.438490092754364,
+        "DefinitionsReferences": 0.4049043655395508
+      }
+    },
+    {
+      "sentence": "The girl must be at least 18 years of age at the time of marriage.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48514026403427124,
+      "similarities": {
+        "ContextObjective": 0.4055939316749573,
+        "BenefitsAssistance": 0.4043286442756653,
+        "Eligibility": 0.4813469350337982,
+        "ApplicationProcess": 0.48514026403427124,
+        "TimelineFrequency": 0.45276573300361633,
+        "AuthoritiesGovernance": 0.36993545293807983,
+        "DefinitionsReferences": 0.3709312379360199
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to families belonging to Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.5567792654037476,
+      "similarities": {
+        "ContextObjective": 0.4854682683944702,
+        "BenefitsAssistance": 0.4579464793205261,
+        "Eligibility": 0.5567792654037476,
+        "ApplicationProcess": 0.43755561113357544,
+        "TimelineFrequency": 0.43477925658226013,
+        "AuthoritiesGovernance": 0.4352709650993347,
+        "DefinitionsReferences": 0.40293413400650024
+      }
+    },
+    {
+      "sentence": "Additionally, families from the general category can also apply if they meet the income criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6431450843811035,
+      "similarities": {
+        "ContextObjective": 0.4755658507347107,
+        "BenefitsAssistance": 0.5140082836151123,
+        "Eligibility": 0.6431450843811035,
+        "ApplicationProcess": 0.5294151306152344,
+        "TimelineFrequency": 0.49475809931755066,
+        "AuthoritiesGovernance": 0.42446428537368774,
+        "DefinitionsReferences": 0.415715754032135
+      }
+    },
+    {
+      "sentence": "The application process for the Shagun Yojana involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6815566420555115,
+      "similarities": {
+        "ContextObjective": 0.5551413297653198,
+        "BenefitsAssistance": 0.49452391266822815,
+        "Eligibility": 0.5805153846740723,
+        "ApplicationProcess": 0.6815566420555115,
+        "TimelineFrequency": 0.5671778917312622,
+        "AuthoritiesGovernance": 0.4862940311431885,
+        "DefinitionsReferences": 0.470679372549057
+      }
+    },
+    {
+      "sentence": "Interested families must fill out the application form available at designated government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.665899395942688,
+      "similarities": {
+        "ContextObjective": 0.47351914644241333,
+        "BenefitsAssistance": 0.47183436155319214,
+        "Eligibility": 0.5987004041671753,
+        "ApplicationProcess": 0.665899395942688,
+        "TimelineFrequency": 0.5064845085144043,
+        "AuthoritiesGovernance": 0.46988222002983093,
+        "DefinitionsReferences": 0.46720612049102783
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the Uttar Pradesh government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5996569991111755,
+      "similarities": {
+        "ContextObjective": 0.4257584810256958,
+        "BenefitsAssistance": 0.4338875412940979,
+        "Eligibility": 0.4998793601989746,
+        "ApplicationProcess": 0.5996569991111755,
+        "TimelineFrequency": 0.4692787826061249,
+        "AuthoritiesGovernance": 0.42931121587753296,
+        "DefinitionsReferences": 0.42972469329833984
+      }
+    },
+    {
+      "sentence": "Along with the application form, applicants are required to submit specific documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7401332259178162,
+      "similarities": {
+        "ContextObjective": 0.5120013356208801,
+        "BenefitsAssistance": 0.5486246347427368,
+        "Eligibility": 0.6392092704772949,
+        "ApplicationProcess": 0.7401332259178162,
+        "TimelineFrequency": 0.6300646066665649,
+        "AuthoritiesGovernance": 0.4884352385997772,
+        "DefinitionsReferences": 0.5523867607116699
+      }
+    },
+    {
+      "sentence": "These documents include proof of income, identity proof, and age proof of the girl.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5783829689025879,
+      "similarities": {
+        "ContextObjective": 0.4643624722957611,
+        "BenefitsAssistance": 0.5783829689025879,
+        "Eligibility": 0.49905285239219666,
+        "ApplicationProcess": 0.5603854656219482,
+        "TimelineFrequency": 0.4740807116031647,
+        "AuthoritiesGovernance": 0.4157128632068634,
+        "DefinitionsReferences": 0.5262548923492432
+      }
+    },
+    {
+      "sentence": "A marriage invitation card may also be required as part of the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6288686990737915,
+      "similarities": {
+        "ContextObjective": 0.4499097466468811,
+        "BenefitsAssistance": 0.4416658282279968,
+        "Eligibility": 0.5314152836799622,
+        "ApplicationProcess": 0.6288686990737915,
+        "TimelineFrequency": 0.5321162939071655,
+        "AuthoritiesGovernance": 0.3908620774745941,
+        "DefinitionsReferences": 0.4184403419494629
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The verification process includes checking the eligibility criteria and the authenticity of the documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.70577472448349,
+      "similarities": {
+        "ContextObjective": 0.5105341672897339,
+        "BenefitsAssistance": 0.505900502204895,
+        "Eligibility": 0.6139813661575317,
+        "ApplicationProcess": 0.70577472448349,
+        "TimelineFrequency": 0.5780420899391174,
+        "AuthoritiesGovernance": 0.46406036615371704,
+        "DefinitionsReferences": 0.524815559387207
+      }
+    },
+    {
+      "sentence": "After successful verification, the financial assistance is disbursed to the beneficiary's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5756800770759583,
+      "similarities": {
+        "ContextObjective": 0.40578609704971313,
+        "BenefitsAssistance": 0.5756800770759583,
+        "Eligibility": 0.5277665853500366,
+        "ApplicationProcess": 0.5332182049751282,
+        "TimelineFrequency": 0.4169043302536011,
+        "AuthoritiesGovernance": 0.4368942677974701,
+        "DefinitionsReferences": 0.3938654065132141
+      }
+    },
+    {
+      "sentence": "The disbursement of funds typically occurs within 30 days of the application approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5462676286697388,
+      "similarities": {
+        "ContextObjective": 0.4493730664253235,
+        "BenefitsAssistance": 0.5321705341339111,
+        "Eligibility": 0.5164028406143188,
+        "ApplicationProcess": 0.5017210245132446,
+        "TimelineFrequency": 0.5462676286697388,
+        "AuthoritiesGovernance": 0.444692999124527,
+        "DefinitionsReferences": 0.39985328912734985
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana is part of a broader initiative to empower women in Uttar Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.44239363074302673,
+      "similarities": {
+        "ContextObjective": 0.44239363074302673,
+        "BenefitsAssistance": 0.3919582962989807,
+        "Eligibility": 0.4153728485107422,
+        "ApplicationProcess": 0.3647611439228058,
+        "TimelineFrequency": 0.3397679030895233,
+        "AuthoritiesGovernance": 0.40570586919784546,
+        "DefinitionsReferences": 0.32503455877304077
+      }
+    },
+    {
+      "sentence": "The government aims to promote gender equality through various schemes and programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5740534067153931,
+      "similarities": {
+        "ContextObjective": 0.5740534067153931,
+        "BenefitsAssistance": 0.45519909262657166,
+        "Eligibility": 0.5051481127738953,
+        "ApplicationProcess": 0.475100576877594,
+        "TimelineFrequency": 0.4735417366027832,
+        "AuthoritiesGovernance": 0.5255528092384338,
+        "DefinitionsReferences": 0.44799840450286865
+      }
+    },
+    {
+      "sentence": "As of 2023, the scheme has benefited thousands of families across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5224112272262573,
+      "similarities": {
+        "ContextObjective": 0.5224112272262573,
+        "BenefitsAssistance": 0.46517080068588257,
+        "Eligibility": 0.4918726682662964,
+        "ApplicationProcess": 0.3900749683380127,
+        "TimelineFrequency": 0.3971545100212097,
+        "AuthoritiesGovernance": 0.3849247097969055,
+        "DefinitionsReferences": 0.3673816919326782
+      }
+    },
+    {
+      "sentence": "The government has allocated significant funds to ensure the successful implementation of the Shagun Yojana.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44919049739837646,
+      "similarities": {
+        "ContextObjective": 0.4349004626274109,
+        "BenefitsAssistance": 0.44919049739837646,
+        "Eligibility": 0.445140540599823,
+        "ApplicationProcess": 0.41969621181488037,
+        "TimelineFrequency": 0.3387722969055176,
+        "AuthoritiesGovernance": 0.4451804757118225,
+        "DefinitionsReferences": 0.36264991760253906
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the Uttar Pradesh government allocated ₹200 crore for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4461509585380554,
+      "similarities": {
+        "ContextObjective": 0.4461509585380554,
+        "BenefitsAssistance": 0.43654751777648926,
+        "Eligibility": 0.4297793507575989,
+        "ApplicationProcess": 0.36708396673202515,
+        "TimelineFrequency": 0.37381690740585327,
+        "AuthoritiesGovernance": 0.3754699230194092,
+        "DefinitionsReferences": 0.33348461985588074
+      }
+    },
+    {
+      "sentence": "This allocation reflects the government's commitment to supporting the welfare of women and children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47128230333328247,
+      "similarities": {
+        "ContextObjective": 0.4115679860115051,
+        "BenefitsAssistance": 0.47128230333328247,
+        "Eligibility": 0.46077096462249756,
+        "ApplicationProcess": 0.3341197371482849,
+        "TimelineFrequency": 0.35346996784210205,
+        "AuthoritiesGovernance": 0.40403565764427185,
+        "DefinitionsReferences": 0.38134247064590454
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana is also linked with other welfare schemes aimed at women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.4689747095108032,
+      "similarities": {
+        "ContextObjective": 0.4689747095108032,
+        "BenefitsAssistance": 0.41238832473754883,
+        "Eligibility": 0.4153709411621094,
+        "ApplicationProcess": 0.3574860692024231,
+        "TimelineFrequency": 0.3624230921268463,
+        "AuthoritiesGovernance": 0.3862001895904541,
+        "DefinitionsReferences": 0.36559879779815674
+      }
+    },
+    {
+      "sentence": "These include schemes focused on education, health, and skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.5457194447517395,
+      "similarities": {
+        "ContextObjective": 0.5457194447517395,
+        "BenefitsAssistance": 0.5167899131774902,
+        "Eligibility": 0.5020979642868042,
+        "ApplicationProcess": 0.46095454692840576,
+        "TimelineFrequency": 0.4779025912284851,
+        "AuthoritiesGovernance": 0.47458693385124207,
+        "DefinitionsReferences": 0.4873676300048828
+      }
+    },
+    {
+      "sentence": "The government conducts awareness programs to inform eligible families about the Shagun Yojana.",
+      "role": "Eligibility",
+      "confidence": 0.5315816402435303,
+      "similarities": {
+        "ContextObjective": 0.49738073348999023,
+        "BenefitsAssistance": 0.4815927743911743,
+        "Eligibility": 0.5315816402435303,
+        "ApplicationProcess": 0.5042386651039124,
+        "TimelineFrequency": 0.4187421500682831,
+        "AuthoritiesGovernance": 0.4545992910861969,
+        "DefinitionsReferences": 0.385816365480423
+      }
+    },
+    {
+      "sentence": "These programs are held in rural and urban areas to reach a wider audience.",
+      "role": "ContextObjective",
+      "confidence": 0.49241670966148376,
+      "similarities": {
+        "ContextObjective": 0.49241670966148376,
+        "BenefitsAssistance": 0.3926481604576111,
+        "Eligibility": 0.4512215256690979,
+        "ApplicationProcess": 0.39003920555114746,
+        "TimelineFrequency": 0.4213554859161377,
+        "AuthoritiesGovernance": 0.4323344826698303,
+        "DefinitionsReferences": 0.41962069272994995
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries who have availed of the financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5301494002342224,
+      "similarities": {
+        "ContextObjective": 0.5194270610809326,
+        "BenefitsAssistance": 0.5301494002342224,
+        "Eligibility": 0.5280184149742126,
+        "ApplicationProcess": 0.42792564630508423,
+        "TimelineFrequency": 0.3878326714038849,
+        "AuthoritiesGovernance": 0.4194856584072113,
+        "DefinitionsReferences": 0.39400893449783325
+      }
+    },
+    {
+      "sentence": "Many families have expressed gratitude for the support provided by the government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4964035153388977,
+      "similarities": {
+        "ContextObjective": 0.44532084465026855,
+        "BenefitsAssistance": 0.4964035153388977,
+        "Eligibility": 0.45930805802345276,
+        "ApplicationProcess": 0.42430436611175537,
+        "TimelineFrequency": 0.36414894461631775,
+        "AuthoritiesGovernance": 0.44009000062942505,
+        "DefinitionsReferences": 0.4440039396286011
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana has also contributed to reducing the financial stress associated with weddings.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43783038854599,
+      "similarities": {
+        "ContextObjective": 0.36702272295951843,
+        "BenefitsAssistance": 0.43783038854599,
+        "Eligibility": 0.37163397669792175,
+        "ApplicationProcess": 0.3778420388698578,
+        "TimelineFrequency": 0.35457712411880493,
+        "AuthoritiesGovernance": 0.2996153235435486,
+        "DefinitionsReferences": 0.3070966899394989
+      }
+    },
+    {
+      "sentence": "By providing a lump sum amount, families can plan weddings without incurring debts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4717898368835449,
+      "similarities": {
+        "ContextObjective": 0.4075307250022888,
+        "BenefitsAssistance": 0.4717898368835449,
+        "Eligibility": 0.41205939650535583,
+        "ApplicationProcess": 0.36992499232292175,
+        "TimelineFrequency": 0.3588402271270752,
+        "AuthoritiesGovernance": 0.3031442165374756,
+        "DefinitionsReferences": 0.30226457118988037
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in promoting the marriage of girls at the legal age.",
+      "role": "ContextObjective",
+      "confidence": 0.49395591020584106,
+      "similarities": {
+        "ContextObjective": 0.49395591020584106,
+        "BenefitsAssistance": 0.3330364227294922,
+        "Eligibility": 0.39374691247940063,
+        "ApplicationProcess": 0.3755427300930023,
+        "TimelineFrequency": 0.3657718300819397,
+        "AuthoritiesGovernance": 0.3516952097415924,
+        "DefinitionsReferences": 0.3718394637107849
+      }
+    },
+    {
+      "sentence": "It has also encouraged families to invest in the education of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.41358572244644165,
+      "similarities": {
+        "ContextObjective": 0.41358572244644165,
+        "BenefitsAssistance": 0.38623014092445374,
+        "Eligibility": 0.36496731638908386,
+        "ApplicationProcess": 0.3455738425254822,
+        "TimelineFrequency": 0.3452163636684418,
+        "AuthoritiesGovernance": 0.32630863785743713,
+        "DefinitionsReferences": 0.34869417548179626
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the implementation of the Shagun Yojana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5203098058700562,
+      "similarities": {
+        "ContextObjective": 0.43276745080947876,
+        "BenefitsAssistance": 0.4273861050605774,
+        "Eligibility": 0.426772803068161,
+        "ApplicationProcess": 0.4572654962539673,
+        "TimelineFrequency": 0.3713107109069824,
+        "AuthoritiesGovernance": 0.5203098058700562,
+        "DefinitionsReferences": 0.41229793429374695
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5306241512298584,
+      "similarities": {
+        "ContextObjective": 0.5306241512298584,
+        "BenefitsAssistance": 0.49435728788375854,
+        "Eligibility": 0.5193381309509277,
+        "ApplicationProcess": 0.4974103271961212,
+        "TimelineFrequency": 0.4900251030921936,
+        "AuthoritiesGovernance": 0.4859147369861603,
+        "DefinitionsReferences": 0.4568423330783844
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.539747416973114,
+      "similarities": {
+        "ContextObjective": 0.539747416973114,
+        "BenefitsAssistance": 0.5060763359069824,
+        "Eligibility": 0.5269701480865479,
+        "ApplicationProcess": 0.4755187928676605,
+        "TimelineFrequency": 0.43554192781448364,
+        "AuthoritiesGovernance": 0.5036656260490417,
+        "DefinitionsReferences": 0.44254228472709656
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana is a significant step towards achieving gender equality in Uttar Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.43761712312698364,
+      "similarities": {
+        "ContextObjective": 0.43761712312698364,
+        "BenefitsAssistance": 0.3777785003185272,
+        "Eligibility": 0.4083179831504822,
+        "ApplicationProcess": 0.3874971866607666,
+        "TimelineFrequency": 0.3445056080818176,
+        "AuthoritiesGovernance": 0.3924764096736908,
+        "DefinitionsReferences": 0.3260238766670227
+      }
+    },
+    {
+      "sentence": "It aligns with the national goals of empowering women and promoting their rights.",
+      "role": "ContextObjective",
+      "confidence": 0.481454074382782,
+      "similarities": {
+        "ContextObjective": 0.481454074382782,
+        "BenefitsAssistance": 0.3829635977745056,
+        "Eligibility": 0.419015109539032,
+        "ApplicationProcess": 0.37380826473236084,
+        "TimelineFrequency": 0.36953112483024597,
+        "AuthoritiesGovernance": 0.4322090148925781,
+        "DefinitionsReferences": 0.42123210430145264
+      }
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to social justice and welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.5485576391220093,
+      "similarities": {
+        "ContextObjective": 0.5485576391220093,
+        "BenefitsAssistance": 0.45129823684692383,
+        "Eligibility": 0.4835025668144226,
+        "ApplicationProcess": 0.4309237003326416,
+        "TimelineFrequency": 0.39543843269348145,
+        "AuthoritiesGovernance": 0.4273558259010315,
+        "DefinitionsReferences": 0.4152795374393463
+      }
+    },
+    {
+      "sentence": "As of October 2023, the Shagun Yojana remains a vital initiative for the upliftment of women in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4775434732437134,
+      "similarities": {
+        "ContextObjective": 0.4775434732437134,
+        "BenefitsAssistance": 0.3786236643791199,
+        "Eligibility": 0.41302037239074707,
+        "ApplicationProcess": 0.36842653155326843,
+        "TimelineFrequency": 0.37073320150375366,
+        "AuthoritiesGovernance": 0.3692317008972168,
+        "DefinitionsReferences": 0.344442218542099
+      }
+    },
+    {
+      "sentence": "The government encourages eligible families to take advantage of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5763503313064575,
+      "similarities": {
+        "ContextObjective": 0.5530942678451538,
+        "BenefitsAssistance": 0.5067712068557739,
+        "Eligibility": 0.5763503313064575,
+        "ApplicationProcess": 0.4976612329483032,
+        "TimelineFrequency": 0.4564092457294464,
+        "AuthoritiesGovernance": 0.4259091019630432,
+        "DefinitionsReferences": 0.4186604619026184
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana is a testament to the government's efforts to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.4685176610946655,
+      "similarities": {
+        "ContextObjective": 0.4685176610946655,
+        "BenefitsAssistance": 0.3720763921737671,
+        "Eligibility": 0.41347065567970276,
+        "ApplicationProcess": 0.38282936811447144,
+        "TimelineFrequency": 0.30681338906288147,
+        "AuthoritiesGovernance": 0.40666520595550537,
+        "DefinitionsReferences": 0.3536069989204407
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to ensure that no girl is denied the right to a dignified marriage.",
+      "role": "ContextObjective",
+      "confidence": 0.4470815658569336,
+      "similarities": {
+        "ContextObjective": 0.4470815658569336,
+        "BenefitsAssistance": 0.3339724540710449,
+        "Eligibility": 0.4429882764816284,
+        "ApplicationProcess": 0.4346518814563751,
+        "TimelineFrequency": 0.3627190887928009,
+        "AuthoritiesGovernance": 0.4092957377433777,
+        "DefinitionsReferences": 0.35838577151298523
+      }
+    },
+    {
+      "sentence": "The scheme has become a beacon of hope for many families struggling with financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5090595483779907,
+      "similarities": {
+        "ContextObjective": 0.5090595483779907,
+        "BenefitsAssistance": 0.4737326502799988,
+        "Eligibility": 0.48999109864234924,
+        "ApplicationProcess": 0.4024447798728943,
+        "TimelineFrequency": 0.37348008155822754,
+        "AuthoritiesGovernance": 0.34378907084465027,
+        "DefinitionsReferences": 0.3360011577606201
+      }
+    },
+    {
+      "sentence": "In conclusion, the Shagun Yojana is a comprehensive welfare scheme that addresses the challenges faced by families in Uttar Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.48080140352249146,
+      "similarities": {
+        "ContextObjective": 0.48080140352249146,
+        "BenefitsAssistance": 0.47791433334350586,
+        "Eligibility": 0.4707106053829193,
+        "ApplicationProcess": 0.41541337966918945,
+        "TimelineFrequency": 0.3756452202796936,
+        "AuthoritiesGovernance": 0.4251713454723358,
+        "DefinitionsReferences": 0.3302316665649414
+      }
+    },
+    {
+      "sentence": "It provides essential financial support for the marriage of daughters, thereby promoting their welfare and empowerment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4686923623085022,
+      "similarities": {
+        "ContextObjective": 0.45519644021987915,
+        "BenefitsAssistance": 0.4686923623085022,
+        "Eligibility": 0.44131505489349365,
+        "ApplicationProcess": 0.3884291648864746,
+        "TimelineFrequency": 0.3758925199508667,
+        "AuthoritiesGovernance": 0.39569467306137085,
+        "DefinitionsReferences": 0.3775871992111206
+      }
+    },
+    {
+      "sentence": "The scheme's objectives, benefits, and implementation details reflect the government's commitment to social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.5897902846336365,
+      "similarities": {
+        "ContextObjective": 0.5897902846336365,
+        "BenefitsAssistance": 0.5212875008583069,
+        "Eligibility": 0.5167616605758667,
+        "ApplicationProcess": 0.4821731746196747,
+        "TimelineFrequency": 0.4351416230201721,
+        "AuthoritiesGovernance": 0.48564839363098145,
+        "DefinitionsReferences": 0.4579799175262451
+      }
+    },
+    {
+      "sentence": "Families are encouraged to apply for the Shagun Yojana and avail of the benefits it offers.",
+      "role": "Eligibility",
+      "confidence": 0.5339206457138062,
+      "similarities": {
+        "ContextObjective": 0.4946935772895813,
+        "BenefitsAssistance": 0.4851776361465454,
+        "Eligibility": 0.5339206457138062,
+        "ApplicationProcess": 0.5263104438781738,
+        "TimelineFrequency": 0.4531729817390442,
+        "AuthoritiesGovernance": 0.389614462852478,
+        "DefinitionsReferences": 0.38844072818756104
+      }
+    },
+    {
+      "sentence": "The initiative is a significant move towards improving the status of women in society.",
+      "role": "ContextObjective",
+      "confidence": 0.45394450426101685,
+      "similarities": {
+        "ContextObjective": 0.45394450426101685,
+        "BenefitsAssistance": 0.3651837408542633,
+        "Eligibility": 0.3890959918498993,
+        "ApplicationProcess": 0.3745133876800537,
+        "TimelineFrequency": 0.3428618907928467,
+        "AuthoritiesGovernance": 0.401464581489563,
+        "DefinitionsReferences": 0.3592139482498169
+      }
+    },
+    {
+      "sentence": "The Shagun Yojana is not just a financial assistance program but a step towards changing societal norms regarding marriage and gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.46307194232940674,
+      "similarities": {
+        "ContextObjective": 0.46307194232940674,
+        "BenefitsAssistance": 0.41382530331611633,
+        "Eligibility": 0.4530211091041565,
+        "ApplicationProcess": 0.42387694120407104,
+        "TimelineFrequency": 0.37640196084976196,
+        "AuthoritiesGovernance": 0.40981370210647583,
+        "DefinitionsReferences": 0.37077951431274414
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 27,
+    "BenefitsAssistance": 12,
+    "Eligibility": 9,
+    "AuthoritiesGovernance": 2,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1
+  },
+  "processing_timestamp": "2025-09-25T20:27:23.675535"
+}

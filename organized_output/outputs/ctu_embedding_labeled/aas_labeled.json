@@ -1,0 +1,827 @@
+{
+  "scheme_name": "Ashraya Adhar Scheme",
+  "total_sentences": 58,
+  "labeled_sentences": [
+    {
+      "sentence": "The Ashraya Adhar Scheme is a welfare initiative launched by the Government of Karnataka in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5140289068222046,
+      "similarities": {
+        "ContextObjective": 0.5140289068222046,
+        "BenefitsAssistance": 0.3825976252555847,
+        "Eligibility": 0.4641284942626953,
+        "ApplicationProcess": 0.4400574564933777,
+        "TimelineFrequency": 0.376606285572052,
+        "AuthoritiesGovernance": 0.46433722972869873,
+        "DefinitionsReferences": 0.3532198369503021
+      }
+    },
+    {
+      "sentence": "It was officially launched in 2007.",
+      "role": "ContextObjective",
+      "confidence": 0.5348455905914307,
+      "similarities": {
+        "ContextObjective": 0.5348455905914307,
+        "BenefitsAssistance": 0.43302303552627563,
+        "Eligibility": 0.3982190489768982,
+        "ApplicationProcess": 0.47872793674468994,
+        "TimelineFrequency": 0.43254145979881287,
+        "AuthoritiesGovernance": 0.3860865533351898,
+        "DefinitionsReferences": 0.39086678624153137
+      }
+    },
+    {
+      "sentence": "The primary objective of the Ashraya Adhar Scheme is to provide financial assistance to individuals and families who are homeless or living in inadequate housing conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.5278067588806152,
+      "similarities": {
+        "ContextObjective": 0.5278067588806152,
+        "BenefitsAssistance": 0.45393794775009155,
+        "Eligibility": 0.4970245361328125,
+        "ApplicationProcess": 0.4447650909423828,
+        "TimelineFrequency": 0.3854024112224579,
+        "AuthoritiesGovernance": 0.4362848401069641,
+        "DefinitionsReferences": 0.3345451056957245
+      }
+    },
+    {
+      "sentence": "The scheme aims to ensure that these vulnerable groups have access to basic shelter and living facilities.",
+      "role": "Eligibility",
+      "confidence": 0.5491644144058228,
+      "similarities": {
+        "ContextObjective": 0.5266571044921875,
+        "BenefitsAssistance": 0.46773117780685425,
+        "Eligibility": 0.5491644144058228,
+        "ApplicationProcess": 0.47550883889198303,
+        "TimelineFrequency": 0.41823795437812805,
+        "AuthoritiesGovernance": 0.46393805742263794,
+        "DefinitionsReferences": 0.3902781903743744
+      }
+    },
+    {
+      "sentence": "The Karnataka government has set a target to provide housing assistance to approximately 1.5 million families under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4687653183937073,
+      "similarities": {
+        "ContextObjective": 0.44856664538383484,
+        "BenefitsAssistance": 0.4288695454597473,
+        "Eligibility": 0.4687653183937073,
+        "ApplicationProcess": 0.39219528436660767,
+        "TimelineFrequency": 0.3552390933036804,
+        "AuthoritiesGovernance": 0.3929443359375,
+        "DefinitionsReferences": 0.3293007016181946
+      }
+    },
+    {
+      "sentence": "The Ashraya Adhar Scheme is particularly focused on marginalized communities including Scheduled Castes, Scheduled Tribes, and other economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.4411218762397766,
+      "similarities": {
+        "ContextObjective": 0.4336538314819336,
+        "BenefitsAssistance": 0.3534674346446991,
+        "Eligibility": 0.4411218762397766,
+        "ApplicationProcess": 0.3444652557373047,
+        "TimelineFrequency": 0.3510991930961609,
+        "AuthoritiesGovernance": 0.40225327014923096,
+        "DefinitionsReferences": 0.34167465567588806
+      }
+    },
+    {
+      "sentence": "Beneficiaries of the scheme receive a one-time financial assistance amount of INR 1,20,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4991353452205658,
+      "similarities": {
+        "ContextObjective": 0.4251740574836731,
+        "BenefitsAssistance": 0.4991353452205658,
+        "Eligibility": 0.4774157702922821,
+        "ApplicationProcess": 0.39864104986190796,
+        "TimelineFrequency": 0.3768456280231476,
+        "AuthoritiesGovernance": 0.3862205743789673,
+        "DefinitionsReferences": 0.33400458097457886
+      }
+    },
+    {
+      "sentence": "This amount is intended to help them construct a basic house.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5183342695236206,
+      "similarities": {
+        "ContextObjective": 0.45751988887786865,
+        "BenefitsAssistance": 0.5183342695236206,
+        "Eligibility": 0.45198339223861694,
+        "ApplicationProcess": 0.448025107383728,
+        "TimelineFrequency": 0.4140525460243225,
+        "AuthoritiesGovernance": 0.41748031973838806,
+        "DefinitionsReferences": 0.4168018102645874
+      }
+    },
+    {
+      "sentence": "The assistance is provided in a phased manner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5634051561355591,
+      "similarities": {
+        "ContextObjective": 0.5416156053543091,
+        "BenefitsAssistance": 0.5634051561355591,
+        "Eligibility": 0.5227887630462646,
+        "ApplicationProcess": 0.5433616638183594,
+        "TimelineFrequency": 0.532764196395874,
+        "AuthoritiesGovernance": 0.535361647605896,
+        "DefinitionsReferences": 0.4941256046295166
+      }
+    },
+    {
+      "sentence": "The first installment of INR 50,000 is released upon approval of the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5252305269241333,
+      "similarities": {
+        "ContextObjective": 0.4571921229362488,
+        "BenefitsAssistance": 0.49184876680374146,
+        "Eligibility": 0.4884337782859802,
+        "ApplicationProcess": 0.5252305269241333,
+        "TimelineFrequency": 0.4725465774536133,
+        "AuthoritiesGovernance": 0.3851619362831116,
+        "DefinitionsReferences": 0.3774884343147278
+      }
+    },
+    {
+      "sentence": "The second installment of INR 70,000 is released after the construction of the house is verified by the concerned authorities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4449664354324341,
+      "similarities": {
+        "ContextObjective": 0.41105377674102783,
+        "BenefitsAssistance": 0.4449664354324341,
+        "Eligibility": 0.3839614987373352,
+        "ApplicationProcess": 0.4402168393135071,
+        "TimelineFrequency": 0.3496227264404297,
+        "AuthoritiesGovernance": 0.3615531623363495,
+        "DefinitionsReferences": 0.3661598563194275
+      }
+    },
+    {
+      "sentence": "To be eligible for the Ashraya Adhar Scheme, applicants must meet certain criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6548879146575928,
+      "similarities": {
+        "ContextObjective": 0.5446112155914307,
+        "BenefitsAssistance": 0.4422101378440857,
+        "Eligibility": 0.6548879146575928,
+        "ApplicationProcess": 0.6219844818115234,
+        "TimelineFrequency": 0.5372760891914368,
+        "AuthoritiesGovernance": 0.44018471240997314,
+        "DefinitionsReferences": 0.41829395294189453
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Karnataka.",
+      "role": "Eligibility",
+      "confidence": 0.6026909947395325,
+      "similarities": {
+        "ContextObjective": 0.44720935821533203,
+        "BenefitsAssistance": 0.40508970618247986,
+        "Eligibility": 0.6026909947395325,
+        "ApplicationProcess": 0.5522430539131165,
+        "TimelineFrequency": 0.49860674142837524,
+        "AuthoritiesGovernance": 0.4211108088493347,
+        "DefinitionsReferences": 0.3913903832435608
+      }
+    },
+    {
+      "sentence": "They should belong to economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.4431706964969635,
+      "similarities": {
+        "ContextObjective": 0.385628342628479,
+        "BenefitsAssistance": 0.3698018789291382,
+        "Eligibility": 0.4431706964969635,
+        "ApplicationProcess": 0.3400448262691498,
+        "TimelineFrequency": 0.3458980619907379,
+        "AuthoritiesGovernance": 0.3786166310310364,
+        "DefinitionsReferences": 0.3334372937679291
+      }
+    },
+    {
+      "sentence": "The annual income limit for eligibility is set at INR 1,00,000.",
+      "role": "Eligibility",
+      "confidence": 0.5858433842658997,
+      "similarities": {
+        "ContextObjective": 0.43981775641441345,
+        "BenefitsAssistance": 0.4925766587257385,
+        "Eligibility": 0.5858433842658997,
+        "ApplicationProcess": 0.4751877784729004,
+        "TimelineFrequency": 0.4525556266307831,
+        "AuthoritiesGovernance": 0.35255753993988037,
+        "DefinitionsReferences": 0.3657752275466919
+      }
+    },
+    {
+      "sentence": "Applicants must not own any residential property.",
+      "role": "Eligibility",
+      "confidence": 0.6025604605674744,
+      "similarities": {
+        "ContextObjective": 0.430332750082016,
+        "BenefitsAssistance": 0.40287643671035767,
+        "Eligibility": 0.6025604605674744,
+        "ApplicationProcess": 0.5498502850532532,
+        "TimelineFrequency": 0.49000686407089233,
+        "AuthoritiesGovernance": 0.3651193380355835,
+        "DefinitionsReferences": 0.38876694440841675
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is generally set at 18 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.6330159902572632,
+      "similarities": {
+        "ContextObjective": 0.4845097064971924,
+        "BenefitsAssistance": 0.4616139531135559,
+        "Eligibility": 0.6330159902572632,
+        "ApplicationProcess": 0.573424220085144,
+        "TimelineFrequency": 0.5580542683601379,
+        "AuthoritiesGovernance": 0.4223676323890686,
+        "DefinitionsReferences": 0.4298258125782013
+      }
+    },
+    {
+      "sentence": "Educational qualifications are not a mandatory requirement for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.48890334367752075,
+      "similarities": {
+        "ContextObjective": 0.4702560007572174,
+        "BenefitsAssistance": 0.40160566568374634,
+        "Eligibility": 0.48890334367752075,
+        "ApplicationProcess": 0.4584888815879822,
+        "TimelineFrequency": 0.39756929874420166,
+        "AuthoritiesGovernance": 0.35678380727767944,
+        "DefinitionsReferences": 0.3412932753562927
+      }
+    },
+    {
+      "sentence": "The application process for the Ashraya Adhar Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6845870614051819,
+      "similarities": {
+        "ContextObjective": 0.5769695043563843,
+        "BenefitsAssistance": 0.46906906366348267,
+        "Eligibility": 0.5800951719284058,
+        "ApplicationProcess": 0.6845870614051819,
+        "TimelineFrequency": 0.5590513944625854,
+        "AuthoritiesGovernance": 0.4990875720977783,
+        "DefinitionsReferences": 0.47020775079727173
+      }
+    },
+    {
+      "sentence": "Interested applicants must first obtain the application form from the local Gram Panchayat office or the Urban Local Body office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6374152302742004,
+      "similarities": {
+        "ContextObjective": 0.4590073227882385,
+        "BenefitsAssistance": 0.3973981738090515,
+        "Eligibility": 0.5172485113143921,
+        "ApplicationProcess": 0.6374152302742004,
+        "TimelineFrequency": 0.4904593527317047,
+        "AuthoritiesGovernance": 0.4409130811691284,
+        "DefinitionsReferences": 0.3827885389328003
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the Karnataka government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5960482954978943,
+      "similarities": {
+        "ContextObjective": 0.4150314927101135,
+        "BenefitsAssistance": 0.4191915690898895,
+        "Eligibility": 0.49470221996307373,
+        "ApplicationProcess": 0.5960482954978943,
+        "TimelineFrequency": 0.4737870395183563,
+        "AuthoritiesGovernance": 0.42131924629211426,
+        "DefinitionsReferences": 0.4310666620731354
+      }
+    },
+    {
+      "sentence": "Applicants must fill out the form accurately and attach the required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7070277333259583,
+      "similarities": {
+        "ContextObjective": 0.48877352476119995,
+        "BenefitsAssistance": 0.5007468461990356,
+        "Eligibility": 0.5798981189727783,
+        "ApplicationProcess": 0.7070277333259583,
+        "TimelineFrequency": 0.5515322089195251,
+        "AuthoritiesGovernance": 0.4761984348297119,
+        "DefinitionsReferences": 0.4925534129142761
+      }
+    },
+    {
+      "sentence": "Required documents typically include proof of identity such as an Aadhar card, proof of residence, and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6165149211883545,
+      "similarities": {
+        "ContextObjective": 0.46470803022384644,
+        "BenefitsAssistance": 0.5550709962844849,
+        "Eligibility": 0.5130838751792908,
+        "ApplicationProcess": 0.6165149211883545,
+        "TimelineFrequency": 0.4938095808029175,
+        "AuthoritiesGovernance": 0.44056662917137146,
+        "DefinitionsReferences": 0.5331019163131714
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the local authority for verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7229077816009521,
+      "similarities": {
+        "ContextObjective": 0.4873977601528168,
+        "BenefitsAssistance": 0.4596339762210846,
+        "Eligibility": 0.5830666422843933,
+        "ApplicationProcess": 0.7229077816009521,
+        "TimelineFrequency": 0.5632513165473938,
+        "AuthoritiesGovernance": 0.4770887792110443,
+        "DefinitionsReferences": 0.4474063515663147
+      }
+    },
+    {
+      "sentence": "The local authority will then conduct a site visit to verify the housing conditions of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6283599138259888,
+      "similarities": {
+        "ContextObjective": 0.4370556175708771,
+        "BenefitsAssistance": 0.43498069047927856,
+        "Eligibility": 0.558099627494812,
+        "ApplicationProcess": 0.6283599138259888,
+        "TimelineFrequency": 0.48491615056991577,
+        "AuthoritiesGovernance": 0.4413812756538391,
+        "DefinitionsReferences": 0.4264320433139801
+      }
+    },
+    {
+      "sentence": "After verification, the application will be approved or rejected based on eligibility criteria.",
+      "role": "ApplicationProcess",
+      "confidence": 0.701657235622406,
+      "similarities": {
+        "ContextObjective": 0.5301779508590698,
+        "BenefitsAssistance": 0.48692768812179565,
+        "Eligibility": 0.6980891227722168,
+        "ApplicationProcess": 0.701657235622406,
+        "TimelineFrequency": 0.632081151008606,
+        "AuthoritiesGovernance": 0.48523974418640137,
+        "DefinitionsReferences": 0.48502880334854126
+      }
+    },
+    {
+      "sentence": "If approved, the first installment will be disbursed to the beneficiary’s bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5781619548797607,
+      "similarities": {
+        "ContextObjective": 0.4439666271209717,
+        "BenefitsAssistance": 0.5781619548797607,
+        "Eligibility": 0.5480682849884033,
+        "ApplicationProcess": 0.5236309170722961,
+        "TimelineFrequency": 0.4843457341194153,
+        "AuthoritiesGovernance": 0.43591031432151794,
+        "DefinitionsReferences": 0.3920018672943115
+      }
+    },
+    {
+      "sentence": "The timeline for the entire application process can vary.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7355709075927734,
+      "similarities": {
+        "ContextObjective": 0.535656213760376,
+        "BenefitsAssistance": 0.5171275734901428,
+        "Eligibility": 0.622408926486969,
+        "ApplicationProcess": 0.6640193462371826,
+        "TimelineFrequency": 0.7355709075927734,
+        "AuthoritiesGovernance": 0.5098590850830078,
+        "DefinitionsReferences": 0.5026938915252686
+      }
+    },
+    {
+      "sentence": "Generally, it takes about 30 to 60 days for the application to be processed and verified.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6802982091903687,
+      "similarities": {
+        "ContextObjective": 0.4551955461502075,
+        "BenefitsAssistance": 0.471341073513031,
+        "Eligibility": 0.5498982667922974,
+        "ApplicationProcess": 0.6802982091903687,
+        "TimelineFrequency": 0.6142767667770386,
+        "AuthoritiesGovernance": 0.4461893141269684,
+        "DefinitionsReferences": 0.43929827213287354
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is done directly into the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5533084869384766,
+      "similarities": {
+        "ContextObjective": 0.43269622325897217,
+        "BenefitsAssistance": 0.5533084869384766,
+        "Eligibility": 0.5092947483062744,
+        "ApplicationProcess": 0.4350089430809021,
+        "TimelineFrequency": 0.39302289485931396,
+        "AuthoritiesGovernance": 0.44758060574531555,
+        "DefinitionsReferences": 0.3716917037963867
+      }
+    },
+    {
+      "sentence": "This ensures transparency and reduces the chances of corruption.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4602735638618469,
+      "similarities": {
+        "ContextObjective": 0.4309248626232147,
+        "BenefitsAssistance": 0.4007970690727234,
+        "Eligibility": 0.4359186589717865,
+        "ApplicationProcess": 0.4602735638618469,
+        "TimelineFrequency": 0.36717212200164795,
+        "AuthoritiesGovernance": 0.4356035888195038,
+        "DefinitionsReferences": 0.3650767207145691
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Ashraya Adhar Scheme is the Department of Rural Development and Panchayat Raj in Karnataka.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5484980344772339,
+      "similarities": {
+        "ContextObjective": 0.40225207805633545,
+        "BenefitsAssistance": 0.33556175231933594,
+        "Eligibility": 0.4437461495399475,
+        "ApplicationProcess": 0.40624940395355225,
+        "TimelineFrequency": 0.34421223402023315,
+        "AuthoritiesGovernance": 0.5484980344772339,
+        "DefinitionsReferences": 0.36292126774787903
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the implementation of the scheme and ensuring that the funds are utilized effectively.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6271573305130005,
+      "similarities": {
+        "ContextObjective": 0.5440717935562134,
+        "BenefitsAssistance": 0.4969731569290161,
+        "Eligibility": 0.518328070640564,
+        "ApplicationProcess": 0.4896603524684906,
+        "TimelineFrequency": 0.4292735457420349,
+        "AuthoritiesGovernance": 0.6271573305130005,
+        "DefinitionsReferences": 0.4178963303565979
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, beneficiaries can contact the local Panchayat office.",
+      "role": "Eligibility",
+      "confidence": 0.5121200680732727,
+      "similarities": {
+        "ContextObjective": 0.4246876835823059,
+        "BenefitsAssistance": 0.5076301693916321,
+        "Eligibility": 0.5121200680732727,
+        "ApplicationProcess": 0.4612560272216797,
+        "TimelineFrequency": 0.3795244097709656,
+        "AuthoritiesGovernance": 0.5020434856414795,
+        "DefinitionsReferences": 0.37732982635498047
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Rural Development and Panchayat Raj can be found on the official Karnataka government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4989583194255829,
+      "similarities": {
+        "ContextObjective": 0.3968580365180969,
+        "BenefitsAssistance": 0.44213202595710754,
+        "Eligibility": 0.42382103204727173,
+        "ApplicationProcess": 0.4676273465156555,
+        "TimelineFrequency": 0.38786348700523376,
+        "AuthoritiesGovernance": 0.4989583194255829,
+        "DefinitionsReferences": 0.425336092710495
+      }
+    },
+    {
+      "sentence": "The Ashraya Adhar Scheme has seen significant uptake since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5207951068878174,
+      "similarities": {
+        "ContextObjective": 0.5207951068878174,
+        "BenefitsAssistance": 0.4007265269756317,
+        "Eligibility": 0.41722017526626587,
+        "ApplicationProcess": 0.4028428792953491,
+        "TimelineFrequency": 0.36525654792785645,
+        "AuthoritiesGovernance": 0.3851270079612732,
+        "DefinitionsReferences": 0.3732717037200928
+      }
+    },
+    {
+      "sentence": "As of 2023, over 1 million families have benefited from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49481117725372314,
+      "similarities": {
+        "ContextObjective": 0.49481117725372314,
+        "BenefitsAssistance": 0.4356147050857544,
+        "Eligibility": 0.44651252031326294,
+        "ApplicationProcess": 0.37201669812202454,
+        "TimelineFrequency": 0.35599589347839355,
+        "AuthoritiesGovernance": 0.37244662642478943,
+        "DefinitionsReferences": 0.334377259016037
+      }
+    },
+    {
+      "sentence": "The scheme has played a crucial role in reducing homelessness in rural areas of Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.45127150416374207,
+      "similarities": {
+        "ContextObjective": 0.45127150416374207,
+        "BenefitsAssistance": 0.3684161305427551,
+        "Eligibility": 0.42566728591918945,
+        "ApplicationProcess": 0.37373048067092896,
+        "TimelineFrequency": 0.34142735600471497,
+        "AuthoritiesGovernance": 0.37651047110557556,
+        "DefinitionsReferences": 0.3452935814857483
+      }
+    },
+    {
+      "sentence": "It has also contributed to improving the living standards of economically weaker sections.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42726942896842957,
+      "similarities": {
+        "ContextObjective": 0.414607971906662,
+        "BenefitsAssistance": 0.42726942896842957,
+        "Eligibility": 0.3953157663345337,
+        "ApplicationProcess": 0.33870404958724976,
+        "TimelineFrequency": 0.32444119453430176,
+        "AuthoritiesGovernance": 0.38610345125198364,
+        "DefinitionsReferences": 0.35183554887771606
+      }
+    },
+    {
+      "sentence": "The government periodically reviews the scheme to assess its effectiveness and make necessary adjustments.",
+      "role": "ApplicationProcess",
+      "confidence": 0.544674277305603,
+      "similarities": {
+        "ContextObjective": 0.5168530941009521,
+        "BenefitsAssistance": 0.498859167098999,
+        "Eligibility": 0.5302679538726807,
+        "ApplicationProcess": 0.544674277305603,
+        "TimelineFrequency": 0.5234692096710205,
+        "AuthoritiesGovernance": 0.5045875906944275,
+        "DefinitionsReferences": 0.45390427112579346
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to improve the implementation process.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5704062581062317,
+      "similarities": {
+        "ContextObjective": 0.4649788737297058,
+        "BenefitsAssistance": 0.5090761184692383,
+        "Eligibility": 0.5366882085800171,
+        "ApplicationProcess": 0.4723323583602905,
+        "TimelineFrequency": 0.43142426013946533,
+        "AuthoritiesGovernance": 0.5704062581062317,
+        "DefinitionsReferences": 0.44012802839279175
+      }
+    },
+    {
+      "sentence": "The Ashraya Adhar Scheme is part of a broader initiative by the Karnataka government to provide social welfare and housing support.",
+      "role": "ContextObjective",
+      "confidence": 0.49320030212402344,
+      "similarities": {
+        "ContextObjective": 0.49320030212402344,
+        "BenefitsAssistance": 0.4433162212371826,
+        "Eligibility": 0.4471924901008606,
+        "ApplicationProcess": 0.4288314878940582,
+        "TimelineFrequency": 0.3672507405281067,
+        "AuthoritiesGovernance": 0.452690064907074,
+        "DefinitionsReferences": 0.3873009979724884
+      }
+    },
+    {
+      "sentence": "Other related schemes include the Pradhan Mantri Awas Yojana which also aims to provide housing for all.",
+      "role": "ContextObjective",
+      "confidence": 0.4783344864845276,
+      "similarities": {
+        "ContextObjective": 0.4783344864845276,
+        "BenefitsAssistance": 0.44358256459236145,
+        "Eligibility": 0.45859596133232117,
+        "ApplicationProcess": 0.40736520290374756,
+        "TimelineFrequency": 0.38704514503479004,
+        "AuthoritiesGovernance": 0.3786472678184509,
+        "DefinitionsReferences": 0.3738923668861389
+      }
+    },
+    {
+      "sentence": "The success of the Ashraya Adhar Scheme has encouraged the government to allocate more funds for housing assistance in subsequent budgets.",
+      "role": "ContextObjective",
+      "confidence": 0.45096683502197266,
+      "similarities": {
+        "ContextObjective": 0.45096683502197266,
+        "BenefitsAssistance": 0.42994725704193115,
+        "Eligibility": 0.3995928168296814,
+        "ApplicationProcess": 0.3819797933101654,
+        "TimelineFrequency": 0.36532554030418396,
+        "AuthoritiesGovernance": 0.4089803099632263,
+        "DefinitionsReferences": 0.3772256374359131
+      }
+    },
+    {
+      "sentence": "In the 2022-2023 budget, the Karnataka government allocated INR 1,500 crores for housing schemes including the Ashraya Adhar Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.430075079202652,
+      "similarities": {
+        "ContextObjective": 0.430075079202652,
+        "BenefitsAssistance": 0.42776620388031006,
+        "Eligibility": 0.41072529554367065,
+        "ApplicationProcess": 0.3742852807044983,
+        "TimelineFrequency": 0.3982939124107361,
+        "AuthoritiesGovernance": 0.40187299251556396,
+        "DefinitionsReferences": 0.34013840556144714
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also aims to empower beneficiaries by providing them with a sense of ownership and stability.",
+      "role": "ContextObjective",
+      "confidence": 0.547703206539154,
+      "similarities": {
+        "ContextObjective": 0.547703206539154,
+        "BenefitsAssistance": 0.530584454536438,
+        "Eligibility": 0.5196588039398193,
+        "ApplicationProcess": 0.4344155490398407,
+        "TimelineFrequency": 0.4007810354232788,
+        "AuthoritiesGovernance": 0.40647634863853455,
+        "DefinitionsReferences": 0.38497716188430786
+      }
+    },
+    {
+      "sentence": "The construction of a house under this scheme is expected to improve the overall quality of life for beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5115540027618408,
+      "similarities": {
+        "ContextObjective": 0.5115540027618408,
+        "BenefitsAssistance": 0.4634287357330322,
+        "Eligibility": 0.47322723269462585,
+        "ApplicationProcess": 0.42972925305366516,
+        "TimelineFrequency": 0.3834938406944275,
+        "AuthoritiesGovernance": 0.42032939195632935,
+        "DefinitionsReferences": 0.3714780807495117
+      }
+    },
+    {
+      "sentence": "It enables families to have a secure place to live, which is essential for their well-being.",
+      "role": "Eligibility",
+      "confidence": 0.44577309489250183,
+      "similarities": {
+        "ContextObjective": 0.4380829334259033,
+        "BenefitsAssistance": 0.41069716215133667,
+        "Eligibility": 0.44577309489250183,
+        "ApplicationProcess": 0.4225955009460449,
+        "TimelineFrequency": 0.3566679358482361,
+        "AuthoritiesGovernance": 0.36223262548446655,
+        "DefinitionsReferences": 0.3789530098438263
+      }
+    },
+    {
+      "sentence": "The scheme also promotes local employment as beneficiaries often hire local labor for construction.",
+      "role": "ContextObjective",
+      "confidence": 0.44812631607055664,
+      "similarities": {
+        "ContextObjective": 0.44812631607055664,
+        "BenefitsAssistance": 0.38817480206489563,
+        "Eligibility": 0.4439772367477417,
+        "ApplicationProcess": 0.37317484617233276,
+        "TimelineFrequency": 0.3619014024734497,
+        "AuthoritiesGovernance": 0.36991164088249207,
+        "DefinitionsReferences": 0.3219568729400635
+      }
+    },
+    {
+      "sentence": "This has a positive impact on the local economy.",
+      "role": "ContextObjective",
+      "confidence": 0.454814076423645,
+      "similarities": {
+        "ContextObjective": 0.454814076423645,
+        "BenefitsAssistance": 0.44662436842918396,
+        "Eligibility": 0.4350847005844116,
+        "ApplicationProcess": 0.4168476164340973,
+        "TimelineFrequency": 0.3973563313484192,
+        "AuthoritiesGovernance": 0.4082503318786621,
+        "DefinitionsReferences": 0.4064013957977295
+      }
+    },
+    {
+      "sentence": "The Ashraya Adhar Scheme is an important step towards achieving the goal of housing for all in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4921068549156189,
+      "similarities": {
+        "ContextObjective": 0.4921068549156189,
+        "BenefitsAssistance": 0.37349337339401245,
+        "Eligibility": 0.4496987462043762,
+        "ApplicationProcess": 0.43859022855758667,
+        "TimelineFrequency": 0.35242295265197754,
+        "AuthoritiesGovernance": 0.42626214027404785,
+        "DefinitionsReferences": 0.36355239152908325
+      }
+    },
+    {
+      "sentence": "The government continues to monitor the progress of the scheme and make improvements as necessary.",
+      "role": "ContextObjective",
+      "confidence": 0.4941902458667755,
+      "similarities": {
+        "ContextObjective": 0.4941902458667755,
+        "BenefitsAssistance": 0.44107556343078613,
+        "Eligibility": 0.42927825450897217,
+        "ApplicationProcess": 0.4802972376346588,
+        "TimelineFrequency": 0.404356986284256,
+        "AuthoritiesGovernance": 0.484197735786438,
+        "DefinitionsReferences": 0.4110060930252075
+      }
+    },
+    {
+      "sentence": "Overall, the Ashraya Adhar Scheme represents a significant commitment by the Karnataka government to support its most vulnerable citizens.",
+      "role": "Eligibility",
+      "confidence": 0.4299389123916626,
+      "similarities": {
+        "ContextObjective": 0.3863515853881836,
+        "BenefitsAssistance": 0.3733377754688263,
+        "Eligibility": 0.4299389123916626,
+        "ApplicationProcess": 0.38385462760925293,
+        "TimelineFrequency": 0.335227906703949,
+        "AuthoritiesGovernance": 0.36793506145477295,
+        "DefinitionsReferences": 0.3378646671772003
+      }
+    },
+    {
+      "sentence": "It aims to provide them with the basic right to shelter and improve their living conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.48923924565315247,
+      "similarities": {
+        "ContextObjective": 0.48923924565315247,
+        "BenefitsAssistance": 0.4442405700683594,
+        "Eligibility": 0.4879434108734131,
+        "ApplicationProcess": 0.4669508934020996,
+        "TimelineFrequency": 0.4007118046283722,
+        "AuthoritiesGovernance": 0.46628719568252563,
+        "DefinitionsReferences": 0.427325963973999
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's dedication to social welfare and poverty alleviation.",
+      "role": "ContextObjective",
+      "confidence": 0.5231589674949646,
+      "similarities": {
+        "ContextObjective": 0.5231589674949646,
+        "BenefitsAssistance": 0.4511773884296417,
+        "Eligibility": 0.45015788078308105,
+        "ApplicationProcess": 0.41083812713623047,
+        "TimelineFrequency": 0.3473694324493408,
+        "AuthoritiesGovernance": 0.4057835638523102,
+        "DefinitionsReferences": 0.3890772759914398
+      }
+    },
+    {
+      "sentence": "In conclusion, the Ashraya Adhar Scheme is a vital initiative that addresses the pressing issue of homelessness and inadequate housing in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4647579491138458,
+      "similarities": {
+        "ContextObjective": 0.4647579491138458,
+        "BenefitsAssistance": 0.358138769865036,
+        "Eligibility": 0.4061301052570343,
+        "ApplicationProcess": 0.39090055227279663,
+        "TimelineFrequency": 0.33869829773902893,
+        "AuthoritiesGovernance": 0.38478320837020874,
+        "DefinitionsReferences": 0.3272164463996887
+      }
+    },
+    {
+      "sentence": "It provides concrete financial assistance and aims to uplift the living standards of marginalized communities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4773116111755371,
+      "similarities": {
+        "ContextObjective": 0.47629570960998535,
+        "BenefitsAssistance": 0.4773116111755371,
+        "Eligibility": 0.45225363969802856,
+        "ApplicationProcess": 0.3670724928379059,
+        "TimelineFrequency": 0.3296864330768585,
+        "AuthoritiesGovernance": 0.3949546813964844,
+        "DefinitionsReferences": 0.3535918593406677
+      }
+    },
+    {
+      "sentence": "With ongoing support and improvements, the scheme has the potential to transform the lives of many families across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5092331171035767,
+      "similarities": {
+        "ContextObjective": 0.5092331171035767,
+        "BenefitsAssistance": 0.4394775629043579,
+        "Eligibility": 0.46132922172546387,
+        "ApplicationProcess": 0.4037961959838867,
+        "TimelineFrequency": 0.3774009644985199,
+        "AuthoritiesGovernance": 0.4234858453273773,
+        "DefinitionsReferences": 0.3873533606529236
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "Eligibility": 13,
+    "BenefitsAssistance": 8,
+    "ApplicationProcess": 12,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:31:53.843349"
+}

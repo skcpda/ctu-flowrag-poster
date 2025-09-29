@@ -1,0 +1,868 @@
+{
+  "scheme_name": "Mukhyamantri Samajik Sahayata Prakalpa - Unorganized Workers",
+  "total_sentences": 61,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mukhyamantri Samajik Sahayata Prakalpa for Unorganized Workers was launched by the Government of Madhya Pradesh on October 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.45858943462371826,
+      "similarities": {
+        "ContextObjective": 0.45858943462371826,
+        "BenefitsAssistance": 0.38742730021476746,
+        "Eligibility": 0.4259318709373474,
+        "ApplicationProcess": 0.3691146671772003,
+        "TimelineFrequency": 0.3923012614250183,
+        "AuthoritiesGovernance": 0.44218575954437256,
+        "DefinitionsReferences": 0.33194583654403687
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance and social security to unorganized workers in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48816952109336853,
+      "similarities": {
+        "ContextObjective": 0.486878901720047,
+        "BenefitsAssistance": 0.48816952109336853,
+        "Eligibility": 0.4800405502319336,
+        "ApplicationProcess": 0.4304759204387665,
+        "TimelineFrequency": 0.3848112225532532,
+        "AuthoritiesGovernance": 0.4267110526561737,
+        "DefinitionsReferences": 0.3255321979522705
+      }
+    },
+    {
+      "sentence": "The initiative recognizes the significant contribution of unorganized workers to the economy while also addressing their vulnerabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.39059579372406006,
+      "similarities": {
+        "ContextObjective": 0.33410245180130005,
+        "BenefitsAssistance": 0.39059579372406006,
+        "Eligibility": 0.3732089400291443,
+        "ApplicationProcess": 0.32985568046569824,
+        "TimelineFrequency": 0.3083822429180145,
+        "AuthoritiesGovernance": 0.3652834892272949,
+        "DefinitionsReferences": 0.31349870562553406
+      }
+    },
+    {
+      "sentence": "The primary objective of the Mukhyamantri Samajik Sahayata Prakalpa is to ensure that unorganized workers receive a monthly financial support of ₹1,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44198358058929443,
+      "similarities": {
+        "ContextObjective": 0.4314992427825928,
+        "BenefitsAssistance": 0.44198358058929443,
+        "Eligibility": 0.3921504616737366,
+        "ApplicationProcess": 0.3335362672805786,
+        "TimelineFrequency": 0.3064177334308624,
+        "AuthoritiesGovernance": 0.3740571141242981,
+        "DefinitionsReferences": 0.2803351879119873
+      }
+    },
+    {
+      "sentence": "This financial assistance is intended to help them meet their basic needs and improve their quality of life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5730795860290527,
+      "similarities": {
+        "ContextObjective": 0.4732648730278015,
+        "BenefitsAssistance": 0.5730795860290527,
+        "Eligibility": 0.5144881010055542,
+        "ApplicationProcess": 0.4549558758735657,
+        "TimelineFrequency": 0.4248088598251343,
+        "AuthoritiesGovernance": 0.4615135192871094,
+        "DefinitionsReferences": 0.4123389720916748
+      }
+    },
+    {
+      "sentence": "The scheme targets approximately 10 lakh unorganized workers across various sectors in Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.4676380157470703,
+      "similarities": {
+        "ContextObjective": 0.44264286756515503,
+        "BenefitsAssistance": 0.39927735924720764,
+        "Eligibility": 0.4676380157470703,
+        "ApplicationProcess": 0.3679269850254059,
+        "TimelineFrequency": 0.3795831799507141,
+        "AuthoritiesGovernance": 0.40314561128616333,
+        "DefinitionsReferences": 0.3433381915092468
+      }
+    },
+    {
+      "sentence": "The government aims to provide this support to workers engaged in agriculture, construction, domestic work, and other informal sectors.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4936102032661438,
+      "similarities": {
+        "ContextObjective": 0.45927587151527405,
+        "BenefitsAssistance": 0.4523317813873291,
+        "Eligibility": 0.4368792772293091,
+        "ApplicationProcess": 0.4004157781600952,
+        "TimelineFrequency": 0.3874220848083496,
+        "AuthoritiesGovernance": 0.4936102032661438,
+        "DefinitionsReferences": 0.4279312789440155
+      }
+    },
+    {
+      "sentence": "Eligibility for the scheme is defined by specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.7352197170257568,
+      "similarities": {
+        "ContextObjective": 0.66300368309021,
+        "BenefitsAssistance": 0.5610678791999817,
+        "Eligibility": 0.7352197170257568,
+        "ApplicationProcess": 0.6064792275428772,
+        "TimelineFrequency": 0.6057459115982056,
+        "AuthoritiesGovernance": 0.48143017292022705,
+        "DefinitionsReferences": 0.4914284944534302
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5896622538566589,
+      "similarities": {
+        "ContextObjective": 0.45834505558013916,
+        "BenefitsAssistance": 0.4093993902206421,
+        "Eligibility": 0.5896622538566589,
+        "ApplicationProcess": 0.5452151298522949,
+        "TimelineFrequency": 0.49028509855270386,
+        "AuthoritiesGovernance": 0.4206381142139435,
+        "DefinitionsReferences": 0.3890303373336792
+      }
+    },
+    {
+      "sentence": "They must be aged between 18 and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.5664605498313904,
+      "similarities": {
+        "ContextObjective": 0.4554288387298584,
+        "BenefitsAssistance": 0.45684289932250977,
+        "Eligibility": 0.5664605498313904,
+        "ApplicationProcess": 0.5036464333534241,
+        "TimelineFrequency": 0.4914226531982422,
+        "AuthoritiesGovernance": 0.43896013498306274,
+        "DefinitionsReferences": 0.4181792438030243
+      }
+    },
+    {
+      "sentence": "The scheme is specifically designed for unorganized workers who do not have access to social security benefits.",
+      "role": "Eligibility",
+      "confidence": 0.46325451135635376,
+      "similarities": {
+        "ContextObjective": 0.43225112557411194,
+        "BenefitsAssistance": 0.43424010276794434,
+        "Eligibility": 0.46325451135635376,
+        "ApplicationProcess": 0.4125138521194458,
+        "TimelineFrequency": 0.3915620446205139,
+        "AuthoritiesGovernance": 0.37599873542785645,
+        "DefinitionsReferences": 0.3193345069885254
+      }
+    },
+    {
+      "sentence": "Applicants must not be registered under any other government welfare scheme that provides similar benefits.",
+      "role": "Eligibility",
+      "confidence": 0.550126314163208,
+      "similarities": {
+        "ContextObjective": 0.40995872020721436,
+        "BenefitsAssistance": 0.39588963985443115,
+        "Eligibility": 0.550126314163208,
+        "ApplicationProcess": 0.4755847156047821,
+        "TimelineFrequency": 0.408765584230423,
+        "AuthoritiesGovernance": 0.38990193605422974,
+        "DefinitionsReferences": 0.3503930866718292
+      }
+    },
+    {
+      "sentence": "Income criteria have been established to ensure that the assistance reaches those who need it the most.",
+      "role": "Eligibility",
+      "confidence": 0.6218549013137817,
+      "similarities": {
+        "ContextObjective": 0.5057673454284668,
+        "BenefitsAssistance": 0.5359891057014465,
+        "Eligibility": 0.6218549013137817,
+        "ApplicationProcess": 0.47512146830558777,
+        "TimelineFrequency": 0.45052143931388855,
+        "AuthoritiesGovernance": 0.45977216958999634,
+        "DefinitionsReferences": 0.4125635325908661
+      }
+    },
+    {
+      "sentence": "The annual income of applicants should not exceed ₹1 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5681542754173279,
+      "similarities": {
+        "ContextObjective": 0.44742339849472046,
+        "BenefitsAssistance": 0.4867505729198456,
+        "Eligibility": 0.5681542754173279,
+        "ApplicationProcess": 0.5197770595550537,
+        "TimelineFrequency": 0.4629252851009369,
+        "AuthoritiesGovernance": 0.3687891662120819,
+        "DefinitionsReferences": 0.3766235113143921
+      }
+    },
+    {
+      "sentence": "This income limit is aimed at targeting the economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.519560694694519,
+      "similarities": {
+        "ContextObjective": 0.4557492733001709,
+        "BenefitsAssistance": 0.4378087818622589,
+        "Eligibility": 0.519560694694519,
+        "ApplicationProcess": 0.36916548013687134,
+        "TimelineFrequency": 0.38535237312316895,
+        "AuthoritiesGovernance": 0.37035930156707764,
+        "DefinitionsReferences": 0.34044381976127625
+      }
+    },
+    {
+      "sentence": "To apply for the Mukhyamantri Samajik Sahayata Prakalpa, individuals must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6240639686584473,
+      "similarities": {
+        "ContextObjective": 0.4794384241104126,
+        "BenefitsAssistance": 0.4052169620990753,
+        "Eligibility": 0.5825473070144653,
+        "ApplicationProcess": 0.6240639686584473,
+        "TimelineFrequency": 0.5109757781028748,
+        "AuthoritiesGovernance": 0.43833810091018677,
+        "DefinitionsReferences": 0.3888033628463745
+      }
+    },
+    {
+      "sentence": "The application can be submitted online through the official Madhya Pradesh government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6374810934066772,
+      "similarities": {
+        "ContextObjective": 0.44627636671066284,
+        "BenefitsAssistance": 0.4396199882030487,
+        "Eligibility": 0.5117199420928955,
+        "ApplicationProcess": 0.6374810934066772,
+        "TimelineFrequency": 0.4992644190788269,
+        "AuthoritiesGovernance": 0.4278828203678131,
+        "DefinitionsReferences": 0.4014734625816345
+      }
+    },
+    {
+      "sentence": "Applicants must provide necessary documents such as proof of identity, proof of residence, and proof of income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7059980034828186,
+      "similarities": {
+        "ContextObjective": 0.5018632411956787,
+        "BenefitsAssistance": 0.5708247423171997,
+        "Eligibility": 0.62187659740448,
+        "ApplicationProcess": 0.7059980034828186,
+        "TimelineFrequency": 0.5751510858535767,
+        "AuthoritiesGovernance": 0.46663492918014526,
+        "DefinitionsReferences": 0.5336838364601135
+      }
+    },
+    {
+      "sentence": "Aadhar card is mandatory for identification purposes.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5497270822525024,
+      "similarities": {
+        "ContextObjective": 0.45872068405151367,
+        "BenefitsAssistance": 0.48180025815963745,
+        "Eligibility": 0.4850870668888092,
+        "ApplicationProcess": 0.5497270822525024,
+        "TimelineFrequency": 0.44946539402008057,
+        "AuthoritiesGovernance": 0.43070167303085327,
+        "DefinitionsReferences": 0.4688805341720581
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must submit a self-declaration stating their unorganized worker status.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5416211485862732,
+      "similarities": {
+        "ContextObjective": 0.39695706963539124,
+        "BenefitsAssistance": 0.3994418978691101,
+        "Eligibility": 0.4815226197242737,
+        "ApplicationProcess": 0.5416211485862732,
+        "TimelineFrequency": 0.4471607804298401,
+        "AuthoritiesGovernance": 0.3712334632873535,
+        "DefinitionsReferences": 0.3542993664741516
+      }
+    },
+    {
+      "sentence": "The application process is designed to be user-friendly to encourage maximum participation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5973429679870605,
+      "similarities": {
+        "ContextObjective": 0.49524855613708496,
+        "BenefitsAssistance": 0.44532737135887146,
+        "Eligibility": 0.5429160594940186,
+        "ApplicationProcess": 0.5973429679870605,
+        "TimelineFrequency": 0.538967490196228,
+        "AuthoritiesGovernance": 0.43072509765625,
+        "DefinitionsReferences": 0.4025936424732208
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7513390183448792,
+      "similarities": {
+        "ContextObjective": 0.5247284173965454,
+        "BenefitsAssistance": 0.49542367458343506,
+        "Eligibility": 0.6096973419189453,
+        "ApplicationProcess": 0.7513390183448792,
+        "TimelineFrequency": 0.5764989256858826,
+        "AuthoritiesGovernance": 0.503167986869812,
+        "DefinitionsReferences": 0.517536997795105
+      }
+    },
+    {
+      "sentence": "The government has set a timeline for the disbursement of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5656797885894775,
+      "similarities": {
+        "ContextObjective": 0.5065073370933533,
+        "BenefitsAssistance": 0.5656797885894775,
+        "Eligibility": 0.5193182229995728,
+        "ApplicationProcess": 0.4751714766025543,
+        "TimelineFrequency": 0.5484111905097961,
+        "AuthoritiesGovernance": 0.5179910659790039,
+        "DefinitionsReferences": 0.43389683961868286
+      }
+    },
+    {
+      "sentence": "Financial assistance is provided on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6637465953826904,
+      "similarities": {
+        "ContextObjective": 0.514402449131012,
+        "BenefitsAssistance": 0.6637465953826904,
+        "Eligibility": 0.5685536861419678,
+        "ApplicationProcess": 0.53496253490448,
+        "TimelineFrequency": 0.562671959400177,
+        "AuthoritiesGovernance": 0.5038709044456482,
+        "DefinitionsReferences": 0.4728339910507202
+      }
+    },
+    {
+      "sentence": "Once approved, the ₹1,000 is directly credited to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5034782886505127,
+      "similarities": {
+        "ContextObjective": 0.4012734889984131,
+        "BenefitsAssistance": 0.5034782886505127,
+        "Eligibility": 0.4922826886177063,
+        "ApplicationProcess": 0.47392553091049194,
+        "TimelineFrequency": 0.38701432943344116,
+        "AuthoritiesGovernance": 0.36366766691207886,
+        "DefinitionsReferences": 0.35499680042266846
+      }
+    },
+    {
+      "sentence": "The disbursement is typically done within the first week of each month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5581535696983337,
+      "similarities": {
+        "ContextObjective": 0.4638500511646271,
+        "BenefitsAssistance": 0.5581535696983337,
+        "Eligibility": 0.4740660786628723,
+        "ApplicationProcess": 0.4456521272659302,
+        "TimelineFrequency": 0.5436482429504395,
+        "AuthoritiesGovernance": 0.457334041595459,
+        "DefinitionsReferences": 0.3983556032180786
+      }
+    },
+    {
+      "sentence": "This ensures that beneficiaries receive timely support to manage their expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6187198162078857,
+      "similarities": {
+        "ContextObjective": 0.4790424406528473,
+        "BenefitsAssistance": 0.6187198162078857,
+        "Eligibility": 0.5357204675674438,
+        "ApplicationProcess": 0.4615490436553955,
+        "TimelineFrequency": 0.5017370581626892,
+        "AuthoritiesGovernance": 0.4909271001815796,
+        "DefinitionsReferences": 0.44100695848464966
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Labour and Employment, Government of Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5730311274528503,
+      "similarities": {
+        "ContextObjective": 0.4489665627479553,
+        "BenefitsAssistance": 0.416303426027298,
+        "Eligibility": 0.4722486734390259,
+        "ApplicationProcess": 0.42736580967903137,
+        "TimelineFrequency": 0.39971038699150085,
+        "AuthoritiesGovernance": 0.5730311274528503,
+        "DefinitionsReferences": 0.4009820818901062
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and ensuring the smooth implementation of the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6114341616630554,
+      "similarities": {
+        "ContextObjective": 0.5452286005020142,
+        "BenefitsAssistance": 0.46352097392082214,
+        "Eligibility": 0.5678056478500366,
+        "ApplicationProcess": 0.6114341616630554,
+        "TimelineFrequency": 0.5099122524261475,
+        "AuthoritiesGovernance": 0.5992758274078369,
+        "DefinitionsReferences": 0.4305835962295532
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Labour and Employment can be found on the official Madhya Pradesh government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5152209997177124,
+      "similarities": {
+        "ContextObjective": 0.40322980284690857,
+        "BenefitsAssistance": 0.4810117185115814,
+        "Eligibility": 0.43750670552253723,
+        "ApplicationProcess": 0.4768248498439789,
+        "TimelineFrequency": 0.4187706410884857,
+        "AuthoritiesGovernance": 0.5152209997177124,
+        "DefinitionsReferences": 0.4513095021247864
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public, with many unorganized workers expressing gratitude for the financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4206109046936035,
+      "similarities": {
+        "ContextObjective": 0.42033398151397705,
+        "BenefitsAssistance": 0.4206109046936035,
+        "Eligibility": 0.3683302700519562,
+        "ApplicationProcess": 0.345162570476532,
+        "TimelineFrequency": 0.2840234339237213,
+        "AuthoritiesGovernance": 0.36635926365852356,
+        "DefinitionsReferences": 0.31448620557785034
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has successfully registered over 5 lakh beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.4818075895309448,
+      "similarities": {
+        "ContextObjective": 0.4818075895309448,
+        "BenefitsAssistance": 0.4242399036884308,
+        "Eligibility": 0.45069611072540283,
+        "ApplicationProcess": 0.3825884759426117,
+        "TimelineFrequency": 0.3509376645088196,
+        "AuthoritiesGovernance": 0.3457542657852173,
+        "DefinitionsReferences": 0.3389741778373718
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,200 crore for the implementation of this scheme over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.4626658856868744,
+      "similarities": {
+        "ContextObjective": 0.4626658856868744,
+        "BenefitsAssistance": 0.44877851009368896,
+        "Eligibility": 0.43254995346069336,
+        "ApplicationProcess": 0.40962135791778564,
+        "TimelineFrequency": 0.4049965739250183,
+        "AuthoritiesGovernance": 0.4483228921890259,
+        "DefinitionsReferences": 0.3609185218811035
+      }
+    },
+    {
+      "sentence": "This significant allocation underscores the government's commitment to supporting unorganized workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4300808608531952,
+      "similarities": {
+        "ContextObjective": 0.32672223448753357,
+        "BenefitsAssistance": 0.4300808608531952,
+        "Eligibility": 0.370846152305603,
+        "ApplicationProcess": 0.28696343302726746,
+        "TimelineFrequency": 0.29765433073043823,
+        "AuthoritiesGovernance": 0.3538806736469269,
+        "DefinitionsReferences": 0.33460795879364014
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Samajik Sahayata Prakalpa is part of a broader initiative to enhance social security for vulnerable populations in Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.44350969791412354,
+      "similarities": {
+        "ContextObjective": 0.440932035446167,
+        "BenefitsAssistance": 0.4333575367927551,
+        "Eligibility": 0.44350969791412354,
+        "ApplicationProcess": 0.3468572497367859,
+        "TimelineFrequency": 0.3177708387374878,
+        "AuthoritiesGovernance": 0.4014226198196411,
+        "DefinitionsReferences": 0.31666189432144165
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce poverty levels among unorganized workers by providing them with a reliable source of income.",
+      "role": "ContextObjective",
+      "confidence": 0.4968094229698181,
+      "similarities": {
+        "ContextObjective": 0.4968094229698181,
+        "BenefitsAssistance": 0.417464017868042,
+        "Eligibility": 0.4626188576221466,
+        "ApplicationProcess": 0.4198887348175049,
+        "TimelineFrequency": 0.3718617558479309,
+        "AuthoritiesGovernance": 0.4174433946609497,
+        "DefinitionsReferences": 0.33749473094940186
+      }
+    },
+    {
+      "sentence": "The government has also initiated awareness campaigns to educate potential beneficiaries about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5366895198822021,
+      "similarities": {
+        "ContextObjective": 0.5366895198822021,
+        "BenefitsAssistance": 0.4727053642272949,
+        "Eligibility": 0.5132721662521362,
+        "ApplicationProcess": 0.45185792446136475,
+        "TimelineFrequency": 0.3877813220024109,
+        "AuthoritiesGovernance": 0.44099515676498413,
+        "DefinitionsReferences": 0.38814184069633484
+      }
+    },
+    {
+      "sentence": "These campaigns are conducted through various media channels, including television, radio, and social media platforms.",
+      "role": "ContextObjective",
+      "confidence": 0.4992827773094177,
+      "similarities": {
+        "ContextObjective": 0.4992827773094177,
+        "BenefitsAssistance": 0.45139026641845703,
+        "Eligibility": 0.4515150189399719,
+        "ApplicationProcess": 0.4665811061859131,
+        "TimelineFrequency": 0.46292728185653687,
+        "AuthoritiesGovernance": 0.4818493723869324,
+        "DefinitionsReferences": 0.49632272124290466
+      }
+    },
+    {
+      "sentence": "The outreach efforts aim to ensure that eligible workers are aware of the benefits available to them.",
+      "role": "Eligibility",
+      "confidence": 0.5667755603790283,
+      "similarities": {
+        "ContextObjective": 0.49779295921325684,
+        "BenefitsAssistance": 0.5034773349761963,
+        "Eligibility": 0.5667755603790283,
+        "ApplicationProcess": 0.507169246673584,
+        "TimelineFrequency": 0.4622933864593506,
+        "AuthoritiesGovernance": 0.4933239817619324,
+        "DefinitionsReferences": 0.4186217784881592
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also aims to promote skill development among unorganized workers.",
+      "role": "ContextObjective",
+      "confidence": 0.43482375144958496,
+      "similarities": {
+        "ContextObjective": 0.43482375144958496,
+        "BenefitsAssistance": 0.4262120723724365,
+        "Eligibility": 0.40579429268836975,
+        "ApplicationProcess": 0.3673276901245117,
+        "TimelineFrequency": 0.36021798849105835,
+        "AuthoritiesGovernance": 0.3691706955432892,
+        "DefinitionsReferences": 0.3481965661048889
+      }
+    },
+    {
+      "sentence": "The government plans to organize training programs to enhance the employability of these workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5043389797210693,
+      "similarities": {
+        "ContextObjective": 0.48133188486099243,
+        "BenefitsAssistance": 0.38991081714630127,
+        "Eligibility": 0.4664875268936157,
+        "ApplicationProcess": 0.4295274615287781,
+        "TimelineFrequency": 0.43631577491760254,
+        "AuthoritiesGovernance": 0.5043389797210693,
+        "DefinitionsReferences": 0.4123055040836334
+      }
+    },
+    {
+      "sentence": "This dual approach of providing financial support and skill development is expected to empower unorganized workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44686567783355713,
+      "similarities": {
+        "ContextObjective": 0.3787609934806824,
+        "BenefitsAssistance": 0.44686567783355713,
+        "Eligibility": 0.3877525329589844,
+        "ApplicationProcess": 0.34691378474235535,
+        "TimelineFrequency": 0.3286556005477905,
+        "AuthoritiesGovernance": 0.3783624768257141,
+        "DefinitionsReferences": 0.33929818868637085
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Samajik Sahayata Prakalpa aligns with the broader goals of the Indian government to improve the livelihoods of marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.4684412479400635,
+      "similarities": {
+        "ContextObjective": 0.4684412479400635,
+        "BenefitsAssistance": 0.3833622336387634,
+        "Eligibility": 0.4152683615684509,
+        "ApplicationProcess": 0.32860493659973145,
+        "TimelineFrequency": 0.29204779863357544,
+        "AuthoritiesGovernance": 0.43855470418930054,
+        "DefinitionsReferences": 0.36765551567077637
+      }
+    },
+    {
+      "sentence": "It reflects a commitment to social justice and economic equality.",
+      "role": "ContextObjective",
+      "confidence": 0.44801169633865356,
+      "similarities": {
+        "ContextObjective": 0.44801169633865356,
+        "BenefitsAssistance": 0.40701067447662354,
+        "Eligibility": 0.4170607924461365,
+        "ApplicationProcess": 0.37319618463516235,
+        "TimelineFrequency": 0.3551192283630371,
+        "AuthoritiesGovernance": 0.3645854592323303,
+        "DefinitionsReferences": 0.39741694927215576
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to contribute to the overall economic development of Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.47689253091812134,
+      "similarities": {
+        "ContextObjective": 0.47689253091812134,
+        "BenefitsAssistance": 0.4178534150123596,
+        "Eligibility": 0.39490142464637756,
+        "ApplicationProcess": 0.3844551146030426,
+        "TimelineFrequency": 0.3550080955028534,
+        "AuthoritiesGovernance": 0.3960217833518982,
+        "DefinitionsReferences": 0.3530319631099701
+      }
+    },
+    {
+      "sentence": "By supporting unorganized workers, the government aims to stimulate local economies.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.44422683119773865,
+      "similarities": {
+        "ContextObjective": 0.4229274392127991,
+        "BenefitsAssistance": 0.38676175475120544,
+        "Eligibility": 0.3966127634048462,
+        "ApplicationProcess": 0.3517773151397705,
+        "TimelineFrequency": 0.35409557819366455,
+        "AuthoritiesGovernance": 0.44422683119773865,
+        "DefinitionsReferences": 0.34695109724998474
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme can lead to increased spending in local markets.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5059448480606079,
+      "similarities": {
+        "ContextObjective": 0.4640005826950073,
+        "BenefitsAssistance": 0.5059448480606079,
+        "Eligibility": 0.4691599905490875,
+        "ApplicationProcess": 0.39275309443473816,
+        "TimelineFrequency": 0.4001848101615906,
+        "AuthoritiesGovernance": 0.3946239650249481,
+        "DefinitionsReferences": 0.3886193037033081
+      }
+    },
+    {
+      "sentence": "This, in turn, can create a positive ripple effect on the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.44037845730781555,
+      "similarities": {
+        "ContextObjective": 0.44037845730781555,
+        "BenefitsAssistance": 0.41610705852508545,
+        "Eligibility": 0.3877677321434021,
+        "ApplicationProcess": 0.3533431887626648,
+        "TimelineFrequency": 0.3711727559566498,
+        "AuthoritiesGovernance": 0.3283511996269226,
+        "DefinitionsReferences": 0.36595141887664795
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Samajik Sahayata Prakalpa is a significant step towards addressing the challenges faced by unorganized workers in Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4118354320526123,
+      "similarities": {
+        "ContextObjective": 0.39973020553588867,
+        "BenefitsAssistance": 0.37511324882507324,
+        "Eligibility": 0.39005815982818604,
+        "ApplicationProcess": 0.3401809334754944,
+        "TimelineFrequency": 0.30405953526496887,
+        "AuthoritiesGovernance": 0.4118354320526123,
+        "DefinitionsReferences": 0.32555973529815674
+      }
+    },
+    {
+      "sentence": "It provides a safety net for those who often fall through the cracks of formal employment.",
+      "role": "Eligibility",
+      "confidence": 0.47971540689468384,
+      "similarities": {
+        "ContextObjective": 0.4404260814189911,
+        "BenefitsAssistance": 0.4776063561439514,
+        "Eligibility": 0.47971540689468384,
+        "ApplicationProcess": 0.43286949396133423,
+        "TimelineFrequency": 0.43600383400917053,
+        "AuthoritiesGovernance": 0.40354084968566895,
+        "DefinitionsReferences": 0.40290993452072144
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the importance of social security for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4911666512489319,
+      "similarities": {
+        "ContextObjective": 0.4911666512489319,
+        "BenefitsAssistance": 0.4493693709373474,
+        "Eligibility": 0.4547761082649231,
+        "ApplicationProcess": 0.40675902366638184,
+        "TimelineFrequency": 0.3593983054161072,
+        "AuthoritiesGovernance": 0.358302503824234,
+        "DefinitionsReferences": 0.37140679359436035
+      }
+    },
+    {
+      "sentence": "As the scheme continues to evolve, the government is committed to monitoring its impact and making necessary adjustments.",
+      "role": "Eligibility",
+      "confidence": 0.4861869513988495,
+      "similarities": {
+        "ContextObjective": 0.47713667154312134,
+        "BenefitsAssistance": 0.46343088150024414,
+        "Eligibility": 0.4861869513988495,
+        "ApplicationProcess": 0.4850914478302002,
+        "TimelineFrequency": 0.42836514115333557,
+        "AuthoritiesGovernance": 0.48336783051490784,
+        "DefinitionsReferences": 0.43733087182044983
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to improve the implementation process.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5830377340316772,
+      "similarities": {
+        "ContextObjective": 0.47825878858566284,
+        "BenefitsAssistance": 0.5127930641174316,
+        "Eligibility": 0.5462129712104797,
+        "ApplicationProcess": 0.5039626359939575,
+        "TimelineFrequency": 0.4504975974559784,
+        "AuthoritiesGovernance": 0.5830377340316772,
+        "DefinitionsReferences": 0.45371493697166443
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Samajik Sahayata Prakalpa is a crucial initiative that aims to uplift the lives of unorganized workers in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.43551304936408997,
+      "similarities": {
+        "ContextObjective": 0.43551304936408997,
+        "BenefitsAssistance": 0.33844321966171265,
+        "Eligibility": 0.37830740213394165,
+        "ApplicationProcess": 0.31823116540908813,
+        "TimelineFrequency": 0.2982533872127533,
+        "AuthoritiesGovernance": 0.3850198984146118,
+        "DefinitionsReferences": 0.2830315828323364
+      }
+    },
+    {
+      "sentence": "It stands as a model for similar initiatives in other states across India.",
+      "role": "ContextObjective",
+      "confidence": 0.48182064294815063,
+      "similarities": {
+        "ContextObjective": 0.48182064294815063,
+        "BenefitsAssistance": 0.3715822398662567,
+        "Eligibility": 0.44154563546180725,
+        "ApplicationProcess": 0.40796762704849243,
+        "TimelineFrequency": 0.38334813714027405,
+        "AuthoritiesGovernance": 0.4313029646873474,
+        "DefinitionsReferences": 0.44568729400634766
+      }
+    },
+    {
+      "sentence": "The scheme's focus on financial assistance and skill development is expected to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.5190738439559937,
+      "similarities": {
+        "ContextObjective": 0.5190738439559937,
+        "BenefitsAssistance": 0.45548558235168457,
+        "Eligibility": 0.46184206008911133,
+        "ApplicationProcess": 0.39416781067848206,
+        "TimelineFrequency": 0.36470645666122437,
+        "AuthoritiesGovernance": 0.4009420573711395,
+        "DefinitionsReferences": 0.3686378002166748
+      }
+    },
+    {
+      "sentence": "Overall, the Mukhyamantri Samajik Sahayata Prakalpa represents a significant advancement in the welfare of unorganized workers in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.3851136565208435,
+      "similarities": {
+        "ContextObjective": 0.3851136565208435,
+        "BenefitsAssistance": 0.38003185391426086,
+        "Eligibility": 0.35080546140670776,
+        "ApplicationProcess": 0.3072517514228821,
+        "TimelineFrequency": 0.2785823941230774,
+        "AuthoritiesGovernance": 0.3806579113006592,
+        "DefinitionsReferences": 0.326341450214386
+      }
+    },
+    {
+      "sentence": "The government remains dedicated to ensuring that the benefits reach the intended population effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.4974496364593506,
+      "similarities": {
+        "ContextObjective": 0.4974496364593506,
+        "BenefitsAssistance": 0.4435545802116394,
+        "Eligibility": 0.47171729803085327,
+        "ApplicationProcess": 0.4184795022010803,
+        "TimelineFrequency": 0.36960259079933167,
+        "AuthoritiesGovernance": 0.49551868438720703,
+        "DefinitionsReferences": 0.3914039731025696
+      }
+    },
+    {
+      "sentence": "This commitment is reflected in the ongoing efforts to enhance the scheme and expand its reach.",
+      "role": "ContextObjective",
+      "confidence": 0.5235145092010498,
+      "similarities": {
+        "ContextObjective": 0.5235145092010498,
+        "BenefitsAssistance": 0.40875545144081116,
+        "Eligibility": 0.4650004506111145,
+        "ApplicationProcess": 0.44827765226364136,
+        "TimelineFrequency": 0.40671518445014954,
+        "AuthoritiesGovernance": 0.4260959029197693,
+        "DefinitionsReferences": 0.40691977739334106
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Samajik Sahayata Prakalpa is a vital component of Madhya Pradesh's welfare landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.42929697036743164,
+      "similarities": {
+        "ContextObjective": 0.42929697036743164,
+        "BenefitsAssistance": 0.38902178406715393,
+        "Eligibility": 0.39945465326309204,
+        "ApplicationProcess": 0.3098146319389343,
+        "TimelineFrequency": 0.3017823398113251,
+        "AuthoritiesGovernance": 0.37522900104522705,
+        "DefinitionsReferences": 0.3470701575279236
+      }
+    },
+    {
+      "sentence": "It embodies the state's commitment to improving the lives of its most vulnerable citizens.",
+      "role": "Eligibility",
+      "confidence": 0.4236091375350952,
+      "similarities": {
+        "ContextObjective": 0.39795738458633423,
+        "BenefitsAssistance": 0.3719298541545868,
+        "Eligibility": 0.4236091375350952,
+        "ApplicationProcess": 0.37366312742233276,
+        "TimelineFrequency": 0.34976476430892944,
+        "AuthoritiesGovernance": 0.3906809985637665,
+        "DefinitionsReferences": 0.3412235975265503
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 19,
+    "BenefitsAssistance": 13,
+    "Eligibility": 14,
+    "AuthoritiesGovernance": 7,
+    "ApplicationProcess": 8
+  },
+  "processing_timestamp": "2025-09-24T21:06:31.398056"
+}

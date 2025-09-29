@@ -1,0 +1,869 @@
+{
+  "scheme_name": "Motorized Tricycle Yojana",
+  "total_sentences": 61,
+  "labeled_sentences": [
+    {
+      "sentence": "The Motorized Tricycle Yojana is a significant welfare scheme initiated by the Government of India to support persons with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5181470513343811,
+      "similarities": {
+        "ContextObjective": 0.5181470513343811,
+        "BenefitsAssistance": 0.4916499853134155,
+        "Eligibility": 0.510270357131958,
+        "ApplicationProcess": 0.44095778465270996,
+        "TimelineFrequency": 0.4391974210739136,
+        "AuthoritiesGovernance": 0.4658302664756775,
+        "DefinitionsReferences": 0.38637158274650574
+      }
+    },
+    {
+      "sentence": "This scheme was launched in 2008 under the Ministry of Social Justice and Empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.5749953389167786,
+      "similarities": {
+        "ContextObjective": 0.5749953389167786,
+        "BenefitsAssistance": 0.40879881381988525,
+        "Eligibility": 0.4424908757209778,
+        "ApplicationProcess": 0.42347395420074463,
+        "TimelineFrequency": 0.3792567253112793,
+        "AuthoritiesGovernance": 0.4542314410209656,
+        "DefinitionsReferences": 0.34156712889671326
+      }
+    },
+    {
+      "sentence": "The primary objective of the Motorized Tricycle Yojana is to provide mobility aids to persons with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5114052891731262,
+      "similarities": {
+        "ContextObjective": 0.5114052891731262,
+        "BenefitsAssistance": 0.4341648817062378,
+        "Eligibility": 0.46794766187667847,
+        "ApplicationProcess": 0.3818393349647522,
+        "TimelineFrequency": 0.38803377747535706,
+        "AuthoritiesGovernance": 0.4229094088077545,
+        "DefinitionsReferences": 0.35205304622650146
+      }
+    },
+    {
+      "sentence": "The scheme aims to enhance the independence and quality of life for individuals with locomotor disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5561093688011169,
+      "similarities": {
+        "ContextObjective": 0.5561093688011169,
+        "BenefitsAssistance": 0.45726722478866577,
+        "Eligibility": 0.4851778447628021,
+        "ApplicationProcess": 0.4388749897480011,
+        "TimelineFrequency": 0.4157450199127197,
+        "AuthoritiesGovernance": 0.41418319940567017,
+        "DefinitionsReferences": 0.38662171363830566
+      }
+    },
+    {
+      "sentence": "The Motorized Tricycle Yojana specifically targets individuals who are unable to walk or have severe mobility issues.",
+      "role": "Eligibility",
+      "confidence": 0.47154584527015686,
+      "similarities": {
+        "ContextObjective": 0.3804936110973358,
+        "BenefitsAssistance": 0.3874042332172394,
+        "Eligibility": 0.47154584527015686,
+        "ApplicationProcess": 0.345486044883728,
+        "TimelineFrequency": 0.3519638776779175,
+        "AuthoritiesGovernance": 0.3685978353023529,
+        "DefinitionsReferences": 0.29122304916381836
+      }
+    },
+    {
+      "sentence": "The scheme provides a motorized tricycle to eligible beneficiaries to facilitate their movement.",
+      "role": "Eligibility",
+      "confidence": 0.5026150941848755,
+      "similarities": {
+        "ContextObjective": 0.4874820113182068,
+        "BenefitsAssistance": 0.4518826901912689,
+        "Eligibility": 0.5026150941848755,
+        "ApplicationProcess": 0.4122667908668518,
+        "TimelineFrequency": 0.41403263807296753,
+        "AuthoritiesGovernance": 0.3813244700431824,
+        "DefinitionsReferences": 0.343524694442749
+      }
+    },
+    {
+      "sentence": "This assistance is crucial as it enables individuals to access education, employment, and social activities.",
+      "role": "Eligibility",
+      "confidence": 0.5224806070327759,
+      "similarities": {
+        "ContextObjective": 0.4974808692932129,
+        "BenefitsAssistance": 0.5182135105133057,
+        "Eligibility": 0.5224806070327759,
+        "ApplicationProcess": 0.48160526156425476,
+        "TimelineFrequency": 0.466284841299057,
+        "AuthoritiesGovernance": 0.45554089546203613,
+        "DefinitionsReferences": 0.4321228861808777
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is substantial.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6012060046195984,
+      "similarities": {
+        "ContextObjective": 0.5123109221458435,
+        "BenefitsAssistance": 0.6012060046195984,
+        "Eligibility": 0.516728401184082,
+        "ApplicationProcess": 0.44761961698532104,
+        "TimelineFrequency": 0.4289382994174957,
+        "AuthoritiesGovernance": 0.410407692193985,
+        "DefinitionsReferences": 0.4243030846118927
+      }
+    },
+    {
+      "sentence": "Each beneficiary is entitled to receive a subsidy of up to INR 50,000.",
+      "role": "Eligibility",
+      "confidence": 0.5429716110229492,
+      "similarities": {
+        "ContextObjective": 0.46558627486228943,
+        "BenefitsAssistance": 0.5232374668121338,
+        "Eligibility": 0.5429716110229492,
+        "ApplicationProcess": 0.43041568994522095,
+        "TimelineFrequency": 0.4259169399738312,
+        "AuthoritiesGovernance": 0.4260646104812622,
+        "DefinitionsReferences": 0.40321677923202515
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover the cost of the motorized tricycle.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5551333427429199,
+      "similarities": {
+        "ContextObjective": 0.3983675241470337,
+        "BenefitsAssistance": 0.5551333427429199,
+        "Eligibility": 0.3662644624710083,
+        "ApplicationProcess": 0.36589759588241577,
+        "TimelineFrequency": 0.39992713928222656,
+        "AuthoritiesGovernance": 0.3251969516277313,
+        "DefinitionsReferences": 0.36571604013442993
+      }
+    },
+    {
+      "sentence": "The scheme is designed to empower individuals with disabilities by providing them with the necessary tools for mobility.",
+      "role": "ContextObjective",
+      "confidence": 0.5617855787277222,
+      "similarities": {
+        "ContextObjective": 0.5617855787277222,
+        "BenefitsAssistance": 0.4649079442024231,
+        "Eligibility": 0.5267220139503479,
+        "ApplicationProcess": 0.4656760096549988,
+        "TimelineFrequency": 0.42560747265815735,
+        "AuthoritiesGovernance": 0.45323461294174194,
+        "DefinitionsReferences": 0.4033072590827942
+      }
+    },
+    {
+      "sentence": "To be eligible for the Motorized Tricycle Yojana, applicants must meet specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.6323747038841248,
+      "similarities": {
+        "ContextObjective": 0.49620378017425537,
+        "BenefitsAssistance": 0.45849359035491943,
+        "Eligibility": 0.6323747038841248,
+        "ApplicationProcess": 0.5644509792327881,
+        "TimelineFrequency": 0.5453135967254639,
+        "AuthoritiesGovernance": 0.4108799695968628,
+        "DefinitionsReferences": 0.3980347216129303
+      }
+    },
+    {
+      "sentence": "The applicant must be a resident of India.",
+      "role": "Eligibility",
+      "confidence": 0.6463309526443481,
+      "similarities": {
+        "ContextObjective": 0.5080668926239014,
+        "BenefitsAssistance": 0.4595189392566681,
+        "Eligibility": 0.6463309526443481,
+        "ApplicationProcess": 0.6234988570213318,
+        "TimelineFrequency": 0.5301551222801208,
+        "AuthoritiesGovernance": 0.4532979428768158,
+        "DefinitionsReferences": 0.4309958815574646
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is typically between 18 and 59 years.",
+      "role": "Eligibility",
+      "confidence": 0.6202869415283203,
+      "similarities": {
+        "ContextObjective": 0.4758850038051605,
+        "BenefitsAssistance": 0.4662315249443054,
+        "Eligibility": 0.6202869415283203,
+        "ApplicationProcess": 0.5792421698570251,
+        "TimelineFrequency": 0.5752001404762268,
+        "AuthoritiesGovernance": 0.4327550232410431,
+        "DefinitionsReferences": 0.41715407371520996
+      }
+    },
+    {
+      "sentence": "The applicant must possess a disability certificate issued by a competent authority.",
+      "role": "Eligibility",
+      "confidence": 0.6052888035774231,
+      "similarities": {
+        "ContextObjective": 0.4770296812057495,
+        "BenefitsAssistance": 0.49182915687561035,
+        "Eligibility": 0.6052888035774231,
+        "ApplicationProcess": 0.5885030031204224,
+        "TimelineFrequency": 0.47985219955444336,
+        "AuthoritiesGovernance": 0.46776512265205383,
+        "DefinitionsReferences": 0.4458743929862976
+      }
+    },
+    {
+      "sentence": "The disability must be certified to be at least 40 percent.",
+      "role": "Eligibility",
+      "confidence": 0.5548976063728333,
+      "similarities": {
+        "ContextObjective": 0.41886037588119507,
+        "BenefitsAssistance": 0.5117557644844055,
+        "Eligibility": 0.5548976063728333,
+        "ApplicationProcess": 0.5310165286064148,
+        "TimelineFrequency": 0.4462164640426636,
+        "AuthoritiesGovernance": 0.4195505976676941,
+        "DefinitionsReferences": 0.4177585244178772
+      }
+    },
+    {
+      "sentence": "Income criteria are also established for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.6822574138641357,
+      "similarities": {
+        "ContextObjective": 0.5440992116928101,
+        "BenefitsAssistance": 0.5831922292709351,
+        "Eligibility": 0.6822574138641357,
+        "ApplicationProcess": 0.5768261551856995,
+        "TimelineFrequency": 0.538313627243042,
+        "AuthoritiesGovernance": 0.4616452753543854,
+        "DefinitionsReferences": 0.4983331561088562
+      }
+    },
+    {
+      "sentence": "The annual income of the applicant should not exceed INR 3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5769234299659729,
+      "similarities": {
+        "ContextObjective": 0.45727163553237915,
+        "BenefitsAssistance": 0.5057284235954285,
+        "Eligibility": 0.5769234299659729,
+        "ApplicationProcess": 0.5361379384994507,
+        "TimelineFrequency": 0.4721158742904663,
+        "AuthoritiesGovernance": 0.3797202706336975,
+        "DefinitionsReferences": 0.3924439549446106
+      }
+    },
+    {
+      "sentence": "This income limit ensures that the scheme targets those who are economically disadvantaged.",
+      "role": "Eligibility",
+      "confidence": 0.5666318535804749,
+      "similarities": {
+        "ContextObjective": 0.49065539240837097,
+        "BenefitsAssistance": 0.44163835048675537,
+        "Eligibility": 0.5666318535804749,
+        "ApplicationProcess": 0.3836979568004608,
+        "TimelineFrequency": 0.3939835727214813,
+        "AuthoritiesGovernance": 0.36524534225463867,
+        "DefinitionsReferences": 0.3220873475074768
+      }
+    },
+    {
+      "sentence": "The application process for the Motorized Tricycle Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49758708477020264,
+      "similarities": {
+        "ContextObjective": 0.46440792083740234,
+        "BenefitsAssistance": 0.3948938250541687,
+        "Eligibility": 0.45552387833595276,
+        "ApplicationProcess": 0.49758708477020264,
+        "TimelineFrequency": 0.4608708620071411,
+        "AuthoritiesGovernance": 0.39360886812210083,
+        "DefinitionsReferences": 0.34768760204315186
+      }
+    },
+    {
+      "sentence": "Interested individuals must fill out the application form available at designated government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6909849643707275,
+      "similarities": {
+        "ContextObjective": 0.4932531416416168,
+        "BenefitsAssistance": 0.4789664149284363,
+        "Eligibility": 0.6141623258590698,
+        "ApplicationProcess": 0.6909849643707275,
+        "TimelineFrequency": 0.5238599181175232,
+        "AuthoritiesGovernance": 0.5011282563209534,
+        "DefinitionsReferences": 0.49037817120552063
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the Ministry of Social Justice and Empowerment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5931578874588013,
+      "similarities": {
+        "ContextObjective": 0.4618024528026581,
+        "BenefitsAssistance": 0.4229247570037842,
+        "Eligibility": 0.5128816366195679,
+        "ApplicationProcess": 0.5931578874588013,
+        "TimelineFrequency": 0.4672643840312958,
+        "AuthoritiesGovernance": 0.44770464301109314,
+        "DefinitionsReferences": 0.4257268011569977
+      }
+    },
+    {
+      "sentence": "Applicants must submit the completed form along with required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7396564483642578,
+      "similarities": {
+        "ContextObjective": 0.4901910722255707,
+        "BenefitsAssistance": 0.5347508192062378,
+        "Eligibility": 0.5945166349411011,
+        "ApplicationProcess": 0.7396564483642578,
+        "TimelineFrequency": 0.56732577085495,
+        "AuthoritiesGovernance": 0.47925689816474915,
+        "DefinitionsReferences": 0.5085694789886475
+      }
+    },
+    {
+      "sentence": "These documents typically include a disability certificate, income certificate, and proof of residence.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6145603656768799,
+      "similarities": {
+        "ContextObjective": 0.473751425743103,
+        "BenefitsAssistance": 0.6145603656768799,
+        "Eligibility": 0.5359298586845398,
+        "ApplicationProcess": 0.5950140357017517,
+        "TimelineFrequency": 0.518208920955658,
+        "AuthoritiesGovernance": 0.45285123586654663,
+        "DefinitionsReferences": 0.550681471824646
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The review process includes verification of the documents provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6672102212905884,
+      "similarities": {
+        "ContextObjective": 0.49190962314605713,
+        "BenefitsAssistance": 0.5254838466644287,
+        "Eligibility": 0.5438175201416016,
+        "ApplicationProcess": 0.6672102212905884,
+        "TimelineFrequency": 0.5299018025398254,
+        "AuthoritiesGovernance": 0.49237751960754395,
+        "DefinitionsReferences": 0.5625631809234619
+      }
+    },
+    {
+      "sentence": "If the application is approved, the beneficiary is notified.",
+      "role": "Eligibility",
+      "confidence": 0.6537104249000549,
+      "similarities": {
+        "ContextObjective": 0.5058537125587463,
+        "BenefitsAssistance": 0.5567373633384705,
+        "Eligibility": 0.6537104249000549,
+        "ApplicationProcess": 0.6226826906204224,
+        "TimelineFrequency": 0.5597212910652161,
+        "AuthoritiesGovernance": 0.4868127107620239,
+        "DefinitionsReferences": 0.42578911781311035
+      }
+    },
+    {
+      "sentence": "The motorized tricycle is then procured and delivered to the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4526561498641968,
+      "similarities": {
+        "ContextObjective": 0.40395867824554443,
+        "BenefitsAssistance": 0.4526561498641968,
+        "Eligibility": 0.4462634027004242,
+        "ApplicationProcess": 0.41258567571640015,
+        "TimelineFrequency": 0.3908689618110657,
+        "AuthoritiesGovernance": 0.36546790599823,
+        "DefinitionsReferences": 0.3373986482620239
+      }
+    },
+    {
+      "sentence": "The timeline for the entire process can vary.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6491210460662842,
+      "similarities": {
+        "ContextObjective": 0.5392578840255737,
+        "BenefitsAssistance": 0.5357199311256409,
+        "Eligibility": 0.5505601763725281,
+        "ApplicationProcess": 0.5829176306724548,
+        "TimelineFrequency": 0.6491210460662842,
+        "AuthoritiesGovernance": 0.5334447622299194,
+        "DefinitionsReferences": 0.523901104927063
+      }
+    },
+    {
+      "sentence": "Generally, it takes about 2 to 3 months from application submission to disbursement.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6021390557289124,
+      "similarities": {
+        "ContextObjective": 0.4584659934043884,
+        "BenefitsAssistance": 0.5401171445846558,
+        "Eligibility": 0.5339272022247314,
+        "ApplicationProcess": 0.5675450563430786,
+        "TimelineFrequency": 0.6021390557289124,
+        "AuthoritiesGovernance": 0.44128185510635376,
+        "DefinitionsReferences": 0.3980939984321594
+      }
+    },
+    {
+      "sentence": "The frequency of disbursement is not specified as it depends on the number of applications received.",
+      "role": "TimelineFrequency",
+      "confidence": 0.525435209274292,
+      "similarities": {
+        "ContextObjective": 0.40635743737220764,
+        "BenefitsAssistance": 0.48250237107276917,
+        "Eligibility": 0.49807244539260864,
+        "ApplicationProcess": 0.446972519159317,
+        "TimelineFrequency": 0.525435209274292,
+        "AuthoritiesGovernance": 0.4135642647743225,
+        "DefinitionsReferences": 0.33285045623779297
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Motorized Tricycle Yojana is the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5186870098114014,
+      "similarities": {
+        "ContextObjective": 0.42328155040740967,
+        "BenefitsAssistance": 0.36856406927108765,
+        "Eligibility": 0.44289958477020264,
+        "ApplicationProcess": 0.36920881271362305,
+        "TimelineFrequency": 0.3589690625667572,
+        "AuthoritiesGovernance": 0.5186870098114014,
+        "DefinitionsReferences": 0.3651682436466217
+      }
+    },
+    {
+      "sentence": "State governments also play a crucial role in the implementation of this scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5647686719894409,
+      "similarities": {
+        "ContextObjective": 0.5080933570861816,
+        "BenefitsAssistance": 0.4366004467010498,
+        "Eligibility": 0.503511369228363,
+        "ApplicationProcess": 0.4720490872859955,
+        "TimelineFrequency": 0.41085413098335266,
+        "AuthoritiesGovernance": 0.5647686719894409,
+        "DefinitionsReferences": 0.4404604732990265
+      }
+    },
+    {
+      "sentence": "They are responsible for the distribution of tricycles at the state level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4785098135471344,
+      "similarities": {
+        "ContextObjective": 0.39818936586380005,
+        "BenefitsAssistance": 0.3789733052253723,
+        "Eligibility": 0.4281036853790283,
+        "ApplicationProcess": 0.35515639185905457,
+        "TimelineFrequency": 0.39206433296203613,
+        "AuthoritiesGovernance": 0.4785098135471344,
+        "DefinitionsReferences": 0.3733067512512207
+      }
+    },
+    {
+      "sentence": "Local bodies such as district social welfare offices are involved in the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.624717652797699,
+      "similarities": {
+        "ContextObjective": 0.5194277763366699,
+        "BenefitsAssistance": 0.48654988408088684,
+        "Eligibility": 0.6151273250579834,
+        "ApplicationProcess": 0.624717652797699,
+        "TimelineFrequency": 0.5567069053649902,
+        "AuthoritiesGovernance": 0.5595285892486572,
+        "DefinitionsReferences": 0.4589581787586212
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in transforming the lives of many individuals with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5315955877304077,
+      "similarities": {
+        "ContextObjective": 0.5315955877304077,
+        "BenefitsAssistance": 0.4411981403827667,
+        "Eligibility": 0.4800582528114319,
+        "ApplicationProcess": 0.40345853567123413,
+        "TimelineFrequency": 0.3679652810096741,
+        "AuthoritiesGovernance": 0.4188803732395172,
+        "DefinitionsReferences": 0.39267152547836304
+      }
+    },
+    {
+      "sentence": "As of 2023, it is estimated that over 50,000 beneficiaries have received assistance under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49331822991371155,
+      "similarities": {
+        "ContextObjective": 0.4913182854652405,
+        "BenefitsAssistance": 0.4932461678981781,
+        "Eligibility": 0.49331822991371155,
+        "ApplicationProcess": 0.4078672528266907,
+        "TimelineFrequency": 0.3954869210720062,
+        "AuthoritiesGovernance": 0.41003912687301636,
+        "DefinitionsReferences": 0.37908533215522766
+      }
+    },
+    {
+      "sentence": "The impact of the Motorized Tricycle Yojana extends beyond mobility.",
+      "role": "Eligibility",
+      "confidence": 0.473588228225708,
+      "similarities": {
+        "ContextObjective": 0.46131235361099243,
+        "BenefitsAssistance": 0.45451319217681885,
+        "Eligibility": 0.473588228225708,
+        "ApplicationProcess": 0.3815138339996338,
+        "TimelineFrequency": 0.4022197723388672,
+        "AuthoritiesGovernance": 0.4404236078262329,
+        "DefinitionsReferences": 0.40835854411125183
+      }
+    },
+    {
+      "sentence": "It promotes social inclusion and economic independence for persons with disabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5007144808769226,
+      "similarities": {
+        "ContextObjective": 0.4644647240638733,
+        "BenefitsAssistance": 0.5007144808769226,
+        "Eligibility": 0.4671347141265869,
+        "ApplicationProcess": 0.36283060908317566,
+        "TimelineFrequency": 0.3377918303012848,
+        "AuthoritiesGovernance": 0.3638380169868469,
+        "DefinitionsReferences": 0.35694077610969543
+      }
+    },
+    {
+      "sentence": "The scheme has also raised awareness about the needs of individuals with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5351039171218872,
+      "similarities": {
+        "ContextObjective": 0.5351039171218872,
+        "BenefitsAssistance": 0.49234944581985474,
+        "Eligibility": 0.5150275230407715,
+        "ApplicationProcess": 0.4316098093986511,
+        "TimelineFrequency": 0.390921950340271,
+        "AuthoritiesGovernance": 0.4069920480251312,
+        "DefinitionsReferences": 0.3694375455379486
+      }
+    },
+    {
+      "sentence": "In addition to the financial assistance, the scheme provides technical support for the maintenance of tricycles.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5174866318702698,
+      "similarities": {
+        "ContextObjective": 0.4209800660610199,
+        "BenefitsAssistance": 0.5174866318702698,
+        "Eligibility": 0.3965384066104889,
+        "ApplicationProcess": 0.3894071578979492,
+        "TimelineFrequency": 0.42010554671287537,
+        "AuthoritiesGovernance": 0.3600870370864868,
+        "DefinitionsReferences": 0.3848620653152466
+      }
+    },
+    {
+      "sentence": "Beneficiaries are trained on how to operate and maintain their motorized tricycles.",
+      "role": "Eligibility",
+      "confidence": 0.4701279401779175,
+      "similarities": {
+        "ContextObjective": 0.43513476848602295,
+        "BenefitsAssistance": 0.46992525458335876,
+        "Eligibility": 0.4701279401779175,
+        "ApplicationProcess": 0.41356784105300903,
+        "TimelineFrequency": 0.43884915113449097,
+        "AuthoritiesGovernance": 0.43612122535705566,
+        "DefinitionsReferences": 0.4095534682273865
+      }
+    },
+    {
+      "sentence": "This training is essential for ensuring the longevity and usability of the tricycle.",
+      "role": "TimelineFrequency",
+      "confidence": 0.44277524948120117,
+      "similarities": {
+        "ContextObjective": 0.4047638773918152,
+        "BenefitsAssistance": 0.3653099536895752,
+        "Eligibility": 0.379086971282959,
+        "ApplicationProcess": 0.39914029836654663,
+        "TimelineFrequency": 0.44277524948120117,
+        "AuthoritiesGovernance": 0.3735412359237671,
+        "DefinitionsReferences": 0.37716662883758545
+      }
+    },
+    {
+      "sentence": "The Government of India continues to monitor and evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.49718528985977173,
+      "similarities": {
+        "ContextObjective": 0.49718528985977173,
+        "BenefitsAssistance": 0.44124990701675415,
+        "Eligibility": 0.4710944890975952,
+        "ApplicationProcess": 0.470048725605011,
+        "TimelineFrequency": 0.409464567899704,
+        "AuthoritiesGovernance": 0.49685633182525635,
+        "DefinitionsReferences": 0.41170626878738403
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.539747416973114,
+      "similarities": {
+        "ContextObjective": 0.539747416973114,
+        "BenefitsAssistance": 0.5060763359069824,
+        "Eligibility": 0.5269701480865479,
+        "ApplicationProcess": 0.4755187928676605,
+        "TimelineFrequency": 0.43554192781448364,
+        "AuthoritiesGovernance": 0.5036656260490417,
+        "DefinitionsReferences": 0.44254228472709656
+      }
+    },
+    {
+      "sentence": "The Motorized Tricycle Yojana is part of a broader initiative to promote the rights of persons with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.46444135904312134,
+      "similarities": {
+        "ContextObjective": 0.46444135904312134,
+        "BenefitsAssistance": 0.4291330575942993,
+        "Eligibility": 0.4643726646900177,
+        "ApplicationProcess": 0.3927631378173828,
+        "TimelineFrequency": 0.39322108030319214,
+        "AuthoritiesGovernance": 0.43979722261428833,
+        "DefinitionsReferences": 0.38069620728492737
+      }
+    },
+    {
+      "sentence": "It aligns with the Rights of Persons with Disabilities Act 2016.",
+      "role": "Eligibility",
+      "confidence": 0.49790769815444946,
+      "similarities": {
+        "ContextObjective": 0.45681172609329224,
+        "BenefitsAssistance": 0.44705459475517273,
+        "Eligibility": 0.49790769815444946,
+        "ApplicationProcess": 0.4304872155189514,
+        "TimelineFrequency": 0.38687899708747864,
+        "AuthoritiesGovernance": 0.4338842034339905,
+        "DefinitionsReferences": 0.4578484296798706
+      }
+    },
+    {
+      "sentence": "This act emphasizes the need for accessibility and inclusion in all aspects of life.",
+      "role": "Eligibility",
+      "confidence": 0.5277960300445557,
+      "similarities": {
+        "ContextObjective": 0.479583203792572,
+        "BenefitsAssistance": 0.508651852607727,
+        "Eligibility": 0.5277960300445557,
+        "ApplicationProcess": 0.4546120762825012,
+        "TimelineFrequency": 0.41996514797210693,
+        "AuthoritiesGovernance": 0.41725707054138184,
+        "DefinitionsReferences": 0.48256564140319824
+      }
+    },
+    {
+      "sentence": "The scheme also complements other government initiatives aimed at empowering marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5307623744010925,
+      "similarities": {
+        "ContextObjective": 0.5307623744010925,
+        "BenefitsAssistance": 0.4362148940563202,
+        "Eligibility": 0.4427694082260132,
+        "ApplicationProcess": 0.37808090448379517,
+        "TimelineFrequency": 0.35035139322280884,
+        "AuthoritiesGovernance": 0.44710904359817505,
+        "DefinitionsReferences": 0.4023919701576233
+      }
+    },
+    {
+      "sentence": "Overall, the Motorized Tricycle Yojana is a vital program that addresses mobility challenges faced by persons with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.49292081594467163,
+      "similarities": {
+        "ContextObjective": 0.4799599051475525,
+        "BenefitsAssistance": 0.45380550622940063,
+        "Eligibility": 0.49292081594467163,
+        "ApplicationProcess": 0.4158908724784851,
+        "TimelineFrequency": 0.4195025563240051,
+        "AuthoritiesGovernance": 0.4299317002296448,
+        "DefinitionsReferences": 0.35887160897254944
+      }
+    },
+    {
+      "sentence": "It provides them with the means to lead more independent and fulfilling lives.",
+      "role": "ContextObjective",
+      "confidence": 0.49102282524108887,
+      "similarities": {
+        "ContextObjective": 0.49102282524108887,
+        "BenefitsAssistance": 0.45029574632644653,
+        "Eligibility": 0.43065378069877625,
+        "ApplicationProcess": 0.4023403525352478,
+        "TimelineFrequency": 0.3922252655029297,
+        "AuthoritiesGovernance": 0.37487655878067017,
+        "DefinitionsReferences": 0.4075283408164978
+      }
+    },
+    {
+      "sentence": "The scheme has garnered positive feedback from beneficiaries and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.5140482783317566,
+      "similarities": {
+        "ContextObjective": 0.5140482783317566,
+        "BenefitsAssistance": 0.4667740762233734,
+        "Eligibility": 0.49527406692504883,
+        "ApplicationProcess": 0.40000033378601074,
+        "TimelineFrequency": 0.3543846607208252,
+        "AuthoritiesGovernance": 0.39839044213294983,
+        "DefinitionsReferences": 0.38005560636520386
+      }
+    },
+    {
+      "sentence": "Many have reported increased participation in community activities and improved job prospects.",
+      "role": "ContextObjective",
+      "confidence": 0.4538947343826294,
+      "similarities": {
+        "ContextObjective": 0.4538947343826294,
+        "BenefitsAssistance": 0.4052424132823944,
+        "Eligibility": 0.40976864099502563,
+        "ApplicationProcess": 0.4117799401283264,
+        "TimelineFrequency": 0.38338837027549744,
+        "AuthoritiesGovernance": 0.4036116302013397,
+        "DefinitionsReferences": 0.40268823504447937
+      }
+    },
+    {
+      "sentence": "The Government of India remains committed to enhancing the lives of persons with disabilities through such initiatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.44702646136283875,
+      "similarities": {
+        "ContextObjective": 0.4380592703819275,
+        "BenefitsAssistance": 0.4041022062301636,
+        "Eligibility": 0.4400051236152649,
+        "ApplicationProcess": 0.39184293150901794,
+        "TimelineFrequency": 0.3415828347206116,
+        "AuthoritiesGovernance": 0.44702646136283875,
+        "DefinitionsReferences": 0.39465469121932983
+      }
+    },
+    {
+      "sentence": "The Motorized Tricycle Yojana is a testament to this commitment.",
+      "role": "ContextObjective",
+      "confidence": 0.4024818241596222,
+      "similarities": {
+        "ContextObjective": 0.4024818241596222,
+        "BenefitsAssistance": 0.36254745721817017,
+        "Eligibility": 0.37070608139038086,
+        "ApplicationProcess": 0.3541487753391266,
+        "TimelineFrequency": 0.3514086902141571,
+        "AuthoritiesGovernance": 0.32706305384635925,
+        "DefinitionsReferences": 0.33732494711875916
+      }
+    },
+    {
+      "sentence": "It reflects the government's recognition of the importance of mobility for individuals with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.48278480768203735,
+      "similarities": {
+        "ContextObjective": 0.4489953815937042,
+        "BenefitsAssistance": 0.4512093961238861,
+        "Eligibility": 0.48278480768203735,
+        "ApplicationProcess": 0.42568328976631165,
+        "TimelineFrequency": 0.3880338668823242,
+        "AuthoritiesGovernance": 0.41390013694763184,
+        "DefinitionsReferences": 0.4213237166404724
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve based on the changing needs of the population it serves.",
+      "role": "ContextObjective",
+      "confidence": 0.5809213519096375,
+      "similarities": {
+        "ContextObjective": 0.5809213519096375,
+        "BenefitsAssistance": 0.45584046840667725,
+        "Eligibility": 0.5088998079299927,
+        "ApplicationProcess": 0.45231419801712036,
+        "TimelineFrequency": 0.4547986090183258,
+        "AuthoritiesGovernance": 0.4538101255893707,
+        "DefinitionsReferences": 0.40995651483535767
+      }
+    },
+    {
+      "sentence": "In conclusion, the Motorized Tricycle Yojana is a comprehensive welfare initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4540930390357971,
+      "similarities": {
+        "ContextObjective": 0.4540930390357971,
+        "BenefitsAssistance": 0.4522479474544525,
+        "Eligibility": 0.414485901594162,
+        "ApplicationProcess": 0.3923208713531494,
+        "TimelineFrequency": 0.3760963976383209,
+        "AuthoritiesGovernance": 0.4150254726409912,
+        "DefinitionsReferences": 0.34993571043014526
+      }
+    },
+    {
+      "sentence": "It provides essential support to individuals with disabilities, ensuring their right to mobility and independence.",
+      "role": "Eligibility",
+      "confidence": 0.5108356475830078,
+      "similarities": {
+        "ContextObjective": 0.4779772162437439,
+        "BenefitsAssistance": 0.5078814029693604,
+        "Eligibility": 0.5108356475830078,
+        "ApplicationProcess": 0.4440310597419739,
+        "TimelineFrequency": 0.4110944867134094,
+        "AuthoritiesGovernance": 0.450707346200943,
+        "DefinitionsReferences": 0.446247398853302
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial step towards building an inclusive society for all.",
+      "role": "ContextObjective",
+      "confidence": 0.585056722164154,
+      "similarities": {
+        "ContextObjective": 0.585056722164154,
+        "BenefitsAssistance": 0.4377775192260742,
+        "Eligibility": 0.5129823684692383,
+        "ApplicationProcess": 0.449863076210022,
+        "TimelineFrequency": 0.3884865641593933,
+        "AuthoritiesGovernance": 0.41534143686294556,
+        "DefinitionsReferences": 0.39500051736831665
+      }
+    },
+    {
+      "sentence": "Through this initiative, the Government of India aims to empower persons with disabilities and enhance their quality of life.",
+      "role": "ContextObjective",
+      "confidence": 0.49301695823669434,
+      "similarities": {
+        "ContextObjective": 0.49301695823669434,
+        "BenefitsAssistance": 0.41875985264778137,
+        "Eligibility": 0.47592705488204956,
+        "ApplicationProcess": 0.4181309938430786,
+        "TimelineFrequency": 0.3594972491264343,
+        "AuthoritiesGovernance": 0.45189380645751953,
+        "DefinitionsReferences": 0.37551116943359375
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 19,
+    "Eligibility": 21,
+    "BenefitsAssistance": 6,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 4,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-24T21:08:53.799587"
+}

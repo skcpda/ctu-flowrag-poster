@@ -1,0 +1,883 @@
+{
+  "scheme_name": "Pashu Palan Yojana (GTKVN)",
+  "total_sentences": 62,
+  "labeled_sentences": [
+    {
+      "sentence": "The Pashu Palan Yojana is a welfare scheme launched by the Government of India aimed at promoting animal husbandry and improving the livelihoods of farmers through livestock rearing.",
+      "role": "ContextObjective",
+      "confidence": 0.5383577942848206,
+      "similarities": {
+        "ContextObjective": 0.5383577942848206,
+        "BenefitsAssistance": 0.4402596056461334,
+        "Eligibility": 0.47359782457351685,
+        "ApplicationProcess": 0.4488179683685303,
+        "TimelineFrequency": 0.4199724793434143,
+        "AuthoritiesGovernance": 0.4382893443107605,
+        "DefinitionsReferences": 0.3966621160507202
+      }
+    },
+    {
+      "sentence": "This scheme was initiated under the auspices of the Government of Karnataka in the year 2018.",
+      "role": "ContextObjective",
+      "confidence": 0.5330839157104492,
+      "similarities": {
+        "ContextObjective": 0.5330839157104492,
+        "BenefitsAssistance": 0.4098413288593292,
+        "Eligibility": 0.45369991660118103,
+        "ApplicationProcess": 0.47170698642730713,
+        "TimelineFrequency": 0.41840308904647827,
+        "AuthoritiesGovernance": 0.4300665855407715,
+        "DefinitionsReferences": 0.3701801002025604
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana is specifically designed to enhance the productivity of livestock and provide financial assistance to farmers engaged in animal husbandry.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4559667408466339,
+      "similarities": {
+        "ContextObjective": 0.45162060856819153,
+        "BenefitsAssistance": 0.4559667408466339,
+        "Eligibility": 0.4288040101528168,
+        "ApplicationProcess": 0.40084636211395264,
+        "TimelineFrequency": 0.38771986961364746,
+        "AuthoritiesGovernance": 0.38751283288002014,
+        "DefinitionsReferences": 0.35543686151504517
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to increase the income of farmers by promoting the rearing of livestock.",
+      "role": "ContextObjective",
+      "confidence": 0.5562673807144165,
+      "similarities": {
+        "ContextObjective": 0.5562673807144165,
+        "BenefitsAssistance": 0.38511818647384644,
+        "Eligibility": 0.4058277904987335,
+        "ApplicationProcess": 0.3893415331840515,
+        "TimelineFrequency": 0.3580895662307739,
+        "AuthoritiesGovernance": 0.3771141469478607,
+        "DefinitionsReferences": 0.3563048243522644
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide assistance to farmers in the form of subsidies for purchasing livestock.",
+      "role": "ContextObjective",
+      "confidence": 0.5070698261260986,
+      "similarities": {
+        "ContextObjective": 0.5070698261260986,
+        "BenefitsAssistance": 0.45784229040145874,
+        "Eligibility": 0.4930674433708191,
+        "ApplicationProcess": 0.43770110607147217,
+        "TimelineFrequency": 0.4101550579071045,
+        "AuthoritiesGovernance": 0.4089132845401764,
+        "DefinitionsReferences": 0.37878209352493286
+      }
+    },
+    {
+      "sentence": "The target is to improve the overall productivity of the livestock sector in Karnataka by 20% by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.39816462993621826,
+      "similarities": {
+        "ContextObjective": 0.39816462993621826,
+        "BenefitsAssistance": 0.3348264992237091,
+        "Eligibility": 0.36125344038009644,
+        "ApplicationProcess": 0.3357548713684082,
+        "TimelineFrequency": 0.3467065095901489,
+        "AuthoritiesGovernance": 0.3604739308357239,
+        "DefinitionsReferences": 0.3098311126232147
+      }
+    },
+    {
+      "sentence": "The scheme also focuses on enhancing the quality of livestock through better breeding practices and veterinary care.",
+      "role": "ContextObjective",
+      "confidence": 0.47199055552482605,
+      "similarities": {
+        "ContextObjective": 0.47199055552482605,
+        "BenefitsAssistance": 0.3682701587677002,
+        "Eligibility": 0.3846886157989502,
+        "ApplicationProcess": 0.4116467237472534,
+        "TimelineFrequency": 0.3546261787414551,
+        "AuthoritiesGovernance": 0.3558512032032013,
+        "DefinitionsReferences": 0.37798431515693665
+      }
+    },
+    {
+      "sentence": "Farmers can receive financial assistance of up to INR 30,000 for purchasing milch animals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4646344780921936,
+      "similarities": {
+        "ContextObjective": 0.3573344647884369,
+        "BenefitsAssistance": 0.4646344780921936,
+        "Eligibility": 0.45312538743019104,
+        "ApplicationProcess": 0.37008723616600037,
+        "TimelineFrequency": 0.3477075397968292,
+        "AuthoritiesGovernance": 0.3633352518081665,
+        "DefinitionsReferences": 0.36819392442703247
+      }
+    },
+    {
+      "sentence": "For sheep and goat rearing, the scheme provides a subsidy of INR 1,500 per animal.",
+      "role": "ContextObjective",
+      "confidence": 0.42359989881515503,
+      "similarities": {
+        "ContextObjective": 0.42359989881515503,
+        "BenefitsAssistance": 0.4138031601905823,
+        "Eligibility": 0.4025893807411194,
+        "ApplicationProcess": 0.371913880109787,
+        "TimelineFrequency": 0.37367427349090576,
+        "AuthoritiesGovernance": 0.321881502866745,
+        "DefinitionsReferences": 0.3212210536003113
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana also includes provisions for providing training to farmers on best practices in animal husbandry.",
+      "role": "ContextObjective",
+      "confidence": 0.41997283697128296,
+      "similarities": {
+        "ContextObjective": 0.41997283697128296,
+        "BenefitsAssistance": 0.38057559728622437,
+        "Eligibility": 0.40416571497917175,
+        "ApplicationProcess": 0.3778142035007477,
+        "TimelineFrequency": 0.3599317669868469,
+        "AuthoritiesGovernance": 0.3833061754703522,
+        "DefinitionsReferences": 0.4113454222679138
+      }
+    },
+    {
+      "sentence": "The training programs are conducted by the Department of Animal Husbandry and Veterinary Services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48268425464630127,
+      "similarities": {
+        "ContextObjective": 0.4478347897529602,
+        "BenefitsAssistance": 0.3986177146434784,
+        "Eligibility": 0.4111189544200897,
+        "ApplicationProcess": 0.43934527039527893,
+        "TimelineFrequency": 0.42399147152900696,
+        "AuthoritiesGovernance": 0.48268425464630127,
+        "DefinitionsReferences": 0.40997546911239624
+      }
+    },
+    {
+      "sentence": "Eligibility for the Pashu Palan Yojana is primarily targeted at small and marginal farmers.",
+      "role": "Eligibility",
+      "confidence": 0.5338934659957886,
+      "similarities": {
+        "ContextObjective": 0.4386592507362366,
+        "BenefitsAssistance": 0.3796827793121338,
+        "Eligibility": 0.5338934659957886,
+        "ApplicationProcess": 0.41647693514823914,
+        "TimelineFrequency": 0.4145715832710266,
+        "AuthoritiesGovernance": 0.3596612215042114,
+        "DefinitionsReferences": 0.3216458559036255
+      }
+    },
+    {
+      "sentence": "Farmers must possess a minimum landholding of 1 acre to qualify for the benefits of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5281492471694946,
+      "similarities": {
+        "ContextObjective": 0.4630054831504822,
+        "BenefitsAssistance": 0.39753448963165283,
+        "Eligibility": 0.5281492471694946,
+        "ApplicationProcess": 0.46472036838531494,
+        "TimelineFrequency": 0.39471426606178284,
+        "AuthoritiesGovernance": 0.3614543676376343,
+        "DefinitionsReferences": 0.3485034108161926
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a minimum of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6041050553321838,
+      "similarities": {
+        "ContextObjective": 0.4702110290527344,
+        "BenefitsAssistance": 0.43510204553604126,
+        "Eligibility": 0.6041050553321838,
+        "ApplicationProcess": 0.545436680316925,
+        "TimelineFrequency": 0.5303551554679871,
+        "AuthoritiesGovernance": 0.3985854983329773,
+        "DefinitionsReferences": 0.3928983509540558
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.49370497465133667,
+      "similarities": {
+        "ContextObjective": 0.4676801264286041,
+        "BenefitsAssistance": 0.3654477000236511,
+        "Eligibility": 0.49370497465133667,
+        "ApplicationProcess": 0.46376174688339233,
+        "TimelineFrequency": 0.41034406423568726,
+        "AuthoritiesGovernance": 0.32643362879753113,
+        "DefinitionsReferences": 0.29340898990631104
+      }
+    },
+    {
+      "sentence": "Farmers must demonstrate a genuine interest in animal husbandry and have prior experience in livestock rearing.",
+      "role": "ApplicationProcess",
+      "confidence": 0.44310685992240906,
+      "similarities": {
+        "ContextObjective": 0.4402132034301758,
+        "BenefitsAssistance": 0.3312287926673889,
+        "Eligibility": 0.44036591053009033,
+        "ApplicationProcess": 0.44310685992240906,
+        "TimelineFrequency": 0.3684387803077698,
+        "AuthoritiesGovernance": 0.3263680338859558,
+        "DefinitionsReferences": 0.3563041687011719
+      }
+    },
+    {
+      "sentence": "The application process for the Pashu Palan Yojana involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6766382455825806,
+      "similarities": {
+        "ContextObjective": 0.5486791133880615,
+        "BenefitsAssistance": 0.5038080811500549,
+        "Eligibility": 0.5826784372329712,
+        "ApplicationProcess": 0.6766382455825806,
+        "TimelineFrequency": 0.5711261034011841,
+        "AuthoritiesGovernance": 0.48627421259880066,
+        "DefinitionsReferences": 0.478227436542511
+      }
+    },
+    {
+      "sentence": "Interested farmers must first visit the local office of the Department of Animal Husbandry and Veterinary Services.",
+      "role": "ApplicationProcess",
+      "confidence": 0.512623131275177,
+      "similarities": {
+        "ContextObjective": 0.40559089183807373,
+        "BenefitsAssistance": 0.3778949975967407,
+        "Eligibility": 0.4372113347053528,
+        "ApplicationProcess": 0.512623131275177,
+        "TimelineFrequency": 0.40463703870773315,
+        "AuthoritiesGovernance": 0.4183472692966461,
+        "DefinitionsReferences": 0.372697651386261
+      }
+    },
+    {
+      "sentence": "They must fill out the application form provided by the department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6956731081008911,
+      "similarities": {
+        "ContextObjective": 0.465975284576416,
+        "BenefitsAssistance": 0.4799753427505493,
+        "Eligibility": 0.5983094573020935,
+        "ApplicationProcess": 0.6956731081008911,
+        "TimelineFrequency": 0.5413477420806885,
+        "AuthoritiesGovernance": 0.5155245661735535,
+        "DefinitionsReferences": 0.45980405807495117
+      }
+    },
+    {
+      "sentence": "Required documents include proof of land ownership, identity proof, and photographs of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6684796810150146,
+      "similarities": {
+        "ContextObjective": 0.5133868455886841,
+        "BenefitsAssistance": 0.5415834188461304,
+        "Eligibility": 0.5939005613327026,
+        "ApplicationProcess": 0.6684796810150146,
+        "TimelineFrequency": 0.5444295406341553,
+        "AuthoritiesGovernance": 0.46189388632774353,
+        "DefinitionsReferences": 0.5627594590187073
+      }
+    },
+    {
+      "sentence": "Farmers must also provide a detailed plan of their livestock rearing activities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.48655515909194946,
+      "similarities": {
+        "ContextObjective": 0.47211915254592896,
+        "BenefitsAssistance": 0.4799140691757202,
+        "Eligibility": 0.4658252000808716,
+        "ApplicationProcess": 0.48655515909194946,
+        "TimelineFrequency": 0.44569098949432373,
+        "AuthoritiesGovernance": 0.43500757217407227,
+        "DefinitionsReferences": 0.4668499231338501
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the officials of the department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.66364586353302,
+      "similarities": {
+        "ContextObjective": 0.4700063169002533,
+        "BenefitsAssistance": 0.4501780569553375,
+        "Eligibility": 0.5807045102119446,
+        "ApplicationProcess": 0.66364586353302,
+        "TimelineFrequency": 0.5652837753295898,
+        "AuthoritiesGovernance": 0.561745285987854,
+        "DefinitionsReferences": 0.46562325954437256
+      }
+    },
+    {
+      "sentence": "The approval process typically takes about 30 days from the date of application submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6107145547866821,
+      "similarities": {
+        "ContextObjective": 0.43841078877449036,
+        "BenefitsAssistance": 0.43935132026672363,
+        "Eligibility": 0.5277923345565796,
+        "ApplicationProcess": 0.605601966381073,
+        "TimelineFrequency": 0.6107145547866821,
+        "AuthoritiesGovernance": 0.4544464349746704,
+        "DefinitionsReferences": 0.4321310520172119
+      }
+    },
+    {
+      "sentence": "Upon approval, the subsidy amount will be disbursed directly to the farmer's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4660378098487854,
+      "similarities": {
+        "ContextObjective": 0.3155919909477234,
+        "BenefitsAssistance": 0.4660378098487854,
+        "Eligibility": 0.41138264536857605,
+        "ApplicationProcess": 0.40983283519744873,
+        "TimelineFrequency": 0.35212236642837524,
+        "AuthoritiesGovernance": 0.35816264152526855,
+        "DefinitionsReferences": 0.2993552088737488
+      }
+    },
+    {
+      "sentence": "The disbursement is usually made within 15 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5507842302322388,
+      "similarities": {
+        "ContextObjective": 0.42098289728164673,
+        "BenefitsAssistance": 0.5507842302322388,
+        "Eligibility": 0.4774976968765259,
+        "ApplicationProcess": 0.46584266424179077,
+        "TimelineFrequency": 0.5225216150283813,
+        "AuthoritiesGovernance": 0.43118005990982056,
+        "DefinitionsReferences": 0.40375038981437683
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana is implemented by the Department of Animal Husbandry and Veterinary Services in Karnataka.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4953851103782654,
+      "similarities": {
+        "ContextObjective": 0.4380299746990204,
+        "BenefitsAssistance": 0.4220793545246124,
+        "Eligibility": 0.4493545591831207,
+        "ApplicationProcess": 0.42965567111968994,
+        "TimelineFrequency": 0.3913748264312744,
+        "AuthoritiesGovernance": 0.4953851103782654,
+        "DefinitionsReferences": 0.3834238052368164
+      }
+    },
+    {
+      "sentence": "Farmers can contact the department through their official website or local offices for any queries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5412278175354004,
+      "similarities": {
+        "ContextObjective": 0.41714686155319214,
+        "BenefitsAssistance": 0.45301008224487305,
+        "Eligibility": 0.48059892654418945,
+        "ApplicationProcess": 0.5113509893417358,
+        "TimelineFrequency": 0.41655880212783813,
+        "AuthoritiesGovernance": 0.5412278175354004,
+        "DefinitionsReferences": 0.43700283765792847
+      }
+    },
+    {
+      "sentence": "The department's contact number is 080-2221-1111 for further assistance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5090348720550537,
+      "similarities": {
+        "ContextObjective": 0.3740954101085663,
+        "BenefitsAssistance": 0.49071839451789856,
+        "Eligibility": 0.42918193340301514,
+        "ApplicationProcess": 0.45558246970176697,
+        "TimelineFrequency": 0.4080073833465576,
+        "AuthoritiesGovernance": 0.5090348720550537,
+        "DefinitionsReferences": 0.39868345856666565
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of veterinary services and health care for livestock.",
+      "role": "ContextObjective",
+      "confidence": 0.4822140336036682,
+      "similarities": {
+        "ContextObjective": 0.4822140336036682,
+        "BenefitsAssistance": 0.4452357292175293,
+        "Eligibility": 0.405642569065094,
+        "ApplicationProcess": 0.4034183621406555,
+        "TimelineFrequency": 0.3724268674850464,
+        "AuthoritiesGovernance": 0.3561355769634247,
+        "DefinitionsReferences": 0.4038981795310974
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to regularly vaccinate their animals to prevent diseases.",
+      "role": "ContextObjective",
+      "confidence": 0.40862131118774414,
+      "similarities": {
+        "ContextObjective": 0.40862131118774414,
+        "BenefitsAssistance": 0.362182080745697,
+        "Eligibility": 0.38494816422462463,
+        "ApplicationProcess": 0.3676038384437561,
+        "TimelineFrequency": 0.32934078574180603,
+        "AuthoritiesGovernance": 0.34573447704315186,
+        "DefinitionsReferences": 0.362912654876709
+      }
+    },
+    {
+      "sentence": "The government provides vaccines at subsidized rates through government veterinary hospitals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43350696563720703,
+      "similarities": {
+        "ContextObjective": 0.3798655867576599,
+        "BenefitsAssistance": 0.43350696563720703,
+        "Eligibility": 0.3863939642906189,
+        "ApplicationProcess": 0.35679465532302856,
+        "TimelineFrequency": 0.3380102515220642,
+        "AuthoritiesGovernance": 0.4056486487388611,
+        "DefinitionsReferences": 0.36396700143814087
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana also aims to create awareness about the nutritional needs of livestock.",
+      "role": "ContextObjective",
+      "confidence": 0.47563284635543823,
+      "similarities": {
+        "ContextObjective": 0.47563284635543823,
+        "BenefitsAssistance": 0.382384330034256,
+        "Eligibility": 0.42246246337890625,
+        "ApplicationProcess": 0.3941149115562439,
+        "TimelineFrequency": 0.3369399905204773,
+        "AuthoritiesGovernance": 0.346222847700119,
+        "DefinitionsReferences": 0.3258057236671448
+      }
+    },
+    {
+      "sentence": "Farmers are provided with information on balanced feed and fodder management.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5228366851806641,
+      "similarities": {
+        "ContextObjective": 0.4586320221424103,
+        "BenefitsAssistance": 0.5228366851806641,
+        "Eligibility": 0.4765513241291046,
+        "ApplicationProcess": 0.44990473985671997,
+        "TimelineFrequency": 0.4370676577091217,
+        "AuthoritiesGovernance": 0.46878036856651306,
+        "DefinitionsReferences": 0.47283053398132324
+      }
+    },
+    {
+      "sentence": "The scheme has a provision for organizing livestock fairs to promote local breeds.",
+      "role": "ContextObjective",
+      "confidence": 0.5039474964141846,
+      "similarities": {
+        "ContextObjective": 0.5039474964141846,
+        "BenefitsAssistance": 0.37247174978256226,
+        "Eligibility": 0.4892084300518036,
+        "ApplicationProcess": 0.4194791615009308,
+        "TimelineFrequency": 0.4268589913845062,
+        "AuthoritiesGovernance": 0.4057983160018921,
+        "DefinitionsReferences": 0.3806861639022827
+      }
+    },
+    {
+      "sentence": "These fairs serve as a platform for farmers to showcase their livestock and exchange knowledge.",
+      "role": "ContextObjective",
+      "confidence": 0.4185943603515625,
+      "similarities": {
+        "ContextObjective": 0.4185943603515625,
+        "BenefitsAssistance": 0.3479364514350891,
+        "Eligibility": 0.39222609996795654,
+        "ApplicationProcess": 0.3535269498825073,
+        "TimelineFrequency": 0.3612622618675232,
+        "AuthoritiesGovernance": 0.36233624815940857,
+        "DefinitionsReferences": 0.3953617215156555
+      }
+    },
+    {
+      "sentence": "The government has set a target to organize at least 10 livestock fairs annually under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4821944236755371,
+      "similarities": {
+        "ContextObjective": 0.4821944236755371,
+        "BenefitsAssistance": 0.3393445611000061,
+        "Eligibility": 0.45766615867614746,
+        "ApplicationProcess": 0.40107378363609314,
+        "TimelineFrequency": 0.42691367864608765,
+        "AuthoritiesGovernance": 0.3972049653530121,
+        "DefinitionsReferences": 0.37283945083618164
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana is part of a broader initiative to promote sustainable agriculture in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4562915563583374,
+      "similarities": {
+        "ContextObjective": 0.4562915563583374,
+        "BenefitsAssistance": 0.375837504863739,
+        "Eligibility": 0.41905999183654785,
+        "ApplicationProcess": 0.3980911672115326,
+        "TimelineFrequency": 0.36618471145629883,
+        "AuthoritiesGovernance": 0.3931744694709778,
+        "DefinitionsReferences": 0.3560640811920166
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the National Livestock Mission launched by the Government of India in 2014.",
+      "role": "ContextObjective",
+      "confidence": 0.5093867778778076,
+      "similarities": {
+        "ContextObjective": 0.5093867778778076,
+        "BenefitsAssistance": 0.3440985679626465,
+        "Eligibility": 0.43302056193351746,
+        "ApplicationProcess": 0.4068804979324341,
+        "TimelineFrequency": 0.3516102433204651,
+        "AuthoritiesGovernance": 0.3830898702144623,
+        "DefinitionsReferences": 0.33518368005752563
+      }
+    },
+    {
+      "sentence": "The National Livestock Mission aims to enhance livestock production and productivity across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4820464551448822,
+      "similarities": {
+        "ContextObjective": 0.4820464551448822,
+        "BenefitsAssistance": 0.34955936670303345,
+        "Eligibility": 0.40927422046661377,
+        "ApplicationProcess": 0.36898675560951233,
+        "TimelineFrequency": 0.35694700479507446,
+        "AuthoritiesGovernance": 0.40538549423217773,
+        "DefinitionsReferences": 0.36606061458587646
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana also contributes to the overall goal of achieving food security in India.",
+      "role": "ContextObjective",
+      "confidence": 0.47351741790771484,
+      "similarities": {
+        "ContextObjective": 0.47351741790771484,
+        "BenefitsAssistance": 0.3982431888580322,
+        "Eligibility": 0.44563835859298706,
+        "ApplicationProcess": 0.39918556809425354,
+        "TimelineFrequency": 0.34228837490081787,
+        "AuthoritiesGovernance": 0.40345698595046997,
+        "DefinitionsReferences": 0.3507313132286072
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit over 1 lakh farmers in Karnataka by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.45361512899398804,
+      "similarities": {
+        "ContextObjective": 0.45361512899398804,
+        "BenefitsAssistance": 0.38664737343788147,
+        "Eligibility": 0.4191531538963318,
+        "ApplicationProcess": 0.35735243558883667,
+        "TimelineFrequency": 0.34733879566192627,
+        "AuthoritiesGovernance": 0.3491228222846985,
+        "DefinitionsReferences": 0.300218403339386
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 100 crores for the implementation of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.48422759771347046,
+      "similarities": {
+        "ContextObjective": 0.47163963317871094,
+        "BenefitsAssistance": 0.4744125306606293,
+        "Eligibility": 0.48422759771347046,
+        "ApplicationProcess": 0.41767483949661255,
+        "TimelineFrequency": 0.3954048156738281,
+        "AuthoritiesGovernance": 0.47167345881462097,
+        "DefinitionsReferences": 0.3551675081253052
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme are conducted by the Department of Animal Husbandry.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4740520715713501,
+      "similarities": {
+        "ContextObjective": 0.4722810983657837,
+        "BenefitsAssistance": 0.4275476932525635,
+        "Eligibility": 0.44699224829673767,
+        "ApplicationProcess": 0.4740520715713501,
+        "TimelineFrequency": 0.4192047417163849,
+        "AuthoritiesGovernance": 0.4599710702896118,
+        "DefinitionsReferences": 0.39620983600616455
+      }
+    },
+    {
+      "sentence": "Regular assessments are made to ensure that the objectives of the scheme are being met.",
+      "role": "ContextObjective",
+      "confidence": 0.5717596411705017,
+      "similarities": {
+        "ContextObjective": 0.5717596411705017,
+        "BenefitsAssistance": 0.46109968423843384,
+        "Eligibility": 0.52048659324646,
+        "ApplicationProcess": 0.5347594618797302,
+        "TimelineFrequency": 0.5030832886695862,
+        "AuthoritiesGovernance": 0.49252748489379883,
+        "DefinitionsReferences": 0.4388268291950226
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana has received positive feedback from farmers who have benefited from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.44228488206863403,
+      "similarities": {
+        "ContextObjective": 0.44228488206863403,
+        "BenefitsAssistance": 0.4033350646495819,
+        "Eligibility": 0.41605058312416077,
+        "ApplicationProcess": 0.36122652888298035,
+        "TimelineFrequency": 0.3192782402038574,
+        "AuthoritiesGovernance": 0.361602246761322,
+        "DefinitionsReferences": 0.3589647710323334
+      }
+    },
+    {
+      "sentence": "Many farmers have reported an increase in their income due to improved livestock productivity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4212190508842468,
+      "similarities": {
+        "ContextObjective": 0.38994908332824707,
+        "BenefitsAssistance": 0.4212190508842468,
+        "Eligibility": 0.37179863452911377,
+        "ApplicationProcess": 0.3414157032966614,
+        "TimelineFrequency": 0.3238604664802551,
+        "AuthoritiesGovernance": 0.3299323320388794,
+        "DefinitionsReferences": 0.37988558411598206
+      }
+    },
+    {
+      "sentence": "The scheme has also contributed to rural employment generation in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4476209878921509,
+      "similarities": {
+        "ContextObjective": 0.4476209878921509,
+        "BenefitsAssistance": 0.35720622539520264,
+        "Eligibility": 0.4050678014755249,
+        "ApplicationProcess": 0.3457920551300049,
+        "TimelineFrequency": 0.33839237689971924,
+        "AuthoritiesGovernance": 0.34916195273399353,
+        "DefinitionsReferences": 0.3202891945838928
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to form cooperatives to enhance their bargaining power in the market.",
+      "role": "ContextObjective",
+      "confidence": 0.4296693503856659,
+      "similarities": {
+        "ContextObjective": 0.4296693503856659,
+        "BenefitsAssistance": 0.39206886291503906,
+        "Eligibility": 0.3994314968585968,
+        "ApplicationProcess": 0.3806600570678711,
+        "TimelineFrequency": 0.37071436643600464,
+        "AuthoritiesGovernance": 0.4027223587036133,
+        "DefinitionsReferences": 0.3823220133781433
+      }
+    },
+    {
+      "sentence": "The government provides support for the formation of these cooperatives under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5432791709899902,
+      "similarities": {
+        "ContextObjective": 0.5432791709899902,
+        "BenefitsAssistance": 0.4888150691986084,
+        "Eligibility": 0.46883177757263184,
+        "ApplicationProcess": 0.4402185082435608,
+        "TimelineFrequency": 0.40693116188049316,
+        "AuthoritiesGovernance": 0.44826701283454895,
+        "DefinitionsReferences": 0.42924368381500244
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana is a significant step towards promoting self-sufficiency in livestock production.",
+      "role": "ContextObjective",
+      "confidence": 0.4470614194869995,
+      "similarities": {
+        "ContextObjective": 0.4470614194869995,
+        "BenefitsAssistance": 0.4046841561794281,
+        "Eligibility": 0.3908824324607849,
+        "ApplicationProcess": 0.38099220395088196,
+        "TimelineFrequency": 0.3319648206233978,
+        "AuthoritiesGovernance": 0.3586355447769165,
+        "DefinitionsReferences": 0.3582550883293152
+      }
+    },
+    {
+      "sentence": "It aims to reduce dependency on external sources for meat and dairy products.",
+      "role": "ContextObjective",
+      "confidence": 0.41737979650497437,
+      "similarities": {
+        "ContextObjective": 0.41737979650497437,
+        "BenefitsAssistance": 0.37144580483436584,
+        "Eligibility": 0.41255801916122437,
+        "ApplicationProcess": 0.38035011291503906,
+        "TimelineFrequency": 0.3652239441871643,
+        "AuthoritiesGovernance": 0.4021948575973511,
+        "DefinitionsReferences": 0.3770233988761902
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the conservation of indigenous livestock breeds.",
+      "role": "ContextObjective",
+      "confidence": 0.45603084564208984,
+      "similarities": {
+        "ContextObjective": 0.45603084564208984,
+        "BenefitsAssistance": 0.3323512673377991,
+        "Eligibility": 0.3885113000869751,
+        "ApplicationProcess": 0.3670719265937805,
+        "TimelineFrequency": 0.3244309425354004,
+        "AuthoritiesGovernance": 0.314108669757843,
+        "DefinitionsReferences": 0.348432719707489
+      }
+    },
+    {
+      "sentence": "Farmers are educated about the benefits of rearing local breeds that are better adapted to the local environment.",
+      "role": "ContextObjective",
+      "confidence": 0.41837701201438904,
+      "similarities": {
+        "ContextObjective": 0.41837701201438904,
+        "BenefitsAssistance": 0.34555935859680176,
+        "Eligibility": 0.4143584370613098,
+        "ApplicationProcess": 0.3612090051174164,
+        "TimelineFrequency": 0.34035277366638184,
+        "AuthoritiesGovernance": 0.37601181864738464,
+        "DefinitionsReferences": 0.37732213735580444
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana is an integral part of the government's efforts to uplift the agricultural sector in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.4310963749885559,
+      "similarities": {
+        "ContextObjective": 0.4310963749885559,
+        "BenefitsAssistance": 0.39251476526260376,
+        "Eligibility": 0.4191742539405823,
+        "ApplicationProcess": 0.39935773611068726,
+        "TimelineFrequency": 0.3453226685523987,
+        "AuthoritiesGovernance": 0.40924614667892456,
+        "DefinitionsReferences": 0.3748844265937805
+      }
+    },
+    {
+      "sentence": "It aims to ensure that farmers are empowered and can sustain their livelihoods through animal husbandry.",
+      "role": "ContextObjective",
+      "confidence": 0.48942098021507263,
+      "similarities": {
+        "ContextObjective": 0.48942098021507263,
+        "BenefitsAssistance": 0.35811877250671387,
+        "Eligibility": 0.42346394062042236,
+        "ApplicationProcess": 0.3860880136489868,
+        "TimelineFrequency": 0.3502748906612396,
+        "AuthoritiesGovernance": 0.4272042512893677,
+        "DefinitionsReferences": 0.3700673580169678
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a lasting impact on the rural economy of Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.44150468707084656,
+      "similarities": {
+        "ContextObjective": 0.44150468707084656,
+        "BenefitsAssistance": 0.3821934759616852,
+        "Eligibility": 0.39433997869491577,
+        "ApplicationProcess": 0.33806532621383667,
+        "TimelineFrequency": 0.33792710304260254,
+        "AuthoritiesGovernance": 0.3615398705005646,
+        "DefinitionsReferences": 0.34130632877349854
+      }
+    },
+    {
+      "sentence": "Overall, the Pashu Palan Yojana represents a comprehensive approach to improving the livelihoods of farmers through livestock rearing.",
+      "role": "ContextObjective",
+      "confidence": 0.47289901971817017,
+      "similarities": {
+        "ContextObjective": 0.47289901971817017,
+        "BenefitsAssistance": 0.43907326459884644,
+        "Eligibility": 0.4187203645706177,
+        "ApplicationProcess": 0.4147224426269531,
+        "TimelineFrequency": 0.3828122317790985,
+        "AuthoritiesGovernance": 0.42472511529922485,
+        "DefinitionsReferences": 0.3941492736339569
+      }
+    },
+    {
+      "sentence": "It combines financial assistance with training and support to ensure the success of farmers in the animal husbandry sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4610109329223633,
+      "similarities": {
+        "ContextObjective": 0.4375278055667877,
+        "BenefitsAssistance": 0.4610109329223633,
+        "Eligibility": 0.42622220516204834,
+        "ApplicationProcess": 0.3998119533061981,
+        "TimelineFrequency": 0.3684760630130768,
+        "AuthoritiesGovernance": 0.3958896994590759,
+        "DefinitionsReferences": 0.3952191472053528
+      }
+    },
+    {
+      "sentence": "The initiative reflects the government's commitment to enhancing the agricultural landscape of the state.",
+      "role": "ContextObjective",
+      "confidence": 0.44895440340042114,
+      "similarities": {
+        "ContextObjective": 0.44895440340042114,
+        "BenefitsAssistance": 0.3339865207672119,
+        "Eligibility": 0.41444870829582214,
+        "ApplicationProcess": 0.38838323950767517,
+        "TimelineFrequency": 0.35001257061958313,
+        "AuthoritiesGovernance": 0.39982491731643677,
+        "DefinitionsReferences": 0.3677216172218323
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of this scheme to improve their economic conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.4761209487915039,
+      "similarities": {
+        "ContextObjective": 0.4761209487915039,
+        "BenefitsAssistance": 0.43506941199302673,
+        "Eligibility": 0.4470481276512146,
+        "ApplicationProcess": 0.40869247913360596,
+        "TimelineFrequency": 0.37734729051589966,
+        "AuthoritiesGovernance": 0.38526812195777893,
+        "DefinitionsReferences": 0.3785229027271271
+      }
+    },
+    {
+      "sentence": "The Pashu Palan Yojana is a vital component of the broader strategy to promote sustainable development in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.4740906059741974,
+      "similarities": {
+        "ContextObjective": 0.4740906059741974,
+        "BenefitsAssistance": 0.38860276341438293,
+        "Eligibility": 0.42422378063201904,
+        "ApplicationProcess": 0.4081515967845917,
+        "TimelineFrequency": 0.3835495710372925,
+        "AuthoritiesGovernance": 0.39527395367622375,
+        "DefinitionsReferences": 0.3747594356536865
+      }
+    },
+    {
+      "sentence": "By focusing on livestock, the scheme aims to create a more resilient agricultural economy in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.45556241273880005,
+      "similarities": {
+        "ContextObjective": 0.45556241273880005,
+        "BenefitsAssistance": 0.3472386598587036,
+        "Eligibility": 0.3902491331100464,
+        "ApplicationProcess": 0.34703946113586426,
+        "TimelineFrequency": 0.3335677981376648,
+        "AuthoritiesGovernance": 0.33193081617355347,
+        "DefinitionsReferences": 0.3309568464756012
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 36,
+    "BenefitsAssistance": 8,
+    "AuthoritiesGovernance": 4,
+    "Eligibility": 5,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1
+  },
+  "processing_timestamp": "2025-09-25T20:48:27.016136"
+}

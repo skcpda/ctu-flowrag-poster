@@ -1,0 +1,771 @@
+{
+  "scheme_name": "Financial Assistance for Education of Children of Registered Construction Worker",
+  "total_sentences": 54,
+  "labeled_sentences": [
+    {
+      "sentence": "The Financial Assistance for Education of Children of Registered Construction Workers is a significant welfare scheme launched by the Government of India to support the educational needs of children belonging to construction workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5562175512313843,
+      "similarities": {
+        "ContextObjective": 0.5286546945571899,
+        "BenefitsAssistance": 0.5562175512313843,
+        "Eligibility": 0.5263823866844177,
+        "ApplicationProcess": 0.4690178632736206,
+        "TimelineFrequency": 0.4612783193588257,
+        "AuthoritiesGovernance": 0.47847598791122437,
+        "DefinitionsReferences": 0.40958166122436523
+      }
+    },
+    {
+      "sentence": "This scheme was initiated in 2006 under the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996.",
+      "role": "ContextObjective",
+      "confidence": 0.4979928135871887,
+      "similarities": {
+        "ContextObjective": 0.4979928135871887,
+        "BenefitsAssistance": 0.38022682070732117,
+        "Eligibility": 0.4424165189266205,
+        "ApplicationProcess": 0.45491498708724976,
+        "TimelineFrequency": 0.41425973176956177,
+        "AuthoritiesGovernance": 0.39518439769744873,
+        "DefinitionsReferences": 0.3655785620212555
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance to the children of registered construction workers to ensure that they receive quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.5276683568954468,
+      "similarities": {
+        "ContextObjective": 0.5276683568954468,
+        "BenefitsAssistance": 0.45404964685440063,
+        "Eligibility": 0.4704858064651489,
+        "ApplicationProcess": 0.44271188974380493,
+        "TimelineFrequency": 0.41407981514930725,
+        "AuthoritiesGovernance": 0.3919069170951843,
+        "DefinitionsReferences": 0.33324384689331055
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce the dropout rates among children of construction workers by providing them with the necessary financial support for their education.",
+      "role": "ContextObjective",
+      "confidence": 0.4653167724609375,
+      "similarities": {
+        "ContextObjective": 0.4653167724609375,
+        "BenefitsAssistance": 0.4524294435977936,
+        "Eligibility": 0.4436754584312439,
+        "ApplicationProcess": 0.4061259925365448,
+        "TimelineFrequency": 0.3951321244239807,
+        "AuthoritiesGovernance": 0.37140604853630066,
+        "DefinitionsReferences": 0.3034477233886719
+      }
+    },
+    {
+      "sentence": "The assistance is specifically targeted at children studying in classes 1 to 12.",
+      "role": "Eligibility",
+      "confidence": 0.48046815395355225,
+      "similarities": {
+        "ContextObjective": 0.47531625628471375,
+        "BenefitsAssistance": 0.4628806412220001,
+        "Eligibility": 0.48046815395355225,
+        "ApplicationProcess": 0.4194212555885315,
+        "TimelineFrequency": 0.4569365978240967,
+        "AuthoritiesGovernance": 0.3736971616744995,
+        "DefinitionsReferences": 0.41116929054260254
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is a one-time grant of ₹3,000 per child per academic year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4759398400783539,
+      "similarities": {
+        "ContextObjective": 0.4364725649356842,
+        "BenefitsAssistance": 0.4759398400783539,
+        "Eligibility": 0.45471060276031494,
+        "ApplicationProcess": 0.39489632844924927,
+        "TimelineFrequency": 0.41142645478248596,
+        "AuthoritiesGovernance": 0.3453564941883087,
+        "DefinitionsReferences": 0.33199548721313477
+      }
+    },
+    {
+      "sentence": "This amount is intended to cover expenses related to school fees, books, uniforms, and other educational materials.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6140448451042175,
+      "similarities": {
+        "ContextObjective": 0.4724658131599426,
+        "BenefitsAssistance": 0.6140448451042175,
+        "Eligibility": 0.45489072799682617,
+        "ApplicationProcess": 0.4571529030799866,
+        "TimelineFrequency": 0.47944360971450806,
+        "AuthoritiesGovernance": 0.4223399758338928,
+        "DefinitionsReferences": 0.5077126026153564
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote higher education by providing additional financial assistance to children pursuing professional courses after completing their schooling.",
+      "role": "ContextObjective",
+      "confidence": 0.493654727935791,
+      "similarities": {
+        "ContextObjective": 0.493654727935791,
+        "BenefitsAssistance": 0.44607049226760864,
+        "Eligibility": 0.41642963886260986,
+        "ApplicationProcess": 0.3968721628189087,
+        "TimelineFrequency": 0.3754284977912903,
+        "AuthoritiesGovernance": 0.3164425492286682,
+        "DefinitionsReferences": 0.33290159702301025
+      }
+    },
+    {
+      "sentence": "For children pursuing professional courses, the financial assistance can go up to ₹20,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5053926706314087,
+      "similarities": {
+        "ContextObjective": 0.3844923675060272,
+        "BenefitsAssistance": 0.5053926706314087,
+        "Eligibility": 0.4437401294708252,
+        "ApplicationProcess": 0.39963147044181824,
+        "TimelineFrequency": 0.3955078125,
+        "AuthoritiesGovernance": 0.3322571814060211,
+        "DefinitionsReferences": 0.38712450861930847
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, the applicant must be a registered construction worker under the Building and Other Construction Workers Act.",
+      "role": "Eligibility",
+      "confidence": 0.575658917427063,
+      "similarities": {
+        "ContextObjective": 0.44534561038017273,
+        "BenefitsAssistance": 0.3720107674598694,
+        "Eligibility": 0.575658917427063,
+        "ApplicationProcess": 0.5497474670410156,
+        "TimelineFrequency": 0.46917492151260376,
+        "AuthoritiesGovernance": 0.3988924026489258,
+        "DefinitionsReferences": 0.3662078380584717
+      }
+    },
+    {
+      "sentence": "The worker must have a valid registration number and must have contributed to the welfare fund.",
+      "role": "Eligibility",
+      "confidence": 0.5721476078033447,
+      "similarities": {
+        "ContextObjective": 0.4354974329471588,
+        "BenefitsAssistance": 0.5110378265380859,
+        "Eligibility": 0.5721476078033447,
+        "ApplicationProcess": 0.5268404483795166,
+        "TimelineFrequency": 0.4405618906021118,
+        "AuthoritiesGovernance": 0.4427107870578766,
+        "DefinitionsReferences": 0.3961747884750366
+      }
+    },
+    {
+      "sentence": "The children of the registered construction worker must be studying in recognized schools or educational institutions.",
+      "role": "Eligibility",
+      "confidence": 0.4924543797969818,
+      "similarities": {
+        "ContextObjective": 0.40125659108161926,
+        "BenefitsAssistance": 0.38977205753326416,
+        "Eligibility": 0.4924543797969818,
+        "ApplicationProcess": 0.47807812690734863,
+        "TimelineFrequency": 0.42346036434173584,
+        "AuthoritiesGovernance": 0.3920888900756836,
+        "DefinitionsReferences": 0.4054604768753052
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for the children under this scheme as long as they are enrolled in educational institutions.",
+      "role": "Eligibility",
+      "confidence": 0.47145116329193115,
+      "similarities": {
+        "ContextObjective": 0.43199294805526733,
+        "BenefitsAssistance": 0.39229339361190796,
+        "Eligibility": 0.47145116329193115,
+        "ApplicationProcess": 0.3641898036003113,
+        "TimelineFrequency": 0.39765846729278564,
+        "AuthoritiesGovernance": 0.3692799210548401,
+        "DefinitionsReferences": 0.32312148809432983
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility is that the family income of the construction worker should not exceed ₹15,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.5220866799354553,
+      "similarities": {
+        "ContextObjective": 0.384922593832016,
+        "BenefitsAssistance": 0.4556408226490021,
+        "Eligibility": 0.5220866799354553,
+        "ApplicationProcess": 0.4578501880168915,
+        "TimelineFrequency": 0.4135509729385376,
+        "AuthoritiesGovernance": 0.3156766891479492,
+        "DefinitionsReferences": 0.3328019976615906
+      }
+    },
+    {
+      "sentence": "The application process for this scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7485771179199219,
+      "similarities": {
+        "ContextObjective": 0.6369970440864563,
+        "BenefitsAssistance": 0.5503419637680054,
+        "Eligibility": 0.6417357921600342,
+        "ApplicationProcess": 0.7485771179199219,
+        "TimelineFrequency": 0.6458121538162231,
+        "AuthoritiesGovernance": 0.5270659923553467,
+        "DefinitionsReferences": 0.514946699142456
+      }
+    },
+    {
+      "sentence": "First, the registered construction worker must obtain an application form from the local Labour Department office or the official website of the respective state government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6562246084213257,
+      "similarities": {
+        "ContextObjective": 0.44348394870758057,
+        "BenefitsAssistance": 0.4318269193172455,
+        "Eligibility": 0.519074022769928,
+        "ApplicationProcess": 0.6562246084213257,
+        "TimelineFrequency": 0.5155278444290161,
+        "AuthoritiesGovernance": 0.4816785454750061,
+        "DefinitionsReferences": 0.42738229036331177
+      }
+    },
+    {
+      "sentence": "The applicant must fill out the form with accurate details including the name of the child, age, school details, and the registration number of the construction worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.612282395362854,
+      "similarities": {
+        "ContextObjective": 0.4242274761199951,
+        "BenefitsAssistance": 0.4787657856941223,
+        "Eligibility": 0.5146780014038086,
+        "ApplicationProcess": 0.612282395362854,
+        "TimelineFrequency": 0.4943873882293701,
+        "AuthoritiesGovernance": 0.395420640707016,
+        "DefinitionsReferences": 0.43890804052352905
+      }
+    },
+    {
+      "sentence": "The applicant must also provide proof of the child’s enrollment in school, such as a school admission certificate or a fee receipt.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6232142448425293,
+      "similarities": {
+        "ContextObjective": 0.4501306712627411,
+        "BenefitsAssistance": 0.5381479263305664,
+        "Eligibility": 0.5291591286659241,
+        "ApplicationProcess": 0.6232142448425293,
+        "TimelineFrequency": 0.5325869917869568,
+        "AuthoritiesGovernance": 0.3788394033908844,
+        "DefinitionsReferences": 0.4604647159576416
+      }
+    },
+    {
+      "sentence": "Additionally, the applicant needs to submit a copy of the construction worker's registration certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.603626012802124,
+      "similarities": {
+        "ContextObjective": 0.383449912071228,
+        "BenefitsAssistance": 0.4108898639678955,
+        "Eligibility": 0.4855327606201172,
+        "ApplicationProcess": 0.603626012802124,
+        "TimelineFrequency": 0.4749768376350403,
+        "AuthoritiesGovernance": 0.3688487708568573,
+        "DefinitionsReferences": 0.4053668975830078
+      }
+    },
+    {
+      "sentence": "Once the application form is completed, it must be submitted to the Labour Department along with all required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6472485065460205,
+      "similarities": {
+        "ContextObjective": 0.42502933740615845,
+        "BenefitsAssistance": 0.4721798896789551,
+        "Eligibility": 0.49674922227859497,
+        "ApplicationProcess": 0.6472485065460205,
+        "TimelineFrequency": 0.49914705753326416,
+        "AuthoritiesGovernance": 0.4592921733856201,
+        "DefinitionsReferences": 0.4520712196826935
+      }
+    },
+    {
+      "sentence": "The Labour Department will then verify the application and documents provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6554074287414551,
+      "similarities": {
+        "ContextObjective": 0.45500844717025757,
+        "BenefitsAssistance": 0.5009620189666748,
+        "Eligibility": 0.5230789184570312,
+        "ApplicationProcess": 0.6554074287414551,
+        "TimelineFrequency": 0.525595486164093,
+        "AuthoritiesGovernance": 0.47831252217292786,
+        "DefinitionsReferences": 0.48350921273231506
+      }
+    },
+    {
+      "sentence": "The processing time for the application is typically around 30 days from the date of submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6318181753158569,
+      "similarities": {
+        "ContextObjective": 0.45970618724823,
+        "BenefitsAssistance": 0.4553767144680023,
+        "Eligibility": 0.5447535514831543,
+        "ApplicationProcess": 0.6090848445892334,
+        "TimelineFrequency": 0.6318181753158569,
+        "AuthoritiesGovernance": 0.45032671093940735,
+        "DefinitionsReferences": 0.4342596232891083
+      }
+    },
+    {
+      "sentence": "Once approved, the financial assistance is disbursed directly to the bank account of the registered construction worker.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4960029423236847,
+      "similarities": {
+        "ContextObjective": 0.3099597096443176,
+        "BenefitsAssistance": 0.4960029423236847,
+        "Eligibility": 0.4236101806163788,
+        "ApplicationProcess": 0.4405747056007385,
+        "TimelineFrequency": 0.3538517951965332,
+        "AuthoritiesGovernance": 0.36901476979255676,
+        "DefinitionsReferences": 0.3054982125759125
+      }
+    },
+    {
+      "sentence": "The disbursement of funds usually occurs at the beginning of the academic year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.555749237537384,
+      "similarities": {
+        "ContextObjective": 0.4593074321746826,
+        "BenefitsAssistance": 0.555749237537384,
+        "Eligibility": 0.4545765817165375,
+        "ApplicationProcess": 0.44345638155937195,
+        "TimelineFrequency": 0.5504615306854248,
+        "AuthoritiesGovernance": 0.4400448799133301,
+        "DefinitionsReferences": 0.4026750922203064
+      }
+    },
+    {
+      "sentence": "This ensures that the financial assistance is available when it is most needed for school expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5786938667297363,
+      "similarities": {
+        "ContextObjective": 0.47123658657073975,
+        "BenefitsAssistance": 0.5786938667297363,
+        "Eligibility": 0.531396746635437,
+        "ApplicationProcess": 0.47720959782600403,
+        "TimelineFrequency": 0.541038990020752,
+        "AuthoritiesGovernance": 0.4054705500602722,
+        "DefinitionsReferences": 0.4229046404361725
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5976205468177795,
+      "similarities": {
+        "ContextObjective": 0.4887474775314331,
+        "BenefitsAssistance": 0.4349391460418701,
+        "Eligibility": 0.495721697807312,
+        "ApplicationProcess": 0.456974595785141,
+        "TimelineFrequency": 0.4225172996520996,
+        "AuthoritiesGovernance": 0.5976205468177795,
+        "DefinitionsReferences": 0.41308778524398804
+      }
+    },
+    {
+      "sentence": "Each state has its own Labour Department that oversees the implementation of the scheme at the local level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6007130742073059,
+      "similarities": {
+        "ContextObjective": 0.47385087609291077,
+        "BenefitsAssistance": 0.4514152407646179,
+        "Eligibility": 0.5006808042526245,
+        "ApplicationProcess": 0.4505763649940491,
+        "TimelineFrequency": 0.43411940336227417,
+        "AuthoritiesGovernance": 0.6007130742073059,
+        "DefinitionsReferences": 0.41759514808654785
+      }
+    },
+    {
+      "sentence": "The contact details for the Labour Department can be found on the official website of the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5203247666358948,
+      "similarities": {
+        "ContextObjective": 0.4067044258117676,
+        "BenefitsAssistance": 0.4728386402130127,
+        "Eligibility": 0.43200618028640747,
+        "ApplicationProcess": 0.48192721605300903,
+        "TimelineFrequency": 0.4375704526901245,
+        "AuthoritiesGovernance": 0.5203247666358948,
+        "DefinitionsReferences": 0.4537332057952881
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has benefitted thousands of children across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5187361240386963,
+      "similarities": {
+        "ContextObjective": 0.5187361240386963,
+        "BenefitsAssistance": 0.4159717261791229,
+        "Eligibility": 0.48118856549263,
+        "ApplicationProcess": 0.3702789545059204,
+        "TimelineFrequency": 0.399035781621933,
+        "AuthoritiesGovernance": 0.36188846826553345,
+        "DefinitionsReferences": 0.34976130723953247
+      }
+    },
+    {
+      "sentence": "The exact number of beneficiaries varies by state and is dependent on the number of registered construction workers.",
+      "role": "Eligibility",
+      "confidence": 0.5666002631187439,
+      "similarities": {
+        "ContextObjective": 0.4226166009902954,
+        "BenefitsAssistance": 0.5139380693435669,
+        "Eligibility": 0.5666002631187439,
+        "ApplicationProcess": 0.4451411962509155,
+        "TimelineFrequency": 0.4561135172843933,
+        "AuthoritiesGovernance": 0.45063579082489014,
+        "DefinitionsReferences": 0.4145626425743103
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to improve the socio-economic conditions of construction workers and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.48555630445480347,
+      "similarities": {
+        "ContextObjective": 0.48555630445480347,
+        "BenefitsAssistance": 0.4385784864425659,
+        "Eligibility": 0.4513513743877411,
+        "ApplicationProcess": 0.40558624267578125,
+        "TimelineFrequency": 0.3723140358924866,
+        "AuthoritiesGovernance": 0.41083285212516785,
+        "DefinitionsReferences": 0.35382238030433655
+      }
+    },
+    {
+      "sentence": "The Government of India recognizes the critical role that education plays in breaking the cycle of poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.4164615869522095,
+      "similarities": {
+        "ContextObjective": 0.4164615869522095,
+        "BenefitsAssistance": 0.37918391823768616,
+        "Eligibility": 0.38102152943611145,
+        "ApplicationProcess": 0.36149469017982483,
+        "TimelineFrequency": 0.3348924517631531,
+        "AuthoritiesGovernance": 0.36276742815971375,
+        "DefinitionsReferences": 0.33579644560813904
+      }
+    },
+    {
+      "sentence": "By providing financial assistance for education, the government aims to empower the next generation of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4402976632118225,
+      "similarities": {
+        "ContextObjective": 0.4402976632118225,
+        "BenefitsAssistance": 0.43034785985946655,
+        "Eligibility": 0.4292077124118805,
+        "ApplicationProcess": 0.3886510729789734,
+        "TimelineFrequency": 0.37412261962890625,
+        "AuthoritiesGovernance": 0.38759326934814453,
+        "DefinitionsReferences": 0.3379800021648407
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the Sustainable Development Goals set by the United Nations, particularly Goal 4 which aims to ensure inclusive and equitable quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.5168870687484741,
+      "similarities": {
+        "ContextObjective": 0.5168870687484741,
+        "BenefitsAssistance": 0.3661747872829437,
+        "Eligibility": 0.45517560839653015,
+        "ApplicationProcess": 0.3875080943107605,
+        "TimelineFrequency": 0.37749743461608887,
+        "AuthoritiesGovernance": 0.387819766998291,
+        "DefinitionsReferences": 0.3492929935455322
+      }
+    },
+    {
+      "sentence": "The financial assistance is expected to enhance the educational outcomes of children from low-income families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5080722570419312,
+      "similarities": {
+        "ContextObjective": 0.43788376450538635,
+        "BenefitsAssistance": 0.5080722570419312,
+        "Eligibility": 0.4824293851852417,
+        "ApplicationProcess": 0.3808118999004364,
+        "TimelineFrequency": 0.3933124542236328,
+        "AuthoritiesGovernance": 0.40046241879463196,
+        "DefinitionsReferences": 0.3648397922515869
+      }
+    },
+    {
+      "sentence": "In addition to financial support, the scheme encourages parents to prioritize their children's education.",
+      "role": "ContextObjective",
+      "confidence": 0.4930214285850525,
+      "similarities": {
+        "ContextObjective": 0.4930214285850525,
+        "BenefitsAssistance": 0.4904678761959076,
+        "Eligibility": 0.45434021949768066,
+        "ApplicationProcess": 0.4243153929710388,
+        "TimelineFrequency": 0.4200569689273834,
+        "AuthoritiesGovernance": 0.35319358110427856,
+        "DefinitionsReferences": 0.3795832395553589
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to inform construction workers about the benefits of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4835350513458252,
+      "similarities": {
+        "ContextObjective": 0.4835350513458252,
+        "BenefitsAssistance": 0.45077377557754517,
+        "Eligibility": 0.4347591698169708,
+        "ApplicationProcess": 0.43082574009895325,
+        "TimelineFrequency": 0.3808177709579468,
+        "AuthoritiesGovernance": 0.42654949426651,
+        "DefinitionsReferences": 0.3870505690574646
+      }
+    },
+    {
+      "sentence": "These campaigns are conducted through various channels including workshops, seminars, and local community meetings.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5351343750953674,
+      "similarities": {
+        "ContextObjective": 0.4862021207809448,
+        "BenefitsAssistance": 0.4203559160232544,
+        "Eligibility": 0.43402087688446045,
+        "ApplicationProcess": 0.4215812683105469,
+        "TimelineFrequency": 0.44448453187942505,
+        "AuthoritiesGovernance": 0.5351343750953674,
+        "DefinitionsReferences": 0.46148383617401123
+      }
+    },
+    {
+      "sentence": "The scheme is regularly reviewed and updated to meet the changing needs of construction workers and their families.",
+      "role": "ApplicationProcess",
+      "confidence": 0.49523961544036865,
+      "similarities": {
+        "ContextObjective": 0.4905588924884796,
+        "BenefitsAssistance": 0.48399168252944946,
+        "Eligibility": 0.49451106786727905,
+        "ApplicationProcess": 0.49523961544036865,
+        "TimelineFrequency": 0.4800903797149658,
+        "AuthoritiesGovernance": 0.43020644783973694,
+        "DefinitionsReferences": 0.42472514510154724
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to improve the implementation process.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5704062581062317,
+      "similarities": {
+        "ContextObjective": 0.4649788737297058,
+        "BenefitsAssistance": 0.5090761184692383,
+        "Eligibility": 0.5366882085800171,
+        "ApplicationProcess": 0.4723323583602905,
+        "TimelineFrequency": 0.43142426013946533,
+        "AuthoritiesGovernance": 0.5704062581062317,
+        "DefinitionsReferences": 0.44012802839279175
+      }
+    },
+    {
+      "sentence": "The government aims to increase the financial assistance amount in future revisions of the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5557526350021362,
+      "similarities": {
+        "ContextObjective": 0.5305028557777405,
+        "BenefitsAssistance": 0.5557526350021362,
+        "Eligibility": 0.5066705942153931,
+        "ApplicationProcess": 0.4750097095966339,
+        "TimelineFrequency": 0.46705693006515503,
+        "AuthoritiesGovernance": 0.45928168296813965,
+        "DefinitionsReferences": 0.41934263706207275
+      }
+    },
+    {
+      "sentence": "This is in response to rising educational costs and the need for more comprehensive support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5670863389968872,
+      "similarities": {
+        "ContextObjective": 0.45165595412254333,
+        "BenefitsAssistance": 0.5670863389968872,
+        "Eligibility": 0.43426570296287537,
+        "ApplicationProcess": 0.432807981967926,
+        "TimelineFrequency": 0.444304883480072,
+        "AuthoritiesGovernance": 0.4183581471443176,
+        "DefinitionsReferences": 0.41982775926589966
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to social welfare and education.",
+      "role": "ContextObjective",
+      "confidence": 0.5281528830528259,
+      "similarities": {
+        "ContextObjective": 0.5281528830528259,
+        "BenefitsAssistance": 0.4458073377609253,
+        "Eligibility": 0.4541877508163452,
+        "ApplicationProcess": 0.4197878837585449,
+        "TimelineFrequency": 0.3757086396217346,
+        "AuthoritiesGovernance": 0.38742756843566895,
+        "DefinitionsReferences": 0.39531394839286804
+      }
+    },
+    {
+      "sentence": "It reflects an understanding of the challenges faced by construction workers in providing for their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4713080823421478,
+      "similarities": {
+        "ContextObjective": 0.41650694608688354,
+        "BenefitsAssistance": 0.4713080823421478,
+        "Eligibility": 0.45418649911880493,
+        "ApplicationProcess": 0.40445196628570557,
+        "TimelineFrequency": 0.4157380759716034,
+        "AuthoritiesGovernance": 0.4080292284488678,
+        "DefinitionsReferences": 0.3842869997024536
+      }
+    },
+    {
+      "sentence": "The financial assistance for education of children of registered construction workers is a crucial step towards ensuring that every child has access to education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5160312056541443,
+      "similarities": {
+        "ContextObjective": 0.45079824328422546,
+        "BenefitsAssistance": 0.5160312056541443,
+        "Eligibility": 0.4950063228607178,
+        "ApplicationProcess": 0.4808192253112793,
+        "TimelineFrequency": 0.4425605535507202,
+        "AuthoritiesGovernance": 0.43108224868774414,
+        "DefinitionsReferences": 0.39636170864105225
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial support but also fosters a culture of education within families.",
+      "role": "ContextObjective",
+      "confidence": 0.5121984481811523,
+      "similarities": {
+        "ContextObjective": 0.5121984481811523,
+        "BenefitsAssistance": 0.4818868637084961,
+        "Eligibility": 0.4432452321052551,
+        "ApplicationProcess": 0.4113510847091675,
+        "TimelineFrequency": 0.4097331762313843,
+        "AuthoritiesGovernance": 0.3872402012348175,
+        "DefinitionsReferences": 0.38885194063186646
+      }
+    },
+    {
+      "sentence": "By investing in the education of children, the government aims to create a more skilled and educated workforce in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.42195838689804077,
+      "similarities": {
+        "ContextObjective": 0.42195838689804077,
+        "BenefitsAssistance": 0.3499675989151001,
+        "Eligibility": 0.3691575527191162,
+        "ApplicationProcess": 0.3547350764274597,
+        "TimelineFrequency": 0.3424675464630127,
+        "AuthoritiesGovernance": 0.3713753819465637,
+        "DefinitionsReferences": 0.3291964828968048
+      }
+    },
+    {
+      "sentence": "This initiative is part of a larger framework of welfare schemes aimed at improving the living standards of marginalized communities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5040699243545532,
+      "similarities": {
+        "ContextObjective": 0.5040699243545532,
+        "BenefitsAssistance": 0.42930614948272705,
+        "Eligibility": 0.45881298184394836,
+        "ApplicationProcess": 0.37305590510368347,
+        "TimelineFrequency": 0.3570857644081116,
+        "AuthoritiesGovernance": 0.4519027769565582,
+        "DefinitionsReferences": 0.36697348952293396
+      }
+    },
+    {
+      "sentence": "The government continues to explore additional measures to enhance the effectiveness of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.548821747303009,
+      "similarities": {
+        "ContextObjective": 0.548821747303009,
+        "BenefitsAssistance": 0.4708757996559143,
+        "Eligibility": 0.47895175218582153,
+        "ApplicationProcess": 0.47702932357788086,
+        "TimelineFrequency": 0.4399029314517975,
+        "AuthoritiesGovernance": 0.5194343328475952,
+        "DefinitionsReferences": 0.4510044455528259
+      }
+    },
+    {
+      "sentence": "This includes potential collaborations with non-governmental organizations and educational institutions.",
+      "role": "Eligibility",
+      "confidence": 0.49304091930389404,
+      "similarities": {
+        "ContextObjective": 0.4832530915737152,
+        "BenefitsAssistance": 0.45831263065338135,
+        "Eligibility": 0.49304091930389404,
+        "ApplicationProcess": 0.4442814588546753,
+        "TimelineFrequency": 0.4465707540512085,
+        "AuthoritiesGovernance": 0.4763992130756378,
+        "DefinitionsReferences": 0.48226234316825867
+      }
+    },
+    {
+      "sentence": "The ultimate goal is to create a sustainable model for education funding for children of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4718300402164459,
+      "similarities": {
+        "ContextObjective": 0.4718300402164459,
+        "BenefitsAssistance": 0.3798254728317261,
+        "Eligibility": 0.4102853834629059,
+        "ApplicationProcess": 0.3880195617675781,
+        "TimelineFrequency": 0.3733672499656677,
+        "AuthoritiesGovernance": 0.36918583512306213,
+        "DefinitionsReferences": 0.2960920035839081
+      }
+    },
+    {
+      "sentence": "The Financial Assistance for Education of Children of Registered Construction Workers is a vital program that addresses the educational needs of a vulnerable section of society.",
+      "role": "Eligibility",
+      "confidence": 0.4862193167209625,
+      "similarities": {
+        "ContextObjective": 0.4650577902793884,
+        "BenefitsAssistance": 0.4859752357006073,
+        "Eligibility": 0.4862193167209625,
+        "ApplicationProcess": 0.4199627637863159,
+        "TimelineFrequency": 0.410119891166687,
+        "AuthoritiesGovernance": 0.3889438509941101,
+        "DefinitionsReferences": 0.34100139141082764
+      }
+    },
+    {
+      "sentence": "It is a clear example of how targeted welfare schemes can make a significant impact on the lives of individuals and families.",
+      "role": "Eligibility",
+      "confidence": 0.47861966490745544,
+      "similarities": {
+        "ContextObjective": 0.47185587882995605,
+        "BenefitsAssistance": 0.4108526110649109,
+        "Eligibility": 0.47861966490745544,
+        "ApplicationProcess": 0.3462458848953247,
+        "TimelineFrequency": 0.35159793496131897,
+        "AuthoritiesGovernance": 0.3462942838668823,
+        "DefinitionsReferences": 0.34910982847213745
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve in response to the needs of the beneficiaries and the changing educational landscape in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5573225021362305,
+      "similarities": {
+        "ContextObjective": 0.5573225021362305,
+        "BenefitsAssistance": 0.45988762378692627,
+        "Eligibility": 0.538733959197998,
+        "ApplicationProcess": 0.4525946378707886,
+        "TimelineFrequency": 0.4300273656845093,
+        "AuthoritiesGovernance": 0.42130422592163086,
+        "DefinitionsReferences": 0.39536553621292114
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 12,
+    "ContextObjective": 18,
+    "Eligibility": 10,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-25T20:48:22.223171"
+}

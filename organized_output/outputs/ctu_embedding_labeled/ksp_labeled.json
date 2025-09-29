@@ -1,0 +1,938 @@
+{
+  "scheme_name": "Karma Sathi Prakalpa",
+  "total_sentences": 66,
+  "labeled_sentences": [
+    {
+      "sentence": "Karma Sathi Prakalpa is a significant welfare scheme launched by the Government of West Bengal on 1st June 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5241884589195251,
+      "similarities": {
+        "ContextObjective": 0.5241884589195251,
+        "BenefitsAssistance": 0.4428744316101074,
+        "Eligibility": 0.46951690316200256,
+        "ApplicationProcess": 0.39977407455444336,
+        "TimelineFrequency": 0.41174817085266113,
+        "AuthoritiesGovernance": 0.44678425788879395,
+        "DefinitionsReferences": 0.32228225469589233
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide self-employment opportunities to the youth of West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.5166581273078918,
+      "similarities": {
+        "ContextObjective": 0.5166581273078918,
+        "BenefitsAssistance": 0.35585659742355347,
+        "Eligibility": 0.4217066168785095,
+        "ApplicationProcess": 0.38100188970565796,
+        "TimelineFrequency": 0.3683735728263855,
+        "AuthoritiesGovernance": 0.30151981115341187,
+        "DefinitionsReferences": 0.2907007336616516
+      }
+    },
+    {
+      "sentence": "It is designed to empower young individuals by facilitating the establishment of small enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.4759117364883423,
+      "similarities": {
+        "ContextObjective": 0.4759117364883423,
+        "BenefitsAssistance": 0.34821999073028564,
+        "Eligibility": 0.38670235872268677,
+        "ApplicationProcess": 0.3575681746006012,
+        "TimelineFrequency": 0.3440530300140381,
+        "AuthoritiesGovernance": 0.3791319727897644,
+        "DefinitionsReferences": 0.340778112411499
+      }
+    },
+    {
+      "sentence": "The program is particularly focused on those who are unemployed or underemployed.",
+      "role": "Eligibility",
+      "confidence": 0.5166714787483215,
+      "similarities": {
+        "ContextObjective": 0.4790952801704407,
+        "BenefitsAssistance": 0.4530615210533142,
+        "Eligibility": 0.5166714787483215,
+        "ApplicationProcess": 0.42769330739974976,
+        "TimelineFrequency": 0.4444090723991394,
+        "AuthoritiesGovernance": 0.42781710624694824,
+        "DefinitionsReferences": 0.3417024314403534
+      }
+    },
+    {
+      "sentence": "The primary objective is to create sustainable livelihoods for at least 1 million youth in the state by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.49553677439689636,
+      "similarities": {
+        "ContextObjective": 0.49553677439689636,
+        "BenefitsAssistance": 0.3360528349876404,
+        "Eligibility": 0.398249089717865,
+        "ApplicationProcess": 0.3734881281852722,
+        "TimelineFrequency": 0.3496352434158325,
+        "AuthoritiesGovernance": 0.3828413486480713,
+        "DefinitionsReferences": 0.31408876180648804
+      }
+    },
+    {
+      "sentence": "The scheme intends to provide financial assistance and skill development training to eligible candidates.",
+      "role": "Eligibility",
+      "confidence": 0.5640648603439331,
+      "similarities": {
+        "ContextObjective": 0.5408157110214233,
+        "BenefitsAssistance": 0.5124248266220093,
+        "Eligibility": 0.5640648603439331,
+        "ApplicationProcess": 0.49629533290863037,
+        "TimelineFrequency": 0.4768485128879547,
+        "AuthoritiesGovernance": 0.42226409912109375,
+        "DefinitionsReferences": 0.4056578278541565
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1000 crores for the implementation of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4827554225921631,
+      "similarities": {
+        "ContextObjective": 0.46373802423477173,
+        "BenefitsAssistance": 0.475483238697052,
+        "Eligibility": 0.4827554225921631,
+        "ApplicationProcess": 0.3977854549884796,
+        "TimelineFrequency": 0.3903517723083496,
+        "AuthoritiesGovernance": 0.4603261947631836,
+        "DefinitionsReferences": 0.35469377040863037
+      }
+    },
+    {
+      "sentence": "Under the scheme, beneficiaries can receive financial support of up to ₹2 lakhs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.56630539894104,
+      "similarities": {
+        "ContextObjective": 0.48082852363586426,
+        "BenefitsAssistance": 0.56630539894104,
+        "Eligibility": 0.5269277095794678,
+        "ApplicationProcess": 0.4018670320510864,
+        "TimelineFrequency": 0.384105920791626,
+        "AuthoritiesGovernance": 0.38913440704345703,
+        "DefinitionsReferences": 0.40863949060440063
+      }
+    },
+    {
+      "sentence": "This financial assistance is provided in the form of a loan at a subsidized interest rate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5558193922042847,
+      "similarities": {
+        "ContextObjective": 0.4380388557910919,
+        "BenefitsAssistance": 0.5558193922042847,
+        "Eligibility": 0.4731888175010681,
+        "ApplicationProcess": 0.4399394392967224,
+        "TimelineFrequency": 0.4369468092918396,
+        "AuthoritiesGovernance": 0.3737662732601166,
+        "DefinitionsReferences": 0.4107651710510254
+      }
+    },
+    {
+      "sentence": "The interest rate for the loans under this scheme is set at 4 percent per annum.",
+      "role": "ContextObjective",
+      "confidence": 0.45085570216178894,
+      "similarities": {
+        "ContextObjective": 0.45085570216178894,
+        "BenefitsAssistance": 0.4327396750450134,
+        "Eligibility": 0.4408341944217682,
+        "ApplicationProcess": 0.4064541161060333,
+        "TimelineFrequency": 0.4454479217529297,
+        "AuthoritiesGovernance": 0.35752496123313904,
+        "DefinitionsReferences": 0.35650914907455444
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes skill development through various training programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5121054649353027,
+      "similarities": {
+        "ContextObjective": 0.5121054649353027,
+        "BenefitsAssistance": 0.4186031222343445,
+        "Eligibility": 0.43360263109207153,
+        "ApplicationProcess": 0.42957839369773865,
+        "TimelineFrequency": 0.44431477785110474,
+        "AuthoritiesGovernance": 0.43462270498275757,
+        "DefinitionsReferences": 0.4458542466163635
+      }
+    },
+    {
+      "sentence": "These training programs are conducted in collaboration with various institutions and organizations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5497521162033081,
+      "similarities": {
+        "ContextObjective": 0.48780161142349243,
+        "BenefitsAssistance": 0.45334529876708984,
+        "Eligibility": 0.4802045226097107,
+        "ApplicationProcess": 0.4569668471813202,
+        "TimelineFrequency": 0.4864553213119507,
+        "AuthoritiesGovernance": 0.5497521162033081,
+        "DefinitionsReferences": 0.48083043098449707
+      }
+    },
+    {
+      "sentence": "The aim is to equip the youth with necessary skills to enhance their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.5666038990020752,
+      "similarities": {
+        "ContextObjective": 0.5666038990020752,
+        "BenefitsAssistance": 0.41691625118255615,
+        "Eligibility": 0.48767390847206116,
+        "ApplicationProcess": 0.4788771867752075,
+        "TimelineFrequency": 0.4757692217826843,
+        "AuthoritiesGovernance": 0.4488023519515991,
+        "DefinitionsReferences": 0.443637490272522
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Karma Sathi Prakalpa are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.5858136415481567,
+      "similarities": {
+        "ContextObjective": 0.5160573720932007,
+        "BenefitsAssistance": 0.438556969165802,
+        "Eligibility": 0.5858136415481567,
+        "ApplicationProcess": 0.4813965857028961,
+        "TimelineFrequency": 0.4395284950733185,
+        "AuthoritiesGovernance": 0.4008684754371643,
+        "DefinitionsReferences": 0.3953215479850769
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of West Bengal.",
+      "role": "Eligibility",
+      "confidence": 0.6021169424057007,
+      "similarities": {
+        "ContextObjective": 0.4524134695529938,
+        "BenefitsAssistance": 0.3949289917945862,
+        "Eligibility": 0.6021169424057007,
+        "ApplicationProcess": 0.5492957830429077,
+        "TimelineFrequency": 0.4957630932331085,
+        "AuthoritiesGovernance": 0.4018253684043884,
+        "DefinitionsReferences": 0.37972667813301086
+      }
+    },
+    {
+      "sentence": "They should be within the age group of 18 to 45 years.",
+      "role": "Eligibility",
+      "confidence": 0.545982301235199,
+      "similarities": {
+        "ContextObjective": 0.4752734303474426,
+        "BenefitsAssistance": 0.4739567041397095,
+        "Eligibility": 0.545982301235199,
+        "ApplicationProcess": 0.48247119784355164,
+        "TimelineFrequency": 0.4811643660068512,
+        "AuthoritiesGovernance": 0.4274899959564209,
+        "DefinitionsReferences": 0.418371319770813
+      }
+    },
+    {
+      "sentence": "The scheme is open to both men and women.",
+      "role": "Eligibility",
+      "confidence": 0.5764017701148987,
+      "similarities": {
+        "ContextObjective": 0.5717933177947998,
+        "BenefitsAssistance": 0.5084863901138306,
+        "Eligibility": 0.5764017701148987,
+        "ApplicationProcess": 0.5020551681518555,
+        "TimelineFrequency": 0.4906507134437561,
+        "AuthoritiesGovernance": 0.45318636298179626,
+        "DefinitionsReferences": 0.40488144755363464
+      }
+    },
+    {
+      "sentence": "Candidates must have completed at least Class 8 education.",
+      "role": "Eligibility",
+      "confidence": 0.5698909163475037,
+      "similarities": {
+        "ContextObjective": 0.5116827487945557,
+        "BenefitsAssistance": 0.4387712776660919,
+        "Eligibility": 0.5698909163475037,
+        "ApplicationProcess": 0.5592402219772339,
+        "TimelineFrequency": 0.5289663672447205,
+        "AuthoritiesGovernance": 0.45259660482406616,
+        "DefinitionsReferences": 0.4404330551624298
+      }
+    },
+    {
+      "sentence": "There is no specific income ceiling for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5583775043487549,
+      "similarities": {
+        "ContextObjective": 0.4194658696651459,
+        "BenefitsAssistance": 0.4839668273925781,
+        "Eligibility": 0.5583775043487549,
+        "ApplicationProcess": 0.41274672746658325,
+        "TimelineFrequency": 0.41981324553489685,
+        "AuthoritiesGovernance": 0.36154627799987793,
+        "DefinitionsReferences": 0.3341878652572632
+      }
+    },
+    {
+      "sentence": "However, preference is given to those from economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.45079272985458374,
+      "similarities": {
+        "ContextObjective": 0.3770461082458496,
+        "BenefitsAssistance": 0.3937140703201294,
+        "Eligibility": 0.45079272985458374,
+        "ApplicationProcess": 0.34490829706192017,
+        "TimelineFrequency": 0.36426612734794617,
+        "AuthoritiesGovernance": 0.35690048336982727,
+        "DefinitionsReferences": 0.3113994002342224
+      }
+    },
+    {
+      "sentence": "The application process for the Karma Sathi Prakalpa is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5293325781822205,
+      "similarities": {
+        "ContextObjective": 0.4848470985889435,
+        "BenefitsAssistance": 0.403808057308197,
+        "Eligibility": 0.4908176064491272,
+        "ApplicationProcess": 0.5293325781822205,
+        "TimelineFrequency": 0.432456374168396,
+        "AuthoritiesGovernance": 0.3996009826660156,
+        "DefinitionsReferences": 0.34367936849594116
+      }
+    },
+    {
+      "sentence": "Interested candidates can apply online through the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6757704019546509,
+      "similarities": {
+        "ContextObjective": 0.48006677627563477,
+        "BenefitsAssistance": 0.44120141863822937,
+        "Eligibility": 0.5811004638671875,
+        "ApplicationProcess": 0.6757704019546509,
+        "TimelineFrequency": 0.5523384809494019,
+        "AuthoritiesGovernance": 0.4497973322868347,
+        "DefinitionsReferences": 0.44189634919166565
+      }
+    },
+    {
+      "sentence": "They need to fill out the application form with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7245755195617676,
+      "similarities": {
+        "ContextObjective": 0.5228980183601379,
+        "BenefitsAssistance": 0.534475564956665,
+        "Eligibility": 0.6247965097427368,
+        "ApplicationProcess": 0.7245755195617676,
+        "TimelineFrequency": 0.5853936672210693,
+        "AuthoritiesGovernance": 0.4957961142063141,
+        "DefinitionsReferences": 0.49519532918930054
+      }
+    },
+    {
+      "sentence": "Required documents include proof of identity, proof of residence, and educational certificates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6510556936264038,
+      "similarities": {
+        "ContextObjective": 0.4829345941543579,
+        "BenefitsAssistance": 0.5675492882728577,
+        "Eligibility": 0.5544285178184509,
+        "ApplicationProcess": 0.6510556936264038,
+        "TimelineFrequency": 0.5376263856887817,
+        "AuthoritiesGovernance": 0.47125354409217834,
+        "DefinitionsReferences": 0.5649551153182983
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must submit a project report outlining their business idea.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5799316167831421,
+      "similarities": {
+        "ContextObjective": 0.5311157703399658,
+        "BenefitsAssistance": 0.4523281753063202,
+        "Eligibility": 0.5222734808921814,
+        "ApplicationProcess": 0.5799316167831421,
+        "TimelineFrequency": 0.5015511512756348,
+        "AuthoritiesGovernance": 0.3938309848308563,
+        "DefinitionsReferences": 0.4388304352760315
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "Eligible candidates will be called for an interview or a discussion regarding their business plan.",
+      "role": "Eligibility",
+      "confidence": 0.5870460867881775,
+      "similarities": {
+        "ContextObjective": 0.5623408555984497,
+        "BenefitsAssistance": 0.4705643951892853,
+        "Eligibility": 0.5870460867881775,
+        "ApplicationProcess": 0.5519000887870789,
+        "TimelineFrequency": 0.540100634098053,
+        "AuthoritiesGovernance": 0.4329985976219177,
+        "DefinitionsReferences": 0.4272618889808655
+      }
+    },
+    {
+      "sentence": "After approval, the financial assistance will be disbursed through banks.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5669912695884705,
+      "similarities": {
+        "ContextObjective": 0.42046064138412476,
+        "BenefitsAssistance": 0.5669912695884705,
+        "Eligibility": 0.5327918529510498,
+        "ApplicationProcess": 0.5021792650222778,
+        "TimelineFrequency": 0.4571772813796997,
+        "AuthoritiesGovernance": 0.48811542987823486,
+        "DefinitionsReferences": 0.4029073417186737
+      }
+    },
+    {
+      "sentence": "The disbursement is typically done within 30 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5322030186653137,
+      "similarities": {
+        "ContextObjective": 0.4387704133987427,
+        "BenefitsAssistance": 0.5322030186653137,
+        "Eligibility": 0.4983437955379486,
+        "ApplicationProcess": 0.4735896587371826,
+        "TimelineFrequency": 0.5213671922683716,
+        "AuthoritiesGovernance": 0.448157399892807,
+        "DefinitionsReferences": 0.40853410959243774
+      }
+    },
+    {
+      "sentence": "The scheme also provides for regular follow-ups and monitoring of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5447348356246948,
+      "similarities": {
+        "ContextObjective": 0.49651649594306946,
+        "BenefitsAssistance": 0.5447348356246948,
+        "Eligibility": 0.5203091502189636,
+        "ApplicationProcess": 0.47350430488586426,
+        "TimelineFrequency": 0.4494227170944214,
+        "AuthoritiesGovernance": 0.4541553258895874,
+        "DefinitionsReferences": 0.4444054961204529
+      }
+    },
+    {
+      "sentence": "This is to ensure that the funds are utilized effectively for the intended purpose.",
+      "role": "ContextObjective",
+      "confidence": 0.5688883066177368,
+      "similarities": {
+        "ContextObjective": 0.5688883066177368,
+        "BenefitsAssistance": 0.5483830571174622,
+        "Eligibility": 0.5481077432632446,
+        "ApplicationProcess": 0.506011962890625,
+        "TimelineFrequency": 0.4833418130874634,
+        "AuthoritiesGovernance": 0.5052042007446289,
+        "DefinitionsReferences": 0.45691925287246704
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Karma Sathi Prakalpa is the Department of Micro, Small and Medium Enterprises and Textiles, West Bengal.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5397583246231079,
+      "similarities": {
+        "ContextObjective": 0.39436352252960205,
+        "BenefitsAssistance": 0.36972182989120483,
+        "Eligibility": 0.4460574984550476,
+        "ApplicationProcess": 0.3452971279621124,
+        "TimelineFrequency": 0.31629231572151184,
+        "AuthoritiesGovernance": 0.5397583246231079,
+        "DefinitionsReferences": 0.3504684865474701
+      }
+    },
+    {
+      "sentence": "The department is responsible for overseeing the entire process from application to disbursement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5837723016738892,
+      "similarities": {
+        "ContextObjective": 0.4797110855579376,
+        "BenefitsAssistance": 0.5720645189285278,
+        "Eligibility": 0.5286663770675659,
+        "ApplicationProcess": 0.5837723016738892,
+        "TimelineFrequency": 0.5352177619934082,
+        "AuthoritiesGovernance": 0.565780520439148,
+        "DefinitionsReferences": 0.48462796211242676
+      }
+    },
+    {
+      "sentence": "They also provide guidance and support to beneficiaries in setting up their businesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5579700469970703,
+      "similarities": {
+        "ContextObjective": 0.5464385151863098,
+        "BenefitsAssistance": 0.5579700469970703,
+        "Eligibility": 0.5531993508338928,
+        "ApplicationProcess": 0.4648333191871643,
+        "TimelineFrequency": 0.4291764497756958,
+        "AuthoritiesGovernance": 0.5054761171340942,
+        "DefinitionsReferences": 0.5040490031242371
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.6027344465255737,
+      "similarities": {
+        "ContextObjective": 0.6027344465255737,
+        "BenefitsAssistance": 0.46263712644577026,
+        "Eligibility": 0.4795881509780884,
+        "ApplicationProcess": 0.4637686312198639,
+        "TimelineFrequency": 0.43305617570877075,
+        "AuthoritiesGovernance": 0.42176106572151184,
+        "DefinitionsReferences": 0.4144923985004425
+      }
+    },
+    {
+      "sentence": "Many young entrepreneurs have successfully started their ventures with the help of this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4998643696308136,
+      "similarities": {
+        "ContextObjective": 0.4998643696308136,
+        "BenefitsAssistance": 0.36555784940719604,
+        "Eligibility": 0.4113098382949829,
+        "ApplicationProcess": 0.38519829511642456,
+        "TimelineFrequency": 0.34613025188446045,
+        "AuthoritiesGovernance": 0.35289978981018066,
+        "DefinitionsReferences": 0.36465781927108765
+      }
+    },
+    {
+      "sentence": "The government aims to create a robust ecosystem for entrepreneurship in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.49833789467811584,
+      "similarities": {
+        "ContextObjective": 0.49833789467811584,
+        "BenefitsAssistance": 0.3815406262874603,
+        "Eligibility": 0.4592067003250122,
+        "ApplicationProcess": 0.4144804775714874,
+        "TimelineFrequency": 0.40283018350601196,
+        "AuthoritiesGovernance": 0.4456651210784912,
+        "DefinitionsReferences": 0.39792346954345703
+      }
+    },
+    {
+      "sentence": "This initiative is part of a broader strategy to reduce unemployment rates in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.4286409020423889,
+      "similarities": {
+        "ContextObjective": 0.4286409020423889,
+        "BenefitsAssistance": 0.35817593336105347,
+        "Eligibility": 0.3771555423736572,
+        "ApplicationProcess": 0.3502325415611267,
+        "TimelineFrequency": 0.36979353427886963,
+        "AuthoritiesGovernance": 0.4048312306404114,
+        "DefinitionsReferences": 0.3104742765426636
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme has reportedly benefited over 50,000 youth.",
+      "role": "ContextObjective",
+      "confidence": 0.49152472615242004,
+      "similarities": {
+        "ContextObjective": 0.49152472615242004,
+        "BenefitsAssistance": 0.38856935501098633,
+        "Eligibility": 0.41744038462638855,
+        "ApplicationProcess": 0.3630586266517639,
+        "TimelineFrequency": 0.3665585517883301,
+        "AuthoritiesGovernance": 0.34641480445861816,
+        "DefinitionsReferences": 0.33144834637641907
+      }
+    },
+    {
+      "sentence": "The government is continuously working to improve the outreach of the program.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5483645796775818,
+      "similarities": {
+        "ContextObjective": 0.5163646936416626,
+        "BenefitsAssistance": 0.4442982077598572,
+        "Eligibility": 0.47754254937171936,
+        "ApplicationProcess": 0.4802543818950653,
+        "TimelineFrequency": 0.43527501821517944,
+        "AuthoritiesGovernance": 0.5483645796775818,
+        "DefinitionsReferences": 0.43852806091308594
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are being organized to raise awareness about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5440244078636169,
+      "similarities": {
+        "ContextObjective": 0.5440244078636169,
+        "BenefitsAssistance": 0.4637579023838043,
+        "Eligibility": 0.46982312202453613,
+        "ApplicationProcess": 0.4523918032646179,
+        "TimelineFrequency": 0.4191567897796631,
+        "AuthoritiesGovernance": 0.5022460222244263,
+        "DefinitionsReferences": 0.4266965985298157
+      }
+    },
+    {
+      "sentence": "The scheme also encourages innovation and creativity among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.4842050075531006,
+      "similarities": {
+        "ContextObjective": 0.4842050075531006,
+        "BenefitsAssistance": 0.34066566824913025,
+        "Eligibility": 0.3631126284599304,
+        "ApplicationProcess": 0.3577985167503357,
+        "TimelineFrequency": 0.34495025873184204,
+        "AuthoritiesGovernance": 0.3175218105316162,
+        "DefinitionsReferences": 0.32085946202278137
+      }
+    },
+    {
+      "sentence": "By promoting self-employment, the government aims to foster economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.49069952964782715,
+      "similarities": {
+        "ContextObjective": 0.49069952964782715,
+        "BenefitsAssistance": 0.41593748331069946,
+        "Eligibility": 0.3853040039539337,
+        "ApplicationProcess": 0.3841802775859833,
+        "TimelineFrequency": 0.3650813698768616,
+        "AuthoritiesGovernance": 0.39285337924957275,
+        "DefinitionsReferences": 0.38211721181869507
+      }
+    },
+    {
+      "sentence": "The Karma Sathi Prakalpa is a step towards achieving the goal of Atmanirbhar Bharat.",
+      "role": "ContextObjective",
+      "confidence": 0.4830927848815918,
+      "similarities": {
+        "ContextObjective": 0.4830927848815918,
+        "BenefitsAssistance": 0.362277626991272,
+        "Eligibility": 0.3992328345775604,
+        "ApplicationProcess": 0.3815932869911194,
+        "TimelineFrequency": 0.2962230443954468,
+        "AuthoritiesGovernance": 0.37796637415885925,
+        "DefinitionsReferences": 0.31649965047836304
+      }
+    },
+    {
+      "sentence": "This initiative aligns with the national vision of self-reliance and entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.5200550556182861,
+      "similarities": {
+        "ContextObjective": 0.5200550556182861,
+        "BenefitsAssistance": 0.3869369626045227,
+        "Eligibility": 0.40176668763160706,
+        "ApplicationProcess": 0.37065941095352173,
+        "TimelineFrequency": 0.3441910445690155,
+        "AuthoritiesGovernance": 0.3542918264865875,
+        "DefinitionsReferences": 0.3421269655227661
+      }
+    },
+    {
+      "sentence": "The scheme is expected to contribute significantly to the state’s GDP in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.4935115873813629,
+      "similarities": {
+        "ContextObjective": 0.4935115873813629,
+        "BenefitsAssistance": 0.4637591242790222,
+        "Eligibility": 0.4176919460296631,
+        "ApplicationProcess": 0.3948904275894165,
+        "TimelineFrequency": 0.38990911841392517,
+        "AuthoritiesGovernance": 0.3498603105545044,
+        "DefinitionsReferences": 0.3513726592063904
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation mechanisms are in place to assess the impact of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5489494800567627,
+      "similarities": {
+        "ContextObjective": 0.5468099117279053,
+        "BenefitsAssistance": 0.5095572471618652,
+        "Eligibility": 0.5489494800567627,
+        "ApplicationProcess": 0.503300666809082,
+        "TimelineFrequency": 0.47316914796829224,
+        "AuthoritiesGovernance": 0.5404679775238037,
+        "DefinitionsReferences": 0.4474375247955322
+      }
+    },
+    {
+      "sentence": "Regular reports are generated to track the progress of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5697474479675293,
+      "similarities": {
+        "ContextObjective": 0.49162691831588745,
+        "BenefitsAssistance": 0.5697474479675293,
+        "Eligibility": 0.5350584387779236,
+        "ApplicationProcess": 0.4995834231376648,
+        "TimelineFrequency": 0.5042738914489746,
+        "AuthoritiesGovernance": 0.4876818060874939,
+        "DefinitionsReferences": 0.4810344874858856
+      }
+    },
+    {
+      "sentence": "The government is committed to making necessary adjustments based on feedback.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5536090135574341,
+      "similarities": {
+        "ContextObjective": 0.44536930322647095,
+        "BenefitsAssistance": 0.4606488347053528,
+        "Eligibility": 0.4940793812274933,
+        "ApplicationProcess": 0.4828316569328308,
+        "TimelineFrequency": 0.43991023302078247,
+        "AuthoritiesGovernance": 0.5536090135574341,
+        "DefinitionsReferences": 0.4812454879283905
+      }
+    },
+    {
+      "sentence": "This ensures that the scheme remains relevant and effective.",
+      "role": "ContextObjective",
+      "confidence": 0.598659336566925,
+      "similarities": {
+        "ContextObjective": 0.598659336566925,
+        "BenefitsAssistance": 0.4297991991043091,
+        "Eligibility": 0.5004602670669556,
+        "ApplicationProcess": 0.4528696835041046,
+        "TimelineFrequency": 0.4538368582725525,
+        "AuthoritiesGovernance": 0.4895423352718353,
+        "DefinitionsReferences": 0.4420642554759979
+      }
+    },
+    {
+      "sentence": "The Karma Sathi Prakalpa is a vital component of West Bengal’s development agenda.",
+      "role": "ContextObjective",
+      "confidence": 0.44760769605636597,
+      "similarities": {
+        "ContextObjective": 0.44760769605636597,
+        "BenefitsAssistance": 0.3379099369049072,
+        "Eligibility": 0.36707615852355957,
+        "ApplicationProcess": 0.3091047704219818,
+        "TimelineFrequency": 0.28977078199386597,
+        "AuthoritiesGovernance": 0.36277705430984497,
+        "DefinitionsReferences": 0.30547046661376953
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to empowering the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.44774630665779114,
+      "similarities": {
+        "ContextObjective": 0.44774630665779114,
+        "BenefitsAssistance": 0.36027443408966064,
+        "Eligibility": 0.39597904682159424,
+        "ApplicationProcess": 0.37696710228919983,
+        "TimelineFrequency": 0.35847577452659607,
+        "AuthoritiesGovernance": 0.40721288323402405,
+        "DefinitionsReferences": 0.40184226632118225
+      }
+    },
+    {
+      "sentence": "The scheme is a clear indication of the focus on job creation and economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.5369947552680969,
+      "similarities": {
+        "ContextObjective": 0.5369947552680969,
+        "BenefitsAssistance": 0.3971590995788574,
+        "Eligibility": 0.4247884750366211,
+        "ApplicationProcess": 0.38633614778518677,
+        "TimelineFrequency": 0.3783486485481262,
+        "AuthoritiesGovernance": 0.3528953194618225,
+        "DefinitionsReferences": 0.3484775424003601
+      }
+    },
+    {
+      "sentence": "In conclusion, the Karma Sathi Prakalpa is a comprehensive welfare scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5224123001098633,
+      "similarities": {
+        "ContextObjective": 0.5143853425979614,
+        "BenefitsAssistance": 0.5224123001098633,
+        "Eligibility": 0.46649718284606934,
+        "ApplicationProcess": 0.4175719916820526,
+        "TimelineFrequency": 0.36910581588745117,
+        "AuthoritiesGovernance": 0.4378478527069092,
+        "DefinitionsReferences": 0.3777666389942169
+      }
+    },
+    {
+      "sentence": "It provides financial assistance and skill development to the youth of West Bengal.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4204097390174866,
+      "similarities": {
+        "ContextObjective": 0.3900350332260132,
+        "BenefitsAssistance": 0.4204097390174866,
+        "Eligibility": 0.3849030137062073,
+        "ApplicationProcess": 0.33501967787742615,
+        "TimelineFrequency": 0.33471500873565674,
+        "AuthoritiesGovernance": 0.33259886503219604,
+        "DefinitionsReferences": 0.3310437798500061
+      }
+    },
+    {
+      "sentence": "The scheme aims to create a self-reliant and entrepreneurial culture among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5543942451477051,
+      "similarities": {
+        "ContextObjective": 0.5543942451477051,
+        "BenefitsAssistance": 0.360770583152771,
+        "Eligibility": 0.40816736221313477,
+        "ApplicationProcess": 0.40156418085098267,
+        "TimelineFrequency": 0.3805104196071625,
+        "AuthoritiesGovernance": 0.36101192235946655,
+        "DefinitionsReferences": 0.35339897871017456
+      }
+    },
+    {
+      "sentence": "With a well-defined structure and clear objectives, it stands as a significant initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.5721265077590942,
+      "similarities": {
+        "ContextObjective": 0.5721265077590942,
+        "BenefitsAssistance": 0.40972575545310974,
+        "Eligibility": 0.4179709553718567,
+        "ApplicationProcess": 0.40741610527038574,
+        "TimelineFrequency": 0.3856090307235718,
+        "AuthoritiesGovernance": 0.4235619306564331,
+        "DefinitionsReferences": 0.42486926913261414
+      }
+    },
+    {
+      "sentence": "The government’s investment in this scheme is a testament to its importance.",
+      "role": "ContextObjective",
+      "confidence": 0.5231067538261414,
+      "similarities": {
+        "ContextObjective": 0.5231067538261414,
+        "BenefitsAssistance": 0.4301529824733734,
+        "Eligibility": 0.42525386810302734,
+        "ApplicationProcess": 0.3990718722343445,
+        "TimelineFrequency": 0.3723946809768677,
+        "AuthoritiesGovernance": 0.3869538903236389,
+        "DefinitionsReferences": 0.40102440118789673
+      }
+    },
+    {
+      "sentence": "It is expected to have a lasting impact on the lives of many young individuals in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4493282437324524,
+      "similarities": {
+        "ContextObjective": 0.4493282437324524,
+        "BenefitsAssistance": 0.39529353380203247,
+        "Eligibility": 0.4344184100627899,
+        "ApplicationProcess": 0.38230180740356445,
+        "TimelineFrequency": 0.3940495252609253,
+        "AuthoritiesGovernance": 0.3750925064086914,
+        "DefinitionsReferences": 0.399681031703949
+      }
+    },
+    {
+      "sentence": "The Karma Sathi Prakalpa is a beacon of hope for aspiring entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.47974586486816406,
+      "similarities": {
+        "ContextObjective": 0.47974586486816406,
+        "BenefitsAssistance": 0.355371356010437,
+        "Eligibility": 0.39653921127319336,
+        "ApplicationProcess": 0.3264355957508087,
+        "TimelineFrequency": 0.30885744094848633,
+        "AuthoritiesGovernance": 0.3090554475784302,
+        "DefinitionsReferences": 0.3054748773574829
+      }
+    },
+    {
+      "sentence": "It encourages them to take charge of their futures and contribute to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.46036452054977417,
+      "similarities": {
+        "ContextObjective": 0.46036452054977417,
+        "BenefitsAssistance": 0.41269272565841675,
+        "Eligibility": 0.39015138149261475,
+        "ApplicationProcess": 0.3544904291629791,
+        "TimelineFrequency": 0.36591145396232605,
+        "AuthoritiesGovernance": 0.36031848192214966,
+        "DefinitionsReferences": 0.32474467158317566
+      }
+    },
+    {
+      "sentence": "The scheme is a vital tool in the fight against unemployment in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.5010154247283936,
+      "similarities": {
+        "ContextObjective": 0.5010154247283936,
+        "BenefitsAssistance": 0.39686572551727295,
+        "Eligibility": 0.4495421051979065,
+        "ApplicationProcess": 0.40737342834472656,
+        "TimelineFrequency": 0.40714582800865173,
+        "AuthoritiesGovernance": 0.40033966302871704,
+        "DefinitionsReferences": 0.33907952904701233
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to build a prosperous and self-sufficient society.",
+      "role": "ContextObjective",
+      "confidence": 0.569413423538208,
+      "similarities": {
+        "ContextObjective": 0.569413423538208,
+        "BenefitsAssistance": 0.4036997854709625,
+        "Eligibility": 0.4391924738883972,
+        "ApplicationProcess": 0.43211275339126587,
+        "TimelineFrequency": 0.36782366037368774,
+        "AuthoritiesGovernance": 0.44618746638298035,
+        "DefinitionsReferences": 0.38132423162460327
+      }
+    },
+    {
+      "sentence": "The success of the Karma Sathi Prakalpa will depend on the active participation of the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.43953752517700195,
+      "similarities": {
+        "ContextObjective": 0.43953752517700195,
+        "BenefitsAssistance": 0.3570978045463562,
+        "Eligibility": 0.42631804943084717,
+        "ApplicationProcess": 0.36982229351997375,
+        "TimelineFrequency": 0.33081698417663574,
+        "AuthoritiesGovernance": 0.3764781057834625,
+        "DefinitionsReferences": 0.31787917017936707
+      }
+    },
+    {
+      "sentence": "The government is optimistic about achieving its targets by the set timelines.",
+      "role": "ContextObjective",
+      "confidence": 0.5530074238777161,
+      "similarities": {
+        "ContextObjective": 0.5530074238777161,
+        "BenefitsAssistance": 0.4525262713432312,
+        "Eligibility": 0.4849933385848999,
+        "ApplicationProcess": 0.44875219464302063,
+        "TimelineFrequency": 0.5016341805458069,
+        "AuthoritiesGovernance": 0.4955812394618988,
+        "DefinitionsReferences": 0.4361562728881836
+      }
+    },
+    {
+      "sentence": "This initiative is a significant step towards a brighter future for the youth of West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.44615405797958374,
+      "similarities": {
+        "ContextObjective": 0.44615405797958374,
+        "BenefitsAssistance": 0.31082531809806824,
+        "Eligibility": 0.34143006801605225,
+        "ApplicationProcess": 0.3485293686389923,
+        "TimelineFrequency": 0.31861600279808044,
+        "AuthoritiesGovernance": 0.3139090836048126,
+        "DefinitionsReferences": 0.31631284952163696
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 34,
+    "Eligibility": 12,
+    "BenefitsAssistance": 9,
+    "AuthoritiesGovernance": 4,
+    "ApplicationProcess": 7
+  },
+  "processing_timestamp": "2025-09-25T20:32:25.942173"
+}

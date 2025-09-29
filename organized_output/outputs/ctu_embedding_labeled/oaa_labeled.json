@@ -1,0 +1,840 @@
+{
+  "scheme_name": "Old Age Assistance",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Old Age Assistance scheme is a significant welfare initiative launched by the Government of India to provide financial support to elderly citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5628105998039246,
+      "similarities": {
+        "ContextObjective": 0.5628105998039246,
+        "BenefitsAssistance": 0.5164586305618286,
+        "Eligibility": 0.5161422491073608,
+        "ApplicationProcess": 0.4414244294166565,
+        "TimelineFrequency": 0.4117072820663452,
+        "AuthoritiesGovernance": 0.46504002809524536,
+        "DefinitionsReferences": 0.397611141204834
+      }
+    },
+    {
+      "sentence": "The scheme was introduced in 2007 under the National Social Assistance Programme.",
+      "role": "ContextObjective",
+      "confidence": 0.5268533229827881,
+      "similarities": {
+        "ContextObjective": 0.5268533229827881,
+        "BenefitsAssistance": 0.47073960304260254,
+        "Eligibility": 0.46889346837997437,
+        "ApplicationProcess": 0.46368134021759033,
+        "TimelineFrequency": 0.4105057716369629,
+        "AuthoritiesGovernance": 0.42836135625839233,
+        "DefinitionsReferences": 0.3630297780036926
+      }
+    },
+    {
+      "sentence": "It aims to provide a safety net for senior citizens who are in need of financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5454602241516113,
+      "similarities": {
+        "ContextObjective": 0.47995880246162415,
+        "BenefitsAssistance": 0.5454602241516113,
+        "Eligibility": 0.5374594330787659,
+        "ApplicationProcess": 0.44029220938682556,
+        "TimelineFrequency": 0.41212397813796997,
+        "AuthoritiesGovernance": 0.4169743061065674,
+        "DefinitionsReferences": 0.37420910596847534
+      }
+    },
+    {
+      "sentence": "The primary objective of the Old Age Assistance scheme is to ensure that elderly individuals receive a monthly pension to help them meet their basic needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5645837783813477,
+      "similarities": {
+        "ContextObjective": 0.5645837783813477,
+        "BenefitsAssistance": 0.49655789136886597,
+        "Eligibility": 0.5280458331108093,
+        "ApplicationProcess": 0.470592737197876,
+        "TimelineFrequency": 0.45818251371383667,
+        "AuthoritiesGovernance": 0.4769779443740845,
+        "DefinitionsReferences": 0.3657476305961609
+      }
+    },
+    {
+      "sentence": "The scheme targets individuals aged 60 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.5778883099555969,
+      "similarities": {
+        "ContextObjective": 0.5419901609420776,
+        "BenefitsAssistance": 0.4896693229675293,
+        "Eligibility": 0.5778883099555969,
+        "ApplicationProcess": 0.4817454218864441,
+        "TimelineFrequency": 0.47374585270881653,
+        "AuthoritiesGovernance": 0.42621904611587524,
+        "DefinitionsReferences": 0.3758332133293152
+      }
+    },
+    {
+      "sentence": "It is particularly focused on those who are below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.5152214765548706,
+      "similarities": {
+        "ContextObjective": 0.46830296516418457,
+        "BenefitsAssistance": 0.46069177985191345,
+        "Eligibility": 0.5152214765548706,
+        "ApplicationProcess": 0.3879022002220154,
+        "TimelineFrequency": 0.37204813957214355,
+        "AuthoritiesGovernance": 0.41865116357803345,
+        "DefinitionsReferences": 0.378254771232605
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is intended to alleviate poverty among the elderly population.",
+      "role": "Eligibility",
+      "confidence": 0.4854098856449127,
+      "similarities": {
+        "ContextObjective": 0.478934109210968,
+        "BenefitsAssistance": 0.48480135202407837,
+        "Eligibility": 0.4854098856449127,
+        "ApplicationProcess": 0.39636772871017456,
+        "TimelineFrequency": 0.3580578565597534,
+        "AuthoritiesGovernance": 0.40991640090942383,
+        "DefinitionsReferences": 0.32644110918045044
+      }
+    },
+    {
+      "sentence": "As of October 2023, the monthly pension amount is set at ₹1,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46761372685432434,
+      "similarities": {
+        "ContextObjective": 0.4471262991428375,
+        "BenefitsAssistance": 0.46761372685432434,
+        "Eligibility": 0.43597689270973206,
+        "ApplicationProcess": 0.37156400084495544,
+        "TimelineFrequency": 0.39026373624801636,
+        "AuthoritiesGovernance": 0.3589596152305603,
+        "DefinitionsReferences": 0.3385624885559082
+      }
+    },
+    {
+      "sentence": "This amount is directly credited to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.551949679851532,
+      "similarities": {
+        "ContextObjective": 0.40557360649108887,
+        "BenefitsAssistance": 0.551949679851532,
+        "Eligibility": 0.4872405529022217,
+        "ApplicationProcess": 0.41305065155029297,
+        "TimelineFrequency": 0.38720691204071045,
+        "AuthoritiesGovernance": 0.3942413330078125,
+        "DefinitionsReferences": 0.3933931887149811
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Rural Development in collaboration with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5017507672309875,
+      "similarities": {
+        "ContextObjective": 0.47081857919692993,
+        "BenefitsAssistance": 0.40642547607421875,
+        "Eligibility": 0.432772696018219,
+        "ApplicationProcess": 0.4264068305492401,
+        "TimelineFrequency": 0.37415406107902527,
+        "AuthoritiesGovernance": 0.5017507672309875,
+        "DefinitionsReferences": 0.36784881353378296
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Old Age Assistance scheme are specific.",
+      "role": "Eligibility",
+      "confidence": 0.6808984279632568,
+      "similarities": {
+        "ContextObjective": 0.5556774139404297,
+        "BenefitsAssistance": 0.5466150045394897,
+        "Eligibility": 0.6808984279632568,
+        "ApplicationProcess": 0.5309838056564331,
+        "TimelineFrequency": 0.5313431024551392,
+        "AuthoritiesGovernance": 0.4415351152420044,
+        "DefinitionsReferences": 0.42749249935150146
+      }
+    },
+    {
+      "sentence": "Applicants must be Indian citizens aged 60 years or older.",
+      "role": "Eligibility",
+      "confidence": 0.6093313694000244,
+      "similarities": {
+        "ContextObjective": 0.45850449800491333,
+        "BenefitsAssistance": 0.45117253065109253,
+        "Eligibility": 0.6093313694000244,
+        "ApplicationProcess": 0.5622490644454956,
+        "TimelineFrequency": 0.5025071501731873,
+        "AuthoritiesGovernance": 0.4119817018508911,
+        "DefinitionsReferences": 0.3879328966140747
+      }
+    },
+    {
+      "sentence": "They must also belong to a household that falls below the poverty line as defined by the Government of India.",
+      "role": "Eligibility",
+      "confidence": 0.5101279020309448,
+      "similarities": {
+        "ContextObjective": 0.3771916627883911,
+        "BenefitsAssistance": 0.3799729645252228,
+        "Eligibility": 0.5101279020309448,
+        "ApplicationProcess": 0.3964165449142456,
+        "TimelineFrequency": 0.33237969875335693,
+        "AuthoritiesGovernance": 0.3705611526966095,
+        "DefinitionsReferences": 0.3484245538711548
+      }
+    },
+    {
+      "sentence": "Income criteria are set at a maximum of ₹1,00,000 per annum for urban areas.",
+      "role": "Eligibility",
+      "confidence": 0.5078360438346863,
+      "similarities": {
+        "ContextObjective": 0.42187660932540894,
+        "BenefitsAssistance": 0.43548280000686646,
+        "Eligibility": 0.5078360438346863,
+        "ApplicationProcess": 0.4076443314552307,
+        "TimelineFrequency": 0.3960016965866089,
+        "AuthoritiesGovernance": 0.34866416454315186,
+        "DefinitionsReferences": 0.36095210909843445
+      }
+    },
+    {
+      "sentence": "For rural areas, the income limit is also ₹1,00,000 per annum.",
+      "role": "Eligibility",
+      "confidence": 0.5064356327056885,
+      "similarities": {
+        "ContextObjective": 0.3866674602031708,
+        "BenefitsAssistance": 0.451521098613739,
+        "Eligibility": 0.5064356327056885,
+        "ApplicationProcess": 0.39805757999420166,
+        "TimelineFrequency": 0.38455748558044434,
+        "AuthoritiesGovernance": 0.34383952617645264,
+        "DefinitionsReferences": 0.34804344177246094
+      }
+    },
+    {
+      "sentence": "There are no educational qualifications required to apply for this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4803827404975891,
+      "similarities": {
+        "ContextObjective": 0.46412575244903564,
+        "BenefitsAssistance": 0.3576033115386963,
+        "Eligibility": 0.4803827404975891,
+        "ApplicationProcess": 0.4645920991897583,
+        "TimelineFrequency": 0.3930460810661316,
+        "AuthoritiesGovernance": 0.30862563848495483,
+        "DefinitionsReferences": 0.28598445653915405
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6996769905090332,
+      "similarities": {
+        "ContextObjective": 0.544823169708252,
+        "BenefitsAssistance": 0.4977906346321106,
+        "Eligibility": 0.5821620225906372,
+        "ApplicationProcess": 0.6996769905090332,
+        "TimelineFrequency": 0.5984717607498169,
+        "AuthoritiesGovernance": 0.484416663646698,
+        "DefinitionsReferences": 0.4880520701408386
+      }
+    },
+    {
+      "sentence": "Interested individuals must fill out an application form available at local government offices or online on the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7371381521224976,
+      "similarities": {
+        "ContextObjective": 0.5014572143554688,
+        "BenefitsAssistance": 0.47299695014953613,
+        "Eligibility": 0.603936493396759,
+        "ApplicationProcess": 0.7371381521224976,
+        "TimelineFrequency": 0.5461192727088928,
+        "AuthoritiesGovernance": 0.4812602400779724,
+        "DefinitionsReferences": 0.4746255874633789
+      }
+    },
+    {
+      "sentence": "They need to provide proof of age, which can be a birth certificate or any government-issued ID.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5760750770568848,
+      "similarities": {
+        "ContextObjective": 0.42414429783821106,
+        "BenefitsAssistance": 0.4966360926628113,
+        "Eligibility": 0.5319391489028931,
+        "ApplicationProcess": 0.5760750770568848,
+        "TimelineFrequency": 0.48055917024612427,
+        "AuthoritiesGovernance": 0.4225400686264038,
+        "DefinitionsReferences": 0.4646826982498169
+      }
+    },
+    {
+      "sentence": "Proof of income is also required to establish eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.6455151438713074,
+      "similarities": {
+        "ContextObjective": 0.49451935291290283,
+        "BenefitsAssistance": 0.5811221599578857,
+        "Eligibility": 0.6455151438713074,
+        "ApplicationProcess": 0.6351590156555176,
+        "TimelineFrequency": 0.5283200144767761,
+        "AuthoritiesGovernance": 0.42720431089401245,
+        "DefinitionsReferences": 0.47346585988998413
+      }
+    },
+    {
+      "sentence": "Documents such as a ration card or income certificate may be submitted.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6256444454193115,
+      "similarities": {
+        "ContextObjective": 0.4799439311027527,
+        "BenefitsAssistance": 0.5772338509559631,
+        "Eligibility": 0.5542293190956116,
+        "ApplicationProcess": 0.6256444454193115,
+        "TimelineFrequency": 0.5112895965576172,
+        "AuthoritiesGovernance": 0.4729881286621094,
+        "DefinitionsReferences": 0.5229418277740479
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it should be submitted to the local Gram Panchayat or municipal office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6293224692344666,
+      "similarities": {
+        "ContextObjective": 0.443078875541687,
+        "BenefitsAssistance": 0.4159243702888489,
+        "Eligibility": 0.5150889754295349,
+        "ApplicationProcess": 0.6293224692344666,
+        "TimelineFrequency": 0.5040844678878784,
+        "AuthoritiesGovernance": 0.48133111000061035,
+        "DefinitionsReferences": 0.3782041072845459
+      }
+    },
+    {
+      "sentence": "The application will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7405791878700256,
+      "similarities": {
+        "ContextObjective": 0.5391733646392822,
+        "BenefitsAssistance": 0.5018736124038696,
+        "Eligibility": 0.6331272125244141,
+        "ApplicationProcess": 0.7405791878700256,
+        "TimelineFrequency": 0.5799188613891602,
+        "AuthoritiesGovernance": 0.4995095133781433,
+        "DefinitionsReferences": 0.5125603675842285
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the pension will be disbursed monthly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.543358564376831,
+      "similarities": {
+        "ContextObjective": 0.42661839723587036,
+        "BenefitsAssistance": 0.543358564376831,
+        "Eligibility": 0.50115966796875,
+        "ApplicationProcess": 0.5391558408737183,
+        "TimelineFrequency": 0.4827335476875305,
+        "AuthoritiesGovernance": 0.4182811379432678,
+        "DefinitionsReferences": 0.37310129404067993
+      }
+    },
+    {
+      "sentence": "The disbursement is typically made on the first week of every month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5465783476829529,
+      "similarities": {
+        "ContextObjective": 0.4487382769584656,
+        "BenefitsAssistance": 0.5465783476829529,
+        "Eligibility": 0.4503360986709595,
+        "ApplicationProcess": 0.4208594560623169,
+        "TimelineFrequency": 0.5311498641967773,
+        "AuthoritiesGovernance": 0.43558263778686523,
+        "DefinitionsReferences": 0.3915579915046692
+      }
+    },
+    {
+      "sentence": "Beneficiaries can receive their pension through direct bank transfers.",
+      "role": "Eligibility",
+      "confidence": 0.5142892003059387,
+      "similarities": {
+        "ContextObjective": 0.4333903193473816,
+        "BenefitsAssistance": 0.5031095743179321,
+        "Eligibility": 0.5142892003059387,
+        "ApplicationProcess": 0.43727827072143555,
+        "TimelineFrequency": 0.38629382848739624,
+        "AuthoritiesGovernance": 0.4090338945388794,
+        "DefinitionsReferences": 0.33407676219940186
+      }
+    },
+    {
+      "sentence": "This ensures that the funds reach the intended recipients without any delays.",
+      "role": "Eligibility",
+      "confidence": 0.4441850185394287,
+      "similarities": {
+        "ContextObjective": 0.41754376888275146,
+        "BenefitsAssistance": 0.4233716130256653,
+        "Eligibility": 0.4441850185394287,
+        "ApplicationProcess": 0.3550524115562439,
+        "TimelineFrequency": 0.36989468336105347,
+        "AuthoritiesGovernance": 0.3706555664539337,
+        "DefinitionsReferences": 0.2951209545135498
+      }
+    },
+    {
+      "sentence": "The Old Age Assistance scheme is part of a broader initiative to support vulnerable populations in India.",
+      "role": "Eligibility",
+      "confidence": 0.5032474994659424,
+      "similarities": {
+        "ContextObjective": 0.4762078523635864,
+        "BenefitsAssistance": 0.4498354196548462,
+        "Eligibility": 0.5032474994659424,
+        "ApplicationProcess": 0.38619714975357056,
+        "TimelineFrequency": 0.3664408326148987,
+        "AuthoritiesGovernance": 0.4251216650009155,
+        "DefinitionsReferences": 0.3539555072784424
+      }
+    },
+    {
+      "sentence": "It is aligned with the National Policy on Older Persons, which was adopted in 1999.",
+      "role": "Eligibility",
+      "confidence": 0.42369502782821655,
+      "similarities": {
+        "ContextObjective": 0.38620296120643616,
+        "BenefitsAssistance": 0.3806542754173279,
+        "Eligibility": 0.42369502782821655,
+        "ApplicationProcess": 0.39042025804519653,
+        "TimelineFrequency": 0.35430237650871277,
+        "AuthoritiesGovernance": 0.4010774791240692,
+        "DefinitionsReferences": 0.38596826791763306
+      }
+    },
+    {
+      "sentence": "The policy emphasizes the need for social security and welfare measures for the elderly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46538516879081726,
+      "similarities": {
+        "ContextObjective": 0.43267327547073364,
+        "BenefitsAssistance": 0.46538516879081726,
+        "Eligibility": 0.46056556701660156,
+        "ApplicationProcess": 0.405270516872406,
+        "TimelineFrequency": 0.3674234449863434,
+        "AuthoritiesGovernance": 0.39172667264938354,
+        "DefinitionsReferences": 0.390896201133728
+      }
+    },
+    {
+      "sentence": "The scheme has seen significant uptake since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.596278190612793,
+      "similarities": {
+        "ContextObjective": 0.596278190612793,
+        "BenefitsAssistance": 0.4695417582988739,
+        "Eligibility": 0.47387000918388367,
+        "ApplicationProcess": 0.45682641863822937,
+        "TimelineFrequency": 0.43408074975013733,
+        "AuthoritiesGovernance": 0.3928927779197693,
+        "DefinitionsReferences": 0.40944546461105347
+      }
+    },
+    {
+      "sentence": "As of 2023, approximately 2.5 crore elderly individuals are beneficiaries of the Old Age Assistance scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4740704298019409,
+      "similarities": {
+        "ContextObjective": 0.4472627639770508,
+        "BenefitsAssistance": 0.47024238109588623,
+        "Eligibility": 0.4740704298019409,
+        "ApplicationProcess": 0.36024752259254456,
+        "TimelineFrequency": 0.36268433928489685,
+        "AuthoritiesGovernance": 0.4122233986854553,
+        "DefinitionsReferences": 0.35593974590301514
+      }
+    },
+    {
+      "sentence": "This represents a substantial increase from the initial years of implementation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4560839533805847,
+      "similarities": {
+        "ContextObjective": 0.4286622405052185,
+        "BenefitsAssistance": 0.4560839533805847,
+        "Eligibility": 0.38471972942352295,
+        "ApplicationProcess": 0.3884568512439728,
+        "TimelineFrequency": 0.4016820192337036,
+        "AuthoritiesGovernance": 0.4397079348564148,
+        "DefinitionsReferences": 0.41571974754333496
+      }
+    },
+    {
+      "sentence": "The government has also made provisions for regular reviews and updates to the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5293872356414795,
+      "similarities": {
+        "ContextObjective": 0.48785650730133057,
+        "BenefitsAssistance": 0.5101234912872314,
+        "Eligibility": 0.5030183792114258,
+        "ApplicationProcess": 0.5293872356414795,
+        "TimelineFrequency": 0.4986751675605774,
+        "AuthoritiesGovernance": 0.46947619318962097,
+        "DefinitionsReferences": 0.4774954915046692
+      }
+    },
+    {
+      "sentence": "This ensures that the pension amount remains relevant to the changing economic conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48906028270721436,
+      "similarities": {
+        "ContextObjective": 0.4237617254257202,
+        "BenefitsAssistance": 0.48906028270721436,
+        "Eligibility": 0.43641397356987,
+        "ApplicationProcess": 0.37629711627960205,
+        "TimelineFrequency": 0.4041385054588318,
+        "AuthoritiesGovernance": 0.35859960317611694,
+        "DefinitionsReferences": 0.3850155174732208
+      }
+    },
+    {
+      "sentence": "The scheme is funded through the central government and state governments in a 75:25 ratio.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5070083141326904,
+      "similarities": {
+        "ContextObjective": 0.49221447110176086,
+        "BenefitsAssistance": 0.5070083141326904,
+        "Eligibility": 0.49371516704559326,
+        "ApplicationProcess": 0.43833136558532715,
+        "TimelineFrequency": 0.44083312153816223,
+        "AuthoritiesGovernance": 0.4577898681163788,
+        "DefinitionsReferences": 0.39729005098342896
+      }
+    },
+    {
+      "sentence": "This means that for every ₹100 spent on the scheme, ₹75 is contributed by the central government and ₹25 by the state government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47163957357406616,
+      "similarities": {
+        "ContextObjective": 0.4181458055973053,
+        "BenefitsAssistance": 0.47163957357406616,
+        "Eligibility": 0.4101564884185791,
+        "ApplicationProcess": 0.36008352041244507,
+        "TimelineFrequency": 0.38340625166893005,
+        "AuthoritiesGovernance": 0.38679587841033936,
+        "DefinitionsReferences": 0.34068965911865234
+      }
+    },
+    {
+      "sentence": "The Old Age Assistance scheme is crucial in addressing the needs of the aging population in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5018680095672607,
+      "similarities": {
+        "ContextObjective": 0.5018680095672607,
+        "BenefitsAssistance": 0.4558183252811432,
+        "Eligibility": 0.49840283393859863,
+        "ApplicationProcess": 0.42843252420425415,
+        "TimelineFrequency": 0.4014241397380829,
+        "AuthoritiesGovernance": 0.4299330413341522,
+        "DefinitionsReferences": 0.35995426774024963
+      }
+    },
+    {
+      "sentence": "It plays a vital role in reducing the financial burden on families who care for elderly members.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4922012984752655,
+      "similarities": {
+        "ContextObjective": 0.38498660922050476,
+        "BenefitsAssistance": 0.4922012984752655,
+        "Eligibility": 0.4287160038948059,
+        "ApplicationProcess": 0.3860710859298706,
+        "TimelineFrequency": 0.3588523268699646,
+        "AuthoritiesGovernance": 0.3620370030403137,
+        "DefinitionsReferences": 0.35335463285446167
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote dignity and respect for senior citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5035261511802673,
+      "similarities": {
+        "ContextObjective": 0.5035261511802673,
+        "BenefitsAssistance": 0.3865584433078766,
+        "Eligibility": 0.4424871504306793,
+        "ApplicationProcess": 0.40105685591697693,
+        "TimelineFrequency": 0.35367661714553833,
+        "AuthoritiesGovernance": 0.3517656922340393,
+        "DefinitionsReferences": 0.36011162400245667
+      }
+    },
+    {
+      "sentence": "In addition to financial support, the government has initiated awareness programs to educate the elderly about their rights and available services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5139898061752319,
+      "similarities": {
+        "ContextObjective": 0.4382707476615906,
+        "BenefitsAssistance": 0.5139898061752319,
+        "Eligibility": 0.4417877793312073,
+        "ApplicationProcess": 0.4100881516933441,
+        "TimelineFrequency": 0.3811599016189575,
+        "AuthoritiesGovernance": 0.45657074451446533,
+        "DefinitionsReferences": 0.42781245708465576
+      }
+    },
+    {
+      "sentence": "These programs are designed to empower senior citizens to access various welfare schemes.",
+      "role": "Eligibility",
+      "confidence": 0.510974645614624,
+      "similarities": {
+        "ContextObjective": 0.4955551326274872,
+        "BenefitsAssistance": 0.47195595502853394,
+        "Eligibility": 0.510974645614624,
+        "ApplicationProcess": 0.4516480565071106,
+        "TimelineFrequency": 0.4404064118862152,
+        "AuthoritiesGovernance": 0.4658464789390564,
+        "DefinitionsReferences": 0.3967526853084564
+      }
+    },
+    {
+      "sentence": "The implementation of the scheme is monitored by the Ministry of Rural Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5576050877571106,
+      "similarities": {
+        "ContextObjective": 0.4744892418384552,
+        "BenefitsAssistance": 0.436074435710907,
+        "Eligibility": 0.46648162603378296,
+        "ApplicationProcess": 0.48157286643981934,
+        "TimelineFrequency": 0.40279272198677063,
+        "AuthoritiesGovernance": 0.5576050877571106,
+        "DefinitionsReferences": 0.3962007761001587
+      }
+    },
+    {
+      "sentence": "State governments are responsible for the ground-level execution and management of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6031841039657593,
+      "similarities": {
+        "ContextObjective": 0.5466154217720032,
+        "BenefitsAssistance": 0.4584812521934509,
+        "Eligibility": 0.536011815071106,
+        "ApplicationProcess": 0.4875343441963196,
+        "TimelineFrequency": 0.4289538860321045,
+        "AuthoritiesGovernance": 0.6031841039657593,
+        "DefinitionsReferences": 0.45747679471969604
+      }
+    },
+    {
+      "sentence": "They are tasked with ensuring that the benefits reach the intended beneficiaries without any hindrance.",
+      "role": "Eligibility",
+      "confidence": 0.5381165146827698,
+      "similarities": {
+        "ContextObjective": 0.49251115322113037,
+        "BenefitsAssistance": 0.4822330176830292,
+        "Eligibility": 0.5381165146827698,
+        "ApplicationProcess": 0.42826229333877563,
+        "TimelineFrequency": 0.3810270428657532,
+        "AuthoritiesGovernance": 0.4649758040904999,
+        "DefinitionsReferences": 0.3793824315071106
+      }
+    },
+    {
+      "sentence": "The Old Age Assistance scheme is a critical component of India's social welfare framework.",
+      "role": "ContextObjective",
+      "confidence": 0.501975953578949,
+      "similarities": {
+        "ContextObjective": 0.501975953578949,
+        "BenefitsAssistance": 0.4728199243545532,
+        "Eligibility": 0.4955996870994568,
+        "ApplicationProcess": 0.4198179543018341,
+        "TimelineFrequency": 0.39086049795150757,
+        "AuthoritiesGovernance": 0.43211132287979126,
+        "DefinitionsReferences": 0.3848438858985901
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving the quality of life for senior citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4153520464897156,
+      "similarities": {
+        "ContextObjective": 0.4153520464897156,
+        "BenefitsAssistance": 0.3898029327392578,
+        "Eligibility": 0.40392789244651794,
+        "ApplicationProcess": 0.40031588077545166,
+        "TimelineFrequency": 0.35534876585006714,
+        "AuthoritiesGovernance": 0.39574116468429565,
+        "DefinitionsReferences": 0.39567482471466064
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for its direct approach to providing financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.541362464427948,
+      "similarities": {
+        "ContextObjective": 0.5345643162727356,
+        "BenefitsAssistance": 0.541362464427948,
+        "Eligibility": 0.47921329736709595,
+        "ApplicationProcess": 0.44208914041519165,
+        "TimelineFrequency": 0.40941929817199707,
+        "AuthoritiesGovernance": 0.4044724106788635,
+        "DefinitionsReferences": 0.37896254658699036
+      }
+    },
+    {
+      "sentence": "It has also been recognized for its role in promoting social inclusion for the elderly.",
+      "role": "Eligibility",
+      "confidence": 0.4198140501976013,
+      "similarities": {
+        "ContextObjective": 0.41035282611846924,
+        "BenefitsAssistance": 0.4111820459365845,
+        "Eligibility": 0.4198140501976013,
+        "ApplicationProcess": 0.3471829891204834,
+        "TimelineFrequency": 0.3309990167617798,
+        "AuthoritiesGovernance": 0.3555815517902374,
+        "DefinitionsReferences": 0.3671160340309143
+      }
+    },
+    {
+      "sentence": "In conclusion, the Old Age Assistance scheme is a vital initiative aimed at supporting the elderly population in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5181796550750732,
+      "similarities": {
+        "ContextObjective": 0.5181796550750732,
+        "BenefitsAssistance": 0.40947651863098145,
+        "Eligibility": 0.4607961177825928,
+        "ApplicationProcess": 0.40479928255081177,
+        "TimelineFrequency": 0.36097651720046997,
+        "AuthoritiesGovernance": 0.3896152973175049,
+        "DefinitionsReferences": 0.3548339605331421
+      }
+    },
+    {
+      "sentence": "With a focus on financial assistance and social security, it addresses the unique challenges faced by senior citizens.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5372182726860046,
+      "similarities": {
+        "ContextObjective": 0.4245489239692688,
+        "BenefitsAssistance": 0.5372182726860046,
+        "Eligibility": 0.4975135326385498,
+        "ApplicationProcess": 0.4145611524581909,
+        "TimelineFrequency": 0.3986916244029999,
+        "AuthoritiesGovernance": 0.39337587356567383,
+        "DefinitionsReferences": 0.3831537961959839
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve to meet the needs of its beneficiaries effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5906758308410645,
+      "similarities": {
+        "ContextObjective": 0.5906758308410645,
+        "BenefitsAssistance": 0.47754937410354614,
+        "Eligibility": 0.5179030895233154,
+        "ApplicationProcess": 0.4567364752292633,
+        "TimelineFrequency": 0.43318676948547363,
+        "AuthoritiesGovernance": 0.4742072820663452,
+        "DefinitionsReferences": 0.40989455580711365
+      }
+    },
+    {
+      "sentence": "It stands as a testament to the government's dedication to ensuring the welfare of its aging citizens.",
+      "role": "Eligibility",
+      "confidence": 0.42360416054725647,
+      "similarities": {
+        "ContextObjective": 0.39132270216941833,
+        "BenefitsAssistance": 0.40994369983673096,
+        "Eligibility": 0.42360416054725647,
+        "ApplicationProcess": 0.38642817735671997,
+        "TimelineFrequency": 0.3403102159500122,
+        "AuthoritiesGovernance": 0.3828851878643036,
+        "DefinitionsReferences": 0.39643022418022156
+      }
+    },
+    {
+      "sentence": "The Old Age Assistance scheme is an essential part of India's efforts to create a more inclusive society.",
+      "role": "ContextObjective",
+      "confidence": 0.5094720125198364,
+      "similarities": {
+        "ContextObjective": 0.5094720125198364,
+        "BenefitsAssistance": 0.44697773456573486,
+        "Eligibility": 0.49395498633384705,
+        "ApplicationProcess": 0.4205753207206726,
+        "TimelineFrequency": 0.35633862018585205,
+        "AuthoritiesGovernance": 0.41827958822250366,
+        "DefinitionsReferences": 0.369965136051178
+      }
+    },
+    {
+      "sentence": "It highlights the importance of providing support to those who have contributed to society throughout their lives.",
+      "role": "ContextObjective",
+      "confidence": 0.49219098687171936,
+      "similarities": {
+        "ContextObjective": 0.49219098687171936,
+        "BenefitsAssistance": 0.4679875075817108,
+        "Eligibility": 0.46086835861206055,
+        "ApplicationProcess": 0.383689820766449,
+        "TimelineFrequency": 0.39889562129974365,
+        "AuthoritiesGovernance": 0.40184256434440613,
+        "DefinitionsReferences": 0.4287189245223999
+      }
+    },
+    {
+      "sentence": "As the population of elderly individuals continues to grow, the relevance of this scheme will only increase.",
+      "role": "ContextObjective",
+      "confidence": 0.49122002720832825,
+      "similarities": {
+        "ContextObjective": 0.49122002720832825,
+        "BenefitsAssistance": 0.41969406604766846,
+        "Eligibility": 0.4471127986907959,
+        "ApplicationProcess": 0.3816976547241211,
+        "TimelineFrequency": 0.4018806219100952,
+        "AuthoritiesGovernance": 0.3816668391227722,
+        "DefinitionsReferences": 0.3875853419303894
+      }
+    },
+    {
+      "sentence": "The government remains committed to enhancing the benefits and reach of the Old Age Assistance scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4627547264099121,
+      "similarities": {
+        "ContextObjective": 0.4559651017189026,
+        "BenefitsAssistance": 0.42038339376449585,
+        "Eligibility": 0.44751596450805664,
+        "ApplicationProcess": 0.39111748337745667,
+        "TimelineFrequency": 0.3582417368888855,
+        "AuthoritiesGovernance": 0.4627547264099121,
+        "DefinitionsReferences": 0.39473259449005127
+      }
+    },
+    {
+      "sentence": "This ensures that no elderly citizen is left behind in the quest for a dignified life.",
+      "role": "ContextObjective",
+      "confidence": 0.41481128334999084,
+      "similarities": {
+        "ContextObjective": 0.41481128334999084,
+        "BenefitsAssistance": 0.330750048160553,
+        "Eligibility": 0.4022092819213867,
+        "ApplicationProcess": 0.373046875,
+        "TimelineFrequency": 0.30702829360961914,
+        "AuthoritiesGovernance": 0.3198941946029663,
+        "DefinitionsReferences": 0.33489882946014404
+      }
+    },
+    {
+      "sentence": "The scheme is a crucial step towards building a compassionate and caring society for all.",
+      "role": "ContextObjective",
+      "confidence": 0.556980311870575,
+      "similarities": {
+        "ContextObjective": 0.556980311870575,
+        "BenefitsAssistance": 0.38441944122314453,
+        "Eligibility": 0.44847244024276733,
+        "ApplicationProcess": 0.4231036305427551,
+        "TimelineFrequency": 0.35875147581100464,
+        "AuthoritiesGovernance": 0.38215258717536926,
+        "DefinitionsReferences": 0.3614698052406311
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 15,
+    "BenefitsAssistance": 14,
+    "Eligibility": 19,
+    "AuthoritiesGovernance": 4,
+    "ApplicationProcess": 7
+  },
+  "processing_timestamp": "2025-09-25T20:43:18.460386"
+}

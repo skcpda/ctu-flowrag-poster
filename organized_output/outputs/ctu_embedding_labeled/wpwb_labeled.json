@@ -1,0 +1,994 @@
+{
+  "scheme_name": "Widow Pension-West Bengal",
+  "total_sentences": 70,
+  "labeled_sentences": [
+    {
+      "sentence": "The Widow Pension Scheme in West Bengal is a significant welfare initiative launched by the Government of West Bengal to provide financial assistance to widows.",
+      "role": "ContextObjective",
+      "confidence": 0.5469016432762146,
+      "similarities": {
+        "ContextObjective": 0.5469016432762146,
+        "BenefitsAssistance": 0.4837097227573395,
+        "Eligibility": 0.4696733355522156,
+        "ApplicationProcess": 0.4196285605430603,
+        "TimelineFrequency": 0.4247380495071411,
+        "AuthoritiesGovernance": 0.4574347138404846,
+        "DefinitionsReferences": 0.36000698804855347
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched in the year 2009.",
+      "role": "ContextObjective",
+      "confidence": 0.594699501991272,
+      "similarities": {
+        "ContextObjective": 0.594699501991272,
+        "BenefitsAssistance": 0.44495224952697754,
+        "Eligibility": 0.4691780209541321,
+        "ApplicationProcess": 0.5040994882583618,
+        "TimelineFrequency": 0.44518330693244934,
+        "AuthoritiesGovernance": 0.40309128165245056,
+        "DefinitionsReferences": 0.3805663287639618
+      }
+    },
+    {
+      "sentence": "The primary objective of the Widow Pension Scheme is to offer financial support to widows who are in dire need of assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.5473143458366394,
+      "similarities": {
+        "ContextObjective": 0.5473143458366394,
+        "BenefitsAssistance": 0.4921987056732178,
+        "Eligibility": 0.45786160230636597,
+        "ApplicationProcess": 0.39082565903663635,
+        "TimelineFrequency": 0.38510584831237793,
+        "AuthoritiesGovernance": 0.40466204285621643,
+        "DefinitionsReferences": 0.3308125138282776
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower widows by providing them with a monthly pension that can help them meet their basic needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5196518898010254,
+      "similarities": {
+        "ContextObjective": 0.5196518898010254,
+        "BenefitsAssistance": 0.44979920983314514,
+        "Eligibility": 0.458522766828537,
+        "ApplicationProcess": 0.392341285943985,
+        "TimelineFrequency": 0.4057314991950989,
+        "AuthoritiesGovernance": 0.4004650115966797,
+        "DefinitionsReferences": 0.32625678181648254
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹1,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5597691535949707,
+      "similarities": {
+        "ContextObjective": 0.4605935513973236,
+        "BenefitsAssistance": 0.5597691535949707,
+        "Eligibility": 0.5075045824050903,
+        "ApplicationProcess": 0.43487662076950073,
+        "TimelineFrequency": 0.40829673409461975,
+        "AuthoritiesGovernance": 0.3959563672542572,
+        "DefinitionsReferences": 0.34296685457229614
+      }
+    },
+    {
+      "sentence": "This amount is intended to alleviate the financial burden faced by widows after the loss of their spouses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5265601277351379,
+      "similarities": {
+        "ContextObjective": 0.4294598698616028,
+        "BenefitsAssistance": 0.5265601277351379,
+        "Eligibility": 0.41440847516059875,
+        "ApplicationProcess": 0.34318020939826965,
+        "TimelineFrequency": 0.36325231194496155,
+        "AuthoritiesGovernance": 0.3647395968437195,
+        "DefinitionsReferences": 0.34758085012435913
+      }
+    },
+    {
+      "sentence": "The scheme is designed to ensure that widows can live with dignity and have access to basic necessities.",
+      "role": "ContextObjective",
+      "confidence": 0.4950772225856781,
+      "similarities": {
+        "ContextObjective": 0.4950772225856781,
+        "BenefitsAssistance": 0.46356382966041565,
+        "Eligibility": 0.47567954659461975,
+        "ApplicationProcess": 0.42659467458724976,
+        "TimelineFrequency": 0.3993138074874878,
+        "AuthoritiesGovernance": 0.4238935112953186,
+        "DefinitionsReferences": 0.38498514890670776
+      }
+    },
+    {
+      "sentence": "To be eligible for the Widow Pension Scheme, applicants must meet certain criteria.",
+      "role": "Eligibility",
+      "confidence": 0.640641450881958,
+      "similarities": {
+        "ContextObjective": 0.5522412657737732,
+        "BenefitsAssistance": 0.48736393451690674,
+        "Eligibility": 0.640641450881958,
+        "ApplicationProcess": 0.568585991859436,
+        "TimelineFrequency": 0.5296255350112915,
+        "AuthoritiesGovernance": 0.42746344208717346,
+        "DefinitionsReferences": 0.39533114433288574
+      }
+    },
+    {
+      "sentence": "The applicant must be a resident of West Bengal.",
+      "role": "Eligibility",
+      "confidence": 0.5921141505241394,
+      "similarities": {
+        "ContextObjective": 0.46803754568099976,
+        "BenefitsAssistance": 0.4088730216026306,
+        "Eligibility": 0.5921141505241394,
+        "ApplicationProcess": 0.5697845220565796,
+        "TimelineFrequency": 0.5023837089538574,
+        "AuthoritiesGovernance": 0.40768495202064514,
+        "DefinitionsReferences": 0.3894692659378052
+      }
+    },
+    {
+      "sentence": "The age of the applicant must be at least 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6274822950363159,
+      "similarities": {
+        "ContextObjective": 0.5067727565765381,
+        "BenefitsAssistance": 0.4904007613658905,
+        "Eligibility": 0.6274822950363159,
+        "ApplicationProcess": 0.6104242205619812,
+        "TimelineFrequency": 0.5718653202056885,
+        "AuthoritiesGovernance": 0.43623995780944824,
+        "DefinitionsReferences": 0.4354614317417145
+      }
+    },
+    {
+      "sentence": "There is no upper age limit for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5436099767684937,
+      "similarities": {
+        "ContextObjective": 0.42381754517555237,
+        "BenefitsAssistance": 0.43201300501823425,
+        "Eligibility": 0.5436099767684937,
+        "ApplicationProcess": 0.43681830167770386,
+        "TimelineFrequency": 0.4327697455883026,
+        "AuthoritiesGovernance": 0.34648197889328003,
+        "DefinitionsReferences": 0.34773916006088257
+      }
+    },
+    {
+      "sentence": "The applicant must be a widow who has lost her husband.",
+      "role": "Eligibility",
+      "confidence": 0.5564082860946655,
+      "similarities": {
+        "ContextObjective": 0.46320366859436035,
+        "BenefitsAssistance": 0.4482889175415039,
+        "Eligibility": 0.5564082860946655,
+        "ApplicationProcess": 0.5143359303474426,
+        "TimelineFrequency": 0.5051292181015015,
+        "AuthoritiesGovernance": 0.40422773361206055,
+        "DefinitionsReferences": 0.37004414200782776
+      }
+    },
+    {
+      "sentence": "The income of the applicant's family should not exceed ₹1,500 per month.",
+      "role": "Eligibility",
+      "confidence": 0.5821473002433777,
+      "similarities": {
+        "ContextObjective": 0.4372101426124573,
+        "BenefitsAssistance": 0.5318407416343689,
+        "Eligibility": 0.5821473002433777,
+        "ApplicationProcess": 0.5222327709197998,
+        "TimelineFrequency": 0.48951783776283264,
+        "AuthoritiesGovernance": 0.37619373202323914,
+        "DefinitionsReferences": 0.3737432658672333
+      }
+    },
+    {
+      "sentence": "This income limit is set to ensure that the benefits reach those who are truly in need.",
+      "role": "Eligibility",
+      "confidence": 0.5781809091567993,
+      "similarities": {
+        "ContextObjective": 0.45458173751831055,
+        "BenefitsAssistance": 0.5298281311988831,
+        "Eligibility": 0.5781809091567993,
+        "ApplicationProcess": 0.42906612157821655,
+        "TimelineFrequency": 0.41595011949539185,
+        "AuthoritiesGovernance": 0.3924016058444977,
+        "DefinitionsReferences": 0.3558742105960846
+      }
+    },
+    {
+      "sentence": "The application process for the Widow Pension Scheme is straightforward and involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5777690410614014,
+      "similarities": {
+        "ContextObjective": 0.537061333656311,
+        "BenefitsAssistance": 0.47743216156959534,
+        "Eligibility": 0.5020123720169067,
+        "ApplicationProcess": 0.5777690410614014,
+        "TimelineFrequency": 0.5062350630760193,
+        "AuthoritiesGovernance": 0.43450671434402466,
+        "DefinitionsReferences": 0.3976143002510071
+      }
+    },
+    {
+      "sentence": "Interested applicants must obtain the application form from the local Block Development Office or the Panchayat office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6368449926376343,
+      "similarities": {
+        "ContextObjective": 0.45682984590530396,
+        "BenefitsAssistance": 0.41048532724380493,
+        "Eligibility": 0.5437825918197632,
+        "ApplicationProcess": 0.6368449926376343,
+        "TimelineFrequency": 0.5129711627960205,
+        "AuthoritiesGovernance": 0.46373188495635986,
+        "DefinitionsReferences": 0.4090368449687958
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official West Bengal government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6040568351745605,
+      "similarities": {
+        "ContextObjective": 0.4178283214569092,
+        "BenefitsAssistance": 0.41860419511795044,
+        "Eligibility": 0.49043506383895874,
+        "ApplicationProcess": 0.6040568351745605,
+        "TimelineFrequency": 0.4760056138038635,
+        "AuthoritiesGovernance": 0.41001999378204346,
+        "DefinitionsReferences": 0.4280463457107544
+      }
+    },
+    {
+      "sentence": "Applicants must fill out the form with accurate details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7242897748947144,
+      "similarities": {
+        "ContextObjective": 0.5098625421524048,
+        "BenefitsAssistance": 0.5506886839866638,
+        "Eligibility": 0.6155420541763306,
+        "ApplicationProcess": 0.7242897748947144,
+        "TimelineFrequency": 0.5869989395141602,
+        "AuthoritiesGovernance": 0.48474448919296265,
+        "DefinitionsReferences": 0.515809178352356
+      }
+    },
+    {
+      "sentence": "The following documents are required to be submitted along with the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7652057409286499,
+      "similarities": {
+        "ContextObjective": 0.5270735025405884,
+        "BenefitsAssistance": 0.5856500864028931,
+        "Eligibility": 0.6200021505355835,
+        "ApplicationProcess": 0.7652057409286499,
+        "TimelineFrequency": 0.6100540161132812,
+        "AuthoritiesGovernance": 0.48790737986564636,
+        "DefinitionsReferences": 0.5725038051605225
+      }
+    },
+    {
+      "sentence": "A copy of the applicant's Aadhar card is mandatory.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5707524418830872,
+      "similarities": {
+        "ContextObjective": 0.4151257872581482,
+        "BenefitsAssistance": 0.44069141149520874,
+        "Eligibility": 0.49012571573257446,
+        "ApplicationProcess": 0.5707524418830872,
+        "TimelineFrequency": 0.45471060276031494,
+        "AuthoritiesGovernance": 0.40394872426986694,
+        "DefinitionsReferences": 0.4385949969291687
+      }
+    },
+    {
+      "sentence": "The death certificate of the husband must be provided.",
+      "role": "ApplicationProcess",
+      "confidence": 0.52852863073349,
+      "similarities": {
+        "ContextObjective": 0.41237831115722656,
+        "BenefitsAssistance": 0.5019437074661255,
+        "Eligibility": 0.4826622009277344,
+        "ApplicationProcess": 0.52852863073349,
+        "TimelineFrequency": 0.4352663457393646,
+        "AuthoritiesGovernance": 0.4360840320587158,
+        "DefinitionsReferences": 0.432216078042984
+      }
+    },
+    {
+      "sentence": "Proof of residence is also required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6592435836791992,
+      "similarities": {
+        "ContextObjective": 0.46859294176101685,
+        "BenefitsAssistance": 0.5277845859527588,
+        "Eligibility": 0.5868347883224487,
+        "ApplicationProcess": 0.6592435836791992,
+        "TimelineFrequency": 0.518838107585907,
+        "AuthoritiesGovernance": 0.4620150327682495,
+        "DefinitionsReferences": 0.5047852993011475
+      }
+    },
+    {
+      "sentence": "This can be in the form of a ration card or any government-issued document.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5703833103179932,
+      "similarities": {
+        "ContextObjective": 0.4896956980228424,
+        "BenefitsAssistance": 0.5703833103179932,
+        "Eligibility": 0.5202200412750244,
+        "ApplicationProcess": 0.5477588176727295,
+        "TimelineFrequency": 0.4803174138069153,
+        "AuthoritiesGovernance": 0.4857722818851471,
+        "DefinitionsReferences": 0.5482200980186462
+      }
+    },
+    {
+      "sentence": "Additionally, the applicant must submit an income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6248319745063782,
+      "similarities": {
+        "ContextObjective": 0.45800474286079407,
+        "BenefitsAssistance": 0.5220811367034912,
+        "Eligibility": 0.5745905637741089,
+        "ApplicationProcess": 0.6248319745063782,
+        "TimelineFrequency": 0.4986766278743744,
+        "AuthoritiesGovernance": 0.3830249011516571,
+        "DefinitionsReferences": 0.4296776056289673
+      }
+    },
+    {
+      "sentence": "This certificate should clearly state that the family income does not exceed ₹1,500 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49851059913635254,
+      "similarities": {
+        "ContextObjective": 0.42012879252433777,
+        "BenefitsAssistance": 0.49851059913635254,
+        "Eligibility": 0.4792850911617279,
+        "ApplicationProcess": 0.46710485219955444,
+        "TimelineFrequency": 0.41705435514450073,
+        "AuthoritiesGovernance": 0.32364585995674133,
+        "DefinitionsReferences": 0.3710067868232727
+      }
+    },
+    {
+      "sentence": "Once the application form and documents are ready, they must be submitted to the local Block Development Office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.631172776222229,
+      "similarities": {
+        "ContextObjective": 0.44815900921821594,
+        "BenefitsAssistance": 0.4162013530731201,
+        "Eligibility": 0.5183849930763245,
+        "ApplicationProcess": 0.631172776222229,
+        "TimelineFrequency": 0.5172246694564819,
+        "AuthoritiesGovernance": 0.4566009044647217,
+        "DefinitionsReferences": 0.4141797423362732
+      }
+    },
+    {
+      "sentence": "After submission, the application will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7391502261161804,
+      "similarities": {
+        "ContextObjective": 0.5164609551429749,
+        "BenefitsAssistance": 0.466097354888916,
+        "Eligibility": 0.6002185344696045,
+        "ApplicationProcess": 0.7391502261161804,
+        "TimelineFrequency": 0.5627283453941345,
+        "AuthoritiesGovernance": 0.4859579801559448,
+        "DefinitionsReferences": 0.48744621872901917
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6120513081550598,
+      "similarities": {
+        "ContextObjective": 0.428957998752594,
+        "BenefitsAssistance": 0.4635840654373169,
+        "Eligibility": 0.503865122795105,
+        "ApplicationProcess": 0.6120513081550598,
+        "TimelineFrequency": 0.5609571933746338,
+        "AuthoritiesGovernance": 0.44735193252563477,
+        "DefinitionsReferences": 0.45105642080307007
+      }
+    },
+    {
+      "sentence": "Once approved, the pension amount will be disbursed directly to the applicant's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4932512044906616,
+      "similarities": {
+        "ContextObjective": 0.3707771301269531,
+        "BenefitsAssistance": 0.4932512044906616,
+        "Eligibility": 0.4682884216308594,
+        "ApplicationProcess": 0.47921672463417053,
+        "TimelineFrequency": 0.41089436411857605,
+        "AuthoritiesGovernance": 0.38588210940361023,
+        "DefinitionsReferences": 0.3006570339202881
+      }
+    },
+    {
+      "sentence": "The disbursement of the pension occurs on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5667596459388733,
+      "similarities": {
+        "ContextObjective": 0.4842473864555359,
+        "BenefitsAssistance": 0.5667596459388733,
+        "Eligibility": 0.49113011360168457,
+        "ApplicationProcess": 0.47143352031707764,
+        "TimelineFrequency": 0.5280449390411377,
+        "AuthoritiesGovernance": 0.4683693051338196,
+        "DefinitionsReferences": 0.3965185880661011
+      }
+    },
+    {
+      "sentence": "The pension is credited to the bank account of the beneficiary on the first week of every month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5149704217910767,
+      "similarities": {
+        "ContextObjective": 0.4448077380657196,
+        "BenefitsAssistance": 0.5149704217910767,
+        "Eligibility": 0.4858822524547577,
+        "ApplicationProcess": 0.4337376356124878,
+        "TimelineFrequency": 0.4797707200050354,
+        "AuthoritiesGovernance": 0.39346563816070557,
+        "DefinitionsReferences": 0.3658584952354431
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Widow Pension Scheme is the Department of Women and Child Development and Social Welfare, Government of West Bengal.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5517444610595703,
+      "similarities": {
+        "ContextObjective": 0.4152374565601349,
+        "BenefitsAssistance": 0.42680320143699646,
+        "Eligibility": 0.4573137164115906,
+        "ApplicationProcess": 0.37256187200546265,
+        "TimelineFrequency": 0.3651355504989624,
+        "AuthoritiesGovernance": 0.5517444610595703,
+        "DefinitionsReferences": 0.3697463274002075
+      }
+    },
+    {
+      "sentence": "The contact details for the department can be found on the official West Bengal government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5116797685623169,
+      "similarities": {
+        "ContextObjective": 0.39151930809020996,
+        "BenefitsAssistance": 0.4486238360404968,
+        "Eligibility": 0.40674716234207153,
+        "ApplicationProcess": 0.47476261854171753,
+        "TimelineFrequency": 0.3972880244255066,
+        "AuthoritiesGovernance": 0.5116797685623169,
+        "DefinitionsReferences": 0.4448290765285492
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing financial security to thousands of widows across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.49375319480895996,
+      "similarities": {
+        "ContextObjective": 0.49375319480895996,
+        "BenefitsAssistance": 0.47606000304222107,
+        "Eligibility": 0.44089412689208984,
+        "ApplicationProcess": 0.363366961479187,
+        "TimelineFrequency": 0.3503776788711548,
+        "AuthoritiesGovernance": 0.35599857568740845,
+        "DefinitionsReferences": 0.35241979360580444
+      }
+    },
+    {
+      "sentence": "As of 2023, it is estimated that over 1.5 million widows are receiving benefits under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.45450592041015625,
+      "similarities": {
+        "ContextObjective": 0.45450592041015625,
+        "BenefitsAssistance": 0.45089948177337646,
+        "Eligibility": 0.41830068826675415,
+        "ApplicationProcess": 0.3677913248538971,
+        "TimelineFrequency": 0.3706296682357788,
+        "AuthoritiesGovernance": 0.3822716474533081,
+        "DefinitionsReferences": 0.3369463086128235
+      }
+    },
+    {
+      "sentence": "The scheme has been praised for its role in reducing poverty among widows.",
+      "role": "ContextObjective",
+      "confidence": 0.4929715692996979,
+      "similarities": {
+        "ContextObjective": 0.4929715692996979,
+        "BenefitsAssistance": 0.42017850279808044,
+        "Eligibility": 0.4161139130592346,
+        "ApplicationProcess": 0.3531707227230072,
+        "TimelineFrequency": 0.33459311723709106,
+        "AuthoritiesGovernance": 0.38157087564468384,
+        "DefinitionsReferences": 0.3348608613014221
+      }
+    },
+    {
+      "sentence": "It has also contributed to the empowerment of women in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.35325002670288086,
+      "similarities": {
+        "ContextObjective": 0.35325002670288086,
+        "BenefitsAssistance": 0.31409332156181335,
+        "Eligibility": 0.31641703844070435,
+        "ApplicationProcess": 0.26245349645614624,
+        "TimelineFrequency": 0.28264886140823364,
+        "AuthoritiesGovernance": 0.3318709135055542,
+        "DefinitionsReferences": 0.3053855895996094
+      }
+    },
+    {
+      "sentence": "The Widow Pension Scheme is part of a broader initiative by the West Bengal government to support vulnerable sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.4793221354484558,
+      "similarities": {
+        "ContextObjective": 0.4793221354484558,
+        "BenefitsAssistance": 0.44952911138534546,
+        "Eligibility": 0.45060306787490845,
+        "ApplicationProcess": 0.365753710269928,
+        "TimelineFrequency": 0.3614330589771271,
+        "AuthoritiesGovernance": 0.41726523637771606,
+        "DefinitionsReferences": 0.3404238522052765
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,200 crores for the welfare of women in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4231685996055603,
+      "similarities": {
+        "ContextObjective": 0.3759705424308777,
+        "BenefitsAssistance": 0.4231685996055603,
+        "Eligibility": 0.4002549350261688,
+        "ApplicationProcess": 0.3168351650238037,
+        "TimelineFrequency": 0.33242732286453247,
+        "AuthoritiesGovernance": 0.3931558132171631,
+        "DefinitionsReferences": 0.329129159450531
+      }
+    },
+    {
+      "sentence": "This budget includes funds for various schemes aimed at supporting widows and other marginalized groups.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5422981977462769,
+      "similarities": {
+        "ContextObjective": 0.4758727550506592,
+        "BenefitsAssistance": 0.5422981977462769,
+        "Eligibility": 0.46904659271240234,
+        "ApplicationProcess": 0.3478810489177704,
+        "TimelineFrequency": 0.4178137183189392,
+        "AuthoritiesGovernance": 0.4513532221317291,
+        "DefinitionsReferences": 0.4015394449234009
+      }
+    },
+    {
+      "sentence": "The Widow Pension Scheme has undergone several revisions since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5042417049407959,
+      "similarities": {
+        "ContextObjective": 0.5042417049407959,
+        "BenefitsAssistance": 0.4901667833328247,
+        "Eligibility": 0.46632471680641174,
+        "ApplicationProcess": 0.43514981865882874,
+        "TimelineFrequency": 0.46056804060935974,
+        "AuthoritiesGovernance": 0.4491475820541382,
+        "DefinitionsReferences": 0.39773207902908325
+      }
+    },
+    {
+      "sentence": "These revisions have aimed to increase the pension amount and expand eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.5268014073371887,
+      "similarities": {
+        "ContextObjective": 0.4621545374393463,
+        "BenefitsAssistance": 0.4817381799221039,
+        "Eligibility": 0.5268014073371887,
+        "ApplicationProcess": 0.46432971954345703,
+        "TimelineFrequency": 0.464786559343338,
+        "AuthoritiesGovernance": 0.4031822085380554,
+        "DefinitionsReferences": 0.41994965076446533
+      }
+    },
+    {
+      "sentence": "In 2021, the pension amount was increased from ₹750 to ₹1,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4695194959640503,
+      "similarities": {
+        "ContextObjective": 0.40106046199798584,
+        "BenefitsAssistance": 0.4695194959640503,
+        "Eligibility": 0.3972185254096985,
+        "ApplicationProcess": 0.3551222085952759,
+        "TimelineFrequency": 0.38158881664276123,
+        "AuthoritiesGovernance": 0.37039563059806824,
+        "DefinitionsReferences": 0.32043957710266113
+      }
+    },
+    {
+      "sentence": "This increase was a response to rising living costs and inflation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4943389892578125,
+      "similarities": {
+        "ContextObjective": 0.3973999619483948,
+        "BenefitsAssistance": 0.4943389892578125,
+        "Eligibility": 0.3762418329715729,
+        "ApplicationProcess": 0.36779725551605225,
+        "TimelineFrequency": 0.3818587064743042,
+        "AuthoritiesGovernance": 0.35318952798843384,
+        "DefinitionsReferences": 0.364245742559433
+      }
+    },
+    {
+      "sentence": "The scheme is regularly monitored to ensure that the benefits reach the intended beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5485950708389282,
+      "similarities": {
+        "ContextObjective": 0.5218405723571777,
+        "BenefitsAssistance": 0.5057805776596069,
+        "Eligibility": 0.5485950708389282,
+        "ApplicationProcess": 0.47104474902153015,
+        "TimelineFrequency": 0.4439603388309479,
+        "AuthoritiesGovernance": 0.4662250876426697,
+        "DefinitionsReferences": 0.4026888608932495
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5584428906440735,
+      "similarities": {
+        "ContextObjective": 0.5260372161865234,
+        "BenefitsAssistance": 0.5003200769424438,
+        "Eligibility": 0.534416913986206,
+        "ApplicationProcess": 0.4749782681465149,
+        "TimelineFrequency": 0.4199962317943573,
+        "AuthoritiesGovernance": 0.5584428906440735,
+        "DefinitionsReferences": 0.4378007650375366
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to inform widows about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4968390464782715,
+      "similarities": {
+        "ContextObjective": 0.4968390464782715,
+        "BenefitsAssistance": 0.4655809998512268,
+        "Eligibility": 0.44984132051467896,
+        "ApplicationProcess": 0.4245419502258301,
+        "TimelineFrequency": 0.39663615822792053,
+        "AuthoritiesGovernance": 0.4589604139328003,
+        "DefinitionsReferences": 0.3884546756744385
+      }
+    },
+    {
+      "sentence": "These campaigns aim to ensure that eligible widows are aware of their rights and the benefits available to them.",
+      "role": "Eligibility",
+      "confidence": 0.5470199584960938,
+      "similarities": {
+        "ContextObjective": 0.5162096619606018,
+        "BenefitsAssistance": 0.5028387308120728,
+        "Eligibility": 0.5470199584960938,
+        "ApplicationProcess": 0.47329771518707275,
+        "TimelineFrequency": 0.469149112701416,
+        "AuthoritiesGovernance": 0.4835156500339508,
+        "DefinitionsReferences": 0.4302651882171631
+      }
+    },
+    {
+      "sentence": "The Widow Pension Scheme is part of the larger framework of social welfare schemes in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5316542387008667,
+      "similarities": {
+        "ContextObjective": 0.5316542387008667,
+        "BenefitsAssistance": 0.4809260666370392,
+        "Eligibility": 0.45866140723228455,
+        "ApplicationProcess": 0.39201170206069946,
+        "TimelineFrequency": 0.3952823281288147,
+        "AuthoritiesGovernance": 0.4479241669178009,
+        "DefinitionsReferences": 0.3869090676307678
+      }
+    },
+    {
+      "sentence": "It reflects the commitment of the West Bengal government to uplift women and provide them with necessary support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.38383910059928894,
+      "similarities": {
+        "ContextObjective": 0.38366952538490295,
+        "BenefitsAssistance": 0.38383910059928894,
+        "Eligibility": 0.360912024974823,
+        "ApplicationProcess": 0.338828444480896,
+        "TimelineFrequency": 0.3112826943397522,
+        "AuthoritiesGovernance": 0.3736647665500641,
+        "DefinitionsReferences": 0.3646978437900543
+      }
+    },
+    {
+      "sentence": "The scheme has been recognized as a model for similar initiatives in other states.",
+      "role": "ContextObjective",
+      "confidence": 0.49335479736328125,
+      "similarities": {
+        "ContextObjective": 0.49335479736328125,
+        "BenefitsAssistance": 0.39343491196632385,
+        "Eligibility": 0.4695057272911072,
+        "ApplicationProcess": 0.4306561350822449,
+        "TimelineFrequency": 0.3988068103790283,
+        "AuthoritiesGovernance": 0.4289492964744568,
+        "DefinitionsReferences": 0.4220866858959198
+      }
+    },
+    {
+      "sentence": "The success of the Widow Pension Scheme has led to discussions about expanding its benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.5153581500053406,
+      "similarities": {
+        "ContextObjective": 0.5153581500053406,
+        "BenefitsAssistance": 0.46472886204719543,
+        "Eligibility": 0.4417629539966583,
+        "ApplicationProcess": 0.3654293417930603,
+        "TimelineFrequency": 0.3712124228477478,
+        "AuthoritiesGovernance": 0.3821268677711487,
+        "DefinitionsReferences": 0.37340259552001953
+      }
+    },
+    {
+      "sentence": "There are ongoing talks about increasing the pension amount further in the coming years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48452165722846985,
+      "similarities": {
+        "ContextObjective": 0.4755592346191406,
+        "BenefitsAssistance": 0.48452165722846985,
+        "Eligibility": 0.40573030710220337,
+        "ApplicationProcess": 0.3848961293697357,
+        "TimelineFrequency": 0.40720808506011963,
+        "AuthoritiesGovernance": 0.39322468638420105,
+        "DefinitionsReferences": 0.37658584117889404
+      }
+    },
+    {
+      "sentence": "The scheme has also inspired various non-governmental organizations to work alongside the government.",
+      "role": "ContextObjective",
+      "confidence": 0.525704026222229,
+      "similarities": {
+        "ContextObjective": 0.525704026222229,
+        "BenefitsAssistance": 0.41163402795791626,
+        "Eligibility": 0.4302728772163391,
+        "ApplicationProcess": 0.39439934492111206,
+        "TimelineFrequency": 0.3568549156188965,
+        "AuthoritiesGovernance": 0.4647464156150818,
+        "DefinitionsReferences": 0.4182720184326172
+      }
+    },
+    {
+      "sentence": "These organizations aim to provide additional support services to widows.",
+      "role": "ContextObjective",
+      "confidence": 0.4964682459831238,
+      "similarities": {
+        "ContextObjective": 0.4964682459831238,
+        "BenefitsAssistance": 0.4945502281188965,
+        "Eligibility": 0.4478924870491028,
+        "ApplicationProcess": 0.3874707818031311,
+        "TimelineFrequency": 0.41725677251815796,
+        "AuthoritiesGovernance": 0.4809955954551697,
+        "DefinitionsReferences": 0.42713749408721924
+      }
+    },
+    {
+      "sentence": "Such services include vocational training and counseling.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4760838747024536,
+      "similarities": {
+        "ContextObjective": 0.4675285816192627,
+        "BenefitsAssistance": 0.4760838747024536,
+        "Eligibility": 0.4187963008880615,
+        "ApplicationProcess": 0.44165679812431335,
+        "TimelineFrequency": 0.4663110375404358,
+        "AuthoritiesGovernance": 0.4450087249279022,
+        "DefinitionsReferences": 0.43129438161849976
+      }
+    },
+    {
+      "sentence": "The Widow Pension Scheme is a vital part of the social safety net in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.45609602332115173,
+      "similarities": {
+        "ContextObjective": 0.45609602332115173,
+        "BenefitsAssistance": 0.4285455644130707,
+        "Eligibility": 0.4201219081878662,
+        "ApplicationProcess": 0.3409523069858551,
+        "TimelineFrequency": 0.34604933857917786,
+        "AuthoritiesGovernance": 0.3588544428348541,
+        "DefinitionsReferences": 0.3180384635925293
+      }
+    },
+    {
+      "sentence": "It addresses the unique challenges faced by widows in society.",
+      "role": "ContextObjective",
+      "confidence": 0.4729500412940979,
+      "similarities": {
+        "ContextObjective": 0.4729500412940979,
+        "BenefitsAssistance": 0.43738651275634766,
+        "Eligibility": 0.45387008786201477,
+        "ApplicationProcess": 0.3741341233253479,
+        "TimelineFrequency": 0.39265552163124084,
+        "AuthoritiesGovernance": 0.4142390489578247,
+        "DefinitionsReferences": 0.3689352869987488
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in promoting gender equality and women's rights.",
+      "role": "ContextObjective",
+      "confidence": 0.546011745929718,
+      "similarities": {
+        "ContextObjective": 0.546011745929718,
+        "BenefitsAssistance": 0.3937569558620453,
+        "Eligibility": 0.42891454696655273,
+        "ApplicationProcess": 0.37411928176879883,
+        "TimelineFrequency": 0.3757190406322479,
+        "AuthoritiesGovernance": 0.41174906492233276,
+        "DefinitionsReferences": 0.38800501823425293
+      }
+    },
+    {
+      "sentence": "The government continues to seek ways to enhance the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5832756161689758,
+      "similarities": {
+        "ContextObjective": 0.5832756161689758,
+        "BenefitsAssistance": 0.4541071653366089,
+        "Eligibility": 0.49678173661231995,
+        "ApplicationProcess": 0.4915592074394226,
+        "TimelineFrequency": 0.4589315950870514,
+        "AuthoritiesGovernance": 0.5546202063560486,
+        "DefinitionsReferences": 0.43484318256378174
+      }
+    },
+    {
+      "sentence": "Regular assessments and evaluations are conducted to measure its impact.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5215190649032593,
+      "similarities": {
+        "ContextObjective": 0.4644046425819397,
+        "BenefitsAssistance": 0.4957330524921417,
+        "Eligibility": 0.4924224019050598,
+        "ApplicationProcess": 0.4922104477882385,
+        "TimelineFrequency": 0.49893027544021606,
+        "AuthoritiesGovernance": 0.5215190649032593,
+        "DefinitionsReferences": 0.496290922164917
+      }
+    },
+    {
+      "sentence": "The Widow Pension Scheme is a testament to the government's commitment to social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4671839773654938,
+      "similarities": {
+        "ContextObjective": 0.4671839773654938,
+        "BenefitsAssistance": 0.43934038281440735,
+        "Eligibility": 0.4075213670730591,
+        "ApplicationProcess": 0.3555455803871155,
+        "TimelineFrequency": 0.32858091592788696,
+        "AuthoritiesGovernance": 0.37627363204956055,
+        "DefinitionsReferences": 0.3573593199253082
+      }
+    },
+    {
+      "sentence": "It highlights the importance of targeted assistance for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.5253849625587463,
+      "similarities": {
+        "ContextObjective": 0.4594895541667938,
+        "BenefitsAssistance": 0.4524984359741211,
+        "Eligibility": 0.5253849625587463,
+        "ApplicationProcess": 0.3647216856479645,
+        "TimelineFrequency": 0.3914845585823059,
+        "AuthoritiesGovernance": 0.38741642236709595,
+        "DefinitionsReferences": 0.36502858996391296
+      }
+    },
+    {
+      "sentence": "The scheme serves as a crucial lifeline for many widows in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.4595194458961487,
+      "similarities": {
+        "ContextObjective": 0.4595194458961487,
+        "BenefitsAssistance": 0.3926542401313782,
+        "Eligibility": 0.42819181084632874,
+        "ApplicationProcess": 0.3606264293193817,
+        "TimelineFrequency": 0.3530743718147278,
+        "AuthoritiesGovernance": 0.3517615497112274,
+        "DefinitionsReferences": 0.32156121730804443
+      }
+    },
+    {
+      "sentence": "It provides them with the financial means to support themselves and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5594062805175781,
+      "similarities": {
+        "ContextObjective": 0.48383134603500366,
+        "BenefitsAssistance": 0.5594062805175781,
+        "Eligibility": 0.4813730716705322,
+        "ApplicationProcess": 0.42207080125808716,
+        "TimelineFrequency": 0.40135103464126587,
+        "AuthoritiesGovernance": 0.38892093300819397,
+        "DefinitionsReferences": 0.40571632981300354
+      }
+    },
+    {
+      "sentence": "The ongoing support from the government ensures that widows can access the help they need.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5097166895866394,
+      "similarities": {
+        "ContextObjective": 0.4486195743083954,
+        "BenefitsAssistance": 0.5097166895866394,
+        "Eligibility": 0.43585723638534546,
+        "ApplicationProcess": 0.40403395891189575,
+        "TimelineFrequency": 0.3813912868499756,
+        "AuthoritiesGovernance": 0.47417813539505005,
+        "DefinitionsReferences": 0.4230749309062958
+      }
+    },
+    {
+      "sentence": "The Widow Pension Scheme is a clear example of how government initiatives can make a difference in people's lives.",
+      "role": "ContextObjective",
+      "confidence": 0.4980774521827698,
+      "similarities": {
+        "ContextObjective": 0.4980774521827698,
+        "BenefitsAssistance": 0.4072922468185425,
+        "Eligibility": 0.4244416356086731,
+        "ApplicationProcess": 0.3548094928264618,
+        "TimelineFrequency": 0.3429991900920868,
+        "AuthoritiesGovernance": 0.3834035098552704,
+        "DefinitionsReferences": 0.3372495770454407
+      }
+    },
+    {
+      "sentence": "It stands as a beacon of hope for many women who have faced significant hardships.",
+      "role": "ContextObjective",
+      "confidence": 0.440700501203537,
+      "similarities": {
+        "ContextObjective": 0.440700501203537,
+        "BenefitsAssistance": 0.3786895275115967,
+        "Eligibility": 0.416951060295105,
+        "ApplicationProcess": 0.3334899842739105,
+        "TimelineFrequency": 0.34206923842430115,
+        "AuthoritiesGovernance": 0.3252347707748413,
+        "DefinitionsReferences": 0.36081933975219727
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve to meet the changing needs of society.",
+      "role": "ContextObjective",
+      "confidence": 0.6300320625305176,
+      "similarities": {
+        "ContextObjective": 0.6300320625305176,
+        "BenefitsAssistance": 0.4855343699455261,
+        "Eligibility": 0.5126891136169434,
+        "ApplicationProcess": 0.49846380949020386,
+        "TimelineFrequency": 0.4706959128379822,
+        "AuthoritiesGovernance": 0.4806939661502838,
+        "DefinitionsReferences": 0.4471507668495178
+      }
+    },
+    {
+      "sentence": "It remains a critical component of West Bengal's welfare policies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.40150874853134155,
+      "similarities": {
+        "ContextObjective": 0.3928685188293457,
+        "BenefitsAssistance": 0.40150874853134155,
+        "Eligibility": 0.3969966173171997,
+        "ApplicationProcess": 0.3541092872619629,
+        "TimelineFrequency": 0.3398866057395935,
+        "AuthoritiesGovernance": 0.39744144678115845,
+        "DefinitionsReferences": 0.383872389793396
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 26,
+    "BenefitsAssistance": 17,
+    "Eligibility": 11,
+    "ApplicationProcess": 12,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:50:27.510832"
+}

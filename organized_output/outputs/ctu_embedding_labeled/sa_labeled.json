@@ -1,0 +1,912 @@
+{
+  "scheme_name": "Safety Audit",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "The Safety Audit scheme is a significant initiative launched by the Government of India to enhance workplace safety across various industries.",
+      "role": "ContextObjective",
+      "confidence": 0.5296391844749451,
+      "similarities": {
+        "ContextObjective": 0.5296391844749451,
+        "BenefitsAssistance": 0.4077431857585907,
+        "Eligibility": 0.42553606629371643,
+        "ApplicationProcess": 0.4446513056755066,
+        "TimelineFrequency": 0.39350855350494385,
+        "AuthoritiesGovernance": 0.4373301565647125,
+        "DefinitionsReferences": 0.39018750190734863
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st July 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.5905721187591553,
+      "similarities": {
+        "ContextObjective": 0.5905721187591553,
+        "BenefitsAssistance": 0.44400954246520996,
+        "Eligibility": 0.47033417224884033,
+        "ApplicationProcess": 0.46345701813697815,
+        "TimelineFrequency": 0.4603818953037262,
+        "AuthoritiesGovernance": 0.42602595686912537,
+        "DefinitionsReferences": 0.34462273120880127
+      }
+    },
+    {
+      "sentence": "It was introduced under the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.521143913269043,
+      "similarities": {
+        "ContextObjective": 0.45923948287963867,
+        "BenefitsAssistance": 0.46218323707580566,
+        "Eligibility": 0.4708843529224396,
+        "ApplicationProcess": 0.48434215784072876,
+        "TimelineFrequency": 0.4516735374927521,
+        "AuthoritiesGovernance": 0.521143913269043,
+        "DefinitionsReferences": 0.43368983268737793
+      }
+    },
+    {
+      "sentence": "The primary objective of the Safety Audit scheme is to ensure compliance with safety regulations in workplaces.",
+      "role": "ContextObjective",
+      "confidence": 0.49836859107017517,
+      "similarities": {
+        "ContextObjective": 0.49836859107017517,
+        "BenefitsAssistance": 0.3548274040222168,
+        "Eligibility": 0.4340457022190094,
+        "ApplicationProcess": 0.4721943736076355,
+        "TimelineFrequency": 0.3928273916244507,
+        "AuthoritiesGovernance": 0.4244815707206726,
+        "DefinitionsReferences": 0.395257830619812
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce workplace accidents and fatalities by promoting a culture of safety.",
+      "role": "ContextObjective",
+      "confidence": 0.4758695960044861,
+      "similarities": {
+        "ContextObjective": 0.4758695960044861,
+        "BenefitsAssistance": 0.34877556562423706,
+        "Eligibility": 0.3954354524612427,
+        "ApplicationProcess": 0.40363267064094543,
+        "TimelineFrequency": 0.36728328466415405,
+        "AuthoritiesGovernance": 0.4063259959220886,
+        "DefinitionsReferences": 0.34986642003059387
+      }
+    },
+    {
+      "sentence": "The government has set a target to conduct safety audits in at least 10,000 workplaces annually.",
+      "role": "ContextObjective",
+      "confidence": 0.4369388818740845,
+      "similarities": {
+        "ContextObjective": 0.4369388818740845,
+        "BenefitsAssistance": 0.38081803917884827,
+        "Eligibility": 0.4304380416870117,
+        "ApplicationProcess": 0.415011465549469,
+        "TimelineFrequency": 0.37643706798553467,
+        "AuthoritiesGovernance": 0.4088236391544342,
+        "DefinitionsReferences": 0.4047868251800537
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme focuses on industries that are prone to high-risk activities.",
+      "role": "Eligibility",
+      "confidence": 0.4360543489456177,
+      "similarities": {
+        "ContextObjective": 0.41153672337532043,
+        "BenefitsAssistance": 0.3759545087814331,
+        "Eligibility": 0.4360543489456177,
+        "ApplicationProcess": 0.38325244188308716,
+        "TimelineFrequency": 0.3664504885673523,
+        "AuthoritiesGovernance": 0.3386455178260803,
+        "DefinitionsReferences": 0.3803821802139282
+      }
+    },
+    {
+      "sentence": "These industries include construction, manufacturing, mining, and chemical processing.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.457571417093277,
+      "similarities": {
+        "ContextObjective": 0.41156241297721863,
+        "BenefitsAssistance": 0.457571417093277,
+        "Eligibility": 0.4063796401023865,
+        "ApplicationProcess": 0.4039180278778076,
+        "TimelineFrequency": 0.43899232149124146,
+        "AuthoritiesGovernance": 0.4200465679168701,
+        "DefinitionsReferences": 0.4479944407939911
+      }
+    },
+    {
+      "sentence": "The scheme is designed to assess the safety measures implemented in these workplaces.",
+      "role": "ContextObjective",
+      "confidence": 0.5033614039421082,
+      "similarities": {
+        "ContextObjective": 0.5033614039421082,
+        "BenefitsAssistance": 0.44043904542922974,
+        "Eligibility": 0.49849140644073486,
+        "ApplicationProcess": 0.4793645143508911,
+        "TimelineFrequency": 0.4396620988845825,
+        "AuthoritiesGovernance": 0.4729548692703247,
+        "DefinitionsReferences": 0.42870479822158813
+      }
+    },
+    {
+      "sentence": "The audits are conducted by certified safety auditors who are trained in occupational safety and health standards.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4017542004585266,
+      "similarities": {
+        "ContextObjective": 0.3311489522457123,
+        "BenefitsAssistance": 0.3313276171684265,
+        "Eligibility": 0.36448270082473755,
+        "ApplicationProcess": 0.4017542004585266,
+        "TimelineFrequency": 0.31939697265625,
+        "AuthoritiesGovernance": 0.3699665665626526,
+        "DefinitionsReferences": 0.3588818907737732
+      }
+    },
+    {
+      "sentence": "The auditors evaluate compliance with the Factories Act of 1948 and the Mines Act of 1952.",
+      "role": "ApplicationProcess",
+      "confidence": 0.40891993045806885,
+      "similarities": {
+        "ContextObjective": 0.34194231033325195,
+        "BenefitsAssistance": 0.36006855964660645,
+        "Eligibility": 0.40874236822128296,
+        "ApplicationProcess": 0.40891993045806885,
+        "TimelineFrequency": 0.38063743710517883,
+        "AuthoritiesGovernance": 0.3886926472187042,
+        "DefinitionsReferences": 0.3963117003440857
+      }
+    },
+    {
+      "sentence": "They also assess adherence to the Building and Other Construction Workers Act of 1996.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.44742920994758606,
+      "similarities": {
+        "ContextObjective": 0.34593072533607483,
+        "BenefitsAssistance": 0.3830854892730713,
+        "Eligibility": 0.40972211956977844,
+        "ApplicationProcess": 0.43445834517478943,
+        "TimelineFrequency": 0.3827672302722931,
+        "AuthoritiesGovernance": 0.44742920994758606,
+        "DefinitionsReferences": 0.42570802569389343
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme provides financial assistance to industries that implement recommended safety measures.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48103082180023193,
+      "similarities": {
+        "ContextObjective": 0.43928349018096924,
+        "BenefitsAssistance": 0.48103082180023193,
+        "Eligibility": 0.4362815022468567,
+        "ApplicationProcess": 0.4264073371887207,
+        "TimelineFrequency": 0.3603050112724304,
+        "AuthoritiesGovernance": 0.39482414722442627,
+        "DefinitionsReferences": 0.3715261220932007
+      }
+    },
+    {
+      "sentence": "The government offers a subsidy of up to 50% of the cost incurred in implementing safety recommendations.",
+      "role": "Eligibility",
+      "confidence": 0.4395580291748047,
+      "similarities": {
+        "ContextObjective": 0.3925209045410156,
+        "BenefitsAssistance": 0.43496352434158325,
+        "Eligibility": 0.4395580291748047,
+        "ApplicationProcess": 0.4071527421474457,
+        "TimelineFrequency": 0.36708390712738037,
+        "AuthoritiesGovernance": 0.39347079396247864,
+        "DefinitionsReferences": 0.3871966004371643
+      }
+    },
+    {
+      "sentence": "This subsidy can go up to a maximum of ₹5 lakh for each workplace.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5163941383361816,
+      "similarities": {
+        "ContextObjective": 0.403255820274353,
+        "BenefitsAssistance": 0.5163941383361816,
+        "Eligibility": 0.4499887526035309,
+        "ApplicationProcess": 0.3778716027736664,
+        "TimelineFrequency": 0.4022076725959778,
+        "AuthoritiesGovernance": 0.37506330013275146,
+        "DefinitionsReferences": 0.40665674209594727
+      }
+    },
+    {
+      "sentence": "The benefits of the Safety Audit scheme extend to both employers and employees.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43936556577682495,
+      "similarities": {
+        "ContextObjective": 0.433204710483551,
+        "BenefitsAssistance": 0.43936556577682495,
+        "Eligibility": 0.42924487590789795,
+        "ApplicationProcess": 0.39570340514183044,
+        "TimelineFrequency": 0.36973169445991516,
+        "AuthoritiesGovernance": 0.3876425325870514,
+        "DefinitionsReferences": 0.3947562873363495
+      }
+    },
+    {
+      "sentence": "Employers benefit from reduced insurance premiums due to improved safety records.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5087931156158447,
+      "similarities": {
+        "ContextObjective": 0.37899649143218994,
+        "BenefitsAssistance": 0.5087931156158447,
+        "Eligibility": 0.4212493598461151,
+        "ApplicationProcess": 0.40778225660324097,
+        "TimelineFrequency": 0.37965986132621765,
+        "AuthoritiesGovernance": 0.40408855676651,
+        "DefinitionsReferences": 0.4124293327331543
+      }
+    },
+    {
+      "sentence": "Employees benefit from a safer working environment which reduces the risk of accidents.",
+      "role": "Eligibility",
+      "confidence": 0.4279787540435791,
+      "similarities": {
+        "ContextObjective": 0.41193264722824097,
+        "BenefitsAssistance": 0.3945827782154083,
+        "Eligibility": 0.4279787540435791,
+        "ApplicationProcess": 0.41375261545181274,
+        "TimelineFrequency": 0.3748936951160431,
+        "AuthoritiesGovernance": 0.4073846638202667,
+        "DefinitionsReferences": 0.38720768690109253
+      }
+    },
+    {
+      "sentence": "The scheme also aims to create awareness about occupational health and safety among workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5310767889022827,
+      "similarities": {
+        "ContextObjective": 0.5310767889022827,
+        "BenefitsAssistance": 0.40145277976989746,
+        "Eligibility": 0.44906124472618103,
+        "ApplicationProcess": 0.4513775706291199,
+        "TimelineFrequency": 0.371143102645874,
+        "AuthoritiesGovernance": 0.3951779305934906,
+        "DefinitionsReferences": 0.36167585849761963
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme encourages industries to adopt best practices in safety management.",
+      "role": "ContextObjective",
+      "confidence": 0.4287099838256836,
+      "similarities": {
+        "ContextObjective": 0.4287099838256836,
+        "BenefitsAssistance": 0.34033912420272827,
+        "Eligibility": 0.3693656325340271,
+        "ApplicationProcess": 0.4050421714782715,
+        "TimelineFrequency": 0.33270806074142456,
+        "AuthoritiesGovernance": 0.38426896929740906,
+        "DefinitionsReferences": 0.37903261184692383
+      }
+    },
+    {
+      "sentence": "Eligible industries must have a minimum of 50 employees to qualify for the audit.",
+      "role": "Eligibility",
+      "confidence": 0.5273721218109131,
+      "similarities": {
+        "ContextObjective": 0.40889349579811096,
+        "BenefitsAssistance": 0.41215288639068604,
+        "Eligibility": 0.5273721218109131,
+        "ApplicationProcess": 0.4764670133590698,
+        "TimelineFrequency": 0.42427200078964233,
+        "AuthoritiesGovernance": 0.36565929651260376,
+        "DefinitionsReferences": 0.3518366813659668
+      }
+    },
+    {
+      "sentence": "There are no specific educational qualifications required for the employees to benefit from the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4522807002067566,
+      "similarities": {
+        "ContextObjective": 0.42707598209381104,
+        "BenefitsAssistance": 0.36907362937927246,
+        "Eligibility": 0.4522807002067566,
+        "ApplicationProcess": 0.3658614754676819,
+        "TimelineFrequency": 0.33634889125823975,
+        "AuthoritiesGovernance": 0.3474850654602051,
+        "DefinitionsReferences": 0.28311121463775635
+      }
+    },
+    {
+      "sentence": "However, industries must demonstrate a commitment to improving safety standards.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4092620611190796,
+      "similarities": {
+        "ContextObjective": 0.3743506073951721,
+        "BenefitsAssistance": 0.3433178961277008,
+        "Eligibility": 0.40209001302719116,
+        "ApplicationProcess": 0.4092620611190796,
+        "TimelineFrequency": 0.3666433095932007,
+        "AuthoritiesGovernance": 0.3900914788246155,
+        "DefinitionsReferences": 0.39527013897895813
+      }
+    },
+    {
+      "sentence": "The application process for the Safety Audit scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6842201948165894,
+      "similarities": {
+        "ContextObjective": 0.5520983934402466,
+        "BenefitsAssistance": 0.4620593786239624,
+        "Eligibility": 0.5615291595458984,
+        "ApplicationProcess": 0.6842201948165894,
+        "TimelineFrequency": 0.5572648048400879,
+        "AuthoritiesGovernance": 0.47209715843200684,
+        "DefinitionsReferences": 0.4723335802555084
+      }
+    },
+    {
+      "sentence": "First, interested employers must register on the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5708712339401245,
+      "similarities": {
+        "ContextObjective": 0.44261103868484497,
+        "BenefitsAssistance": 0.42720675468444824,
+        "Eligibility": 0.49839597940444946,
+        "ApplicationProcess": 0.5708712339401245,
+        "TimelineFrequency": 0.4655386209487915,
+        "AuthoritiesGovernance": 0.46894896030426025,
+        "DefinitionsReferences": 0.45264172554016113
+      }
+    },
+    {
+      "sentence": "They need to provide details about their workplace and the nature of their operations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6090466380119324,
+      "similarities": {
+        "ContextObjective": 0.5377771854400635,
+        "BenefitsAssistance": 0.6090466380119324,
+        "Eligibility": 0.5785820484161377,
+        "ApplicationProcess": 0.5888713598251343,
+        "TimelineFrequency": 0.5403878688812256,
+        "AuthoritiesGovernance": 0.5530608892440796,
+        "DefinitionsReferences": 0.5279656648635864
+      }
+    },
+    {
+      "sentence": "Next, they must submit an application for a safety audit.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6055965423583984,
+      "similarities": {
+        "ContextObjective": 0.42568033933639526,
+        "BenefitsAssistance": 0.3876538872718811,
+        "Eligibility": 0.488704651594162,
+        "ApplicationProcess": 0.6055965423583984,
+        "TimelineFrequency": 0.48123854398727417,
+        "AuthoritiesGovernance": 0.398518830537796,
+        "DefinitionsReferences": 0.3809131681919098
+      }
+    },
+    {
+      "sentence": "The application must include documents such as the company's registration certificate and employee details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6763389706611633,
+      "similarities": {
+        "ContextObjective": 0.5154467225074768,
+        "BenefitsAssistance": 0.5669330358505249,
+        "Eligibility": 0.6056163907051086,
+        "ApplicationProcess": 0.6763389706611633,
+        "TimelineFrequency": 0.5767613649368286,
+        "AuthoritiesGovernance": 0.44981589913368225,
+        "DefinitionsReferences": 0.550416886806488
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "If approved, a certified safety auditor is assigned to conduct the audit.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4653131663799286,
+      "similarities": {
+        "ContextObjective": 0.3534151315689087,
+        "BenefitsAssistance": 0.3543531000614166,
+        "Eligibility": 0.42319390177726746,
+        "ApplicationProcess": 0.4653131663799286,
+        "TimelineFrequency": 0.37486881017684937,
+        "AuthoritiesGovernance": 0.39938539266586304,
+        "DefinitionsReferences": 0.34851765632629395
+      }
+    },
+    {
+      "sentence": "The auditor will visit the workplace to assess safety measures and practices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.47600939869880676,
+      "similarities": {
+        "ContextObjective": 0.38177692890167236,
+        "BenefitsAssistance": 0.4232143759727478,
+        "Eligibility": 0.4131823778152466,
+        "ApplicationProcess": 0.47600939869880676,
+        "TimelineFrequency": 0.3973811864852905,
+        "AuthoritiesGovernance": 0.4101061522960663,
+        "DefinitionsReferences": 0.40519917011260986
+      }
+    },
+    {
+      "sentence": "After the audit, a detailed report is generated outlining the findings and recommendations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5155395865440369,
+      "similarities": {
+        "ContextObjective": 0.44165951013565063,
+        "BenefitsAssistance": 0.5155395865440369,
+        "Eligibility": 0.4013560116291046,
+        "ApplicationProcess": 0.46435609459877014,
+        "TimelineFrequency": 0.3932080864906311,
+        "AuthoritiesGovernance": 0.4403272271156311,
+        "DefinitionsReferences": 0.48899030685424805
+      }
+    },
+    {
+      "sentence": "Employers are then required to implement the recommended safety measures.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5068624019622803,
+      "similarities": {
+        "ContextObjective": 0.3944406807422638,
+        "BenefitsAssistance": 0.4419442415237427,
+        "Eligibility": 0.48506587743759155,
+        "ApplicationProcess": 0.50138920545578,
+        "TimelineFrequency": 0.40985435247421265,
+        "AuthoritiesGovernance": 0.5068624019622803,
+        "DefinitionsReferences": 0.46528714895248413
+      }
+    },
+    {
+      "sentence": "The timeline for the entire process from application to audit completion typically spans 3 to 6 months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5863394737243652,
+      "similarities": {
+        "ContextObjective": 0.4631459712982178,
+        "BenefitsAssistance": 0.47717776894569397,
+        "Eligibility": 0.4703461825847626,
+        "ApplicationProcess": 0.5744893550872803,
+        "TimelineFrequency": 0.5863394737243652,
+        "AuthoritiesGovernance": 0.44076597690582275,
+        "DefinitionsReferences": 0.4470498859882355
+      }
+    },
+    {
+      "sentence": "The frequency of audits is recommended to be conducted every two years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5097348690032959,
+      "similarities": {
+        "ContextObjective": 0.4093821048736572,
+        "BenefitsAssistance": 0.4231257140636444,
+        "Eligibility": 0.4142630100250244,
+        "ApplicationProcess": 0.42697060108184814,
+        "TimelineFrequency": 0.5097348690032959,
+        "AuthoritiesGovernance": 0.4169921875,
+        "DefinitionsReferences": 0.4311978816986084
+      }
+    },
+    {
+      "sentence": "However, industries can opt for more frequent audits based on their specific needs.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4740450978279114,
+      "similarities": {
+        "ContextObjective": 0.44465726613998413,
+        "BenefitsAssistance": 0.44530537724494934,
+        "Eligibility": 0.4583679735660553,
+        "ApplicationProcess": 0.4282589852809906,
+        "TimelineFrequency": 0.4740450978279114,
+        "AuthoritiesGovernance": 0.4084893465042114,
+        "DefinitionsReferences": 0.4515153467655182
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is implemented by the Directorate General of Factory Advice Service and Labour Institutes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.47410011291503906,
+      "similarities": {
+        "ContextObjective": 0.44729846715927124,
+        "BenefitsAssistance": 0.3781887888908386,
+        "Eligibility": 0.3859018087387085,
+        "ApplicationProcess": 0.39720648527145386,
+        "TimelineFrequency": 0.32751381397247314,
+        "AuthoritiesGovernance": 0.47410011291503906,
+        "DefinitionsReferences": 0.3459131419658661
+      }
+    },
+    {
+      "sentence": "This body operates under the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5698325634002686,
+      "similarities": {
+        "ContextObjective": 0.46477851271629333,
+        "BenefitsAssistance": 0.4710007309913635,
+        "Eligibility": 0.47337356209754944,
+        "ApplicationProcess": 0.47885021567344666,
+        "TimelineFrequency": 0.44134417176246643,
+        "AuthoritiesGovernance": 0.5698325634002686,
+        "DefinitionsReferences": 0.442442387342453
+      }
+    },
+    {
+      "sentence": "Contact details for the Directorate General can be found on the official Ministry of Labour and Employment website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5219351053237915,
+      "similarities": {
+        "ContextObjective": 0.42015859484672546,
+        "BenefitsAssistance": 0.4676608741283417,
+        "Eligibility": 0.43676209449768066,
+        "ApplicationProcess": 0.4727897047996521,
+        "TimelineFrequency": 0.41964665055274963,
+        "AuthoritiesGovernance": 0.5219351053237915,
+        "DefinitionsReferences": 0.44175201654434204
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is part of the government's broader initiative to improve workplace safety.",
+      "role": "ContextObjective",
+      "confidence": 0.46133071184158325,
+      "similarities": {
+        "ContextObjective": 0.46133071184158325,
+        "BenefitsAssistance": 0.38200104236602783,
+        "Eligibility": 0.3753390908241272,
+        "ApplicationProcess": 0.4176020920276642,
+        "TimelineFrequency": 0.3483404517173767,
+        "AuthoritiesGovernance": 0.4195241630077362,
+        "DefinitionsReferences": 0.37997281551361084
+      }
+    },
+    {
+      "sentence": "It aligns with the vision of the National Policy on Safety, Health, and Environment at the Workplace.",
+      "role": "ContextObjective",
+      "confidence": 0.47229695320129395,
+      "similarities": {
+        "ContextObjective": 0.47229695320129395,
+        "BenefitsAssistance": 0.38051968812942505,
+        "Eligibility": 0.41766929626464844,
+        "ApplicationProcess": 0.4026072323322296,
+        "TimelineFrequency": 0.35826075077056885,
+        "AuthoritiesGovernance": 0.4027166962623596,
+        "DefinitionsReferences": 0.4212949872016907
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹200 crore for the implementation of this scheme for the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4956884980201721,
+      "similarities": {
+        "ContextObjective": 0.4956884980201721,
+        "BenefitsAssistance": 0.48523998260498047,
+        "Eligibility": 0.4761210083961487,
+        "ApplicationProcess": 0.4286010265350342,
+        "TimelineFrequency": 0.42992299795150757,
+        "AuthoritiesGovernance": 0.49216964840888977,
+        "DefinitionsReferences": 0.3806677460670471
+      }
+    },
+    {
+      "sentence": "The scheme is expected to create thousands of jobs in the safety auditing sector.",
+      "role": "ContextObjective",
+      "confidence": 0.45618200302124023,
+      "similarities": {
+        "ContextObjective": 0.45618200302124023,
+        "BenefitsAssistance": 0.3638582229614258,
+        "Eligibility": 0.4115920066833496,
+        "ApplicationProcess": 0.39784950017929077,
+        "TimelineFrequency": 0.34619197249412537,
+        "AuthoritiesGovernance": 0.31458163261413574,
+        "DefinitionsReferences": 0.324170857667923
+      }
+    },
+    {
+      "sentence": "It also aims to enhance the skills of existing workers through training programs.",
+      "role": "ContextObjective",
+      "confidence": 0.47195619344711304,
+      "similarities": {
+        "ContextObjective": 0.47195619344711304,
+        "BenefitsAssistance": 0.3571164011955261,
+        "Eligibility": 0.40737175941467285,
+        "ApplicationProcess": 0.4038417339324951,
+        "TimelineFrequency": 0.396016925573349,
+        "AuthoritiesGovernance": 0.4488130211830139,
+        "DefinitionsReferences": 0.38399022817611694
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is a proactive approach to preventing workplace hazards.",
+      "role": "ContextObjective",
+      "confidence": 0.45987755060195923,
+      "similarities": {
+        "ContextObjective": 0.45987755060195923,
+        "BenefitsAssistance": 0.36887407302856445,
+        "Eligibility": 0.375688761472702,
+        "ApplicationProcess": 0.4096031188964844,
+        "TimelineFrequency": 0.36717140674591064,
+        "AuthoritiesGovernance": 0.37410151958465576,
+        "DefinitionsReferences": 0.3772142231464386
+      }
+    },
+    {
+      "sentence": "It emphasizes the importance of regular safety assessments in maintaining a safe work environment.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4115602970123291,
+      "similarities": {
+        "ContextObjective": 0.3600159287452698,
+        "BenefitsAssistance": 0.34870511293411255,
+        "Eligibility": 0.3670624792575836,
+        "ApplicationProcess": 0.39937764406204224,
+        "TimelineFrequency": 0.3891803026199341,
+        "AuthoritiesGovernance": 0.33799880743026733,
+        "DefinitionsReferences": 0.4115602970123291
+      }
+    },
+    {
+      "sentence": "Employers are encouraged to foster a culture of safety and compliance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46196240186691284,
+      "similarities": {
+        "ContextObjective": 0.41964849829673767,
+        "BenefitsAssistance": 0.41193628311157227,
+        "Eligibility": 0.45795416831970215,
+        "ApplicationProcess": 0.45890548825263977,
+        "TimelineFrequency": 0.40329158306121826,
+        "AuthoritiesGovernance": 0.46196240186691284,
+        "DefinitionsReferences": 0.44690054655075073
+      }
+    },
+    {
+      "sentence": "The scheme also includes provisions for training safety officers within organizations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.48954153060913086,
+      "similarities": {
+        "ContextObjective": 0.4823046326637268,
+        "BenefitsAssistance": 0.39238685369491577,
+        "Eligibility": 0.456504225730896,
+        "ApplicationProcess": 0.4086930751800537,
+        "TimelineFrequency": 0.38332706689834595,
+        "AuthoritiesGovernance": 0.48954153060913086,
+        "DefinitionsReferences": 0.41883859038352966
+      }
+    },
+    {
+      "sentence": "These officers will be responsible for ensuring ongoing compliance with safety standards.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4982038140296936,
+      "similarities": {
+        "ContextObjective": 0.3973901867866516,
+        "BenefitsAssistance": 0.3902510404586792,
+        "Eligibility": 0.472778856754303,
+        "ApplicationProcess": 0.48495110869407654,
+        "TimelineFrequency": 0.4169735610485077,
+        "AuthoritiesGovernance": 0.4982038140296936,
+        "DefinitionsReferences": 0.44522619247436523
+      }
+    },
+    {
+      "sentence": "The government provides a training subsidy of up to ₹50,000 for each safety officer trained.",
+      "role": "Eligibility",
+      "confidence": 0.4157658815383911,
+      "similarities": {
+        "ContextObjective": 0.380429208278656,
+        "BenefitsAssistance": 0.37913280725479126,
+        "Eligibility": 0.4157658815383911,
+        "ApplicationProcess": 0.37691253423690796,
+        "TimelineFrequency": 0.3598189353942871,
+        "AuthoritiesGovernance": 0.4022790193557739,
+        "DefinitionsReferences": 0.3642708659172058
+      }
+    },
+    {
+      "sentence": "This training focuses on the latest safety protocols and regulations.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.503542959690094,
+      "similarities": {
+        "ContextObjective": 0.4282078146934509,
+        "BenefitsAssistance": 0.44284164905548096,
+        "Eligibility": 0.4671671390533447,
+        "ApplicationProcess": 0.47940874099731445,
+        "TimelineFrequency": 0.4430201053619385,
+        "AuthoritiesGovernance": 0.4361715316772461,
+        "DefinitionsReferences": 0.503542959690094
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is crucial for industries that handle hazardous materials.",
+      "role": "ContextObjective",
+      "confidence": 0.4358064830303192,
+      "similarities": {
+        "ContextObjective": 0.4358064830303192,
+        "BenefitsAssistance": 0.3813202679157257,
+        "Eligibility": 0.40218257904052734,
+        "ApplicationProcess": 0.4213619828224182,
+        "TimelineFrequency": 0.3741813898086548,
+        "AuthoritiesGovernance": 0.3739839196205139,
+        "DefinitionsReferences": 0.38937777280807495
+      }
+    },
+    {
+      "sentence": "It helps in identifying potential risks and implementing corrective measures.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5261318683624268,
+      "similarities": {
+        "ContextObjective": 0.5219825506210327,
+        "BenefitsAssistance": 0.4974547028541565,
+        "Eligibility": 0.5195770263671875,
+        "ApplicationProcess": 0.5261318683624268,
+        "TimelineFrequency": 0.4748244881629944,
+        "AuthoritiesGovernance": 0.5145132541656494,
+        "DefinitionsReferences": 0.49420031905174255
+      }
+    },
+    {
+      "sentence": "The scheme also promotes transparency and accountability in safety management.",
+      "role": "ContextObjective",
+      "confidence": 0.4644296169281006,
+      "similarities": {
+        "ContextObjective": 0.4644296169281006,
+        "BenefitsAssistance": 0.41312289237976074,
+        "Eligibility": 0.4281265139579773,
+        "ApplicationProcess": 0.4595715403556824,
+        "TimelineFrequency": 0.37819886207580566,
+        "AuthoritiesGovernance": 0.4175451695919037,
+        "DefinitionsReferences": 0.3615947961807251
+      }
+    },
+    {
+      "sentence": "Employers who fail to comply with safety recommendations may face penalties.",
+      "role": "Eligibility",
+      "confidence": 0.4965670704841614,
+      "similarities": {
+        "ContextObjective": 0.31161728501319885,
+        "BenefitsAssistance": 0.40736353397369385,
+        "Eligibility": 0.4965670704841614,
+        "ApplicationProcess": 0.42841053009033203,
+        "TimelineFrequency": 0.40786290168762207,
+        "AuthoritiesGovernance": 0.46958982944488525,
+        "DefinitionsReferences": 0.4380113482475281
+      }
+    },
+    {
+      "sentence": "These penalties can include fines and restrictions on operations until compliance is achieved.",
+      "role": "Eligibility",
+      "confidence": 0.5839242935180664,
+      "similarities": {
+        "ContextObjective": 0.39296284317970276,
+        "BenefitsAssistance": 0.5024440288543701,
+        "Eligibility": 0.5839242935180664,
+        "ApplicationProcess": 0.5133187174797058,
+        "TimelineFrequency": 0.49815213680267334,
+        "AuthoritiesGovernance": 0.5096993446350098,
+        "DefinitionsReferences": 0.5029257535934448
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is a vital step towards achieving zero accidents in workplaces.",
+      "role": "ContextObjective",
+      "confidence": 0.45892420411109924,
+      "similarities": {
+        "ContextObjective": 0.45892420411109924,
+        "BenefitsAssistance": 0.3412940502166748,
+        "Eligibility": 0.3592680096626282,
+        "ApplicationProcess": 0.4258514940738678,
+        "TimelineFrequency": 0.337226003408432,
+        "AuthoritiesGovernance": 0.37215113639831543,
+        "DefinitionsReferences": 0.3467547297477722
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to worker safety and health.",
+      "role": "ApplicationProcess",
+      "confidence": 0.42614200711250305,
+      "similarities": {
+        "ContextObjective": 0.3948785662651062,
+        "BenefitsAssistance": 0.4070753753185272,
+        "Eligibility": 0.40997862815856934,
+        "ApplicationProcess": 0.42614200711250305,
+        "TimelineFrequency": 0.3644402027130127,
+        "AuthoritiesGovernance": 0.4095328748226166,
+        "DefinitionsReferences": 0.4222559630870819
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly reduce the number of workplace accidents in India.",
+      "role": "ContextObjective",
+      "confidence": 0.3910518288612366,
+      "similarities": {
+        "ContextObjective": 0.3910518288612366,
+        "BenefitsAssistance": 0.3256957530975342,
+        "Eligibility": 0.34368690848350525,
+        "ApplicationProcess": 0.3368373513221741,
+        "TimelineFrequency": 0.28826427459716797,
+        "AuthoritiesGovernance": 0.3350314497947693,
+        "DefinitionsReferences": 0.275104284286499
+      }
+    },
+    {
+      "sentence": "By promoting safety audits, the government aims to create a safer working environment for all.",
+      "role": "ContextObjective",
+      "confidence": 0.4241108298301697,
+      "similarities": {
+        "ContextObjective": 0.4241108298301697,
+        "BenefitsAssistance": 0.3524811863899231,
+        "Eligibility": 0.3956570327281952,
+        "ApplicationProcess": 0.39604705572128296,
+        "TimelineFrequency": 0.32843875885009766,
+        "AuthoritiesGovernance": 0.4148905873298645,
+        "DefinitionsReferences": 0.3802661895751953
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is a comprehensive initiative that addresses the critical issue of workplace safety.",
+      "role": "ContextObjective",
+      "confidence": 0.4930446147918701,
+      "similarities": {
+        "ContextObjective": 0.4930446147918701,
+        "BenefitsAssistance": 0.40165549516677856,
+        "Eligibility": 0.3947018086910248,
+        "ApplicationProcess": 0.42635828256607056,
+        "TimelineFrequency": 0.37614530324935913,
+        "AuthoritiesGovernance": 0.39598309993743896,
+        "DefinitionsReferences": 0.35270577669143677
+      }
+    },
+    {
+      "sentence": "It provides a structured framework for industries to assess and improve their safety practices.",
+      "role": "ContextObjective",
+      "confidence": 0.47549667954444885,
+      "similarities": {
+        "ContextObjective": 0.47549667954444885,
+        "BenefitsAssistance": 0.42273300886154175,
+        "Eligibility": 0.45236778259277344,
+        "ApplicationProcess": 0.45086783170700073,
+        "TimelineFrequency": 0.4373224079608917,
+        "AuthoritiesGovernance": 0.46083176136016846,
+        "DefinitionsReferences": 0.4618702828884125
+      }
+    },
+    {
+      "sentence": "Through this scheme, the government seeks to ensure that safety is prioritized in every workplace across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4945219159126282,
+      "similarities": {
+        "ContextObjective": 0.4945219159126282,
+        "BenefitsAssistance": 0.40911710262298584,
+        "Eligibility": 0.46474167704582214,
+        "ApplicationProcess": 0.4438261091709137,
+        "TimelineFrequency": 0.3986849784851074,
+        "AuthoritiesGovernance": 0.43703174591064453,
+        "DefinitionsReferences": 0.4073491096496582
+      }
+    },
+    {
+      "sentence": "The Safety Audit scheme is a testament to India's commitment to enhancing occupational health and safety standards.",
+      "role": "ApplicationProcess",
+      "confidence": 0.3933672308921814,
+      "similarities": {
+        "ContextObjective": 0.3924756944179535,
+        "BenefitsAssistance": 0.33921152353286743,
+        "Eligibility": 0.3594450354576111,
+        "ApplicationProcess": 0.3933672308921814,
+        "TimelineFrequency": 0.3077056407928467,
+        "AuthoritiesGovernance": 0.3234374523162842,
+        "DefinitionsReferences": 0.3506510257720947
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 22,
+    "AuthoritiesGovernance": 9,
+    "Eligibility": 8,
+    "BenefitsAssistance": 7,
+    "ApplicationProcess": 13,
+    "TimelineFrequency": 3,
+    "DefinitionsReferences": 2
+  },
+  "processing_timestamp": "2025-09-25T20:32:30.244220"
+}

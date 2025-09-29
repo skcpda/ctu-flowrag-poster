@@ -1,0 +1,659 @@
+{
+  "scheme_name": "Employees Cooperative Societies Surety Loan",
+  "total_sentences": 46,
+  "labeled_sentences": [
+    {
+      "sentence": "The Employees Cooperative Societies Surety Loan scheme was launched by the Government of India to provide financial assistance to employees who are members of cooperative societies.",
+      "role": "ContextObjective",
+      "confidence": 0.5336557626724243,
+      "similarities": {
+        "ContextObjective": 0.5336557626724243,
+        "BenefitsAssistance": 0.5080329179763794,
+        "Eligibility": 0.4881526827812195,
+        "ApplicationProcess": 0.4695398807525635,
+        "TimelineFrequency": 0.4467442035675049,
+        "AuthoritiesGovernance": 0.43979746103286743,
+        "DefinitionsReferences": 0.402030885219574
+      }
+    },
+    {
+      "sentence": "This scheme was introduced on 1st April 2021 as part of the government's initiative to enhance the welfare of employees working in various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.5409586429595947,
+      "similarities": {
+        "ContextObjective": 0.5409586429595947,
+        "BenefitsAssistance": 0.46439072489738464,
+        "Eligibility": 0.5016989707946777,
+        "ApplicationProcess": 0.44549471139907837,
+        "TimelineFrequency": 0.4562985301017761,
+        "AuthoritiesGovernance": 0.5233720541000366,
+        "DefinitionsReferences": 0.3817158341407776
+      }
+    },
+    {
+      "sentence": "The primary objective of the Employees Cooperative Societies Surety Loan scheme is to facilitate access to credit for employees who may not have sufficient collateral to secure loans from traditional financial institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.5430386066436768,
+      "similarities": {
+        "ContextObjective": 0.5430386066436768,
+        "BenefitsAssistance": 0.47892430424690247,
+        "Eligibility": 0.508083701133728,
+        "ApplicationProcess": 0.4719890058040619,
+        "TimelineFrequency": 0.44201087951660156,
+        "AuthoritiesGovernance": 0.39885056018829346,
+        "DefinitionsReferences": 0.3827788531780243
+      }
+    },
+    {
+      "sentence": "The scheme aims to empower cooperative societies by enabling them to offer loans to their members, thereby promoting self-reliance and financial independence among employees.",
+      "role": "ContextObjective",
+      "confidence": 0.5313029289245605,
+      "similarities": {
+        "ContextObjective": 0.5313029289245605,
+        "BenefitsAssistance": 0.45996561646461487,
+        "Eligibility": 0.44980335235595703,
+        "ApplicationProcess": 0.39584779739379883,
+        "TimelineFrequency": 0.39445459842681885,
+        "AuthoritiesGovernance": 0.38739874958992004,
+        "DefinitionsReferences": 0.3501698970794678
+      }
+    },
+    {
+      "sentence": "The government has set a measurable target of disbursing loans worth ₹500 crores in the first year of the scheme's implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.48654380440711975,
+      "similarities": {
+        "ContextObjective": 0.48654380440711975,
+        "BenefitsAssistance": 0.4676748514175415,
+        "Eligibility": 0.4479442238807678,
+        "ApplicationProcess": 0.3863687813282013,
+        "TimelineFrequency": 0.39163738489151,
+        "AuthoritiesGovernance": 0.3602241277694702,
+        "DefinitionsReferences": 0.33613255620002747
+      }
+    },
+    {
+      "sentence": "The benefits of the Employees Cooperative Societies Surety Loan scheme include the provision of loans up to ₹2 lakhs for eligible members of cooperative societies.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5311787724494934,
+      "similarities": {
+        "ContextObjective": 0.47501900792121887,
+        "BenefitsAssistance": 0.5311787724494934,
+        "Eligibility": 0.48291894793510437,
+        "ApplicationProcess": 0.4294794201850891,
+        "TimelineFrequency": 0.4226532578468323,
+        "AuthoritiesGovernance": 0.37088194489479065,
+        "DefinitionsReferences": 0.39553898572921753
+      }
+    },
+    {
+      "sentence": "The interest rate on these loans is capped at 7 percent per annum, making it an attractive option for employees seeking financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4531540870666504,
+      "similarities": {
+        "ContextObjective": 0.38096851110458374,
+        "BenefitsAssistance": 0.4531540870666504,
+        "Eligibility": 0.41793203353881836,
+        "ApplicationProcess": 0.34993988275527954,
+        "TimelineFrequency": 0.3768739700317383,
+        "AuthoritiesGovernance": 0.2775339186191559,
+        "DefinitionsReferences": 0.3014785051345825
+      }
+    },
+    {
+      "sentence": "The loan amount can be utilized for various purposes such as medical emergencies, education expenses, home repairs, and other personal financial needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.609455943107605,
+      "similarities": {
+        "ContextObjective": 0.4771301746368408,
+        "BenefitsAssistance": 0.609455943107605,
+        "Eligibility": 0.5008059144020081,
+        "ApplicationProcess": 0.4653477668762207,
+        "TimelineFrequency": 0.4963424801826477,
+        "AuthoritiesGovernance": 0.401084303855896,
+        "DefinitionsReferences": 0.47719621658325195
+      }
+    },
+    {
+      "sentence": "To be eligible for the Employees Cooperative Societies Surety Loan, applicants must be members of a registered cooperative society.",
+      "role": "Eligibility",
+      "confidence": 0.5385549664497375,
+      "similarities": {
+        "ContextObjective": 0.4044969379901886,
+        "BenefitsAssistance": 0.4144943654537201,
+        "Eligibility": 0.5385549664497375,
+        "ApplicationProcess": 0.5026421546936035,
+        "TimelineFrequency": 0.4510080814361572,
+        "AuthoritiesGovernance": 0.3544299900531769,
+        "DefinitionsReferences": 0.34818220138549805
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set between 18 years and 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.6337158679962158,
+      "similarities": {
+        "ContextObjective": 0.478800505399704,
+        "BenefitsAssistance": 0.46022897958755493,
+        "Eligibility": 0.6337158679962158,
+        "ApplicationProcess": 0.5639057755470276,
+        "TimelineFrequency": 0.5531753301620483,
+        "AuthoritiesGovernance": 0.4305780231952667,
+        "DefinitionsReferences": 0.4065268635749817
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must have a stable source of income and should not have any outstanding loans from other financial institutions that exceed ₹50,000.",
+      "role": "Eligibility",
+      "confidence": 0.55495285987854,
+      "similarities": {
+        "ContextObjective": 0.4075043797492981,
+        "BenefitsAssistance": 0.45098191499710083,
+        "Eligibility": 0.55495285987854,
+        "ApplicationProcess": 0.48840898275375366,
+        "TimelineFrequency": 0.430203914642334,
+        "AuthoritiesGovernance": 0.3347092270851135,
+        "DefinitionsReferences": 0.36086463928222656
+      }
+    },
+    {
+      "sentence": "The application process for the Employees Cooperative Societies Surety Loan involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.654787540435791,
+      "similarities": {
+        "ContextObjective": 0.5059927105903625,
+        "BenefitsAssistance": 0.5233945846557617,
+        "Eligibility": 0.5477771759033203,
+        "ApplicationProcess": 0.654787540435791,
+        "TimelineFrequency": 0.5711691379547119,
+        "AuthoritiesGovernance": 0.4402957558631897,
+        "DefinitionsReferences": 0.46587812900543213
+      }
+    },
+    {
+      "sentence": "First, interested applicants must approach their respective cooperative society and obtain an application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6376694440841675,
+      "similarities": {
+        "ContextObjective": 0.5142362713813782,
+        "BenefitsAssistance": 0.43357691168785095,
+        "Eligibility": 0.5351055264472961,
+        "ApplicationProcess": 0.6376694440841675,
+        "TimelineFrequency": 0.5163342356681824,
+        "AuthoritiesGovernance": 0.43223118782043457,
+        "DefinitionsReferences": 0.39361345767974854
+      }
+    },
+    {
+      "sentence": "The application form must be duly filled out and submitted along with the required documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7276721000671387,
+      "similarities": {
+        "ContextObjective": 0.5134610533714294,
+        "BenefitsAssistance": 0.5070782899856567,
+        "Eligibility": 0.5817809104919434,
+        "ApplicationProcess": 0.7276721000671387,
+        "TimelineFrequency": 0.5504885911941528,
+        "AuthoritiesGovernance": 0.4520692825317383,
+        "DefinitionsReferences": 0.5011835694313049
+      }
+    },
+    {
+      "sentence": "Required documents include proof of identity such as an Aadhaar card or voter ID, proof of income such as salary slips or income tax returns, and proof of membership in the cooperative society.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5937459468841553,
+      "similarities": {
+        "ContextObjective": 0.4714803397655487,
+        "BenefitsAssistance": 0.5771763324737549,
+        "Eligibility": 0.5183615684509277,
+        "ApplicationProcess": 0.5937459468841553,
+        "TimelineFrequency": 0.4893691837787628,
+        "AuthoritiesGovernance": 0.46128910779953003,
+        "DefinitionsReferences": 0.5164255499839783
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, the cooperative society will conduct a verification process to assess the applicant's eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6831439137458801,
+      "similarities": {
+        "ContextObjective": 0.5044799447059631,
+        "BenefitsAssistance": 0.4752121865749359,
+        "Eligibility": 0.5983260869979858,
+        "ApplicationProcess": 0.6831439137458801,
+        "TimelineFrequency": 0.5571775436401367,
+        "AuthoritiesGovernance": 0.4249316453933716,
+        "DefinitionsReferences": 0.41239386796951294
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 7 to 10 working days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6060011386871338,
+      "similarities": {
+        "ContextObjective": 0.4155903458595276,
+        "BenefitsAssistance": 0.47159215807914734,
+        "Eligibility": 0.48182907700538635,
+        "ApplicationProcess": 0.6060011386871338,
+        "TimelineFrequency": 0.5595259666442871,
+        "AuthoritiesGovernance": 0.4525254964828491,
+        "DefinitionsReferences": 0.46170157194137573
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the cooperative society will forward the application to the designated financial institution for loan disbursement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5449278950691223,
+      "similarities": {
+        "ContextObjective": 0.4537279009819031,
+        "BenefitsAssistance": 0.5008633136749268,
+        "Eligibility": 0.5043336153030396,
+        "ApplicationProcess": 0.5449278950691223,
+        "TimelineFrequency": 0.44544610381126404,
+        "AuthoritiesGovernance": 0.4121791124343872,
+        "DefinitionsReferences": 0.3806380033493042
+      }
+    },
+    {
+      "sentence": "The loan amount is usually disbursed within 15 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5418010950088501,
+      "similarities": {
+        "ContextObjective": 0.40391653776168823,
+        "BenefitsAssistance": 0.5418010950088501,
+        "Eligibility": 0.47121235728263855,
+        "ApplicationProcess": 0.4689183831214905,
+        "TimelineFrequency": 0.5162666440010071,
+        "AuthoritiesGovernance": 0.4040825366973877,
+        "DefinitionsReferences": 0.39815282821655273
+      }
+    },
+    {
+      "sentence": "The repayment period for the loan is set at a maximum of 36 months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5283864736557007,
+      "similarities": {
+        "ContextObjective": 0.4527612328529358,
+        "BenefitsAssistance": 0.5210938453674316,
+        "Eligibility": 0.5258613228797913,
+        "ApplicationProcess": 0.45968300104141235,
+        "TimelineFrequency": 0.5283864736557007,
+        "AuthoritiesGovernance": 0.39565983414649963,
+        "DefinitionsReferences": 0.42380350828170776
+      }
+    },
+    {
+      "sentence": "Loan repayments can be made through monthly installments, ensuring that the burden on borrowers is minimized.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4865083694458008,
+      "similarities": {
+        "ContextObjective": 0.4220415949821472,
+        "BenefitsAssistance": 0.4865083694458008,
+        "Eligibility": 0.4501629173755646,
+        "ApplicationProcess": 0.4257815480232239,
+        "TimelineFrequency": 0.47280681133270264,
+        "AuthoritiesGovernance": 0.3710791766643524,
+        "DefinitionsReferences": 0.3753042221069336
+      }
+    },
+    {
+      "sentence": "The Employees Cooperative Societies Surety Loan scheme is implemented by the Ministry of Cooperation in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4978071451187134,
+      "similarities": {
+        "ContextObjective": 0.48828673362731934,
+        "BenefitsAssistance": 0.48053479194641113,
+        "Eligibility": 0.48386600613594055,
+        "ApplicationProcess": 0.4742935299873352,
+        "TimelineFrequency": 0.4204045534133911,
+        "AuthoritiesGovernance": 0.4978071451187134,
+        "DefinitionsReferences": 0.4039157032966614
+      }
+    },
+    {
+      "sentence": "The Ministry of Cooperation is responsible for overseeing the functioning of cooperative societies and ensuring that the scheme is effectively executed.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5640864372253418,
+      "similarities": {
+        "ContextObjective": 0.5548713803291321,
+        "BenefitsAssistance": 0.4556523263454437,
+        "Eligibility": 0.4889402985572815,
+        "ApplicationProcess": 0.5051906108856201,
+        "TimelineFrequency": 0.42681801319122314,
+        "AuthoritiesGovernance": 0.5640864372253418,
+        "DefinitionsReferences": 0.4236311614513397
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance regarding the scheme, applicants can contact the Ministry of Cooperation at their official helpline number, which is available on their website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5447494983673096,
+      "similarities": {
+        "ContextObjective": 0.45705586671829224,
+        "BenefitsAssistance": 0.4697377383708954,
+        "Eligibility": 0.5016092658042908,
+        "ApplicationProcess": 0.5447494983673096,
+        "TimelineFrequency": 0.449084997177124,
+        "AuthoritiesGovernance": 0.48286283016204834,
+        "DefinitionsReferences": 0.3678196668624878
+      }
+    },
+    {
+      "sentence": "The scheme also encourages cooperative societies to establish robust financial management practices to ensure the sustainability of the loans provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4860881567001343,
+      "similarities": {
+        "ContextObjective": 0.47450125217437744,
+        "BenefitsAssistance": 0.4860881567001343,
+        "Eligibility": 0.4481602609157562,
+        "ApplicationProcess": 0.4474904537200928,
+        "TimelineFrequency": 0.4282415509223938,
+        "AuthoritiesGovernance": 0.3907169699668884,
+        "DefinitionsReferences": 0.38700437545776367
+      }
+    },
+    {
+      "sentence": "As of October 2023, over 10,000 cooperative societies have registered under this scheme across various states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4892914891242981,
+      "similarities": {
+        "ContextObjective": 0.4892914891242981,
+        "BenefitsAssistance": 0.4540030062198639,
+        "Eligibility": 0.478577196598053,
+        "ApplicationProcess": 0.41974055767059326,
+        "TimelineFrequency": 0.42583832144737244,
+        "AuthoritiesGovernance": 0.4152717590332031,
+        "DefinitionsReferences": 0.43658876419067383
+      }
+    },
+    {
+      "sentence": "The scheme has been particularly beneficial for employees in rural areas where access to traditional banking services is limited.",
+      "role": "Eligibility",
+      "confidence": 0.47741448879241943,
+      "similarities": {
+        "ContextObjective": 0.4244648814201355,
+        "BenefitsAssistance": 0.42446088790893555,
+        "Eligibility": 0.47741448879241943,
+        "ApplicationProcess": 0.39397382736206055,
+        "TimelineFrequency": 0.36642777919769287,
+        "AuthoritiesGovernance": 0.36544543504714966,
+        "DefinitionsReferences": 0.33566445112228394
+      }
+    },
+    {
+      "sentence": "Statistically, around 60 percent of the beneficiaries of this scheme are from the agricultural sector.",
+      "role": "Eligibility",
+      "confidence": 0.4368273913860321,
+      "similarities": {
+        "ContextObjective": 0.41038966178894043,
+        "BenefitsAssistance": 0.3769717812538147,
+        "Eligibility": 0.4368273913860321,
+        "ApplicationProcess": 0.36541929841041565,
+        "TimelineFrequency": 0.3432239890098572,
+        "AuthoritiesGovernance": 0.3638395667076111,
+        "DefinitionsReferences": 0.32274481654167175
+      }
+    },
+    {
+      "sentence": "The government has reported that approximately 70 percent of the loans disbursed have been used for educational purposes, highlighting the scheme's impact on improving access to education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4410800635814667,
+      "similarities": {
+        "ContextObjective": 0.4116153120994568,
+        "BenefitsAssistance": 0.4410800635814667,
+        "Eligibility": 0.40484675765037537,
+        "ApplicationProcess": 0.3517302870750427,
+        "TimelineFrequency": 0.3686363697052002,
+        "AuthoritiesGovernance": 0.3543223440647125,
+        "DefinitionsReferences": 0.35531675815582275
+      }
+    },
+    {
+      "sentence": "Furthermore, the Employees Cooperative Societies Surety Loan scheme has contributed to the financial literacy of employees, as cooperative societies often conduct workshops and training sessions for their members.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47123983502388,
+      "similarities": {
+        "ContextObjective": 0.42761486768722534,
+        "BenefitsAssistance": 0.47123983502388,
+        "Eligibility": 0.39181968569755554,
+        "ApplicationProcess": 0.3860136866569519,
+        "TimelineFrequency": 0.3752779960632324,
+        "AuthoritiesGovernance": 0.3782975673675537,
+        "DefinitionsReferences": 0.38653111457824707
+      }
+    },
+    {
+      "sentence": "The scheme has also fostered a sense of community among cooperative society members, as they support each other in times of financial need.",
+      "role": "ContextObjective",
+      "confidence": 0.48064643144607544,
+      "similarities": {
+        "ContextObjective": 0.48064643144607544,
+        "BenefitsAssistance": 0.4387195408344269,
+        "Eligibility": 0.36880412697792053,
+        "ApplicationProcess": 0.331310898065567,
+        "TimelineFrequency": 0.33348017930984497,
+        "AuthoritiesGovernance": 0.34660783410072327,
+        "DefinitionsReferences": 0.3404731750488281
+      }
+    },
+    {
+      "sentence": "In addition to individual loans, the scheme encourages cooperative societies to pool resources for larger community projects.",
+      "role": "ContextObjective",
+      "confidence": 0.47812724113464355,
+      "similarities": {
+        "ContextObjective": 0.47812724113464355,
+        "BenefitsAssistance": 0.4500972628593445,
+        "Eligibility": 0.4364203214645386,
+        "ApplicationProcess": 0.360615611076355,
+        "TimelineFrequency": 0.39296844601631165,
+        "AuthoritiesGovernance": 0.3720380663871765,
+        "DefinitionsReferences": 0.3713376522064209
+      }
+    },
+    {
+      "sentence": "These projects can include building community centers, schools, or health facilities that benefit all members of the cooperative society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46027034521102905,
+      "similarities": {
+        "ContextObjective": 0.4487032890319824,
+        "BenefitsAssistance": 0.46027034521102905,
+        "Eligibility": 0.44394636154174805,
+        "ApplicationProcess": 0.36628031730651855,
+        "TimelineFrequency": 0.3881337642669678,
+        "AuthoritiesGovernance": 0.42383313179016113,
+        "DefinitionsReferences": 0.3759707808494568
+      }
+    },
+    {
+      "sentence": "The government has allocated ₹200 crores for the promotion and awareness of the scheme to ensure that eligible employees are informed about the benefits available to them.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4773009717464447,
+      "similarities": {
+        "ContextObjective": 0.45035070180892944,
+        "BenefitsAssistance": 0.4773009717464447,
+        "Eligibility": 0.4750416874885559,
+        "ApplicationProcess": 0.40634289383888245,
+        "TimelineFrequency": 0.3648214340209961,
+        "AuthoritiesGovernance": 0.4328874945640564,
+        "DefinitionsReferences": 0.3743324875831604
+      }
+    },
+    {
+      "sentence": "The Employees Cooperative Societies Surety Loan scheme is part of a broader strategy by the Indian government to promote cooperative movements and enhance the socio-economic conditions of employees.",
+      "role": "ContextObjective",
+      "confidence": 0.5477222800254822,
+      "similarities": {
+        "ContextObjective": 0.5477222800254822,
+        "BenefitsAssistance": 0.4868750274181366,
+        "Eligibility": 0.48341935873031616,
+        "ApplicationProcess": 0.47114843130111694,
+        "TimelineFrequency": 0.4536290168762207,
+        "AuthoritiesGovernance": 0.4462113380432129,
+        "DefinitionsReferences": 0.43427371978759766
+      }
+    },
+    {
+      "sentence": "The scheme aligns with the government's vision of creating a self-reliant India by empowering employees through cooperative societies.",
+      "role": "ContextObjective",
+      "confidence": 0.5192058682441711,
+      "similarities": {
+        "ContextObjective": 0.5192058682441711,
+        "BenefitsAssistance": 0.3819444179534912,
+        "Eligibility": 0.3960840702056885,
+        "ApplicationProcess": 0.35971683263778687,
+        "TimelineFrequency": 0.3367454409599304,
+        "AuthoritiesGovernance": 0.3927299976348877,
+        "DefinitionsReferences": 0.3370000720024109
+      }
+    },
+    {
+      "sentence": "In terms of monitoring and evaluation, the Ministry of Cooperation conducts regular assessments to gauge the effectiveness of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5102330446243286,
+      "similarities": {
+        "ContextObjective": 0.49401193857192993,
+        "BenefitsAssistance": 0.4347127676010132,
+        "Eligibility": 0.4896695017814636,
+        "ApplicationProcess": 0.4913342595100403,
+        "TimelineFrequency": 0.47896242141723633,
+        "AuthoritiesGovernance": 0.5102330446243286,
+        "DefinitionsReferences": 0.42426615953445435
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme and address any challenges faced by applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5691587328910828,
+      "similarities": {
+        "ContextObjective": 0.5134950876235962,
+        "BenefitsAssistance": 0.47894567251205444,
+        "Eligibility": 0.5691587328910828,
+        "ApplicationProcess": 0.5192850232124329,
+        "TimelineFrequency": 0.46992745995521545,
+        "AuthoritiesGovernance": 0.4532269835472107,
+        "DefinitionsReferences": 0.41003602743148804
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various stakeholders, including cooperative society leaders and beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5152923464775085,
+      "similarities": {
+        "ContextObjective": 0.5152923464775085,
+        "BenefitsAssistance": 0.44083210825920105,
+        "Eligibility": 0.4682103395462036,
+        "ApplicationProcess": 0.389224112033844,
+        "TimelineFrequency": 0.3660737872123718,
+        "AuthoritiesGovernance": 0.4327841103076935,
+        "DefinitionsReferences": 0.3953590393066406
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have reported that the loans have significantly improved their financial stability and quality of life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4740176796913147,
+      "similarities": {
+        "ContextObjective": 0.40005677938461304,
+        "BenefitsAssistance": 0.4740176796913147,
+        "Eligibility": 0.430995374917984,
+        "ApplicationProcess": 0.36383330821990967,
+        "TimelineFrequency": 0.3341023325920105,
+        "AuthoritiesGovernance": 0.32746297121047974,
+        "DefinitionsReferences": 0.38672512769699097
+      }
+    },
+    {
+      "sentence": "The government continues to promote the importance of cooperative societies as a means of financial empowerment for employees.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4633066654205322,
+      "similarities": {
+        "ContextObjective": 0.4506019055843353,
+        "BenefitsAssistance": 0.4633066654205322,
+        "Eligibility": 0.38361161947250366,
+        "ApplicationProcess": 0.34879156947135925,
+        "TimelineFrequency": 0.3526983857154846,
+        "AuthoritiesGovernance": 0.42754071950912476,
+        "DefinitionsReferences": 0.3945649266242981
+      }
+    },
+    {
+      "sentence": "Overall, the Employees Cooperative Societies Surety Loan scheme represents a significant step towards enhancing the welfare of employees in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4636116325855255,
+      "similarities": {
+        "ContextObjective": 0.4570992588996887,
+        "BenefitsAssistance": 0.4636116325855255,
+        "Eligibility": 0.4315864145755768,
+        "ApplicationProcess": 0.41886967420578003,
+        "TimelineFrequency": 0.3719329833984375,
+        "AuthoritiesGovernance": 0.39900466799736023,
+        "DefinitionsReferences": 0.3804161250591278
+      }
+    },
+    {
+      "sentence": "By providing accessible financial support, the scheme aims to uplift the socio-economic status of employees and promote cooperative values.",
+      "role": "ContextObjective",
+      "confidence": 0.5099353790283203,
+      "similarities": {
+        "ContextObjective": 0.5099353790283203,
+        "BenefitsAssistance": 0.49431276321411133,
+        "Eligibility": 0.4522205889225006,
+        "ApplicationProcess": 0.38789474964141846,
+        "TimelineFrequency": 0.3525211811065674,
+        "AuthoritiesGovernance": 0.3643163740634918,
+        "DefinitionsReferences": 0.35896700620651245
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve further with additional features and benefits based on the needs of the employees and cooperative societies.",
+      "role": "ContextObjective",
+      "confidence": 0.5431269407272339,
+      "similarities": {
+        "ContextObjective": 0.5431269407272339,
+        "BenefitsAssistance": 0.510701596736908,
+        "Eligibility": 0.48221084475517273,
+        "ApplicationProcess": 0.443419486284256,
+        "TimelineFrequency": 0.43892282247543335,
+        "AuthoritiesGovernance": 0.448860228061676,
+        "DefinitionsReferences": 0.43658387660980225
+      }
+    },
+    {
+      "sentence": "In conclusion, the Employees Cooperative Societies Surety Loan scheme is a vital initiative that addresses the financial challenges faced by employees in cooperative societies.",
+      "role": "ContextObjective",
+      "confidence": 0.5080651044845581,
+      "similarities": {
+        "ContextObjective": 0.5080651044845581,
+        "BenefitsAssistance": 0.4814329743385315,
+        "Eligibility": 0.44712233543395996,
+        "ApplicationProcess": 0.42791539430618286,
+        "TimelineFrequency": 0.4057481288909912,
+        "AuthoritiesGovernance": 0.37971699237823486,
+        "DefinitionsReferences": 0.3716670870780945
+      }
+    },
+    {
+      "sentence": "Through this scheme, the Indian government aims to create a more inclusive financial ecosystem that supports the aspirations of employees across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.5500805974006653,
+      "similarities": {
+        "ContextObjective": 0.5500805974006653,
+        "BenefitsAssistance": 0.4540911912918091,
+        "Eligibility": 0.505547046661377,
+        "ApplicationProcess": 0.404447466135025,
+        "TimelineFrequency": 0.37772923707962036,
+        "AuthoritiesGovernance": 0.4234769940376282,
+        "DefinitionsReferences": 0.3738049566745758
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 15,
+    "BenefitsAssistance": 13,
+    "Eligibility": 6,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:42:37.721279"
+}

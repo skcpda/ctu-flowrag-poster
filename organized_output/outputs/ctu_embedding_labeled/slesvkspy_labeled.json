@@ -1,0 +1,841 @@
+{
+  "scheme_name": "Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana is a welfare scheme launched by the Government of Madhya Pradesh on November 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5074667930603027,
+      "similarities": {
+        "ContextObjective": 0.5074667930603027,
+        "BenefitsAssistance": 0.46617674827575684,
+        "Eligibility": 0.5059372186660767,
+        "ApplicationProcess": 0.4291198253631592,
+        "TimelineFrequency": 0.4595918655395508,
+        "AuthoritiesGovernance": 0.4634317457675934,
+        "DefinitionsReferences": 0.365750789642334
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to elderly farmers in the state.",
+      "role": "Eligibility",
+      "confidence": 0.4990239143371582,
+      "similarities": {
+        "ContextObjective": 0.4706203043460846,
+        "BenefitsAssistance": 0.4615383744239807,
+        "Eligibility": 0.4990239143371582,
+        "ApplicationProcess": 0.41574475169181824,
+        "TimelineFrequency": 0.38252782821655273,
+        "AuthoritiesGovernance": 0.3972212076187134,
+        "DefinitionsReferences": 0.33301854133605957
+      }
+    },
+    {
+      "sentence": "The primary objective of the scheme is to support farmers aged 60 years and above who are in need of financial security during their old age.",
+      "role": "ContextObjective",
+      "confidence": 0.5297020673751831,
+      "similarities": {
+        "ContextObjective": 0.5297020673751831,
+        "BenefitsAssistance": 0.4751758575439453,
+        "Eligibility": 0.5182604193687439,
+        "ApplicationProcess": 0.42365291714668274,
+        "TimelineFrequency": 0.3978121280670166,
+        "AuthoritiesGovernance": 0.3768523335456848,
+        "DefinitionsReferences": 0.34194397926330566
+      }
+    },
+    {
+      "sentence": "The government has set a target to benefit approximately 1.5 million elderly farmers under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.46545279026031494,
+      "similarities": {
+        "ContextObjective": 0.43383321166038513,
+        "BenefitsAssistance": 0.3764842748641968,
+        "Eligibility": 0.46545279026031494,
+        "ApplicationProcess": 0.3562611937522888,
+        "TimelineFrequency": 0.3305293321609497,
+        "AuthoritiesGovernance": 0.37985315918922424,
+        "DefinitionsReferences": 0.3105067014694214
+      }
+    },
+    {
+      "sentence": "The scheme provides a monthly pension of ₹3000 to eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5049194097518921,
+      "similarities": {
+        "ContextObjective": 0.48279792070388794,
+        "BenefitsAssistance": 0.4667748808860779,
+        "Eligibility": 0.5049194097518921,
+        "ApplicationProcess": 0.4048103094100952,
+        "TimelineFrequency": 0.3903261423110962,
+        "AuthoritiesGovernance": 0.3570519685745239,
+        "DefinitionsReferences": 0.3234110474586487
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover basic living expenses and ensure a dignified life for the elderly farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5208065509796143,
+      "similarities": {
+        "ContextObjective": 0.39544397592544556,
+        "BenefitsAssistance": 0.5208065509796143,
+        "Eligibility": 0.4288591742515564,
+        "ApplicationProcess": 0.3865000605583191,
+        "TimelineFrequency": 0.3494519591331482,
+        "AuthoritiesGovernance": 0.3711450397968292,
+        "DefinitionsReferences": 0.3836922347545624
+      }
+    },
+    {
+      "sentence": "The pension is disbursed directly into the bank accounts of the beneficiaries to ensure transparency and efficiency.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5161736011505127,
+      "similarities": {
+        "ContextObjective": 0.40822452306747437,
+        "BenefitsAssistance": 0.5161736011505127,
+        "Eligibility": 0.45147132873535156,
+        "ApplicationProcess": 0.4277935326099396,
+        "TimelineFrequency": 0.36050671339035034,
+        "AuthoritiesGovernance": 0.4354252517223358,
+        "DefinitionsReferences": 0.32348570227622986
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must be farmers who are residents of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5886281728744507,
+      "similarities": {
+        "ContextObjective": 0.4568096995353699,
+        "BenefitsAssistance": 0.3794742822647095,
+        "Eligibility": 0.5886281728744507,
+        "ApplicationProcess": 0.5067094564437866,
+        "TimelineFrequency": 0.4482727348804474,
+        "AuthoritiesGovernance": 0.3951296806335449,
+        "DefinitionsReferences": 0.34226852655410767
+      }
+    },
+    {
+      "sentence": "The age limit for eligibility is set at a minimum of 60 years.",
+      "role": "Eligibility",
+      "confidence": 0.603119432926178,
+      "similarities": {
+        "ContextObjective": 0.46048635244369507,
+        "BenefitsAssistance": 0.4285981357097626,
+        "Eligibility": 0.603119432926178,
+        "ApplicationProcess": 0.5039258003234863,
+        "TimelineFrequency": 0.48863670229911804,
+        "AuthoritiesGovernance": 0.38477110862731934,
+        "DefinitionsReferences": 0.3691829741001129
+      }
+    },
+    {
+      "sentence": "Additionally, the scheme is targeted towards farmers who do not receive any other pension from the government.",
+      "role": "ContextObjective",
+      "confidence": 0.4506528973579407,
+      "similarities": {
+        "ContextObjective": 0.4506528973579407,
+        "BenefitsAssistance": 0.3632591962814331,
+        "Eligibility": 0.4470750689506531,
+        "ApplicationProcess": 0.36581531167030334,
+        "TimelineFrequency": 0.34100034832954407,
+        "AuthoritiesGovernance": 0.3391413986682892,
+        "DefinitionsReferences": 0.2760205864906311
+      }
+    },
+    {
+      "sentence": "Income criteria specify that the annual income of the applicant should not exceed ₹2 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5893151760101318,
+      "similarities": {
+        "ContextObjective": 0.4696618914604187,
+        "BenefitsAssistance": 0.4920288622379303,
+        "Eligibility": 0.5893151760101318,
+        "ApplicationProcess": 0.5159742832183838,
+        "TimelineFrequency": 0.4677430987358093,
+        "AuthoritiesGovernance": 0.35887622833251953,
+        "DefinitionsReferences": 0.4037957191467285
+      }
+    },
+    {
+      "sentence": "This income limit is designed to ensure that the benefits reach those who are truly in need.",
+      "role": "Eligibility",
+      "confidence": 0.5694437026977539,
+      "similarities": {
+        "ContextObjective": 0.46633732318878174,
+        "BenefitsAssistance": 0.5231315493583679,
+        "Eligibility": 0.5694437026977539,
+        "ApplicationProcess": 0.4348670244216919,
+        "TimelineFrequency": 0.4230809211730957,
+        "AuthoritiesGovernance": 0.3927026391029358,
+        "DefinitionsReferences": 0.3585796356201172
+      }
+    },
+    {
+      "sentence": "The application process for the Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5253736972808838,
+      "similarities": {
+        "ContextObjective": 0.47494691610336304,
+        "BenefitsAssistance": 0.42147842049598694,
+        "Eligibility": 0.49654942750930786,
+        "ApplicationProcess": 0.5253736972808838,
+        "TimelineFrequency": 0.44450104236602783,
+        "AuthoritiesGovernance": 0.399117648601532,
+        "DefinitionsReferences": 0.3520822525024414
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the nearest Janpad Panchayat office to obtain the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5895118713378906,
+      "similarities": {
+        "ContextObjective": 0.40645918250083923,
+        "BenefitsAssistance": 0.35611438751220703,
+        "Eligibility": 0.49218618869781494,
+        "ApplicationProcess": 0.5895118713378906,
+        "TimelineFrequency": 0.4477647542953491,
+        "AuthoritiesGovernance": 0.41179388761520386,
+        "DefinitionsReferences": 0.3818870782852173
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official Madhya Pradesh government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5976494550704956,
+      "similarities": {
+        "ContextObjective": 0.42915359139442444,
+        "BenefitsAssistance": 0.4359188675880432,
+        "Eligibility": 0.4919329881668091,
+        "ApplicationProcess": 0.5976494550704956,
+        "TimelineFrequency": 0.4744570851325989,
+        "AuthoritiesGovernance": 0.42781299352645874,
+        "DefinitionsReferences": 0.43652480840682983
+      }
+    },
+    {
+      "sentence": "Along with the completed application form, applicants must submit several documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7336678504943848,
+      "similarities": {
+        "ContextObjective": 0.5113762617111206,
+        "BenefitsAssistance": 0.5492530465126038,
+        "Eligibility": 0.5980998277664185,
+        "ApplicationProcess": 0.7336678504943848,
+        "TimelineFrequency": 0.6237295866012573,
+        "AuthoritiesGovernance": 0.4835108816623688,
+        "DefinitionsReferences": 0.5621631145477295
+      }
+    },
+    {
+      "sentence": "These documents include proof of age such as an Aadhaar card or birth certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5684267282485962,
+      "similarities": {
+        "ContextObjective": 0.4404193162918091,
+        "BenefitsAssistance": 0.5477447509765625,
+        "Eligibility": 0.4813412129878998,
+        "ApplicationProcess": 0.5684267282485962,
+        "TimelineFrequency": 0.48991796374320984,
+        "AuthoritiesGovernance": 0.40092217922210693,
+        "DefinitionsReferences": 0.5093945860862732
+      }
+    },
+    {
+      "sentence": "Applicants must also provide proof of land ownership or farming activity.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6268488168716431,
+      "similarities": {
+        "ContextObjective": 0.49308496713638306,
+        "BenefitsAssistance": 0.48822861909866333,
+        "Eligibility": 0.6099209189414978,
+        "ApplicationProcess": 0.6268488168716431,
+        "TimelineFrequency": 0.5210294723510742,
+        "AuthoritiesGovernance": 0.4168536365032196,
+        "DefinitionsReferences": 0.4962884485721588
+      }
+    },
+    {
+      "sentence": "Additionally, an income certificate is required to verify that the annual income does not exceed the specified limit.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5197454690933228,
+      "similarities": {
+        "ContextObjective": 0.4168715476989746,
+        "BenefitsAssistance": 0.5006932020187378,
+        "Eligibility": 0.5125409364700317,
+        "ApplicationProcess": 0.5197454690933228,
+        "TimelineFrequency": 0.4232967495918274,
+        "AuthoritiesGovernance": 0.3228796124458313,
+        "DefinitionsReferences": 0.4027559161186218
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is processed by the local authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6885345578193665,
+      "similarities": {
+        "ContextObjective": 0.5255825519561768,
+        "BenefitsAssistance": 0.48096922039985657,
+        "Eligibility": 0.6016567349433899,
+        "ApplicationProcess": 0.6885345578193665,
+        "TimelineFrequency": 0.5906257629394531,
+        "AuthoritiesGovernance": 0.5711593627929688,
+        "DefinitionsReferences": 0.4760292172431946
+      }
+    },
+    {
+      "sentence": "The processing time for applications can take up to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6391170024871826,
+      "similarities": {
+        "ContextObjective": 0.46961939334869385,
+        "BenefitsAssistance": 0.48890596628189087,
+        "Eligibility": 0.5717184543609619,
+        "ApplicationProcess": 0.6200255155563354,
+        "TimelineFrequency": 0.6391170024871826,
+        "AuthoritiesGovernance": 0.4733281135559082,
+        "DefinitionsReferences": 0.4704573154449463
+      }
+    },
+    {
+      "sentence": "Beneficiaries are notified via SMS or through official communication about the approval of their application.",
+      "role": "Eligibility",
+      "confidence": 0.6284705400466919,
+      "similarities": {
+        "ContextObjective": 0.5178003907203674,
+        "BenefitsAssistance": 0.5481176376342773,
+        "Eligibility": 0.6284705400466919,
+        "ApplicationProcess": 0.6104583144187927,
+        "TimelineFrequency": 0.5652287006378174,
+        "AuthoritiesGovernance": 0.5214690566062927,
+        "DefinitionsReferences": 0.47189122438430786
+      }
+    },
+    {
+      "sentence": "The pension is disbursed on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5714160203933716,
+      "similarities": {
+        "ContextObjective": 0.472301185131073,
+        "BenefitsAssistance": 0.5714160203933716,
+        "Eligibility": 0.49323874711990356,
+        "ApplicationProcess": 0.4619866609573364,
+        "TimelineFrequency": 0.4985264539718628,
+        "AuthoritiesGovernance": 0.4651574492454529,
+        "DefinitionsReferences": 0.38756775856018066
+      }
+    },
+    {
+      "sentence": "Payments are typically made on the first week of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5678703188896179,
+      "similarities": {
+        "ContextObjective": 0.4507864713668823,
+        "BenefitsAssistance": 0.5433987975120544,
+        "Eligibility": 0.4735565781593323,
+        "ApplicationProcess": 0.4757734537124634,
+        "TimelineFrequency": 0.5678703188896179,
+        "AuthoritiesGovernance": 0.4266490340232849,
+        "DefinitionsReferences": 0.42951756715774536
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Farmers Welfare and Agriculture Development in Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5520151853561401,
+      "similarities": {
+        "ContextObjective": 0.44855594635009766,
+        "BenefitsAssistance": 0.39467161893844604,
+        "Eligibility": 0.4685847759246826,
+        "ApplicationProcess": 0.408750057220459,
+        "TimelineFrequency": 0.36390066146850586,
+        "AuthoritiesGovernance": 0.5520151853561401,
+        "DefinitionsReferences": 0.3799208998680115
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, beneficiaries can contact the department through their helpline number, which is available on the official website.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5084638595581055,
+      "similarities": {
+        "ContextObjective": 0.39454185962677,
+        "BenefitsAssistance": 0.5084638595581055,
+        "Eligibility": 0.4895372688770294,
+        "ApplicationProcess": 0.4472835659980774,
+        "TimelineFrequency": 0.381061851978302,
+        "AuthoritiesGovernance": 0.5016732215881348,
+        "DefinitionsReferences": 0.3796458840370178
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the farming community in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4729926586151123,
+      "similarities": {
+        "ContextObjective": 0.4729926586151123,
+        "BenefitsAssistance": 0.3870583176612854,
+        "Eligibility": 0.42426007986068726,
+        "ApplicationProcess": 0.3720792531967163,
+        "TimelineFrequency": 0.33907753229141235,
+        "AuthoritiesGovernance": 0.4011538624763489,
+        "DefinitionsReferences": 0.35200047492980957
+      }
+    },
+    {
+      "sentence": "It is estimated that around 1.2 million farmers have already benefited from the scheme since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.45614713430404663,
+      "similarities": {
+        "ContextObjective": 0.45614713430404663,
+        "BenefitsAssistance": 0.3788658380508423,
+        "Eligibility": 0.38234543800354004,
+        "ApplicationProcess": 0.3360905349254608,
+        "TimelineFrequency": 0.3133799433708191,
+        "AuthoritiesGovernance": 0.35833919048309326,
+        "DefinitionsReferences": 0.3209814727306366
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crore for the implementation of this scheme for the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5152703523635864,
+      "similarities": {
+        "ContextObjective": 0.5152703523635864,
+        "BenefitsAssistance": 0.49774181842803955,
+        "Eligibility": 0.4815114140510559,
+        "ApplicationProcess": 0.4305042028427124,
+        "TimelineFrequency": 0.4516304135322571,
+        "AuthoritiesGovernance": 0.4993605613708496,
+        "DefinitionsReferences": 0.35909217596054077
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that all eligible farmers receive their pensions without delay.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44437870383262634,
+      "similarities": {
+        "ContextObjective": 0.41998714208602905,
+        "BenefitsAssistance": 0.44437870383262634,
+        "Eligibility": 0.4406755864620209,
+        "ApplicationProcess": 0.37743717432022095,
+        "TimelineFrequency": 0.4310922920703888,
+        "AuthoritiesGovernance": 0.40529823303222656,
+        "DefinitionsReferences": 0.3024480938911438
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Madhya Pradesh government to enhance the welfare of farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.4942897856235504,
+      "similarities": {
+        "ContextObjective": 0.4942897856235504,
+        "BenefitsAssistance": 0.4235268831253052,
+        "Eligibility": 0.43908166885375977,
+        "ApplicationProcess": 0.40341416001319885,
+        "TimelineFrequency": 0.37143969535827637,
+        "AuthoritiesGovernance": 0.44313156604766846,
+        "DefinitionsReferences": 0.3736393451690674
+      }
+    },
+    {
+      "sentence": "Other related schemes include the Mukhyamantri Kisan Kalyan Yojana and the Pradhan Mantri Kisan Samman Nidhi.",
+      "role": "ContextObjective",
+      "confidence": 0.4586387574672699,
+      "similarities": {
+        "ContextObjective": 0.4586387574672699,
+        "BenefitsAssistance": 0.4119330942630768,
+        "Eligibility": 0.41055864095687866,
+        "ApplicationProcess": 0.37248694896698,
+        "TimelineFrequency": 0.3644583225250244,
+        "AuthoritiesGovernance": 0.35236936807632446,
+        "DefinitionsReferences": 0.3742768466472626
+      }
+    },
+    {
+      "sentence": "These schemes collectively aim to provide comprehensive support to farmers in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.5114893913269043,
+      "similarities": {
+        "ContextObjective": 0.5114893913269043,
+        "BenefitsAssistance": 0.4789249002933502,
+        "Eligibility": 0.4721197783946991,
+        "ApplicationProcess": 0.4227678179740906,
+        "TimelineFrequency": 0.4063012897968292,
+        "AuthoritiesGovernance": 0.4482278525829315,
+        "DefinitionsReferences": 0.4076628088951111
+      }
+    },
+    {
+      "sentence": "The Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana also emphasizes the importance of financial inclusion.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.49372196197509766,
+      "similarities": {
+        "ContextObjective": 0.4394022226333618,
+        "BenefitsAssistance": 0.49372196197509766,
+        "Eligibility": 0.46672847867012024,
+        "ApplicationProcess": 0.37048232555389404,
+        "TimelineFrequency": 0.34248024225234985,
+        "AuthoritiesGovernance": 0.3346034288406372,
+        "DefinitionsReferences": 0.3421684503555298
+      }
+    },
+    {
+      "sentence": "By disbursing pensions directly into bank accounts, the scheme promotes the use of digital banking among rural populations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42540520429611206,
+      "similarities": {
+        "ContextObjective": 0.4066391587257385,
+        "BenefitsAssistance": 0.42540520429611206,
+        "Eligibility": 0.3892022669315338,
+        "ApplicationProcess": 0.3681769073009491,
+        "TimelineFrequency": 0.31718116998672485,
+        "AuthoritiesGovernance": 0.34420907497406006,
+        "DefinitionsReferences": 0.289278119802475
+      }
+    },
+    {
+      "sentence": "This is particularly significant in a state where many farmers may not have had access to formal banking services previously.",
+      "role": "Eligibility",
+      "confidence": 0.4690534770488739,
+      "similarities": {
+        "ContextObjective": 0.4002171754837036,
+        "BenefitsAssistance": 0.4435749351978302,
+        "Eligibility": 0.4690534770488739,
+        "ApplicationProcess": 0.4207206666469574,
+        "TimelineFrequency": 0.36677539348602295,
+        "AuthoritiesGovernance": 0.3584003150463104,
+        "DefinitionsReferences": 0.37486791610717773
+      }
+    },
+    {
+      "sentence": "The government has also launched awareness campaigns to educate farmers about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4940277934074402,
+      "similarities": {
+        "ContextObjective": 0.4940277934074402,
+        "BenefitsAssistance": 0.42385733127593994,
+        "Eligibility": 0.44186684489250183,
+        "ApplicationProcess": 0.42314574122428894,
+        "TimelineFrequency": 0.365597665309906,
+        "AuthoritiesGovernance": 0.42450177669525146,
+        "DefinitionsReferences": 0.38407737016677856
+      }
+    },
+    {
+      "sentence": "These campaigns are conducted through local Panchayat meetings and community gatherings.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5048380494117737,
+      "similarities": {
+        "ContextObjective": 0.47312116622924805,
+        "BenefitsAssistance": 0.4025440514087677,
+        "Eligibility": 0.4065614640712738,
+        "ApplicationProcess": 0.377332866191864,
+        "TimelineFrequency": 0.4084928333759308,
+        "AuthoritiesGovernance": 0.5048380494117737,
+        "DefinitionsReferences": 0.4113041162490845
+      }
+    },
+    {
+      "sentence": "The aim is to ensure that all eligible farmers are aware of the scheme and can apply for it.",
+      "role": "Eligibility",
+      "confidence": 0.5995562076568604,
+      "similarities": {
+        "ContextObjective": 0.5714632868766785,
+        "BenefitsAssistance": 0.4334615468978882,
+        "Eligibility": 0.5995562076568604,
+        "ApplicationProcess": 0.5508442521095276,
+        "TimelineFrequency": 0.4728105068206787,
+        "AuthoritiesGovernance": 0.45159345865249634,
+        "DefinitionsReferences": 0.3790396451950073
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries has been largely positive.",
+      "role": "Eligibility",
+      "confidence": 0.48910215497016907,
+      "similarities": {
+        "ContextObjective": 0.4783124625682831,
+        "BenefitsAssistance": 0.4878849983215332,
+        "Eligibility": 0.48910215497016907,
+        "ApplicationProcess": 0.4028758406639099,
+        "TimelineFrequency": 0.36998677253723145,
+        "AuthoritiesGovernance": 0.4230217933654785,
+        "DefinitionsReferences": 0.4160597324371338
+      }
+    },
+    {
+      "sentence": "Many elderly farmers have expressed gratitude for the financial support provided by the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4511842131614685,
+      "similarities": {
+        "ContextObjective": 0.41318732500076294,
+        "BenefitsAssistance": 0.4511842131614685,
+        "Eligibility": 0.4100682735443115,
+        "ApplicationProcess": 0.3530515134334564,
+        "TimelineFrequency": 0.314530611038208,
+        "AuthoritiesGovernance": 0.33530980348587036,
+        "DefinitionsReferences": 0.33936941623687744
+      }
+    },
+    {
+      "sentence": "They have reported that the pension has significantly eased their financial burdens.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46368706226348877,
+      "similarities": {
+        "ContextObjective": 0.3422972559928894,
+        "BenefitsAssistance": 0.46368706226348877,
+        "Eligibility": 0.35634249448776245,
+        "ApplicationProcess": 0.2995879650115967,
+        "TimelineFrequency": 0.2722896933555603,
+        "AuthoritiesGovernance": 0.29077452421188354,
+        "DefinitionsReferences": 0.2823251187801361
+      }
+    },
+    {
+      "sentence": "The scheme is also expected to have a positive impact on the overall economic condition of rural areas in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4443736970424652,
+      "similarities": {
+        "ContextObjective": 0.4443736970424652,
+        "BenefitsAssistance": 0.4052996039390564,
+        "Eligibility": 0.4173845648765564,
+        "ApplicationProcess": 0.36029165983200073,
+        "TimelineFrequency": 0.34337788820266724,
+        "AuthoritiesGovernance": 0.3727973699569702,
+        "DefinitionsReferences": 0.3329154849052429
+      }
+    },
+    {
+      "sentence": "By providing a steady source of income to elderly farmers, it helps stimulate local economies.",
+      "role": "Eligibility",
+      "confidence": 0.37395811080932617,
+      "similarities": {
+        "ContextObjective": 0.37249383330345154,
+        "BenefitsAssistance": 0.35503822565078735,
+        "Eligibility": 0.37395811080932617,
+        "ApplicationProcess": 0.30792543292045593,
+        "TimelineFrequency": 0.30351805686950684,
+        "AuthoritiesGovernance": 0.33374273777008057,
+        "DefinitionsReferences": 0.3014894723892212
+      }
+    },
+    {
+      "sentence": "The government is continuously monitoring the implementation of the scheme to ensure its effectiveness.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.565947413444519,
+      "similarities": {
+        "ContextObjective": 0.5188102722167969,
+        "BenefitsAssistance": 0.45570823550224304,
+        "Eligibility": 0.49280858039855957,
+        "ApplicationProcess": 0.5090726613998413,
+        "TimelineFrequency": 0.4381706118583679,
+        "AuthoritiesGovernance": 0.565947413444519,
+        "DefinitionsReferences": 0.437619149684906
+      }
+    },
+    {
+      "sentence": "Regular audits and assessments are conducted to identify any issues or areas for improvement.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5121968984603882,
+      "similarities": {
+        "ContextObjective": 0.45521509647369385,
+        "BenefitsAssistance": 0.4835192561149597,
+        "Eligibility": 0.45584940910339355,
+        "ApplicationProcess": 0.5039031505584717,
+        "TimelineFrequency": 0.4887808561325073,
+        "AuthoritiesGovernance": 0.5121968984603882,
+        "DefinitionsReferences": 0.48083430528640747
+      }
+    },
+    {
+      "sentence": "The Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana represents a significant step towards social security for farmers in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.434989333152771,
+      "similarities": {
+        "ContextObjective": 0.434989333152771,
+        "BenefitsAssistance": 0.4119214117527008,
+        "Eligibility": 0.4285474121570587,
+        "ApplicationProcess": 0.3733924925327301,
+        "TimelineFrequency": 0.33395594358444214,
+        "AuthoritiesGovernance": 0.3794243633747101,
+        "DefinitionsReferences": 0.34788888692855835
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving the quality of life for its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4586748480796814,
+      "similarities": {
+        "ContextObjective": 0.4586748480796814,
+        "BenefitsAssistance": 0.4091266691684723,
+        "Eligibility": 0.4272784888744354,
+        "ApplicationProcess": 0.4384569525718689,
+        "TimelineFrequency": 0.38670143485069275,
+        "AuthoritiesGovernance": 0.45230138301849365,
+        "DefinitionsReferences": 0.43168604373931885
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to operate and evolve based on the needs of the farming community.",
+      "role": "ContextObjective",
+      "confidence": 0.5488827228546143,
+      "similarities": {
+        "ContextObjective": 0.5488827228546143,
+        "BenefitsAssistance": 0.40859341621398926,
+        "Eligibility": 0.48207563161849976,
+        "ApplicationProcess": 0.42941054701805115,
+        "TimelineFrequency": 0.4257164001464844,
+        "AuthoritiesGovernance": 0.43460172414779663,
+        "DefinitionsReferences": 0.39030957221984863
+      }
+    },
+    {
+      "sentence": "The government remains focused on enhancing the benefits and reach of the scheme in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.5427277088165283,
+      "similarities": {
+        "ContextObjective": 0.5427277088165283,
+        "BenefitsAssistance": 0.45370596647262573,
+        "Eligibility": 0.47546422481536865,
+        "ApplicationProcess": 0.43112465739250183,
+        "TimelineFrequency": 0.4219982922077179,
+        "AuthoritiesGovernance": 0.46760693192481995,
+        "DefinitionsReferences": 0.4244687855243683
+      }
+    },
+    {
+      "sentence": "This initiative is part of a larger vision to create a robust support system for farmers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5112559199333191,
+      "similarities": {
+        "ContextObjective": 0.5112559199333191,
+        "BenefitsAssistance": 0.4084206223487854,
+        "Eligibility": 0.44163960218429565,
+        "ApplicationProcess": 0.38003501296043396,
+        "TimelineFrequency": 0.3464794158935547,
+        "AuthoritiesGovernance": 0.4376566708087921,
+        "DefinitionsReferences": 0.36758115887641907
+      }
+    },
+    {
+      "sentence": "The Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana is a vital component of this vision.",
+      "role": "ContextObjective",
+      "confidence": 0.49745967984199524,
+      "similarities": {
+        "ContextObjective": 0.49745967984199524,
+        "BenefitsAssistance": 0.3863704204559326,
+        "Eligibility": 0.4198281764984131,
+        "ApplicationProcess": 0.3627055287361145,
+        "TimelineFrequency": 0.3338180184364319,
+        "AuthoritiesGovernance": 0.35781964659690857,
+        "DefinitionsReferences": 0.3416212201118469
+      }
+    },
+    {
+      "sentence": "It underscores the importance of providing social safety nets for vulnerable populations.",
+      "role": "Eligibility",
+      "confidence": 0.46569254994392395,
+      "similarities": {
+        "ContextObjective": 0.42550480365753174,
+        "BenefitsAssistance": 0.4361097514629364,
+        "Eligibility": 0.46569254994392395,
+        "ApplicationProcess": 0.34831690788269043,
+        "TimelineFrequency": 0.35131677985191345,
+        "AuthoritiesGovernance": 0.3664642870426178,
+        "DefinitionsReferences": 0.33949947357177734
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the contributions made by farmers to the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.45115864276885986,
+      "similarities": {
+        "ContextObjective": 0.45115864276885986,
+        "BenefitsAssistance": 0.4044053554534912,
+        "Eligibility": 0.41092389822006226,
+        "ApplicationProcess": 0.3827054500579834,
+        "TimelineFrequency": 0.3278214633464813,
+        "AuthoritiesGovernance": 0.35653436183929443,
+        "DefinitionsReferences": 0.3611255884170532
+      }
+    },
+    {
+      "sentence": "In conclusion, the Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana is a comprehensive welfare initiative.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48188191652297974,
+      "similarities": {
+        "ContextObjective": 0.4761585295200348,
+        "BenefitsAssistance": 0.48188191652297974,
+        "Eligibility": 0.452430784702301,
+        "ApplicationProcess": 0.41464850306510925,
+        "TimelineFrequency": 0.3644934892654419,
+        "AuthoritiesGovernance": 0.43251287937164307,
+        "DefinitionsReferences": 0.3684842586517334
+      }
+    },
+    {
+      "sentence": "It aims to provide financial security to elderly farmers in Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.448727548122406,
+      "similarities": {
+        "ContextObjective": 0.43692639470100403,
+        "BenefitsAssistance": 0.42820242047309875,
+        "Eligibility": 0.448727548122406,
+        "ApplicationProcess": 0.37174034118652344,
+        "TimelineFrequency": 0.33547815680503845,
+        "AuthoritiesGovernance": 0.35626858472824097,
+        "DefinitionsReferences": 0.31922948360443115
+      }
+    },
+    {
+      "sentence": "With its targeted benefits and straightforward application process, it serves as a model for similar initiatives across India.",
+      "role": "ContextObjective",
+      "confidence": 0.5119385719299316,
+      "similarities": {
+        "ContextObjective": 0.5119385719299316,
+        "BenefitsAssistance": 0.40293627977371216,
+        "Eligibility": 0.506502628326416,
+        "ApplicationProcess": 0.4968712329864502,
+        "TimelineFrequency": 0.4543739855289459,
+        "AuthoritiesGovernance": 0.4176710844039917,
+        "DefinitionsReferences": 0.41996830701828003
+      }
+    },
+    {
+      "sentence": "The scheme not only addresses immediate financial needs but also contributes to the long-term welfare of the farming community.",
+      "role": "ContextObjective",
+      "confidence": 0.49113258719444275,
+      "similarities": {
+        "ContextObjective": 0.49113258719444275,
+        "BenefitsAssistance": 0.47687801718711853,
+        "Eligibility": 0.4496263861656189,
+        "ApplicationProcess": 0.39477014541625977,
+        "TimelineFrequency": 0.3753892481327057,
+        "AuthoritiesGovernance": 0.3585587739944458,
+        "DefinitionsReferences": 0.3452197313308716
+      }
+    },
+    {
+      "sentence": "The ongoing support and commitment from the government are crucial for the success of this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4979654550552368,
+      "similarities": {
+        "ContextObjective": 0.4979654550552368,
+        "BenefitsAssistance": 0.43472909927368164,
+        "Eligibility": 0.44260358810424805,
+        "ApplicationProcess": 0.44854316115379333,
+        "TimelineFrequency": 0.39694297313690186,
+        "AuthoritiesGovernance": 0.4578535556793213,
+        "DefinitionsReferences": 0.4343944191932678
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 21,
+    "Eligibility": 14,
+    "BenefitsAssistance": 10,
+    "ApplicationProcess": 8,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:42:45.223201"
+}

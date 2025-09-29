@@ -1,0 +1,996 @@
+{
+  "scheme_name": "Viswakarma Pension Scheme",
+  "total_sentences": 70,
+  "labeled_sentences": [
+    {
+      "sentence": "The Viswakarma Pension Scheme was launched by the Government of India on 15th September 2023.",
+      "role": "ContextObjective",
+      "confidence": 0.5632034540176392,
+      "similarities": {
+        "ContextObjective": 0.5632034540176392,
+        "BenefitsAssistance": 0.4571174681186676,
+        "Eligibility": 0.4750180244445801,
+        "ApplicationProcess": 0.431738942861557,
+        "TimelineFrequency": 0.44441527128219604,
+        "AuthoritiesGovernance": 0.44954249262809753,
+        "DefinitionsReferences": 0.35574740171432495
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to traditional artisans and craftsmen.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5032681226730347,
+      "similarities": {
+        "ContextObjective": 0.49754026532173157,
+        "BenefitsAssistance": 0.5032681226730347,
+        "Eligibility": 0.4885823726654053,
+        "ApplicationProcess": 0.4437412619590759,
+        "TimelineFrequency": 0.41781163215637207,
+        "AuthoritiesGovernance": 0.4302012324333191,
+        "DefinitionsReferences": 0.36549845337867737
+      }
+    },
+    {
+      "sentence": "The primary objective of the Viswakarma Pension Scheme is to ensure social security for artisans and craftsmen who have been contributing to the cultural heritage of India.",
+      "role": "ContextObjective",
+      "confidence": 0.5167651176452637,
+      "similarities": {
+        "ContextObjective": 0.5167651176452637,
+        "BenefitsAssistance": 0.4070308208465576,
+        "Eligibility": 0.43214666843414307,
+        "ApplicationProcess": 0.40421783924102783,
+        "TimelineFrequency": 0.3609144687652588,
+        "AuthoritiesGovernance": 0.40017837285995483,
+        "DefinitionsReferences": 0.3321419954299927
+      }
+    },
+    {
+      "sentence": "The scheme targets individuals aged 60 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.5778883099555969,
+      "similarities": {
+        "ContextObjective": 0.5419901609420776,
+        "BenefitsAssistance": 0.4896693229675293,
+        "Eligibility": 0.5778883099555969,
+        "ApplicationProcess": 0.4817454218864441,
+        "TimelineFrequency": 0.47374585270881653,
+        "AuthoritiesGovernance": 0.42621904611587524,
+        "DefinitionsReferences": 0.3758332133293152
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must belong to the traditional artisan community.",
+      "role": "Eligibility",
+      "confidence": 0.5699942111968994,
+      "similarities": {
+        "ContextObjective": 0.4452263116836548,
+        "BenefitsAssistance": 0.45044010877609253,
+        "Eligibility": 0.5699942111968994,
+        "ApplicationProcess": 0.4591902196407318,
+        "TimelineFrequency": 0.4079667925834656,
+        "AuthoritiesGovernance": 0.4199637174606323,
+        "DefinitionsReferences": 0.4017111659049988
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide a monthly pension of ₹3,000.",
+      "role": "ContextObjective",
+      "confidence": 0.5352134108543396,
+      "similarities": {
+        "ContextObjective": 0.5352134108543396,
+        "BenefitsAssistance": 0.49561119079589844,
+        "Eligibility": 0.48902618885040283,
+        "ApplicationProcess": 0.4356783628463745,
+        "TimelineFrequency": 0.4120611548423767,
+        "AuthoritiesGovernance": 0.3793604075908661,
+        "DefinitionsReferences": 0.344793438911438
+      }
+    },
+    {
+      "sentence": "This pension is intended to support the livelihood of artisans who may not have other sources of income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46295487880706787,
+      "similarities": {
+        "ContextObjective": 0.44686317443847656,
+        "BenefitsAssistance": 0.46295487880706787,
+        "Eligibility": 0.4510725736618042,
+        "ApplicationProcess": 0.38814401626586914,
+        "TimelineFrequency": 0.3550567626953125,
+        "AuthoritiesGovernance": 0.3589213788509369,
+        "DefinitionsReferences": 0.33764928579330444
+      }
+    },
+    {
+      "sentence": "The Government of India has allocated a budget of ₹1,000 crores for the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4820374846458435,
+      "similarities": {
+        "ContextObjective": 0.4820374846458435,
+        "BenefitsAssistance": 0.45244380831718445,
+        "Eligibility": 0.466645210981369,
+        "ApplicationProcess": 0.41360628604888916,
+        "TimelineFrequency": 0.38117504119873047,
+        "AuthoritiesGovernance": 0.4749370217323303,
+        "DefinitionsReferences": 0.3434217572212219
+      }
+    },
+    {
+      "sentence": "The scheme is expected to benefit approximately 1 million artisans across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.47704702615737915,
+      "similarities": {
+        "ContextObjective": 0.47704702615737915,
+        "BenefitsAssistance": 0.4330778121948242,
+        "Eligibility": 0.46472087502479553,
+        "ApplicationProcess": 0.3938000798225403,
+        "TimelineFrequency": 0.3703128695487976,
+        "AuthoritiesGovernance": 0.4246816039085388,
+        "DefinitionsReferences": 0.3361080288887024
+      }
+    },
+    {
+      "sentence": "Eligible artisans must have a minimum annual income of ₹1 lakh to qualify for the pension.",
+      "role": "Eligibility",
+      "confidence": 0.483454167842865,
+      "similarities": {
+        "ContextObjective": 0.38415756821632385,
+        "BenefitsAssistance": 0.4241619110107422,
+        "Eligibility": 0.483454167842865,
+        "ApplicationProcess": 0.4381391108036041,
+        "TimelineFrequency": 0.38869792222976685,
+        "AuthoritiesGovernance": 0.32400453090667725,
+        "DefinitionsReferences": 0.2891197204589844
+      }
+    },
+    {
+      "sentence": "The application process for the Viswakarma Pension Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5330440998077393,
+      "similarities": {
+        "ContextObjective": 0.507624089717865,
+        "BenefitsAssistance": 0.41819101572036743,
+        "Eligibility": 0.4902501702308655,
+        "ApplicationProcess": 0.5330440998077393,
+        "TimelineFrequency": 0.4529883861541748,
+        "AuthoritiesGovernance": 0.39764806628227234,
+        "DefinitionsReferences": 0.3415115177631378
+      }
+    },
+    {
+      "sentence": "Interested applicants must fill out an application form available at designated government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6851001977920532,
+      "similarities": {
+        "ContextObjective": 0.48576682806015015,
+        "BenefitsAssistance": 0.4589298963546753,
+        "Eligibility": 0.5957592725753784,
+        "ApplicationProcess": 0.6851001977920532,
+        "TimelineFrequency": 0.5330859422683716,
+        "AuthoritiesGovernance": 0.49016374349594116,
+        "DefinitionsReferences": 0.4919092357158661
+      }
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the Ministry of Skill Development and Entrepreneurship.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5899162888526917,
+      "similarities": {
+        "ContextObjective": 0.4457957148551941,
+        "BenefitsAssistance": 0.41692161560058594,
+        "Eligibility": 0.49422794580459595,
+        "ApplicationProcess": 0.5899162888526917,
+        "TimelineFrequency": 0.48084455728530884,
+        "AuthoritiesGovernance": 0.41826504468917847,
+        "DefinitionsReferences": 0.43076661229133606
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit proof of age, such as a birth certificate or Aadhaar card.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6659146547317505,
+      "similarities": {
+        "ContextObjective": 0.4593256711959839,
+        "BenefitsAssistance": 0.5065680742263794,
+        "Eligibility": 0.5806613564491272,
+        "ApplicationProcess": 0.6659146547317505,
+        "TimelineFrequency": 0.5559701919555664,
+        "AuthoritiesGovernance": 0.4246821403503418,
+        "DefinitionsReferences": 0.4634348452091217
+      }
+    },
+    {
+      "sentence": "They must also provide documentation proving their status as traditional artisans.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5448850989341736,
+      "similarities": {
+        "ContextObjective": 0.4066801071166992,
+        "BenefitsAssistance": 0.4416002929210663,
+        "Eligibility": 0.460813969373703,
+        "ApplicationProcess": 0.5448850989341736,
+        "TimelineFrequency": 0.41772663593292236,
+        "AuthoritiesGovernance": 0.44257962703704834,
+        "DefinitionsReferences": 0.4703271985054016
+      }
+    },
+    {
+      "sentence": "This could include certificates from recognized artisan associations or cooperatives.",
+      "role": "Eligibility",
+      "confidence": 0.5094872117042542,
+      "similarities": {
+        "ContextObjective": 0.4632246196269989,
+        "BenefitsAssistance": 0.5092626214027405,
+        "Eligibility": 0.5094872117042542,
+        "ApplicationProcess": 0.507682204246521,
+        "TimelineFrequency": 0.4610080122947693,
+        "AuthoritiesGovernance": 0.43764030933380127,
+        "DefinitionsReferences": 0.5056833624839783
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the local government authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6615413427352905,
+      "similarities": {
+        "ContextObjective": 0.5114029049873352,
+        "BenefitsAssistance": 0.46596336364746094,
+        "Eligibility": 0.587491512298584,
+        "ApplicationProcess": 0.6615413427352905,
+        "TimelineFrequency": 0.5810759663581848,
+        "AuthoritiesGovernance": 0.539162278175354,
+        "DefinitionsReferences": 0.48301997780799866
+      }
+    },
+    {
+      "sentence": "The review process is expected to take approximately 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5457390546798706,
+      "similarities": {
+        "ContextObjective": 0.4412469267845154,
+        "BenefitsAssistance": 0.45915430784225464,
+        "Eligibility": 0.4864193797111511,
+        "ApplicationProcess": 0.535413384437561,
+        "TimelineFrequency": 0.5457390546798706,
+        "AuthoritiesGovernance": 0.474902480840683,
+        "DefinitionsReferences": 0.4689331650733948
+      }
+    },
+    {
+      "sentence": "If approved, beneficiaries will start receiving their pension within the next month.",
+      "role": "Eligibility",
+      "confidence": 0.5443966388702393,
+      "similarities": {
+        "ContextObjective": 0.46677839756011963,
+        "BenefitsAssistance": 0.493888258934021,
+        "Eligibility": 0.5443966388702393,
+        "ApplicationProcess": 0.494621217250824,
+        "TimelineFrequency": 0.49090707302093506,
+        "AuthoritiesGovernance": 0.4310551881790161,
+        "DefinitionsReferences": 0.3530789613723755
+      }
+    },
+    {
+      "sentence": "The pension will be disbursed on the first day of every month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5034598112106323,
+      "similarities": {
+        "ContextObjective": 0.43008342385292053,
+        "BenefitsAssistance": 0.5034598112106323,
+        "Eligibility": 0.4508631229400635,
+        "ApplicationProcess": 0.41472554206848145,
+        "TimelineFrequency": 0.47613948583602905,
+        "AuthoritiesGovernance": 0.41365790367126465,
+        "DefinitionsReferences": 0.32512903213500977
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Skill Development and Entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.541828453540802,
+      "similarities": {
+        "ContextObjective": 0.541828453540802,
+        "BenefitsAssistance": 0.4395090937614441,
+        "Eligibility": 0.4650958776473999,
+        "ApplicationProcess": 0.45779329538345337,
+        "TimelineFrequency": 0.4087865948677063,
+        "AuthoritiesGovernance": 0.5033241510391235,
+        "DefinitionsReferences": 0.4025018811225891
+      }
+    },
+    {
+      "sentence": "The ministry has set up a dedicated helpline for inquiries related to the Viswakarma Pension Scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4576548933982849,
+      "similarities": {
+        "ContextObjective": 0.45471251010894775,
+        "BenefitsAssistance": 0.45489388704299927,
+        "Eligibility": 0.4576548933982849,
+        "ApplicationProcess": 0.443037211894989,
+        "TimelineFrequency": 0.3737691044807434,
+        "AuthoritiesGovernance": 0.45308876037597656,
+        "DefinitionsReferences": 0.3622328042984009
+      }
+    },
+    {
+      "sentence": "The helpline number is 1800-123-4567.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47999441623687744,
+      "similarities": {
+        "ContextObjective": 0.3566550016403198,
+        "BenefitsAssistance": 0.47999441623687744,
+        "Eligibility": 0.41847196221351624,
+        "ApplicationProcess": 0.40486711263656616,
+        "TimelineFrequency": 0.3823844790458679,
+        "AuthoritiesGovernance": 0.41378116607666016,
+        "DefinitionsReferences": 0.3464829921722412
+      }
+    },
+    {
+      "sentence": "In addition to the monthly pension, the scheme also provides skill development programs.",
+      "role": "ContextObjective",
+      "confidence": 0.47346240282058716,
+      "similarities": {
+        "ContextObjective": 0.47346240282058716,
+        "BenefitsAssistance": 0.45335787534713745,
+        "Eligibility": 0.41274935007095337,
+        "ApplicationProcess": 0.39584457874298096,
+        "TimelineFrequency": 0.4195496439933777,
+        "AuthoritiesGovernance": 0.3730449080467224,
+        "DefinitionsReferences": 0.3935999870300293
+      }
+    },
+    {
+      "sentence": "These programs aim to enhance the skills of artisans to improve their income potential.",
+      "role": "ContextObjective",
+      "confidence": 0.46605268120765686,
+      "similarities": {
+        "ContextObjective": 0.46605268120765686,
+        "BenefitsAssistance": 0.44253164529800415,
+        "Eligibility": 0.4304213225841522,
+        "ApplicationProcess": 0.4080972969532013,
+        "TimelineFrequency": 0.4151862561702728,
+        "AuthoritiesGovernance": 0.40420016646385193,
+        "DefinitionsReferences": 0.382843017578125
+      }
+    },
+    {
+      "sentence": "The skill development initiatives will be conducted in collaboration with various training institutes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49021366238594055,
+      "similarities": {
+        "ContextObjective": 0.44325584173202515,
+        "BenefitsAssistance": 0.3996259868144989,
+        "Eligibility": 0.42707496881484985,
+        "ApplicationProcess": 0.39929836988449097,
+        "TimelineFrequency": 0.4246516823768616,
+        "AuthoritiesGovernance": 0.49021366238594055,
+        "DefinitionsReferences": 0.4387814402580261
+      }
+    },
+    {
+      "sentence": "The government plans to conduct workshops and training sessions across different states.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5872859954833984,
+      "similarities": {
+        "ContextObjective": 0.5134076476097107,
+        "BenefitsAssistance": 0.4409281611442566,
+        "Eligibility": 0.5171799659729004,
+        "ApplicationProcess": 0.47201934456825256,
+        "TimelineFrequency": 0.5036752820014954,
+        "AuthoritiesGovernance": 0.5872859954833984,
+        "DefinitionsReferences": 0.4881967306137085
+      }
+    },
+    {
+      "sentence": "These sessions will focus on modern techniques and market trends.",
+      "role": "ContextObjective",
+      "confidence": 0.43797770142555237,
+      "similarities": {
+        "ContextObjective": 0.43797770142555237,
+        "BenefitsAssistance": 0.4150065779685974,
+        "Eligibility": 0.4116871953010559,
+        "ApplicationProcess": 0.4064967632293701,
+        "TimelineFrequency": 0.42682307958602905,
+        "AuthoritiesGovernance": 0.3652195632457733,
+        "DefinitionsReferences": 0.4251421391963959
+      }
+    },
+    {
+      "sentence": "The scheme also aims to promote the use of technology among artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.5148614645004272,
+      "similarities": {
+        "ContextObjective": 0.5148614645004272,
+        "BenefitsAssistance": 0.40538716316223145,
+        "Eligibility": 0.41974830627441406,
+        "ApplicationProcess": 0.4478588104248047,
+        "TimelineFrequency": 0.4075104594230652,
+        "AuthoritiesGovernance": 0.38703736662864685,
+        "DefinitionsReferences": 0.363019734621048
+      }
+    },
+    {
+      "sentence": "By integrating technology, artisans can reach broader markets and improve their product quality.",
+      "role": "ApplicationProcess",
+      "confidence": 0.413139671087265,
+      "similarities": {
+        "ContextObjective": 0.4122164249420166,
+        "BenefitsAssistance": 0.38409894704818726,
+        "Eligibility": 0.4066614508628845,
+        "ApplicationProcess": 0.413139671087265,
+        "TimelineFrequency": 0.37920719385147095,
+        "AuthoritiesGovernance": 0.40230894088745117,
+        "DefinitionsReferences": 0.37537989020347595
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is part of a larger initiative to uplift marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.47925060987472534,
+      "similarities": {
+        "ContextObjective": 0.47925060987472534,
+        "BenefitsAssistance": 0.41604480147361755,
+        "Eligibility": 0.418923944234848,
+        "ApplicationProcess": 0.34208911657333374,
+        "TimelineFrequency": 0.2967837452888489,
+        "AuthoritiesGovernance": 0.4069817364215851,
+        "DefinitionsReferences": 0.31609299778938293
+      }
+    },
+    {
+      "sentence": "The government recognizes the importance of preserving traditional crafts and skills.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.444542795419693,
+      "similarities": {
+        "ContextObjective": 0.4265875816345215,
+        "BenefitsAssistance": 0.3959771394729614,
+        "Eligibility": 0.4205118715763092,
+        "ApplicationProcess": 0.4347630739212036,
+        "TimelineFrequency": 0.3698548972606659,
+        "AuthoritiesGovernance": 0.43844226002693176,
+        "DefinitionsReferences": 0.444542795419693
+      }
+    },
+    {
+      "sentence": "By providing financial support, the scheme aims to prevent the decline of traditional crafts.",
+      "role": "ContextObjective",
+      "confidence": 0.4578474164009094,
+      "similarities": {
+        "ContextObjective": 0.4578474164009094,
+        "BenefitsAssistance": 0.45030736923217773,
+        "Eligibility": 0.4265146255493164,
+        "ApplicationProcess": 0.4028070569038391,
+        "TimelineFrequency": 0.37714719772338867,
+        "AuthoritiesGovernance": 0.38300251960754395,
+        "DefinitionsReferences": 0.3368602395057678
+      }
+    },
+    {
+      "sentence": "The scheme also aligns with the government's vision of \"Atmanirbhar Bharat.\"",
+      "role": "ContextObjective",
+      "confidence": 0.5529253482818604,
+      "similarities": {
+        "ContextObjective": 0.5529253482818604,
+        "BenefitsAssistance": 0.3613661825656891,
+        "Eligibility": 0.43128716945648193,
+        "ApplicationProcess": 0.41865891218185425,
+        "TimelineFrequency": 0.35832640528678894,
+        "AuthoritiesGovernance": 0.3782171905040741,
+        "DefinitionsReferences": 0.3451106548309326
+      }
+    },
+    {
+      "sentence": "This vision emphasizes self-reliance and empowerment of local communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5223993062973022,
+      "similarities": {
+        "ContextObjective": 0.5223993062973022,
+        "BenefitsAssistance": 0.394907146692276,
+        "Eligibility": 0.42700886726379395,
+        "ApplicationProcess": 0.3496074676513672,
+        "TimelineFrequency": 0.3459283709526062,
+        "AuthoritiesGovernance": 0.4160686433315277,
+        "DefinitionsReferences": 0.3677895963191986
+      }
+    },
+    {
+      "sentence": "The scheme is expected to create a sense of dignity among artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.5157719850540161,
+      "similarities": {
+        "ContextObjective": 0.5157719850540161,
+        "BenefitsAssistance": 0.4094235897064209,
+        "Eligibility": 0.4398709535598755,
+        "ApplicationProcess": 0.4210154116153717,
+        "TimelineFrequency": 0.36590200662612915,
+        "AuthoritiesGovernance": 0.39071205258369446,
+        "DefinitionsReferences": 0.37022724747657776
+      }
+    },
+    {
+      "sentence": "It acknowledges their contributions to the economy and cultural identity of India.",
+      "role": "ContextObjective",
+      "confidence": 0.386244535446167,
+      "similarities": {
+        "ContextObjective": 0.386244535446167,
+        "BenefitsAssistance": 0.37626057863235474,
+        "Eligibility": 0.35233789682388306,
+        "ApplicationProcess": 0.3287368714809418,
+        "TimelineFrequency": 0.29217419028282166,
+        "AuthoritiesGovernance": 0.34438011050224304,
+        "DefinitionsReferences": 0.36183977127075195
+      }
+    },
+    {
+      "sentence": "The government has also partnered with various NGOs to promote awareness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5216031074523926,
+      "similarities": {
+        "ContextObjective": 0.5216031074523926,
+        "BenefitsAssistance": 0.4716995656490326,
+        "Eligibility": 0.46885085105895996,
+        "ApplicationProcess": 0.4266381561756134,
+        "TimelineFrequency": 0.380473792552948,
+        "AuthoritiesGovernance": 0.4893929660320282,
+        "DefinitionsReferences": 0.42825374007225037
+      }
+    },
+    {
+      "sentence": "These NGOs will help in reaching out to potential beneficiaries in remote areas.",
+      "role": "Eligibility",
+      "confidence": 0.5461589097976685,
+      "similarities": {
+        "ContextObjective": 0.4979255795478821,
+        "BenefitsAssistance": 0.4493052065372467,
+        "Eligibility": 0.5461589097976685,
+        "ApplicationProcess": 0.40725618600845337,
+        "TimelineFrequency": 0.39149361848831177,
+        "AuthoritiesGovernance": 0.4456249177455902,
+        "DefinitionsReferences": 0.3707282245159149
+      }
+    },
+    {
+      "sentence": "The implementation of the scheme will be monitored regularly.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5685389041900635,
+      "similarities": {
+        "ContextObjective": 0.5282577872276306,
+        "BenefitsAssistance": 0.5102716684341431,
+        "Eligibility": 0.5208595991134644,
+        "ApplicationProcess": 0.5308300256729126,
+        "TimelineFrequency": 0.49112462997436523,
+        "AuthoritiesGovernance": 0.5685389041900635,
+        "DefinitionsReferences": 0.47493427991867065
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to improve the scheme's effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5483477115631104,
+      "similarities": {
+        "ContextObjective": 0.5483477115631104,
+        "BenefitsAssistance": 0.4975939691066742,
+        "Eligibility": 0.5470492839813232,
+        "ApplicationProcess": 0.47501879930496216,
+        "TimelineFrequency": 0.4394436180591583,
+        "AuthoritiesGovernance": 0.5133885741233826,
+        "DefinitionsReferences": 0.42460229992866516
+      }
+    },
+    {
+      "sentence": "The government aims to ensure transparency in the disbursement of pensions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5432467460632324,
+      "similarities": {
+        "ContextObjective": 0.4965181350708008,
+        "BenefitsAssistance": 0.5432467460632324,
+        "Eligibility": 0.5160854458808899,
+        "ApplicationProcess": 0.4880479574203491,
+        "TimelineFrequency": 0.43010398745536804,
+        "AuthoritiesGovernance": 0.5344061851501465,
+        "DefinitionsReferences": 0.39647912979125977
+      }
+    },
+    {
+      "sentence": "Regular audits will be conducted to ensure that funds are utilized appropriately.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5381473302841187,
+      "similarities": {
+        "ContextObjective": 0.4370986223220825,
+        "BenefitsAssistance": 0.5381473302841187,
+        "Eligibility": 0.4823360741138458,
+        "ApplicationProcess": 0.49063509702682495,
+        "TimelineFrequency": 0.4663516581058502,
+        "AuthoritiesGovernance": 0.49288856983184814,
+        "DefinitionsReferences": 0.4669862985610962
+      }
+    },
+    {
+      "sentence": "The scheme will also be evaluated based on its impact on the livelihoods of artisans.",
+      "role": "Eligibility",
+      "confidence": 0.4766233563423157,
+      "similarities": {
+        "ContextObjective": 0.4579429030418396,
+        "BenefitsAssistance": 0.45795994997024536,
+        "Eligibility": 0.4766233563423157,
+        "ApplicationProcess": 0.3908352255821228,
+        "TimelineFrequency": 0.3984580338001251,
+        "AuthoritiesGovernance": 0.4277573823928833,
+        "DefinitionsReferences": 0.3751614987850189
+      }
+    },
+    {
+      "sentence": "The government plans to publish annual reports detailing the progress of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5426074862480164,
+      "similarities": {
+        "ContextObjective": 0.5426074862480164,
+        "BenefitsAssistance": 0.5053381323814392,
+        "Eligibility": 0.4430176019668579,
+        "ApplicationProcess": 0.5087058544158936,
+        "TimelineFrequency": 0.45539629459381104,
+        "AuthoritiesGovernance": 0.47507601976394653,
+        "DefinitionsReferences": 0.41840511560440063
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is a significant step towards social welfare for artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.4278873801231384,
+      "similarities": {
+        "ContextObjective": 0.4278873801231384,
+        "BenefitsAssistance": 0.4182569980621338,
+        "Eligibility": 0.39442217350006104,
+        "ApplicationProcess": 0.36018675565719604,
+        "TimelineFrequency": 0.3032773733139038,
+        "AuthoritiesGovernance": 0.3600744307041168,
+        "DefinitionsReferences": 0.31922823190689087
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to supporting traditional crafts.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.4277067482471466,
+      "similarities": {
+        "ContextObjective": 0.4203861355781555,
+        "BenefitsAssistance": 0.3887939155101776,
+        "Eligibility": 0.38243597745895386,
+        "ApplicationProcess": 0.397355318069458,
+        "TimelineFrequency": 0.35761940479278564,
+        "AuthoritiesGovernance": 0.4168463945388794,
+        "DefinitionsReferences": 0.4277067482471466
+      }
+    },
+    {
+      "sentence": "The scheme is expected to foster a sense of community among artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.5116066932678223,
+      "similarities": {
+        "ContextObjective": 0.5116066932678223,
+        "BenefitsAssistance": 0.3903804421424866,
+        "Eligibility": 0.4166407585144043,
+        "ApplicationProcess": 0.3954194188117981,
+        "TimelineFrequency": 0.3672778010368347,
+        "AuthoritiesGovernance": 0.41702714562416077,
+        "DefinitionsReferences": 0.3646262288093567
+      }
+    },
+    {
+      "sentence": "By providing financial security, artisans can focus on their craft without financial stress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4848579168319702,
+      "similarities": {
+        "ContextObjective": 0.3982483148574829,
+        "BenefitsAssistance": 0.4848579168319702,
+        "Eligibility": 0.38993245363235474,
+        "ApplicationProcess": 0.37558698654174805,
+        "TimelineFrequency": 0.35846179723739624,
+        "AuthoritiesGovernance": 0.28363192081451416,
+        "DefinitionsReferences": 0.31842923164367676
+      }
+    },
+    {
+      "sentence": "The government encourages all eligible artisans to apply for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5290848016738892,
+      "similarities": {
+        "ContextObjective": 0.4977799654006958,
+        "BenefitsAssistance": 0.4335542917251587,
+        "Eligibility": 0.5290848016738892,
+        "ApplicationProcess": 0.5191495418548584,
+        "TimelineFrequency": 0.45841503143310547,
+        "AuthoritiesGovernance": 0.39859306812286377,
+        "DefinitionsReferences": 0.3667649030685425
+      }
+    },
+    {
+      "sentence": "This initiative is a recognition of the hard work and dedication of artisans across India.",
+      "role": "ContextObjective",
+      "confidence": 0.420291543006897,
+      "similarities": {
+        "ContextObjective": 0.420291543006897,
+        "BenefitsAssistance": 0.37886369228363037,
+        "Eligibility": 0.402923047542572,
+        "ApplicationProcess": 0.3914887309074402,
+        "TimelineFrequency": 0.3628627061843872,
+        "AuthoritiesGovernance": 0.400834321975708,
+        "DefinitionsReferences": 0.35938024520874023
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is a vital component of the government's welfare initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.49955451488494873,
+      "similarities": {
+        "ContextObjective": 0.49955451488494873,
+        "BenefitsAssistance": 0.45021089911460876,
+        "Eligibility": 0.44491875171661377,
+        "ApplicationProcess": 0.4099545478820801,
+        "TimelineFrequency": 0.36291617155075073,
+        "AuthoritiesGovernance": 0.43210530281066895,
+        "DefinitionsReferences": 0.3817017078399658
+      }
+    },
+    {
+      "sentence": "It aims to create a sustainable future for traditional artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.4962829053401947,
+      "similarities": {
+        "ContextObjective": 0.4962829053401947,
+        "BenefitsAssistance": 0.33992433547973633,
+        "Eligibility": 0.39061087369918823,
+        "ApplicationProcess": 0.37625575065612793,
+        "TimelineFrequency": 0.35348260402679443,
+        "AuthoritiesGovernance": 0.3973621129989624,
+        "DefinitionsReferences": 0.3441162109375
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial support but also empowers artisans through skill development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4908553957939148,
+      "similarities": {
+        "ContextObjective": 0.46735328435897827,
+        "BenefitsAssistance": 0.4908553957939148,
+        "Eligibility": 0.4339140057563782,
+        "ApplicationProcess": 0.3985574245452881,
+        "TimelineFrequency": 0.384274423122406,
+        "AuthoritiesGovernance": 0.37601765990257263,
+        "DefinitionsReferences": 0.37995362281799316
+      }
+    },
+    {
+      "sentence": "The government is hopeful that this scheme will lead to a revival of traditional crafts.",
+      "role": "ContextObjective",
+      "confidence": 0.4794491231441498,
+      "similarities": {
+        "ContextObjective": 0.4794491231441498,
+        "BenefitsAssistance": 0.34855931997299194,
+        "Eligibility": 0.37920141220092773,
+        "ApplicationProcess": 0.3999209403991699,
+        "TimelineFrequency": 0.36441975831985474,
+        "AuthoritiesGovernance": 0.3957001566886902,
+        "DefinitionsReferences": 0.34505486488342285
+      }
+    },
+    {
+      "sentence": "By supporting artisans, the scheme contributes to the preservation of India's rich cultural heritage.",
+      "role": "ContextObjective",
+      "confidence": 0.4504503607749939,
+      "similarities": {
+        "ContextObjective": 0.4504503607749939,
+        "BenefitsAssistance": 0.39193272590637207,
+        "Eligibility": 0.39336979389190674,
+        "ApplicationProcess": 0.36530017852783203,
+        "TimelineFrequency": 0.3219192326068878,
+        "AuthoritiesGovernance": 0.34011709690093994,
+        "DefinitionsReferences": 0.346431165933609
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is a landmark initiative in the realm of social security.",
+      "role": "ContextObjective",
+      "confidence": 0.5057218670845032,
+      "similarities": {
+        "ContextObjective": 0.5057218670845032,
+        "BenefitsAssistance": 0.4238836169242859,
+        "Eligibility": 0.429675817489624,
+        "ApplicationProcess": 0.38654935359954834,
+        "TimelineFrequency": 0.3420325517654419,
+        "AuthoritiesGovernance": 0.3532196879386902,
+        "DefinitionsReferences": 0.3447825610637665
+      }
+    },
+    {
+      "sentence": "It is designed to uplift one of the most vulnerable segments of society.",
+      "role": "ContextObjective",
+      "confidence": 0.5065218210220337,
+      "similarities": {
+        "ContextObjective": 0.5065218210220337,
+        "BenefitsAssistance": 0.4261801838874817,
+        "Eligibility": 0.4817999005317688,
+        "ApplicationProcess": 0.3949580788612366,
+        "TimelineFrequency": 0.3599654734134674,
+        "AuthoritiesGovernance": 0.40403082966804504,
+        "DefinitionsReferences": 0.33731600642204285
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's recognition of the importance of artisans in the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.4606374502182007,
+      "similarities": {
+        "ContextObjective": 0.4606374502182007,
+        "BenefitsAssistance": 0.4130294919013977,
+        "Eligibility": 0.40074482560157776,
+        "ApplicationProcess": 0.39594435691833496,
+        "TimelineFrequency": 0.36405670642852783,
+        "AuthoritiesGovernance": 0.36820313334465027,
+        "DefinitionsReferences": 0.3686167597770691
+      }
+    },
+    {
+      "sentence": "Through this initiative, the government aims to ensure that artisans receive the respect and support they deserve.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46094223856925964,
+      "similarities": {
+        "ContextObjective": 0.44564202427864075,
+        "BenefitsAssistance": 0.4166612923145294,
+        "Eligibility": 0.43103116750717163,
+        "ApplicationProcess": 0.42793068289756775,
+        "TimelineFrequency": 0.36378997564315796,
+        "AuthoritiesGovernance": 0.46094223856925964,
+        "DefinitionsReferences": 0.3800885081291199
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is a significant move towards inclusive growth in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4562094211578369,
+      "similarities": {
+        "ContextObjective": 0.4562094211578369,
+        "BenefitsAssistance": 0.4143061637878418,
+        "Eligibility": 0.4253987669944763,
+        "ApplicationProcess": 0.34061506390571594,
+        "TimelineFrequency": 0.31224557757377625,
+        "AuthoritiesGovernance": 0.3456047773361206,
+        "DefinitionsReferences": 0.31729525327682495
+      }
+    },
+    {
+      "sentence": "It highlights the government's commitment to social justice and equity.",
+      "role": "ContextObjective",
+      "confidence": 0.47269657254219055,
+      "similarities": {
+        "ContextObjective": 0.47269657254219055,
+        "BenefitsAssistance": 0.41673779487609863,
+        "Eligibility": 0.43838757276535034,
+        "ApplicationProcess": 0.3843623399734497,
+        "TimelineFrequency": 0.36879050731658936,
+        "AuthoritiesGovernance": 0.420146107673645,
+        "DefinitionsReferences": 0.4449702203273773
+      }
+    },
+    {
+      "sentence": "The scheme is expected to have a long-lasting impact on the lives of artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.48118001222610474,
+      "similarities": {
+        "ContextObjective": 0.48118001222610474,
+        "BenefitsAssistance": 0.42636290192604065,
+        "Eligibility": 0.4308639168739319,
+        "ApplicationProcess": 0.3866768181324005,
+        "TimelineFrequency": 0.3902038037776947,
+        "AuthoritiesGovernance": 0.3909229338169098,
+        "DefinitionsReferences": 0.3773726224899292
+      }
+    },
+    {
+      "sentence": "By providing a steady income, the scheme aims to improve their quality of life.",
+      "role": "ContextObjective",
+      "confidence": 0.5205104351043701,
+      "similarities": {
+        "ContextObjective": 0.5205104351043701,
+        "BenefitsAssistance": 0.47473669052124023,
+        "Eligibility": 0.4878161549568176,
+        "ApplicationProcess": 0.4361429214477539,
+        "TimelineFrequency": 0.3852140009403229,
+        "AuthoritiesGovernance": 0.41270920634269714,
+        "DefinitionsReferences": 0.36609113216400146
+      }
+    },
+    {
+      "sentence": "The government encourages participation from all stakeholders in promoting the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5463133454322815,
+      "similarities": {
+        "ContextObjective": 0.5463133454322815,
+        "BenefitsAssistance": 0.43097710609436035,
+        "Eligibility": 0.4936055839061737,
+        "ApplicationProcess": 0.45550140738487244,
+        "TimelineFrequency": 0.4021661579608917,
+        "AuthoritiesGovernance": 0.49026989936828613,
+        "DefinitionsReferences": 0.4041035771369934
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is a crucial step towards empowering traditional artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.4259421229362488,
+      "similarities": {
+        "ContextObjective": 0.4259421229362488,
+        "BenefitsAssistance": 0.38555213809013367,
+        "Eligibility": 0.3959910273551941,
+        "ApplicationProcess": 0.36780858039855957,
+        "TimelineFrequency": 0.31907740235328674,
+        "AuthoritiesGovernance": 0.3845645785331726,
+        "DefinitionsReferences": 0.3211178481578827
+      }
+    },
+    {
+      "sentence": "It aims to create a supportive environment for artisans to thrive.",
+      "role": "ContextObjective",
+      "confidence": 0.4955958127975464,
+      "similarities": {
+        "ContextObjective": 0.4955958127975464,
+        "BenefitsAssistance": 0.4154577851295471,
+        "Eligibility": 0.44748371839523315,
+        "ApplicationProcess": 0.4062119722366333,
+        "TimelineFrequency": 0.3917878270149231,
+        "AuthoritiesGovernance": 0.42557230591773987,
+        "DefinitionsReferences": 0.39169514179229736
+      }
+    },
+    {
+      "sentence": "The scheme is a reflection of the government's dedication to preserving India's artistic legacy.",
+      "role": "ContextObjective",
+      "confidence": 0.4905971884727478,
+      "similarities": {
+        "ContextObjective": 0.4905971884727478,
+        "BenefitsAssistance": 0.3568039834499359,
+        "Eligibility": 0.4214352071285248,
+        "ApplicationProcess": 0.4039260149002075,
+        "TimelineFrequency": 0.3442598879337311,
+        "AuthoritiesGovernance": 0.36512863636016846,
+        "DefinitionsReferences": 0.37725332379341125
+      }
+    },
+    {
+      "sentence": "It is an initiative that seeks to honor the skills and creativity of artisans.",
+      "role": "ContextObjective",
+      "confidence": 0.46764516830444336,
+      "similarities": {
+        "ContextObjective": 0.46764516830444336,
+        "BenefitsAssistance": 0.37678489089012146,
+        "Eligibility": 0.4107275605201721,
+        "ApplicationProcess": 0.4098482131958008,
+        "TimelineFrequency": 0.401489794254303,
+        "AuthoritiesGovernance": 0.4104328155517578,
+        "DefinitionsReferences": 0.37355825304985046
+      }
+    },
+    {
+      "sentence": "The Viswakarma Pension Scheme is a beacon of hope for many traditional craftsmen in India.",
+      "role": "ContextObjective",
+      "confidence": 0.43430766463279724,
+      "similarities": {
+        "ContextObjective": 0.43430766463279724,
+        "BenefitsAssistance": 0.36820125579833984,
+        "Eligibility": 0.3936464786529541,
+        "ApplicationProcess": 0.3413745164871216,
+        "TimelineFrequency": 0.30328190326690674,
+        "AuthoritiesGovernance": 0.3459726572036743,
+        "DefinitionsReferences": 0.2993364930152893
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 39,
+    "BenefitsAssistance": 8,
+    "Eligibility": 9,
+    "ApplicationProcess": 7,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4,
+    "DefinitionsReferences": 2
+  },
+  "processing_timestamp": "2025-09-25T20:47:48.232496"
+}

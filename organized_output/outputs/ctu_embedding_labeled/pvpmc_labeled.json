@@ -1,0 +1,841 @@
+{
+  "scheme_name": "Pichda Varg Post Matric Chhatravritti",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Pichda Varg Post Matric Chhatravritti is a significant welfare scheme initiated by the Government of India aimed at providing financial assistance to students from backward classes pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5259811878204346,
+      "similarities": {
+        "ContextObjective": 0.5259811878204346,
+        "BenefitsAssistance": 0.4728250503540039,
+        "Eligibility": 0.4976394772529602,
+        "ApplicationProcess": 0.4467678964138031,
+        "TimelineFrequency": 0.42454347014427185,
+        "AuthoritiesGovernance": 0.4382550120353699,
+        "DefinitionsReferences": 0.37691789865493774
+      }
+    },
+    {
+      "sentence": "This scheme was launched in the year 2006.",
+      "role": "ContextObjective",
+      "confidence": 0.6207166314125061,
+      "similarities": {
+        "ContextObjective": 0.6207166314125061,
+        "BenefitsAssistance": 0.46657824516296387,
+        "Eligibility": 0.49769842624664307,
+        "ApplicationProcess": 0.5018373727798462,
+        "TimelineFrequency": 0.4790204167366028,
+        "AuthoritiesGovernance": 0.4176318049430847,
+        "DefinitionsReferences": 0.39858895540237427
+      }
+    },
+    {
+      "sentence": "It is specifically designed to support students who belong to Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.4963092803955078,
+      "similarities": {
+        "ContextObjective": 0.46967339515686035,
+        "BenefitsAssistance": 0.4365341365337372,
+        "Eligibility": 0.4963092803955078,
+        "ApplicationProcess": 0.4029148817062378,
+        "TimelineFrequency": 0.4395231008529663,
+        "AuthoritiesGovernance": 0.38868600130081177,
+        "DefinitionsReferences": 0.40222281217575073
+      }
+    },
+    {
+      "sentence": "The primary objective of the Pichda Varg Post Matric Chhatravritti is to ensure that students from these communities have access to higher education without financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.5254614353179932,
+      "similarities": {
+        "ContextObjective": 0.5254614353179932,
+        "BenefitsAssistance": 0.4192275106906891,
+        "Eligibility": 0.47291016578674316,
+        "ApplicationProcess": 0.4206175208091736,
+        "TimelineFrequency": 0.37318432331085205,
+        "AuthoritiesGovernance": 0.39136117696762085,
+        "DefinitionsReferences": 0.3318781554698944
+      }
+    },
+    {
+      "sentence": "The scheme aims to reduce dropout rates among students from backward classes by providing them with the necessary financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4925462007522583,
+      "similarities": {
+        "ContextObjective": 0.48632916808128357,
+        "BenefitsAssistance": 0.4925462007522583,
+        "Eligibility": 0.4826432466506958,
+        "ApplicationProcess": 0.41976243257522583,
+        "TimelineFrequency": 0.4166322648525238,
+        "AuthoritiesGovernance": 0.38913387060165405,
+        "DefinitionsReferences": 0.34732526540756226
+      }
+    },
+    {
+      "sentence": "The target is to increase the enrollment of students from these communities in post-matriculation courses.",
+      "role": "ContextObjective",
+      "confidence": 0.4744243919849396,
+      "similarities": {
+        "ContextObjective": 0.4744243919849396,
+        "BenefitsAssistance": 0.33159422874450684,
+        "Eligibility": 0.43587130308151245,
+        "ApplicationProcess": 0.377552330493927,
+        "TimelineFrequency": 0.39992719888687134,
+        "AuthoritiesGovernance": 0.36985108256340027,
+        "DefinitionsReferences": 0.3450469970703125
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme covers various expenses including tuition fees, maintenance allowances, and other educational costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6341648697853088,
+      "similarities": {
+        "ContextObjective": 0.4992993474006653,
+        "BenefitsAssistance": 0.6341648697853088,
+        "Eligibility": 0.49679747223854065,
+        "ApplicationProcess": 0.46443265676498413,
+        "TimelineFrequency": 0.49300578236579895,
+        "AuthoritiesGovernance": 0.4264899492263794,
+        "DefinitionsReferences": 0.4679264724254608
+      }
+    },
+    {
+      "sentence": "Eligible students can receive a scholarship amount ranging from INR 1,200 to INR 3,000 per month depending on the course and institution.",
+      "role": "Eligibility",
+      "confidence": 0.5435147285461426,
+      "similarities": {
+        "ContextObjective": 0.46165668964385986,
+        "BenefitsAssistance": 0.520659327507019,
+        "Eligibility": 0.5435147285461426,
+        "ApplicationProcess": 0.47006624937057495,
+        "TimelineFrequency": 0.499064564704895,
+        "AuthoritiesGovernance": 0.3621101975440979,
+        "DefinitionsReferences": 0.40532398223876953
+      }
+    },
+    {
+      "sentence": "The maintenance allowance is provided for a maximum of 10 months in an academic year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5444263815879822,
+      "similarities": {
+        "ContextObjective": 0.4250795841217041,
+        "BenefitsAssistance": 0.5149111747741699,
+        "Eligibility": 0.4860549569129944,
+        "ApplicationProcess": 0.44266068935394287,
+        "TimelineFrequency": 0.5444263815879822,
+        "AuthoritiesGovernance": 0.3963371217250824,
+        "DefinitionsReferences": 0.45744019746780396
+      }
+    },
+    {
+      "sentence": "For students pursuing professional courses, the scholarship amount can be as high as INR 2,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4786916971206665,
+      "similarities": {
+        "ContextObjective": 0.40272098779678345,
+        "BenefitsAssistance": 0.4786916971206665,
+        "Eligibility": 0.4526054263114929,
+        "ApplicationProcess": 0.40263721346855164,
+        "TimelineFrequency": 0.428530752658844,
+        "AuthoritiesGovernance": 0.3106600046157837,
+        "DefinitionsReferences": 0.4018199145793915
+      }
+    },
+    {
+      "sentence": "In addition to the maintenance allowance, students are also eligible for reimbursement of tuition fees.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.518173336982727,
+      "similarities": {
+        "ContextObjective": 0.37099531292915344,
+        "BenefitsAssistance": 0.518173336982727,
+        "Eligibility": 0.4426026940345764,
+        "ApplicationProcess": 0.39811640977859497,
+        "TimelineFrequency": 0.4607868492603302,
+        "AuthoritiesGovernance": 0.36155956983566284,
+        "DefinitionsReferences": 0.41887736320495605
+      }
+    },
+    {
+      "sentence": "The maximum tuition fee reimbursement can go up to INR 10,000 per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5034974217414856,
+      "similarities": {
+        "ContextObjective": 0.36619049310684204,
+        "BenefitsAssistance": 0.5034974217414856,
+        "Eligibility": 0.43758097290992737,
+        "ApplicationProcess": 0.3819943070411682,
+        "TimelineFrequency": 0.4295373260974884,
+        "AuthoritiesGovernance": 0.348848819732666,
+        "DefinitionsReferences": 0.400598406791687
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Pichda Varg Post Matric Chhatravritti scheme include students who belong to Scheduled Castes, Scheduled Tribes, or Other Backward Classes.",
+      "role": "Eligibility",
+      "confidence": 0.6037399172782898,
+      "similarities": {
+        "ContextObjective": 0.48356255888938904,
+        "BenefitsAssistance": 0.4093100428581238,
+        "Eligibility": 0.6037399172782898,
+        "ApplicationProcess": 0.4724021255970001,
+        "TimelineFrequency": 0.46716824173927307,
+        "AuthoritiesGovernance": 0.3733695149421692,
+        "DefinitionsReferences": 0.38025787472724915
+      }
+    },
+    {
+      "sentence": "Students must be enrolled in a recognized post-matriculation course.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5328125953674316,
+      "similarities": {
+        "ContextObjective": 0.4814746379852295,
+        "BenefitsAssistance": 0.42492419481277466,
+        "Eligibility": 0.5067628622055054,
+        "ApplicationProcess": 0.5328125953674316,
+        "TimelineFrequency": 0.4938853085041046,
+        "AuthoritiesGovernance": 0.4174438416957855,
+        "DefinitionsReferences": 0.45432204008102417
+      }
+    },
+    {
+      "sentence": "The annual income of the student's family should not exceed INR 2.5 lakhs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5157716274261475,
+      "similarities": {
+        "ContextObjective": 0.3983306586742401,
+        "BenefitsAssistance": 0.5157716274261475,
+        "Eligibility": 0.5089854001998901,
+        "ApplicationProcess": 0.4445987343788147,
+        "TimelineFrequency": 0.4174271821975708,
+        "AuthoritiesGovernance": 0.35151243209838867,
+        "DefinitionsReferences": 0.36833369731903076
+      }
+    },
+    {
+      "sentence": "Students must have secured at least 50% marks in their previous examinations to qualify for the scholarship.",
+      "role": "Eligibility",
+      "confidence": 0.5176632404327393,
+      "similarities": {
+        "ContextObjective": 0.4559400975704193,
+        "BenefitsAssistance": 0.3838902711868286,
+        "Eligibility": 0.5176632404327393,
+        "ApplicationProcess": 0.4978979825973511,
+        "TimelineFrequency": 0.46160799264907837,
+        "AuthoritiesGovernance": 0.3011603355407715,
+        "DefinitionsReferences": 0.37870070338249207
+      }
+    },
+    {
+      "sentence": "The application process for the Pichda Varg Post Matric Chhatravritti involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6539095044136047,
+      "similarities": {
+        "ContextObjective": 0.5344505310058594,
+        "BenefitsAssistance": 0.4659131169319153,
+        "Eligibility": 0.5593655705451965,
+        "ApplicationProcess": 0.6539095044136047,
+        "TimelineFrequency": 0.5468106865882874,
+        "AuthoritiesGovernance": 0.47095757722854614,
+        "DefinitionsReferences": 0.4496138393878937
+      }
+    },
+    {
+      "sentence": "First, eligible students must visit the official website of the respective state government or the Ministry of Social Justice and Empowerment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5537530183792114,
+      "similarities": {
+        "ContextObjective": 0.47297656536102295,
+        "BenefitsAssistance": 0.42378121614456177,
+        "Eligibility": 0.5296640396118164,
+        "ApplicationProcess": 0.5537530183792114,
+        "TimelineFrequency": 0.46102839708328247,
+        "AuthoritiesGovernance": 0.47540342807769775,
+        "DefinitionsReferences": 0.4461643695831299
+      }
+    },
+    {
+      "sentence": "They need to fill out the online application form available on the portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7342116832733154,
+      "similarities": {
+        "ContextObjective": 0.44772636890411377,
+        "BenefitsAssistance": 0.4783102571964264,
+        "Eligibility": 0.5931416153907776,
+        "ApplicationProcess": 0.7342116832733154,
+        "TimelineFrequency": 0.5532703399658203,
+        "AuthoritiesGovernance": 0.4441739320755005,
+        "DefinitionsReferences": 0.4207388758659363
+      }
+    },
+    {
+      "sentence": "Students must provide necessary documents including caste certificates, income certificates, and academic records.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5832675695419312,
+      "similarities": {
+        "ContextObjective": 0.4210352897644043,
+        "BenefitsAssistance": 0.5100054144859314,
+        "Eligibility": 0.5209647417068481,
+        "ApplicationProcess": 0.5832675695419312,
+        "TimelineFrequency": 0.4920975863933563,
+        "AuthoritiesGovernance": 0.4100974202156067,
+        "DefinitionsReferences": 0.5105732679367065
+      }
+    },
+    {
+      "sentence": "The application must be submitted before the deadline set by the respective state government.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5745934844017029,
+      "similarities": {
+        "ContextObjective": 0.49249935150146484,
+        "BenefitsAssistance": 0.41668134927749634,
+        "Eligibility": 0.5615514516830444,
+        "ApplicationProcess": 0.5741263628005981,
+        "TimelineFrequency": 0.5745934844017029,
+        "AuthoritiesGovernance": 0.4442773461341858,
+        "DefinitionsReferences": 0.3976532816886902
+      }
+    },
+    {
+      "sentence": "After submission, the application will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7391502261161804,
+      "similarities": {
+        "ContextObjective": 0.5164609551429749,
+        "BenefitsAssistance": 0.466097354888916,
+        "Eligibility": 0.6002185344696045,
+        "ApplicationProcess": 0.7391502261161804,
+        "TimelineFrequency": 0.5627283453941345,
+        "AuthoritiesGovernance": 0.4859579801559448,
+        "DefinitionsReferences": 0.48744621872901917
+      }
+    },
+    {
+      "sentence": "Once verified, the scholarship amount will be disbursed directly to the student’s bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5128929615020752,
+      "similarities": {
+        "ContextObjective": 0.3828398585319519,
+        "BenefitsAssistance": 0.5128929615020752,
+        "Eligibility": 0.45045602321624756,
+        "ApplicationProcess": 0.4994693100452423,
+        "TimelineFrequency": 0.41893285512924194,
+        "AuthoritiesGovernance": 0.346581369638443,
+        "DefinitionsReferences": 0.34949254989624023
+      }
+    },
+    {
+      "sentence": "The timeline for the application process varies from state to state.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6928874254226685,
+      "similarities": {
+        "ContextObjective": 0.5133675932884216,
+        "BenefitsAssistance": 0.5005508661270142,
+        "Eligibility": 0.6308075189590454,
+        "ApplicationProcess": 0.6489642262458801,
+        "TimelineFrequency": 0.6928874254226685,
+        "AuthoritiesGovernance": 0.5265592932701111,
+        "DefinitionsReferences": 0.4867185950279236
+      }
+    },
+    {
+      "sentence": "Typically, the application window opens in June and closes by August each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6413121819496155,
+      "similarities": {
+        "ContextObjective": 0.4346854090690613,
+        "BenefitsAssistance": 0.41264238953590393,
+        "Eligibility": 0.4972073435783386,
+        "ApplicationProcess": 0.5278671979904175,
+        "TimelineFrequency": 0.6413121819496155,
+        "AuthoritiesGovernance": 0.3599284291267395,
+        "DefinitionsReferences": 0.3748350739479065
+      }
+    },
+    {
+      "sentence": "Disbursement of funds usually occurs within two months after the application deadline.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5905107855796814,
+      "similarities": {
+        "ContextObjective": 0.45843586325645447,
+        "BenefitsAssistance": 0.5427467226982117,
+        "Eligibility": 0.5339400768280029,
+        "ApplicationProcess": 0.5259935855865479,
+        "TimelineFrequency": 0.5905107855796814,
+        "AuthoritiesGovernance": 0.4429367780685425,
+        "DefinitionsReferences": 0.39766204357147217
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Pichda Varg Post Matric Chhatravritti scheme is the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5368257164955139,
+      "similarities": {
+        "ContextObjective": 0.4619770646095276,
+        "BenefitsAssistance": 0.3750338554382324,
+        "Eligibility": 0.46954771876335144,
+        "ApplicationProcess": 0.3987704813480377,
+        "TimelineFrequency": 0.34090757369995117,
+        "AuthoritiesGovernance": 0.5368257164955139,
+        "DefinitionsReferences": 0.3742823600769043
+      }
+    },
+    {
+      "sentence": "Each state has its own respective department that oversees the implementation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6554981470108032,
+      "similarities": {
+        "ContextObjective": 0.5303655862808228,
+        "BenefitsAssistance": 0.4866951107978821,
+        "Eligibility": 0.5344054698944092,
+        "ApplicationProcess": 0.4805287718772888,
+        "TimelineFrequency": 0.44668933749198914,
+        "AuthoritiesGovernance": 0.6554981470108032,
+        "DefinitionsReferences": 0.44780099391937256
+      }
+    },
+    {
+      "sentence": "For instance, in Maharashtra, the scheme is managed by the Social Justice and Special Assistance Department.",
+      "role": "ContextObjective",
+      "confidence": 0.4852175712585449,
+      "similarities": {
+        "ContextObjective": 0.4852175712585449,
+        "BenefitsAssistance": 0.44059622287750244,
+        "Eligibility": 0.4807276129722595,
+        "ApplicationProcess": 0.39867085218429565,
+        "TimelineFrequency": 0.37544339895248413,
+        "AuthoritiesGovernance": 0.48273134231567383,
+        "DefinitionsReferences": 0.3795545697212219
+      }
+    },
+    {
+      "sentence": "Students can contact the state helpline numbers for assistance regarding the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5551555752754211,
+      "similarities": {
+        "ContextObjective": 0.43471819162368774,
+        "BenefitsAssistance": 0.4956818222999573,
+        "Eligibility": 0.5357860326766968,
+        "ApplicationProcess": 0.5551555752754211,
+        "TimelineFrequency": 0.523566484451294,
+        "AuthoritiesGovernance": 0.4817654490470886,
+        "DefinitionsReferences": 0.41379526257514954
+      }
+    },
+    {
+      "sentence": "In Maharashtra, the helpline number is 1800 120 8040.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4600074887275696,
+      "similarities": {
+        "ContextObjective": 0.3730144798755646,
+        "BenefitsAssistance": 0.4600074887275696,
+        "Eligibility": 0.41800975799560547,
+        "ApplicationProcess": 0.400142639875412,
+        "TimelineFrequency": 0.37568551301956177,
+        "AuthoritiesGovernance": 0.4290124773979187,
+        "DefinitionsReferences": 0.3550672233104706
+      }
+    },
+    {
+      "sentence": "In Uttar Pradesh, the scheme is administered by the Backward Classes Welfare Department.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4677143096923828,
+      "similarities": {
+        "ContextObjective": 0.46579334139823914,
+        "BenefitsAssistance": 0.42750388383865356,
+        "Eligibility": 0.4644836485385895,
+        "ApplicationProcess": 0.39320510625839233,
+        "TimelineFrequency": 0.3618255853652954,
+        "AuthoritiesGovernance": 0.4677143096923828,
+        "DefinitionsReferences": 0.32712000608444214
+      }
+    },
+    {
+      "sentence": "The contact number for assistance in Uttar Pradesh is 0522 223 1166.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5140019655227661,
+      "similarities": {
+        "ContextObjective": 0.38017886877059937,
+        "BenefitsAssistance": 0.5140019655227661,
+        "Eligibility": 0.46785449981689453,
+        "ApplicationProcess": 0.4267118573188782,
+        "TimelineFrequency": 0.389006108045578,
+        "AuthoritiesGovernance": 0.46756458282470703,
+        "DefinitionsReferences": 0.3742339313030243
+      }
+    },
+    {
+      "sentence": "The Pichda Varg Post Matric Chhatravritti scheme has seen significant uptake since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.5076299905776978,
+      "similarities": {
+        "ContextObjective": 0.5076299905776978,
+        "BenefitsAssistance": 0.39664632081985474,
+        "Eligibility": 0.40025395154953003,
+        "ApplicationProcess": 0.3866940140724182,
+        "TimelineFrequency": 0.3565714955329895,
+        "AuthoritiesGovernance": 0.3531773090362549,
+        "DefinitionsReferences": 0.3521321415901184
+      }
+    },
+    {
+      "sentence": "According to the Ministry of Social Justice and Empowerment, over 1.5 million students have benefited from the scheme in the last academic year.",
+      "role": "ContextObjective",
+      "confidence": 0.41519349813461304,
+      "similarities": {
+        "ContextObjective": 0.41519349813461304,
+        "BenefitsAssistance": 0.3781048059463501,
+        "Eligibility": 0.36927878856658936,
+        "ApplicationProcess": 0.34195876121520996,
+        "TimelineFrequency": 0.332640141248703,
+        "AuthoritiesGovernance": 0.3490612208843231,
+        "DefinitionsReferences": 0.30911922454833984
+      }
+    },
+    {
+      "sentence": "The government allocates a substantial budget for this scheme every year.",
+      "role": "ContextObjective",
+      "confidence": 0.5259578227996826,
+      "similarities": {
+        "ContextObjective": 0.5259578227996826,
+        "BenefitsAssistance": 0.4785986840724945,
+        "Eligibility": 0.4478265643119812,
+        "ApplicationProcess": 0.4037018418312073,
+        "TimelineFrequency": 0.4675389528274536,
+        "AuthoritiesGovernance": 0.412988543510437,
+        "DefinitionsReferences": 0.37898170948028564
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the allocation was approximately INR 1,200 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4794986844062805,
+      "similarities": {
+        "ContextObjective": 0.43517616391181946,
+        "BenefitsAssistance": 0.4794986844062805,
+        "Eligibility": 0.447970449924469,
+        "ApplicationProcess": 0.37036532163619995,
+        "TimelineFrequency": 0.41684097051620483,
+        "AuthoritiesGovernance": 0.3688201308250427,
+        "DefinitionsReferences": 0.37508589029312134
+      }
+    },
+    {
+      "sentence": "This funding is aimed at covering the costs of scholarships for students from backward classes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.502179741859436,
+      "similarities": {
+        "ContextObjective": 0.46955668926239014,
+        "BenefitsAssistance": 0.502179741859436,
+        "Eligibility": 0.4839879870414734,
+        "ApplicationProcess": 0.4043099880218506,
+        "TimelineFrequency": 0.4174429476261139,
+        "AuthoritiesGovernance": 0.36776459217071533,
+        "DefinitionsReferences": 0.3805260956287384
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in promoting educational equity and social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.5484638214111328,
+      "similarities": {
+        "ContextObjective": 0.5484638214111328,
+        "BenefitsAssistance": 0.3909093141555786,
+        "Eligibility": 0.4321139454841614,
+        "ApplicationProcess": 0.3722952902317047,
+        "TimelineFrequency": 0.3728865385055542,
+        "AuthoritiesGovernance": 0.38924288749694824,
+        "DefinitionsReferences": 0.3867280185222626
+      }
+    },
+    {
+      "sentence": "It has contributed to increasing the literacy rates among Scheduled Castes and Scheduled Tribes.",
+      "role": "ContextObjective",
+      "confidence": 0.42746537923812866,
+      "similarities": {
+        "ContextObjective": 0.42746537923812866,
+        "BenefitsAssistance": 0.38496989011764526,
+        "Eligibility": 0.37331297993659973,
+        "ApplicationProcess": 0.35570383071899414,
+        "TimelineFrequency": 0.36002641916275024,
+        "AuthoritiesGovernance": 0.3594958782196045,
+        "DefinitionsReferences": 0.40227434039115906
+      }
+    },
+    {
+      "sentence": "The government regularly reviews and updates the scheme to ensure its effectiveness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5298950672149658,
+      "similarities": {
+        "ContextObjective": 0.5227464437484741,
+        "BenefitsAssistance": 0.4731261134147644,
+        "Eligibility": 0.5130717754364014,
+        "ApplicationProcess": 0.5298950672149658,
+        "TimelineFrequency": 0.4817126989364624,
+        "AuthoritiesGovernance": 0.5138850808143616,
+        "DefinitionsReferences": 0.45830726623535156
+      }
+    },
+    {
+      "sentence": "In recent years, there has been a push to digitize the application process to make it more accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6486432552337646,
+      "similarities": {
+        "ContextObjective": 0.47816842794418335,
+        "BenefitsAssistance": 0.4902389943599701,
+        "Eligibility": 0.5383967757225037,
+        "ApplicationProcess": 0.6486432552337646,
+        "TimelineFrequency": 0.5702940225601196,
+        "AuthoritiesGovernance": 0.45664989948272705,
+        "DefinitionsReferences": 0.4784240424633026
+      }
+    },
+    {
+      "sentence": "Students can now track their application status online through the official portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6110173463821411,
+      "similarities": {
+        "ContextObjective": 0.38995349407196045,
+        "BenefitsAssistance": 0.4468628764152527,
+        "Eligibility": 0.4954182803630829,
+        "ApplicationProcess": 0.6110173463821411,
+        "TimelineFrequency": 0.5425724983215332,
+        "AuthoritiesGovernance": 0.4074665904045105,
+        "DefinitionsReferences": 0.4129032790660858
+      }
+    },
+    {
+      "sentence": "The scheme also encourages students to pursue higher education in fields that are traditionally underrepresented among backward classes.",
+      "role": "ContextObjective",
+      "confidence": 0.46196043491363525,
+      "similarities": {
+        "ContextObjective": 0.46196043491363525,
+        "BenefitsAssistance": 0.3528022766113281,
+        "Eligibility": 0.4064368009567261,
+        "ApplicationProcess": 0.3609820008277893,
+        "TimelineFrequency": 0.3389577567577362,
+        "AuthoritiesGovernance": 0.30066829919815063,
+        "DefinitionsReferences": 0.32060694694519043
+      }
+    },
+    {
+      "sentence": "This includes engineering, medicine, and other professional courses.",
+      "role": "TimelineFrequency",
+      "confidence": 0.48342132568359375,
+      "similarities": {
+        "ContextObjective": 0.43862679600715637,
+        "BenefitsAssistance": 0.4808465242385864,
+        "Eligibility": 0.4316825866699219,
+        "ApplicationProcess": 0.4203503727912903,
+        "TimelineFrequency": 0.48342132568359375,
+        "AuthoritiesGovernance": 0.40015721321105957,
+        "DefinitionsReferences": 0.47236594557762146
+      }
+    },
+    {
+      "sentence": "The Pichda Varg Post Matric Chhatravritti is part of a larger framework of welfare schemes aimed at uplifting marginalized communities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5092722177505493,
+      "similarities": {
+        "ContextObjective": 0.5092722177505493,
+        "BenefitsAssistance": 0.42682695388793945,
+        "Eligibility": 0.457351416349411,
+        "ApplicationProcess": 0.3697405457496643,
+        "TimelineFrequency": 0.3523288369178772,
+        "AuthoritiesGovernance": 0.43429166078567505,
+        "DefinitionsReferences": 0.3536835312843323
+      }
+    },
+    {
+      "sentence": "It complements other initiatives such as the Pre-Matric Scholarship Scheme and the National Fellowship for Scheduled Castes.",
+      "role": "ContextObjective",
+      "confidence": 0.5223309993743896,
+      "similarities": {
+        "ContextObjective": 0.5223309993743896,
+        "BenefitsAssistance": 0.4307537376880646,
+        "Eligibility": 0.4038795828819275,
+        "ApplicationProcess": 0.3795486092567444,
+        "TimelineFrequency": 0.3876973092556,
+        "AuthoritiesGovernance": 0.33876317739486694,
+        "DefinitionsReferences": 0.3832951784133911
+      }
+    },
+    {
+      "sentence": "The government continuously seeks feedback from beneficiaries to improve the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5080356597900391,
+      "similarities": {
+        "ContextObjective": 0.5080356597900391,
+        "BenefitsAssistance": 0.4615055024623871,
+        "Eligibility": 0.48061543703079224,
+        "ApplicationProcess": 0.45208102464675903,
+        "TimelineFrequency": 0.4299904704093933,
+        "AuthoritiesGovernance": 0.49429577589035034,
+        "DefinitionsReferences": 0.38377082347869873
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are also conducted to inform eligible students about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5241482257843018,
+      "similarities": {
+        "ContextObjective": 0.5241482257843018,
+        "BenefitsAssistance": 0.4817781448364258,
+        "Eligibility": 0.5110793113708496,
+        "ApplicationProcess": 0.47085922956466675,
+        "TimelineFrequency": 0.4534876048564911,
+        "AuthoritiesGovernance": 0.40196681022644043,
+        "DefinitionsReferences": 0.3921867907047272
+      }
+    },
+    {
+      "sentence": "The Pichda Varg Post Matric Chhatravritti has played a crucial role in empowering students from backward classes.",
+      "role": "ContextObjective",
+      "confidence": 0.43401896953582764,
+      "similarities": {
+        "ContextObjective": 0.43401896953582764,
+        "BenefitsAssistance": 0.3737748861312866,
+        "Eligibility": 0.41606515645980835,
+        "ApplicationProcess": 0.3516389727592468,
+        "TimelineFrequency": 0.32691606879234314,
+        "AuthoritiesGovernance": 0.3633396327495575,
+        "DefinitionsReferences": 0.3385358452796936
+      }
+    },
+    {
+      "sentence": "By alleviating financial burdens, it has enabled many to pursue their academic and career aspirations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48117369413375854,
+      "similarities": {
+        "ContextObjective": 0.45778924226760864,
+        "BenefitsAssistance": 0.48117369413375854,
+        "Eligibility": 0.42865505814552307,
+        "ApplicationProcess": 0.39900338649749756,
+        "TimelineFrequency": 0.3901156783103943,
+        "AuthoritiesGovernance": 0.3227042257785797,
+        "DefinitionsReferences": 0.37008750438690186
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to inclusive education.",
+      "role": "ContextObjective",
+      "confidence": 0.5233286023139954,
+      "similarities": {
+        "ContextObjective": 0.5233286023139954,
+        "BenefitsAssistance": 0.44007909297943115,
+        "Eligibility": 0.4781859517097473,
+        "ApplicationProcess": 0.4063146710395813,
+        "TimelineFrequency": 0.3765754699707031,
+        "AuthoritiesGovernance": 0.36749494075775146,
+        "DefinitionsReferences": 0.3984164595603943
+      }
+    },
+    {
+      "sentence": "It reflects the broader goal of achieving social equity in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5220400094985962,
+      "similarities": {
+        "ContextObjective": 0.5220400094985962,
+        "BenefitsAssistance": 0.3973987102508545,
+        "Eligibility": 0.4340442419052124,
+        "ApplicationProcess": 0.37123584747314453,
+        "TimelineFrequency": 0.3419288992881775,
+        "AuthoritiesGovernance": 0.41809600591659546,
+        "DefinitionsReferences": 0.3942384123802185
+      }
+    },
+    {
+      "sentence": "Overall, the Pichda Varg Post Matric Chhatravritti scheme stands as a vital support system for students from marginalized backgrounds.",
+      "role": "ContextObjective",
+      "confidence": 0.4834273159503937,
+      "similarities": {
+        "ContextObjective": 0.4834273159503937,
+        "BenefitsAssistance": 0.41468507051467896,
+        "Eligibility": 0.4368526339530945,
+        "ApplicationProcess": 0.36142832040786743,
+        "TimelineFrequency": 0.3494313061237335,
+        "AuthoritiesGovernance": 0.3698689341545105,
+        "DefinitionsReferences": 0.3660467863082886
+      }
+    },
+    {
+      "sentence": "It continues to evolve and adapt to the changing educational landscape of the country.",
+      "role": "ContextObjective",
+      "confidence": 0.46284574270248413,
+      "similarities": {
+        "ContextObjective": 0.46284574270248413,
+        "BenefitsAssistance": 0.3968812823295593,
+        "Eligibility": 0.42924121022224426,
+        "ApplicationProcess": 0.42232540249824524,
+        "TimelineFrequency": 0.41845738887786865,
+        "AuthoritiesGovernance": 0.42168182134628296,
+        "DefinitionsReferences": 0.4302802085876465
+      }
+    },
+    {
+      "sentence": "The impact of this scheme is evident in the increasing number of students from backward classes enrolling in higher education institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.44270390272140503,
+      "similarities": {
+        "ContextObjective": 0.44270390272140503,
+        "BenefitsAssistance": 0.4186338782310486,
+        "Eligibility": 0.42228925228118896,
+        "ApplicationProcess": 0.3783726692199707,
+        "TimelineFrequency": 0.37885427474975586,
+        "AuthoritiesGovernance": 0.3421506881713867,
+        "DefinitionsReferences": 0.3539099097251892
+      }
+    },
+    {
+      "sentence": "This initiative not only fosters individual growth but also contributes to the socio-economic development of the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.4686540961265564,
+      "similarities": {
+        "ContextObjective": 0.4686540961265564,
+        "BenefitsAssistance": 0.3961653411388397,
+        "Eligibility": 0.3973005712032318,
+        "ApplicationProcess": 0.35990601778030396,
+        "TimelineFrequency": 0.34456658363342285,
+        "AuthoritiesGovernance": 0.3703528344631195,
+        "DefinitionsReferences": 0.3541438579559326
+      }
+    },
+    {
+      "sentence": "The Pichda Varg Post Matric Chhatravritti is an essential component of India's educational welfare policies.",
+      "role": "ContextObjective",
+      "confidence": 0.4550747573375702,
+      "similarities": {
+        "ContextObjective": 0.4550747573375702,
+        "BenefitsAssistance": 0.43112844228744507,
+        "Eligibility": 0.42815518379211426,
+        "ApplicationProcess": 0.3998207747936249,
+        "TimelineFrequency": 0.35479292273521423,
+        "AuthoritiesGovernance": 0.42069801688194275,
+        "DefinitionsReferences": 0.3875402808189392
+      }
+    },
+    {
+      "sentence": "It serves as a model for similar initiatives aimed at promoting access to education for all.",
+      "role": "ContextObjective",
+      "confidence": 0.48117339611053467,
+      "similarities": {
+        "ContextObjective": 0.48117339611053467,
+        "BenefitsAssistance": 0.39953547716140747,
+        "Eligibility": 0.4344704747200012,
+        "ApplicationProcess": 0.39998573064804077,
+        "TimelineFrequency": 0.4033570885658264,
+        "AuthoritiesGovernance": 0.40476083755493164,
+        "DefinitionsReferences": 0.41870468854904175
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 24,
+    "Eligibility": 4,
+    "BenefitsAssistance": 12,
+    "TimelineFrequency": 6,
+    "ApplicationProcess": 10,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:40:16.761353"
+}

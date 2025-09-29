@@ -1,0 +1,701 @@
+{
+  "scheme_name": "Housing Subsidy Scheme (GBOCWWB)",
+  "total_sentences": 49,
+  "labeled_sentences": [
+    {
+      "sentence": "The Housing Subsidy Scheme is an initiative launched by the Government of India under the aegis of the Government Building and Other Construction Workers Welfare Board (GBOCWWB).",
+      "role": "ContextObjective",
+      "confidence": 0.5667222738265991,
+      "similarities": {
+        "ContextObjective": 0.5667222738265991,
+        "BenefitsAssistance": 0.4718535244464874,
+        "Eligibility": 0.5196871161460876,
+        "ApplicationProcess": 0.4779399633407593,
+        "TimelineFrequency": 0.4566812515258789,
+        "AuthoritiesGovernance": 0.5029361844062805,
+        "DefinitionsReferences": 0.4282466173171997
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 1st January 2017.",
+      "role": "ContextObjective",
+      "confidence": 0.5843244791030884,
+      "similarities": {
+        "ContextObjective": 0.5843244791030884,
+        "BenefitsAssistance": 0.44372737407684326,
+        "Eligibility": 0.46320146322250366,
+        "ApplicationProcess": 0.478182315826416,
+        "TimelineFrequency": 0.44280263781547546,
+        "AuthoritiesGovernance": 0.4045441746711731,
+        "DefinitionsReferences": 0.3551206588745117
+      }
+    },
+    {
+      "sentence": "The primary objective of the Housing Subsidy Scheme is to provide financial assistance to construction workers who are registered under the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996.",
+      "role": "Eligibility",
+      "confidence": 0.5342169404029846,
+      "similarities": {
+        "ContextObjective": 0.5224677920341492,
+        "BenefitsAssistance": 0.484272837638855,
+        "Eligibility": 0.5342169404029846,
+        "ApplicationProcess": 0.4845748245716095,
+        "TimelineFrequency": 0.46043291687965393,
+        "AuthoritiesGovernance": 0.46989914774894714,
+        "DefinitionsReferences": 0.4191180467605591
+      }
+    },
+    {
+      "sentence": "The scheme aims to improve the living conditions of construction workers by facilitating access to housing.",
+      "role": "ContextObjective",
+      "confidence": 0.4976821541786194,
+      "similarities": {
+        "ContextObjective": 0.4976821541786194,
+        "BenefitsAssistance": 0.41929465532302856,
+        "Eligibility": 0.4641483426094055,
+        "ApplicationProcess": 0.4559294879436493,
+        "TimelineFrequency": 0.41175615787506104,
+        "AuthoritiesGovernance": 0.4189565181732178,
+        "DefinitionsReferences": 0.36842888593673706
+      }
+    },
+    {
+      "sentence": "The target beneficiaries are construction workers who are in need of housing and have a valid registration under the GBOCWWB.",
+      "role": "Eligibility",
+      "confidence": 0.5615606904029846,
+      "similarities": {
+        "ContextObjective": 0.4640600085258484,
+        "BenefitsAssistance": 0.4475901424884796,
+        "Eligibility": 0.5615606904029846,
+        "ApplicationProcess": 0.45480963587760925,
+        "TimelineFrequency": 0.41353684663772583,
+        "AuthoritiesGovernance": 0.4097867012023926,
+        "DefinitionsReferences": 0.3887173533439636
+      }
+    },
+    {
+      "sentence": "Under this scheme, eligible beneficiaries can receive a subsidy of up to ₹1,50,000 for the construction of a house.",
+      "role": "Eligibility",
+      "confidence": 0.5228816270828247,
+      "similarities": {
+        "ContextObjective": 0.4835873544216156,
+        "BenefitsAssistance": 0.4931745231151581,
+        "Eligibility": 0.5228816270828247,
+        "ApplicationProcess": 0.4398919343948364,
+        "TimelineFrequency": 0.4177478551864624,
+        "AuthoritiesGovernance": 0.3659248948097229,
+        "DefinitionsReferences": 0.3567001521587372
+      }
+    },
+    {
+      "sentence": "The subsidy can also be utilized for the purchase of a ready-built house.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4911724328994751,
+      "similarities": {
+        "ContextObjective": 0.455824613571167,
+        "BenefitsAssistance": 0.4911724328994751,
+        "Eligibility": 0.47705790400505066,
+        "ApplicationProcess": 0.43308505415916443,
+        "TimelineFrequency": 0.4094245433807373,
+        "AuthoritiesGovernance": 0.34805864095687866,
+        "DefinitionsReferences": 0.3645557761192322
+      }
+    },
+    {
+      "sentence": "The scheme is designed to encourage construction workers to invest in their own homes.",
+      "role": "ContextObjective",
+      "confidence": 0.46333080530166626,
+      "similarities": {
+        "ContextObjective": 0.46333080530166626,
+        "BenefitsAssistance": 0.3899531662464142,
+        "Eligibility": 0.39930325746536255,
+        "ApplicationProcess": 0.38970980048179626,
+        "TimelineFrequency": 0.33779433369636536,
+        "AuthoritiesGovernance": 0.30214300751686096,
+        "DefinitionsReferences": 0.30230116844177246
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be at least 18 years old and not more than 60 years old.",
+      "role": "Eligibility",
+      "confidence": 0.6647853851318359,
+      "similarities": {
+        "ContextObjective": 0.47794997692108154,
+        "BenefitsAssistance": 0.5296197533607483,
+        "Eligibility": 0.6647853851318359,
+        "ApplicationProcess": 0.5020722150802612,
+        "TimelineFrequency": 0.48510077595710754,
+        "AuthoritiesGovernance": 0.40222346782684326,
+        "DefinitionsReferences": 0.3965133726596832
+      }
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹15,000 per month for unskilled workers and ₹25,000 per month for skilled workers.",
+      "role": "Eligibility",
+      "confidence": 0.536902666091919,
+      "similarities": {
+        "ContextObjective": 0.3552838861942291,
+        "BenefitsAssistance": 0.4628952741622925,
+        "Eligibility": 0.536902666091919,
+        "ApplicationProcess": 0.4343761205673218,
+        "TimelineFrequency": 0.41796380281448364,
+        "AuthoritiesGovernance": 0.3235170841217041,
+        "DefinitionsReferences": 0.3479920029640198
+      }
+    },
+    {
+      "sentence": "The application process for the Housing Subsidy Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6873137354850769,
+      "similarities": {
+        "ContextObjective": 0.5760472416877747,
+        "BenefitsAssistance": 0.5308780670166016,
+        "Eligibility": 0.6016696691513062,
+        "ApplicationProcess": 0.6873137354850769,
+        "TimelineFrequency": 0.6036931276321411,
+        "AuthoritiesGovernance": 0.5051357746124268,
+        "DefinitionsReferences": 0.48632490634918213
+      }
+    },
+    {
+      "sentence": "First, the applicant must ensure that they are registered with the GBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6491672396659851,
+      "similarities": {
+        "ContextObjective": 0.46897703409194946,
+        "BenefitsAssistance": 0.44358986616134644,
+        "Eligibility": 0.5922939777374268,
+        "ApplicationProcess": 0.6491672396659851,
+        "TimelineFrequency": 0.5222623944282532,
+        "AuthoritiesGovernance": 0.4680179953575134,
+        "DefinitionsReferences": 0.4459117352962494
+      }
+    },
+    {
+      "sentence": "Next, the applicant needs to fill out the application form available on the official GBOCWWB website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7048076391220093,
+      "similarities": {
+        "ContextObjective": 0.46189939975738525,
+        "BenefitsAssistance": 0.451174259185791,
+        "Eligibility": 0.5557501912117004,
+        "ApplicationProcess": 0.7048076391220093,
+        "TimelineFrequency": 0.535833477973938,
+        "AuthoritiesGovernance": 0.4410579204559326,
+        "DefinitionsReferences": 0.4452365040779114
+      }
+    },
+    {
+      "sentence": "The application form must be submitted along with required documents such as proof of identity, proof of registration, and proof of income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7264900207519531,
+      "similarities": {
+        "ContextObjective": 0.5020459890365601,
+        "BenefitsAssistance": 0.5634840726852417,
+        "Eligibility": 0.6000585556030273,
+        "ApplicationProcess": 0.7264900207519531,
+        "TimelineFrequency": 0.5710281133651733,
+        "AuthoritiesGovernance": 0.4333667755126953,
+        "DefinitionsReferences": 0.5201109647750854
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6965139508247375,
+      "similarities": {
+        "ContextObjective": 0.5194998979568481,
+        "BenefitsAssistance": 0.47951728105545044,
+        "Eligibility": 0.6071366667747498,
+        "ApplicationProcess": 0.6965139508247375,
+        "TimelineFrequency": 0.5906317234039307,
+        "AuthoritiesGovernance": 0.5333684086799622,
+        "DefinitionsReferences": 0.5044226050376892
+      }
+    },
+    {
+      "sentence": "The authorities will verify the documents and eligibility of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7173683643341064,
+      "similarities": {
+        "ContextObjective": 0.519813060760498,
+        "BenefitsAssistance": 0.5281407237052917,
+        "Eligibility": 0.670905590057373,
+        "ApplicationProcess": 0.7173683643341064,
+        "TimelineFrequency": 0.5769345760345459,
+        "AuthoritiesGovernance": 0.5143585205078125,
+        "DefinitionsReferences": 0.5229101181030273
+      }
+    },
+    {
+      "sentence": "If the application is approved, the subsidy amount will be disbursed directly to the beneficiary's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5270764231681824,
+      "similarities": {
+        "ContextObjective": 0.4087498188018799,
+        "BenefitsAssistance": 0.5270764231681824,
+        "Eligibility": 0.521811842918396,
+        "ApplicationProcess": 0.5012628436088562,
+        "TimelineFrequency": 0.4401733875274658,
+        "AuthoritiesGovernance": 0.4032474160194397,
+        "DefinitionsReferences": 0.3423706889152527
+      }
+    },
+    {
+      "sentence": "The timeline for the application process can vary but generally takes about 30 to 45 days for approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6379085779190063,
+      "similarities": {
+        "ContextObjective": 0.4584856331348419,
+        "BenefitsAssistance": 0.48357778787612915,
+        "Eligibility": 0.5559414625167847,
+        "ApplicationProcess": 0.6207016706466675,
+        "TimelineFrequency": 0.6379085779190063,
+        "AuthoritiesGovernance": 0.449352890253067,
+        "DefinitionsReferences": 0.43716612458229065
+      }
+    },
+    {
+      "sentence": "Disbursement of the subsidy is typically done in one installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5087355375289917,
+      "similarities": {
+        "ContextObjective": 0.4404870867729187,
+        "BenefitsAssistance": 0.5087355375289917,
+        "Eligibility": 0.42618218064308167,
+        "ApplicationProcess": 0.42825812101364136,
+        "TimelineFrequency": 0.45664966106414795,
+        "AuthoritiesGovernance": 0.44098660349845886,
+        "DefinitionsReferences": 0.3797701597213745
+      }
+    },
+    {
+      "sentence": "The Housing Subsidy Scheme is implemented by the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5151857137680054,
+      "similarities": {
+        "ContextObjective": 0.47649434208869934,
+        "BenefitsAssistance": 0.46490222215652466,
+        "Eligibility": 0.47972798347473145,
+        "ApplicationProcess": 0.47024428844451904,
+        "TimelineFrequency": 0.4388282299041748,
+        "AuthoritiesGovernance": 0.5151857137680054,
+        "DefinitionsReferences": 0.3924396336078644
+      }
+    },
+    {
+      "sentence": "The GBOCWWB is the primary agency responsible for overseeing the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5357345342636108,
+      "similarities": {
+        "ContextObjective": 0.5357345342636108,
+        "BenefitsAssistance": 0.42525607347488403,
+        "Eligibility": 0.4791381359100342,
+        "ApplicationProcess": 0.49087584018707275,
+        "TimelineFrequency": 0.40987154841423035,
+        "AuthoritiesGovernance": 0.5355898141860962,
+        "DefinitionsReferences": 0.42280805110931396
+      }
+    },
+    {
+      "sentence": "The board operates at both the central and state levels to ensure effective implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6240116357803345,
+      "similarities": {
+        "ContextObjective": 0.5070708990097046,
+        "BenefitsAssistance": 0.46373671293258667,
+        "Eligibility": 0.5358482599258423,
+        "ApplicationProcess": 0.49561765789985657,
+        "TimelineFrequency": 0.46544700860977173,
+        "AuthoritiesGovernance": 0.6240116357803345,
+        "DefinitionsReferences": 0.4513319432735443
+      }
+    },
+    {
+      "sentence": "Beneficiaries can contact the GBOCWWB for assistance and inquiries regarding the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5907440185546875,
+      "similarities": {
+        "ContextObjective": 0.5266435146331787,
+        "BenefitsAssistance": 0.5580147504806519,
+        "Eligibility": 0.5907440185546875,
+        "ApplicationProcess": 0.5191395282745361,
+        "TimelineFrequency": 0.43834102153778076,
+        "AuthoritiesGovernance": 0.5206092596054077,
+        "DefinitionsReferences": 0.4038107693195343
+      }
+    },
+    {
+      "sentence": "The contact details for the GBOCWWB can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5067196488380432,
+      "similarities": {
+        "ContextObjective": 0.4234626591205597,
+        "BenefitsAssistance": 0.4806799292564392,
+        "Eligibility": 0.4637322425842285,
+        "ApplicationProcess": 0.5062903165817261,
+        "TimelineFrequency": 0.4218946695327759,
+        "AuthoritiesGovernance": 0.5067196488380432,
+        "DefinitionsReferences": 0.4681891202926636
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing housing solutions to thousands of construction workers across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4741138815879822,
+      "similarities": {
+        "ContextObjective": 0.4741138815879822,
+        "BenefitsAssistance": 0.3893292546272278,
+        "Eligibility": 0.4235256314277649,
+        "ApplicationProcess": 0.3644895553588867,
+        "TimelineFrequency": 0.33275943994522095,
+        "AuthoritiesGovernance": 0.3579052686691284,
+        "DefinitionsReferences": 0.3383285403251648
+      }
+    },
+    {
+      "sentence": "As of March 2023, over 50,000 applications have been processed under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5277246236801147,
+      "similarities": {
+        "ContextObjective": 0.5277246236801147,
+        "BenefitsAssistance": 0.4224327504634857,
+        "Eligibility": 0.5099669098854065,
+        "ApplicationProcess": 0.5240030288696289,
+        "TimelineFrequency": 0.5060451030731201,
+        "AuthoritiesGovernance": 0.393562376499176,
+        "DefinitionsReferences": 0.3899316191673279
+      }
+    },
+    {
+      "sentence": "The total amount disbursed under the Housing Subsidy Scheme has exceeded ₹750 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4992448687553406,
+      "similarities": {
+        "ContextObjective": 0.377257764339447,
+        "BenefitsAssistance": 0.4992448687553406,
+        "Eligibility": 0.38126879930496216,
+        "ApplicationProcess": 0.3488968014717102,
+        "TimelineFrequency": 0.3524963855743408,
+        "AuthoritiesGovernance": 0.34002935886383057,
+        "DefinitionsReferences": 0.33428213000297546
+      }
+    },
+    {
+      "sentence": "The scheme has contributed significantly to the housing sector by promoting home ownership among low-income workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4524571895599365,
+      "similarities": {
+        "ContextObjective": 0.4524571895599365,
+        "BenefitsAssistance": 0.4071521461009979,
+        "Eligibility": 0.38486725091934204,
+        "ApplicationProcess": 0.35772302746772766,
+        "TimelineFrequency": 0.3166230618953705,
+        "AuthoritiesGovernance": 0.3274296224117279,
+        "DefinitionsReferences": 0.3365078866481781
+      }
+    },
+    {
+      "sentence": "In addition to the subsidy, the scheme also encourages the construction of eco-friendly and sustainable housing.",
+      "role": "ContextObjective",
+      "confidence": 0.4499940872192383,
+      "similarities": {
+        "ContextObjective": 0.4499940872192383,
+        "BenefitsAssistance": 0.4093799293041229,
+        "Eligibility": 0.3924601078033447,
+        "ApplicationProcess": 0.4054255783557892,
+        "TimelineFrequency": 0.3761966824531555,
+        "AuthoritiesGovernance": 0.3283894658088684,
+        "DefinitionsReferences": 0.3614283800125122
+      }
+    },
+    {
+      "sentence": "The GBOCWWB has partnered with various state governments to enhance the reach of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5174962282180786,
+      "similarities": {
+        "ContextObjective": 0.5109710097312927,
+        "BenefitsAssistance": 0.4489825665950775,
+        "Eligibility": 0.5174962282180786,
+        "ApplicationProcess": 0.44578731060028076,
+        "TimelineFrequency": 0.4284836947917938,
+        "AuthoritiesGovernance": 0.5150474905967712,
+        "DefinitionsReferences": 0.46248310804367065
+      }
+    },
+    {
+      "sentence": "Awareness campaigns have been conducted to inform construction workers about the benefits of the Housing Subsidy Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4738761782646179,
+      "similarities": {
+        "ContextObjective": 0.4738761782646179,
+        "BenefitsAssistance": 0.46530047059059143,
+        "Eligibility": 0.44883084297180176,
+        "ApplicationProcess": 0.4275802969932556,
+        "TimelineFrequency": 0.3995475769042969,
+        "AuthoritiesGovernance": 0.42236727476119995,
+        "DefinitionsReferences": 0.3878055214881897
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger initiative of the Government of India to provide affordable housing for all.",
+      "role": "ContextObjective",
+      "confidence": 0.5239248275756836,
+      "similarities": {
+        "ContextObjective": 0.5239248275756836,
+        "BenefitsAssistance": 0.4511388838291168,
+        "Eligibility": 0.4759944975376129,
+        "ApplicationProcess": 0.4490674138069153,
+        "TimelineFrequency": 0.3860870897769928,
+        "AuthoritiesGovernance": 0.43505144119262695,
+        "DefinitionsReferences": 0.38180604577064514
+      }
+    },
+    {
+      "sentence": "The Pradhan Mantri Awas Yojana is another significant scheme that complements the objectives of the Housing Subsidy Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.500572919845581,
+      "similarities": {
+        "ContextObjective": 0.500572919845581,
+        "BenefitsAssistance": 0.4408854842185974,
+        "Eligibility": 0.4231768250465393,
+        "ApplicationProcess": 0.3993433117866516,
+        "TimelineFrequency": 0.3939144015312195,
+        "AuthoritiesGovernance": 0.35880547761917114,
+        "DefinitionsReferences": 0.371380090713501
+      }
+    },
+    {
+      "sentence": "The Housing Subsidy Scheme has specific provisions for women beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5494529604911804,
+      "similarities": {
+        "ContextObjective": 0.4489017724990845,
+        "BenefitsAssistance": 0.48912447690963745,
+        "Eligibility": 0.5494529604911804,
+        "ApplicationProcess": 0.4153450131416321,
+        "TimelineFrequency": 0.4246579110622406,
+        "AuthoritiesGovernance": 0.3987361192703247,
+        "DefinitionsReferences": 0.38816890120506287
+      }
+    },
+    {
+      "sentence": "Women construction workers can avail of the subsidy even if they are the sole earners in their households.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3960716724395752,
+      "similarities": {
+        "ContextObjective": 0.3249632716178894,
+        "BenefitsAssistance": 0.3960716724395752,
+        "Eligibility": 0.38007089495658875,
+        "ApplicationProcess": 0.2999575138092041,
+        "TimelineFrequency": 0.3126402795314789,
+        "AuthoritiesGovernance": 0.3278728723526001,
+        "DefinitionsReferences": 0.2679102122783661
+      }
+    },
+    {
+      "sentence": "This provision aims to empower women and promote gender equality in the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4575880169868469,
+      "similarities": {
+        "ContextObjective": 0.4575880169868469,
+        "BenefitsAssistance": 0.3581981956958771,
+        "Eligibility": 0.41669875383377075,
+        "ApplicationProcess": 0.37612518668174744,
+        "TimelineFrequency": 0.3676513433456421,
+        "AuthoritiesGovernance": 0.4052594006061554,
+        "DefinitionsReferences": 0.33878451585769653
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of documentation and transparency in the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6261007785797119,
+      "similarities": {
+        "ContextObjective": 0.528995156288147,
+        "BenefitsAssistance": 0.5195348262786865,
+        "Eligibility": 0.5311898589134216,
+        "ApplicationProcess": 0.6261007785797119,
+        "TimelineFrequency": 0.5215672254562378,
+        "AuthoritiesGovernance": 0.45535629987716675,
+        "DefinitionsReferences": 0.46310320496559143
+      }
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to maintain proper records of their housing projects.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5427689552307129,
+      "similarities": {
+        "ContextObjective": 0.48773622512817383,
+        "BenefitsAssistance": 0.5385773181915283,
+        "Eligibility": 0.5339764356613159,
+        "ApplicationProcess": 0.5427689552307129,
+        "TimelineFrequency": 0.4679068922996521,
+        "AuthoritiesGovernance": 0.48870229721069336,
+        "DefinitionsReferences": 0.5027264356613159
+      }
+    },
+    {
+      "sentence": "The GBOCWWB conducts regular audits to ensure that the funds are utilized appropriately.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4613114595413208,
+      "similarities": {
+        "ContextObjective": 0.4006328284740448,
+        "BenefitsAssistance": 0.4613114595413208,
+        "Eligibility": 0.43563541769981384,
+        "ApplicationProcess": 0.4442436695098877,
+        "TimelineFrequency": 0.40157008171081543,
+        "AuthoritiesGovernance": 0.4525268077850342,
+        "DefinitionsReferences": 0.42360013723373413
+      }
+    },
+    {
+      "sentence": "The Housing Subsidy Scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.4808044135570526,
+      "similarities": {
+        "ContextObjective": 0.4808044135570526,
+        "BenefitsAssistance": 0.458894819021225,
+        "Eligibility": 0.47528523206710815,
+        "ApplicationProcess": 0.4121522307395935,
+        "TimelineFrequency": 0.3693389296531677,
+        "AuthoritiesGovernance": 0.4000283479690552,
+        "DefinitionsReferences": 0.3821261525154114
+      }
+    },
+    {
+      "sentence": "Many construction workers have reported improved living conditions after receiving the subsidy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4559423327445984,
+      "similarities": {
+        "ContextObjective": 0.39100900292396545,
+        "BenefitsAssistance": 0.4559423327445984,
+        "Eligibility": 0.41853854060173035,
+        "ApplicationProcess": 0.3944432735443115,
+        "TimelineFrequency": 0.3557709753513336,
+        "AuthoritiesGovernance": 0.3959648609161377,
+        "DefinitionsReferences": 0.37651580572128296
+      }
+    },
+    {
+      "sentence": "The scheme has also contributed to the overall economic development of the construction sector.",
+      "role": "ContextObjective",
+      "confidence": 0.46847206354141235,
+      "similarities": {
+        "ContextObjective": 0.46847206354141235,
+        "BenefitsAssistance": 0.401307076215744,
+        "Eligibility": 0.3457958698272705,
+        "ApplicationProcess": 0.37362560629844666,
+        "TimelineFrequency": 0.3355065882205963,
+        "AuthoritiesGovernance": 0.35769957304000854,
+        "DefinitionsReferences": 0.355280339717865
+      }
+    },
+    {
+      "sentence": "By facilitating home ownership, the scheme has helped in reducing the burden of rent on low-income workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4276498556137085,
+      "similarities": {
+        "ContextObjective": 0.42221376299858093,
+        "BenefitsAssistance": 0.4276498556137085,
+        "Eligibility": 0.40798699855804443,
+        "ApplicationProcess": 0.381706178188324,
+        "TimelineFrequency": 0.349522203207016,
+        "AuthoritiesGovernance": 0.3670021593570709,
+        "DefinitionsReferences": 0.3321327865123749
+      }
+    },
+    {
+      "sentence": "The GBOCWWB is continuously working to improve the scheme based on feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.4641154408454895,
+      "similarities": {
+        "ContextObjective": 0.4641154408454895,
+        "BenefitsAssistance": 0.4271983802318573,
+        "Eligibility": 0.44751816987991333,
+        "ApplicationProcess": 0.4014524221420288,
+        "TimelineFrequency": 0.3731113076210022,
+        "AuthoritiesGovernance": 0.4505547881126404,
+        "DefinitionsReferences": 0.37800759077072144
+      }
+    },
+    {
+      "sentence": "Future enhancements may include increased subsidy amounts and streamlined application processes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5488914251327515,
+      "similarities": {
+        "ContextObjective": 0.48020583391189575,
+        "BenefitsAssistance": 0.5488914251327515,
+        "Eligibility": 0.519085168838501,
+        "ApplicationProcess": 0.5307110548019409,
+        "TimelineFrequency": 0.5307762622833252,
+        "AuthoritiesGovernance": 0.44184213876724243,
+        "DefinitionsReferences": 0.47790390253067017
+      }
+    },
+    {
+      "sentence": "The Housing Subsidy Scheme is a vital component of the welfare measures for construction workers in India.",
+      "role": "Eligibility",
+      "confidence": 0.44679462909698486,
+      "similarities": {
+        "ContextObjective": 0.4400445520877838,
+        "BenefitsAssistance": 0.43541473150253296,
+        "Eligibility": 0.44679462909698486,
+        "ApplicationProcess": 0.41148483753204346,
+        "TimelineFrequency": 0.3850262761116028,
+        "AuthoritiesGovernance": 0.389667809009552,
+        "DefinitionsReferences": 0.3661932945251465
+      }
+    },
+    {
+      "sentence": "It reflects the government's commitment to providing social security and improving the quality of life for workers in the construction industry.",
+      "role": "ContextObjective",
+      "confidence": 0.407091349363327,
+      "similarities": {
+        "ContextObjective": 0.407091349363327,
+        "BenefitsAssistance": 0.4002699553966522,
+        "Eligibility": 0.3764762580394745,
+        "ApplicationProcess": 0.3894459307193756,
+        "TimelineFrequency": 0.3268590271472931,
+        "AuthoritiesGovernance": 0.35709264874458313,
+        "DefinitionsReferences": 0.3580840229988098
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve further to meet the changing needs of construction workers.",
+      "role": "ContextObjective",
+      "confidence": 0.5366553068161011,
+      "similarities": {
+        "ContextObjective": 0.5366553068161011,
+        "BenefitsAssistance": 0.46033036708831787,
+        "Eligibility": 0.48876702785491943,
+        "ApplicationProcess": 0.4698864817619324,
+        "TimelineFrequency": 0.4527554512023926,
+        "AuthoritiesGovernance": 0.4344556927680969,
+        "DefinitionsReferences": 0.4081496596336365
+      }
+    },
+    {
+      "sentence": "Overall, the Housing Subsidy Scheme represents a significant step towards ensuring that construction workers have access to safe and affordable housing.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4433915615081787,
+      "similarities": {
+        "ContextObjective": 0.43993550539016724,
+        "BenefitsAssistance": 0.42458778619766235,
+        "Eligibility": 0.43494534492492676,
+        "ApplicationProcess": 0.4433915615081787,
+        "TimelineFrequency": 0.3812320828437805,
+        "AuthoritiesGovernance": 0.3730893135070801,
+        "DefinitionsReferences": 0.3674406409263611
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 18,
+    "Eligibility": 9,
+    "BenefitsAssistance": 9,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:39:00.252355"
+}

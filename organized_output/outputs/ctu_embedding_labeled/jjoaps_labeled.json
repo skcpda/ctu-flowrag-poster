@@ -1,0 +1,952 @@
+{
+  "scheme_name": "Jai Johar (Old Age Pension) Scheme",
+  "total_sentences": 67,
+  "labeled_sentences": [
+    {
+      "sentence": "The Jai Johar (Old Age Pension) Scheme is a welfare initiative launched by the Government of Jharkhand in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5106609463691711,
+      "similarities": {
+        "ContextObjective": 0.5106609463691711,
+        "BenefitsAssistance": 0.4160621166229248,
+        "Eligibility": 0.4696420729160309,
+        "ApplicationProcess": 0.38726547360420227,
+        "TimelineFrequency": 0.3834647536277771,
+        "AuthoritiesGovernance": 0.44945085048675537,
+        "DefinitionsReferences": 0.339503675699234
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 1st January 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.5832171440124512,
+      "similarities": {
+        "ContextObjective": 0.5832171440124512,
+        "BenefitsAssistance": 0.4505491256713867,
+        "Eligibility": 0.4800381064414978,
+        "ApplicationProcess": 0.4964001178741455,
+        "TimelineFrequency": 0.4676033854484558,
+        "AuthoritiesGovernance": 0.4114777147769928,
+        "DefinitionsReferences": 0.3705388307571411
+      }
+    },
+    {
+      "sentence": "It aims to provide financial assistance to the elderly population of the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5002796649932861,
+      "similarities": {
+        "ContextObjective": 0.45782697200775146,
+        "BenefitsAssistance": 0.5002796649932861,
+        "Eligibility": 0.49684178829193115,
+        "ApplicationProcess": 0.424460232257843,
+        "TimelineFrequency": 0.40668320655822754,
+        "AuthoritiesGovernance": 0.4315856099128723,
+        "DefinitionsReferences": 0.36477530002593994
+      }
+    },
+    {
+      "sentence": "The primary objective of the Jai Johar Scheme is to ensure that senior citizens receive a monthly pension to support their livelihood.",
+      "role": "ContextObjective",
+      "confidence": 0.520831823348999,
+      "similarities": {
+        "ContextObjective": 0.520831823348999,
+        "BenefitsAssistance": 0.4151512384414673,
+        "Eligibility": 0.44710060954093933,
+        "ApplicationProcess": 0.39897966384887695,
+        "TimelineFrequency": 0.39090967178344727,
+        "AuthoritiesGovernance": 0.39207780361175537,
+        "DefinitionsReferences": 0.32820165157318115
+      }
+    },
+    {
+      "sentence": "The scheme specifically targets individuals aged 60 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.572523832321167,
+      "similarities": {
+        "ContextObjective": 0.5325828194618225,
+        "BenefitsAssistance": 0.47743159532546997,
+        "Eligibility": 0.572523832321167,
+        "ApplicationProcess": 0.47527074813842773,
+        "TimelineFrequency": 0.46548616886138916,
+        "AuthoritiesGovernance": 0.41209927201271057,
+        "DefinitionsReferences": 0.36897391080856323
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is aimed at enhancing the quality of life for the elderly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5169550180435181,
+      "similarities": {
+        "ContextObjective": 0.49581360816955566,
+        "BenefitsAssistance": 0.5169550180435181,
+        "Eligibility": 0.4910280108451843,
+        "ApplicationProcess": 0.42503780126571655,
+        "TimelineFrequency": 0.4079624116420746,
+        "AuthoritiesGovernance": 0.4064754247665405,
+        "DefinitionsReferences": 0.38131070137023926
+      }
+    },
+    {
+      "sentence": "The monthly pension amount is set at ₹1,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4957621693611145,
+      "similarities": {
+        "ContextObjective": 0.44289326667785645,
+        "BenefitsAssistance": 0.4957621693611145,
+        "Eligibility": 0.45821234583854675,
+        "ApplicationProcess": 0.40531450510025024,
+        "TimelineFrequency": 0.3951282799243927,
+        "AuthoritiesGovernance": 0.37211763858795166,
+        "DefinitionsReferences": 0.344237744808197
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover basic needs such as food, healthcare, and other essential expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6517610549926758,
+      "similarities": {
+        "ContextObjective": 0.47623956203460693,
+        "BenefitsAssistance": 0.6517610549926758,
+        "Eligibility": 0.5097817778587341,
+        "ApplicationProcess": 0.4573764204978943,
+        "TimelineFrequency": 0.453053742647171,
+        "AuthoritiesGovernance": 0.4393763840198517,
+        "DefinitionsReferences": 0.46565794944763184
+      }
+    },
+    {
+      "sentence": "The scheme is particularly beneficial for those who do not have any other source of income.",
+      "role": "Eligibility",
+      "confidence": 0.5034488439559937,
+      "similarities": {
+        "ContextObjective": 0.502964198589325,
+        "BenefitsAssistance": 0.47379422187805176,
+        "Eligibility": 0.5034488439559937,
+        "ApplicationProcess": 0.42795252799987793,
+        "TimelineFrequency": 0.38169193267822266,
+        "AuthoritiesGovernance": 0.3453628420829773,
+        "DefinitionsReferences": 0.35026198625564575
+      }
+    },
+    {
+      "sentence": "It is designed to alleviate poverty among the elderly population in Jharkhand.",
+      "role": "Eligibility",
+      "confidence": 0.4184820055961609,
+      "similarities": {
+        "ContextObjective": 0.41458120942115784,
+        "BenefitsAssistance": 0.37721407413482666,
+        "Eligibility": 0.4184820055961609,
+        "ApplicationProcess": 0.33865267038345337,
+        "TimelineFrequency": 0.3123355507850647,
+        "AuthoritiesGovernance": 0.4091779589653015,
+        "DefinitionsReferences": 0.2848954200744629
+      }
+    },
+    {
+      "sentence": "The eligibility criteria for the Jai Johar Scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.5741128921508789,
+      "similarities": {
+        "ContextObjective": 0.5177352428436279,
+        "BenefitsAssistance": 0.4193679094314575,
+        "Eligibility": 0.5741128921508789,
+        "ApplicationProcess": 0.4875246286392212,
+        "TimelineFrequency": 0.4658398926258087,
+        "AuthoritiesGovernance": 0.38047662377357483,
+        "DefinitionsReferences": 0.38897889852523804
+      }
+    },
+    {
+      "sentence": "Applicants must be residents of Jharkhand.",
+      "role": "Eligibility",
+      "confidence": 0.5784643888473511,
+      "similarities": {
+        "ContextObjective": 0.43213534355163574,
+        "BenefitsAssistance": 0.37866848707199097,
+        "Eligibility": 0.5784643888473511,
+        "ApplicationProcess": 0.5254037380218506,
+        "TimelineFrequency": 0.4638878107070923,
+        "AuthoritiesGovernance": 0.4153043031692505,
+        "DefinitionsReferences": 0.3559064269065857
+      }
+    },
+    {
+      "sentence": "They must be at least 60 years old at the time of application.",
+      "role": "Eligibility",
+      "confidence": 0.6167378425598145,
+      "similarities": {
+        "ContextObjective": 0.45727381110191345,
+        "BenefitsAssistance": 0.43932050466537476,
+        "Eligibility": 0.6167378425598145,
+        "ApplicationProcess": 0.5648163557052612,
+        "TimelineFrequency": 0.5381093621253967,
+        "AuthoritiesGovernance": 0.43382537364959717,
+        "DefinitionsReferences": 0.40024423599243164
+      }
+    },
+    {
+      "sentence": "The scheme is specifically aimed at individuals belonging to economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.5328987240791321,
+      "similarities": {
+        "ContextObjective": 0.5161141753196716,
+        "BenefitsAssistance": 0.4692261517047882,
+        "Eligibility": 0.5328987240791321,
+        "ApplicationProcess": 0.4299621284008026,
+        "TimelineFrequency": 0.4200987219810486,
+        "AuthoritiesGovernance": 0.41092878580093384,
+        "DefinitionsReferences": 0.33990925550460815
+      }
+    },
+    {
+      "sentence": "There is no upper income limit specified for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.5761257410049438,
+      "similarities": {
+        "ContextObjective": 0.4231007695198059,
+        "BenefitsAssistance": 0.503506064414978,
+        "Eligibility": 0.5761257410049438,
+        "ApplicationProcess": 0.44063663482666016,
+        "TimelineFrequency": 0.43485531210899353,
+        "AuthoritiesGovernance": 0.36356914043426514,
+        "DefinitionsReferences": 0.3497548997402191
+      }
+    },
+    {
+      "sentence": "However, preference is given to those who are destitute or have no family support.",
+      "role": "Eligibility",
+      "confidence": 0.47135329246520996,
+      "similarities": {
+        "ContextObjective": 0.386480450630188,
+        "BenefitsAssistance": 0.42810434103012085,
+        "Eligibility": 0.47135329246520996,
+        "ApplicationProcess": 0.37008482217788696,
+        "TimelineFrequency": 0.378720223903656,
+        "AuthoritiesGovernance": 0.3319607973098755,
+        "DefinitionsReferences": 0.32001838088035583
+      }
+    },
+    {
+      "sentence": "The application process for the Jai Johar Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5317941904067993,
+      "similarities": {
+        "ContextObjective": 0.501867413520813,
+        "BenefitsAssistance": 0.38119998574256897,
+        "Eligibility": 0.4865768551826477,
+        "ApplicationProcess": 0.5317941904067993,
+        "TimelineFrequency": 0.45822834968566895,
+        "AuthoritiesGovernance": 0.3806009888648987,
+        "DefinitionsReferences": 0.330824613571167
+      }
+    },
+    {
+      "sentence": "Interested individuals must fill out an application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7618227005004883,
+      "similarities": {
+        "ContextObjective": 0.5647612810134888,
+        "BenefitsAssistance": 0.5313513278961182,
+        "Eligibility": 0.6743445992469788,
+        "ApplicationProcess": 0.7618227005004883,
+        "TimelineFrequency": 0.6105011701583862,
+        "AuthoritiesGovernance": 0.5002185702323914,
+        "DefinitionsReferences": 0.5041553974151611
+      }
+    },
+    {
+      "sentence": "The application form can be obtained from local Panchayat offices or online through the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6773327589035034,
+      "similarities": {
+        "ContextObjective": 0.462459534406662,
+        "BenefitsAssistance": 0.4584001302719116,
+        "Eligibility": 0.5281243324279785,
+        "ApplicationProcess": 0.6773327589035034,
+        "TimelineFrequency": 0.5081817507743835,
+        "AuthoritiesGovernance": 0.4658830761909485,
+        "DefinitionsReferences": 0.4285616874694824
+      }
+    },
+    {
+      "sentence": "Applicants are required to submit proof of age.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6816402673721313,
+      "similarities": {
+        "ContextObjective": 0.4764859974384308,
+        "BenefitsAssistance": 0.5051278471946716,
+        "Eligibility": 0.6296209096908569,
+        "ApplicationProcess": 0.6816402673721313,
+        "TimelineFrequency": 0.6021760702133179,
+        "AuthoritiesGovernance": 0.4527989625930786,
+        "DefinitionsReferences": 0.47533226013183594
+      }
+    },
+    {
+      "sentence": "This can be done through documents such as birth certificates or government-issued ID cards.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6036755442619324,
+      "similarities": {
+        "ContextObjective": 0.4707667827606201,
+        "BenefitsAssistance": 0.5481860041618347,
+        "Eligibility": 0.5279767513275146,
+        "ApplicationProcess": 0.6036755442619324,
+        "TimelineFrequency": 0.5030294060707092,
+        "AuthoritiesGovernance": 0.48054590821266174,
+        "DefinitionsReferences": 0.553773045539856
+      }
+    },
+    {
+      "sentence": "Proof of residence is also necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6475175619125366,
+      "similarities": {
+        "ContextObjective": 0.47257018089294434,
+        "BenefitsAssistance": 0.5171555280685425,
+        "Eligibility": 0.5721007585525513,
+        "ApplicationProcess": 0.6475175619125366,
+        "TimelineFrequency": 0.5074993371963501,
+        "AuthoritiesGovernance": 0.44945457577705383,
+        "DefinitionsReferences": 0.4969758987426758
+      }
+    },
+    {
+      "sentence": "Documents such as Aadhar cards or voter ID cards can serve this purpose.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5702372789382935,
+      "similarities": {
+        "ContextObjective": 0.4795025885105133,
+        "BenefitsAssistance": 0.5145225524902344,
+        "Eligibility": 0.4991033673286438,
+        "ApplicationProcess": 0.5702372789382935,
+        "TimelineFrequency": 0.4803098142147064,
+        "AuthoritiesGovernance": 0.47871941328048706,
+        "DefinitionsReferences": 0.5306622385978699
+      }
+    },
+    {
+      "sentence": "Additionally, applicants must provide details of their financial status.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6753958463668823,
+      "similarities": {
+        "ContextObjective": 0.5051021575927734,
+        "BenefitsAssistance": 0.6753958463668823,
+        "Eligibility": 0.6558210253715515,
+        "ApplicationProcess": 0.6467268466949463,
+        "TimelineFrequency": 0.5830996632575989,
+        "AuthoritiesGovernance": 0.44052422046661377,
+        "DefinitionsReferences": 0.4947546720504761
+      }
+    },
+    {
+      "sentence": "This may include income certificates or affidavits stating their economic condition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.579888105392456,
+      "similarities": {
+        "ContextObjective": 0.42949429154396057,
+        "BenefitsAssistance": 0.579888105392456,
+        "Eligibility": 0.533826470375061,
+        "ApplicationProcess": 0.5298466682434082,
+        "TimelineFrequency": 0.4513131082057953,
+        "AuthoritiesGovernance": 0.407630980014801,
+        "DefinitionsReferences": 0.48241615295410156
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is verified by local authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7090252637863159,
+      "similarities": {
+        "ContextObjective": 0.519310712814331,
+        "BenefitsAssistance": 0.46922850608825684,
+        "Eligibility": 0.5925178527832031,
+        "ApplicationProcess": 0.7090252637863159,
+        "TimelineFrequency": 0.5680466294288635,
+        "AuthoritiesGovernance": 0.5023012161254883,
+        "DefinitionsReferences": 0.48704490065574646
+      }
+    },
+    {
+      "sentence": "The verification process typically takes about 15 to 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6170081496238708,
+      "similarities": {
+        "ContextObjective": 0.4187864065170288,
+        "BenefitsAssistance": 0.4725809693336487,
+        "Eligibility": 0.49795427918434143,
+        "ApplicationProcess": 0.6170081496238708,
+        "TimelineFrequency": 0.5579826831817627,
+        "AuthoritiesGovernance": 0.4405880570411682,
+        "DefinitionsReferences": 0.4455951750278473
+      }
+    },
+    {
+      "sentence": "Upon successful verification, the pension amount is disbursed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5445324778556824,
+      "similarities": {
+        "ContextObjective": 0.42639681696891785,
+        "BenefitsAssistance": 0.5445324778556824,
+        "Eligibility": 0.4833641052246094,
+        "ApplicationProcess": 0.5224066972732544,
+        "TimelineFrequency": 0.4273906946182251,
+        "AuthoritiesGovernance": 0.4433700144290924,
+        "DefinitionsReferences": 0.3749745488166809
+      }
+    },
+    {
+      "sentence": "The pension is transferred directly to the beneficiaries' bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4717719256877899,
+      "similarities": {
+        "ContextObjective": 0.38777005672454834,
+        "BenefitsAssistance": 0.4717719256877899,
+        "Eligibility": 0.44593721628189087,
+        "ApplicationProcess": 0.39837005734443665,
+        "TimelineFrequency": 0.343126118183136,
+        "AuthoritiesGovernance": 0.37918102741241455,
+        "DefinitionsReferences": 0.31772786378860474
+      }
+    },
+    {
+      "sentence": "Disbursement occurs on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6148081421852112,
+      "similarities": {
+        "ContextObjective": 0.4888584315776825,
+        "BenefitsAssistance": 0.6148081421852112,
+        "Eligibility": 0.5113829970359802,
+        "ApplicationProcess": 0.4881455600261688,
+        "TimelineFrequency": 0.5678341388702393,
+        "AuthoritiesGovernance": 0.48348042368888855,
+        "DefinitionsReferences": 0.43995583057403564
+      }
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Social Welfare in Jharkhand.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4999068081378937,
+      "similarities": {
+        "ContextObjective": 0.49411243200302124,
+        "BenefitsAssistance": 0.44176948070526123,
+        "Eligibility": 0.47669193148612976,
+        "ApplicationProcess": 0.41769832372665405,
+        "TimelineFrequency": 0.36484795808792114,
+        "AuthoritiesGovernance": 0.4999068081378937,
+        "DefinitionsReferences": 0.34472328424453735
+      }
+    },
+    {
+      "sentence": "This department is responsible for overseeing the application process and ensuring timely disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.604034423828125,
+      "similarities": {
+        "ContextObjective": 0.4808391034603119,
+        "BenefitsAssistance": 0.5601649284362793,
+        "Eligibility": 0.566540539264679,
+        "ApplicationProcess": 0.604034423828125,
+        "TimelineFrequency": 0.5721029043197632,
+        "AuthoritiesGovernance": 0.5454162359237671,
+        "DefinitionsReferences": 0.42948031425476074
+      }
+    },
+    {
+      "sentence": "The contact details for the Department of Social Welfare can be found on the official Jharkhand government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.506322979927063,
+      "similarities": {
+        "ContextObjective": 0.4099043607711792,
+        "BenefitsAssistance": 0.4680624008178711,
+        "Eligibility": 0.4345362186431885,
+        "ApplicationProcess": 0.450700044631958,
+        "TimelineFrequency": 0.36827370524406433,
+        "AuthoritiesGovernance": 0.506322979927063,
+        "DefinitionsReferences": 0.412601113319397
+      }
+    },
+    {
+      "sentence": "The Jai Johar Scheme is part of a broader initiative to support vulnerable populations in the state.",
+      "role": "Eligibility",
+      "confidence": 0.477070152759552,
+      "similarities": {
+        "ContextObjective": 0.4622330665588379,
+        "BenefitsAssistance": 0.4180336892604828,
+        "Eligibility": 0.477070152759552,
+        "ApplicationProcess": 0.3731688857078552,
+        "TimelineFrequency": 0.3642965257167816,
+        "AuthoritiesGovernance": 0.4073893427848816,
+        "DefinitionsReferences": 0.33220374584198
+      }
+    },
+    {
+      "sentence": "The government has allocated a significant budget for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5558733940124512,
+      "similarities": {
+        "ContextObjective": 0.5558733940124512,
+        "BenefitsAssistance": 0.5208998918533325,
+        "Eligibility": 0.5028154850006104,
+        "ApplicationProcess": 0.43964168429374695,
+        "TimelineFrequency": 0.4438037574291229,
+        "AuthoritiesGovernance": 0.42594048380851746,
+        "DefinitionsReferences": 0.3986402153968811
+      }
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the budget allocation for the Jai Johar Scheme was approximately ₹1,200 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4391744136810303,
+      "similarities": {
+        "ContextObjective": 0.43762344121932983,
+        "BenefitsAssistance": 0.4391744136810303,
+        "Eligibility": 0.4096180200576782,
+        "ApplicationProcess": 0.33488601446151733,
+        "TimelineFrequency": 0.39792531728744507,
+        "AuthoritiesGovernance": 0.36440277099609375,
+        "DefinitionsReferences": 0.3209404945373535
+      }
+    },
+    {
+      "sentence": "This funding is aimed at supporting around 12 lakh beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5023938417434692,
+      "similarities": {
+        "ContextObjective": 0.4665961265563965,
+        "BenefitsAssistance": 0.4859347343444824,
+        "Eligibility": 0.5023938417434692,
+        "ApplicationProcess": 0.3764372169971466,
+        "TimelineFrequency": 0.36501768231391907,
+        "AuthoritiesGovernance": 0.3982274532318115,
+        "DefinitionsReferences": 0.35890257358551025
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the public.",
+      "role": "ContextObjective",
+      "confidence": 0.576530933380127,
+      "similarities": {
+        "ContextObjective": 0.576530933380127,
+        "BenefitsAssistance": 0.4539605677127838,
+        "Eligibility": 0.4788035750389099,
+        "ApplicationProcess": 0.4570773243904114,
+        "TimelineFrequency": 0.4012463688850403,
+        "AuthoritiesGovernance": 0.45524534583091736,
+        "DefinitionsReferences": 0.4071846604347229
+      }
+    },
+    {
+      "sentence": "It has contributed to reducing the financial burden on elderly individuals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5089907646179199,
+      "similarities": {
+        "ContextObjective": 0.3817364573478699,
+        "BenefitsAssistance": 0.5089907646179199,
+        "Eligibility": 0.4166267216205597,
+        "ApplicationProcess": 0.361629843711853,
+        "TimelineFrequency": 0.3516310453414917,
+        "AuthoritiesGovernance": 0.3578421175479889,
+        "DefinitionsReferences": 0.35000869631767273
+      }
+    },
+    {
+      "sentence": "Moreover, it has helped in promoting social security among the elderly population.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4290698170661926,
+      "similarities": {
+        "ContextObjective": 0.41492581367492676,
+        "BenefitsAssistance": 0.4290698170661926,
+        "Eligibility": 0.39461374282836914,
+        "ApplicationProcess": 0.36247485876083374,
+        "TimelineFrequency": 0.323377788066864,
+        "AuthoritiesGovernance": 0.3530083894729614,
+        "DefinitionsReferences": 0.352356493473053
+      }
+    },
+    {
+      "sentence": "The government conducts regular assessments to evaluate the impact of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5169334411621094,
+      "similarities": {
+        "ContextObjective": 0.5167269110679626,
+        "BenefitsAssistance": 0.49075329303741455,
+        "Eligibility": 0.5169334411621094,
+        "ApplicationProcess": 0.4963439702987671,
+        "TimelineFrequency": 0.47839587926864624,
+        "AuthoritiesGovernance": 0.48760896921157837,
+        "DefinitionsReferences": 0.46258968114852905
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation process.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5822759866714478,
+      "similarities": {
+        "ContextObjective": 0.4822844862937927,
+        "BenefitsAssistance": 0.5119467377662659,
+        "Eligibility": 0.5317909121513367,
+        "ApplicationProcess": 0.4932028651237488,
+        "TimelineFrequency": 0.44085758924484253,
+        "AuthoritiesGovernance": 0.5822759866714478,
+        "DefinitionsReferences": 0.462772011756897
+      }
+    },
+    {
+      "sentence": "The Jai Johar Scheme is also aligned with the National Policy on Older Persons.",
+      "role": "Eligibility",
+      "confidence": 0.4299943745136261,
+      "similarities": {
+        "ContextObjective": 0.4029853940010071,
+        "BenefitsAssistance": 0.38542792201042175,
+        "Eligibility": 0.4299943745136261,
+        "ApplicationProcess": 0.35588136315345764,
+        "TimelineFrequency": 0.334764301776886,
+        "AuthoritiesGovernance": 0.37248310446739197,
+        "DefinitionsReferences": 0.34377992153167725
+      }
+    },
+    {
+      "sentence": "This policy emphasizes the need for social security for the elderly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4420793056488037,
+      "similarities": {
+        "ContextObjective": 0.43327271938323975,
+        "BenefitsAssistance": 0.4420793056488037,
+        "Eligibility": 0.4340417981147766,
+        "ApplicationProcess": 0.3944702744483948,
+        "TimelineFrequency": 0.3575730323791504,
+        "AuthoritiesGovernance": 0.3430914878845215,
+        "DefinitionsReferences": 0.3735114336013794
+      }
+    },
+    {
+      "sentence": "It aims to ensure that senior citizens are treated with dignity and respect.",
+      "role": "ContextObjective",
+      "confidence": 0.4570871889591217,
+      "similarities": {
+        "ContextObjective": 0.4570871889591217,
+        "BenefitsAssistance": 0.40945130586624146,
+        "Eligibility": 0.45490649342536926,
+        "ApplicationProcess": 0.4388558864593506,
+        "TimelineFrequency": 0.37356239557266235,
+        "AuthoritiesGovernance": 0.43810009956359863,
+        "DefinitionsReferences": 0.4058901071548462
+      }
+    },
+    {
+      "sentence": "The scheme is part of the larger framework of welfare initiatives in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5667006969451904,
+      "similarities": {
+        "ContextObjective": 0.5667006969451904,
+        "BenefitsAssistance": 0.48591211438179016,
+        "Eligibility": 0.5009803175926208,
+        "ApplicationProcess": 0.43694788217544556,
+        "TimelineFrequency": 0.4108740985393524,
+        "AuthoritiesGovernance": 0.48478585481643677,
+        "DefinitionsReferences": 0.41076648235321045
+      }
+    },
+    {
+      "sentence": "It complements other schemes such as the Pradhan Mantri Vaya Vandana Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.5041778087615967,
+      "similarities": {
+        "ContextObjective": 0.5041778087615967,
+        "BenefitsAssistance": 0.46048933267593384,
+        "Eligibility": 0.4252776503562927,
+        "ApplicationProcess": 0.422003835439682,
+        "TimelineFrequency": 0.39208969473838806,
+        "AuthoritiesGovernance": 0.3760187029838562,
+        "DefinitionsReferences": 0.4035974144935608
+      }
+    },
+    {
+      "sentence": "The government is committed to enhancing the welfare of senior citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4800700545310974,
+      "similarities": {
+        "ContextObjective": 0.4396395683288574,
+        "BenefitsAssistance": 0.45619335770606995,
+        "Eligibility": 0.4656001627445221,
+        "ApplicationProcess": 0.42003297805786133,
+        "TimelineFrequency": 0.37681734561920166,
+        "AuthoritiesGovernance": 0.4800700545310974,
+        "DefinitionsReferences": 0.41798391938209534
+      }
+    },
+    {
+      "sentence": "As of October 2023, the Jai Johar Scheme continues to operate effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.5184565782546997,
+      "similarities": {
+        "ContextObjective": 0.5184565782546997,
+        "BenefitsAssistance": 0.39355146884918213,
+        "Eligibility": 0.4337863326072693,
+        "ApplicationProcess": 0.4006926417350769,
+        "TimelineFrequency": 0.41046804189682007,
+        "AuthoritiesGovernance": 0.4130437970161438,
+        "DefinitionsReferences": 0.36068153381347656
+      }
+    },
+    {
+      "sentence": "It remains a crucial lifeline for many elderly individuals in Jharkhand.",
+      "role": "Eligibility",
+      "confidence": 0.3941044807434082,
+      "similarities": {
+        "ContextObjective": 0.3582562804222107,
+        "BenefitsAssistance": 0.3562627136707306,
+        "Eligibility": 0.3941044807434082,
+        "ApplicationProcess": 0.3349669575691223,
+        "TimelineFrequency": 0.3151664733886719,
+        "AuthoritiesGovernance": 0.3708049952983856,
+        "DefinitionsReferences": 0.3380722999572754
+      }
+    },
+    {
+      "sentence": "The scheme is regularly updated to address the changing needs of the population.",
+      "role": "ContextObjective",
+      "confidence": 0.5483171939849854,
+      "similarities": {
+        "ContextObjective": 0.5483171939849854,
+        "BenefitsAssistance": 0.49387818574905396,
+        "Eligibility": 0.5244385004043579,
+        "ApplicationProcess": 0.500749409198761,
+        "TimelineFrequency": 0.4992867708206177,
+        "AuthoritiesGovernance": 0.472825288772583,
+        "DefinitionsReferences": 0.4247867465019226
+      }
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to inform potential beneficiaries about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5869936943054199,
+      "similarities": {
+        "ContextObjective": 0.5869936943054199,
+        "BenefitsAssistance": 0.527865469455719,
+        "Eligibility": 0.5780049562454224,
+        "ApplicationProcess": 0.4944498538970947,
+        "TimelineFrequency": 0.4468555152416229,
+        "AuthoritiesGovernance": 0.46453848481178284,
+        "DefinitionsReferences": 0.4131457805633545
+      }
+    },
+    {
+      "sentence": "These campaigns are aimed at ensuring that eligible individuals are aware of their rights.",
+      "role": "Eligibility",
+      "confidence": 0.5894483923912048,
+      "similarities": {
+        "ContextObjective": 0.5296241044998169,
+        "BenefitsAssistance": 0.5006349086761475,
+        "Eligibility": 0.5894483923912048,
+        "ApplicationProcess": 0.5294500589370728,
+        "TimelineFrequency": 0.49690482020378113,
+        "AuthoritiesGovernance": 0.5149722099304199,
+        "DefinitionsReferences": 0.4863857924938202
+      }
+    },
+    {
+      "sentence": "The government collaborates with local NGOs to reach out to the elderly.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5316193103790283,
+      "similarities": {
+        "ContextObjective": 0.4442836046218872,
+        "BenefitsAssistance": 0.42407187819480896,
+        "Eligibility": 0.46686622500419617,
+        "ApplicationProcess": 0.4019041359424591,
+        "TimelineFrequency": 0.37629038095474243,
+        "AuthoritiesGovernance": 0.5316193103790283,
+        "DefinitionsReferences": 0.3993890881538391
+      }
+    },
+    {
+      "sentence": "This collaboration helps in identifying potential beneficiaries who may need assistance.",
+      "role": "Eligibility",
+      "confidence": 0.6032660007476807,
+      "similarities": {
+        "ContextObjective": 0.5324280261993408,
+        "BenefitsAssistance": 0.5759257674217224,
+        "Eligibility": 0.6032660007476807,
+        "ApplicationProcess": 0.4769001007080078,
+        "TimelineFrequency": 0.4644647240638733,
+        "AuthoritiesGovernance": 0.48092639446258545,
+        "DefinitionsReferences": 0.45265573263168335
+      }
+    },
+    {
+      "sentence": "The Jai Johar Scheme is an example of the government’s commitment to social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.4853777587413788,
+      "similarities": {
+        "ContextObjective": 0.4853777587413788,
+        "BenefitsAssistance": 0.4242522120475769,
+        "Eligibility": 0.45234566926956177,
+        "ApplicationProcess": 0.38305461406707764,
+        "TimelineFrequency": 0.36072206497192383,
+        "AuthoritiesGovernance": 0.40003955364227295,
+        "DefinitionsReferences": 0.3784625828266144
+      }
+    },
+    {
+      "sentence": "It reflects the increasing recognition of the challenges faced by the elderly population.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4278435707092285,
+      "similarities": {
+        "ContextObjective": 0.3897879719734192,
+        "BenefitsAssistance": 0.4278435707092285,
+        "Eligibility": 0.41454529762268066,
+        "ApplicationProcess": 0.3801723122596741,
+        "TimelineFrequency": 0.40089255571365356,
+        "AuthoritiesGovernance": 0.37132298946380615,
+        "DefinitionsReferences": 0.38352739810943604
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve further in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.6172214150428772,
+      "similarities": {
+        "ContextObjective": 0.6172214150428772,
+        "BenefitsAssistance": 0.5147144198417664,
+        "Eligibility": 0.5232812166213989,
+        "ApplicationProcess": 0.5083441734313965,
+        "TimelineFrequency": 0.5117221474647522,
+        "AuthoritiesGovernance": 0.471668541431427,
+        "DefinitionsReferences": 0.4684586226940155
+      }
+    },
+    {
+      "sentence": "Future enhancements may include increasing the pension amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5277230143547058,
+      "similarities": {
+        "ContextObjective": 0.4771365821361542,
+        "BenefitsAssistance": 0.5277230143547058,
+        "Eligibility": 0.45193353295326233,
+        "ApplicationProcess": 0.4152233898639679,
+        "TimelineFrequency": 0.4324759244918823,
+        "AuthoritiesGovernance": 0.40179443359375,
+        "DefinitionsReferences": 0.4087364673614502
+      }
+    },
+    {
+      "sentence": "There may also be efforts to streamline the application process further.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6455036401748657,
+      "similarities": {
+        "ContextObjective": 0.5034675598144531,
+        "BenefitsAssistance": 0.4843492805957794,
+        "Eligibility": 0.576163113117218,
+        "ApplicationProcess": 0.6455036401748657,
+        "TimelineFrequency": 0.6007057428359985,
+        "AuthoritiesGovernance": 0.5203169584274292,
+        "DefinitionsReferences": 0.49405020475387573
+      }
+    },
+    {
+      "sentence": "The government is focused on making the scheme more accessible to all eligible individuals.",
+      "role": "Eligibility",
+      "confidence": 0.5994622707366943,
+      "similarities": {
+        "ContextObjective": 0.5468712449073792,
+        "BenefitsAssistance": 0.5014016628265381,
+        "Eligibility": 0.5994622707366943,
+        "ApplicationProcess": 0.5171377658843994,
+        "TimelineFrequency": 0.4537535607814789,
+        "AuthoritiesGovernance": 0.48281562328338623,
+        "DefinitionsReferences": 0.4208052158355713
+      }
+    },
+    {
+      "sentence": "Overall, the Jai Johar (Old Age Pension) Scheme plays a vital role in supporting the elderly in Jharkhand.",
+      "role": "ContextObjective",
+      "confidence": 0.43166080117225647,
+      "similarities": {
+        "ContextObjective": 0.43166080117225647,
+        "BenefitsAssistance": 0.41967588663101196,
+        "Eligibility": 0.4200345277786255,
+        "ApplicationProcess": 0.35893553495407104,
+        "TimelineFrequency": 0.3446475863456726,
+        "AuthoritiesGovernance": 0.3925096392631531,
+        "DefinitionsReferences": 0.3467898368835449
+      }
+    },
+    {
+      "sentence": "It is an essential component of the state's social welfare framework.",
+      "role": "ContextObjective",
+      "confidence": 0.49995505809783936,
+      "similarities": {
+        "ContextObjective": 0.49995505809783936,
+        "BenefitsAssistance": 0.47578346729278564,
+        "Eligibility": 0.4702814221382141,
+        "ApplicationProcess": 0.4492025375366211,
+        "TimelineFrequency": 0.4173860549926758,
+        "AuthoritiesGovernance": 0.4632151126861572,
+        "DefinitionsReferences": 0.43952828645706177
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial support but also promotes dignity for the elderly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48288658261299133,
+      "similarities": {
+        "ContextObjective": 0.48248153924942017,
+        "BenefitsAssistance": 0.48288658261299133,
+        "Eligibility": 0.44857197999954224,
+        "ApplicationProcess": 0.38368114829063416,
+        "TimelineFrequency": 0.3598686158657074,
+        "AuthoritiesGovernance": 0.34046196937561035,
+        "DefinitionsReferences": 0.35850316286087036
+      }
+    },
+    {
+      "sentence": "The ongoing commitment of the government ensures that the needs of senior citizens are prioritized.",
+      "role": "Eligibility",
+      "confidence": 0.449632465839386,
+      "similarities": {
+        "ContextObjective": 0.4379112124443054,
+        "BenefitsAssistance": 0.43440815806388855,
+        "Eligibility": 0.449632465839386,
+        "ApplicationProcess": 0.42160841822624207,
+        "TimelineFrequency": 0.4111882746219635,
+        "AuthoritiesGovernance": 0.42604315280914307,
+        "DefinitionsReferences": 0.41947269439697266
+      }
+    },
+    {
+      "sentence": "This scheme is a significant step towards building a more inclusive society for all age groups.",
+      "role": "ContextObjective",
+      "confidence": 0.5244060754776001,
+      "similarities": {
+        "ContextObjective": 0.5244060754776001,
+        "BenefitsAssistance": 0.4238424301147461,
+        "Eligibility": 0.46780186891555786,
+        "ApplicationProcess": 0.4096701145172119,
+        "TimelineFrequency": 0.3713388741016388,
+        "AuthoritiesGovernance": 0.3822351396083832,
+        "DefinitionsReferences": 0.37996092438697815
+      }
+    },
+    {
+      "sentence": "The Jai Johar Scheme stands as a testament to the government's dedication to social justice and welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.46966519951820374,
+      "similarities": {
+        "ContextObjective": 0.46966519951820374,
+        "BenefitsAssistance": 0.39444172382354736,
+        "Eligibility": 0.42252182960510254,
+        "ApplicationProcess": 0.3647165298461914,
+        "TimelineFrequency": 0.3214190900325775,
+        "AuthoritiesGovernance": 0.3727218508720398,
+        "DefinitionsReferences": 0.37885814905166626
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 17,
+    "BenefitsAssistance": 16,
+    "Eligibility": 18,
+    "ApplicationProcess": 11,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-24T21:08:35.894091"
+}

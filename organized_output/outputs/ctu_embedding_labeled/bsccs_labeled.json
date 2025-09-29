@@ -1,0 +1,925 @@
+{
+  "scheme_name": "Bihar Student Credit Card Scheme",
+  "total_sentences": 65,
+  "labeled_sentences": [
+    {
+      "sentence": "The Bihar Student Credit Card Scheme was launched on 2nd October 2016 by the Government of Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.5306651592254639,
+      "similarities": {
+        "ContextObjective": 0.5306651592254639,
+        "BenefitsAssistance": 0.4637832045555115,
+        "Eligibility": 0.4676378071308136,
+        "ApplicationProcess": 0.4382263422012329,
+        "TimelineFrequency": 0.4553445279598236,
+        "AuthoritiesGovernance": 0.4081714153289795,
+        "DefinitionsReferences": 0.39545461535453796
+      }
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to students pursuing higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.5696133375167847,
+      "similarities": {
+        "ContextObjective": 0.5696133375167847,
+        "BenefitsAssistance": 0.5380546450614929,
+        "Eligibility": 0.5230838656425476,
+        "ApplicationProcess": 0.4805501103401184,
+        "TimelineFrequency": 0.46468114852905273,
+        "AuthoritiesGovernance": 0.38863494992256165,
+        "DefinitionsReferences": 0.38922399282455444
+      }
+    },
+    {
+      "sentence": "The primary objective is to empower students by facilitating access to education through financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.5277434587478638,
+      "similarities": {
+        "ContextObjective": 0.5277434587478638,
+        "BenefitsAssistance": 0.5176048278808594,
+        "Eligibility": 0.46904152631759644,
+        "ApplicationProcess": 0.43146318197250366,
+        "TimelineFrequency": 0.4335203766822815,
+        "AuthoritiesGovernance": 0.42376798391342163,
+        "DefinitionsReferences": 0.39059311151504517
+      }
+    },
+    {
+      "sentence": "The scheme offers a credit limit of up to INR 4 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5555040836334229,
+      "similarities": {
+        "ContextObjective": 0.4971073269844055,
+        "BenefitsAssistance": 0.5166120529174805,
+        "Eligibility": 0.5555040836334229,
+        "ApplicationProcess": 0.48057448863983154,
+        "TimelineFrequency": 0.4693070650100708,
+        "AuthoritiesGovernance": 0.3620787560939789,
+        "DefinitionsReferences": 0.41064536571502686
+      }
+    },
+    {
+      "sentence": "This amount can be utilized for various educational expenses including tuition fees, accommodation, and other related costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6031969785690308,
+      "similarities": {
+        "ContextObjective": 0.43730393052101135,
+        "BenefitsAssistance": 0.6031969785690308,
+        "Eligibility": 0.45515176653862,
+        "ApplicationProcess": 0.44614553451538086,
+        "TimelineFrequency": 0.4895099997520447,
+        "AuthoritiesGovernance": 0.3992389142513275,
+        "DefinitionsReferences": 0.4943024516105652
+      }
+    },
+    {
+      "sentence": "The scheme is designed to cover students who are residents of Bihar.",
+      "role": "Eligibility",
+      "confidence": 0.5337275862693787,
+      "similarities": {
+        "ContextObjective": 0.5043261051177979,
+        "BenefitsAssistance": 0.4633656442165375,
+        "Eligibility": 0.5337275862693787,
+        "ApplicationProcess": 0.455746591091156,
+        "TimelineFrequency": 0.4365101456642151,
+        "AuthoritiesGovernance": 0.40131908655166626,
+        "DefinitionsReferences": 0.3811095356941223
+      }
+    },
+    {
+      "sentence": "Eligible students must be between the ages of 18 to 25 years.",
+      "role": "Eligibility",
+      "confidence": 0.6119773983955383,
+      "similarities": {
+        "ContextObjective": 0.4700298607349396,
+        "BenefitsAssistance": 0.4892243444919586,
+        "Eligibility": 0.6119773983955383,
+        "ApplicationProcess": 0.5290339589118958,
+        "TimelineFrequency": 0.5447031855583191,
+        "AuthoritiesGovernance": 0.3898475468158722,
+        "DefinitionsReferences": 0.4243202209472656
+      }
+    },
+    {
+      "sentence": "They must have completed their intermediate education or equivalent.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5650854110717773,
+      "similarities": {
+        "ContextObjective": 0.4766111969947815,
+        "BenefitsAssistance": 0.46205011010169983,
+        "Eligibility": 0.5319525003433228,
+        "ApplicationProcess": 0.5650854110717773,
+        "TimelineFrequency": 0.5039753913879395,
+        "AuthoritiesGovernance": 0.45807382464408875,
+        "DefinitionsReferences": 0.4803115725517273
+      }
+    },
+    {
+      "sentence": "The scheme is applicable to students enrolled in recognized colleges, universities, or institutions.",
+      "role": "Eligibility",
+      "confidence": 0.5592038631439209,
+      "similarities": {
+        "ContextObjective": 0.5239445567131042,
+        "BenefitsAssistance": 0.4985952377319336,
+        "Eligibility": 0.5592038631439209,
+        "ApplicationProcess": 0.5217337608337402,
+        "TimelineFrequency": 0.5059499740600586,
+        "AuthoritiesGovernance": 0.48769819736480713,
+        "DefinitionsReferences": 0.47391825914382935
+      }
+    },
+    {
+      "sentence": "Students pursuing professional courses such as engineering, medical, and management are also eligible.",
+      "role": "Eligibility",
+      "confidence": 0.4926343858242035,
+      "similarities": {
+        "ContextObjective": 0.41082513332366943,
+        "BenefitsAssistance": 0.4394775629043579,
+        "Eligibility": 0.4926343858242035,
+        "ApplicationProcess": 0.43420329689979553,
+        "TimelineFrequency": 0.4733067452907562,
+        "AuthoritiesGovernance": 0.3534344434738159,
+        "DefinitionsReferences": 0.41284653544425964
+      }
+    },
+    {
+      "sentence": "The interest rate on the loan is set at a nominal rate of 4 percent per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4643225073814392,
+      "similarities": {
+        "ContextObjective": 0.4149453043937683,
+        "BenefitsAssistance": 0.4643225073814392,
+        "Eligibility": 0.43078264594078064,
+        "ApplicationProcess": 0.4162202477455139,
+        "TimelineFrequency": 0.45161759853363037,
+        "AuthoritiesGovernance": 0.3672023117542267,
+        "DefinitionsReferences": 0.37799182534217834
+      }
+    },
+    {
+      "sentence": "This interest rate is significantly lower than the market rates offered by banks.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.3750764727592468,
+      "similarities": {
+        "ContextObjective": 0.2970908284187317,
+        "BenefitsAssistance": 0.3750764727592468,
+        "Eligibility": 0.33701443672180176,
+        "ApplicationProcess": 0.3152228593826294,
+        "TimelineFrequency": 0.33065369725227356,
+        "AuthoritiesGovernance": 0.26395469903945923,
+        "DefinitionsReferences": 0.262164443731308
+      }
+    },
+    {
+      "sentence": "The repayment period for the loan is up to 10 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5422261357307434,
+      "similarities": {
+        "ContextObjective": 0.4466920495033264,
+        "BenefitsAssistance": 0.5422261357307434,
+        "Eligibility": 0.5284777879714966,
+        "ApplicationProcess": 0.47773605585098267,
+        "TimelineFrequency": 0.5321734547615051,
+        "AuthoritiesGovernance": 0.3998255729675293,
+        "DefinitionsReferences": 0.4428965449333191
+      }
+    },
+    {
+      "sentence": "Students are required to start repaying the loan after a moratorium period of one year post-completion of their course.",
+      "role": "Eligibility",
+      "confidence": 0.4615301489830017,
+      "similarities": {
+        "ContextObjective": 0.3845519423484802,
+        "BenefitsAssistance": 0.42239928245544434,
+        "Eligibility": 0.4615301489830017,
+        "ApplicationProcess": 0.44095808267593384,
+        "TimelineFrequency": 0.4602436423301697,
+        "AuthoritiesGovernance": 0.35607320070266724,
+        "DefinitionsReferences": 0.3464101552963257
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and can be done online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7098253965377808,
+      "similarities": {
+        "ContextObjective": 0.5010718107223511,
+        "BenefitsAssistance": 0.4906988739967346,
+        "Eligibility": 0.5672647356987,
+        "ApplicationProcess": 0.7098253965377808,
+        "TimelineFrequency": 0.5707173347473145,
+        "AuthoritiesGovernance": 0.4409470558166504,
+        "DefinitionsReferences": 0.4338473379611969
+      }
+    },
+    {
+      "sentence": "Students need to visit the official website of the Bihar Student Credit Card Scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5155801177024841,
+      "similarities": {
+        "ContextObjective": 0.4595801830291748,
+        "BenefitsAssistance": 0.47293925285339355,
+        "Eligibility": 0.4840114712715149,
+        "ApplicationProcess": 0.5155801177024841,
+        "TimelineFrequency": 0.44497382640838623,
+        "AuthoritiesGovernance": 0.40458470582962036,
+        "DefinitionsReferences": 0.4125073254108429
+      }
+    },
+    {
+      "sentence": "They must create an account and fill out the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7003482580184937,
+      "similarities": {
+        "ContextObjective": 0.5000306963920593,
+        "BenefitsAssistance": 0.5036076307296753,
+        "Eligibility": 0.6066862344741821,
+        "ApplicationProcess": 0.7003482580184937,
+        "TimelineFrequency": 0.5497313737869263,
+        "AuthoritiesGovernance": 0.4343816936016083,
+        "DefinitionsReferences": 0.4407235085964203
+      }
+    },
+    {
+      "sentence": "Required documents include a copy of the Aadhar card, income certificate, and educational certificates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5856448411941528,
+      "similarities": {
+        "ContextObjective": 0.43972066044807434,
+        "BenefitsAssistance": 0.5460528135299683,
+        "Eligibility": 0.4904702305793762,
+        "ApplicationProcess": 0.5856448411941528,
+        "TimelineFrequency": 0.4756501615047455,
+        "AuthoritiesGovernance": 0.4275261163711548,
+        "DefinitionsReferences": 0.5293656587600708
+      }
+    },
+    {
+      "sentence": "Students must also provide a bank account statement and a passport-sized photograph.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5372122526168823,
+      "similarities": {
+        "ContextObjective": 0.40960875153541565,
+        "BenefitsAssistance": 0.5217098593711853,
+        "Eligibility": 0.49201905727386475,
+        "ApplicationProcess": 0.5372122526168823,
+        "TimelineFrequency": 0.4623206555843353,
+        "AuthoritiesGovernance": 0.32796257734298706,
+        "DefinitionsReferences": 0.45150360465049744
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6936107277870178,
+      "similarities": {
+        "ContextObjective": 0.5198968648910522,
+        "BenefitsAssistance": 0.47758522629737854,
+        "Eligibility": 0.5993233919143677,
+        "ApplicationProcess": 0.6936107277870178,
+        "TimelineFrequency": 0.5815359950065613,
+        "AuthoritiesGovernance": 0.5314975380897522,
+        "DefinitionsReferences": 0.5044392347335815
+      }
+    },
+    {
+      "sentence": "The processing time for the application is typically around 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6330593824386597,
+      "similarities": {
+        "ContextObjective": 0.46554386615753174,
+        "BenefitsAssistance": 0.49255552887916565,
+        "Eligibility": 0.5522470474243164,
+        "ApplicationProcess": 0.6270898580551147,
+        "TimelineFrequency": 0.6330593824386597,
+        "AuthoritiesGovernance": 0.4613301157951355,
+        "DefinitionsReferences": 0.44603291153907776
+      }
+    },
+    {
+      "sentence": "Upon approval, the loan amount is disbursed directly to the educational institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4970262050628662,
+      "similarities": {
+        "ContextObjective": 0.39836546778678894,
+        "BenefitsAssistance": 0.4970262050628662,
+        "Eligibility": 0.45771485567092896,
+        "ApplicationProcess": 0.4511306583881378,
+        "TimelineFrequency": 0.4222419261932373,
+        "AuthoritiesGovernance": 0.4209447503089905,
+        "DefinitionsReferences": 0.36629053950309753
+      }
+    },
+    {
+      "sentence": "The scheme has a significant impact on the education sector in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.443183034658432,
+      "similarities": {
+        "ContextObjective": 0.443183034658432,
+        "BenefitsAssistance": 0.4156584143638611,
+        "Eligibility": 0.42393457889556885,
+        "ApplicationProcess": 0.36058008670806885,
+        "TimelineFrequency": 0.3495960831642151,
+        "AuthoritiesGovernance": 0.36404481530189514,
+        "DefinitionsReferences": 0.35932907462120056
+      }
+    },
+    {
+      "sentence": "As of 2023, over 3 lakh students have benefited from this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.44552120566368103,
+      "similarities": {
+        "ContextObjective": 0.44552120566368103,
+        "BenefitsAssistance": 0.3799368739128113,
+        "Eligibility": 0.38610321283340454,
+        "ApplicationProcess": 0.3321283459663391,
+        "TimelineFrequency": 0.33946529030799866,
+        "AuthoritiesGovernance": 0.3436691164970398,
+        "DefinitionsReferences": 0.3402928113937378
+      }
+    },
+    {
+      "sentence": "The total amount disbursed under the scheme has crossed INR 1,200 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48595017194747925,
+      "similarities": {
+        "ContextObjective": 0.3961414098739624,
+        "BenefitsAssistance": 0.48595017194747925,
+        "Eligibility": 0.3816618025302887,
+        "ApplicationProcess": 0.3593199849128723,
+        "TimelineFrequency": 0.34040698409080505,
+        "AuthoritiesGovernance": 0.35050439834594727,
+        "DefinitionsReferences": 0.354923814535141
+      }
+    },
+    {
+      "sentence": "This financial support has enabled many students to pursue higher education without financial burden.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45639270544052124,
+      "similarities": {
+        "ContextObjective": 0.40788185596466064,
+        "BenefitsAssistance": 0.45639270544052124,
+        "Eligibility": 0.3833978772163391,
+        "ApplicationProcess": 0.35691022872924805,
+        "TimelineFrequency": 0.3377552032470703,
+        "AuthoritiesGovernance": 0.2673543095588684,
+        "DefinitionsReferences": 0.33203616738319397
+      }
+    },
+    {
+      "sentence": "The scheme has also contributed to reducing dropout rates in colleges and universities.",
+      "role": "ContextObjective",
+      "confidence": 0.41820311546325684,
+      "similarities": {
+        "ContextObjective": 0.41820311546325684,
+        "BenefitsAssistance": 0.37727198004722595,
+        "Eligibility": 0.38360166549682617,
+        "ApplicationProcess": 0.3450561463832855,
+        "TimelineFrequency": 0.3753647208213806,
+        "AuthoritiesGovernance": 0.38550955057144165,
+        "DefinitionsReferences": 0.31558793783187866
+      }
+    },
+    {
+      "sentence": "The government has set a target to increase the number of beneficiaries by 20 percent annually.",
+      "role": "Eligibility",
+      "confidence": 0.4896605312824249,
+      "similarities": {
+        "ContextObjective": 0.45337945222854614,
+        "BenefitsAssistance": 0.4409696161746979,
+        "Eligibility": 0.4896605312824249,
+        "ApplicationProcess": 0.37904295325279236,
+        "TimelineFrequency": 0.3824957609176636,
+        "AuthoritiesGovernance": 0.3996550142765045,
+        "DefinitionsReferences": 0.35689884424209595
+      }
+    },
+    {
+      "sentence": "The Bihar Student Credit Card Scheme is implemented by the Department of Education, Government of Bihar.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5007757544517517,
+      "similarities": {
+        "ContextObjective": 0.4863682687282562,
+        "BenefitsAssistance": 0.48687151074409485,
+        "Eligibility": 0.4793213903903961,
+        "ApplicationProcess": 0.45751720666885376,
+        "TimelineFrequency": 0.42653948068618774,
+        "AuthoritiesGovernance": 0.5007757544517517,
+        "DefinitionsReferences": 0.3975437879562378
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, students can contact the department through their official helpline.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4881177246570587,
+      "similarities": {
+        "ContextObjective": 0.36886894702911377,
+        "BenefitsAssistance": 0.4396287798881531,
+        "Eligibility": 0.430512011051178,
+        "ApplicationProcess": 0.45533135533332825,
+        "TimelineFrequency": 0.40964430570602417,
+        "AuthoritiesGovernance": 0.4881177246570587,
+        "DefinitionsReferences": 0.38603532314300537
+      }
+    },
+    {
+      "sentence": "The helpline number is 0612-221-5111.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47642379999160767,
+      "similarities": {
+        "ContextObjective": 0.35600346326828003,
+        "BenefitsAssistance": 0.47642379999160767,
+        "Eligibility": 0.4323112368583679,
+        "ApplicationProcess": 0.4284352660179138,
+        "TimelineFrequency": 0.4047742486000061,
+        "AuthoritiesGovernance": 0.43690407276153564,
+        "DefinitionsReferences": 0.35040366649627686
+      }
+    },
+    {
+      "sentence": "The scheme has received positive feedback from students and parents alike.",
+      "role": "ContextObjective",
+      "confidence": 0.5024539232254028,
+      "similarities": {
+        "ContextObjective": 0.5024539232254028,
+        "BenefitsAssistance": 0.4179774820804596,
+        "Eligibility": 0.43325668573379517,
+        "ApplicationProcess": 0.4199145436286926,
+        "TimelineFrequency": 0.39460331201553345,
+        "AuthoritiesGovernance": 0.3614161014556885,
+        "DefinitionsReferences": 0.3783937096595764
+      }
+    },
+    {
+      "sentence": "Many beneficiaries have reported improved educational outcomes due to the financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5413351058959961,
+      "similarities": {
+        "ContextObjective": 0.4403446614742279,
+        "BenefitsAssistance": 0.5413351058959961,
+        "Eligibility": 0.48230084776878357,
+        "ApplicationProcess": 0.40140849351882935,
+        "TimelineFrequency": 0.39483731985092163,
+        "AuthoritiesGovernance": 0.4083321988582611,
+        "DefinitionsReferences": 0.4047165513038635
+      }
+    },
+    {
+      "sentence": "The government has also introduced awareness programs to promote the scheme among students.",
+      "role": "ContextObjective",
+      "confidence": 0.5040646195411682,
+      "similarities": {
+        "ContextObjective": 0.5040646195411682,
+        "BenefitsAssistance": 0.42618757486343384,
+        "Eligibility": 0.4464205503463745,
+        "ApplicationProcess": 0.44192153215408325,
+        "TimelineFrequency": 0.39965566992759705,
+        "AuthoritiesGovernance": 0.42078477144241333,
+        "DefinitionsReferences": 0.3950747549533844
+      }
+    },
+    {
+      "sentence": "These programs aim to educate students about the benefits and application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5654363632202148,
+      "similarities": {
+        "ContextObjective": 0.5531402826309204,
+        "BenefitsAssistance": 0.4859636425971985,
+        "Eligibility": 0.5401197075843811,
+        "ApplicationProcess": 0.5654363632202148,
+        "TimelineFrequency": 0.555730938911438,
+        "AuthoritiesGovernance": 0.45545387268066406,
+        "DefinitionsReferences": 0.43851974606513977
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance educational infrastructure in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.49786150455474854,
+      "similarities": {
+        "ContextObjective": 0.49786150455474854,
+        "BenefitsAssistance": 0.4061412513256073,
+        "Eligibility": 0.42210790514945984,
+        "ApplicationProcess": 0.3999745547771454,
+        "TimelineFrequency": 0.37675148248672485,
+        "AuthoritiesGovernance": 0.41217589378356934,
+        "DefinitionsReferences": 0.37732765078544617
+      }
+    },
+    {
+      "sentence": "It aligns with the National Education Policy 2020, which emphasizes access to quality education.",
+      "role": "Eligibility",
+      "confidence": 0.41180121898651123,
+      "similarities": {
+        "ContextObjective": 0.40732061862945557,
+        "BenefitsAssistance": 0.3693861961364746,
+        "Eligibility": 0.41180121898651123,
+        "ApplicationProcess": 0.38617485761642456,
+        "TimelineFrequency": 0.3795463442802429,
+        "AuthoritiesGovernance": 0.34958964586257935,
+        "DefinitionsReferences": 0.36480242013931274
+      }
+    },
+    {
+      "sentence": "The Bihar Student Credit Card Scheme is a crucial step towards achieving educational equity.",
+      "role": "ContextObjective",
+      "confidence": 0.48806488513946533,
+      "similarities": {
+        "ContextObjective": 0.48806488513946533,
+        "BenefitsAssistance": 0.4391006827354431,
+        "Eligibility": 0.446843683719635,
+        "ApplicationProcess": 0.4167608916759491,
+        "TimelineFrequency": 0.38281524181365967,
+        "AuthoritiesGovernance": 0.3755339980125427,
+        "DefinitionsReferences": 0.3632712960243225
+      }
+    },
+    {
+      "sentence": "It addresses the financial barriers that many students face in pursuing higher education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4880889058113098,
+      "similarities": {
+        "ContextObjective": 0.4466964602470398,
+        "BenefitsAssistance": 0.4880889058113098,
+        "Eligibility": 0.47044602036476135,
+        "ApplicationProcess": 0.43237221240997314,
+        "TimelineFrequency": 0.4201560914516449,
+        "AuthoritiesGovernance": 0.34439074993133545,
+        "DefinitionsReferences": 0.3461872637271881
+      }
+    },
+    {
+      "sentence": "The scheme has also encouraged private institutions to lower their fees.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.43016955256462097,
+      "similarities": {
+        "ContextObjective": 0.403722882270813,
+        "BenefitsAssistance": 0.43016955256462097,
+        "Eligibility": 0.3912709951400757,
+        "ApplicationProcess": 0.3804517984390259,
+        "TimelineFrequency": 0.3713412880897522,
+        "AuthoritiesGovernance": 0.3394627273082733,
+        "DefinitionsReferences": 0.3338584303855896
+      }
+    },
+    {
+      "sentence": "This is due to increased competition for students who now have access to credit.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4622955918312073,
+      "similarities": {
+        "ContextObjective": 0.4142349362373352,
+        "BenefitsAssistance": 0.44568824768066406,
+        "Eligibility": 0.4573155641555786,
+        "ApplicationProcess": 0.4277382493019104,
+        "TimelineFrequency": 0.4622955918312073,
+        "AuthoritiesGovernance": 0.3361188769340515,
+        "DefinitionsReferences": 0.39840078353881836
+      }
+    },
+    {
+      "sentence": "The government has plans to expand the scheme to include vocational courses as well.",
+      "role": "ContextObjective",
+      "confidence": 0.5270838737487793,
+      "similarities": {
+        "ContextObjective": 0.5270838737487793,
+        "BenefitsAssistance": 0.44969600439071655,
+        "Eligibility": 0.46613651514053345,
+        "ApplicationProcess": 0.4441802203655243,
+        "TimelineFrequency": 0.4445541203022003,
+        "AuthoritiesGovernance": 0.41156816482543945,
+        "DefinitionsReferences": 0.4346069097518921
+      }
+    },
+    {
+      "sentence": "This expansion aims to cater to the diverse educational needs of students in Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.46948713064193726,
+      "similarities": {
+        "ContextObjective": 0.46948713064193726,
+        "BenefitsAssistance": 0.40060317516326904,
+        "Eligibility": 0.4647866487503052,
+        "ApplicationProcess": 0.377204030752182,
+        "TimelineFrequency": 0.38567784428596497,
+        "AuthoritiesGovernance": 0.37525224685668945,
+        "DefinitionsReferences": 0.3687170147895813
+      }
+    },
+    {
+      "sentence": "The scheme has been instrumental in promoting skill development among youth.",
+      "role": "ContextObjective",
+      "confidence": 0.5229217410087585,
+      "similarities": {
+        "ContextObjective": 0.5229217410087585,
+        "BenefitsAssistance": 0.3651926517486572,
+        "Eligibility": 0.3996933698654175,
+        "ApplicationProcess": 0.3804803788661957,
+        "TimelineFrequency": 0.3733018934726715,
+        "AuthoritiesGovernance": 0.3642538785934448,
+        "DefinitionsReferences": 0.3986132740974426
+      }
+    },
+    {
+      "sentence": "It has also contributed to the overall economic development of the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4332178235054016,
+      "similarities": {
+        "ContextObjective": 0.40556448698043823,
+        "BenefitsAssistance": 0.4332178235054016,
+        "Eligibility": 0.365720272064209,
+        "ApplicationProcess": 0.3883981704711914,
+        "TimelineFrequency": 0.3689143657684326,
+        "AuthoritiesGovernance": 0.39016538858413696,
+        "DefinitionsReferences": 0.418377161026001
+      }
+    },
+    {
+      "sentence": "By investing in education, the government aims to create a skilled workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.49000972509384155,
+      "similarities": {
+        "ContextObjective": 0.49000972509384155,
+        "BenefitsAssistance": 0.41892877221107483,
+        "Eligibility": 0.4379535913467407,
+        "ApplicationProcess": 0.4119081497192383,
+        "TimelineFrequency": 0.40918344259262085,
+        "AuthoritiesGovernance": 0.42905688285827637,
+        "DefinitionsReferences": 0.3908011019229889
+      }
+    },
+    {
+      "sentence": "This workforce is essential for the growth of various sectors in Bihar.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.42569926381111145,
+      "similarities": {
+        "ContextObjective": 0.41534900665283203,
+        "BenefitsAssistance": 0.42569926381111145,
+        "Eligibility": 0.42483919858932495,
+        "ApplicationProcess": 0.3636454939842224,
+        "TimelineFrequency": 0.38620108366012573,
+        "AuthoritiesGovernance": 0.38665053248405457,
+        "DefinitionsReferences": 0.39012596011161804
+      }
+    },
+    {
+      "sentence": "The scheme has also been recognized at national forums for its innovative approach.",
+      "role": "ContextObjective",
+      "confidence": 0.5148207545280457,
+      "similarities": {
+        "ContextObjective": 0.5148207545280457,
+        "BenefitsAssistance": 0.37820714712142944,
+        "Eligibility": 0.42128539085388184,
+        "ApplicationProcess": 0.40736329555511475,
+        "TimelineFrequency": 0.3774009048938751,
+        "AuthoritiesGovernance": 0.38878682255744934,
+        "DefinitionsReferences": 0.3665245771408081
+      }
+    },
+    {
+      "sentence": "It serves as a model for other states looking to implement similar initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.49577856063842773,
+      "similarities": {
+        "ContextObjective": 0.49577856063842773,
+        "BenefitsAssistance": 0.40399324893951416,
+        "Eligibility": 0.48695093393325806,
+        "ApplicationProcess": 0.45170336961746216,
+        "TimelineFrequency": 0.42288193106651306,
+        "AuthoritiesGovernance": 0.49484121799468994,
+        "DefinitionsReferences": 0.4507564306259155
+      }
+    },
+    {
+      "sentence": "The Bihar Student Credit Card Scheme is a testament to the government's commitment to education.",
+      "role": "ContextObjective",
+      "confidence": 0.43603870272636414,
+      "similarities": {
+        "ContextObjective": 0.43603870272636414,
+        "BenefitsAssistance": 0.42049211263656616,
+        "Eligibility": 0.39135390520095825,
+        "ApplicationProcess": 0.37812483310699463,
+        "TimelineFrequency": 0.35108229517936707,
+        "AuthoritiesGovernance": 0.32360854744911194,
+        "DefinitionsReferences": 0.366377592086792
+      }
+    },
+    {
+      "sentence": "It reflects the belief that education is a fundamental right for every individual.",
+      "role": "ContextObjective",
+      "confidence": 0.4503353238105774,
+      "similarities": {
+        "ContextObjective": 0.4503353238105774,
+        "BenefitsAssistance": 0.37684911489486694,
+        "Eligibility": 0.4059888422489166,
+        "ApplicationProcess": 0.37638258934020996,
+        "TimelineFrequency": 0.371612548828125,
+        "AuthoritiesGovernance": 0.37886837124824524,
+        "DefinitionsReferences": 0.3827061653137207
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve based on feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5455816984176636,
+      "similarities": {
+        "ContextObjective": 0.5455816984176636,
+        "BenefitsAssistance": 0.4896502196788788,
+        "Eligibility": 0.5127562284469604,
+        "ApplicationProcess": 0.44070562720298767,
+        "TimelineFrequency": 0.4270915389060974,
+        "AuthoritiesGovernance": 0.4731869101524353,
+        "DefinitionsReferences": 0.435250461101532
+      }
+    },
+    {
+      "sentence": "This ensures that it remains relevant to the changing educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.46364855766296387,
+      "similarities": {
+        "ContextObjective": 0.46364855766296387,
+        "BenefitsAssistance": 0.3703998923301697,
+        "Eligibility": 0.4112899601459503,
+        "ApplicationProcess": 0.3740583658218384,
+        "TimelineFrequency": 0.4112241864204407,
+        "AuthoritiesGovernance": 0.36053216457366943,
+        "DefinitionsReferences": 0.427996963262558
+      }
+    },
+    {
+      "sentence": "The government is also exploring partnerships with banks for better loan management.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.46091556549072266,
+      "similarities": {
+        "ContextObjective": 0.4372941851615906,
+        "BenefitsAssistance": 0.4595213234424591,
+        "Eligibility": 0.4526904225349426,
+        "ApplicationProcess": 0.45062780380249023,
+        "TimelineFrequency": 0.4275100827217102,
+        "AuthoritiesGovernance": 0.46091556549072266,
+        "DefinitionsReferences": 0.4383102357387543
+      }
+    },
+    {
+      "sentence": "These partnerships aim to streamline the disbursement and repayment processes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5323474407196045,
+      "similarities": {
+        "ContextObjective": 0.4331832230091095,
+        "BenefitsAssistance": 0.5323474407196045,
+        "Eligibility": 0.4808635711669922,
+        "ApplicationProcess": 0.4576881527900696,
+        "TimelineFrequency": 0.477711945772171,
+        "AuthoritiesGovernance": 0.46440428495407104,
+        "DefinitionsReferences": 0.4212077856063843
+      }
+    },
+    {
+      "sentence": "The scheme has also integrated technology to enhance user experience.",
+      "role": "ContextObjective",
+      "confidence": 0.5257968306541443,
+      "similarities": {
+        "ContextObjective": 0.5257968306541443,
+        "BenefitsAssistance": 0.4636722207069397,
+        "Eligibility": 0.41956067085266113,
+        "ApplicationProcess": 0.47489306330680847,
+        "TimelineFrequency": 0.4276775121688843,
+        "AuthoritiesGovernance": 0.433030366897583,
+        "DefinitionsReferences": 0.43404334783554077
+      }
+    },
+    {
+      "sentence": "Students can track their application status online through the official portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.630616307258606,
+      "similarities": {
+        "ContextObjective": 0.4168059825897217,
+        "BenefitsAssistance": 0.46300119161605835,
+        "Eligibility": 0.5157127380371094,
+        "ApplicationProcess": 0.630616307258606,
+        "TimelineFrequency": 0.5678369402885437,
+        "AuthoritiesGovernance": 0.4315904378890991,
+        "DefinitionsReferences": 0.4337031841278076
+      }
+    },
+    {
+      "sentence": "This transparency has increased trust in the scheme among stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.49257099628448486,
+      "similarities": {
+        "ContextObjective": 0.49257099628448486,
+        "BenefitsAssistance": 0.41561946272850037,
+        "Eligibility": 0.4038718342781067,
+        "ApplicationProcess": 0.4165142774581909,
+        "TimelineFrequency": 0.3279603123664856,
+        "AuthoritiesGovernance": 0.4260346293449402,
+        "DefinitionsReferences": 0.3654882311820984
+      }
+    },
+    {
+      "sentence": "The Bihar Student Credit Card Scheme is a significant initiative for the youth of Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.49206864833831787,
+      "similarities": {
+        "ContextObjective": 0.49206864833831787,
+        "BenefitsAssistance": 0.42812246084213257,
+        "Eligibility": 0.42317694425582886,
+        "ApplicationProcess": 0.3937293291091919,
+        "TimelineFrequency": 0.3747624158859253,
+        "AuthoritiesGovernance": 0.3316279947757721,
+        "DefinitionsReferences": 0.35106542706489563
+      }
+    },
+    {
+      "sentence": "It empowers them to dream big and pursue their aspirations without financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.45953071117401123,
+      "similarities": {
+        "ContextObjective": 0.45953071117401123,
+        "BenefitsAssistance": 0.3897243142127991,
+        "Eligibility": 0.3868798613548279,
+        "ApplicationProcess": 0.33835336565971375,
+        "TimelineFrequency": 0.3230999708175659,
+        "AuthoritiesGovernance": 0.2518417239189148,
+        "DefinitionsReferences": 0.30449366569519043
+      }
+    },
+    {
+      "sentence": "The government remains committed to supporting students through this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.4504307210445404,
+      "similarities": {
+        "ContextObjective": 0.4504307210445404,
+        "BenefitsAssistance": 0.41363176703453064,
+        "Eligibility": 0.4155806303024292,
+        "ApplicationProcess": 0.40218639373779297,
+        "TimelineFrequency": 0.3781857490539551,
+        "AuthoritiesGovernance": 0.42724311351776123,
+        "DefinitionsReferences": 0.39919549226760864
+      }
+    },
+    {
+      "sentence": "This commitment is evident in the continuous updates and improvements made to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.46217405796051025,
+      "similarities": {
+        "ContextObjective": 0.46217405796051025,
+        "BenefitsAssistance": 0.4030269980430603,
+        "Eligibility": 0.3775436282157898,
+        "ApplicationProcess": 0.4258200526237488,
+        "TimelineFrequency": 0.422935426235199,
+        "AuthoritiesGovernance": 0.4027710556983948,
+        "DefinitionsReferences": 0.3923870623111725
+      }
+    },
+    {
+      "sentence": "The scheme is not just about financial assistance; it is about building a brighter future for the youth of Bihar.",
+      "role": "ContextObjective",
+      "confidence": 0.5194063782691956,
+      "similarities": {
+        "ContextObjective": 0.5194063782691956,
+        "BenefitsAssistance": 0.40102025866508484,
+        "Eligibility": 0.42415547370910645,
+        "ApplicationProcess": 0.36798667907714844,
+        "TimelineFrequency": 0.363864004611969,
+        "AuthoritiesGovernance": 0.3549343943595886,
+        "DefinitionsReferences": 0.33479952812194824
+      }
+    },
+    {
+      "sentence": "Through education, the government aims to uplift communities and foster development.",
+      "role": "ContextObjective",
+      "confidence": 0.5221909880638123,
+      "similarities": {
+        "ContextObjective": 0.5221909880638123,
+        "BenefitsAssistance": 0.40803414583206177,
+        "Eligibility": 0.44347134232521057,
+        "ApplicationProcess": 0.4097505211830139,
+        "TimelineFrequency": 0.3828892707824707,
+        "AuthoritiesGovernance": 0.48696187138557434,
+        "DefinitionsReferences": 0.40967249870300293
+      }
+    },
+    {
+      "sentence": "The Bihar Student Credit Card Scheme is a vital part of this vision.",
+      "role": "ContextObjective",
+      "confidence": 0.5384355187416077,
+      "similarities": {
+        "ContextObjective": 0.5384355187416077,
+        "BenefitsAssistance": 0.41680195927619934,
+        "Eligibility": 0.4285164177417755,
+        "ApplicationProcess": 0.3855399489402771,
+        "TimelineFrequency": 0.37116456031799316,
+        "AuthoritiesGovernance": 0.3300110399723053,
+        "DefinitionsReferences": 0.3618243932723999
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 29,
+    "Eligibility": 8,
+    "BenefitsAssistance": 14,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 2,
+    "AuthoritiesGovernance": 3
+  },
+  "processing_timestamp": "2025-09-25T20:56:36.422336"
+}

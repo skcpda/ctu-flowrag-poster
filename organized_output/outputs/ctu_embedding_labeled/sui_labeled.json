@@ -1,0 +1,911 @@
+{
+  "scheme_name": "Stand-Up India",
+  "total_sentences": 64,
+  "labeled_sentences": [
+    {
+      "sentence": "Stand-Up India is a flagship initiative launched by the Government of India on April 5, 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.5038629770278931,
+      "similarities": {
+        "ContextObjective": 0.5038629770278931,
+        "BenefitsAssistance": 0.41186249256134033,
+        "Eligibility": 0.4339609742164612,
+        "ApplicationProcess": 0.3992327153682709,
+        "TimelineFrequency": 0.40012645721435547,
+        "AuthoritiesGovernance": 0.42502379417419434,
+        "DefinitionsReferences": 0.4065687656402588
+      }
+    },
+    {
+      "sentence": "The scheme aims to promote entrepreneurship among Scheduled Castes, Scheduled Tribes, and women.",
+      "role": "ContextObjective",
+      "confidence": 0.5327896475791931,
+      "similarities": {
+        "ContextObjective": 0.5327896475791931,
+        "BenefitsAssistance": 0.3741697072982788,
+        "Eligibility": 0.4639015197753906,
+        "ApplicationProcess": 0.3760637640953064,
+        "TimelineFrequency": 0.39551496505737305,
+        "AuthoritiesGovernance": 0.38193801045417786,
+        "DefinitionsReferences": 0.343427449464798
+      }
+    },
+    {
+      "sentence": "The primary objective is to facilitate at least two bank loans per scheduled caste or scheduled tribe borrower and women entrepreneur.",
+      "role": "ContextObjective",
+      "confidence": 0.5050128698348999,
+      "similarities": {
+        "ContextObjective": 0.5050128698348999,
+        "BenefitsAssistance": 0.43078935146331787,
+        "Eligibility": 0.48288220167160034,
+        "ApplicationProcess": 0.4177502989768982,
+        "TimelineFrequency": 0.4249340891838074,
+        "AuthoritiesGovernance": 0.4145929217338562,
+        "DefinitionsReferences": 0.37191492319107056
+      }
+    },
+    {
+      "sentence": "These loans are intended to help establish greenfield enterprises in the manufacturing, services, or trading sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.47705546021461487,
+      "similarities": {
+        "ContextObjective": 0.47705546021461487,
+        "BenefitsAssistance": 0.4284946322441101,
+        "Eligibility": 0.4555007517337799,
+        "ApplicationProcess": 0.3931612968444824,
+        "TimelineFrequency": 0.43161487579345703,
+        "AuthoritiesGovernance": 0.38742488622665405,
+        "DefinitionsReferences": 0.40833568572998047
+      }
+    },
+    {
+      "sentence": "The scheme targets the creation of new jobs and the promotion of self-employment among marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.5363509654998779,
+      "similarities": {
+        "ContextObjective": 0.5363509654998779,
+        "BenefitsAssistance": 0.3969104290008545,
+        "Eligibility": 0.47250112891197205,
+        "ApplicationProcess": 0.38764724135398865,
+        "TimelineFrequency": 0.38242921233177185,
+        "AuthoritiesGovernance": 0.3853721618652344,
+        "DefinitionsReferences": 0.332128643989563
+      }
+    },
+    {
+      "sentence": "The government has set a target to provide financial assistance to at least 2.5 lakh borrowers over a period of five years.",
+      "role": "Eligibility",
+      "confidence": 0.5234636068344116,
+      "similarities": {
+        "ContextObjective": 0.4866718053817749,
+        "BenefitsAssistance": 0.5130927562713623,
+        "Eligibility": 0.5234636068344116,
+        "ApplicationProcess": 0.42929738759994507,
+        "TimelineFrequency": 0.43499088287353516,
+        "AuthoritiesGovernance": 0.41886278986930847,
+        "DefinitionsReferences": 0.394837886095047
+      }
+    },
+    {
+      "sentence": "This translates to an average of 50,000 loans per year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.44504910707473755,
+      "similarities": {
+        "ContextObjective": 0.4000755548477173,
+        "BenefitsAssistance": 0.44504910707473755,
+        "Eligibility": 0.3940192461013794,
+        "ApplicationProcess": 0.39421045780181885,
+        "TimelineFrequency": 0.43361377716064453,
+        "AuthoritiesGovernance": 0.34093645215034485,
+        "DefinitionsReferences": 0.40464022755622864
+      }
+    },
+    {
+      "sentence": "The financial assistance under the Stand-Up India scheme is provided in the form of bank loans ranging from ₹10 lakh to ₹1 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5092965960502625,
+      "similarities": {
+        "ContextObjective": 0.4289669096469879,
+        "BenefitsAssistance": 0.5092965960502625,
+        "Eligibility": 0.47333675622940063,
+        "ApplicationProcess": 0.3853990435600281,
+        "TimelineFrequency": 0.36184099316596985,
+        "AuthoritiesGovernance": 0.3575509786605835,
+        "DefinitionsReferences": 0.3893563747406006
+      }
+    },
+    {
+      "sentence": "The loan amount is meant to cover 75% of the project cost.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5375269055366516,
+      "similarities": {
+        "ContextObjective": 0.450538694858551,
+        "BenefitsAssistance": 0.5375269055366516,
+        "Eligibility": 0.47160133719444275,
+        "ApplicationProcess": 0.44174331426620483,
+        "TimelineFrequency": 0.450514018535614,
+        "AuthoritiesGovernance": 0.3562909960746765,
+        "DefinitionsReferences": 0.37748783826828003
+      }
+    },
+    {
+      "sentence": "The remaining 25% is to be contributed by the borrower as their own investment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.48376089334487915,
+      "similarities": {
+        "ContextObjective": 0.3743109107017517,
+        "BenefitsAssistance": 0.48376089334487915,
+        "Eligibility": 0.4026166796684265,
+        "ApplicationProcess": 0.37278297543525696,
+        "TimelineFrequency": 0.3275172710418701,
+        "AuthoritiesGovernance": 0.3111509680747986,
+        "DefinitionsReferences": 0.33235663175582886
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of skill development and training for the beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.48854297399520874,
+      "similarities": {
+        "ContextObjective": 0.48854297399520874,
+        "BenefitsAssistance": 0.4312272071838379,
+        "Eligibility": 0.47313523292541504,
+        "ApplicationProcess": 0.39915433526039124,
+        "TimelineFrequency": 0.3894283175468445,
+        "AuthoritiesGovernance": 0.3848055303096771,
+        "DefinitionsReferences": 0.40124380588531494
+      }
+    },
+    {
+      "sentence": "The government has partnered with various organizations to provide necessary training and support.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.593041181564331,
+      "similarities": {
+        "ContextObjective": 0.5299367904663086,
+        "BenefitsAssistance": 0.5523496866226196,
+        "Eligibility": 0.5345087647438049,
+        "ApplicationProcess": 0.504161536693573,
+        "TimelineFrequency": 0.4965863823890686,
+        "AuthoritiesGovernance": 0.593041181564331,
+        "DefinitionsReferences": 0.5479140877723694
+      }
+    },
+    {
+      "sentence": "Eligible beneficiaries must be at least 18 years of age.",
+      "role": "Eligibility",
+      "confidence": 0.6548036336898804,
+      "similarities": {
+        "ContextObjective": 0.4897531270980835,
+        "BenefitsAssistance": 0.5425323247909546,
+        "Eligibility": 0.6548036336898804,
+        "ApplicationProcess": 0.5033542513847351,
+        "TimelineFrequency": 0.484380304813385,
+        "AuthoritiesGovernance": 0.4098973274230957,
+        "DefinitionsReferences": 0.4112775921821594
+      }
+    },
+    {
+      "sentence": "There are no upper age limits specified for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.5262753963470459,
+      "similarities": {
+        "ContextObjective": 0.38588109612464905,
+        "BenefitsAssistance": 0.37926825881004333,
+        "Eligibility": 0.5262753963470459,
+        "ApplicationProcess": 0.43475964665412903,
+        "TimelineFrequency": 0.43702325224876404,
+        "AuthoritiesGovernance": 0.3413492441177368,
+        "DefinitionsReferences": 0.32187217473983765
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility are not strictly defined but preference is given to those from economically weaker sections.",
+      "role": "Eligibility",
+      "confidence": 0.5422084331512451,
+      "similarities": {
+        "ContextObjective": 0.41999852657318115,
+        "BenefitsAssistance": 0.441776305437088,
+        "Eligibility": 0.5422084331512451,
+        "ApplicationProcess": 0.39342138171195984,
+        "TimelineFrequency": 0.41030627489089966,
+        "AuthoritiesGovernance": 0.3362887501716614,
+        "DefinitionsReferences": 0.34493598341941833
+      }
+    },
+    {
+      "sentence": "Applicants must have a viable business plan to qualify for the loan.",
+      "role": "Eligibility",
+      "confidence": 0.6183040142059326,
+      "similarities": {
+        "ContextObjective": 0.5558910965919495,
+        "BenefitsAssistance": 0.5119020938873291,
+        "Eligibility": 0.6183040142059326,
+        "ApplicationProcess": 0.5855636596679688,
+        "TimelineFrequency": 0.5430905222892761,
+        "AuthoritiesGovernance": 0.3899305462837219,
+        "DefinitionsReferences": 0.4464736580848694
+      }
+    },
+    {
+      "sentence": "The application process is straightforward and can be initiated at any bank branch.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5438682436943054,
+      "similarities": {
+        "ContextObjective": 0.4545539617538452,
+        "BenefitsAssistance": 0.42740654945373535,
+        "Eligibility": 0.5280999541282654,
+        "ApplicationProcess": 0.5438682436943054,
+        "TimelineFrequency": 0.4898892641067505,
+        "AuthoritiesGovernance": 0.3914760649204254,
+        "DefinitionsReferences": 0.38910776376724243
+      }
+    },
+    {
+      "sentence": "Applicants need to fill out the Stand-Up India loan application form available at bank branches or online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6485316753387451,
+      "similarities": {
+        "ContextObjective": 0.4529290497303009,
+        "BenefitsAssistance": 0.48454391956329346,
+        "Eligibility": 0.5558170080184937,
+        "ApplicationProcess": 0.6485316753387451,
+        "TimelineFrequency": 0.5003181099891663,
+        "AuthoritiesGovernance": 0.3932127058506012,
+        "DefinitionsReferences": 0.4439016580581665
+      }
+    },
+    {
+      "sentence": "They must provide necessary documents such as identity proof, address proof, and caste certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.616992712020874,
+      "similarities": {
+        "ContextObjective": 0.4678823947906494,
+        "BenefitsAssistance": 0.5131072998046875,
+        "Eligibility": 0.5389193296432495,
+        "ApplicationProcess": 0.616992712020874,
+        "TimelineFrequency": 0.46961531043052673,
+        "AuthoritiesGovernance": 0.47589054703712463,
+        "DefinitionsReferences": 0.5028648972511292
+      }
+    },
+    {
+      "sentence": "A detailed project report outlining the business plan is also required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5057015419006348,
+      "similarities": {
+        "ContextObjective": 0.49906468391418457,
+        "BenefitsAssistance": 0.49262383580207825,
+        "Eligibility": 0.45796138048171997,
+        "ApplicationProcess": 0.5057015419006348,
+        "TimelineFrequency": 0.44034790992736816,
+        "AuthoritiesGovernance": 0.3973608911037445,
+        "DefinitionsReferences": 0.4485415816307068
+      }
+    },
+    {
+      "sentence": "Banks will assess the application based on the viability of the business proposal.",
+      "role": "Eligibility",
+      "confidence": 0.5553656816482544,
+      "similarities": {
+        "ContextObjective": 0.5209742188453674,
+        "BenefitsAssistance": 0.4551292061805725,
+        "Eligibility": 0.5553656816482544,
+        "ApplicationProcess": 0.5280874967575073,
+        "TimelineFrequency": 0.5033653974533081,
+        "AuthoritiesGovernance": 0.3640497624874115,
+        "DefinitionsReferences": 0.4246212840080261
+      }
+    },
+    {
+      "sentence": "Once approved, the loan amount is disbursed in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5144681930541992,
+      "similarities": {
+        "ContextObjective": 0.40475791692733765,
+        "BenefitsAssistance": 0.5144681930541992,
+        "Eligibility": 0.43693315982818604,
+        "ApplicationProcess": 0.45957067608833313,
+        "TimelineFrequency": 0.45003941655158997,
+        "AuthoritiesGovernance": 0.3886678218841553,
+        "DefinitionsReferences": 0.37448424100875854
+      }
+    },
+    {
+      "sentence": "The repayment period for the loan can extend up to seven years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5222942233085632,
+      "similarities": {
+        "ContextObjective": 0.4633136987686157,
+        "BenefitsAssistance": 0.5119800567626953,
+        "Eligibility": 0.4967271685600281,
+        "ApplicationProcess": 0.4553333818912506,
+        "TimelineFrequency": 0.5222942233085632,
+        "AuthoritiesGovernance": 0.38825756311416626,
+        "DefinitionsReferences": 0.4317159354686737
+      }
+    },
+    {
+      "sentence": "Interest rates are determined by the lending banks and are typically in line with the prevailing market rates.",
+      "role": "TimelineFrequency",
+      "confidence": 0.44539955258369446,
+      "similarities": {
+        "ContextObjective": 0.41099119186401367,
+        "BenefitsAssistance": 0.43930238485336304,
+        "Eligibility": 0.4249652922153473,
+        "ApplicationProcess": 0.41312819719314575,
+        "TimelineFrequency": 0.44539955258369446,
+        "AuthoritiesGovernance": 0.443694144487381,
+        "DefinitionsReferences": 0.4388386607170105
+      }
+    },
+    {
+      "sentence": "The scheme also provides for a credit guarantee through the Credit Guarantee Fund for Micro and Small Enterprises.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.486335813999176,
+      "similarities": {
+        "ContextObjective": 0.45769909024238586,
+        "BenefitsAssistance": 0.486335813999176,
+        "Eligibility": 0.45687031745910645,
+        "ApplicationProcess": 0.4215114712715149,
+        "TimelineFrequency": 0.3832855224609375,
+        "AuthoritiesGovernance": 0.3774576187133789,
+        "DefinitionsReferences": 0.35398387908935547
+      }
+    },
+    {
+      "sentence": "This fund covers up to 75% of the loan amount in case of default.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5417304039001465,
+      "similarities": {
+        "ContextObjective": 0.39388883113861084,
+        "BenefitsAssistance": 0.5417304039001465,
+        "Eligibility": 0.4838046431541443,
+        "ApplicationProcess": 0.4074908494949341,
+        "TimelineFrequency": 0.40489545464515686,
+        "AuthoritiesGovernance": 0.3414608836174011,
+        "DefinitionsReferences": 0.3820088505744934
+      }
+    },
+    {
+      "sentence": "The implementation of the Stand-Up India scheme is overseen by the Department of Financial Services under the Ministry of Finance.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5029926896095276,
+      "similarities": {
+        "ContextObjective": 0.4576912224292755,
+        "BenefitsAssistance": 0.4867680072784424,
+        "Eligibility": 0.4628434181213379,
+        "ApplicationProcess": 0.41785186529159546,
+        "TimelineFrequency": 0.34808585047721863,
+        "AuthoritiesGovernance": 0.5029926896095276,
+        "DefinitionsReferences": 0.3802783489227295
+      }
+    },
+    {
+      "sentence": "The scheme is supported by various public sector banks and private sector banks across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.545359194278717,
+      "similarities": {
+        "ContextObjective": 0.545359194278717,
+        "BenefitsAssistance": 0.5349016189575195,
+        "Eligibility": 0.5253770351409912,
+        "ApplicationProcess": 0.4681965708732605,
+        "TimelineFrequency": 0.44987624883651733,
+        "AuthoritiesGovernance": 0.49950504302978516,
+        "DefinitionsReferences": 0.4598967134952545
+      }
+    },
+    {
+      "sentence": "As of March 2021, approximately 1.14 lakh loans had been sanctioned under the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4574682414531708,
+      "similarities": {
+        "ContextObjective": 0.45166540145874023,
+        "BenefitsAssistance": 0.4470326900482178,
+        "Eligibility": 0.4574682414531708,
+        "ApplicationProcess": 0.3965468406677246,
+        "TimelineFrequency": 0.408156156539917,
+        "AuthoritiesGovernance": 0.3708082437515259,
+        "DefinitionsReferences": 0.36536550521850586
+      }
+    },
+    {
+      "sentence": "The total amount disbursed was around ₹25,000 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5223730206489563,
+      "similarities": {
+        "ContextObjective": 0.34729963541030884,
+        "BenefitsAssistance": 0.5223730206489563,
+        "Eligibility": 0.3911287784576416,
+        "ApplicationProcess": 0.3535315692424774,
+        "TimelineFrequency": 0.34325772523880005,
+        "AuthoritiesGovernance": 0.3934304118156433,
+        "DefinitionsReferences": 0.3560599386692047
+      }
+    },
+    {
+      "sentence": "This indicates a significant uptake of the scheme among the target beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.49644914269447327,
+      "similarities": {
+        "ContextObjective": 0.49644914269447327,
+        "BenefitsAssistance": 0.4357725977897644,
+        "Eligibility": 0.48320886492729187,
+        "ApplicationProcess": 0.3675275444984436,
+        "TimelineFrequency": 0.3316041827201843,
+        "AuthoritiesGovernance": 0.38580769300460815,
+        "DefinitionsReferences": 0.36224088072776794
+      }
+    },
+    {
+      "sentence": "The government has also launched a mobile application to facilitate the loan application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5747331380844116,
+      "similarities": {
+        "ContextObjective": 0.46924591064453125,
+        "BenefitsAssistance": 0.49426865577697754,
+        "Eligibility": 0.49173471331596375,
+        "ApplicationProcess": 0.5747331380844116,
+        "TimelineFrequency": 0.5018952488899231,
+        "AuthoritiesGovernance": 0.4410755932331085,
+        "DefinitionsReferences": 0.4364829659461975
+      }
+    },
+    {
+      "sentence": "This app provides information about the scheme and helps users track their applications.",
+      "role": "ContextObjective",
+      "confidence": 0.5793532133102417,
+      "similarities": {
+        "ContextObjective": 0.5793532133102417,
+        "BenefitsAssistance": 0.557725191116333,
+        "Eligibility": 0.5487657189369202,
+        "ApplicationProcess": 0.5700136423110962,
+        "TimelineFrequency": 0.5763299465179443,
+        "AuthoritiesGovernance": 0.4717971086502075,
+        "DefinitionsReferences": 0.4827909767627716
+      }
+    },
+    {
+      "sentence": "The Stand-Up India scheme is part of the larger initiative to promote entrepreneurship and self-employment in India.",
+      "role": "ContextObjective",
+      "confidence": 0.5012203454971313,
+      "similarities": {
+        "ContextObjective": 0.5012203454971313,
+        "BenefitsAssistance": 0.40898507833480835,
+        "Eligibility": 0.41632288694381714,
+        "ApplicationProcess": 0.3773462772369385,
+        "TimelineFrequency": 0.34243759512901306,
+        "AuthoritiesGovernance": 0.36270880699157715,
+        "DefinitionsReferences": 0.36670011281967163
+      }
+    },
+    {
+      "sentence": "It aligns with the government's vision of creating a more inclusive economy.",
+      "role": "ContextObjective",
+      "confidence": 0.5317990183830261,
+      "similarities": {
+        "ContextObjective": 0.5317990183830261,
+        "BenefitsAssistance": 0.44660866260528564,
+        "Eligibility": 0.46761971712112427,
+        "ApplicationProcess": 0.4073292016983032,
+        "TimelineFrequency": 0.3603769838809967,
+        "AuthoritiesGovernance": 0.4331434369087219,
+        "DefinitionsReferences": 0.4088771939277649
+      }
+    },
+    {
+      "sentence": "The scheme is also aimed at reducing the unemployment rate among marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.48411494493484497,
+      "similarities": {
+        "ContextObjective": 0.48411494493484497,
+        "BenefitsAssistance": 0.3751457631587982,
+        "Eligibility": 0.4357411563396454,
+        "ApplicationProcess": 0.37440696358680725,
+        "TimelineFrequency": 0.3727884292602539,
+        "AuthoritiesGovernance": 0.4172794222831726,
+        "DefinitionsReferences": 0.29536306858062744
+      }
+    },
+    {
+      "sentence": "The government has conducted various awareness programs to educate potential beneficiaries about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5660309195518494,
+      "similarities": {
+        "ContextObjective": 0.5660309195518494,
+        "BenefitsAssistance": 0.5108944773674011,
+        "Eligibility": 0.5488907098770142,
+        "ApplicationProcess": 0.49181443452835083,
+        "TimelineFrequency": 0.4327690005302429,
+        "AuthoritiesGovernance": 0.45793843269348145,
+        "DefinitionsReferences": 0.4179244637489319
+      }
+    },
+    {
+      "sentence": "These programs are conducted in collaboration with local NGOs and community organizations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.509257972240448,
+      "similarities": {
+        "ContextObjective": 0.4785444736480713,
+        "BenefitsAssistance": 0.44372761249542236,
+        "Eligibility": 0.46380341053009033,
+        "ApplicationProcess": 0.421549916267395,
+        "TimelineFrequency": 0.42451179027557373,
+        "AuthoritiesGovernance": 0.509257972240448,
+        "DefinitionsReferences": 0.4322182536125183
+      }
+    },
+    {
+      "sentence": "The success of the Stand-Up India scheme is measured through the number of loans disbursed and the sustainability of the businesses established.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.45815497636795044,
+      "similarities": {
+        "ContextObjective": 0.457668662071228,
+        "BenefitsAssistance": 0.45815497636795044,
+        "Eligibility": 0.413540244102478,
+        "ApplicationProcess": 0.38079404830932617,
+        "TimelineFrequency": 0.3644978702068329,
+        "AuthoritiesGovernance": 0.35165509581565857,
+        "DefinitionsReferences": 0.3882293105125427
+      }
+    },
+    {
+      "sentence": "The government regularly reviews the progress of the scheme and makes necessary adjustments.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5249123573303223,
+      "similarities": {
+        "ContextObjective": 0.4874187707901001,
+        "BenefitsAssistance": 0.48604947328567505,
+        "Eligibility": 0.4808524549007416,
+        "ApplicationProcess": 0.5249123573303223,
+        "TimelineFrequency": 0.4679100513458252,
+        "AuthoritiesGovernance": 0.47465866804122925,
+        "DefinitionsReferences": 0.45113837718963623
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme provides mentorship and guidance to new entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.5003440976142883,
+      "similarities": {
+        "ContextObjective": 0.5003440976142883,
+        "BenefitsAssistance": 0.49021822214126587,
+        "Eligibility": 0.4476351737976074,
+        "ApplicationProcess": 0.40172815322875977,
+        "TimelineFrequency": 0.3880428969860077,
+        "AuthoritiesGovernance": 0.366512656211853,
+        "DefinitionsReferences": 0.4082132577896118
+      }
+    },
+    {
+      "sentence": "This support is crucial for the long-term success of the businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.4714757204055786,
+      "similarities": {
+        "ContextObjective": 0.4714757204055786,
+        "BenefitsAssistance": 0.46533578634262085,
+        "Eligibility": 0.4226735234260559,
+        "ApplicationProcess": 0.3906976580619812,
+        "TimelineFrequency": 0.38831645250320435,
+        "AuthoritiesGovernance": 0.38036078214645386,
+        "DefinitionsReferences": 0.45304977893829346
+      }
+    },
+    {
+      "sentence": "The Stand-Up India scheme has been instrumental in empowering women entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.4580655097961426,
+      "similarities": {
+        "ContextObjective": 0.4580655097961426,
+        "BenefitsAssistance": 0.3545931577682495,
+        "Eligibility": 0.38205647468566895,
+        "ApplicationProcess": 0.2893672585487366,
+        "TimelineFrequency": 0.29142099618911743,
+        "AuthoritiesGovernance": 0.31763431429862976,
+        "DefinitionsReferences": 0.3354558050632477
+      }
+    },
+    {
+      "sentence": "Women constitute a significant portion of the beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5019863247871399,
+      "similarities": {
+        "ContextObjective": 0.43639469146728516,
+        "BenefitsAssistance": 0.5007396936416626,
+        "Eligibility": 0.5019863247871399,
+        "ApplicationProcess": 0.3613499402999878,
+        "TimelineFrequency": 0.38826876878738403,
+        "AuthoritiesGovernance": 0.4280390739440918,
+        "DefinitionsReferences": 0.4185957908630371
+      }
+    },
+    {
+      "sentence": "The scheme has also contributed to the economic development of rural and semi-urban areas.",
+      "role": "ContextObjective",
+      "confidence": 0.4593503773212433,
+      "similarities": {
+        "ContextObjective": 0.4593503773212433,
+        "BenefitsAssistance": 0.4025086760520935,
+        "Eligibility": 0.40933746099472046,
+        "ApplicationProcess": 0.37976640462875366,
+        "TimelineFrequency": 0.3497627377510071,
+        "AuthoritiesGovernance": 0.3654623031616211,
+        "DefinitionsReferences": 0.3771907091140747
+      }
+    },
+    {
+      "sentence": "By promoting entrepreneurship, the government aims to reduce dependency on traditional employment.",
+      "role": "ContextObjective",
+      "confidence": 0.42204707860946655,
+      "similarities": {
+        "ContextObjective": 0.42204707860946655,
+        "BenefitsAssistance": 0.3602340817451477,
+        "Eligibility": 0.3958972096443176,
+        "ApplicationProcess": 0.388416588306427,
+        "TimelineFrequency": 0.36705368757247925,
+        "AuthoritiesGovernance": 0.4030890464782715,
+        "DefinitionsReferences": 0.3541511297225952
+      }
+    },
+    {
+      "sentence": "The scheme encourages innovation and creativity among young entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.49491971731185913,
+      "similarities": {
+        "ContextObjective": 0.49491971731185913,
+        "BenefitsAssistance": 0.3535810112953186,
+        "Eligibility": 0.38405150175094604,
+        "ApplicationProcess": 0.35409703850746155,
+        "TimelineFrequency": 0.3492887616157532,
+        "AuthoritiesGovernance": 0.31789109110832214,
+        "DefinitionsReferences": 0.3254583775997162
+      }
+    },
+    {
+      "sentence": "It also fosters a culture of self-reliance and independence.",
+      "role": "ContextObjective",
+      "confidence": 0.443737268447876,
+      "similarities": {
+        "ContextObjective": 0.443737268447876,
+        "BenefitsAssistance": 0.3975766599178314,
+        "Eligibility": 0.3512836694717407,
+        "ApplicationProcess": 0.34661728143692017,
+        "TimelineFrequency": 0.34302109479904175,
+        "AuthoritiesGovernance": 0.354234516620636,
+        "DefinitionsReferences": 0.39262765645980835
+      }
+    },
+    {
+      "sentence": "The Stand-Up India scheme has received positive feedback from various stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.5266321301460266,
+      "similarities": {
+        "ContextObjective": 0.5266321301460266,
+        "BenefitsAssistance": 0.4323759973049164,
+        "Eligibility": 0.4691506028175354,
+        "ApplicationProcess": 0.3904150128364563,
+        "TimelineFrequency": 0.36178815364837646,
+        "AuthoritiesGovernance": 0.41325807571411133,
+        "DefinitionsReferences": 0.40918317437171936
+      }
+    },
+    {
+      "sentence": "Beneficiaries have reported increased confidence and improved financial literacy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5294704437255859,
+      "similarities": {
+        "ContextObjective": 0.4334428012371063,
+        "BenefitsAssistance": 0.5294704437255859,
+        "Eligibility": 0.4507131576538086,
+        "ApplicationProcess": 0.3915412127971649,
+        "TimelineFrequency": 0.35004401206970215,
+        "AuthoritiesGovernance": 0.35710597038269043,
+        "DefinitionsReferences": 0.39767986536026
+      }
+    },
+    {
+      "sentence": "The scheme has also been recognized for its role in promoting gender equality in entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.5031757950782776,
+      "similarities": {
+        "ContextObjective": 0.5031757950782776,
+        "BenefitsAssistance": 0.3703087866306305,
+        "Eligibility": 0.41588589549064636,
+        "ApplicationProcess": 0.3770574927330017,
+        "TimelineFrequency": 0.36895042657852173,
+        "AuthoritiesGovernance": 0.35265374183654785,
+        "DefinitionsReferences": 0.34885066747665405
+      }
+    },
+    {
+      "sentence": "The government continues to promote the scheme through various channels.",
+      "role": "ContextObjective",
+      "confidence": 0.5922545194625854,
+      "similarities": {
+        "ContextObjective": 0.5922545194625854,
+        "BenefitsAssistance": 0.4952619671821594,
+        "Eligibility": 0.49079933762550354,
+        "ApplicationProcess": 0.5005918741226196,
+        "TimelineFrequency": 0.46188318729400635,
+        "AuthoritiesGovernance": 0.5240761637687683,
+        "DefinitionsReferences": 0.4897231459617615
+      }
+    },
+    {
+      "sentence": "This includes social media campaigns and outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5267572999000549,
+      "similarities": {
+        "ContextObjective": 0.5267572999000549,
+        "BenefitsAssistance": 0.4923079311847687,
+        "Eligibility": 0.4936861991882324,
+        "ApplicationProcess": 0.47981929779052734,
+        "TimelineFrequency": 0.461225688457489,
+        "AuthoritiesGovernance": 0.5073468089103699,
+        "DefinitionsReferences": 0.505244255065918
+      }
+    },
+    {
+      "sentence": "The Stand-Up India scheme is a vital component of the government's efforts to boost the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.49926796555519104,
+      "similarities": {
+        "ContextObjective": 0.49926796555519104,
+        "BenefitsAssistance": 0.41485947370529175,
+        "Eligibility": 0.4150516986846924,
+        "ApplicationProcess": 0.38380396366119385,
+        "TimelineFrequency": 0.3524349331855774,
+        "AuthoritiesGovernance": 0.3771178722381592,
+        "DefinitionsReferences": 0.3877422511577606
+      }
+    },
+    {
+      "sentence": "It plays a crucial role in achieving the goal of Atmanirbhar Bharat or self-reliant India.",
+      "role": "ContextObjective",
+      "confidence": 0.5061315298080444,
+      "similarities": {
+        "ContextObjective": 0.5061315298080444,
+        "BenefitsAssistance": 0.3987511396408081,
+        "Eligibility": 0.41471272706985474,
+        "ApplicationProcess": 0.4002377390861511,
+        "TimelineFrequency": 0.36605268716812134,
+        "AuthoritiesGovernance": 0.3799629211425781,
+        "DefinitionsReferences": 0.3811485171318054
+      }
+    },
+    {
+      "sentence": "The scheme is expected to evolve with changing economic conditions and needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5987913012504578,
+      "similarities": {
+        "ContextObjective": 0.5987913012504578,
+        "BenefitsAssistance": 0.5331032276153564,
+        "Eligibility": 0.5487709045410156,
+        "ApplicationProcess": 0.4987865686416626,
+        "TimelineFrequency": 0.49453291296958923,
+        "AuthoritiesGovernance": 0.4524742662906647,
+        "DefinitionsReferences": 0.43708449602127075
+      }
+    },
+    {
+      "sentence": "Future enhancements may include additional support services and financial products.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6236606240272522,
+      "similarities": {
+        "ContextObjective": 0.498909056186676,
+        "BenefitsAssistance": 0.6236606240272522,
+        "Eligibility": 0.4721682071685791,
+        "ApplicationProcess": 0.4395045340061188,
+        "TimelineFrequency": 0.44922196865081787,
+        "AuthoritiesGovernance": 0.41375333070755005,
+        "DefinitionsReferences": 0.4830971360206604
+      }
+    },
+    {
+      "sentence": "Overall, Stand-Up India represents a significant step towards inclusive growth in the Indian economy.",
+      "role": "ContextObjective",
+      "confidence": 0.4458999037742615,
+      "similarities": {
+        "ContextObjective": 0.4458999037742615,
+        "BenefitsAssistance": 0.41981565952301025,
+        "Eligibility": 0.40539097785949707,
+        "ApplicationProcess": 0.3401665687561035,
+        "TimelineFrequency": 0.3189716935157776,
+        "AuthoritiesGovernance": 0.35126328468322754,
+        "DefinitionsReferences": 0.3902949392795563
+      }
+    },
+    {
+      "sentence": "It empowers marginalized communities to take charge of their economic futures.",
+      "role": "ContextObjective",
+      "confidence": 0.4723105728626251,
+      "similarities": {
+        "ContextObjective": 0.4723105728626251,
+        "BenefitsAssistance": 0.41637760400772095,
+        "Eligibility": 0.426713228225708,
+        "ApplicationProcess": 0.33663827180862427,
+        "TimelineFrequency": 0.34921714663505554,
+        "AuthoritiesGovernance": 0.4337361454963684,
+        "DefinitionsReferences": 0.3557499051094055
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to social justice and economic equity.",
+      "role": "ContextObjective",
+      "confidence": 0.5104986429214478,
+      "similarities": {
+        "ContextObjective": 0.5104986429214478,
+        "BenefitsAssistance": 0.4254492521286011,
+        "Eligibility": 0.4521217942237854,
+        "ApplicationProcess": 0.4042825400829315,
+        "TimelineFrequency": 0.35877475142478943,
+        "AuthoritiesGovernance": 0.38956940174102783,
+        "DefinitionsReferences": 0.3974417448043823
+      }
+    },
+    {
+      "sentence": "In conclusion, Stand-Up India is a comprehensive initiative aimed at fostering entrepreneurship among Scheduled Castes, Scheduled Tribes, and women.",
+      "role": "ContextObjective",
+      "confidence": 0.46332740783691406,
+      "similarities": {
+        "ContextObjective": 0.46332740783691406,
+        "BenefitsAssistance": 0.39641958475112915,
+        "Eligibility": 0.4035493731498718,
+        "ApplicationProcess": 0.3348844051361084,
+        "TimelineFrequency": 0.3411861062049866,
+        "AuthoritiesGovernance": 0.37506452202796936,
+        "DefinitionsReferences": 0.383638471364975
+      }
+    },
+    {
+      "sentence": "It provides financial assistance, training, and mentorship to help establish sustainable businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.5079978704452515,
+      "similarities": {
+        "ContextObjective": 0.5079978704452515,
+        "BenefitsAssistance": 0.4836401045322418,
+        "Eligibility": 0.4503168761730194,
+        "ApplicationProcess": 0.4296887516975403,
+        "TimelineFrequency": 0.4144935607910156,
+        "AuthoritiesGovernance": 0.418570876121521,
+        "DefinitionsReferences": 0.4301610589027405
+      }
+    },
+    {
+      "sentence": "The scheme is designed to create jobs and promote self-employment in India.",
+      "role": "ContextObjective",
+      "confidence": 0.555245578289032,
+      "similarities": {
+        "ContextObjective": 0.555245578289032,
+        "BenefitsAssistance": 0.3980557918548584,
+        "Eligibility": 0.45294374227523804,
+        "ApplicationProcess": 0.42472922801971436,
+        "TimelineFrequency": 0.39047133922576904,
+        "AuthoritiesGovernance": 0.3539265990257263,
+        "DefinitionsReferences": 0.33141058683395386
+      }
+    },
+    {
+      "sentence": "With specific targets and measurable outcomes, Stand-Up India is a pivotal program in the landscape of Indian welfare schemes.",
+      "role": "ContextObjective",
+      "confidence": 0.53541100025177,
+      "similarities": {
+        "ContextObjective": 0.53541100025177,
+        "BenefitsAssistance": 0.4177929759025574,
+        "Eligibility": 0.48647788166999817,
+        "ApplicationProcess": 0.3624916076660156,
+        "TimelineFrequency": 0.35266685485839844,
+        "AuthoritiesGovernance": 0.4048844575881958,
+        "DefinitionsReferences": 0.38655343651771545
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 34,
+    "Eligibility": 8,
+    "BenefitsAssistance": 11,
+    "AuthoritiesGovernance": 3,
+    "ApplicationProcess": 6,
+    "TimelineFrequency": 2
+  },
+  "processing_timestamp": "2025-09-25T20:30:46.444439"
+}

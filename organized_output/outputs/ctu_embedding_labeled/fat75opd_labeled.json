@@ -1,0 +1,841 @@
+{
+  "scheme_name": "Financial Assistance to 75% or Permanent Disability",
+  "total_sentences": 59,
+  "labeled_sentences": [
+    {
+      "sentence": "The Financial Assistance to 75% or Permanent Disability scheme is a significant initiative launched by the Government of India to support individuals who are severely disabled.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.56443190574646,
+      "similarities": {
+        "ContextObjective": 0.5464780926704407,
+        "BenefitsAssistance": 0.56443190574646,
+        "Eligibility": 0.5469683408737183,
+        "ApplicationProcess": 0.45021286606788635,
+        "TimelineFrequency": 0.4389462471008301,
+        "AuthoritiesGovernance": 0.464921772480011,
+        "DefinitionsReferences": 0.39031076431274414
+      }
+    },
+    {
+      "sentence": "This scheme was officially launched on 1st April 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.6008753776550293,
+      "similarities": {
+        "ContextObjective": 0.6008753776550293,
+        "BenefitsAssistance": 0.4368444085121155,
+        "Eligibility": 0.4745972752571106,
+        "ApplicationProcess": 0.46974143385887146,
+        "TimelineFrequency": 0.47257906198501587,
+        "AuthoritiesGovernance": 0.4411945044994354,
+        "DefinitionsReferences": 0.3454034924507141
+      }
+    },
+    {
+      "sentence": "It aims to provide financial support to individuals who have a disability that is 75% or more.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5988218188285828,
+      "similarities": {
+        "ContextObjective": 0.5068295001983643,
+        "BenefitsAssistance": 0.5988218188285828,
+        "Eligibility": 0.5634585618972778,
+        "ApplicationProcess": 0.44812512397766113,
+        "TimelineFrequency": 0.44129449129104614,
+        "AuthoritiesGovernance": 0.4254344701766968,
+        "DefinitionsReferences": 0.39834803342819214
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to ensure that individuals with severe disabilities can lead a dignified life.",
+      "role": "ContextObjective",
+      "confidence": 0.5758769512176514,
+      "similarities": {
+        "ContextObjective": 0.5758769512176514,
+        "BenefitsAssistance": 0.43328961730003357,
+        "Eligibility": 0.5149478912353516,
+        "ApplicationProcess": 0.4473549723625183,
+        "TimelineFrequency": 0.38345274329185486,
+        "AuthoritiesGovernance": 0.4258294403553009,
+        "DefinitionsReferences": 0.3678498864173889
+      }
+    },
+    {
+      "sentence": "The scheme seeks to empower these individuals by providing them with the necessary financial assistance to cover their basic needs.",
+      "role": "ContextObjective",
+      "confidence": 0.5629940032958984,
+      "similarities": {
+        "ContextObjective": 0.5629940032958984,
+        "BenefitsAssistance": 0.5611739158630371,
+        "Eligibility": 0.5559519529342651,
+        "ApplicationProcess": 0.47035324573516846,
+        "TimelineFrequency": 0.4286208152770996,
+        "AuthoritiesGovernance": 0.45549488067626953,
+        "DefinitionsReferences": 0.3879236578941345
+      }
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹3,000 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5533234477043152,
+      "similarities": {
+        "ContextObjective": 0.46672579646110535,
+        "BenefitsAssistance": 0.5533234477043152,
+        "Eligibility": 0.5052695274353027,
+        "ApplicationProcess": 0.42577457427978516,
+        "TimelineFrequency": 0.40545350313186646,
+        "AuthoritiesGovernance": 0.39416003227233887,
+        "DefinitionsReferences": 0.3519393801689148
+      }
+    },
+    {
+      "sentence": "This amount is intended to help cover essential expenses such as food, healthcare, and other daily needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6587533950805664,
+      "similarities": {
+        "ContextObjective": 0.4786388874053955,
+        "BenefitsAssistance": 0.6587533950805664,
+        "Eligibility": 0.4951803386211395,
+        "ApplicationProcess": 0.46492671966552734,
+        "TimelineFrequency": 0.4571799039840698,
+        "AuthoritiesGovernance": 0.4359271228313446,
+        "DefinitionsReferences": 0.4879366457462311
+      }
+    },
+    {
+      "sentence": "The scheme is designed to alleviate the financial burden on families that have a member with a severe disability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5395355224609375,
+      "similarities": {
+        "ContextObjective": 0.4786761701107025,
+        "BenefitsAssistance": 0.5395355224609375,
+        "Eligibility": 0.5224542617797852,
+        "ApplicationProcess": 0.41598138213157654,
+        "TimelineFrequency": 0.38118094205856323,
+        "AuthoritiesGovernance": 0.3837190270423889,
+        "DefinitionsReferences": 0.3128635585308075
+      }
+    },
+    {
+      "sentence": "The assistance is provided on a monthly basis to ensure a steady flow of income for the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5574483275413513,
+      "similarities": {
+        "ContextObjective": 0.4645736813545227,
+        "BenefitsAssistance": 0.5574483275413513,
+        "Eligibility": 0.5394951105117798,
+        "ApplicationProcess": 0.46140047907829285,
+        "TimelineFrequency": 0.4712375998497009,
+        "AuthoritiesGovernance": 0.4430747628211975,
+        "DefinitionsReferences": 0.4089527428150177
+      }
+    },
+    {
+      "sentence": "To be eligible for this scheme, applicants must have a disability certification indicating a disability of 75% or more.",
+      "role": "Eligibility",
+      "confidence": 0.5949563384056091,
+      "similarities": {
+        "ContextObjective": 0.4812397062778473,
+        "BenefitsAssistance": 0.4966309666633606,
+        "Eligibility": 0.5949563384056091,
+        "ApplicationProcess": 0.5531752109527588,
+        "TimelineFrequency": 0.4840274453163147,
+        "AuthoritiesGovernance": 0.370358943939209,
+        "DefinitionsReferences": 0.37894147634506226
+      }
+    },
+    {
+      "sentence": "This certification must be issued by a recognized medical authority.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5204387903213501,
+      "similarities": {
+        "ContextObjective": 0.40956246852874756,
+        "BenefitsAssistance": 0.4268141984939575,
+        "Eligibility": 0.5058723092079163,
+        "ApplicationProcess": 0.5204387903213501,
+        "TimelineFrequency": 0.4270121455192566,
+        "AuthoritiesGovernance": 0.43359994888305664,
+        "DefinitionsReferences": 0.4338984787464142
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a minimum of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.6041050553321838,
+      "similarities": {
+        "ContextObjective": 0.4702110290527344,
+        "BenefitsAssistance": 0.43510204553604126,
+        "Eligibility": 0.6041050553321838,
+        "ApplicationProcess": 0.545436680316925,
+        "TimelineFrequency": 0.5303551554679871,
+        "AuthoritiesGovernance": 0.3985854983329773,
+        "DefinitionsReferences": 0.3928983509540558
+      }
+    },
+    {
+      "sentence": "There is no upper age limit specified for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.553550660610199,
+      "similarities": {
+        "ContextObjective": 0.4173370897769928,
+        "BenefitsAssistance": 0.43030470609664917,
+        "Eligibility": 0.553550660610199,
+        "ApplicationProcess": 0.43465837836265564,
+        "TimelineFrequency": 0.4378731846809387,
+        "AuthoritiesGovernance": 0.35705387592315674,
+        "DefinitionsReferences": 0.3461036682128906
+      }
+    },
+    {
+      "sentence": "The income criteria for eligibility is that the annual income of the applicant must not exceed ₹3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5912803411483765,
+      "similarities": {
+        "ContextObjective": 0.46746838092803955,
+        "BenefitsAssistance": 0.46948808431625366,
+        "Eligibility": 0.5912803411483765,
+        "ApplicationProcess": 0.5129297971725464,
+        "TimelineFrequency": 0.4543989300727844,
+        "AuthoritiesGovernance": 0.3341577649116516,
+        "DefinitionsReferences": 0.3684645891189575
+      }
+    },
+    {
+      "sentence": "This income limit is designed to target support to those who are most in need.",
+      "role": "Eligibility",
+      "confidence": 0.5958396792411804,
+      "similarities": {
+        "ContextObjective": 0.48556089401245117,
+        "BenefitsAssistance": 0.5484349727630615,
+        "Eligibility": 0.5958396792411804,
+        "ApplicationProcess": 0.4100135564804077,
+        "TimelineFrequency": 0.4357653260231018,
+        "AuthoritiesGovernance": 0.40734994411468506,
+        "DefinitionsReferences": 0.39441952109336853
+      }
+    },
+    {
+      "sentence": "Applicants must also be Indian citizens residing in India to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5915256142616272,
+      "similarities": {
+        "ContextObjective": 0.4737645387649536,
+        "BenefitsAssistance": 0.4118906855583191,
+        "Eligibility": 0.5915256142616272,
+        "ApplicationProcess": 0.5373925566673279,
+        "TimelineFrequency": 0.442491352558136,
+        "AuthoritiesGovernance": 0.3632931709289551,
+        "DefinitionsReferences": 0.3399032950401306
+      }
+    },
+    {
+      "sentence": "The application process for the Financial Assistance to 75% or Permanent Disability scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5388399958610535,
+      "similarities": {
+        "ContextObjective": 0.5017789602279663,
+        "BenefitsAssistance": 0.5247080326080322,
+        "Eligibility": 0.5206842422485352,
+        "ApplicationProcess": 0.5388399958610535,
+        "TimelineFrequency": 0.46801450848579407,
+        "AuthoritiesGovernance": 0.39263975620269775,
+        "DefinitionsReferences": 0.3606586158275604
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the Department of Empowerment of Persons with Disabilities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5720354318618774,
+      "similarities": {
+        "ContextObjective": 0.4489024877548218,
+        "BenefitsAssistance": 0.4307152032852173,
+        "Eligibility": 0.5635411739349365,
+        "ApplicationProcess": 0.5720354318618774,
+        "TimelineFrequency": 0.4693254232406616,
+        "AuthoritiesGovernance": 0.4454067349433899,
+        "DefinitionsReferences": 0.40417933464050293
+      }
+    },
+    {
+      "sentence": "They will need to fill out the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7382572889328003,
+      "similarities": {
+        "ContextObjective": 0.4892125725746155,
+        "BenefitsAssistance": 0.5060961842536926,
+        "Eligibility": 0.6287505030632019,
+        "ApplicationProcess": 0.7382572889328003,
+        "TimelineFrequency": 0.5719526410102844,
+        "AuthoritiesGovernance": 0.4614022672176361,
+        "DefinitionsReferences": 0.4607151746749878
+      }
+    },
+    {
+      "sentence": "The application form requires personal details such as name, address, and contact information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7163137793540955,
+      "similarities": {
+        "ContextObjective": 0.5165164470672607,
+        "BenefitsAssistance": 0.5747201442718506,
+        "Eligibility": 0.6413605213165283,
+        "ApplicationProcess": 0.7163137793540955,
+        "TimelineFrequency": 0.5951284766197205,
+        "AuthoritiesGovernance": 0.4980281591415405,
+        "DefinitionsReferences": 0.5378036499023438
+      }
+    },
+    {
+      "sentence": "Applicants must also provide details of their disability and attach the disability certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6109229922294617,
+      "similarities": {
+        "ContextObjective": 0.45106178522109985,
+        "BenefitsAssistance": 0.5504626035690308,
+        "Eligibility": 0.5747613906860352,
+        "ApplicationProcess": 0.6109229922294617,
+        "TimelineFrequency": 0.5160351395606995,
+        "AuthoritiesGovernance": 0.4239150881767273,
+        "DefinitionsReferences": 0.4249895215034485
+      }
+    },
+    {
+      "sentence": "Additionally, proof of income must be submitted to verify eligibility.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6573622226715088,
+      "similarities": {
+        "ContextObjective": 0.4756704568862915,
+        "BenefitsAssistance": 0.5655593872070312,
+        "Eligibility": 0.619225263595581,
+        "ApplicationProcess": 0.6573622226715088,
+        "TimelineFrequency": 0.5200060606002808,
+        "AuthoritiesGovernance": 0.3977186381816864,
+        "DefinitionsReferences": 0.4577411413192749
+      }
+    },
+    {
+      "sentence": "Documents required for the application include a government-issued ID, disability certificate, and income proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6526414752006531,
+      "similarities": {
+        "ContextObjective": 0.478773832321167,
+        "BenefitsAssistance": 0.6023200154304504,
+        "Eligibility": 0.5913898348808289,
+        "ApplicationProcess": 0.6526414752006531,
+        "TimelineFrequency": 0.5290561318397522,
+        "AuthoritiesGovernance": 0.44236892461776733,
+        "DefinitionsReferences": 0.5096968412399292
+      }
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted online through the designated portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6844589710235596,
+      "similarities": {
+        "ContextObjective": 0.4216623306274414,
+        "BenefitsAssistance": 0.4342195987701416,
+        "Eligibility": 0.5387410521507263,
+        "ApplicationProcess": 0.6844589710235596,
+        "TimelineFrequency": 0.5253696441650391,
+        "AuthoritiesGovernance": 0.4150530695915222,
+        "DefinitionsReferences": 0.4005610942840576
+      }
+    },
+    {
+      "sentence": "After submission, the application will be reviewed by the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6920980215072632,
+      "similarities": {
+        "ContextObjective": 0.5300803184509277,
+        "BenefitsAssistance": 0.46694621443748474,
+        "Eligibility": 0.609640896320343,
+        "ApplicationProcess": 0.6920980215072632,
+        "TimelineFrequency": 0.5874599814414978,
+        "AuthoritiesGovernance": 0.5177093744277954,
+        "DefinitionsReferences": 0.4970133900642395
+      }
+    },
+    {
+      "sentence": "The timeline for processing applications is typically around 30 to 45 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6632591485977173,
+      "similarities": {
+        "ContextObjective": 0.4907133877277374,
+        "BenefitsAssistance": 0.4987434148788452,
+        "Eligibility": 0.5666991472244263,
+        "ApplicationProcess": 0.6265289783477783,
+        "TimelineFrequency": 0.6632591485977173,
+        "AuthoritiesGovernance": 0.47413820028305054,
+        "DefinitionsReferences": 0.45899906754493713
+      }
+    },
+    {
+      "sentence": "Upon approval, beneficiaries will receive the financial assistance directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5734270811080933,
+      "similarities": {
+        "ContextObjective": 0.42884886264801025,
+        "BenefitsAssistance": 0.5734270811080933,
+        "Eligibility": 0.5659362077713013,
+        "ApplicationProcess": 0.5029114484786987,
+        "TimelineFrequency": 0.42834365367889404,
+        "AuthoritiesGovernance": 0.45200395584106445,
+        "DefinitionsReferences": 0.39281463623046875
+      }
+    },
+    {
+      "sentence": "The disbursement of funds is conducted on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6158709526062012,
+      "similarities": {
+        "ContextObjective": 0.501283586025238,
+        "BenefitsAssistance": 0.6158709526062012,
+        "Eligibility": 0.5264939069747925,
+        "ApplicationProcess": 0.5109366178512573,
+        "TimelineFrequency": 0.5638320446014404,
+        "AuthoritiesGovernance": 0.5066821575164795,
+        "DefinitionsReferences": 0.4492208957672119
+      }
+    },
+    {
+      "sentence": "This ensures that beneficiaries receive their assistance regularly without delays.",
+      "role": "Eligibility",
+      "confidence": 0.4992676377296448,
+      "similarities": {
+        "ContextObjective": 0.4290846586227417,
+        "BenefitsAssistance": 0.49249768257141113,
+        "Eligibility": 0.4992676377296448,
+        "ApplicationProcess": 0.4241972863674164,
+        "TimelineFrequency": 0.46464642882347107,
+        "AuthoritiesGovernance": 0.442518949508667,
+        "DefinitionsReferences": 0.35673946142196655
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Empowerment of Persons with Disabilities under the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5724287033081055,
+      "similarities": {
+        "ContextObjective": 0.47793954610824585,
+        "BenefitsAssistance": 0.40317708253860474,
+        "Eligibility": 0.49518707394599915,
+        "ApplicationProcess": 0.4023676812648773,
+        "TimelineFrequency": 0.3561059832572937,
+        "AuthoritiesGovernance": 0.5724287033081055,
+        "DefinitionsReferences": 0.3821852207183838
+      }
+    },
+    {
+      "sentence": "For any inquiries or assistance, individuals can contact the department through their official helpline number.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5433025360107422,
+      "similarities": {
+        "ContextObjective": 0.38204425573349,
+        "BenefitsAssistance": 0.4703793227672577,
+        "Eligibility": 0.4732551574707031,
+        "ApplicationProcess": 0.47214001417160034,
+        "TimelineFrequency": 0.3955368399620056,
+        "AuthoritiesGovernance": 0.5433025360107422,
+        "DefinitionsReferences": 0.3984544575214386
+      }
+    },
+    {
+      "sentence": "The helpline number is 1800 112 111.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4743990898132324,
+      "similarities": {
+        "ContextObjective": 0.39578136801719666,
+        "BenefitsAssistance": 0.4743990898132324,
+        "Eligibility": 0.43740010261535645,
+        "ApplicationProcess": 0.4173341691493988,
+        "TimelineFrequency": 0.3979988694190979,
+        "AuthoritiesGovernance": 0.45155012607574463,
+        "DefinitionsReferences": 0.34133875370025635
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the Indian government to promote inclusivity and support for persons with disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.5195523500442505,
+      "similarities": {
+        "ContextObjective": 0.5195523500442505,
+        "BenefitsAssistance": 0.46078014373779297,
+        "Eligibility": 0.4966375231742859,
+        "ApplicationProcess": 0.42626073956489563,
+        "TimelineFrequency": 0.3850664794445038,
+        "AuthoritiesGovernance": 0.43653684854507446,
+        "DefinitionsReferences": 0.38602834939956665
+      }
+    },
+    {
+      "sentence": "According to the 2011 Census, approximately 2.68 crore individuals in India have some form of disability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4655136466026306,
+      "similarities": {
+        "ContextObjective": 0.3942219316959381,
+        "BenefitsAssistance": 0.4655136466026306,
+        "Eligibility": 0.4475162625312805,
+        "ApplicationProcess": 0.3635326027870178,
+        "TimelineFrequency": 0.3437081277370453,
+        "AuthoritiesGovernance": 0.4190264344215393,
+        "DefinitionsReferences": 0.3646756708621979
+      }
+    },
+    {
+      "sentence": "Of these, a significant number are likely to qualify for this scheme based on the severity of their disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.6086940169334412,
+      "similarities": {
+        "ContextObjective": 0.48873719573020935,
+        "BenefitsAssistance": 0.49167460203170776,
+        "Eligibility": 0.6086940169334412,
+        "ApplicationProcess": 0.4766901731491089,
+        "TimelineFrequency": 0.4598197937011719,
+        "AuthoritiesGovernance": 0.42184627056121826,
+        "DefinitionsReferences": 0.39489424228668213
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹1,000 crore for the implementation of this scheme in the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.5095820426940918,
+      "similarities": {
+        "ContextObjective": 0.5095820426940918,
+        "BenefitsAssistance": 0.4805687665939331,
+        "Eligibility": 0.4807589054107666,
+        "ApplicationProcess": 0.4276118576526642,
+        "TimelineFrequency": 0.42873120307922363,
+        "AuthoritiesGovernance": 0.4963257908821106,
+        "DefinitionsReferences": 0.35370466113090515
+      }
+    },
+    {
+      "sentence": "This budget is aimed at ensuring that the financial assistance reaches all eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5869548320770264,
+      "similarities": {
+        "ContextObjective": 0.480937123298645,
+        "BenefitsAssistance": 0.5627784132957458,
+        "Eligibility": 0.5869548320770264,
+        "ApplicationProcess": 0.4431688189506531,
+        "TimelineFrequency": 0.4481346905231476,
+        "AuthoritiesGovernance": 0.47330766916275024,
+        "DefinitionsReferences": 0.37878870964050293
+      }
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness and outreach.",
+      "role": "ContextObjective",
+      "confidence": 0.5527754426002502,
+      "similarities": {
+        "ContextObjective": 0.5527754426002502,
+        "BenefitsAssistance": 0.45281562209129333,
+        "Eligibility": 0.4716997444629669,
+        "ApplicationProcess": 0.4380303919315338,
+        "TimelineFrequency": 0.3939383625984192,
+        "AuthoritiesGovernance": 0.42273497581481934,
+        "DefinitionsReferences": 0.39919281005859375
+      }
+    },
+    {
+      "sentence": "Efforts are being made to ensure that individuals with disabilities are informed about their rights and available assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5878881216049194,
+      "similarities": {
+        "ContextObjective": 0.5000910758972168,
+        "BenefitsAssistance": 0.5878881216049194,
+        "Eligibility": 0.5821303129196167,
+        "ApplicationProcess": 0.540346086025238,
+        "TimelineFrequency": 0.48057225346565247,
+        "AuthoritiesGovernance": 0.5754032135009766,
+        "DefinitionsReferences": 0.5040830373764038
+      }
+    },
+    {
+      "sentence": "Workshops and seminars are being organized across various states to educate potential beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.5495318174362183,
+      "similarities": {
+        "ContextObjective": 0.5037411451339722,
+        "BenefitsAssistance": 0.5122853517532349,
+        "Eligibility": 0.5495318174362183,
+        "ApplicationProcess": 0.4568060040473938,
+        "TimelineFrequency": 0.464023232460022,
+        "AuthoritiesGovernance": 0.5113798975944519,
+        "DefinitionsReferences": 0.4629811644554138
+      }
+    },
+    {
+      "sentence": "The government is also collaborating with non-governmental organizations to reach out to marginalized communities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5247090458869934,
+      "similarities": {
+        "ContextObjective": 0.46560609340667725,
+        "BenefitsAssistance": 0.4309413433074951,
+        "Eligibility": 0.46364909410476685,
+        "ApplicationProcess": 0.39512503147125244,
+        "TimelineFrequency": 0.3650912046432495,
+        "AuthoritiesGovernance": 0.5247090458869934,
+        "DefinitionsReferences": 0.4187997281551361
+      }
+    },
+    {
+      "sentence": "Monitoring and evaluation mechanisms are in place to assess the impact of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5489494800567627,
+      "similarities": {
+        "ContextObjective": 0.5468099117279053,
+        "BenefitsAssistance": 0.5095572471618652,
+        "Eligibility": 0.5489494800567627,
+        "ApplicationProcess": 0.503300666809082,
+        "TimelineFrequency": 0.47316914796829224,
+        "AuthoritiesGovernance": 0.5404679775238037,
+        "DefinitionsReferences": 0.4474375247955322
+      }
+    },
+    {
+      "sentence": "Regular feedback from beneficiaries is collected to improve the program.",
+      "role": "Eligibility",
+      "confidence": 0.5021973252296448,
+      "similarities": {
+        "ContextObjective": 0.477090984582901,
+        "BenefitsAssistance": 0.5012417435646057,
+        "Eligibility": 0.5021973252296448,
+        "ApplicationProcess": 0.4755116105079651,
+        "TimelineFrequency": 0.4626808762550354,
+        "AuthoritiesGovernance": 0.4966665506362915,
+        "DefinitionsReferences": 0.45538926124572754
+      }
+    },
+    {
+      "sentence": "The government aims to expand the scope of the scheme in the future based on the feedback received.",
+      "role": "ContextObjective",
+      "confidence": 0.5893359184265137,
+      "similarities": {
+        "ContextObjective": 0.5893359184265137,
+        "BenefitsAssistance": 0.4573412239551544,
+        "Eligibility": 0.5259890556335449,
+        "ApplicationProcess": 0.463759183883667,
+        "TimelineFrequency": 0.4464757740497589,
+        "AuthoritiesGovernance": 0.4687013030052185,
+        "DefinitionsReferences": 0.4584186375141144
+      }
+    },
+    {
+      "sentence": "This includes potential increases in the financial assistance amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6263988018035889,
+      "similarities": {
+        "ContextObjective": 0.446487158536911,
+        "BenefitsAssistance": 0.6263988018035889,
+        "Eligibility": 0.5166367292404175,
+        "ApplicationProcess": 0.44870424270629883,
+        "TimelineFrequency": 0.4773334264755249,
+        "AuthoritiesGovernance": 0.41853761672973633,
+        "DefinitionsReferences": 0.45068415999412537
+      }
+    },
+    {
+      "sentence": "The scheme is also aligned with the United Nations Convention on the Rights of Persons with Disabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.4954870343208313,
+      "similarities": {
+        "ContextObjective": 0.4954870343208313,
+        "BenefitsAssistance": 0.4026159644126892,
+        "Eligibility": 0.4785999357700348,
+        "ApplicationProcess": 0.41919708251953125,
+        "TimelineFrequency": 0.376981258392334,
+        "AuthoritiesGovernance": 0.4252767562866211,
+        "DefinitionsReferences": 0.40196555852890015
+      }
+    },
+    {
+      "sentence": "This international treaty emphasizes the rights and dignity of persons with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.505890965461731,
+      "similarities": {
+        "ContextObjective": 0.45809829235076904,
+        "BenefitsAssistance": 0.42693859338760376,
+        "Eligibility": 0.505890965461731,
+        "ApplicationProcess": 0.4049087166786194,
+        "TimelineFrequency": 0.37268054485321045,
+        "AuthoritiesGovernance": 0.4290747046470642,
+        "DefinitionsReferences": 0.4565388560295105
+      }
+    },
+    {
+      "sentence": "The Financial Assistance to 75% or Permanent Disability scheme is a crucial step towards achieving these goals.",
+      "role": "ContextObjective",
+      "confidence": 0.5332200527191162,
+      "similarities": {
+        "ContextObjective": 0.5332200527191162,
+        "BenefitsAssistance": 0.530546247959137,
+        "Eligibility": 0.49805986881256104,
+        "ApplicationProcess": 0.4512671232223511,
+        "TimelineFrequency": 0.4088224172592163,
+        "AuthoritiesGovernance": 0.4150004982948303,
+        "DefinitionsReferences": 0.3986595869064331
+      }
+    },
+    {
+      "sentence": "It reflects the commitment of the Indian government to support its citizens with disabilities.",
+      "role": "Eligibility",
+      "confidence": 0.46713125705718994,
+      "similarities": {
+        "ContextObjective": 0.4274525046348572,
+        "BenefitsAssistance": 0.4585820436477661,
+        "Eligibility": 0.46713125705718994,
+        "ApplicationProcess": 0.406890332698822,
+        "TimelineFrequency": 0.3555927276611328,
+        "AuthoritiesGovernance": 0.41844841837882996,
+        "DefinitionsReferences": 0.41963136196136475
+      }
+    },
+    {
+      "sentence": "The scheme is expected to significantly improve the quality of life for many individuals and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.5227802991867065,
+      "similarities": {
+        "ContextObjective": 0.5227802991867065,
+        "BenefitsAssistance": 0.4712669849395752,
+        "Eligibility": 0.4994232654571533,
+        "ApplicationProcess": 0.4291161298751831,
+        "TimelineFrequency": 0.38729918003082275,
+        "AuthoritiesGovernance": 0.4076487720012665,
+        "DefinitionsReferences": 0.3774312734603882
+      }
+    },
+    {
+      "sentence": "It is a vital resource for those who often face economic hardships due to their disabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5550556182861328,
+      "similarities": {
+        "ContextObjective": 0.4588654637336731,
+        "BenefitsAssistance": 0.5550556182861328,
+        "Eligibility": 0.5488829612731934,
+        "ApplicationProcess": 0.4491764307022095,
+        "TimelineFrequency": 0.4641004800796509,
+        "AuthoritiesGovernance": 0.42416420578956604,
+        "DefinitionsReferences": 0.46218621730804443
+      }
+    },
+    {
+      "sentence": "By providing consistent financial support, the government aims to empower these individuals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.537218451499939,
+      "similarities": {
+        "ContextObjective": 0.4954261779785156,
+        "BenefitsAssistance": 0.537218451499939,
+        "Eligibility": 0.5152373313903809,
+        "ApplicationProcess": 0.43601110577583313,
+        "TimelineFrequency": 0.416718453168869,
+        "AuthoritiesGovernance": 0.511584997177124,
+        "DefinitionsReferences": 0.43413370847702026
+      }
+    },
+    {
+      "sentence": "The scheme also encourages social inclusion and participation in community life.",
+      "role": "ContextObjective",
+      "confidence": 0.5410779714584351,
+      "similarities": {
+        "ContextObjective": 0.5410779714584351,
+        "BenefitsAssistance": 0.4344084858894348,
+        "Eligibility": 0.4690758287906647,
+        "ApplicationProcess": 0.40943390130996704,
+        "TimelineFrequency": 0.37294280529022217,
+        "AuthoritiesGovernance": 0.3728587031364441,
+        "DefinitionsReferences": 0.3541593849658966
+      }
+    },
+    {
+      "sentence": "Overall, the Financial Assistance to 75% or Permanent Disability scheme represents a comprehensive approach to addressing the needs of a vulnerable population.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5443732142448425,
+      "similarities": {
+        "ContextObjective": 0.4816324710845947,
+        "BenefitsAssistance": 0.5443732142448425,
+        "Eligibility": 0.5022728443145752,
+        "ApplicationProcess": 0.42148417234420776,
+        "TimelineFrequency": 0.402155339717865,
+        "AuthoritiesGovernance": 0.4101862907409668,
+        "DefinitionsReferences": 0.36444568634033203
+      }
+    },
+    {
+      "sentence": "It is a testament to the government's efforts to create a more inclusive society for all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4844578206539154,
+      "similarities": {
+        "ContextObjective": 0.4844578206539154,
+        "BenefitsAssistance": 0.42265772819519043,
+        "Eligibility": 0.46775221824645996,
+        "ApplicationProcess": 0.39768511056900024,
+        "TimelineFrequency": 0.34491679072380066,
+        "AuthoritiesGovernance": 0.4321260452270508,
+        "DefinitionsReferences": 0.40950798988342285
+      }
+    },
+    {
+      "sentence": "The initiative is expected to have a lasting positive impact on the lives of many individuals with severe disabilities in India.",
+      "role": "ContextObjective",
+      "confidence": 0.44873565435409546,
+      "similarities": {
+        "ContextObjective": 0.44873565435409546,
+        "BenefitsAssistance": 0.39176493883132935,
+        "Eligibility": 0.44783926010131836,
+        "ApplicationProcess": 0.37159934639930725,
+        "TimelineFrequency": 0.3275958299636841,
+        "AuthoritiesGovernance": 0.3958628475666046,
+        "DefinitionsReferences": 0.3389590382575989
+      }
+    },
+    {
+      "sentence": "As of October 2023, the scheme continues to operate and evolve based on the needs of its beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5754086971282959,
+      "similarities": {
+        "ContextObjective": 0.5754086971282959,
+        "BenefitsAssistance": 0.46546319127082825,
+        "Eligibility": 0.5289365649223328,
+        "ApplicationProcess": 0.43452391028404236,
+        "TimelineFrequency": 0.4417552947998047,
+        "AuthoritiesGovernance": 0.4466347396373749,
+        "DefinitionsReferences": 0.40267372131347656
+      }
+    },
+    {
+      "sentence": "The government remains committed to ensuring that persons with disabilities receive the support they need to thrive.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4987919330596924,
+      "similarities": {
+        "ContextObjective": 0.45751041173934937,
+        "BenefitsAssistance": 0.4758625626564026,
+        "Eligibility": 0.4940677285194397,
+        "ApplicationProcess": 0.4273109436035156,
+        "TimelineFrequency": 0.3823506832122803,
+        "AuthoritiesGovernance": 0.4987919330596924,
+        "DefinitionsReferences": 0.4242062568664551
+      }
+    },
+    {
+      "sentence": "This scheme is a critical component of India's broader welfare strategy aimed at enhancing the well-being of all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.5082611441612244,
+      "similarities": {
+        "ContextObjective": 0.5082611441612244,
+        "BenefitsAssistance": 0.41780591011047363,
+        "Eligibility": 0.43888282775878906,
+        "ApplicationProcess": 0.3872643709182739,
+        "TimelineFrequency": 0.35134977102279663,
+        "AuthoritiesGovernance": 0.4008691906929016,
+        "DefinitionsReferences": 0.35276564955711365
+      }
+    }
+  ],
+  "role_distribution": {
+    "BenefitsAssistance": 15,
+    "ContextObjective": 15,
+    "Eligibility": 14,
+    "ApplicationProcess": 10,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 4
+  },
+  "processing_timestamp": "2025-09-25T20:28:32.316518"
+}

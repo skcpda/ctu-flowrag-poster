@@ -1,0 +1,926 @@
+{
+  "scheme_name": "Funeral Assistance (ANBOCWWB)",
+  "total_sentences": 65,
+  "labeled_sentences": [
+    {
+      "sentence": "The Funeral Assistance Scheme is a welfare initiative launched by the Government of India to provide financial support to the families of deceased workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5528190732002258,
+      "similarities": {
+        "ContextObjective": 0.5528190732002258,
+        "BenefitsAssistance": 0.4909648597240448,
+        "Eligibility": 0.501099169254303,
+        "ApplicationProcess": 0.4438159167766571,
+        "TimelineFrequency": 0.42117518186569214,
+        "AuthoritiesGovernance": 0.4811181128025055,
+        "DefinitionsReferences": 0.38497474789619446
+      }
+    },
+    {
+      "sentence": "This scheme is specifically aimed at the members of the Andhra Pradesh Non-Bonded Labourers Welfare Board (ANBOCWWB).",
+      "role": "ContextObjective",
+      "confidence": 0.4770333170890808,
+      "similarities": {
+        "ContextObjective": 0.4770333170890808,
+        "BenefitsAssistance": 0.3980191648006439,
+        "Eligibility": 0.463238000869751,
+        "ApplicationProcess": 0.4082443118095398,
+        "TimelineFrequency": 0.3851388096809387,
+        "AuthoritiesGovernance": 0.37894394993782043,
+        "DefinitionsReferences": 0.31949442625045776
+      }
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st January 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5728020668029785,
+      "similarities": {
+        "ContextObjective": 0.5728020668029785,
+        "BenefitsAssistance": 0.44474223256111145,
+        "Eligibility": 0.4703136682510376,
+        "ApplicationProcess": 0.45966070890426636,
+        "TimelineFrequency": 0.46476277709007263,
+        "AuthoritiesGovernance": 0.3985137641429901,
+        "DefinitionsReferences": 0.3410486876964569
+      }
+    },
+    {
+      "sentence": "The primary objective of the Funeral Assistance Scheme is to alleviate the financial burden on families during the time of bereavement.",
+      "role": "ContextObjective",
+      "confidence": 0.5195496082305908,
+      "similarities": {
+        "ContextObjective": 0.5195496082305908,
+        "BenefitsAssistance": 0.488631933927536,
+        "Eligibility": 0.4332811236381531,
+        "ApplicationProcess": 0.3801520764827728,
+        "TimelineFrequency": 0.38156676292419434,
+        "AuthoritiesGovernance": 0.3666849136352539,
+        "DefinitionsReferences": 0.3246665894985199
+      }
+    },
+    {
+      "sentence": "The government recognizes that the death of a family member can lead to significant economic distress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4864306151866913,
+      "similarities": {
+        "ContextObjective": 0.3868248462677002,
+        "BenefitsAssistance": 0.4864306151866913,
+        "Eligibility": 0.47789496183395386,
+        "ApplicationProcess": 0.3859771490097046,
+        "TimelineFrequency": 0.3747595250606537,
+        "AuthoritiesGovernance": 0.3983684182167053,
+        "DefinitionsReferences": 0.3908928632736206
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide timely financial assistance to help cover the costs associated with funeral expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5699180364608765,
+      "similarities": {
+        "ContextObjective": 0.5444426536560059,
+        "BenefitsAssistance": 0.5699180364608765,
+        "Eligibility": 0.48765942454338074,
+        "ApplicationProcess": 0.4441438913345337,
+        "TimelineFrequency": 0.46728384494781494,
+        "AuthoritiesGovernance": 0.403647780418396,
+        "DefinitionsReferences": 0.38970792293548584
+      }
+    },
+    {
+      "sentence": "Under this scheme, the government provides a one-time financial assistance amount of ₹10,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5187070369720459,
+      "similarities": {
+        "ContextObjective": 0.43208062648773193,
+        "BenefitsAssistance": 0.5187070369720459,
+        "Eligibility": 0.47584670782089233,
+        "ApplicationProcess": 0.42208510637283325,
+        "TimelineFrequency": 0.40032294392585754,
+        "AuthoritiesGovernance": 0.3812243342399597,
+        "DefinitionsReferences": 0.36024144291877747
+      }
+    },
+    {
+      "sentence": "This amount is intended to help families manage the expenses related to the last rites and funeral services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5700072050094604,
+      "similarities": {
+        "ContextObjective": 0.40340346097946167,
+        "BenefitsAssistance": 0.5700072050094604,
+        "Eligibility": 0.44082093238830566,
+        "ApplicationProcess": 0.42002981901168823,
+        "TimelineFrequency": 0.4227251410484314,
+        "AuthoritiesGovernance": 0.4106992483139038,
+        "DefinitionsReferences": 0.42303699254989624
+      }
+    },
+    {
+      "sentence": "The assistance is provided directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6037322282791138,
+      "similarities": {
+        "ContextObjective": 0.43570977449417114,
+        "BenefitsAssistance": 0.6037322282791138,
+        "Eligibility": 0.5451550483703613,
+        "ApplicationProcess": 0.479388952255249,
+        "TimelineFrequency": 0.4183948040008545,
+        "AuthoritiesGovernance": 0.4463152289390564,
+        "DefinitionsReferences": 0.4009149372577667
+      }
+    },
+    {
+      "sentence": "To be eligible for the Funeral Assistance Scheme, applicants must be registered members of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "role": "Eligibility",
+      "confidence": 0.543210506439209,
+      "similarities": {
+        "ContextObjective": 0.41254565119743347,
+        "BenefitsAssistance": 0.39675575494766235,
+        "Eligibility": 0.543210506439209,
+        "ApplicationProcess": 0.48191356658935547,
+        "TimelineFrequency": 0.4410586953163147,
+        "AuthoritiesGovernance": 0.36742836236953735,
+        "DefinitionsReferences": 0.32958894968032837
+      }
+    },
+    {
+      "sentence": "The applicant must provide proof of their membership in the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.672633171081543,
+      "similarities": {
+        "ContextObjective": 0.5285654067993164,
+        "BenefitsAssistance": 0.4920981526374817,
+        "Eligibility": 0.6219059824943542,
+        "ApplicationProcess": 0.672633171081543,
+        "TimelineFrequency": 0.5645378828048706,
+        "AuthoritiesGovernance": 0.4661077558994293,
+        "DefinitionsReferences": 0.46909284591674805
+      }
+    },
+    {
+      "sentence": "Additionally, the deceased must also be a member of the same board at the time of their death.",
+      "role": "Eligibility",
+      "confidence": 0.4415963590145111,
+      "similarities": {
+        "ContextObjective": 0.4121168255805969,
+        "BenefitsAssistance": 0.3659290671348572,
+        "Eligibility": 0.4415963590145111,
+        "ApplicationProcess": 0.39579054713249207,
+        "TimelineFrequency": 0.3932066559791565,
+        "AuthoritiesGovernance": 0.39593052864074707,
+        "DefinitionsReferences": 0.39747458696365356
+      }
+    },
+    {
+      "sentence": "The applicant must be a direct family member of the deceased.",
+      "role": "Eligibility",
+      "confidence": 0.5909831523895264,
+      "similarities": {
+        "ContextObjective": 0.4436054825782776,
+        "BenefitsAssistance": 0.4340112805366516,
+        "Eligibility": 0.5909831523895264,
+        "ApplicationProcess": 0.5368850827217102,
+        "TimelineFrequency": 0.47916197776794434,
+        "AuthoritiesGovernance": 0.4095556139945984,
+        "DefinitionsReferences": 0.3953455686569214
+      }
+    },
+    {
+      "sentence": "This includes spouses, children, or parents of the deceased worker.",
+      "role": "Eligibility",
+      "confidence": 0.4894171953201294,
+      "similarities": {
+        "ContextObjective": 0.3965110778808594,
+        "BenefitsAssistance": 0.4826495945453644,
+        "Eligibility": 0.4894171953201294,
+        "ApplicationProcess": 0.4145027995109558,
+        "TimelineFrequency": 0.4100209176540375,
+        "AuthoritiesGovernance": 0.46905237436294556,
+        "DefinitionsReferences": 0.42802557349205017
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for eligibility under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5484940409660339,
+      "similarities": {
+        "ContextObjective": 0.47553113102912903,
+        "BenefitsAssistance": 0.4193827211856842,
+        "Eligibility": 0.5484940409660339,
+        "ApplicationProcess": 0.4230141341686249,
+        "TimelineFrequency": 0.4413020610809326,
+        "AuthoritiesGovernance": 0.3343411684036255,
+        "DefinitionsReferences": 0.3236128091812134
+      }
+    },
+    {
+      "sentence": "However, the income criteria for the deceased worker must be within the limits set by the board.",
+      "role": "Eligibility",
+      "confidence": 0.5315204858779907,
+      "similarities": {
+        "ContextObjective": 0.40566086769104004,
+        "BenefitsAssistance": 0.4233540892601013,
+        "Eligibility": 0.5315204858779907,
+        "ApplicationProcess": 0.41699469089508057,
+        "TimelineFrequency": 0.4006846845149994,
+        "AuthoritiesGovernance": 0.35451868176460266,
+        "DefinitionsReferences": 0.36854785680770874
+      }
+    },
+    {
+      "sentence": "As of the latest updates, the income limit for eligibility is set at ₹15,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.5660588145256042,
+      "similarities": {
+        "ContextObjective": 0.4066588282585144,
+        "BenefitsAssistance": 0.5248567461967468,
+        "Eligibility": 0.5660588145256042,
+        "ApplicationProcess": 0.4854494035243988,
+        "TimelineFrequency": 0.45889952778816223,
+        "AuthoritiesGovernance": 0.3483467102050781,
+        "DefinitionsReferences": 0.373651385307312
+      }
+    },
+    {
+      "sentence": "This ensures that the assistance is directed towards families who are in genuine need of financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5365790128707886,
+      "similarities": {
+        "ContextObjective": 0.45591646432876587,
+        "BenefitsAssistance": 0.5365790128707886,
+        "Eligibility": 0.5092887282371521,
+        "ApplicationProcess": 0.421436071395874,
+        "TimelineFrequency": 0.3985055685043335,
+        "AuthoritiesGovernance": 0.38532304763793945,
+        "DefinitionsReferences": 0.3545294404029846
+      }
+    },
+    {
+      "sentence": "The application process for the Funeral Assistance Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5346454381942749,
+      "similarities": {
+        "ContextObjective": 0.506576657295227,
+        "BenefitsAssistance": 0.4346421957015991,
+        "Eligibility": 0.5012843012809753,
+        "ApplicationProcess": 0.5346454381942749,
+        "TimelineFrequency": 0.47111159563064575,
+        "AuthoritiesGovernance": 0.3992287218570709,
+        "DefinitionsReferences": 0.3497474193572998
+      }
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5711715221405029,
+      "similarities": {
+        "ContextObjective": 0.4230855405330658,
+        "BenefitsAssistance": 0.39896827936172485,
+        "Eligibility": 0.5184695720672607,
+        "ApplicationProcess": 0.5711715221405029,
+        "TimelineFrequency": 0.45380640029907227,
+        "AuthoritiesGovernance": 0.37002551555633545,
+        "DefinitionsReferences": 0.38483232259750366
+      }
+    },
+    {
+      "sentence": "They need to download the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7384101748466492,
+      "similarities": {
+        "ContextObjective": 0.4928015470504761,
+        "BenefitsAssistance": 0.49640101194381714,
+        "Eligibility": 0.615772008895874,
+        "ApplicationProcess": 0.7384101748466492,
+        "TimelineFrequency": 0.5917775630950928,
+        "AuthoritiesGovernance": 0.4674196243286133,
+        "DefinitionsReferences": 0.4651625156402588
+      }
+    },
+    {
+      "sentence": "The completed application form must be submitted to the local office of the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.640243649482727,
+      "similarities": {
+        "ContextObjective": 0.42562758922576904,
+        "BenefitsAssistance": 0.4071929454803467,
+        "Eligibility": 0.5269047617912292,
+        "ApplicationProcess": 0.640243649482727,
+        "TimelineFrequency": 0.5080152153968811,
+        "AuthoritiesGovernance": 0.43072986602783203,
+        "DefinitionsReferences": 0.3856165111064911
+      }
+    },
+    {
+      "sentence": "Along with the application form, the following documents are required:",
+      "role": "ApplicationProcess",
+      "confidence": 0.7682333588600159,
+      "similarities": {
+        "ContextObjective": 0.5185739994049072,
+        "BenefitsAssistance": 0.5747666358947754,
+        "Eligibility": 0.6135998964309692,
+        "ApplicationProcess": 0.7682333588600159,
+        "TimelineFrequency": 0.6086736917495728,
+        "AuthoritiesGovernance": 0.48557916283607483,
+        "DefinitionsReferences": 0.5872943997383118
+      }
+    },
+    {
+      "sentence": "1. Proof of membership of the deceased in the ANBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5559484958648682,
+      "similarities": {
+        "ContextObjective": 0.4854975640773773,
+        "BenefitsAssistance": 0.49932557344436646,
+        "Eligibility": 0.51014244556427,
+        "ApplicationProcess": 0.5559484958648682,
+        "TimelineFrequency": 0.4708915948867798,
+        "AuthoritiesGovernance": 0.44705143570899963,
+        "DefinitionsReferences": 0.47893649339675903
+      }
+    },
+    {
+      "sentence": "2. Death certificate of the deceased worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4909151792526245,
+      "similarities": {
+        "ContextObjective": 0.4055846929550171,
+        "BenefitsAssistance": 0.48562777042388916,
+        "Eligibility": 0.43077296018600464,
+        "ApplicationProcess": 0.4909151792526245,
+        "TimelineFrequency": 0.4336680769920349,
+        "AuthoritiesGovernance": 0.4264563024044037,
+        "DefinitionsReferences": 0.45410290360450745
+      }
+    },
+    {
+      "sentence": "3. Identity proof of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.673958957195282,
+      "similarities": {
+        "ContextObjective": 0.5299177765846252,
+        "BenefitsAssistance": 0.5381090641021729,
+        "Eligibility": 0.5806566476821899,
+        "ApplicationProcess": 0.673958957195282,
+        "TimelineFrequency": 0.5507908463478088,
+        "AuthoritiesGovernance": 0.46759676933288574,
+        "DefinitionsReferences": 0.4991816282272339
+      }
+    },
+    {
+      "sentence": "4. Bank account details for the transfer of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.6422643661499023,
+      "similarities": {
+        "ContextObjective": 0.46842682361602783,
+        "BenefitsAssistance": 0.6422643661499023,
+        "Eligibility": 0.5606361031532288,
+        "ApplicationProcess": 0.5805174112319946,
+        "TimelineFrequency": 0.5019135475158691,
+        "AuthoritiesGovernance": 0.4886385500431061,
+        "DefinitionsReferences": 0.508355975151062
+      }
+    },
+    {
+      "sentence": "5. Any other documents as specified by the local office.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.5877728462219238,
+      "similarities": {
+        "ContextObjective": 0.4501517713069916,
+        "BenefitsAssistance": 0.5404388308525085,
+        "Eligibility": 0.5039494037628174,
+        "ApplicationProcess": 0.5621070265769958,
+        "TimelineFrequency": 0.49370458722114563,
+        "AuthoritiesGovernance": 0.5072139501571655,
+        "DefinitionsReferences": 0.5877728462219238
+      }
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the officials at the local office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6511191725730896,
+      "similarities": {
+        "ContextObjective": 0.4533839821815491,
+        "BenefitsAssistance": 0.4331464469432831,
+        "Eligibility": 0.5578179359436035,
+        "ApplicationProcess": 0.6511191725730896,
+        "TimelineFrequency": 0.5506684184074402,
+        "AuthoritiesGovernance": 0.5139434337615967,
+        "DefinitionsReferences": 0.45691776275634766
+      }
+    },
+    {
+      "sentence": "The processing time for the application is typically around 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6330593824386597,
+      "similarities": {
+        "ContextObjective": 0.46554386615753174,
+        "BenefitsAssistance": 0.49255552887916565,
+        "Eligibility": 0.5522470474243164,
+        "ApplicationProcess": 0.6270898580551147,
+        "TimelineFrequency": 0.6330593824386597,
+        "AuthoritiesGovernance": 0.4613301157951355,
+        "DefinitionsReferences": 0.44603291153907776
+      }
+    },
+    {
+      "sentence": "Upon approval, the financial assistance of ₹10,000 is disbursed directly into the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5367485284805298,
+      "similarities": {
+        "ContextObjective": 0.36618301272392273,
+        "BenefitsAssistance": 0.5367485284805298,
+        "Eligibility": 0.4946081042289734,
+        "ApplicationProcess": 0.47575515508651733,
+        "TimelineFrequency": 0.4017263650894165,
+        "AuthoritiesGovernance": 0.3743445873260498,
+        "DefinitionsReferences": 0.3389679193496704
+      }
+    },
+    {
+      "sentence": "The scheme is designed to be user-friendly and aims to ensure that families receive the assistance in a timely manner.",
+      "role": "Eligibility",
+      "confidence": 0.5250536799430847,
+      "similarities": {
+        "ContextObjective": 0.5128690600395203,
+        "BenefitsAssistance": 0.519561767578125,
+        "Eligibility": 0.5250536799430847,
+        "ApplicationProcess": 0.49147266149520874,
+        "TimelineFrequency": 0.48979365825653076,
+        "AuthoritiesGovernance": 0.4665173292160034,
+        "DefinitionsReferences": 0.36119112372398376
+      }
+    },
+    {
+      "sentence": "The implementing authority for the Funeral Assistance Scheme is the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4937145709991455,
+      "similarities": {
+        "ContextObjective": 0.40999647974967957,
+        "BenefitsAssistance": 0.39994072914123535,
+        "Eligibility": 0.4542791247367859,
+        "ApplicationProcess": 0.38517114520072937,
+        "TimelineFrequency": 0.36142170429229736,
+        "AuthoritiesGovernance": 0.4937145709991455,
+        "DefinitionsReferences": 0.36653846502304077
+      }
+    },
+    {
+      "sentence": "The board operates under the Department of Labour and Employment, Government of Andhra Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5040282607078552,
+      "similarities": {
+        "ContextObjective": 0.4065338373184204,
+        "BenefitsAssistance": 0.41171982884407043,
+        "Eligibility": 0.45364198088645935,
+        "ApplicationProcess": 0.4287377893924713,
+        "TimelineFrequency": 0.4057477116584778,
+        "AuthoritiesGovernance": 0.5040282607078552,
+        "DefinitionsReferences": 0.38061434030532837
+      }
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the board’s helpline at 1800 425 1515.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4945172071456909,
+      "similarities": {
+        "ContextObjective": 0.3951515257358551,
+        "BenefitsAssistance": 0.45549505949020386,
+        "Eligibility": 0.4724363684654236,
+        "ApplicationProcess": 0.4945172071456909,
+        "TimelineFrequency": 0.4698638916015625,
+        "AuthoritiesGovernance": 0.417091965675354,
+        "DefinitionsReferences": 0.368024617433548
+      }
+    },
+    {
+      "sentence": "The board also has local offices across various districts in Andhra Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5196353197097778,
+      "similarities": {
+        "ContextObjective": 0.43512505292892456,
+        "BenefitsAssistance": 0.43275827169418335,
+        "Eligibility": 0.4600834846496582,
+        "ApplicationProcess": 0.4097173810005188,
+        "TimelineFrequency": 0.44372302293777466,
+        "AuthoritiesGovernance": 0.5196353197097778,
+        "DefinitionsReferences": 0.4435899257659912
+      }
+    },
+    {
+      "sentence": "These offices can provide additional support and guidance throughout the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.595334529876709,
+      "similarities": {
+        "ContextObjective": 0.5006044507026672,
+        "BenefitsAssistance": 0.5512275099754333,
+        "Eligibility": 0.5547923445701599,
+        "ApplicationProcess": 0.595334529876709,
+        "TimelineFrequency": 0.565179705619812,
+        "AuthoritiesGovernance": 0.5330004096031189,
+        "DefinitionsReferences": 0.5436540842056274
+      }
+    },
+    {
+      "sentence": "The Funeral Assistance Scheme is part of a broader initiative by the Government of India to support the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.4643653631210327,
+      "similarities": {
+        "ContextObjective": 0.4643653631210327,
+        "BenefitsAssistance": 0.4409042000770569,
+        "Eligibility": 0.4258001446723938,
+        "ApplicationProcess": 0.3726068139076233,
+        "TimelineFrequency": 0.34773361682891846,
+        "AuthoritiesGovernance": 0.45470958948135376,
+        "DefinitionsReferences": 0.3611440658569336
+      }
+    },
+    {
+      "sentence": "The unorganized sector employs a significant portion of the workforce in India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.43630918860435486,
+      "similarities": {
+        "ContextObjective": 0.37399598956108093,
+        "BenefitsAssistance": 0.39241185784339905,
+        "Eligibility": 0.39334043860435486,
+        "ApplicationProcess": 0.34186413884162903,
+        "TimelineFrequency": 0.3325347900390625,
+        "AuthoritiesGovernance": 0.43630918860435486,
+        "DefinitionsReferences": 0.3523843288421631
+      }
+    },
+    {
+      "sentence": "According to the 2020 Economic Survey, approximately 94% of the Indian workforce is employed in the unorganized sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.33546924591064453,
+      "similarities": {
+        "ContextObjective": 0.30437445640563965,
+        "BenefitsAssistance": 0.33546924591064453,
+        "Eligibility": 0.31766587495803833,
+        "ApplicationProcess": 0.2832283079624176,
+        "TimelineFrequency": 0.2828315198421478,
+        "AuthoritiesGovernance": 0.3337158262729645,
+        "DefinitionsReferences": 0.26809871196746826
+      }
+    },
+    {
+      "sentence": "This highlights the importance of providing targeted support to these vulnerable groups.",
+      "role": "Eligibility",
+      "confidence": 0.5086681246757507,
+      "similarities": {
+        "ContextObjective": 0.46564599871635437,
+        "BenefitsAssistance": 0.4571704864501953,
+        "Eligibility": 0.5086681246757507,
+        "ApplicationProcess": 0.3550093173980713,
+        "TimelineFrequency": 0.3780719041824341,
+        "AuthoritiesGovernance": 0.4189501404762268,
+        "DefinitionsReferences": 0.3855012059211731
+      }
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also aims to create awareness about the rights and welfare of workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.5048214793205261,
+      "similarities": {
+        "ContextObjective": 0.5048214793205261,
+        "BenefitsAssistance": 0.4798472821712494,
+        "Eligibility": 0.4616919457912445,
+        "ApplicationProcess": 0.41484928131103516,
+        "TimelineFrequency": 0.3709937632083893,
+        "AuthoritiesGovernance": 0.42755040526390076,
+        "DefinitionsReferences": 0.35946351289749146
+      }
+    },
+    {
+      "sentence": "The government has been actively working to improve the social security measures for these workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.46410471200942993,
+      "similarities": {
+        "ContextObjective": 0.4229941964149475,
+        "BenefitsAssistance": 0.46410471200942993,
+        "Eligibility": 0.4295627772808075,
+        "ApplicationProcess": 0.4234766364097595,
+        "TimelineFrequency": 0.3615298271179199,
+        "AuthoritiesGovernance": 0.4559839963912964,
+        "DefinitionsReferences": 0.3892061114311218
+      }
+    },
+    {
+      "sentence": "The Funeral Assistance Scheme is one of several initiatives aimed at enhancing the welfare of unorganized workers.",
+      "role": "ContextObjective",
+      "confidence": 0.4688911437988281,
+      "similarities": {
+        "ContextObjective": 0.4688911437988281,
+        "BenefitsAssistance": 0.43103349208831787,
+        "Eligibility": 0.43018871545791626,
+        "ApplicationProcess": 0.3716016411781311,
+        "TimelineFrequency": 0.37653398513793945,
+        "AuthoritiesGovernance": 0.4467494487762451,
+        "DefinitionsReferences": 0.35637742280960083
+      }
+    },
+    {
+      "sentence": "Other schemes include health insurance, pension schemes, and skill development programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5449089407920837,
+      "similarities": {
+        "ContextObjective": 0.5138965845108032,
+        "BenefitsAssistance": 0.5449089407920837,
+        "Eligibility": 0.48292577266693115,
+        "ApplicationProcess": 0.44207555055618286,
+        "TimelineFrequency": 0.44826099276542664,
+        "AuthoritiesGovernance": 0.4401141405105591,
+        "DefinitionsReferences": 0.44752633571624756
+      }
+    },
+    {
+      "sentence": "The implementation of the Funeral Assistance Scheme is monitored by the state government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5276306867599487,
+      "similarities": {
+        "ContextObjective": 0.45077937841415405,
+        "BenefitsAssistance": 0.45967692136764526,
+        "Eligibility": 0.4794939160346985,
+        "ApplicationProcess": 0.45544081926345825,
+        "TimelineFrequency": 0.3997923731803894,
+        "AuthoritiesGovernance": 0.5276306867599487,
+        "DefinitionsReferences": 0.41659408807754517
+      }
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.544917106628418,
+      "similarities": {
+        "ContextObjective": 0.544917106628418,
+        "BenefitsAssistance": 0.46828901767730713,
+        "Eligibility": 0.5139152407646179,
+        "ApplicationProcess": 0.5080360174179077,
+        "TimelineFrequency": 0.5044444799423218,
+        "AuthoritiesGovernance": 0.49913281202316284,
+        "DefinitionsReferences": 0.4513407349586487
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries is also collected to make necessary improvements.",
+      "role": "Eligibility",
+      "confidence": 0.5266040563583374,
+      "similarities": {
+        "ContextObjective": 0.4822308421134949,
+        "BenefitsAssistance": 0.5205987691879272,
+        "Eligibility": 0.5266040563583374,
+        "ApplicationProcess": 0.4956250488758087,
+        "TimelineFrequency": 0.4430619180202484,
+        "AuthoritiesGovernance": 0.5244075059890747,
+        "DefinitionsReferences": 0.4648410975933075
+      }
+    },
+    {
+      "sentence": "The scheme has received positive responses from families who have benefited from the assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.5201588869094849,
+      "similarities": {
+        "ContextObjective": 0.5201588869094849,
+        "BenefitsAssistance": 0.4903062582015991,
+        "Eligibility": 0.5050053596496582,
+        "ApplicationProcess": 0.4193425178527832,
+        "TimelineFrequency": 0.38172346353530884,
+        "AuthoritiesGovernance": 0.41310763359069824,
+        "DefinitionsReferences": 0.36928778886795044
+      }
+    },
+    {
+      "sentence": "Many families have expressed gratitude for the timely support during their time of grief.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4693133234977722,
+      "similarities": {
+        "ContextObjective": 0.41323089599609375,
+        "BenefitsAssistance": 0.4693133234977722,
+        "Eligibility": 0.3978102505207062,
+        "ApplicationProcess": 0.37138310074806213,
+        "TimelineFrequency": 0.3817569613456726,
+        "AuthoritiesGovernance": 0.37131258845329285,
+        "DefinitionsReferences": 0.3879396319389343
+      }
+    },
+    {
+      "sentence": "The financial assistance has helped them manage the costs associated with funerals, which can be substantial.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5609268546104431,
+      "similarities": {
+        "ContextObjective": 0.3809182047843933,
+        "BenefitsAssistance": 0.5609268546104431,
+        "Eligibility": 0.43196308612823486,
+        "ApplicationProcess": 0.38069388270378113,
+        "TimelineFrequency": 0.39067593216896057,
+        "AuthoritiesGovernance": 0.37787216901779175,
+        "DefinitionsReferences": 0.3894599676132202
+      }
+    },
+    {
+      "sentence": "The government continues to promote the scheme through various outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.5404877662658691,
+      "similarities": {
+        "ContextObjective": 0.5404877662658691,
+        "BenefitsAssistance": 0.4403001666069031,
+        "Eligibility": 0.4529557228088379,
+        "ApplicationProcess": 0.44411569833755493,
+        "TimelineFrequency": 0.4111815392971039,
+        "AuthoritiesGovernance": 0.500597357749939,
+        "DefinitionsReferences": 0.44557034969329834
+      }
+    },
+    {
+      "sentence": "This includes awareness campaigns to ensure that eligible families are informed about the assistance available to them.",
+      "role": "Eligibility",
+      "confidence": 0.6006468534469604,
+      "similarities": {
+        "ContextObjective": 0.49706071615219116,
+        "BenefitsAssistance": 0.5630719661712646,
+        "Eligibility": 0.6006468534469604,
+        "ApplicationProcess": 0.5186302661895752,
+        "TimelineFrequency": 0.47616854310035706,
+        "AuthoritiesGovernance": 0.47816962003707886,
+        "DefinitionsReferences": 0.4260515570640564
+      }
+    },
+    {
+      "sentence": "Overall, the Funeral Assistance Scheme represents a significant step towards providing social security to the families of unorganized workers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.41349178552627563,
+      "similarities": {
+        "ContextObjective": 0.39844250679016113,
+        "BenefitsAssistance": 0.41349178552627563,
+        "Eligibility": 0.38864314556121826,
+        "ApplicationProcess": 0.3644689917564392,
+        "TimelineFrequency": 0.30163776874542236,
+        "AuthoritiesGovernance": 0.3480597138404846,
+        "DefinitionsReferences": 0.31853312253952026
+      }
+    },
+    {
+      "sentence": "It aims to ensure that no family is left in distress during a time of loss.",
+      "role": "ContextObjective",
+      "confidence": 0.4811854958534241,
+      "similarities": {
+        "ContextObjective": 0.4811854958534241,
+        "BenefitsAssistance": 0.4268460273742676,
+        "Eligibility": 0.46608224511146545,
+        "ApplicationProcess": 0.4138435125350952,
+        "TimelineFrequency": 0.38043564558029175,
+        "AuthoritiesGovernance": 0.37913671135902405,
+        "DefinitionsReferences": 0.3614720106124878
+      }
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Government of India to support its citizens in their time of need.",
+      "role": "ContextObjective",
+      "confidence": 0.5074012279510498,
+      "similarities": {
+        "ContextObjective": 0.5074012279510498,
+        "BenefitsAssistance": 0.4722619950771332,
+        "Eligibility": 0.47627750039100647,
+        "ApplicationProcess": 0.4314221143722534,
+        "TimelineFrequency": 0.40202391147613525,
+        "AuthoritiesGovernance": 0.4018450975418091,
+        "DefinitionsReferences": 0.3968307375907898
+      }
+    },
+    {
+      "sentence": "By providing financial assistance, the government aims to uphold the dignity of the deceased and support their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5128316879272461,
+      "similarities": {
+        "ContextObjective": 0.46967995166778564,
+        "BenefitsAssistance": 0.5128316879272461,
+        "Eligibility": 0.4820835292339325,
+        "ApplicationProcess": 0.4076157212257385,
+        "TimelineFrequency": 0.3697807788848877,
+        "AuthoritiesGovernance": 0.44481486082077026,
+        "DefinitionsReferences": 0.4041252136230469
+      }
+    },
+    {
+      "sentence": "The Funeral Assistance Scheme is a crucial part of the welfare landscape for unorganized workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.42902809381484985,
+      "similarities": {
+        "ContextObjective": 0.42902809381484985,
+        "BenefitsAssistance": 0.39833056926727295,
+        "Eligibility": 0.42667219042778015,
+        "ApplicationProcess": 0.3451427221298218,
+        "TimelineFrequency": 0.33144259452819824,
+        "AuthoritiesGovernance": 0.3817119598388672,
+        "DefinitionsReferences": 0.32443439960479736
+      }
+    },
+    {
+      "sentence": "It underscores the importance of social safety nets in a rapidly changing economic environment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4857216477394104,
+      "similarities": {
+        "ContextObjective": 0.4115208387374878,
+        "BenefitsAssistance": 0.4857216477394104,
+        "Eligibility": 0.43425002694129944,
+        "ApplicationProcess": 0.3608826994895935,
+        "TimelineFrequency": 0.38206762075424194,
+        "AuthoritiesGovernance": 0.34116220474243164,
+        "DefinitionsReferences": 0.3919006586074829
+      }
+    },
+    {
+      "sentence": "The scheme continues to evolve based on the needs of the community it serves.",
+      "role": "ContextObjective",
+      "confidence": 0.6085169911384583,
+      "similarities": {
+        "ContextObjective": 0.6085169911384583,
+        "BenefitsAssistance": 0.45761731266975403,
+        "Eligibility": 0.5094631910324097,
+        "ApplicationProcess": 0.45353108644485474,
+        "TimelineFrequency": 0.44898754358291626,
+        "AuthoritiesGovernance": 0.4799365997314453,
+        "DefinitionsReferences": 0.43039417266845703
+      }
+    },
+    {
+      "sentence": "As of October 2023, the Funeral Assistance Scheme remains an active and vital program in Andhra Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.4953647553920746,
+      "similarities": {
+        "ContextObjective": 0.4953647553920746,
+        "BenefitsAssistance": 0.4388386607170105,
+        "Eligibility": 0.4669693112373352,
+        "ApplicationProcess": 0.4012283980846405,
+        "TimelineFrequency": 0.4183821678161621,
+        "AuthoritiesGovernance": 0.4087790846824646,
+        "DefinitionsReferences": 0.37819933891296387
+      }
+    },
+    {
+      "sentence": "It stands as a testament to the government's dedication to improving the lives of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.4507356882095337,
+      "similarities": {
+        "ContextObjective": 0.4507356882095337,
+        "BenefitsAssistance": 0.40077489614486694,
+        "Eligibility": 0.4047635495662689,
+        "ApplicationProcess": 0.40358102321624756,
+        "TimelineFrequency": 0.33862996101379395,
+        "AuthoritiesGovernance": 0.41988933086395264,
+        "DefinitionsReferences": 0.42136430740356445
+      }
+    },
+    {
+      "sentence": "Families in need are encouraged to take advantage of this scheme to ease their financial burden during difficult times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5102418661117554,
+      "similarities": {
+        "ContextObjective": 0.46728652715682983,
+        "BenefitsAssistance": 0.5102418661117554,
+        "Eligibility": 0.47908449172973633,
+        "ApplicationProcess": 0.3935903310775757,
+        "TimelineFrequency": 0.38090163469314575,
+        "AuthoritiesGovernance": 0.34596699476242065,
+        "DefinitionsReferences": 0.3447948694229126
+      }
+    },
+    {
+      "sentence": "The government aims to ensure that the benefits reach those who need them most.",
+      "role": "Eligibility",
+      "confidence": 0.5878506898880005,
+      "similarities": {
+        "ContextObjective": 0.5429973602294922,
+        "BenefitsAssistance": 0.5392630696296692,
+        "Eligibility": 0.5878506898880005,
+        "ApplicationProcess": 0.4759632647037506,
+        "TimelineFrequency": 0.4508868455886841,
+        "AuthoritiesGovernance": 0.5299585461616516,
+        "DefinitionsReferences": 0.41616082191467285
+      }
+    },
+    {
+      "sentence": "This initiative is an important part of the broader strategy to enhance the welfare of unorganized workers across India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4313802123069763,
+      "similarities": {
+        "ContextObjective": 0.43098223209381104,
+        "BenefitsAssistance": 0.38167282938957214,
+        "Eligibility": 0.3965420126914978,
+        "ApplicationProcess": 0.3532143831253052,
+        "TimelineFrequency": 0.33588722348213196,
+        "AuthoritiesGovernance": 0.4313802123069763,
+        "DefinitionsReferences": 0.3460090756416321
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 16,
+    "BenefitsAssistance": 17,
+    "Eligibility": 12,
+    "ApplicationProcess": 12,
+    "DefinitionsReferences": 1,
+    "TimelineFrequency": 1,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-25T20:36:15.109361"
+}

@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana is a welfare scheme launched by the Government of Madhya Pradesh in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4730178713798523,
+      "similarities": {
+        "ContextObjective": 0.4730178713798523,
+        "BenefitsAssistance": 0.3884265422821045,
+        "Eligibility": 0.4521520137786865,
+        "ApplicationProcess": 0.39569994807243347,
+        "TimelineFrequency": 0.40064018964767456,
+        "AuthoritiesGovernance": 0.44276905059814453,
+        "DefinitionsReferences": 0.35074007511138916
+      }
+    },
+    {
+      "sentence": "This scheme was initiated on 1st January 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.5878037214279175,
+      "similarities": {
+        "ContextObjective": 0.5878037214279175,
+        "BenefitsAssistance": 0.4682067632675171,
+        "Eligibility": 0.5062865018844604,
+        "ApplicationProcess": 0.49152618646621704,
+        "TimelineFrequency": 0.5040642023086548,
+        "AuthoritiesGovernance": 0.45386171340942383,
+        "DefinitionsReferences": 0.3849582076072693
+      }
+    },
+    {
+      "sentence": "The primary objective of this scheme is to encourage and support Scheduled Caste and Scheduled Tribe candidates in Madhya Pradesh to prepare for civil services examinations.",
+      "role": "ContextObjective",
+      "confidence": 0.5494737029075623,
+      "similarities": {
+        "ContextObjective": 0.5494737029075623,
+        "BenefitsAssistance": 0.359612375497818,
+        "Eligibility": 0.45080673694610596,
+        "ApplicationProcess": 0.4349261224269867,
+        "TimelineFrequency": 0.4152820408344269,
+        "AuthoritiesGovernance": 0.39518681168556213,
+        "DefinitionsReferences": 0.3587503433227539
+      }
+    },
+    {
+      "sentence": "The scheme aims to provide financial assistance to these candidates to help them cover the costs associated with their preparation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5892603397369385,
+      "similarities": {
+        "ContextObjective": 0.5836927890777588,
+        "BenefitsAssistance": 0.5892603397369385,
+        "Eligibility": 0.5625988841056824,
+        "ApplicationProcess": 0.5208050012588501,
+        "TimelineFrequency": 0.4996909499168396,
+        "AuthoritiesGovernance": 0.4155750274658203,
+        "DefinitionsReferences": 0.4343368709087372
+      }
+    },
+    {
+      "sentence": "The government has set a target to assist at least 10,000 candidates annually under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5400925278663635,
+      "similarities": {
+        "ContextObjective": 0.5175701379776001,
+        "BenefitsAssistance": 0.4185258150100708,
+        "Eligibility": 0.5400925278663635,
+        "ApplicationProcess": 0.4610236883163452,
+        "TimelineFrequency": 0.45265263319015503,
+        "AuthoritiesGovernance": 0.397780179977417,
+        "DefinitionsReferences": 0.3919130563735962
+      }
+    },
+    {
+      "sentence": "The benefits provided under this scheme include financial support for coaching classes and study materials.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5587970614433289,
+      "similarities": {
+        "ContextObjective": 0.4965968728065491,
+        "BenefitsAssistance": 0.5587970614433289,
+        "Eligibility": 0.4541735053062439,
+        "ApplicationProcess": 0.41770946979522705,
+        "TimelineFrequency": 0.44348716735839844,
+        "AuthoritiesGovernance": 0.3944830894470215,
+        "DefinitionsReferences": 0.48136162757873535
+      }
+    },
+    {
+      "sentence": "Eligible candidates can receive up to INR 1 lakh for coaching expenses.",
+      "role": "Eligibility",
+      "confidence": 0.5054032802581787,
+      "similarities": {
+        "ContextObjective": 0.42629796266555786,
+        "BenefitsAssistance": 0.461107075214386,
+        "Eligibility": 0.5054032802581787,
+        "ApplicationProcess": 0.4290313124656677,
+        "TimelineFrequency": 0.42464032769203186,
+        "AuthoritiesGovernance": 0.37819308042526245,
+        "DefinitionsReferences": 0.38699963688850403
+      }
+    },
+    {
+      "sentence": "This financial assistance can be utilized for various civil service examinations including the Indian Administrative Service and Indian Police Service.",
+      "role": "Eligibility",
+      "confidence": 0.47197821736335754,
+      "similarities": {
+        "ContextObjective": 0.4294458031654358,
+        "BenefitsAssistance": 0.4682919979095459,
+        "Eligibility": 0.47197821736335754,
+        "ApplicationProcess": 0.4549521505832672,
+        "TimelineFrequency": 0.43894505500793457,
+        "AuthoritiesGovernance": 0.4032145142555237,
+        "DefinitionsReferences": 0.42042726278305054
+      }
+    },
+    {
+      "sentence": "The scheme also aims to provide mentorship and guidance to candidates to enhance their chances of success in these competitive examinations.",
+      "role": "ContextObjective",
+      "confidence": 0.5337079763412476,
+      "similarities": {
+        "ContextObjective": 0.5337079763412476,
+        "BenefitsAssistance": 0.352198988199234,
+        "Eligibility": 0.4522678256034851,
+        "ApplicationProcess": 0.4543275535106659,
+        "TimelineFrequency": 0.44478172063827515,
+        "AuthoritiesGovernance": 0.3502502739429474,
+        "DefinitionsReferences": 0.3959137201309204
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for this scheme are specifically defined.",
+      "role": "Eligibility",
+      "confidence": 0.7003310918807983,
+      "similarities": {
+        "ContextObjective": 0.6268668174743652,
+        "BenefitsAssistance": 0.5459868907928467,
+        "Eligibility": 0.7003310918807983,
+        "ApplicationProcess": 0.5885829329490662,
+        "TimelineFrequency": 0.5796998143196106,
+        "AuthoritiesGovernance": 0.4644942283630371,
+        "DefinitionsReferences": 0.4783534109592438
+      }
+    },
+    {
+      "sentence": "Candidates must belong to Scheduled Castes or Scheduled Tribes as recognized by the Government of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.5356900691986084,
+      "similarities": {
+        "ContextObjective": 0.4106663167476654,
+        "BenefitsAssistance": 0.36783984303474426,
+        "Eligibility": 0.5356900691986084,
+        "ApplicationProcess": 0.48432624340057373,
+        "TimelineFrequency": 0.4307780861854553,
+        "AuthoritiesGovernance": 0.39323556423187256,
+        "DefinitionsReferences": 0.39915311336517334
+      }
+    },
+    {
+      "sentence": "The age limit for applicants is set at a maximum of 35 years.",
+      "role": "Eligibility",
+      "confidence": 0.600886344909668,
+      "similarities": {
+        "ContextObjective": 0.4709766209125519,
+        "BenefitsAssistance": 0.4486236870288849,
+        "Eligibility": 0.600886344909668,
+        "ApplicationProcess": 0.5102209448814392,
+        "TimelineFrequency": 0.5092563629150391,
+        "AuthoritiesGovernance": 0.39314448833465576,
+        "DefinitionsReferences": 0.38616302609443665
+      }
+    },
+    {
+      "sentence": "Candidates must have completed their graduation from a recognized university to be eligible for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.5868145227432251,
+      "similarities": {
+        "ContextObjective": 0.5009487867355347,
+        "BenefitsAssistance": 0.4036673903465271,
+        "Eligibility": 0.5868145227432251,
+        "ApplicationProcess": 0.5476590394973755,
+        "TimelineFrequency": 0.4862213432788849,
+        "AuthoritiesGovernance": 0.3922543525695801,
+        "DefinitionsReferences": 0.37308213114738464
+      }
+    },
+    {
+      "sentence": "Additionally, the annual family income of the applicant should not exceed INR 6 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.5443512201309204,
+      "similarities": {
+        "ContextObjective": 0.39830464124679565,
+        "BenefitsAssistance": 0.4581819474697113,
+        "Eligibility": 0.5443512201309204,
+        "ApplicationProcess": 0.49491214752197266,
+        "TimelineFrequency": 0.4396110773086548,
+        "AuthoritiesGovernance": 0.33054566383361816,
+        "DefinitionsReferences": 0.3521571755409241
+      }
+    },
+    {
+      "sentence": "The application process for the Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5463887453079224,
+      "similarities": {
+        "ContextObjective": 0.47899389266967773,
+        "BenefitsAssistance": 0.391719251871109,
+        "Eligibility": 0.4897482395172119,
+        "ApplicationProcess": 0.5463887453079224,
+        "TimelineFrequency": 0.47771307826042175,
+        "AuthoritiesGovernance": 0.40943434834480286,
+        "DefinitionsReferences": 0.3653532862663269
+      }
+    },
+    {
+      "sentence": "Interested candidates must fill out the application form available on the official website of the Madhya Pradesh government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6471062302589417,
+      "similarities": {
+        "ContextObjective": 0.4669751524925232,
+        "BenefitsAssistance": 0.4180217385292053,
+        "Eligibility": 0.5417637825012207,
+        "ApplicationProcess": 0.6471062302589417,
+        "TimelineFrequency": 0.4900488555431366,
+        "AuthoritiesGovernance": 0.4280861020088196,
+        "DefinitionsReferences": 0.42153745889663696
+      }
+    },
+    {
+      "sentence": "The application form requires candidates to provide personal details including name, address, and educational qualifications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6707276701927185,
+      "similarities": {
+        "ContextObjective": 0.47532933950424194,
+        "BenefitsAssistance": 0.5119860768318176,
+        "Eligibility": 0.6098687648773193,
+        "ApplicationProcess": 0.6707276701927185,
+        "TimelineFrequency": 0.5522599220275879,
+        "AuthoritiesGovernance": 0.4445045590400696,
+        "DefinitionsReferences": 0.4854544997215271
+      }
+    },
+    {
+      "sentence": "Candidates must also submit proof of their Scheduled Caste or Scheduled Tribe status.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5919100046157837,
+      "similarities": {
+        "ContextObjective": 0.4438879191875458,
+        "BenefitsAssistance": 0.4477747976779938,
+        "Eligibility": 0.5692464709281921,
+        "ApplicationProcess": 0.5919100046157837,
+        "TimelineFrequency": 0.49707773327827454,
+        "AuthoritiesGovernance": 0.4013478457927704,
+        "DefinitionsReferences": 0.4594048261642456
+      }
+    },
+    {
+      "sentence": "A copy of the income certificate must be included to verify the annual family income.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5266984701156616,
+      "similarities": {
+        "ContextObjective": 0.3881123661994934,
+        "BenefitsAssistance": 0.5266984701156616,
+        "Eligibility": 0.46507132053375244,
+        "ApplicationProcess": 0.5217326879501343,
+        "TimelineFrequency": 0.4107353687286377,
+        "AuthoritiesGovernance": 0.3598479628562927,
+        "DefinitionsReferences": 0.4258069396018982
+      }
+    },
+    {
+      "sentence": "Candidates are required to attach their graduation certificate as proof of educational qualifications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5688883662223816,
+      "similarities": {
+        "ContextObjective": 0.45236241817474365,
+        "BenefitsAssistance": 0.4337996244430542,
+        "Eligibility": 0.523981511592865,
+        "ApplicationProcess": 0.5688883662223816,
+        "TimelineFrequency": 0.4889346957206726,
+        "AuthoritiesGovernance": 0.38454556465148926,
+        "DefinitionsReferences": 0.44899052381515503
+      }
+    },
+    {
+      "sentence": "Once the application form is completed and all documents are gathered, candidates must submit the application to the designated department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6367039680480957,
+      "similarities": {
+        "ContextObjective": 0.42673078179359436,
+        "BenefitsAssistance": 0.40928560495376587,
+        "Eligibility": 0.5057463645935059,
+        "ApplicationProcess": 0.6367039680480957,
+        "TimelineFrequency": 0.4888230562210083,
+        "AuthoritiesGovernance": 0.46860620379447937,
+        "DefinitionsReferences": 0.4124232232570648
+      }
+    },
+    {
+      "sentence": "The applications are typically submitted to the District Collector's office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5913293361663818,
+      "similarities": {
+        "ContextObjective": 0.4408606290817261,
+        "BenefitsAssistance": 0.45471879839897156,
+        "Eligibility": 0.5170273780822754,
+        "ApplicationProcess": 0.5913293361663818,
+        "TimelineFrequency": 0.5301462411880493,
+        "AuthoritiesGovernance": 0.46002891659736633,
+        "DefinitionsReferences": 0.4031870365142822
+      }
+    },
+    {
+      "sentence": "The timeline for application submission is generally open for a period of three months from the date of announcement.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6252026557922363,
+      "similarities": {
+        "ContextObjective": 0.4741670489311218,
+        "BenefitsAssistance": 0.4132381081581116,
+        "Eligibility": 0.526470422744751,
+        "ApplicationProcess": 0.5582602024078369,
+        "TimelineFrequency": 0.6252026557922363,
+        "AuthoritiesGovernance": 0.40251976251602173,
+        "DefinitionsReferences": 0.3949918746948242
+      }
+    },
+    {
+      "sentence": "Disbursement of funds under this scheme occurs after the application review process is completed.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5605286359786987,
+      "similarities": {
+        "ContextObjective": 0.4828416705131531,
+        "BenefitsAssistance": 0.5111778974533081,
+        "Eligibility": 0.5012551546096802,
+        "ApplicationProcess": 0.5605286359786987,
+        "TimelineFrequency": 0.4983065724372864,
+        "AuthoritiesGovernance": 0.44117623567581177,
+        "DefinitionsReferences": 0.3569418787956238
+      }
+    },
+    {
+      "sentence": "The review process may take approximately one to two months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.5841690897941589,
+      "similarities": {
+        "ContextObjective": 0.45502975583076477,
+        "BenefitsAssistance": 0.4779438376426697,
+        "Eligibility": 0.5051043033599854,
+        "ApplicationProcess": 0.5753656625747681,
+        "TimelineFrequency": 0.5841690897941589,
+        "AuthoritiesGovernance": 0.4641386866569519,
+        "DefinitionsReferences": 0.4746861457824707
+      }
+    },
+    {
+      "sentence": "Successful candidates will receive the financial assistance directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5332257747650146,
+      "similarities": {
+        "ContextObjective": 0.4411080479621887,
+        "BenefitsAssistance": 0.5332257747650146,
+        "Eligibility": 0.5298676490783691,
+        "ApplicationProcess": 0.5068216323852539,
+        "TimelineFrequency": 0.446681410074234,
+        "AuthoritiesGovernance": 0.42385321855545044,
+        "DefinitionsReferences": 0.38849079608917236
+      }
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of Scheduled Castes and Scheduled Tribes Welfare of Madhya Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5434273481369019,
+      "similarities": {
+        "ContextObjective": 0.44299745559692383,
+        "BenefitsAssistance": 0.3877147436141968,
+        "Eligibility": 0.46035683155059814,
+        "ApplicationProcess": 0.39182284474372864,
+        "TimelineFrequency": 0.3642680048942566,
+        "AuthoritiesGovernance": 0.5434273481369019,
+        "DefinitionsReferences": 0.3631191849708557
+      }
+    },
+    {
+      "sentence": "This department is responsible for overseeing the implementation and monitoring of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.6434468030929565,
+      "similarities": {
+        "ContextObjective": 0.5530190467834473,
+        "BenefitsAssistance": 0.5100823640823364,
+        "Eligibility": 0.5312777757644653,
+        "ApplicationProcess": 0.5450423359870911,
+        "TimelineFrequency": 0.4600042998790741,
+        "AuthoritiesGovernance": 0.6434468030929565,
+        "DefinitionsReferences": 0.4508872330188751
+      }
+    },
+    {
+      "sentence": "Contact details for the Department of Scheduled Castes and Scheduled Tribes Welfare can be found on the official Madhya Pradesh government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49065306782722473,
+      "similarities": {
+        "ContextObjective": 0.41683053970336914,
+        "BenefitsAssistance": 0.4583212733268738,
+        "Eligibility": 0.44310396909713745,
+        "ApplicationProcess": 0.45922762155532837,
+        "TimelineFrequency": 0.3976474404335022,
+        "AuthoritiesGovernance": 0.49065306782722473,
+        "DefinitionsReferences": 0.42682555317878723
+      }
+    },
+    {
+      "sentence": "The scheme has been well-received by the target demographic.",
+      "role": "ContextObjective",
+      "confidence": 0.5831450819969177,
+      "similarities": {
+        "ContextObjective": 0.5831450819969177,
+        "BenefitsAssistance": 0.45839923620224,
+        "Eligibility": 0.5031354427337646,
+        "ApplicationProcess": 0.4492490291595459,
+        "TimelineFrequency": 0.4149286150932312,
+        "AuthoritiesGovernance": 0.43085527420043945,
+        "DefinitionsReferences": 0.4038925766944885
+      }
+    },
+    {
+      "sentence": "It aims to bridge the gap in civil service representation for Scheduled Castes and Scheduled Tribes.",
+      "role": "ContextObjective",
+      "confidence": 0.43396246433258057,
+      "similarities": {
+        "ContextObjective": 0.43396246433258057,
+        "BenefitsAssistance": 0.30214402079582214,
+        "Eligibility": 0.4062947928905487,
+        "ApplicationProcess": 0.37052029371261597,
+        "TimelineFrequency": 0.36840707063674927,
+        "AuthoritiesGovernance": 0.39353519678115845,
+        "DefinitionsReferences": 0.3072225749492645
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 50 crore for the initial phase of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.5069540143013,
+      "similarities": {
+        "ContextObjective": 0.5069540143013,
+        "BenefitsAssistance": 0.4404808580875397,
+        "Eligibility": 0.4479265511035919,
+        "ApplicationProcess": 0.4410480260848999,
+        "TimelineFrequency": 0.4102466106414795,
+        "AuthoritiesGovernance": 0.41571366786956787,
+        "DefinitionsReferences": 0.3498721718788147
+      }
+    },
+    {
+      "sentence": "This budget is intended to cover the financial assistance for the first year of implementation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5960823893547058,
+      "similarities": {
+        "ContextObjective": 0.47906434535980225,
+        "BenefitsAssistance": 0.5960823893547058,
+        "Eligibility": 0.49509286880493164,
+        "ApplicationProcess": 0.4513669013977051,
+        "TimelineFrequency": 0.46142205595970154,
+        "AuthoritiesGovernance": 0.49789637327194214,
+        "DefinitionsReferences": 0.4016013741493225
+      }
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance educational and employment opportunities for marginalized communities in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.5047812461853027,
+      "similarities": {
+        "ContextObjective": 0.5047812461853027,
+        "BenefitsAssistance": 0.41063082218170166,
+        "Eligibility": 0.44944924116134644,
+        "ApplicationProcess": 0.39066749811172485,
+        "TimelineFrequency": 0.3903213441371918,
+        "AuthoritiesGovernance": 0.4165390729904175,
+        "DefinitionsReferences": 0.36061322689056396
+      }
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also includes provisions for organizing workshops and seminars.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.526599109172821,
+      "similarities": {
+        "ContextObjective": 0.4900709390640259,
+        "BenefitsAssistance": 0.526599109172821,
+        "Eligibility": 0.46549689769744873,
+        "ApplicationProcess": 0.4320336580276489,
+        "TimelineFrequency": 0.4395720362663269,
+        "AuthoritiesGovernance": 0.4596312344074249,
+        "DefinitionsReferences": 0.4488397538661957
+      }
+    },
+    {
+      "sentence": "These workshops are designed to provide candidates with insights into civil service examinations and preparation strategies.",
+      "role": "TimelineFrequency",
+      "confidence": 0.47356224060058594,
+      "similarities": {
+        "ContextObjective": 0.4718504846096039,
+        "BenefitsAssistance": 0.3636496663093567,
+        "Eligibility": 0.44209107756614685,
+        "ApplicationProcess": 0.4731323719024658,
+        "TimelineFrequency": 0.47356224060058594,
+        "AuthoritiesGovernance": 0.43755409121513367,
+        "DefinitionsReferences": 0.4315485954284668
+      }
+    },
+    {
+      "sentence": "The scheme has been promoted through various outreach programs to ensure maximum awareness among potential beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.5567846298217773,
+      "similarities": {
+        "ContextObjective": 0.5567846298217773,
+        "BenefitsAssistance": 0.48097050189971924,
+        "Eligibility": 0.5396581888198853,
+        "ApplicationProcess": 0.46434348821640015,
+        "TimelineFrequency": 0.4187435507774353,
+        "AuthoritiesGovernance": 0.42384859919548035,
+        "DefinitionsReferences": 0.39938730001449585
+      }
+    },
+    {
+      "sentence": "Feedback from beneficiaries has indicated a positive impact on their preparation for civil services.",
+      "role": "Eligibility",
+      "confidence": 0.48942840099334717,
+      "similarities": {
+        "ContextObjective": 0.46562644839286804,
+        "BenefitsAssistance": 0.4555078148841858,
+        "Eligibility": 0.48942840099334717,
+        "ApplicationProcess": 0.42331570386886597,
+        "TimelineFrequency": 0.3964420557022095,
+        "AuthoritiesGovernance": 0.4226316213607788,
+        "DefinitionsReferences": 0.4129803776741028
+      }
+    },
+    {
+      "sentence": "The government plans to evaluate the scheme's effectiveness annually.",
+      "role": "ContextObjective",
+      "confidence": 0.5734192728996277,
+      "similarities": {
+        "ContextObjective": 0.5734192728996277,
+        "BenefitsAssistance": 0.470802903175354,
+        "Eligibility": 0.4922594428062439,
+        "ApplicationProcess": 0.4858549237251282,
+        "TimelineFrequency": 0.5025151968002319,
+        "AuthoritiesGovernance": 0.48119431734085083,
+        "DefinitionsReferences": 0.38897189497947693
+      }
+    },
+    {
+      "sentence": "This evaluation will help in making necessary adjustments to improve the scheme's reach and effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.5304112434387207,
+      "similarities": {
+        "ContextObjective": 0.5304112434387207,
+        "BenefitsAssistance": 0.4840274751186371,
+        "Eligibility": 0.5299383997917175,
+        "ApplicationProcess": 0.48420435190200806,
+        "TimelineFrequency": 0.4581032991409302,
+        "AuthoritiesGovernance": 0.5091663599014282,
+        "DefinitionsReferences": 0.41691920161247253
+      }
+    },
+    {
+      "sentence": "The Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana is a significant step towards social equity.",
+      "role": "ContextObjective",
+      "confidence": 0.4717198312282562,
+      "similarities": {
+        "ContextObjective": 0.4717198312282562,
+        "BenefitsAssistance": 0.3860892057418823,
+        "Eligibility": 0.43613287806510925,
+        "ApplicationProcess": 0.394003689289093,
+        "TimelineFrequency": 0.363081693649292,
+        "AuthoritiesGovernance": 0.4139804244041443,
+        "DefinitionsReferences": 0.36070072650909424
+      }
+    },
+    {
+      "sentence": "It aims to empower underrepresented communities by providing them with the necessary resources to succeed in civil services.",
+      "role": "ContextObjective",
+      "confidence": 0.4970782995223999,
+      "similarities": {
+        "ContextObjective": 0.4970782995223999,
+        "BenefitsAssistance": 0.3743817210197449,
+        "Eligibility": 0.4711295962333679,
+        "ApplicationProcess": 0.41076549887657166,
+        "TimelineFrequency": 0.3853954076766968,
+        "AuthoritiesGovernance": 0.4488327205181122,
+        "DefinitionsReferences": 0.35801565647125244
+      }
+    },
+    {
+      "sentence": "The scheme is aligned with the Government of India’s broader goals of inclusive development.",
+      "role": "ContextObjective",
+      "confidence": 0.5628268122673035,
+      "similarities": {
+        "ContextObjective": 0.5628268122673035,
+        "BenefitsAssistance": 0.439775675535202,
+        "Eligibility": 0.49058932065963745,
+        "ApplicationProcess": 0.40915751457214355,
+        "TimelineFrequency": 0.37813565135002136,
+        "AuthoritiesGovernance": 0.43287134170532227,
+        "DefinitionsReferences": 0.3933064937591553
+      }
+    },
+    {
+      "sentence": "It reflects the commitment of the Madhya Pradesh government to uplift marginalized sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.4282740652561188,
+      "similarities": {
+        "ContextObjective": 0.4282740652561188,
+        "BenefitsAssistance": 0.36415719985961914,
+        "Eligibility": 0.39740049839019775,
+        "ApplicationProcess": 0.32930076122283936,
+        "TimelineFrequency": 0.2949668765068054,
+        "AuthoritiesGovernance": 0.40114131569862366,
+        "DefinitionsReferences": 0.3556094765663147
+      }
+    },
+    {
+      "sentence": "The scheme is expected to contribute to a more diverse representation in civil services in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.4966595768928528,
+      "similarities": {
+        "ContextObjective": 0.4966595768928528,
+        "BenefitsAssistance": 0.4111928939819336,
+        "Eligibility": 0.4771379232406616,
+        "ApplicationProcess": 0.425018846988678,
+        "TimelineFrequency": 0.4075169861316681,
+        "AuthoritiesGovernance": 0.466144859790802,
+        "DefinitionsReferences": 0.38663211464881897
+      }
+    },
+    {
+      "sentence": "Regular updates and information regarding the scheme are provided on the official website of the Madhya Pradesh government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5027191638946533,
+      "similarities": {
+        "ContextObjective": 0.4791896343231201,
+        "BenefitsAssistance": 0.4933234751224518,
+        "Eligibility": 0.45369279384613037,
+        "ApplicationProcess": 0.5027191638946533,
+        "TimelineFrequency": 0.45608052611351013,
+        "AuthoritiesGovernance": 0.4868139624595642,
+        "DefinitionsReferences": 0.4392366111278534
+      }
+    },
+    {
+      "sentence": "Candidates are encouraged to stay informed about any changes in eligibility criteria or application procedures.",
+      "role": "Eligibility",
+      "confidence": 0.6192619204521179,
+      "similarities": {
+        "ContextObjective": 0.4873844385147095,
+        "BenefitsAssistance": 0.4962213933467865,
+        "Eligibility": 0.6192619204521179,
+        "ApplicationProcess": 0.5919033885002136,
+        "TimelineFrequency": 0.5793392062187195,
+        "AuthoritiesGovernance": 0.47547414898872375,
+        "DefinitionsReferences": 0.48058372735977173
+      }
+    },
+    {
+      "sentence": "The government is also exploring partnerships with coaching institutes to enhance the quality of training provided to beneficiaries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.45738399028778076,
+      "similarities": {
+        "ContextObjective": 0.42147406935691833,
+        "BenefitsAssistance": 0.3862442076206207,
+        "Eligibility": 0.42816388607025146,
+        "ApplicationProcess": 0.3705123960971832,
+        "TimelineFrequency": 0.3649061918258667,
+        "AuthoritiesGovernance": 0.45738399028778076,
+        "DefinitionsReferences": 0.4158278703689575
+      }
+    },
+    {
+      "sentence": "This initiative aims to ensure that candidates receive the best possible preparation for their examinations.",
+      "role": "ContextObjective",
+      "confidence": 0.5351953506469727,
+      "similarities": {
+        "ContextObjective": 0.5351953506469727,
+        "BenefitsAssistance": 0.39172640442848206,
+        "Eligibility": 0.5061988234519958,
+        "ApplicationProcess": 0.5130786895751953,
+        "TimelineFrequency": 0.4951133728027344,
+        "AuthoritiesGovernance": 0.42783641815185547,
+        "DefinitionsReferences": 0.4074605107307434
+      }
+    },
+    {
+      "sentence": "Overall, the Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana represents a proactive approach to addressing historical inequalities.",
+      "role": "ContextObjective",
+      "confidence": 0.47618281841278076,
+      "similarities": {
+        "ContextObjective": 0.47618281841278076,
+        "BenefitsAssistance": 0.4020400643348694,
+        "Eligibility": 0.44805270433425903,
+        "ApplicationProcess": 0.40979987382888794,
+        "TimelineFrequency": 0.4022770822048187,
+        "AuthoritiesGovernance": 0.4305683970451355,
+        "DefinitionsReferences": 0.3621695041656494
+      }
+    },
+    {
+      "sentence": "It serves as a model for other states to implement similar welfare schemes aimed at supporting marginalized communities.",
+      "role": "Eligibility",
+      "confidence": 0.46792879700660706,
+      "similarities": {
+        "ContextObjective": 0.459833562374115,
+        "BenefitsAssistance": 0.41159865260124207,
+        "Eligibility": 0.46792879700660706,
+        "ApplicationProcess": 0.380109965801239,
+        "TimelineFrequency": 0.36239367723464966,
+        "AuthoritiesGovernance": 0.4665363132953644,
+        "DefinitionsReferences": 0.4099388122558594
+      }
+    },
+    {
+      "sentence": "The success of this scheme could lead to increased representation of Scheduled Castes and Scheduled Tribes in civil services.",
+      "role": "ContextObjective",
+      "confidence": 0.46850520372390747,
+      "similarities": {
+        "ContextObjective": 0.46850520372390747,
+        "BenefitsAssistance": 0.35427147150039673,
+        "Eligibility": 0.4226289689540863,
+        "ApplicationProcess": 0.37291139364242554,
+        "TimelineFrequency": 0.35638248920440674,
+        "AuthoritiesGovernance": 0.3932307958602905,
+        "DefinitionsReferences": 0.35526376962661743
+      }
+    },
+    {
+      "sentence": "This, in turn, could foster greater trust in public institutions among these communities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4395415782928467,
+      "similarities": {
+        "ContextObjective": 0.43115323781967163,
+        "BenefitsAssistance": 0.3364068269729614,
+        "Eligibility": 0.3825242519378662,
+        "ApplicationProcess": 0.35565993189811707,
+        "TimelineFrequency": 0.31598690152168274,
+        "AuthoritiesGovernance": 0.4395415782928467,
+        "DefinitionsReferences": 0.3823840320110321
+      }
+    },
+    {
+      "sentence": "The scheme is a testament to the ongoing efforts of the Government of Madhya Pradesh to promote social justice and equality.",
+      "role": "ContextObjective",
+      "confidence": 0.5258698463439941,
+      "similarities": {
+        "ContextObjective": 0.5258698463439941,
+        "BenefitsAssistance": 0.38710346817970276,
+        "Eligibility": 0.4246377646923065,
+        "ApplicationProcess": 0.3931353688240051,
+        "TimelineFrequency": 0.35622695088386536,
+        "AuthoritiesGovernance": 0.4278743267059326,
+        "DefinitionsReferences": 0.3875000476837158
+      }
+    },
+    {
+      "sentence": "It highlights the importance of targeted interventions in achieving equitable access to opportunities in governance and public service.",
+      "role": "Eligibility",
+      "confidence": 0.49828535318374634,
+      "similarities": {
+        "ContextObjective": 0.48992908000946045,
+        "BenefitsAssistance": 0.3784268796443939,
+        "Eligibility": 0.49828535318374634,
+        "ApplicationProcess": 0.3957033157348633,
+        "TimelineFrequency": 0.417968213558197,
+        "AuthoritiesGovernance": 0.4817262589931488,
+        "DefinitionsReferences": 0.3989819884300232
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 20,
+    "BenefitsAssistance": 6,
+    "Eligibility": 12,
+    "ApplicationProcess": 9,
+    "TimelineFrequency": 3,
+    "AuthoritiesGovernance": 5
+  },
+  "processing_timestamp": "2025-09-25T20:47:00.392209"
+}

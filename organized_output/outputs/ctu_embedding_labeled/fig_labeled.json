@@ -1,0 +1,785 @@
+{
+  "scheme_name": "Farmers Interest Group (FIG)",
+  "total_sentences": 55,
+  "labeled_sentences": [
+    {
+      "sentence": "The Farmers Interest Group (FIG) scheme is an initiative launched by the Government of India to enhance the income and livelihood of farmers through collective action and cooperative efforts.",
+      "role": "ContextObjective",
+      "confidence": 0.569496750831604,
+      "similarities": {
+        "ContextObjective": 0.569496750831604,
+        "BenefitsAssistance": 0.44460904598236084,
+        "Eligibility": 0.47633856534957886,
+        "ApplicationProcess": 0.4113268256187439,
+        "TimelineFrequency": 0.4158387780189514,
+        "AuthoritiesGovernance": 0.46862661838531494,
+        "DefinitionsReferences": 0.38705211877822876
+      }
+    },
+    {
+      "sentence": "The FIG scheme was introduced in 2019 as part of the National Agricultural Development Programme.",
+      "role": "ContextObjective",
+      "confidence": 0.47410017251968384,
+      "similarities": {
+        "ContextObjective": 0.47410017251968384,
+        "BenefitsAssistance": 0.3860798478126526,
+        "Eligibility": 0.44119372963905334,
+        "ApplicationProcess": 0.424843430519104,
+        "TimelineFrequency": 0.4057275950908661,
+        "AuthoritiesGovernance": 0.36939239501953125,
+        "DefinitionsReferences": 0.3352970480918884
+      }
+    },
+    {
+      "sentence": "The primary objective of the FIG scheme is to organize farmers into groups to facilitate better access to resources, technology, and markets.",
+      "role": "ContextObjective",
+      "confidence": 0.5075955390930176,
+      "similarities": {
+        "ContextObjective": 0.5075955390930176,
+        "BenefitsAssistance": 0.3666307330131531,
+        "Eligibility": 0.41187915205955505,
+        "ApplicationProcess": 0.3791389763355255,
+        "TimelineFrequency": 0.36185434460639954,
+        "AuthoritiesGovernance": 0.4326661229133606,
+        "DefinitionsReferences": 0.3345712721347809
+      }
+    },
+    {
+      "sentence": "The scheme aims to create a network of at least 1 lakh Farmers Interest Groups across the country by the year 2024.",
+      "role": "ContextObjective",
+      "confidence": 0.512153148651123,
+      "similarities": {
+        "ContextObjective": 0.512153148651123,
+        "BenefitsAssistance": 0.33392512798309326,
+        "Eligibility": 0.428727388381958,
+        "ApplicationProcess": 0.37475404143333435,
+        "TimelineFrequency": 0.36254727840423584,
+        "AuthoritiesGovernance": 0.39452555775642395,
+        "DefinitionsReferences": 0.3285842835903168
+      }
+    },
+    {
+      "sentence": "Each FIG is expected to consist of 10 to 20 farmers who share similar interests and agricultural practices.",
+      "role": "Eligibility",
+      "confidence": 0.384215772151947,
+      "similarities": {
+        "ContextObjective": 0.37025120854377747,
+        "BenefitsAssistance": 0.35775360465049744,
+        "Eligibility": 0.384215772151947,
+        "ApplicationProcess": 0.33024320006370544,
+        "TimelineFrequency": 0.31972283124923706,
+        "AuthoritiesGovernance": 0.3521452248096466,
+        "DefinitionsReferences": 0.3761744499206543
+      }
+    },
+    {
+      "sentence": "The FIG scheme focuses on promoting sustainable agricultural practices and improving productivity through knowledge sharing and collaboration.",
+      "role": "ContextObjective",
+      "confidence": 0.4726440906524658,
+      "similarities": {
+        "ContextObjective": 0.4726440906524658,
+        "BenefitsAssistance": 0.3870692849159241,
+        "Eligibility": 0.3747682571411133,
+        "ApplicationProcess": 0.353471040725708,
+        "TimelineFrequency": 0.35310280323028564,
+        "AuthoritiesGovernance": 0.40362751483917236,
+        "DefinitionsReferences": 0.3513796329498291
+      }
+    },
+    {
+      "sentence": "One of the measurable targets of the FIG scheme is to increase the income of participating farmers by at least 30 percent within three years of joining the group.",
+      "role": "ContextObjective",
+      "confidence": 0.45562744140625,
+      "similarities": {
+        "ContextObjective": 0.45562744140625,
+        "BenefitsAssistance": 0.3800089359283447,
+        "Eligibility": 0.41860443353652954,
+        "ApplicationProcess": 0.33777377009391785,
+        "TimelineFrequency": 0.3416336178779602,
+        "AuthoritiesGovernance": 0.33007359504699707,
+        "DefinitionsReferences": 0.27894067764282227
+      }
+    },
+    {
+      "sentence": "The benefits of the FIG scheme include access to credit, training, and capacity building for farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4649600088596344,
+      "similarities": {
+        "ContextObjective": 0.4447844624519348,
+        "BenefitsAssistance": 0.4649600088596344,
+        "Eligibility": 0.4590120315551758,
+        "ApplicationProcess": 0.37767553329467773,
+        "TimelineFrequency": 0.3877691626548767,
+        "AuthoritiesGovernance": 0.3766171634197235,
+        "DefinitionsReferences": 0.37497037649154663
+      }
+    },
+    {
+      "sentence": "Farmers participating in FIGs are eligible for financial assistance of up to INR 50,000 per group for initial operational costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4918608069419861,
+      "similarities": {
+        "ContextObjective": 0.4171731770038605,
+        "BenefitsAssistance": 0.4918608069419861,
+        "Eligibility": 0.4859539866447449,
+        "ApplicationProcess": 0.4017903804779053,
+        "TimelineFrequency": 0.37929147481918335,
+        "AuthoritiesGovernance": 0.3592832088470459,
+        "DefinitionsReferences": 0.33050280809402466
+      }
+    },
+    {
+      "sentence": "Additionally, FIGs can avail of subsidies on various agricultural inputs such as seeds, fertilizers, and equipment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47959381341934204,
+      "similarities": {
+        "ContextObjective": 0.39986124634742737,
+        "BenefitsAssistance": 0.47959381341934204,
+        "Eligibility": 0.4407721161842346,
+        "ApplicationProcess": 0.37271633744239807,
+        "TimelineFrequency": 0.38627803325653076,
+        "AuthoritiesGovernance": 0.3479195237159729,
+        "DefinitionsReferences": 0.4289012551307678
+      }
+    },
+    {
+      "sentence": "The scheme also facilitates access to government schemes and programs aimed at enhancing agricultural productivity.",
+      "role": "ContextObjective",
+      "confidence": 0.5129032135009766,
+      "similarities": {
+        "ContextObjective": 0.5129032135009766,
+        "BenefitsAssistance": 0.4471888542175293,
+        "Eligibility": 0.47130119800567627,
+        "ApplicationProcess": 0.4504680335521698,
+        "TimelineFrequency": 0.4160524308681488,
+        "AuthoritiesGovernance": 0.4575268030166626,
+        "DefinitionsReferences": 0.41209396719932556
+      }
+    },
+    {
+      "sentence": "Eligibility criteria for joining a FIG include being a farmer or a member of a farming family.",
+      "role": "Eligibility",
+      "confidence": 0.5963471531867981,
+      "similarities": {
+        "ContextObjective": 0.4615291655063629,
+        "BenefitsAssistance": 0.4438897967338562,
+        "Eligibility": 0.5963471531867981,
+        "ApplicationProcess": 0.5008381605148315,
+        "TimelineFrequency": 0.44785675406455994,
+        "AuthoritiesGovernance": 0.3671395480632782,
+        "DefinitionsReferences": 0.3838410973548889
+      }
+    },
+    {
+      "sentence": "Farmers must be engaged in agricultural activities and have a minimum landholding of 0.5 acres to be eligible for the FIG scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4977986514568329,
+      "similarities": {
+        "ContextObjective": 0.4294024109840393,
+        "BenefitsAssistance": 0.38501250743865967,
+        "Eligibility": 0.4977986514568329,
+        "ApplicationProcess": 0.4539981782436371,
+        "TimelineFrequency": 0.3956976532936096,
+        "AuthoritiesGovernance": 0.3457612991333008,
+        "DefinitionsReferences": 0.3174557387828827
+      }
+    },
+    {
+      "sentence": "There are no specific age limits for joining a FIG, making it accessible to farmers of all ages.",
+      "role": "Eligibility",
+      "confidence": 0.4054335355758667,
+      "similarities": {
+        "ContextObjective": 0.3414737582206726,
+        "BenefitsAssistance": 0.3428739309310913,
+        "Eligibility": 0.4054335355758667,
+        "ApplicationProcess": 0.31251510977745056,
+        "TimelineFrequency": 0.3137053847312927,
+        "AuthoritiesGovernance": 0.2668660581111908,
+        "DefinitionsReferences": 0.2879813611507416
+      }
+    },
+    {
+      "sentence": "The application process for joining a FIG involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.6450229287147522,
+      "similarities": {
+        "ContextObjective": 0.5193526744842529,
+        "BenefitsAssistance": 0.49295955896377563,
+        "Eligibility": 0.5439438819885254,
+        "ApplicationProcess": 0.6450229287147522,
+        "TimelineFrequency": 0.5672350525856018,
+        "AuthoritiesGovernance": 0.45380592346191406,
+        "DefinitionsReferences": 0.4500553011894226
+      }
+    },
+    {
+      "sentence": "Farmers must first express their interest in forming or joining a FIG to the local agricultural extension officer.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4759613275527954,
+      "similarities": {
+        "ContextObjective": 0.4256007671356201,
+        "BenefitsAssistance": 0.3463115692138672,
+        "Eligibility": 0.44365420937538147,
+        "ApplicationProcess": 0.4759613275527954,
+        "TimelineFrequency": 0.3936120867729187,
+        "AuthoritiesGovernance": 0.38350021839141846,
+        "DefinitionsReferences": 0.3252648413181305
+      }
+    },
+    {
+      "sentence": "The agricultural extension officer will then conduct a preliminary assessment to ensure that the farmers meet the eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.5576615929603577,
+      "similarities": {
+        "ContextObjective": 0.4316455125808716,
+        "BenefitsAssistance": 0.3863935172557831,
+        "Eligibility": 0.5576615929603577,
+        "ApplicationProcess": 0.5248826742172241,
+        "TimelineFrequency": 0.4535616636276245,
+        "AuthoritiesGovernance": 0.43549129366874695,
+        "DefinitionsReferences": 0.3909890651702881
+      }
+    },
+    {
+      "sentence": "Once the assessment is complete, the officer will assist the farmers in forming the group and registering it with the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.4694119691848755,
+      "similarities": {
+        "ContextObjective": 0.42505598068237305,
+        "BenefitsAssistance": 0.36844974756240845,
+        "Eligibility": 0.44640976190567017,
+        "ApplicationProcess": 0.4694119691848755,
+        "TimelineFrequency": 0.3779639005661011,
+        "AuthoritiesGovernance": 0.45198333263397217,
+        "DefinitionsReferences": 0.3688114285469055
+      }
+    },
+    {
+      "sentence": "Farmers will need to provide documents such as proof of land ownership, identity proof, and a declaration of their farming activities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.5956053733825684,
+      "similarities": {
+        "ContextObjective": 0.4822580814361572,
+        "BenefitsAssistance": 0.514142632484436,
+        "Eligibility": 0.5345969796180725,
+        "ApplicationProcess": 0.5956053733825684,
+        "TimelineFrequency": 0.4787551760673523,
+        "AuthoritiesGovernance": 0.4319188594818115,
+        "DefinitionsReferences": 0.5138669013977051
+      }
+    },
+    {
+      "sentence": "The registration process typically takes about 15 to 30 days from the date of application submission.",
+      "role": "TimelineFrequency",
+      "confidence": 0.6143997311592102,
+      "similarities": {
+        "ContextObjective": 0.44256025552749634,
+        "BenefitsAssistance": 0.454733282327652,
+        "Eligibility": 0.5119966268539429,
+        "ApplicationProcess": 0.6014257073402405,
+        "TimelineFrequency": 0.6143997311592102,
+        "AuthoritiesGovernance": 0.44851213693618774,
+        "DefinitionsReferences": 0.4307011365890503
+      }
+    },
+    {
+      "sentence": "FIGs are expected to meet regularly to discuss agricultural practices, market trends, and other relevant issues.",
+      "role": "ContextObjective",
+      "confidence": 0.4133090376853943,
+      "similarities": {
+        "ContextObjective": 0.4133090376853943,
+        "BenefitsAssistance": 0.3806192874908447,
+        "Eligibility": 0.36759084463119507,
+        "ApplicationProcess": 0.3448387384414673,
+        "TimelineFrequency": 0.3957226574420929,
+        "AuthoritiesGovernance": 0.37602531909942627,
+        "DefinitionsReferences": 0.3837207853794098
+      }
+    },
+    {
+      "sentence": "The frequency of meetings is recommended to be at least once a month to ensure effective communication and collaboration.",
+      "role": "TimelineFrequency",
+      "confidence": 0.49698716402053833,
+      "similarities": {
+        "ContextObjective": 0.444918155670166,
+        "BenefitsAssistance": 0.38275063037872314,
+        "Eligibility": 0.3972366452217102,
+        "ApplicationProcess": 0.4300909638404846,
+        "TimelineFrequency": 0.49698716402053833,
+        "AuthoritiesGovernance": 0.4542250335216522,
+        "DefinitionsReferences": 0.40438008308410645
+      }
+    },
+    {
+      "sentence": "The FIG scheme is implemented by the Ministry of Agriculture and Farmers' Welfare at the national level.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4889238476753235,
+      "similarities": {
+        "ContextObjective": 0.4683241844177246,
+        "BenefitsAssistance": 0.42857909202575684,
+        "Eligibility": 0.4610140323638916,
+        "ApplicationProcess": 0.42186784744262695,
+        "TimelineFrequency": 0.3746064305305481,
+        "AuthoritiesGovernance": 0.4889238476753235,
+        "DefinitionsReferences": 0.34988558292388916
+      }
+    },
+    {
+      "sentence": "At the state level, the scheme is executed through the respective State Agricultural Departments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5479145050048828,
+      "similarities": {
+        "ContextObjective": 0.49829864501953125,
+        "BenefitsAssistance": 0.40547871589660645,
+        "Eligibility": 0.4795086979866028,
+        "ApplicationProcess": 0.4484284222126007,
+        "TimelineFrequency": 0.4096831679344177,
+        "AuthoritiesGovernance": 0.5479145050048828,
+        "DefinitionsReferences": 0.3930356204509735
+      }
+    },
+    {
+      "sentence": "Local agricultural extension officers play a crucial role in facilitating the formation and functioning of FIGs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.49904656410217285,
+      "similarities": {
+        "ContextObjective": 0.4305880069732666,
+        "BenefitsAssistance": 0.3678230047225952,
+        "Eligibility": 0.4381709098815918,
+        "ApplicationProcess": 0.4068039059638977,
+        "TimelineFrequency": 0.3796439468860626,
+        "AuthoritiesGovernance": 0.49904656410217285,
+        "DefinitionsReferences": 0.3997918963432312
+      }
+    },
+    {
+      "sentence": "The contact details for the Ministry of Agriculture and Farmers' Welfare can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.5031017661094666,
+      "similarities": {
+        "ContextObjective": 0.41637980937957764,
+        "BenefitsAssistance": 0.4659833312034607,
+        "Eligibility": 0.43938907980918884,
+        "ApplicationProcess": 0.48253917694091797,
+        "TimelineFrequency": 0.4079286456108093,
+        "AuthoritiesGovernance": 0.5031017661094666,
+        "DefinitionsReferences": 0.44595077633857727
+      }
+    },
+    {
+      "sentence": "Farmers can also reach out to their local agricultural offices for assistance with the FIG scheme.",
+      "role": "Eligibility",
+      "confidence": 0.4473031461238861,
+      "similarities": {
+        "ContextObjective": 0.44075697660446167,
+        "BenefitsAssistance": 0.42981553077697754,
+        "Eligibility": 0.4473031461238861,
+        "ApplicationProcess": 0.42083418369293213,
+        "TimelineFrequency": 0.3815422058105469,
+        "AuthoritiesGovernance": 0.44564417004585266,
+        "DefinitionsReferences": 0.3485044240951538
+      }
+    },
+    {
+      "sentence": "The FIG scheme is part of a broader strategy to empower farmers and promote cooperative farming in India.",
+      "role": "ContextObjective",
+      "confidence": 0.4674754738807678,
+      "similarities": {
+        "ContextObjective": 0.4674754738807678,
+        "BenefitsAssistance": 0.37322884798049927,
+        "Eligibility": 0.3895300030708313,
+        "ApplicationProcess": 0.3326701819896698,
+        "TimelineFrequency": 0.3218573033809662,
+        "AuthoritiesGovernance": 0.3634159564971924,
+        "DefinitionsReferences": 0.31966519355773926
+      }
+    },
+    {
+      "sentence": "The government aims to strengthen the agricultural value chain through the establishment of FIGs.",
+      "role": "ContextObjective",
+      "confidence": 0.440182626247406,
+      "similarities": {
+        "ContextObjective": 0.440182626247406,
+        "BenefitsAssistance": 0.33288100361824036,
+        "Eligibility": 0.382989764213562,
+        "ApplicationProcess": 0.351375937461853,
+        "TimelineFrequency": 0.33213961124420166,
+        "AuthoritiesGovernance": 0.3830828070640564,
+        "DefinitionsReferences": 0.359965980052948
+      }
+    },
+    {
+      "sentence": "By promoting collective farming, the FIG scheme seeks to reduce the risks associated with agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.42552924156188965,
+      "similarities": {
+        "ContextObjective": 0.42552924156188965,
+        "BenefitsAssistance": 0.34449875354766846,
+        "Eligibility": 0.38665613532066345,
+        "ApplicationProcess": 0.3315575420856476,
+        "TimelineFrequency": 0.3190278708934784,
+        "AuthoritiesGovernance": 0.3415852189064026,
+        "DefinitionsReferences": 0.2845814824104309
+      }
+    },
+    {
+      "sentence": "The scheme also encourages farmers to share resources such as machinery and tools, which can lead to cost savings.",
+      "role": "ContextObjective",
+      "confidence": 0.4159581661224365,
+      "similarities": {
+        "ContextObjective": 0.4159581661224365,
+        "BenefitsAssistance": 0.4099583029747009,
+        "Eligibility": 0.37504881620407104,
+        "ApplicationProcess": 0.36427009105682373,
+        "TimelineFrequency": 0.3703036904335022,
+        "AuthoritiesGovernance": 0.32906806468963623,
+        "DefinitionsReferences": 0.3734191954135895
+      }
+    },
+    {
+      "sentence": "FIGs can also engage in collective marketing of their produce to get better prices in the market.",
+      "role": "ContextObjective",
+      "confidence": 0.37636786699295044,
+      "similarities": {
+        "ContextObjective": 0.37636786699295044,
+        "BenefitsAssistance": 0.37295740842819214,
+        "Eligibility": 0.3268342614173889,
+        "ApplicationProcess": 0.313463032245636,
+        "TimelineFrequency": 0.3291231691837311,
+        "AuthoritiesGovernance": 0.31284868717193604,
+        "DefinitionsReferences": 0.31470930576324463
+      }
+    },
+    {
+      "sentence": "The government provides training programs for FIG members to enhance their skills in modern agricultural practices.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4416705071926117,
+      "similarities": {
+        "ContextObjective": 0.42003002762794495,
+        "BenefitsAssistance": 0.3905975818634033,
+        "Eligibility": 0.4267559051513672,
+        "ApplicationProcess": 0.4133972227573395,
+        "TimelineFrequency": 0.38858458399772644,
+        "AuthoritiesGovernance": 0.4416705071926117,
+        "DefinitionsReferences": 0.38914549350738525
+      }
+    },
+    {
+      "sentence": "These training programs cover topics such as organic farming, pest management, and post-harvest processing.",
+      "role": "TimelineFrequency",
+      "confidence": 0.4535805583000183,
+      "similarities": {
+        "ContextObjective": 0.44204702973365784,
+        "BenefitsAssistance": 0.4257334768772125,
+        "Eligibility": 0.4356505274772644,
+        "ApplicationProcess": 0.4410906434059143,
+        "TimelineFrequency": 0.4535805583000183,
+        "AuthoritiesGovernance": 0.43303370475769043,
+        "DefinitionsReferences": 0.4407826066017151
+      }
+    },
+    {
+      "sentence": "The FIG scheme also emphasizes the importance of using technology in agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.4469984769821167,
+      "similarities": {
+        "ContextObjective": 0.4469984769821167,
+        "BenefitsAssistance": 0.37792468070983887,
+        "Eligibility": 0.3776705265045166,
+        "ApplicationProcess": 0.37903207540512085,
+        "TimelineFrequency": 0.38220295310020447,
+        "AuthoritiesGovernance": 0.32116955518722534,
+        "DefinitionsReferences": 0.3550531268119812
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to adopt digital tools for better farm management and market access.",
+      "role": "ApplicationProcess",
+      "confidence": 0.45992398262023926,
+      "similarities": {
+        "ContextObjective": 0.3960658311843872,
+        "BenefitsAssistance": 0.41937389969825745,
+        "Eligibility": 0.4131683111190796,
+        "ApplicationProcess": 0.45992398262023926,
+        "TimelineFrequency": 0.39720603823661804,
+        "AuthoritiesGovernance": 0.4282768964767456,
+        "DefinitionsReferences": 0.42270776629447937
+      }
+    },
+    {
+      "sentence": "The government has partnered with various NGOs and agricultural universities to provide technical support to FIGs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.4584585726261139,
+      "similarities": {
+        "ContextObjective": 0.39970463514328003,
+        "BenefitsAssistance": 0.45354342460632324,
+        "Eligibility": 0.4259273111820221,
+        "ApplicationProcess": 0.3886210024356842,
+        "TimelineFrequency": 0.3835221827030182,
+        "AuthoritiesGovernance": 0.4584585726261139,
+        "DefinitionsReferences": 0.42859601974487305
+      }
+    },
+    {
+      "sentence": "The FIG scheme is aligned with the objectives of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.507001519203186,
+      "similarities": {
+        "ContextObjective": 0.507001519203186,
+        "BenefitsAssistance": 0.39829444885253906,
+        "Eligibility": 0.4250295162200928,
+        "ApplicationProcess": 0.3857070803642273,
+        "TimelineFrequency": 0.36269447207450867,
+        "AuthoritiesGovernance": 0.38995859026908875,
+        "DefinitionsReferences": 0.33031558990478516
+      }
+    },
+    {
+      "sentence": "Under PM-KISAN, eligible farmers receive direct cash transfers of INR 6,000 per year in three installments.",
+      "role": "Eligibility",
+      "confidence": 0.4369684159755707,
+      "similarities": {
+        "ContextObjective": 0.36669737100601196,
+        "BenefitsAssistance": 0.4258424937725067,
+        "Eligibility": 0.4369684159755707,
+        "ApplicationProcess": 0.38183391094207764,
+        "TimelineFrequency": 0.3612493574619293,
+        "AuthoritiesGovernance": 0.3448163866996765,
+        "DefinitionsReferences": 0.32283294200897217
+      }
+    },
+    {
+      "sentence": "The FIG scheme complements this by providing a platform for farmers to enhance their income through collective efforts.",
+      "role": "ContextObjective",
+      "confidence": 0.4914499521255493,
+      "similarities": {
+        "ContextObjective": 0.4914499521255493,
+        "BenefitsAssistance": 0.4376479387283325,
+        "Eligibility": 0.3920453190803528,
+        "ApplicationProcess": 0.35170531272888184,
+        "TimelineFrequency": 0.3274868130683899,
+        "AuthoritiesGovernance": 0.36720800399780273,
+        "DefinitionsReferences": 0.3398315906524658
+      }
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 1,000 crores for the implementation of the FIG scheme over the next five years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.4299974739551544,
+      "similarities": {
+        "ContextObjective": 0.4272140860557556,
+        "BenefitsAssistance": 0.4299974739551544,
+        "Eligibility": 0.41813114285469055,
+        "ApplicationProcess": 0.3733149766921997,
+        "TimelineFrequency": 0.37610727548599243,
+        "AuthoritiesGovernance": 0.4270746409893036,
+        "DefinitionsReferences": 0.3136920630931854
+      }
+    },
+    {
+      "sentence": "This funding will be utilized for capacity building, training, and providing financial assistance to FIGs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.5046501755714417,
+      "similarities": {
+        "ContextObjective": 0.4312307834625244,
+        "BenefitsAssistance": 0.5046501755714417,
+        "Eligibility": 0.46767085790634155,
+        "ApplicationProcess": 0.37490400671958923,
+        "TimelineFrequency": 0.4020833671092987,
+        "AuthoritiesGovernance": 0.43689846992492676,
+        "DefinitionsReferences": 0.38245874643325806
+      }
+    },
+    {
+      "sentence": "The FIG scheme is expected to benefit millions of farmers across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.4624992609024048,
+      "similarities": {
+        "ContextObjective": 0.4624992609024048,
+        "BenefitsAssistance": 0.4009317457675934,
+        "Eligibility": 0.4356738328933716,
+        "ApplicationProcess": 0.3396194875240326,
+        "TimelineFrequency": 0.3339160680770874,
+        "AuthoritiesGovernance": 0.35877156257629395,
+        "DefinitionsReferences": 0.30959686636924744
+      }
+    },
+    {
+      "sentence": "By 2024, the government aims to have at least 10 million farmers organized into FIGs.",
+      "role": "ContextObjective",
+      "confidence": 0.3906703591346741,
+      "similarities": {
+        "ContextObjective": 0.3906703591346741,
+        "BenefitsAssistance": 0.32652747631073,
+        "Eligibility": 0.37422001361846924,
+        "ApplicationProcess": 0.32742345333099365,
+        "TimelineFrequency": 0.332175076007843,
+        "AuthoritiesGovernance": 0.3516218066215515,
+        "DefinitionsReferences": 0.3221893310546875
+      }
+    },
+    {
+      "sentence": "The success of the FIG scheme will be measured through various indicators such as increased income, improved productivity, and enhanced market access.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.47012919187545776,
+      "similarities": {
+        "ContextObjective": 0.45022937655448914,
+        "BenefitsAssistance": 0.47012919187545776,
+        "Eligibility": 0.43495118618011475,
+        "ApplicationProcess": 0.3959168493747711,
+        "TimelineFrequency": 0.39179420471191406,
+        "AuthoritiesGovernance": 0.3674081265926361,
+        "DefinitionsReferences": 0.36380717158317566
+      }
+    },
+    {
+      "sentence": "Regular monitoring and evaluation will be conducted to assess the impact of the scheme on farmers' livelihoods.",
+      "role": "Eligibility",
+      "confidence": 0.487948477268219,
+      "similarities": {
+        "ContextObjective": 0.4608321487903595,
+        "BenefitsAssistance": 0.4688047170639038,
+        "Eligibility": 0.487948477268219,
+        "ApplicationProcess": 0.4544713497161865,
+        "TimelineFrequency": 0.42719408869743347,
+        "AuthoritiesGovernance": 0.4621115028858185,
+        "DefinitionsReferences": 0.407609224319458
+      }
+    },
+    {
+      "sentence": "The FIG scheme is a significant step towards achieving the goal of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.4537449777126312,
+      "similarities": {
+        "ContextObjective": 0.4537449777126312,
+        "BenefitsAssistance": 0.38575512170791626,
+        "Eligibility": 0.3747480511665344,
+        "ApplicationProcess": 0.3422970175743103,
+        "TimelineFrequency": 0.3368343710899353,
+        "AuthoritiesGovernance": 0.31458455324172974,
+        "DefinitionsReferences": 0.302048921585083
+      }
+    },
+    {
+      "sentence": "Through collective action, farmers can overcome challenges such as market volatility and climate change.",
+      "role": "Eligibility",
+      "confidence": 0.42606794834136963,
+      "similarities": {
+        "ContextObjective": 0.418731689453125,
+        "BenefitsAssistance": 0.40332481265068054,
+        "Eligibility": 0.42606794834136963,
+        "ApplicationProcess": 0.36147207021713257,
+        "TimelineFrequency": 0.3522929549217224,
+        "AuthoritiesGovernance": 0.4137604832649231,
+        "DefinitionsReferences": 0.3509085178375244
+      }
+    },
+    {
+      "sentence": "The government encourages the formation of FIGs in all states and union territories.",
+      "role": "ContextObjective",
+      "confidence": 0.4574887752532959,
+      "similarities": {
+        "ContextObjective": 0.4574887752532959,
+        "BenefitsAssistance": 0.3844590187072754,
+        "Eligibility": 0.4243979752063751,
+        "ApplicationProcess": 0.3804808259010315,
+        "TimelineFrequency": 0.3612217903137207,
+        "AuthoritiesGovernance": 0.39334046840667725,
+        "DefinitionsReferences": 0.3939726948738098
+      }
+    },
+    {
+      "sentence": "Farmers are urged to take advantage of this scheme to improve their agricultural practices and financial stability.",
+      "role": "ContextObjective",
+      "confidence": 0.46489274501800537,
+      "similarities": {
+        "ContextObjective": 0.46489274501800537,
+        "BenefitsAssistance": 0.4553990066051483,
+        "Eligibility": 0.454025536775589,
+        "ApplicationProcess": 0.4159294664859772,
+        "TimelineFrequency": 0.3834784924983978,
+        "AuthoritiesGovernance": 0.3705015182495117,
+        "DefinitionsReferences": 0.36490124464035034
+      }
+    },
+    {
+      "sentence": "The FIG scheme represents a shift towards a more cooperative and sustainable approach to agriculture in India.",
+      "role": "ContextObjective",
+      "confidence": 0.43285226821899414,
+      "similarities": {
+        "ContextObjective": 0.43285226821899414,
+        "BenefitsAssistance": 0.35953909158706665,
+        "Eligibility": 0.3608609437942505,
+        "ApplicationProcess": 0.3578449487686157,
+        "TimelineFrequency": 0.33171743154525757,
+        "AuthoritiesGovernance": 0.3517967462539673,
+        "DefinitionsReferences": 0.31646156311035156
+      }
+    },
+    {
+      "sentence": "By fostering collaboration among farmers, the FIG scheme aims to create a more resilient agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.43888968229293823,
+      "similarities": {
+        "ContextObjective": 0.43888968229293823,
+        "BenefitsAssistance": 0.33607935905456543,
+        "Eligibility": 0.35959774255752563,
+        "ApplicationProcess": 0.32020413875579834,
+        "TimelineFrequency": 0.31871944665908813,
+        "AuthoritiesGovernance": 0.3577035069465637,
+        "DefinitionsReferences": 0.2888779044151306
+      }
+    },
+    {
+      "sentence": "The government is committed to supporting farmers through various initiatives and programs, including the FIG scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.4420914947986603,
+      "similarities": {
+        "ContextObjective": 0.4420914947986603,
+        "BenefitsAssistance": 0.4304124712944031,
+        "Eligibility": 0.4348367750644684,
+        "ApplicationProcess": 0.40954649448394775,
+        "TimelineFrequency": 0.3725564479827881,
+        "AuthoritiesGovernance": 0.4059666395187378,
+        "DefinitionsReferences": 0.3801279664039612
+      }
+    },
+    {
+      "sentence": "Farmers are encouraged to stay informed about the FIG scheme and participate actively in their local agricultural communities.",
+      "role": "ContextObjective",
+      "confidence": 0.43589550256729126,
+      "similarities": {
+        "ContextObjective": 0.43589550256729126,
+        "BenefitsAssistance": 0.3894845247268677,
+        "Eligibility": 0.41878801584243774,
+        "ApplicationProcess": 0.3802454471588135,
+        "TimelineFrequency": 0.3535510301589966,
+        "AuthoritiesGovernance": 0.39343440532684326,
+        "DefinitionsReferences": 0.3440861701965332
+      }
+    },
+    {
+      "sentence": "The FIG scheme is a testament to the government's dedication to enhancing the livelihoods of farmers across India.",
+      "role": "ContextObjective",
+      "confidence": 0.4525545537471771,
+      "similarities": {
+        "ContextObjective": 0.4525545537471771,
+        "BenefitsAssistance": 0.3889662027359009,
+        "Eligibility": 0.4097548723220825,
+        "ApplicationProcess": 0.3510861098766327,
+        "TimelineFrequency": 0.32471996545791626,
+        "AuthoritiesGovernance": 0.37320396304130554,
+        "DefinitionsReferences": 0.35584864020347595
+      }
+    }
+  ],
+  "role_distribution": {
+    "ContextObjective": 26,
+    "Eligibility": 9,
+    "BenefitsAssistance": 6,
+    "ApplicationProcess": 5,
+    "TimelineFrequency": 3,
+    "AuthoritiesGovernance": 6
+  },
+  "processing_timestamp": "2025-09-25T20:34:06.503321"
+}
