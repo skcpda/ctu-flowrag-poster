@@ -1,0 +1,224 @@
+{
+  "total_files_processed": 10,
+  "files": {
+    "srrna_relations.json": {
+      "total_pairs": 923,
+      "relation_distribution": {
+        "ELABORATES": 117,
+        "SUPPORTS": 249,
+        "CONDITIONS": 50,
+        "PRECEDES": 11,
+        "NONE": 496
+      },
+      "method_distribution": {
+        "gpt": 847,
+        "rule_based": 76
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 47,
+        "Eligibility->TimelineFrequency": 2,
+        "Eligibility->ApplicationProcess": 1
+      },
+      "density_percentage": 46.26218851570964,
+      "average_edges_per_node": 6.777777777777778
+    },
+    "ksmsmerrs_relations.json": {
+      "total_pairs": 750,
+      "relation_distribution": {
+        "PRECEDES": 8,
+        "ELABORATES": 94,
+        "SUPPORTS": 253,
+        "CAUSES": 4,
+        "CONDITIONS": 39,
+        "NONE": 352
+      },
+      "method_distribution": {
+        "gpt": 684,
+        "rule_based": 62,
+        "embedding": 4
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 38,
+        "Eligibility->TimelineFrequency": 1
+      },
+      "density_percentage": 53.06666666666666,
+      "average_edges_per_node": 6.982456140350878
+    },
+    "sqc-mesifai-vi_relations.json": {
+      "total_pairs": 834,
+      "relation_distribution": {
+        "SUPPORTS": 232,
+        "ELABORATES": 95,
+        "PRECEDES": 14,
+        "CAUSES": 11,
+        "CONDITIONS": 37,
+        "NONE": 445
+      },
+      "method_distribution": {
+        "gpt": 775,
+        "rule_based": 59
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 34,
+        "Eligibility->ApplicationProcess": 2,
+        "AuthoritiesGovernance->ApplicationProcess": 1
+      },
+      "density_percentage": 46.642685851318944,
+      "average_edges_per_node": 7.072727272727272
+    },
+    "maps_relations.json": {
+      "total_pairs": 2094,
+      "relation_distribution": {
+        "ELABORATES": 90,
+        "CONDITIONS": 50,
+        "PRECEDES": 8,
+        "NONE": 1946
+      },
+      "method_distribution": {
+        "rule_based": 148,
+        "gpt": 1946
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 50
+      },
+      "density_percentage": 7.067812798471825,
+      "average_edges_per_node": 2.208955223880597
+    },
+    "snwwh_relations.json": {
+      "total_pairs": 800,
+      "relation_distribution": {
+        "SUPPORTS": 240,
+        "ELABORATES": 96,
+        "CAUSES": 5,
+        "PRECEDES": 8,
+        "CONDITIONS": 40,
+        "NONE": 411
+      },
+      "method_distribution": {
+        "gpt": 729,
+        "rule_based": 71
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 32,
+        "Eligibility->ApplicationProcess": 7,
+        "Eligibility->TimelineFrequency": 1
+      },
+      "density_percentage": 48.625,
+      "average_edges_per_node": 7.072727272727272
+    },
+    "tfefvs_relations.json": {
+      "total_pairs": 655,
+      "relation_distribution": {
+        "PRECEDES": 12,
+        "SUPPORTS": 214,
+        "ELABORATES": 86,
+        "CAUSES": 1,
+        "CONDITIONS": 34,
+        "NONE": 308
+      },
+      "method_distribution": {
+        "gpt": 596,
+        "rule_based": 55,
+        "embedding": 4
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 25,
+        "Eligibility->TimelineFrequency": 9
+      },
+      "density_percentage": 52.97709923664122,
+      "average_edges_per_node": 6.94
+    },
+    "adtwspe_relations.json": {
+      "total_pairs": 1187,
+      "relation_distribution": {
+        "ELABORATES": 127,
+        "SUPPORTS": 291,
+        "CAUSES": 5,
+        "CONDITIONS": 59,
+        "PRECEDES": 15,
+        "CONTRADICTS": 1,
+        "NONE": 689
+      },
+      "method_distribution": {
+        "gpt": 1126,
+        "rule_based": 61
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 45,
+        "Eligibility->TimelineFrequency": 14
+      },
+      "density_percentage": 41.954507160909856,
+      "average_edges_per_node": 7.432835820895522
+    },
+    "sfcssuds_relations.json": {
+      "total_pairs": 1488,
+      "relation_distribution": {
+        "SUPPORTS": 300,
+        "ELABORATES": 124,
+        "CONTRADICTS": 2,
+        "PRECEDES": 15,
+        "CONDITIONS": 72,
+        "CAUSES": 1,
+        "NONE": 974
+      },
+      "method_distribution": {
+        "gpt": 1378,
+        "rule_based": 110
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 58,
+        "Eligibility->TimelineFrequency": 12,
+        "Eligibility->ApplicationProcess": 2
+      },
+      "density_percentage": 34.543010752688176,
+      "average_edges_per_node": 7.23943661971831
+    },
+    "ismpsistl_relations.json": {
+      "total_pairs": 1987,
+      "relation_distribution": {
+        "SUPPORTS": 257,
+        "ELABORATES": 118,
+        "CAUSES": 4,
+        "CONDITIONS": 57,
+        "PRECEDES": 4,
+        "NONE": 1547
+      },
+      "method_distribution": {
+        "gpt": 1869,
+        "rule_based": 118
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 51,
+        "Eligibility->TimelineFrequency": 6
+      },
+      "density_percentage": 22.14393558127831,
+      "average_edges_per_node": 6.197183098591549
+    },
+    "cdpnersgn_relations.json": {
+      "total_pairs": 1525,
+      "relation_distribution": {
+        "PRECEDES": 12,
+        "SUPPORTS": 332,
+        "ELABORATES": 135,
+        "CAUSES": 13,
+        "CONDITIONS": 67,
+        "NONE": 966
+      },
+      "method_distribution": {
+        "gpt": 1422,
+        "rule_based": 103
+      },
+      "conditions_role_pairs": {
+        "Eligibility->BenefitsAssistance": 63,
+        "Eligibility->ApplicationProcess": 4
+      },
+      "density_percentage": 36.65573770491803,
+      "average_edges_per_node": 7.554054054054054
+    }
+  },
+  "overall_stats": {
+    "total_relations": 12243,
+    "average_density": 38.99386442686026,
+    "average_edges_per_node": 6.547815328072323
+  }
+}

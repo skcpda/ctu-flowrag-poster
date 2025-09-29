@@ -104,3 +104,5 @@ ctu-flowrag/
 **🎉 Mission Accomplished!** 
 
 The CTU FlowRAG project is now complete with a production-ready pipeline that processes government welfare schemes into knowledge graphs at minimal cost. The fine-tuned BGE model was the key breakthrough, achieving 95%+ cost reduction while maintaining high quality! 🚀
+
+
