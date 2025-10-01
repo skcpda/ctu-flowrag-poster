@@ -1,0 +1,591 @@
+{
+  "scheme_name": "SUBHADRA",
+  "total_sentences": 57,
+  "ctus": [
+    {
+      "sentence": "The Subhadra scheme is a welfare initiative launched by the Government of India aimed at providing financial assistance to women.",
+      "text": "The Subhadra scheme is a welfare initiative launched by the Government of India aimed at providing financial assistance to women.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was officially launched on March 8, 2021, coinciding with International Women’s Day.",
+      "text": "The scheme was officially launched on March 8, 2021, coinciding with International Women’s Day.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is part of the broader efforts by the Indian government to empower women and promote gender equality in society.",
+      "text": "This initiative is part of the broader efforts by the Indian government to empower women and promote gender equality in society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Subhadra scheme is to provide financial support to women for their economic upliftment.",
+      "text": "The primary objective of the Subhadra scheme is to provide financial support to women for their economic upliftment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to enhance the livelihood opportunities for women by providing them with the necessary financial resources.",
+      "text": "The scheme aims to enhance the livelihood opportunities for women by providing them with the necessary financial resources.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The target beneficiaries of the Subhadra scheme are women from economically weaker sections of society.",
+      "text": "The target beneficiaries of the Subhadra scheme are women from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically focuses on women who are heads of households or belong to marginalized communities.",
+      "text": "The scheme specifically focuses on women who are heads of households or belong to marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligible women can receive financial assistance of up to INR 50,000.",
+      "text": "Eligible women can receive financial assistance of up to INR 50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This amount is intended to help them start or expand small businesses or engage in self-employment activities.",
+      "text": "This amount is intended to help them start or expand small businesses or engage in self-employment activities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to promote skill development among women to enhance their employability.",
+      "text": "The scheme also aims to promote skill development among women to enhance their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women beneficiaries are encouraged to participate in training programs that will equip them with necessary skills.",
+      "text": "Women beneficiaries are encouraged to participate in training programs that will equip them with necessary skills.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "SUBHADRA",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Subhadra scheme has set a target of reaching at least 1 million women across the country in its first year of implementation.",
+      "text": "The Subhadra scheme has set a target of reaching at least 1 million women across the country in its first year of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to ensure that at least 30 percent of the beneficiaries are from Scheduled Castes and Scheduled Tribes.",
+      "text": "The government aims to ensure that at least 30 percent of the beneficiaries are from Scheduled Castes and Scheduled Tribes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria for the Subhadra scheme include being a woman aged 18 years or above.",
+      "text": "The eligibility criteria for the Subhadra scheme include being a woman aged 18 years or above.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must belong to families with an annual income of less than INR 3 lakh.",
+      "text": "Applicants must belong to families with an annual income of less than INR 3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women who have completed at least 8th grade in school are given preference in the selection process.",
+      "text": "Women who have completed at least 8th grade in school are given preference in the selection process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Subhadra scheme is designed to be straightforward and user-friendly.",
+      "text": "The application process for the Subhadra scheme is designed to be straightforward and user-friendly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested applicants can apply online through the official government portal dedicated to the scheme.",
+      "text": "Interested applicants can apply online through the official government portal dedicated to the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires basic personal information such as name, age, and income details.",
+      "text": "The application form requires basic personal information such as name, age, and income details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also provide proof of identity and income, such as an Aadhar card and income certificate.",
+      "text": "Applicants must also provide proof of identity and income, such as an Aadhar card and income certificate.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the designated authorities.",
+      "text": "Once the application is submitted, it is reviewed by the designated authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The review process typically takes about 30 days from the date of application submission.",
+      "text": "The review process typically takes about 30 days from the date of application submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Successful applicants will receive a notification via SMS or email regarding their approval status.",
+      "text": "Successful applicants will receive a notification via SMS or email regarding their approval status.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "SUBHADRA",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The disbursement of funds under the Subhadra scheme is done directly into the beneficiaries' bank accounts.",
+      "text": "The disbursement of funds under the Subhadra scheme is done directly into the beneficiaries' bank accounts.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Payments are made in a single installment to ensure that women have immediate access to the funds.",
+      "text": "Payments are made in a single installment to ensure that women have immediate access to the funds.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has partnered with various financial institutions to facilitate the smooth disbursement of funds.",
+      "text": "The government has partnered with various financial institutions to facilitate the smooth disbursement of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Subhadra scheme is the Ministry of Women and Child Development.",
+      "text": "The implementing authority for the Subhadra scheme is the Ministry of Women and Child Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "State governments are also involved in the implementation and monitoring of the scheme at the local level.",
+      "text": "State governments are also involved in the implementation and monitoring of the scheme at the local level.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Ministry has set up a helpline number for beneficiaries to address any queries or issues related to the scheme.",
+      "text": "The Ministry has set up a helpline number for beneficiaries to address any queries or issues related to the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The helpline number is 1800-123-4567 and is operational from 9 AM to 6 PM on all working days.",
+      "text": "The helpline number is 1800-123-4567 and is operational from 9 AM to 6 PM on all working days.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "SUBHADRA",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Subhadra scheme is part of a larger framework of initiatives aimed at women's empowerment in India.",
+      "text": "The Subhadra scheme is part of a larger framework of initiatives aimed at women's empowerment in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These initiatives include the Beti Bachao Beti Padhao scheme and the Mahila E-Haat platform.",
+      "text": "These initiatives include the Beti Bachao Beti Padhao scheme and the Mahila E-Haat platform.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 500 crore for the implementation of the Subhadra scheme over the next five years.",
+      "text": "The government has allocated a budget of INR 500 crore for the implementation of the Subhadra scheme over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme will be conducted regularly to assess its impact on women's livelihoods.",
+      "text": "Monitoring and evaluation of the scheme will be conducted regularly to assess its impact on women's livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to publish an annual report detailing the progress of the scheme and its beneficiaries.",
+      "text": "The government aims to publish an annual report detailing the progress of the scheme and its beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Subhadra scheme is expected to contribute significantly to reducing the gender gap in economic participation.",
+      "text": "The Subhadra scheme is expected to contribute significantly to reducing the gender gap in economic participation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme aims to enhance women's decision-making power within households.",
+      "text": "By providing financial assistance, the scheme aims to enhance women's decision-making power within households.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also seeks to promote entrepreneurship among women, thereby fostering economic independence.",
+      "text": "The scheme also seeks to promote entrepreneurship among women, thereby fostering economic independence.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial assistance, the Subhadra scheme emphasizes the importance of community support.",
+      "text": "In addition to financial assistance, the Subhadra scheme emphasizes the importance of community support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women are encouraged to form self-help groups to share experiences and resources.",
+      "text": "Women are encouraged to form self-help groups to share experiences and resources.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These groups can also facilitate collective bargaining and access to markets for their products.",
+      "text": "These groups can also facilitate collective bargaining and access to markets for their products.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "SUBHADRA",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is also working on creating awareness about the scheme through various outreach programs.",
+      "text": "The government is also working on creating awareness about the scheme through various outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Workshops and seminars are being organized in rural and urban areas to educate women about the benefits of the scheme.",
+      "text": "Workshops and seminars are being organized in rural and urban areas to educate women about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Collaboration with NGOs and local organizations is being sought to reach out to potential beneficiaries.",
+      "text": "Collaboration with NGOs and local organizations is being sought to reach out to potential beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "SUBHADRA",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The success of the Subhadra scheme will be measured through various indicators such as the number of women empowered and businesses started.",
+      "text": "The success of the Subhadra scheme will be measured through various indicators such as the number of women empowered and businesses started.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to conduct surveys to gather feedback from beneficiaries to improve the scheme further.",
+      "text": "The government aims to conduct surveys to gather feedback from beneficiaries to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The long-term vision of the Subhadra scheme is to create a more inclusive economy where women play a pivotal role.",
+      "text": "The long-term vision of the Subhadra scheme is to create a more inclusive economy where women play a pivotal role.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By addressing the financial barriers faced by women, the scheme aims to foster a culture of entrepreneurship.",
+      "text": "By addressing the financial barriers faced by women, the scheme aims to foster a culture of entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Subhadra scheme is a step towards achieving the Sustainable Development Goals related to gender equality.",
+      "text": "The Subhadra scheme is a step towards achieving the Sustainable Development Goals related to gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Subhadra scheme represents a significant commitment by the Indian government to uplift women economically and socially.",
+      "text": "Overall, the Subhadra scheme represents a significant commitment by the Indian government to uplift women economically and socially.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is designed to empower women to take charge of their financial futures and contribute to the economy.",
+      "text": "It is designed to empower women to take charge of their financial futures and contribute to the economy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to have a transformative impact on the lives of millions of women across India.",
+      "text": "The scheme is expected to have a transformative impact on the lives of millions of women across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing targeted support and resources, the Subhadra scheme aims to create a more equitable society.",
+      "text": "By providing targeted support and resources, the Subhadra scheme aims to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Subhadra scheme is a comprehensive initiative that addresses the multifaceted challenges faced by women in India.",
+      "text": "In conclusion, the Subhadra scheme is a comprehensive initiative that addresses the multifaceted challenges faced by women in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It combines financial assistance with skill development and community support to ensure sustainable empowerment.",
+      "text": "It combines financial assistance with skill development and community support to ensure sustainable empowerment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a vital part of India's broader strategy to enhance women's participation in the workforce.",
+      "text": "The scheme is a vital part of India's broader strategy to enhance women's participation in the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government remains committed to monitoring and improving the scheme to maximize its impact on women's lives.",
+      "text": "The government remains committed to monitoring and improving the scheme to maximize its impact on women's lives.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "SUBHADRA",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T21:25:50.930524",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 57,
+    "role_distribution": {
+      "ContextObjective": 31,
+      "BenefitsAssistance": 10,
+      "AuthoritiesGovernance": 3,
+      "Eligibility": 3,
+      "ApplicationProcess": 8,
+      "TimelineFrequency": 1,
+      "DefinitionsReferences": 1
+    }
+  }
+}

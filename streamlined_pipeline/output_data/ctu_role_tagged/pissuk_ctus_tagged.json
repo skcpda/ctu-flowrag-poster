@@ -1,0 +1,679 @@
+{
+  "scheme_name": "Personal Interest Subsidy Scheme",
+  "total_sentences": 66,
+  "ctus": [
+    {
+      "sentence": "The Personal Interest Subsidy Scheme is an initiative launched by the Government of India to provide financial assistance to individuals seeking to purchase homes.",
+      "text": "The Personal Interest Subsidy Scheme is an initiative launched by the Government of India to provide financial assistance to individuals seeking to purchase homes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was officially launched on June 17, 2016.",
+      "text": "This scheme was officially launched on June 17, 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is part of the broader Housing for All initiative under the Pradhan Mantri Awas Yojana.",
+      "text": "It is part of the broader Housing for All initiative under the Pradhan Mantri Awas Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Personal Interest Subsidy Scheme is to make housing affordable for the economically weaker sections of society.",
+      "text": "The primary objective of the Personal Interest Subsidy Scheme is to make housing affordable for the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide interest subsidies on home loans taken by eligible beneficiaries.",
+      "text": "The scheme aims to provide interest subsidies on home loans taken by eligible beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The target beneficiaries include individuals from the Economically Weaker Section, Low Income Group, and Middle Income Group.",
+      "text": "The target beneficiaries include individuals from the Economically Weaker Section, Low Income Group, and Middle Income Group.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under the scheme, the government provides an interest subsidy of up to 6.5 percent on home loans.",
+      "text": "Under the scheme, the government provides an interest subsidy of up to 6.5 percent on home loans.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This subsidy is applicable for loans up to ₹6 lakh.",
+      "text": "This subsidy is applicable for loans up to ₹6 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The maximum subsidy amount translates to a benefit of approximately ₹2.67 lakh over the loan tenure.",
+      "text": "The maximum subsidy amount translates to a benefit of approximately ₹2.67 lakh over the loan tenure.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to encourage home ownership among first-time buyers.",
+      "text": "The scheme is designed to encourage home ownership among first-time buyers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Personal Interest Subsidy Scheme is applicable for loans taken for the purchase of new or existing houses.",
+      "text": "The Personal Interest Subsidy Scheme is applicable for loans taken for the purchase of new or existing houses.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also covers loans for construction of houses on owned land.",
+      "text": "It also covers loans for construction of houses on owned land.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The eligibility criteria for the scheme include specific income limits.",
+      "text": "The eligibility criteria for the scheme include specific income limits.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For the Economically Weaker Section, the annual income limit is set at ₹3 lakh.",
+      "text": "For the Economically Weaker Section, the annual income limit is set at ₹3 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For the Low Income Group, the annual income limit is set at ₹6 lakh.",
+      "text": "For the Low Income Group, the annual income limit is set at ₹6 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For the Middle Income Group I, the annual income limit is set at ₹12 lakh.",
+      "text": "For the Middle Income Group I, the annual income limit is set at ₹12 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For the Middle Income Group II, the annual income limit is set at ₹18 lakh.",
+      "text": "For the Middle Income Group II, the annual income limit is set at ₹18 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must be first-time home buyers to qualify for the subsidy.",
+      "text": "Applicants must be first-time home buyers to qualify for the subsidy.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The age of the applicant must be at least 18 years.",
+      "text": "The age of the applicant must be at least 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to apply for the scheme.",
+      "text": "There are no specific educational qualifications required to apply for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Personal Interest Subsidy Scheme is straightforward.",
+      "text": "The application process for the Personal Interest Subsidy Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must approach a lending institution or bank that is registered under the scheme.",
+      "text": "Applicants must approach a lending institution or bank that is registered under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The required documents include proof of identity such as Aadhaar card or PAN card.",
+      "text": "The required documents include proof of identity such as Aadhaar card or PAN card.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Proof of income such as salary slips or income tax returns must also be submitted.",
+      "text": "Proof of income such as salary slips or income tax returns must also be submitted.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, applicants must provide proof of ownership of the property or land.",
+      "text": "Additionally, applicants must provide proof of ownership of the property or land.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The lending institution will assess the application and verify the documents.",
+      "text": "The lending institution will assess the application and verify the documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once approved, the bank will disburse the loan amount to the applicant.",
+      "text": "Once approved, the bank will disburse the loan amount to the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The interest subsidy will be credited to the borrower's account by the lending institution.",
+      "text": "The interest subsidy will be credited to the borrower's account by the lending institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The subsidy is applicable for a loan tenure of up to 20 years.",
+      "text": "The subsidy is applicable for a loan tenure of up to 20 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of the subsidy is done in a single installment.",
+      "text": "The disbursement of the subsidy is done in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is available for loans sanctioned until March 31, 2022.",
+      "text": "The scheme is available for loans sanctioned until March 31, 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, the government has extended the benefits for certain categories until March 31, 2024.",
+      "text": "However, the government has extended the benefits for certain categories until March 31, 2024.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Personal Interest Subsidy Scheme is the Ministry of Housing and Urban Affairs.",
+      "text": "The implementing authority for the Personal Interest Subsidy Scheme is the Ministry of Housing and Urban Affairs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ministry is responsible for overseeing the implementation of the scheme across the country.",
+      "text": "The ministry is responsible for overseeing the implementation of the scheme across the country.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of the larger vision to provide affordable housing to all citizens.",
+      "text": "The scheme is part of the larger vision to provide affordable housing to all citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the scheme has benefitted millions of families across India.",
+      "text": "As of October 2023, the scheme has benefitted millions of families across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has reported that over 1.12 crore houses have been sanctioned under the Pradhan Mantri Awas Yojana.",
+      "text": "The government has reported that over 1.12 crore houses have been sanctioned under the Pradhan Mantri Awas Yojana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Personal Interest Subsidy Scheme has played a crucial role in this achievement.",
+      "text": "The Personal Interest Subsidy Scheme has played a crucial role in this achievement.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has contributed to the overall growth of the real estate sector in India.",
+      "text": "The scheme has contributed to the overall growth of the real estate sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has also stimulated job creation in the construction and related industries.",
+      "text": "It has also stimulated job creation in the construction and related industries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The interest subsidy has made a significant difference in the monthly EMI burden for borrowers.",
+      "text": "The interest subsidy has made a significant difference in the monthly EMI burden for borrowers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For example, a loan of ₹6 lakh at an interest rate of 9.5 percent would have an EMI of approximately ₹6,200.",
+      "text": "For example, a loan of ₹6 lakh at an interest rate of 9.5 percent would have an EMI of approximately ₹6,200.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "With the subsidy of 6.5 percent, the EMI reduces to around ₹4,300.",
+      "text": "With the subsidy of 6.5 percent, the EMI reduces to around ₹4,300.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This reduction in EMI makes home loans more accessible to low and middle-income families.",
+      "text": "This reduction in EMI makes home loans more accessible to low and middle-income families.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also encourages financial institutions to offer loans to underserved segments of the population.",
+      "text": "The scheme also encourages financial institutions to offer loans to underserved segments of the population.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Banks and financial institutions are incentivized to participate in the scheme due to the government backing.",
+      "text": "Banks and financial institutions are incentivized to participate in the scheme due to the government backing.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Personal Interest Subsidy Scheme is an integral part of the government's efforts to promote inclusive growth.",
+      "text": "The Personal Interest Subsidy Scheme is an integral part of the government's efforts to promote inclusive growth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to bridge the housing gap in urban and rural areas.",
+      "text": "It aims to bridge the housing gap in urban and rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also been instrumental in empowering women by promoting home ownership.",
+      "text": "The scheme has also been instrumental in empowering women by promoting home ownership.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women are encouraged to be co-applicants or primary applicants for home loans.",
+      "text": "Women are encouraged to be co-applicants or primary applicants for home loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has emphasized the importance of women's participation in the housing sector.",
+      "text": "The government has emphasized the importance of women's participation in the housing sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aligns with the Sustainable Development Goals set by the United Nations.",
+      "text": "The scheme aligns with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to ensure access to safe and affordable housing for all.",
+      "text": "It aims to ensure access to safe and affordable housing for all.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Personal Interest Subsidy Scheme has received positive feedback from beneficiaries.",
+      "text": "The Personal Interest Subsidy Scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many families have expressed gratitude for the financial relief provided by the subsidy.",
+      "text": "Many families have expressed gratitude for the financial relief provided by the subsidy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has also been recognized for its role in enhancing the quality of life for many households.",
+      "text": "The scheme has also been recognized for its role in enhancing the quality of life for many households.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the impact of the scheme.",
+      "text": "The government continues to monitor and evaluate the impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to ensure that the objectives are being met.",
+      "text": "Regular assessments are conducted to ensure that the objectives are being met.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to evolve based on the changing needs of the population.",
+      "text": "The scheme is expected to evolve based on the changing needs of the population.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Personal Interest Subsidy Scheme is a vital initiative aimed at making housing affordable for all.",
+      "text": "In conclusion, the Personal Interest Subsidy Scheme is a vital initiative aimed at making housing affordable for all.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides significant financial assistance to first-time home buyers.",
+      "text": "It provides significant financial assistance to first-time home buyers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has set measurable targets and has achieved considerable success since its launch.",
+      "text": "The scheme has set measurable targets and has achieved considerable success since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It continues to play a crucial role in the government's vision of Housing for All by 2022.",
+      "text": "It continues to play a crucial role in the government's vision of Housing for All by 2022.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to improving the living standards of its citizens.",
+      "text": "The scheme is a testament to the government's commitment to improving the living standards of its citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For more information about the scheme, individuals can visit the official website of the Ministry of Housing and Urban Affairs.",
+      "text": "For more information about the scheme, individuals can visit the official website of the Ministry of Housing and Urban Affairs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They can also contact their nearest lending institution for assistance with the application process.",
+      "text": "They can also contact their nearest lending institution for assistance with the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "Personal Interest Subsidy Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T15:51:07.780738",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 66,
+    "role_distribution": {
+      "BenefitsAssistance": 15,
+      "ContextObjective": 30,
+      "Eligibility": 11,
+      "ApplicationProcess": 3,
+      "AuthoritiesGovernance": 7
+    }
+  }
+}

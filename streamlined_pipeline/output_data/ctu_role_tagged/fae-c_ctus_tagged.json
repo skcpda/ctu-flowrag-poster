@@ -1,0 +1,660 @@
+{
+  "scheme_name": "Financial Assistance To Ex-Convicts",
+  "total_sentences": 64,
+  "ctus": [
+    {
+      "sentence": "The Financial Assistance to Ex-Convicts scheme was launched by the Government of India in 2016.",
+      "text": "The Financial Assistance to Ex-Convicts scheme was launched by the Government of India in 2016.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative aims to provide financial support to individuals who have been released from prison after serving their sentences.",
+      "text": "This initiative aims to provide financial support to individuals who have been released from prison after serving their sentences.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of this scheme is to facilitate the reintegration of ex-convicts into society.",
+      "text": "The primary objective of this scheme is to facilitate the reintegration of ex-convicts into society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to reduce recidivism rates by providing financial assistance that can help ex-convicts find employment or start their own businesses.",
+      "text": "It seeks to reduce recidivism rates by providing financial assistance that can help ex-convicts find employment or start their own businesses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to empower ex-convicts by providing them with the necessary resources to rebuild their lives.",
+      "text": "The scheme aims to empower ex-convicts by providing them with the necessary resources to rebuild their lives.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a target to assist at least 10,000 ex-convicts annually under this scheme.",
+      "text": "The government has set a target to assist at least 10,000 ex-convicts annually under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance provided under this scheme is a one-time financial grant of INR 25,000.",
+      "text": "The assistance provided under this scheme is a one-time financial grant of INR 25,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This amount is intended to help ex-convicts cover initial expenses related to job searching or starting a small business.",
+      "text": "This amount is intended to help ex-convicts cover initial expenses related to job searching or starting a small business.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is applicable to all ex-convicts who have completed their prison sentences.",
+      "text": "The scheme is applicable to all ex-convicts who have completed their prison sentences.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligibility criteria include that the individual must have been imprisoned for a period of at least three years.",
+      "text": "Eligibility criteria include that the individual must have been imprisoned for a period of at least three years.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Ex-convicts who have been convicted under any law, including those under the Indian Penal Code, are eligible.",
+      "text": "Ex-convicts who have been convicted under any law, including those under the Indian Penal Code, are eligible.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is not limited to any specific age group.",
+      "text": "The scheme is not limited to any specific age group.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, preference is given to individuals who have been imprisoned for non-violent offenses.",
+      "text": "However, preference is given to individuals who have been imprisoned for non-violent offenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "To apply for the Financial Assistance to Ex-Convicts scheme, individuals must follow a specific process.",
+      "text": "To apply for the Financial Assistance to Ex-Convicts scheme, individuals must follow a specific process.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, the applicant must obtain a release certificate from the prison authorities.",
+      "text": "First, the applicant must obtain a release certificate from the prison authorities.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This certificate serves as proof of their release and the duration of their imprisonment.",
+      "text": "This certificate serves as proof of their release and the duration of their imprisonment.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Next, the applicant must fill out the application form available at designated government offices or online portals.",
+      "text": "Next, the applicant must fill out the application form available at designated government offices or online portals.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and details of imprisonment.",
+      "text": "The application form requires personal details such as name, age, address, and details of imprisonment.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also provide a copy of their release certificate along with the application form.",
+      "text": "Applicants must also provide a copy of their release certificate along with the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additional documents may include an identity proof such as an Aadhar card or voter ID.",
+      "text": "Additional documents may include an identity proof such as an Aadhar card or voter ID.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the local district social welfare office.",
+      "text": "Once the application is completed, it must be submitted to the local district social welfare office.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application will be reviewed by the concerned authorities.",
+      "text": "The application will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The processing time for applications is typically around 30 days from the date of submission.",
+      "text": "The processing time for applications is typically around 30 days from the date of submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Successful applicants will receive the financial assistance directly into their bank accounts.",
+      "text": "Successful applicants will receive the financial assistance directly into their bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement is usually done in a single installment.",
+      "text": "The disbursement is usually done in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Home Affairs in collaboration with state governments.",
+      "text": "The scheme is implemented by the Ministry of Home Affairs in collaboration with state governments.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each state has designated nodal officers responsible for overseeing the implementation of the scheme.",
+      "text": "Each state has designated nodal officers responsible for overseeing the implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Ministry of Home Affairs also conducts regular monitoring and evaluation of the scheme.",
+      "text": "The Ministry of Home Affairs also conducts regular monitoring and evaluation of the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, the government has reported that over 25,000 ex-convicts have benefited from this scheme since its inception.",
+      "text": "As of 2023, the government has reported that over 25,000 ex-convicts have benefited from this scheme since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been particularly beneficial in states with high incarceration rates.",
+      "text": "The scheme has been particularly beneficial in states with high incarceration rates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has helped reduce the stigma associated with being an ex-convict.",
+      "text": "It has helped reduce the stigma associated with being an ex-convict.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "By providing financial assistance, the scheme encourages ex-convicts to seek legitimate employment.",
+      "text": "By providing financial assistance, the scheme encourages ex-convicts to seek legitimate employment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to create awareness among employers about the potential of ex-convicts as productive members of society.",
+      "text": "The scheme also aims to create awareness among employers about the potential of ex-convicts as productive members of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also provides counseling services to ex-convicts.",
+      "text": "In addition to financial assistance, the scheme also provides counseling services to ex-convicts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These services are aimed at helping them adjust to life outside prison.",
+      "text": "These services are aimed at helping them adjust to life outside prison.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Counselors assist ex-convicts in developing skills that enhance their employability.",
+      "text": "Counselors assist ex-convicts in developing skills that enhance their employability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has partnered with various NGOs to provide vocational training programs.",
+      "text": "The government has partnered with various NGOs to provide vocational training programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These programs focus on skill development in areas such as carpentry, plumbing, and computer skills.",
+      "text": "These programs focus on skill development in areas such as carpentry, plumbing, and computer skills.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various stakeholders.",
+      "text": "The scheme has received positive feedback from various stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many ex-convicts have reported improved self-esteem and a sense of purpose after receiving assistance.",
+      "text": "Many ex-convicts have reported improved self-esteem and a sense of purpose after receiving assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to promote the scheme through awareness campaigns.",
+      "text": "The government continues to promote the scheme through awareness campaigns.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These campaigns aim to educate the public about the challenges faced by ex-convicts.",
+      "text": "These campaigns aim to educate the public about the challenges faced by ex-convicts.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Financial Assistance to Ex-Convicts scheme is part of a broader initiative to reform the criminal justice system in India.",
+      "text": "The Financial Assistance to Ex-Convicts scheme is part of a broader initiative to reform the criminal justice system in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aligns with the government's vision of creating a more inclusive society.",
+      "text": "It aligns with the government's vision of creating a more inclusive society.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also reflects the commitment of the Indian government to uphold human rights.",
+      "text": "The scheme also reflects the commitment of the Indian government to uphold human rights.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By supporting ex-convicts, the government aims to reduce the cycle of crime and punishment.",
+      "text": "By supporting ex-convicts, the government aims to reduce the cycle of crime and punishment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is crucial in addressing the socio-economic challenges faced by ex-convicts.",
+      "text": "This initiative is crucial in addressing the socio-economic challenges faced by ex-convicts.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government recognizes that financial instability can lead to a return to criminal activities.",
+      "text": "The government recognizes that financial instability can lead to a return to criminal activities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Thus, the Financial Assistance to Ex-Convicts scheme plays a vital role in breaking this cycle.",
+      "text": "Thus, the Financial Assistance to Ex-Convicts scheme plays a vital role in breaking this cycle.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is an essential step towards rehabilitation and reintegration of ex-convicts into society.",
+      "text": "The scheme is an essential step towards rehabilitation and reintegration of ex-convicts into society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It serves as a model for similar initiatives in other countries.",
+      "text": "It serves as a model for similar initiatives in other countries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is continuously working to improve the scheme based on feedback from beneficiaries.",
+      "text": "The government is continuously working to improve the scheme based on feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future plans include increasing the financial assistance amount to INR 50,000.",
+      "text": "Future plans include increasing the financial assistance amount to INR 50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This increase is aimed at providing more substantial support to ex-convicts.",
+      "text": "This increase is aimed at providing more substantial support to ex-convicts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is also exploring partnerships with private sector organizations for job placements.",
+      "text": "The government is also exploring partnerships with private sector organizations for job placements.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Financial Assistance to Ex-Convicts scheme represents a significant effort by the Indian government.",
+      "text": "Overall, the Financial Assistance to Ex-Convicts scheme represents a significant effort by the Indian government.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It addresses the needs of a marginalized group and promotes social justice.",
+      "text": "It addresses the needs of a marginalized group and promotes social justice.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a testament to the belief that everyone deserves a second chance.",
+      "text": "The scheme is a testament to the belief that everyone deserves a second chance.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial assistance and support, the government is paving the way for a more equitable society.",
+      "text": "By providing financial assistance and support, the government is paving the way for a more equitable society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is crucial in fostering social harmony and reducing crime rates.",
+      "text": "This initiative is crucial in fostering social harmony and reducing crime rates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Financial Assistance to Ex-Convicts scheme is a vital component of India's welfare programs.",
+      "text": "The Financial Assistance to Ex-Convicts scheme is a vital component of India's welfare programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It demonstrates the government's commitment to rehabilitation and reintegration of ex-convicts.",
+      "text": "It demonstrates the government's commitment to rehabilitation and reintegration of ex-convicts.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme continues to evolve to meet the changing needs of society.",
+      "text": "The scheme continues to evolve to meet the changing needs of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is an important step towards building a more inclusive and just community.",
+      "text": "It is an important step towards building a more inclusive and just community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Financial Assistance To Ex-Convicts",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T16:22:58.005623",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 64,
+    "role_distribution": {
+      "BenefitsAssistance": 25,
+      "ContextObjective": 22,
+      "Eligibility": 4,
+      "TimelineFrequency": 1,
+      "ApplicationProcess": 5,
+      "AuthoritiesGovernance": 7
+    }
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "scheme_name": "AASRA Scheme",
+  "total_sentences": 58,
+  "ctus": [
+    {
+      "sentence": "The AASRA Scheme is a significant initiative launched by the Government of India aimed at providing mental health support to individuals in distress.",
+      "text": "The AASRA Scheme is a significant initiative launched by the Government of India aimed at providing mental health support to individuals in distress.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was officially launched on October 10, 2021, coinciding with World Mental Health Day.",
+      "text": "The scheme was officially launched on October 10, 2021, coinciding with World Mental Health Day.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative was introduced to address the growing concerns surrounding mental health issues in India, especially in the wake of the COVID-19 pandemic.",
+      "text": "This initiative was introduced to address the growing concerns surrounding mental health issues in India, especially in the wake of the COVID-19 pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the AASRA Scheme is to create a robust support system for individuals experiencing mental health challenges.",
+      "text": "The primary objective of the AASRA Scheme is to create a robust support system for individuals experiencing mental health challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to reduce the stigma associated with mental health issues and promote awareness about mental well-being.",
+      "text": "The government aims to reduce the stigma associated with mental health issues and promote awareness about mental well-being.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "One of the measurable targets of the AASRA Scheme is to provide immediate psychological support to at least 1 million individuals annually.",
+      "text": "One of the measurable targets of the AASRA Scheme is to provide immediate psychological support to at least 1 million individuals annually.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme seeks to establish a network of trained mental health professionals across the country.",
+      "text": "The scheme seeks to establish a network of trained mental health professionals across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes psychologists, psychiatrists, and social workers who can offer counseling and support services.",
+      "text": "This includes psychologists, psychiatrists, and social workers who can offer counseling and support services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The benefits of the AASRA Scheme include access to free mental health services for individuals in need.",
+      "text": "The benefits of the AASRA Scheme include access to free mental health services for individuals in need.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme provides 24/7 helpline services that individuals can call for immediate assistance.",
+      "text": "The scheme provides 24/7 helpline services that individuals can call for immediate assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The helpline number is 1860 266 2345, which is accessible from anywhere in India.",
+      "text": "The helpline number is 1860 266 2345, which is accessible from anywhere in India.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, the scheme offers online counseling sessions through various platforms.",
+      "text": "Additionally, the scheme offers online counseling sessions through various platforms.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Individuals can receive support via video calls, chat, or telephonic conversations.",
+      "text": "Individuals can receive support via video calls, chat, or telephonic conversations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The AASRA Scheme also aims to provide mental health education and awareness programs in schools and communities.",
+      "text": "The AASRA Scheme also aims to provide mental health education and awareness programs in schools and communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These programs are designed to educate individuals about recognizing mental health issues and seeking help.",
+      "text": "These programs are designed to educate individuals about recognizing mental health issues and seeking help.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Eligibility for the AASRA Scheme is broad, as it is intended for all individuals facing mental health challenges.",
+      "text": "Eligibility for the AASRA Scheme is broad, as it is intended for all individuals facing mental health challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There are no specific age limits or income criteria for accessing the services under this scheme.",
+      "text": "There are no specific age limits or income criteria for accessing the services under this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, individuals seeking assistance are encouraged to reach out voluntarily.",
+      "text": "However, individuals seeking assistance are encouraged to reach out voluntarily.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the AASRA Scheme is straightforward.",
+      "text": "The application process for the AASRA Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Individuals can access the services by calling the helpline number or visiting the official website.",
+      "text": "Individuals can access the services by calling the helpline number or visiting the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "No specific documents are required to initiate contact for support.",
+      "text": "No specific documents are required to initiate contact for support.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The timeline for receiving assistance is immediate upon contacting the helpline.",
+      "text": "The timeline for receiving assistance is immediate upon contacting the helpline.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Counseling sessions can be scheduled as soon as the individual reaches out for help.",
+      "text": "Counseling sessions can be scheduled as soon as the individual reaches out for help.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The frequency of the services provided under the AASRA Scheme is ongoing.",
+      "text": "The frequency of the services provided under the AASRA Scheme is ongoing.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Support is available 24 hours a day, 7 days a week.",
+      "text": "Support is available 24 hours a day, 7 days a week.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the AASRA Scheme is the Ministry of Health and Family Welfare.",
+      "text": "The implementing authority for the AASRA Scheme is the Ministry of Health and Family Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Institute of Mental Health and Neurosciences (NIMHANS) is also involved in the implementation and training of professionals.",
+      "text": "The National Institute of Mental Health and Neurosciences (NIMHANS) is also involved in the implementation and training of professionals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is part of a broader effort by the Indian government to enhance mental health services in the country.",
+      "text": "The scheme is part of a broader effort by the Indian government to enhance mental health services in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "According to the National Mental Health Survey conducted in 2016, nearly 150 million people in India require active mental health interventions.",
+      "text": "According to the National Mental Health Survey conducted in 2016, nearly 150 million people in India require active mental health interventions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The AASRA Scheme aims to bridge this gap by providing accessible mental health care.",
+      "text": "The AASRA Scheme aims to bridge this gap by providing accessible mental health care.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹500 crores for mental health initiatives, including the AASRA Scheme, for the financial year 2021-2022.",
+      "text": "The government has allocated a budget of ₹500 crores for mental health initiatives, including the AASRA Scheme, for the financial year 2021-2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This funding is aimed at expanding mental health facilities and training professionals.",
+      "text": "This funding is aimed at expanding mental health facilities and training professionals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The AASRA Scheme also collaborates with various non-governmental organizations to enhance outreach efforts.",
+      "text": "The AASRA Scheme also collaborates with various non-governmental organizations to enhance outreach efforts.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These collaborations help in reaching marginalized communities that may lack access to mental health services.",
+      "text": "These collaborations help in reaching marginalized communities that may lack access to mental health services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme promotes the use of technology in mental health care, facilitating tele-therapy and online support.",
+      "text": "The scheme promotes the use of technology in mental health care, facilitating tele-therapy and online support.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This is particularly beneficial for individuals in remote areas who may not have access to mental health professionals.",
+      "text": "This is particularly beneficial for individuals in remote areas who may not have access to mental health professionals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The AASRA Scheme also emphasizes the importance of community-based mental health services.",
+      "text": "The AASRA Scheme also emphasizes the importance of community-based mental health services.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Local health workers are trained to identify and assist individuals with mental health issues.",
+      "text": "Local health workers are trained to identify and assist individuals with mental health issues.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This grassroots approach helps in creating a supportive environment for those in need.",
+      "text": "This grassroots approach helps in creating a supportive environment for those in need.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government encourages individuals to participate in mental health awareness campaigns.",
+      "text": "The government encourages individuals to participate in mental health awareness campaigns.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These campaigns aim to destigmatize mental health issues and promote a culture of openness.",
+      "text": "These campaigns aim to destigmatize mental health issues and promote a culture of openness.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The AASRA Scheme is aligned with the Mental Healthcare Act of 2017, which emphasizes the rights of individuals with mental health conditions.",
+      "text": "The AASRA Scheme is aligned with the Mental Healthcare Act of 2017, which emphasizes the rights of individuals with mental health conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The act mandates the provision of mental health services and the protection of patients' rights.",
+      "text": "The act mandates the provision of mental health services and the protection of patients' rights.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The AASRA Scheme also focuses on suicide prevention initiatives.",
+      "text": "The AASRA Scheme also focuses on suicide prevention initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes training for professionals to identify warning signs and provide appropriate interventions.",
+      "text": "This includes training for professionals to identify warning signs and provide appropriate interventions.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has reported a significant increase in calls to mental health helplines since the launch of the AASRA Scheme.",
+      "text": "The government has reported a significant increase in calls to mental health helplines since the launch of the AASRA Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This indicates a growing awareness and willingness to seek help among the population.",
+      "text": "This indicates a growing awareness and willingness to seek help among the population.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is continuously monitored and evaluated to assess its effectiveness and reach.",
+      "text": "The scheme is continuously monitored and evaluated to assess its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from users is collected to improve services and address any gaps in support.",
+      "text": "Feedback from users is collected to improve services and address any gaps in support.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "AASRA Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The AASRA Scheme is part of the larger National Mental Health Program, which aims to integrate mental health services into primary health care.",
+      "text": "The AASRA Scheme is part of the larger National Mental Health Program, which aims to integrate mental health services into primary health care.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is committed to ensuring that mental health services are available to all citizens.",
+      "text": "The government is committed to ensuring that mental health services are available to all citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The AASRA Scheme represents a crucial step towards achieving this goal.",
+      "text": "The AASRA Scheme represents a crucial step towards achieving this goal.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing accessible and immediate mental health support, the scheme aims to improve the overall mental well-being of the population.",
+      "text": "By providing accessible and immediate mental health support, the scheme aims to improve the overall mental well-being of the population.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the AASRA Scheme is a comprehensive initiative that addresses the pressing need for mental health support in India.",
+      "text": "In conclusion, the AASRA Scheme is a comprehensive initiative that addresses the pressing need for mental health support in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "With its focus on accessibility, awareness, and community involvement, the scheme aims to create a healthier society.",
+      "text": "With its focus on accessibility, awareness, and community involvement, the scheme aims to create a healthier society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ongoing efforts under the AASRA Scheme reflect the government's commitment to mental health as a vital component of public health.",
+      "text": "The ongoing efforts under the AASRA Scheme reflect the government's commitment to mental health as a vital component of public health.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Individuals are encouraged to take advantage of the services offered under this scheme for their mental well-being.",
+      "text": "Individuals are encouraged to take advantage of the services offered under this scheme for their mental well-being.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The AASRA Scheme is a testament to the importance of mental health in the overall health framework of India.",
+      "text": "The AASRA Scheme is a testament to the importance of mental health in the overall health framework of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "AASRA Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T15:48:14.235477",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 58,
+    "role_distribution": {
+      "ContextObjective": 35,
+      "AuthoritiesGovernance": 4,
+      "BenefitsAssistance": 12,
+      "DefinitionsReferences": 1,
+      "Eligibility": 2,
+      "ApplicationProcess": 2,
+      "TimelineFrequency": 2
+    }
+  }
+}

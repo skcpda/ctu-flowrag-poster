@@ -1,0 +1,631 @@
+{
+  "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+  "total_sentences": 61,
+  "ctus": [
+    {
+      "sentence": "The Higher Education and Skill Development Guarantee Scheme was launched by the Government of India on 1st April 2015.",
+      "text": "The Higher Education and Skill Development Guarantee Scheme was launched by the Government of India on 1st April 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to enhance the employability of youth by providing them with access to higher education and skill development programs.",
+      "text": "This scheme aims to enhance the employability of youth by providing them with access to higher education and skill development programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the scheme is to ensure that every eligible student has the opportunity to pursue higher education and acquire skills that are in demand in the job market.",
+      "text": "The primary objective of the scheme is to ensure that every eligible student has the opportunity to pursue higher education and acquire skills that are in demand in the job market.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme targets students from economically weaker sections of society.",
+      "text": "The scheme targets students from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to provide financial assistance to these students to cover their tuition fees and other related expenses.",
+      "text": "It aims to provide financial assistance to these students to cover their tuition fees and other related expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also focuses on skill development to bridge the gap between education and employment.",
+      "text": "The scheme also focuses on skill development to bridge the gap between education and employment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, students can avail of loans up to INR 10 lakh for pursuing higher education in recognized institutions.",
+      "text": "Under this scheme, students can avail of loans up to INR 10 lakh for pursuing higher education in recognized institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loan amount can be utilized for tuition fees, accommodation, and other educational expenses.",
+      "text": "The loan amount can be utilized for tuition fees, accommodation, and other educational expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The interest rate on these loans is capped at 4 percent per annum.",
+      "text": "The interest rate on these loans is capped at 4 percent per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The repayment period for these loans is set at a maximum of 10 years.",
+      "text": "The repayment period for these loans is set at a maximum of 10 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also includes provisions for skill development training programs.",
+      "text": "The scheme also includes provisions for skill development training programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These programs are designed to equip students with practical skills that enhance their employability.",
+      "text": "These programs are designed to equip students with practical skills that enhance their employability.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The skill development component of the scheme is aligned with the National Skill Development Mission.",
+      "text": "The skill development component of the scheme is aligned with the National Skill Development Mission.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of India has set a target to train over 400 million people in various skills by the year 2022.",
+      "text": "The Government of India has set a target to train over 400 million people in various skills by the year 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria for this scheme include students who have completed their higher secondary education.",
+      "text": "The eligibility criteria for this scheme include students who have completed their higher secondary education.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must also belong to families with an annual income of less than INR 6 lakh.",
+      "text": "Students must also belong to families with an annual income of less than INR 6 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is open to students pursuing undergraduate and postgraduate courses in recognized institutions.",
+      "text": "The scheme is open to students pursuing undergraduate and postgraduate courses in recognized institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must also have secured admission to these institutions through a recognized entrance examination.",
+      "text": "Students must also have secured admission to these institutions through a recognized entrance examination.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for this scheme is straightforward.",
+      "text": "The application process for this scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must fill out the application form available on the official website of the Ministry of Education.",
+      "text": "Students must fill out the application form available on the official website of the Ministry of Education.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They are required to submit documents such as proof of income, identity proof, and admission confirmation from the institution.",
+      "text": "They are required to submit documents such as proof of income, identity proof, and admission confirmation from the institution.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the designated authorities.",
+      "text": "Once the application is submitted, it is reviewed by the designated authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligible students are then provided with a loan sanction letter.",
+      "text": "Eligible students are then provided with a loan sanction letter.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of funds is made directly to the educational institution.",
+      "text": "The disbursement of funds is made directly to the educational institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also provides for a moratorium period of one year after the completion of the course.",
+      "text": "The scheme also provides for a moratorium period of one year after the completion of the course.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "During this period, students are not required to make any repayments.",
+      "text": "During this period, students are not required to make any repayments.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This allows them time to secure employment before starting to repay the loan.",
+      "text": "This allows them time to secure employment before starting to repay the loan.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Education, Government of India.",
+      "text": "The implementing authority for this scheme is the Ministry of Education, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Ministry has set up a dedicated helpline for queries related to the scheme.",
+      "text": "The Ministry has set up a dedicated helpline for queries related to the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students can reach out to the helpline at 1800 112 222 or 1800 180 1234.",
+      "text": "Students can reach out to the helpline at 1800 112 222 or 1800 180 1234.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has seen significant participation since its launch.",
+      "text": "The scheme has seen significant participation since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, over 1.5 million students have benefited from the financial assistance provided under this scheme.",
+      "text": "As of 2023, over 1.5 million students have benefited from the financial assistance provided under this scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total amount disbursed under the scheme has exceeded INR 10,000 crore.",
+      "text": "The total amount disbursed under the scheme has exceeded INR 10,000 crore.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has also contributed to an increase in enrollment rates in higher education institutions.",
+      "text": "The scheme has also contributed to an increase in enrollment rates in higher education institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "According to the All India Survey on Higher Education, the Gross Enrollment Ratio in higher education has increased to 27.1 percent in 2021-2022.",
+      "text": "According to the All India Survey on Higher Education, the Gross Enrollment Ratio in higher education has increased to 27.1 percent in 2021-2022.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This is a significant increase from 24.3 percent in 2015-2016.",
+      "text": "This is a significant increase from 24.3 percent in 2015-2016.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The skill development component has also seen positive outcomes.",
+      "text": "The skill development component has also seen positive outcomes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Over 1 million students have successfully completed skill development training programs under this scheme.",
+      "text": "Over 1 million students have successfully completed skill development training programs under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries.",
+      "text": "The scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many students have reported improved job prospects after completing their education and skill training.",
+      "text": "Many students have reported improved job prospects after completing their education and skill training.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government of India continues to promote this scheme as part of its broader initiative to enhance the quality of education and skill development in the country.",
+      "text": "The Government of India continues to promote this scheme as part of its broader initiative to enhance the quality of education and skill development in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is also aligned with the Sustainable Development Goals set by the United Nations.",
+      "text": "The scheme is also aligned with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It specifically targets Goal 4, which aims to ensure inclusive and equitable quality education.",
+      "text": "It specifically targets Goal 4, which aims to ensure inclusive and equitable quality education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government is committed to further expanding the reach of this scheme.",
+      "text": "The Government is committed to further expanding the reach of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future plans include increasing the loan amount and reducing the interest rate further.",
+      "text": "Future plans include increasing the loan amount and reducing the interest rate further.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to evolve based on feedback from beneficiaries and changing market demands.",
+      "text": "The scheme is expected to evolve based on feedback from beneficiaries and changing market demands.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Higher Education and Skill Development Guarantee Scheme is a crucial step towards empowering the youth of India.",
+      "text": "The Higher Education and Skill Development Guarantee Scheme is a crucial step towards empowering the youth of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial assistance and skill development opportunities, the scheme aims to create a more skilled workforce.",
+      "text": "By providing financial assistance and skill development opportunities, the scheme aims to create a more skilled workforce.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This workforce is essential for driving economic growth and development in the country.",
+      "text": "This workforce is essential for driving economic growth and development in the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also plays a vital role in reducing unemployment rates among youth.",
+      "text": "The scheme also plays a vital role in reducing unemployment rates among youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By facilitating access to higher education and skill training, the scheme helps in building a more knowledgeable and capable society.",
+      "text": "By facilitating access to higher education and skill training, the scheme helps in building a more knowledgeable and capable society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of India remains focused on ensuring that no deserving student is left behind due to financial constraints.",
+      "text": "The Government of India remains focused on ensuring that no deserving student is left behind due to financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This commitment is reflected in the continuous improvements and expansions of the scheme.",
+      "text": "This commitment is reflected in the continuous improvements and expansions of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Higher Education and Skill Development Guarantee Scheme represents a significant investment in the future of India's youth.",
+      "text": "Overall, the Higher Education and Skill Development Guarantee Scheme represents a significant investment in the future of India's youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a testament to the Government's dedication to fostering education and skill development as a means of achieving sustainable development.",
+      "text": "It is a testament to the Government's dedication to fostering education and skill development as a means of achieving sustainable development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a vital resource for students seeking to enhance their educational qualifications and employability.",
+      "text": "The scheme is a vital resource for students seeking to enhance their educational qualifications and employability.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this initiative, the Government aims to create a brighter future for the youth of India.",
+      "text": "Through this initiative, the Government aims to create a brighter future for the youth of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme is a crucial part of the broader strategy to transform the education landscape in the country.",
+      "text": "This scheme is a crucial part of the broader strategy to transform the education landscape in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is designed to meet the needs of a rapidly changing job market.",
+      "text": "It is designed to meet the needs of a rapidly changing job market.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government encourages all eligible students to take advantage of this opportunity.",
+      "text": "The Government encourages all eligible students to take advantage of this opportunity.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By doing so, they can secure their future and contribute to the nation's growth.",
+      "text": "By doing so, they can secure their future and contribute to the nation's growth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T20:16:49.534388",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 61,
+    "role_distribution": {
+      "ContextObjective": 30,
+      "BenefitsAssistance": 15,
+      "TimelineFrequency": 2,
+      "Eligibility": 7,
+      "ApplicationProcess": 3,
+      "AuthoritiesGovernance": 3,
+      "DefinitionsReferences": 1
+    }
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "scheme_name": "Term Loan Scheme",
+  "total_sentences": 54,
+  "ctus": [
+    {
+      "sentence": "The Term Loan Scheme is a significant initiative launched by the Government of India to promote entrepreneurship and support small and medium enterprises (SMEs).",
+      "text": "The Term Loan Scheme is a significant initiative launched by the Government of India to promote entrepreneurship and support small and medium enterprises (SMEs).",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was introduced in 2006 as part of the Micro, Small and Medium Enterprises Development Act.",
+      "text": "This scheme was introduced in 2006 as part of the Micro, Small and Medium Enterprises Development Act.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Term Loan Scheme is to provide financial assistance to small businesses and entrepreneurs to help them establish and expand their operations.",
+      "text": "The primary objective of the Term Loan Scheme is to provide financial assistance to small businesses and entrepreneurs to help them establish and expand their operations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to enhance the competitiveness of SMEs by facilitating access to credit.",
+      "text": "The scheme aims to enhance the competitiveness of SMEs by facilitating access to credit.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of India has set a target to disburse loans amounting to INR 1 lakh crore by the end of the financial year 2023.",
+      "text": "The Government of India has set a target to disburse loans amounting to INR 1 lakh crore by the end of the financial year 2023.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This financial support is crucial for the growth of the MSME sector, which contributes approximately 29 percent to India's GDP.",
+      "text": "This financial support is crucial for the growth of the MSME sector, which contributes approximately 29 percent to India's GDP.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under the Term Loan Scheme, eligible borrowers can avail loans ranging from INR 10 lakh to INR 1 crore.",
+      "text": "Under the Term Loan Scheme, eligible borrowers can avail loans ranging from INR 10 lakh to INR 1 crore.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loans are provided at a competitive interest rate, which typically ranges between 8 percent to 12 percent per annum.",
+      "text": "The loans are provided at a competitive interest rate, which typically ranges between 8 percent to 12 percent per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The repayment period for these loans is generally between 5 to 7 years, depending on the terms agreed upon with the lending institution.",
+      "text": "The repayment period for these loans is generally between 5 to 7 years, depending on the terms agreed upon with the lending institution.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to create job opportunities by supporting the establishment of new businesses.",
+      "text": "The scheme also aims to create job opportunities by supporting the establishment of new businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is estimated that the Term Loan Scheme has the potential to create over 10 million jobs in the next five years.",
+      "text": "It is estimated that the Term Loan Scheme has the potential to create over 10 million jobs in the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the Term Loan Scheme, applicants must be Indian citizens aged between 18 to 65 years.",
+      "text": "To be eligible for the Term Loan Scheme, applicants must be Indian citizens aged between 18 to 65 years.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is open to individuals as well as partnerships and private limited companies.",
+      "text": "The scheme is open to individuals as well as partnerships and private limited companies.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must have a viable business plan that demonstrates the potential for growth and sustainability.",
+      "text": "Applicants must have a viable business plan that demonstrates the potential for growth and sustainability.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The income criteria for eligibility typically require that the applicant's annual turnover does not exceed INR 5 crore.",
+      "text": "The income criteria for eligibility typically require that the applicant's annual turnover does not exceed INR 5 crore.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Educational qualifications are not strictly mandated; however, having a background in business management or relevant experience is advantageous.",
+      "text": "Educational qualifications are not strictly mandated; however, having a background in business management or relevant experience is advantageous.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The application process for the Term Loan Scheme involves several steps.",
+      "text": "The application process for the Term Loan Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, applicants must prepare a detailed project report outlining their business plan, financial projections, and funding requirements.",
+      "text": "First, applicants must prepare a detailed project report outlining their business plan, financial projections, and funding requirements.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Next, applicants must approach a designated financial institution or bank that is authorized to disburse loans under this scheme.",
+      "text": "Next, applicants must approach a designated financial institution or bank that is authorized to disburse loans under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The required documents include identity proof, address proof, business registration documents, and the project report.",
+      "text": "The required documents include identity proof, address proof, business registration documents, and the project report.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, the lending institution will conduct a thorough assessment of the project viability and the applicant's creditworthiness.",
+      "text": "Once the application is submitted, the lending institution will conduct a thorough assessment of the project viability and the applicant's creditworthiness.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The approval process typically takes between 15 to 30 days from the date of application submission.",
+      "text": "The approval process typically takes between 15 to 30 days from the date of application submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Upon approval, the loan amount is disbursed in a lump sum or in tranches, depending on the project requirements.",
+      "text": "Upon approval, the loan amount is disbursed in a lump sum or in tranches, depending on the project requirements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement schedule is usually aligned with the milestones outlined in the project report.",
+      "text": "The disbursement schedule is usually aligned with the milestones outlined in the project report.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Term Loan Scheme is implemented by the Ministry of Micro, Small and Medium Enterprises.",
+      "text": "The Term Loan Scheme is implemented by the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Small Industries Development Bank of India (SIDBI) plays a crucial role in facilitating the scheme's operations.",
+      "text": "The Small Industries Development Bank of India (SIDBI) plays a crucial role in facilitating the scheme's operations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any inquiries or assistance, applicants can contact SIDBI at their official helpline number 1800 11 6006.",
+      "text": "For any inquiries or assistance, applicants can contact SIDBI at their official helpline number 1800 11 6006.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, applicants can visit the official SIDBI website for more information and guidance on the application process.",
+      "text": "Additionally, applicants can visit the official SIDBI website for more information and guidance on the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also includes provisions for interest subsidies for specific sectors such as textiles, handicrafts, and food processing.",
+      "text": "The scheme also includes provisions for interest subsidies for specific sectors such as textiles, handicrafts, and food processing.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These interest subsidies can reduce the effective interest rate to as low as 6 percent for eligible sectors.",
+      "text": "These interest subsidies can reduce the effective interest rate to as low as 6 percent for eligible sectors.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of India has allocated INR 500 crore for interest subsidy under this scheme for the financial year 2023-2024.",
+      "text": "The Government of India has allocated INR 500 crore for interest subsidy under this scheme for the financial year 2023-2024.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Moreover, the scheme encourages women entrepreneurs by providing an additional 5 percent interest subsidy.",
+      "text": "Moreover, the scheme encourages women entrepreneurs by providing an additional 5 percent interest subsidy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative aims to empower women in business and promote gender equality in entrepreneurship.",
+      "text": "This initiative aims to empower women in business and promote gender equality in entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Term Loan Scheme has been instrumental in boosting the MSME sector, which accounts for over 48 percent of India's exports.",
+      "text": "The Term Loan Scheme has been instrumental in boosting the MSME sector, which accounts for over 48 percent of India's exports.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Furthermore, the scheme is aligned with the \"Make in India\" initiative, which aims to transform India into a global manufacturing hub.",
+      "text": "Furthermore, the scheme is aligned with the \"Make in India\" initiative, which aims to transform India into a global manufacturing hub.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The impact of the Term Loan Scheme can be measured through various success stories of entrepreneurs who have benefited from this initiative.",
+      "text": "The impact of the Term Loan Scheme can be measured through various success stories of entrepreneurs who have benefited from this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For example, a small textile manufacturer in Tamil Nadu received a loan of INR 50 lakh under this scheme and expanded their production capacity by 30 percent.",
+      "text": "For example, a small textile manufacturer in Tamil Nadu received a loan of INR 50 lakh under this scheme and expanded their production capacity by 30 percent.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This expansion not only increased their revenue but also created 50 new jobs in the local community.",
+      "text": "This expansion not only increased their revenue but also created 50 new jobs in the local community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also facilitated the establishment of numerous startups across various sectors, including technology, agriculture, and services.",
+      "text": "The scheme has also facilitated the establishment of numerous startups across various sectors, including technology, agriculture, and services.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial assistance, the Term Loan Scheme provides access to mentorship and business development services through various government programs.",
+      "text": "In addition to financial assistance, the Term Loan Scheme provides access to mentorship and business development services through various government programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These services include training workshops, networking opportunities, and guidance on regulatory compliance.",
+      "text": "These services include training workshops, networking opportunities, and guidance on regulatory compliance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government of India continuously monitors the performance of the Term Loan Scheme to ensure its effectiveness and reach.",
+      "text": "The Government of India continuously monitors the performance of the Term Loan Scheme to ensure its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact on employment generation and business growth.",
+      "text": "Regular assessments are conducted to evaluate the impact on employment generation and business growth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has undergone several revisions to enhance its features and benefits based on feedback from stakeholders.",
+      "text": "The scheme has undergone several revisions to enhance its features and benefits based on feedback from stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the Government is considering further enhancements to the scheme to include digital lending options for faster access to funds.",
+      "text": "As of October 2023, the Government is considering further enhancements to the scheme to include digital lending options for faster access to funds.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This move aims to streamline the application process and reduce the time taken for loan disbursement.",
+      "text": "This move aims to streamline the application process and reduce the time taken for loan disbursement.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Term Loan Scheme is a vital component of India's strategy to foster entrepreneurship and economic development.",
+      "text": "The Term Loan Scheme is a vital component of India's strategy to foster entrepreneurship and economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It plays a crucial role in promoting inclusive growth by supporting diverse business ventures across the country.",
+      "text": "It plays a crucial role in promoting inclusive growth by supporting diverse business ventures across the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "By providing financial assistance and support to SMEs, the scheme contributes to the overall economic stability and growth of India.",
+      "text": "By providing financial assistance and support to SMEs, the scheme contributes to the overall economic stability and growth of India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of India remains committed to enhancing the Term Loan Scheme to meet the evolving needs of entrepreneurs.",
+      "text": "The Government of India remains committed to enhancing the Term Loan Scheme to meet the evolving needs of entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This commitment is reflected in the continuous allocation of funds and resources to support the MSME sector.",
+      "text": "This commitment is reflected in the continuous allocation of funds and resources to support the MSME sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Term Loan Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In conclusion, the Term Loan Scheme is a comprehensive initiative designed to empower small businesses and entrepreneurs in India.",
+      "text": "In conclusion, the Term Loan Scheme is a comprehensive initiative designed to empower small businesses and entrepreneurs in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "With specific eligibility criteria, a structured application process, and substantial financial support, the scheme aims to drive economic growth and create employment opportunities.",
+      "text": "With specific eligibility criteria, a structured application process, and substantial financial support, the scheme aims to drive economic growth and create employment opportunities.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ongoing efforts to enhance the scheme demonstrate the Government's dedication to fostering a vibrant entrepreneurial ecosystem in India.",
+      "text": "The ongoing efforts to enhance the scheme demonstrate the Government's dedication to fostering a vibrant entrepreneurial ecosystem in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Term Loan Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T12:18:57.002959",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 54,
+    "role_distribution": {
+      "ContextObjective": 26,
+      "BenefitsAssistance": 13,
+      "TimelineFrequency": 1,
+      "Eligibility": 8,
+      "ApplicationProcess": 5,
+      "AuthoritiesGovernance": 1
+    }
+  }
+}

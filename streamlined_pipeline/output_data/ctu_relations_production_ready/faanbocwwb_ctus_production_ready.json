@@ -1,0 +1,2112 @@
+{
+  "scheme_name": "Funeral Assistance (ANBOCWWB)",
+  "total_sentences": 65,
+  "ctus": [
+    {
+      "sentence": "The Funeral Assistance Scheme is a welfare initiative launched by the Government of India to provide financial support to the families of deceased workers in the unorganized sector.",
+      "text": "The Funeral Assistance Scheme is a welfare initiative launched by the Government of India to provide financial support to the families of deceased workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme is specifically aimed at the members of the Andhra Pradesh Non-Bonded Labourers Welfare Board (ANBOCWWB).",
+      "text": "This scheme is specifically aimed at the members of the Andhra Pradesh Non-Bonded Labourers Welfare Board (ANBOCWWB).",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st January 2020.",
+      "text": "The scheme was officially launched on 1st January 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Funeral Assistance Scheme is to alleviate the financial burden on families during the time of bereavement.",
+      "text": "The primary objective of the Funeral Assistance Scheme is to alleviate the financial burden on families during the time of bereavement.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government recognizes that the death of a family member can lead to significant economic distress.",
+      "text": "The government recognizes that the death of a family member can lead to significant economic distress.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide timely financial assistance to help cover the costs associated with funeral expenses.",
+      "text": "The scheme aims to provide timely financial assistance to help cover the costs associated with funeral expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, the government provides a one-time financial assistance amount of ₹10,000.",
+      "text": "Under this scheme, the government provides a one-time financial assistance amount of ₹10,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This amount is intended to help families manage the expenses related to the last rites and funeral services.",
+      "text": "This amount is intended to help families manage the expenses related to the last rites and funeral services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance is provided directly to the bank account of the beneficiary.",
+      "text": "The assistance is provided directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the Funeral Assistance Scheme, applicants must be registered members of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "text": "To be eligible for the Funeral Assistance Scheme, applicants must be registered members of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The applicant must provide proof of their membership in the board.",
+      "text": "The applicant must provide proof of their membership in the board.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, the deceased must also be a member of the same board at the time of their death.",
+      "text": "Additionally, the deceased must also be a member of the same board at the time of their death.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The applicant must be a direct family member of the deceased.",
+      "text": "The applicant must be a direct family member of the deceased.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes spouses, children, or parents of the deceased worker.",
+      "text": "This includes spouses, children, or parents of the deceased worker.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "There are no specific age limits for eligibility under this scheme.",
+      "text": "There are no specific age limits for eligibility under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, the income criteria for the deceased worker must be within the limits set by the board.",
+      "text": "However, the income criteria for the deceased worker must be within the limits set by the board.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of the latest updates, the income limit for eligibility is set at ₹15,000 per month.",
+      "text": "As of the latest updates, the income limit for eligibility is set at ₹15,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures that the assistance is directed towards families who are in genuine need of financial support.",
+      "text": "This ensures that the assistance is directed towards families who are in genuine need of financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Funeral Assistance Scheme is straightforward.",
+      "text": "The application process for the Funeral Assistance Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested applicants must visit the official website of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "text": "Interested applicants must visit the official website of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to download the application form available on the website.",
+      "text": "They need to download the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The completed application form must be submitted to the local office of the board.",
+      "text": "The completed application form must be submitted to the local office of the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Along with the application form, the following documents are required:",
+      "text": "Along with the application form, the following documents are required:",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "1. Proof of membership of the deceased in the ANBOCWWB.",
+      "text": "1. Proof of membership of the deceased in the ANBOCWWB.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "2. Death certificate of the deceased worker.",
+      "text": "2. Death certificate of the deceased worker.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "3. Identity proof of the applicant.",
+      "text": "3. Identity proof of the applicant.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "4. Bank account details for the transfer of funds.",
+      "text": "4. Bank account details for the transfer of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "5. Any other documents as specified by the local office.",
+      "text": "5. Any other documents as specified by the local office.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the officials at the local office.",
+      "text": "Once the application is submitted, it is reviewed by the officials at the local office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The processing time for the application is typically around 15 to 30 days.",
+      "text": "The processing time for the application is typically around 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "Upon approval, the financial assistance of ₹10,000 is disbursed directly into the bank account of the applicant.",
+      "text": "Upon approval, the financial assistance of ₹10,000 is disbursed directly into the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to be user-friendly and aims to ensure that families receive the assistance in a timely manner.",
+      "text": "The scheme is designed to be user-friendly and aims to ensure that families receive the assistance in a timely manner.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Funeral Assistance Scheme is the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "text": "The implementing authority for the Funeral Assistance Scheme is the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The board operates under the Department of Labour and Employment, Government of Andhra Pradesh.",
+      "text": "The board operates under the Department of Labour and Employment, Government of Andhra Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the board’s helpline at 1800 425 1515.",
+      "text": "For any queries or assistance, applicants can contact the board’s helpline at 1800 425 1515.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The board also has local offices across various districts in Andhra Pradesh.",
+      "text": "The board also has local offices across various districts in Andhra Pradesh.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These offices can provide additional support and guidance throughout the application process.",
+      "text": "These offices can provide additional support and guidance throughout the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Funeral Assistance Scheme is part of a broader initiative by the Government of India to support the unorganized sector.",
+      "text": "The Funeral Assistance Scheme is part of a broader initiative by the Government of India to support the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The unorganized sector employs a significant portion of the workforce in India.",
+      "text": "The unorganized sector employs a significant portion of the workforce in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "According to the 2020 Economic Survey, approximately 94% of the Indian workforce is employed in the unorganized sector.",
+      "text": "According to the 2020 Economic Survey, approximately 94% of the Indian workforce is employed in the unorganized sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This highlights the importance of providing targeted support to these vulnerable groups.",
+      "text": "This highlights the importance of providing targeted support to these vulnerable groups.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also aims to create awareness about the rights and welfare of workers in the unorganized sector.",
+      "text": "The scheme not only provides financial assistance but also aims to create awareness about the rights and welfare of workers in the unorganized sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has been actively working to improve the social security measures for these workers.",
+      "text": "The government has been actively working to improve the social security measures for these workers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Funeral Assistance Scheme is one of several initiatives aimed at enhancing the welfare of unorganized workers.",
+      "text": "The Funeral Assistance Scheme is one of several initiatives aimed at enhancing the welfare of unorganized workers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Other schemes include health insurance, pension schemes, and skill development programs.",
+      "text": "Other schemes include health insurance, pension schemes, and skill development programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementation of the Funeral Assistance Scheme is monitored by the state government.",
+      "text": "The implementation of the Funeral Assistance Scheme is monitored by the state government.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+      "text": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is also collected to make necessary improvements.",
+      "text": "Feedback from beneficiaries is also collected to make necessary improvements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive responses from families who have benefited from the assistance.",
+      "text": "The scheme has received positive responses from families who have benefited from the assistance.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many families have expressed gratitude for the timely support during their time of grief.",
+      "text": "Many families have expressed gratitude for the timely support during their time of grief.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The financial assistance has helped them manage the costs associated with funerals, which can be substantial.",
+      "text": "The financial assistance has helped them manage the costs associated with funerals, which can be substantial.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to promote the scheme through various outreach programs.",
+      "text": "The government continues to promote the scheme through various outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes awareness campaigns to ensure that eligible families are informed about the assistance available to them.",
+      "text": "This includes awareness campaigns to ensure that eligible families are informed about the assistance available to them.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Funeral Assistance Scheme represents a significant step towards providing social security to the families of unorganized workers.",
+      "text": "Overall, the Funeral Assistance Scheme represents a significant step towards providing social security to the families of unorganized workers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to ensure that no family is left in distress during a time of loss.",
+      "text": "It aims to ensure that no family is left in distress during a time of loss.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Government of India to support its citizens in their time of need.",
+      "text": "The scheme reflects the commitment of the Government of India to support its citizens in their time of need.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial assistance, the government aims to uphold the dignity of the deceased and support their families.",
+      "text": "By providing financial assistance, the government aims to uphold the dignity of the deceased and support their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Funeral Assistance Scheme is a crucial part of the welfare landscape for unorganized workers in India.",
+      "text": "The Funeral Assistance Scheme is a crucial part of the welfare landscape for unorganized workers in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It underscores the importance of social safety nets in a rapidly changing economic environment.",
+      "text": "It underscores the importance of social safety nets in a rapidly changing economic environment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme continues to evolve based on the needs of the community it serves.",
+      "text": "The scheme continues to evolve based on the needs of the community it serves.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the Funeral Assistance Scheme remains an active and vital program in Andhra Pradesh.",
+      "text": "As of October 2023, the Funeral Assistance Scheme remains an active and vital program in Andhra Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It stands as a testament to the government's dedication to improving the lives of its citizens.",
+      "text": "It stands as a testament to the government's dedication to improving the lives of its citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Families in need are encouraged to take advantage of this scheme to ease their financial burden during difficult times.",
+      "text": "Families in need are encouraged to take advantage of this scheme to ease their financial burden during difficult times.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to ensure that the benefits reach those who need them most.",
+      "text": "The government aims to ensure that the benefits reach those who need them most.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is an important part of the broader strategy to enhance the welfare of unorganized workers across India.",
+      "text": "This initiative is an important part of the broader strategy to enhance the welfare of unorganized workers across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Funeral Assistance (ANBOCWWB)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T16:47:21.440347",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 65,
+    "role_distribution": {
+      "ContextObjective": 20,
+      "AuthoritiesGovernance": 7,
+      "BenefitsAssistance": 20,
+      "Eligibility": 8,
+      "ApplicationProcess": 10
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "The Funeral Assistance Scheme is a welfare initiative launched by the Government of India to provide financial support to the families of deceased workers in the unorganized sector.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "This scheme is specifically aimed at the members of the Andhra Pradesh Non-Bonded Labourers Welfare Board (ANBOCWWB).",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This scheme is specifically aimed at the members of the Andhra Pradesh Non-Bonded Labourers Welfare Board (ANBOCWWB).",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The scheme was officially launched on 1st January 2020.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme was officially launched on 1st January 2020.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The primary objective of the Funeral Assistance Scheme is to alleviate the financial burden on families during the time of bereavement.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective of the Funeral Assistance Scheme is to alleviate the financial burden on families during the time of bereavement.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "The government recognizes that the death of a family member can lead to significant economic distress.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government recognizes that the death of a family member can lead to significant economic distress.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "The scheme aims to provide timely financial assistance to help cover the costs associated with funeral expenses.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme aims to provide timely financial assistance to help cover the costs associated with funeral expenses.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "Under this scheme, the government provides a one-time financial assistance amount of ₹10,000.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Under this scheme, the government provides a one-time financial assistance amount of ₹10,000.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "This amount is intended to help families manage the expenses related to the last rites and funeral services.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This amount is intended to help families manage the expenses related to the last rites and funeral services.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The assistance is provided directly to the bank account of the beneficiary.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The assistance is provided directly to the bank account of the beneficiary.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "To be eligible for the Funeral Assistance Scheme, applicants must be registered members of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "To be eligible for the Funeral Assistance Scheme, applicants must be registered members of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "The applicant must provide proof of their membership in the board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The applicant must provide proof of their membership in the board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "Additionally, the deceased must also be a member of the same board at the time of their death.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Additionally, the deceased must also be a member of the same board at the time of their death.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The applicant must be a direct family member of the deceased.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The applicant must be a direct family member of the deceased.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "This includes spouses, children, or parents of the deceased worker.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This includes spouses, children, or parents of the deceased worker.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "There are no specific age limits for eligibility under this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "There are no specific age limits for eligibility under this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "However, the income criteria for the deceased worker must be within the limits set by the board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "However, the income criteria for the deceased worker must be within the limits set by the board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "As of the latest updates, the income limit for eligibility is set at ₹15,000 per month.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "As of the latest updates, the income limit for eligibility is set at ₹15,000 per month.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "This ensures that the assistance is directed towards families who are in genuine need of financial support.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This ensures that the assistance is directed towards families who are in genuine need of financial support.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "The application process for the Funeral Assistance Scheme is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process for the Funeral Assistance Scheme is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Interested applicants must visit the official website of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested applicants must visit the official website of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "They need to download the application form available on the website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "They need to download the application form available on the website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "The completed application form must be submitted to the local office of the board.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The completed application form must be submitted to the local office of the board.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "Along with the application form, the following documents are required:",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Along with the application form, the following documents are required:",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "1. Proof of membership of the deceased in the ANBOCWWB.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "1. Proof of membership of the deceased in the ANBOCWWB.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "2. Death certificate of the deceased worker.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "2. Death certificate of the deceased worker.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "3. Identity proof of the applicant.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "3. Identity proof of the applicant.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "4. Bank account details for the transfer of funds.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "4. Bank account details for the transfer of funds.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "5. Any other documents as specified by the local office.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "5. Any other documents as specified by the local office.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is reviewed by the officials at the local office.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it is reviewed by the officials at the local office.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "The processing time for the application is typically around 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The processing time for the application is typically around 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "Upon approval, the financial assistance of ₹10,000 is disbursed directly into the bank account of the applicant.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Upon approval, the financial assistance of ₹10,000 is disbursed directly into the bank account of the applicant.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "The scheme is designed to be user-friendly and aims to ensure that families receive the assistance in a timely manner.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is designed to be user-friendly and aims to ensure that families receive the assistance in a timely manner.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "The implementing authority for the Funeral Assistance Scheme is the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the Funeral Assistance Scheme is the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The board operates under the Department of Labour and Employment, Government of Andhra Pradesh.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The board operates under the Department of Labour and Employment, Government of Andhra Pradesh.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "For any queries or assistance, applicants can contact the board’s helpline at 1800 425 1515.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "For any queries or assistance, applicants can contact the board’s helpline at 1800 425 1515.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The board also has local offices across various districts in Andhra Pradesh.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The board also has local offices across various districts in Andhra Pradesh.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "These offices can provide additional support and guidance throughout the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These offices can provide additional support and guidance throughout the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "The Funeral Assistance Scheme is part of a broader initiative by the Government of India to support the unorganized sector.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Funeral Assistance Scheme is part of a broader initiative by the Government of India to support the unorganized sector.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "The unorganized sector employs a significant portion of the workforce in India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The unorganized sector employs a significant portion of the workforce in India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "According to the 2020 Economic Survey, approximately 94% of the Indian workforce is employed in the unorganized sector.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "According to the 2020 Economic Survey, approximately 94% of the Indian workforce is employed in the unorganized sector.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "This highlights the importance of providing targeted support to these vulnerable groups.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This highlights the importance of providing targeted support to these vulnerable groups.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "The scheme not only provides financial assistance but also aims to create awareness about the rights and welfare of workers in the unorganized sector.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme not only provides financial assistance but also aims to create awareness about the rights and welfare of workers in the unorganized sector.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "The government has been actively working to improve the social security measures for these workers.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has been actively working to improve the social security measures for these workers.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "The Funeral Assistance Scheme is one of several initiatives aimed at enhancing the welfare of unorganized workers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Funeral Assistance Scheme is one of several initiatives aimed at enhancing the welfare of unorganized workers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "Other schemes include health insurance, pension schemes, and skill development programs.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Other schemes include health insurance, pension schemes, and skill development programs.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "The implementation of the Funeral Assistance Scheme is monitored by the state government.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementation of the Funeral Assistance Scheme is monitored by the state government.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "Feedback from beneficiaries is also collected to make necessary improvements.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Feedback from beneficiaries is also collected to make necessary improvements.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The scheme has received positive responses from families who have benefited from the assistance.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has received positive responses from families who have benefited from the assistance.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "Many families have expressed gratitude for the timely support during their time of grief.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Many families have expressed gratitude for the timely support during their time of grief.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "The financial assistance has helped them manage the costs associated with funerals, which can be substantial.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The financial assistance has helped them manage the costs associated with funerals, which can be substantial.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "The government continues to promote the scheme through various outreach programs.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government continues to promote the scheme through various outreach programs.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "This includes awareness campaigns to ensure that eligible families are informed about the assistance available to them.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This includes awareness campaigns to ensure that eligible families are informed about the assistance available to them.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "Overall, the Funeral Assistance Scheme represents a significant step towards providing social security to the families of unorganized workers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Overall, the Funeral Assistance Scheme represents a significant step towards providing social security to the families of unorganized workers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "It aims to ensure that no family is left in distress during a time of loss.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aims to ensure that no family is left in distress during a time of loss.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "The scheme reflects the commitment of the Government of India to support its citizens in their time of need.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme reflects the commitment of the Government of India to support its citizens in their time of need.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "By providing financial assistance, the government aims to uphold the dignity of the deceased and support their families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "By providing financial assistance, the government aims to uphold the dignity of the deceased and support their families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "The Funeral Assistance Scheme is a crucial part of the welfare landscape for unorganized workers in India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Funeral Assistance Scheme is a crucial part of the welfare landscape for unorganized workers in India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "It underscores the importance of social safety nets in a rapidly changing economic environment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It underscores the importance of social safety nets in a rapidly changing economic environment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "ctu2": {
+        "sentence": "The scheme continues to evolve based on the needs of the community it serves.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme continues to evolve based on the needs of the community it serves.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "ctu2": {
+        "sentence": "As of October 2023, the Funeral Assistance Scheme remains an active and vital program in Andhra Pradesh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "As of October 2023, the Funeral Assistance Scheme remains an active and vital program in Andhra Pradesh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "ctu2": {
+        "sentence": "It stands as a testament to the government's dedication to improving the lives of its citizens.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It stands as a testament to the government's dedication to improving the lives of its citizens.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "ctu2": {
+        "sentence": "Families in need are encouraged to take advantage of this scheme to ease their financial burden during difficult times.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Families in need are encouraged to take advantage of this scheme to ease their financial burden during difficult times.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "ctu2": {
+        "sentence": "The government aims to ensure that the benefits reach those who need them most.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government aims to ensure that the benefits reach those who need them most.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "ctu2": {
+        "sentence": "This initiative is an important part of the broader strategy to enhance the welfare of unorganized workers across India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 64
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "However, the income criteria for the deceased worker must be within the limits set by the board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "The application process for the Funeral Assistance Scheme is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 3,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested applicants must visit the official website of the Andhra Pradesh Non-Bonded Labourers Welfare Board.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "They need to download the application form available on the website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "5. Any other documents as specified by the local office.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is reviewed by the officials at the local office.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 1,
+      "edge_confidence_raw": 0.7
+    },
+    {
+      "ctu1": {
+        "sentence": "The board operates under the Department of Labour and Employment, Government of Andhra Pradesh.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "For any queries or assistance, applicants can contact the board’s helpline at 1800 425 1515.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 1,
+      "edge_confidence_raw": 0.7
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 64,
+    "actual_precedes": 64,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

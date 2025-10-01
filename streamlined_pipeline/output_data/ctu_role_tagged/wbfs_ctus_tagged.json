@@ -1,0 +1,730 @@
+{
+  "scheme_name": "West Bengal Freeship Scheme",
+  "total_sentences": 71,
+  "ctus": [
+    {
+      "sentence": "The West Bengal Freeship Scheme was launched by the Government of West Bengal in 2016.",
+      "text": "The West Bengal Freeship Scheme was launched by the Government of West Bengal in 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to economically disadvantaged students.",
+      "text": "This scheme aims to provide financial assistance to economically disadvantaged students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective is to ensure that students from low-income families can access higher education without the burden of tuition fees.",
+      "text": "The primary objective is to ensure that students from low-income families can access higher education without the burden of tuition fees.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme covers various courses offered by government and private institutions in West Bengal.",
+      "text": "The scheme covers various courses offered by government and private institutions in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligible courses include undergraduate and postgraduate programs across different fields.",
+      "text": "Eligible courses include undergraduate and postgraduate programs across different fields.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Freeship Scheme is particularly focused on students who belong to Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "text": "The Freeship Scheme is particularly focused on students who belong to Scheduled Castes, Scheduled Tribes, and Other Backward Classes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to promote education among economically weaker sections of society.",
+      "text": "The scheme also aims to promote education among economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, students can receive a waiver of tuition fees.",
+      "text": "Under this scheme, students can receive a waiver of tuition fees.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The amount waived can vary depending on the institution and the course.",
+      "text": "The amount waived can vary depending on the institution and the course.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Typically, the tuition fee waiver can go up to 100 percent.",
+      "text": "Typically, the tuition fee waiver can go up to 100 percent.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is designed to alleviate the financial burden on families.",
+      "text": "The scheme is designed to alleviate the financial burden on families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the Freeship Scheme, students must meet specific criteria.",
+      "text": "To be eligible for the Freeship Scheme, students must meet specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must be residents of West Bengal.",
+      "text": "Students must be residents of West Bengal.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They should belong to families with an annual income of less than INR 2.5 lakh.",
+      "text": "They should belong to families with an annual income of less than INR 2.5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is applicable to students who have secured admission through the West Bengal Joint Entrance Examination.",
+      "text": "The scheme is applicable to students who have secured admission through the West Bengal Joint Entrance Examination.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must also have a valid income certificate issued by a competent authority.",
+      "text": "Students must also have a valid income certificate issued by a competent authority.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Freeship Scheme is straightforward.",
+      "text": "The application process for the Freeship Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must first apply for admission to a recognized institution.",
+      "text": "Students must first apply for admission to a recognized institution.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once admitted, they can apply for the Freeship Scheme through their respective institutions.",
+      "text": "Once admitted, they can apply for the Freeship Scheme through their respective institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form is typically available on the official website of the West Bengal Higher Education Department.",
+      "text": "The application form is typically available on the official website of the West Bengal Higher Education Department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include the income certificate, admission letter, and identity proof.",
+      "text": "Required documents include the income certificate, admission letter, and identity proof.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must submit these documents along with the application form.",
+      "text": "Students must submit these documents along with the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The institutions will then verify the applications and forward them to the concerned authorities.",
+      "text": "The institutions will then verify the applications and forward them to the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The disbursement of the tuition fee waiver is usually done at the beginning of each academic year.",
+      "text": "The disbursement of the tuition fee waiver is usually done at the beginning of each academic year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students are advised to apply as early as possible to ensure timely processing.",
+      "text": "Students are advised to apply as early as possible to ensure timely processing.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Freeship Scheme has significantly increased enrollment rates among economically weaker sections.",
+      "text": "The Freeship Scheme has significantly increased enrollment rates among economically weaker sections.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "According to reports, the scheme has benefited over 1 lakh students since its inception.",
+      "text": "According to reports, the scheme has benefited over 1 lakh students since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The West Bengal Government has allocated a budget of INR 100 crore for the scheme in the fiscal year 2022-2023.",
+      "text": "The West Bengal Government has allocated a budget of INR 100 crore for the scheme in the fiscal year 2022-2023.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This funding is aimed at supporting the increasing number of applicants.",
+      "text": "This funding is aimed at supporting the increasing number of applicants.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Higher Education, Government of West Bengal.",
+      "text": "The scheme is implemented by the Department of Higher Education, Government of West Bengal.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and disbursement of funds.",
+      "text": "The department is responsible for overseeing the application process and disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any queries, students can contact the Directorate of Higher Education.",
+      "text": "For any queries, students can contact the Directorate of Higher Education.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact number for the Directorate is +91-33-2211-3322.",
+      "text": "The contact number for the Directorate is +91-33-2211-3322.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students can also visit the official website for more information.",
+      "text": "Students can also visit the official website for more information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The website provides detailed guidelines and updates regarding the scheme.",
+      "text": "The website provides detailed guidelines and updates regarding the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Freeship Scheme is part of the West Bengal Government's broader initiative to promote education.",
+      "text": "The Freeship Scheme is part of the West Bengal Government's broader initiative to promote education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aligns with the state's goal of achieving universal access to higher education.",
+      "text": "It aligns with the state's goal of achieving universal access to higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries.",
+      "text": "The scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many students have reported that the financial assistance has allowed them to pursue their dreams.",
+      "text": "Many students have reported that the financial assistance has allowed them to pursue their dreams.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to enhance its effectiveness.",
+      "text": "The government regularly reviews the scheme to enhance its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In recent years, there have been discussions about expanding the eligibility criteria.",
+      "text": "In recent years, there have been discussions about expanding the eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This could potentially include more students from diverse backgrounds.",
+      "text": "This could potentially include more students from diverse backgrounds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Freeship Scheme is an essential step towards educational equity in West Bengal.",
+      "text": "The Freeship Scheme is an essential step towards educational equity in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to supporting underprivileged students.",
+      "text": "It reflects the government's commitment to supporting underprivileged students.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to continue evolving to meet the needs of the population.",
+      "text": "The scheme is expected to continue evolving to meet the needs of the population.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the West Bengal Freeship Scheme is a vital initiative.",
+      "text": "In conclusion, the West Bengal Freeship Scheme is a vital initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides crucial financial support to students from economically weaker sections.",
+      "text": "It provides crucial financial support to students from economically weaker sections.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By waiving tuition fees, the scheme promotes access to higher education.",
+      "text": "By waiving tuition fees, the scheme promotes access to higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is a testament to the government's efforts in fostering educational opportunities.",
+      "text": "This initiative is a testament to the government's efforts in fostering educational opportunities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Freeship Scheme is a significant contributor to the state's educational landscape.",
+      "text": "The Freeship Scheme is a significant contributor to the state's educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It empowers students to pursue their academic aspirations without financial constraints.",
+      "text": "It empowers students to pursue their academic aspirations without financial constraints.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is an essential tool in the fight against educational inequality.",
+      "text": "The scheme is an essential tool in the fight against educational inequality.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The West Bengal Government remains committed to enhancing this initiative.",
+      "text": "The West Bengal Government remains committed to enhancing this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future enhancements may include increased funding and broader eligibility criteria.",
+      "text": "Future enhancements may include increased funding and broader eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Freeship Scheme is a beacon of hope for many aspiring students in West Bengal.",
+      "text": "The Freeship Scheme is a beacon of hope for many aspiring students in West Bengal.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It represents a significant investment in the future of the state's youth.",
+      "text": "It represents a significant investment in the future of the state's youth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme's impact will likely resonate for generations to come.",
+      "text": "The scheme's impact will likely resonate for generations to come.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the West Bengal Freeship Scheme is a commendable effort by the government.",
+      "text": "Overall, the West Bengal Freeship Scheme is a commendable effort by the government.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It plays a crucial role in shaping a more educated and equitable society.",
+      "text": "It plays a crucial role in shaping a more educated and equitable society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Students are encouraged to take advantage of this valuable opportunity.",
+      "text": "Students are encouraged to take advantage of this valuable opportunity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Freeship Scheme is a vital resource for those in need of financial assistance.",
+      "text": "The Freeship Scheme is a vital resource for those in need of financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a clear indication of the government's dedication to education and social welfare.",
+      "text": "It is a clear indication of the government's dedication to education and social welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme continues to evolve and adapt to the changing educational landscape.",
+      "text": "The scheme continues to evolve and adapt to the changing educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a significant step towards achieving educational inclusivity in West Bengal.",
+      "text": "It is a significant step towards achieving educational inclusivity in West Bengal.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Freeship Scheme is a model for other states to consider in their educational policies.",
+      "text": "The Freeship Scheme is a model for other states to consider in their educational policies.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It highlights the importance of supporting students from all backgrounds.",
+      "text": "It highlights the importance of supporting students from all backgrounds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a vital part of West Bengal's commitment to higher education.",
+      "text": "The scheme is a vital part of West Bengal's commitment to higher education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It ensures that financial barriers do not hinder academic success.",
+      "text": "It ensures that financial barriers do not hinder academic success.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 67,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Freeship Scheme is a powerful tool for social change.",
+      "text": "The Freeship Scheme is a powerful tool for social change.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 68,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It empowers students to dream big and achieve their goals.",
+      "text": "It empowers students to dream big and achieve their goals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 69,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The West Bengal Freeship Scheme is a significant milestone in the journey towards educational equity.",
+      "text": "The West Bengal Freeship Scheme is a significant milestone in the journey towards educational equity.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 70,
+      "scheme_name": "West Bengal Freeship Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T16:59:09.823754",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 71,
+    "role_distribution": {
+      "ContextObjective": 33,
+      "BenefitsAssistance": 17,
+      "Eligibility": 9,
+      "ApplicationProcess": 7,
+      "AuthoritiesGovernance": 3,
+      "DefinitionsReferences": 2
+    }
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "scheme_name": "Silpi Pension Scheme - Assam",
+  "total_sentences": 66,
+  "ctus": [
+    {
+      "sentence": "The Silpi Pension Scheme is a welfare initiative launched by the Government of Assam in India.",
+      "text": "The Silpi Pension Scheme is a welfare initiative launched by the Government of Assam in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was officially launched on January 1, 2021.",
+      "text": "The scheme was officially launched on January 1, 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to provide financial assistance to artists and craftsmen in the state of Assam.",
+      "text": "It aims to provide financial assistance to artists and craftsmen in the state of Assam.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Silpi Pension Scheme is to support the livelihood of traditional artists and craftsmen.",
+      "text": "The primary objective of the Silpi Pension Scheme is to support the livelihood of traditional artists and craftsmen.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This support is crucial as many of these individuals face financial difficulties due to the decline in traditional art forms.",
+      "text": "This support is crucial as many of these individuals face financial difficulties due to the decline in traditional art forms.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets individuals who have dedicated their lives to the promotion of Assamese culture and heritage.",
+      "text": "The scheme specifically targets individuals who have dedicated their lives to the promotion of Assamese culture and heritage.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a measurable target of providing pensions to a minimum of 1,000 beneficiaries in the first year of implementation.",
+      "text": "The government has set a measurable target of providing pensions to a minimum of 1,000 beneficiaries in the first year of implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension amount under this scheme is set at ₹2,000 per month.",
+      "text": "The pension amount under this scheme is set at ₹2,000 per month.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This financial assistance is intended to ensure a basic standard of living for the artists and craftsmen.",
+      "text": "This financial assistance is intended to ensure a basic standard of living for the artists and craftsmen.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria for the Silpi Pension Scheme are clearly defined.",
+      "text": "The eligibility criteria for the Silpi Pension Scheme are clearly defined.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must be residents of Assam.",
+      "text": "Applicants must be residents of Assam.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must be aged 60 years or older to qualify for the pension.",
+      "text": "They must be aged 60 years or older to qualify for the pension.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, applicants should have been engaged in traditional art or craft for a minimum of 20 years.",
+      "text": "Additionally, applicants should have been engaged in traditional art or craft for a minimum of 20 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also requires that the artists or craftsmen must not be receiving any other pension from the government.",
+      "text": "The scheme also requires that the artists or craftsmen must not be receiving any other pension from the government.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures that the assistance is directed towards those who are in genuine need of financial support.",
+      "text": "This ensures that the assistance is directed towards those who are in genuine need of financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Silpi Pension Scheme is straightforward.",
+      "text": "The application process for the Silpi Pension Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested applicants must fill out an application form available at designated government offices.",
+      "text": "Interested applicants must fill out an application form available at designated government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the Assam government.",
+      "text": "The application form can also be downloaded from the official website of the Assam government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants are required to submit proof of age, such as a birth certificate or an Aadhaar card.",
+      "text": "Applicants are required to submit proof of age, such as a birth certificate or an Aadhaar card.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must also provide documentation that verifies their engagement in traditional art or craft.",
+      "text": "They must also provide documentation that verifies their engagement in traditional art or craft.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This may include certificates from recognized institutions or organizations.",
+      "text": "This may include certificates from recognized institutions or organizations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by a committee formed by the Department of Cultural Affairs.",
+      "text": "Once the application is submitted, it is reviewed by a committee formed by the Department of Cultural Affairs.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This committee assesses the eligibility of the applicants based on the provided documents.",
+      "text": "This committee assesses the eligibility of the applicants based on the provided documents.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension is disbursed on a monthly basis.",
+      "text": "The pension is disbursed on a monthly basis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The first disbursement typically occurs within three months of the application approval.",
+      "text": "The first disbursement typically occurs within three months of the application approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Subsequent payments are made on the first day of each month.",
+      "text": "Subsequent payments are made on the first day of each month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Silpi Pension Scheme is the Department of Cultural Affairs, Assam.",
+      "text": "The implementing authority for the Silpi Pension Scheme is the Department of Cultural Affairs, Assam.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The department is responsible for overseeing the application process and the disbursement of funds.",
+      "text": "The department is responsible for overseeing the application process and the disbursement of funds.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any inquiries or assistance, applicants can contact the Department of Cultural Affairs at their office in Guwahati.",
+      "text": "For any inquiries or assistance, applicants can contact the Department of Cultural Affairs at their office in Guwahati.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact number for the department is +91-361-222-1234.",
+      "text": "The contact number for the department is +91-361-222-1234.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to promote the preservation and promotion of traditional art forms in Assam.",
+      "text": "The scheme also aims to promote the preservation and promotion of traditional art forms in Assam.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial support, the government encourages artists to continue their craft.",
+      "text": "By providing financial support, the government encourages artists to continue their craft.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is part of a broader initiative by the Assam government to enhance the welfare of marginalized communities.",
+      "text": "The Silpi Pension Scheme is part of a broader initiative by the Assam government to enhance the welfare of marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to cultural preservation and the support of local artisans.",
+      "text": "It reflects the government's commitment to cultural preservation and the support of local artisans.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various stakeholders in the arts community.",
+      "text": "The scheme has received positive feedback from various stakeholders in the arts community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many artists have expressed gratitude for the financial assistance provided.",
+      "text": "Many artists have expressed gratitude for the financial assistance provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension helps alleviate the financial burden faced by elderly artists.",
+      "text": "The pension helps alleviate the financial burden faced by elderly artists.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It allows them to focus on their art without the stress of financial insecurity.",
+      "text": "It allows them to focus on their art without the stress of financial insecurity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has also announced plans to expand the scheme in the future.",
+      "text": "The government has also announced plans to expand the scheme in the future.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This expansion may include increasing the pension amount or the number of beneficiaries.",
+      "text": "This expansion may include increasing the pension amount or the number of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is an important step towards recognizing the contributions of artists in society.",
+      "text": "The Silpi Pension Scheme is an important step towards recognizing the contributions of artists in society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It acknowledges the role of traditional art forms in the cultural fabric of Assam.",
+      "text": "It acknowledges the role of traditional art forms in the cultural fabric of Assam.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also aims to inspire younger generations to take up traditional arts.",
+      "text": "The scheme also aims to inspire younger generations to take up traditional arts.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By supporting existing artists, the government hopes to create a sustainable ecosystem for traditional crafts.",
+      "text": "By supporting existing artists, the government hopes to create a sustainable ecosystem for traditional crafts.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is a significant move towards social security for artists in Assam.",
+      "text": "The Silpi Pension Scheme is a significant move towards social security for artists in Assam.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is designed to ensure that those who have dedicated their lives to art are not left unsupported in their old age.",
+      "text": "It is designed to ensure that those who have dedicated their lives to art are not left unsupported in their old age.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government continues to monitor the impact of the scheme on the lives of beneficiaries.",
+      "text": "The government continues to monitor the impact of the scheme on the lives of beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from artists and the community is actively sought to improve the scheme.",
+      "text": "Feedback from artists and the community is actively sought to improve the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is a model for similar initiatives across other states in India.",
+      "text": "The Silpi Pension Scheme is a model for similar initiatives across other states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It demonstrates the potential for government support to uplift marginalized communities through targeted welfare programs.",
+      "text": "It demonstrates the potential for government support to uplift marginalized communities through targeted welfare programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Silpi Pension Scheme represents a commitment to cultural heritage and the welfare of artists in Assam.",
+      "text": "Overall, the Silpi Pension Scheme represents a commitment to cultural heritage and the welfare of artists in Assam.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme's implementation is a testament to the importance of preserving traditional art forms for future generations.",
+      "text": "The scheme's implementation is a testament to the importance of preserving traditional art forms for future generations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government of Assam remains dedicated to enhancing the livelihoods of its artists through such welfare schemes.",
+      "text": "The government of Assam remains dedicated to enhancing the livelihoods of its artists through such welfare schemes.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is a vital part of this ongoing effort.",
+      "text": "The Silpi Pension Scheme is a vital part of this ongoing effort.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It serves as a reminder of the value of art and culture in society.",
+      "text": "It serves as a reminder of the value of art and culture in society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The financial assistance provided through this scheme is crucial for the sustenance of many artists.",
+      "text": "The financial assistance provided through this scheme is crucial for the sustenance of many artists.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As the scheme evolves, it will likely adapt to meet the changing needs of the artistic community in Assam.",
+      "text": "As the scheme evolves, it will likely adapt to meet the changing needs of the artistic community in Assam.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme stands as a beacon of hope for many traditional artists in the state.",
+      "text": "The Silpi Pension Scheme stands as a beacon of hope for many traditional artists in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a significant step towards ensuring that their contributions are recognized and valued.",
+      "text": "It is a significant step towards ensuring that their contributions are recognized and valued.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is committed to continuing this support for the foreseeable future.",
+      "text": "The government is committed to continuing this support for the foreseeable future.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through the Silpi Pension Scheme, Assam aims to create a more inclusive society for its artists.",
+      "text": "Through the Silpi Pension Scheme, Assam aims to create a more inclusive society for its artists.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative highlights the importance of government intervention in preserving cultural heritage.",
+      "text": "This initiative highlights the importance of government intervention in preserving cultural heritage.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is a model of how welfare schemes can directly impact the lives of individuals.",
+      "text": "The Silpi Pension Scheme is a model of how welfare schemes can directly impact the lives of individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a clear demonstration of the Assam government's dedication to its cultural roots.",
+      "text": "It is a clear demonstration of the Assam government's dedication to its cultural roots.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to evolve further as it gains more recognition and support.",
+      "text": "The scheme is expected to evolve further as it gains more recognition and support.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Silpi Pension Scheme is a vital lifeline for many artists in Assam today.",
+      "text": "The Silpi Pension Scheme is a vital lifeline for many artists in Assam today.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "Silpi Pension Scheme - Assam",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T11:23:18.449053",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 66,
+    "role_distribution": {
+      "ContextObjective": 27,
+      "BenefitsAssistance": 18,
+      "Eligibility": 6,
+      "ApplicationProcess": 5,
+      "TimelineFrequency": 1,
+      "AuthoritiesGovernance": 9
+    }
+  }
+}

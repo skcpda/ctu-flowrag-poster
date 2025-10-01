@@ -1,0 +1,601 @@
+{
+  "scheme_name": "Haryana State Meritorious Incentive Scheme",
+  "total_sentences": 58,
+  "ctus": [
+    {
+      "sentence": "The Haryana State Meritorious Incentive Scheme was launched by the Government of Haryana in 2016.",
+      "text": "The Haryana State Meritorious Incentive Scheme was launched by the Government of Haryana in 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to encourage and reward students who achieve excellence in their academic pursuits.",
+      "text": "This scheme aims to encourage and reward students who achieve excellence in their academic pursuits.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the scheme is to provide financial assistance to meritorious students from economically weaker sections.",
+      "text": "The primary objective of the scheme is to provide financial assistance to meritorious students from economically weaker sections.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets students who have secured high marks in their Class 10 and Class 12 board examinations.",
+      "text": "The scheme specifically targets students who have secured high marks in their Class 10 and Class 12 board examinations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, students who score 80 percent or above in their Class 10 examinations are eligible for financial incentives.",
+      "text": "Under this scheme, students who score 80 percent or above in their Class 10 examinations are eligible for financial incentives.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Similarly, students who achieve 75 percent or above in their Class 12 examinations are also eligible for benefits under this scheme.",
+      "text": "Similarly, students who achieve 75 percent or above in their Class 12 examinations are also eligible for benefits under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided to eligible students is structured in a tiered manner based on their performance.",
+      "text": "The financial assistance provided to eligible students is structured in a tiered manner based on their performance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For students who secure 80 percent or more in Class 10, a one-time incentive of ₹10,000 is provided.",
+      "text": "For students who secure 80 percent or more in Class 10, a one-time incentive of ₹10,000 is provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "For students who achieve 75 percent or more in Class 12, a one-time incentive of ₹15,000 is granted.",
+      "text": "For students who achieve 75 percent or more in Class 12, a one-time incentive of ₹15,000 is granted.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also aims to promote education among girls and students from Scheduled Castes and economically weaker sections.",
+      "text": "The scheme also aims to promote education among girls and students from Scheduled Castes and economically weaker sections.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance aims to alleviate the financial burden on families and encourage students to pursue higher education.",
+      "text": "The financial assistance aims to alleviate the financial burden on families and encourage students to pursue higher education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of School Education, Haryana.",
+      "text": "The scheme is implemented by the Department of School Education, Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the scheme, students must be residents of Haryana.",
+      "text": "To be eligible for the scheme, students must be residents of Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must also belong to families with an annual income not exceeding ₹2.5 lakh.",
+      "text": "Students must also belong to families with an annual income not exceeding ₹2.5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This income criterion ensures that the benefits reach the intended beneficiaries who are from economically disadvantaged backgrounds.",
+      "text": "This income criterion ensures that the benefits reach the intended beneficiaries who are from economically disadvantaged backgrounds.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must have completed their examinations from recognized boards such as the Haryana Board of School Education or equivalent.",
+      "text": "Students must have completed their examinations from recognized boards such as the Haryana Board of School Education or equivalent.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Haryana State Meritorious Incentive Scheme is straightforward.",
+      "text": "The application process for the Haryana State Meritorious Incentive Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must fill out the application form available on the official website of the Department of School Education, Haryana.",
+      "text": "Students must fill out the application form available on the official website of the Department of School Education, Haryana.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Along with the application form, students are required to submit specific documents.",
+      "text": "Along with the application form, students are required to submit specific documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These documents include a copy of the mark sheet of the qualifying examination.",
+      "text": "These documents include a copy of the mark sheet of the qualifying examination.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Students must also provide proof of residence in Haryana.",
+      "text": "Students must also provide proof of residence in Haryana.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, an income certificate from a competent authority is required to verify the annual income of the family.",
+      "text": "Additionally, an income certificate from a competent authority is required to verify the annual income of the family.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application must be submitted within the stipulated time frame set by the government.",
+      "text": "The application must be submitted within the stipulated time frame set by the government.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government typically announces the application period shortly after the declaration of board examination results.",
+      "text": "The government typically announces the application period shortly after the declaration of board examination results.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students are advised to keep an eye on official announcements for specific dates.",
+      "text": "Students are advised to keep an eye on official announcements for specific dates.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the applications are received, the department verifies the documents submitted by the applicants.",
+      "text": "Once the applications are received, the department verifies the documents submitted by the applicants.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The verification process includes checking the authenticity of the mark sheets and income certificates.",
+      "text": "The verification process includes checking the authenticity of the mark sheets and income certificates.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "After successful verification, the financial assistance is disbursed to the eligible students.",
+      "text": "After successful verification, the financial assistance is disbursed to the eligible students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement is usually made directly to the bank accounts of the beneficiaries.",
+      "text": "The disbursement is usually made directly to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures transparency and efficiency in the distribution of funds.",
+      "text": "This ensures transparency and efficiency in the distribution of funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Haryana State Meritorious Incentive Scheme has seen a significant number of beneficiaries since its inception.",
+      "text": "The Haryana State Meritorious Incentive Scheme has seen a significant number of beneficiaries since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the year 2020, approximately 25,000 students benefited from the scheme.",
+      "text": "In the year 2020, approximately 25,000 students benefited from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total amount disbursed in that year was around ₹30 crore.",
+      "text": "The total amount disbursed in that year was around ₹30 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been instrumental in motivating students to excel academically.",
+      "text": "The scheme has been instrumental in motivating students to excel academically.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has also contributed to increasing the enrollment rates in higher education institutions in Haryana.",
+      "text": "It has also contributed to increasing the enrollment rates in higher education institutions in Haryana.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has also made provisions for continuous monitoring and evaluation of the scheme.",
+      "text": "The government has also made provisions for continuous monitoring and evaluation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures that the objectives of the scheme are being met effectively.",
+      "text": "This ensures that the objectives of the scheme are being met effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "text": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Haryana State Meritorious Incentive Scheme is part of the broader initiative by the Government of Haryana to promote education.",
+      "text": "The Haryana State Meritorious Incentive Scheme is part of the broader initiative by the Government of Haryana to promote education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aligns with the national goals of improving literacy rates and educational attainment across the country.",
+      "text": "It aligns with the national goals of improving literacy rates and educational attainment across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has been well-received by the public and has garnered positive feedback from various stakeholders.",
+      "text": "The scheme has been well-received by the public and has garnered positive feedback from various stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Educational institutions in Haryana have also supported the initiative by encouraging students to apply.",
+      "text": "Educational institutions in Haryana have also supported the initiative by encouraging students to apply.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also instills a sense of achievement among students.",
+      "text": "The scheme not only provides financial assistance but also instills a sense of achievement among students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes and rewards hard work and dedication towards academic excellence.",
+      "text": "It recognizes and rewards hard work and dedication towards academic excellence.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Haryana government continues to promote this scheme as a vital tool for educational empowerment.",
+      "text": "The Haryana government continues to promote this scheme as a vital tool for educational empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to evolve with changing educational dynamics and needs.",
+      "text": "The scheme is expected to evolve with changing educational dynamics and needs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future enhancements may include increasing the financial assistance amounts or expanding eligibility criteria.",
+      "text": "Future enhancements may include increasing the financial assistance amounts or expanding eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Haryana State Meritorious Incentive Scheme serves as a model for similar initiatives in other states.",
+      "text": "The Haryana State Meritorious Incentive Scheme serves as a model for similar initiatives in other states.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It highlights the importance of supporting meritorious students from underprivileged backgrounds.",
+      "text": "It highlights the importance of supporting meritorious students from underprivileged backgrounds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme reflects the commitment of the Haryana government towards fostering a culture of meritocracy in education.",
+      "text": "The scheme reflects the commitment of the Haryana government towards fostering a culture of meritocracy in education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Haryana State Meritorious Incentive Scheme is a significant step towards ensuring that financial constraints do not hinder academic excellence.",
+      "text": "Overall, the Haryana State Meritorious Incentive Scheme is a significant step towards ensuring that financial constraints do not hinder academic excellence.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It empowers students to pursue their dreams and aspirations without the burden of financial limitations.",
+      "text": "It empowers students to pursue their dreams and aspirations without the burden of financial limitations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme continues to play a crucial role in shaping the educational landscape of Haryana.",
+      "text": "The scheme continues to play a crucial role in shaping the educational landscape of Haryana.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the scheme remains active and continues to benefit students across the state.",
+      "text": "As of October 2023, the scheme remains active and continues to benefit students across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government encourages eligible students to take advantage of this initiative to further their educational goals.",
+      "text": "The government encourages eligible students to take advantage of this initiative to further their educational goals.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For more information, students can visit the official website of the Department of School Education, Haryana.",
+      "text": "For more information, students can visit the official website of the Department of School Education, Haryana.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for the department can also be found on the website for any inquiries regarding the scheme.",
+      "text": "The contact details for the department can also be found on the website for any inquiries regarding the scheme.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative stands as a testament to the Haryana government's dedication to promoting education and supporting its youth.",
+      "text": "This initiative stands as a testament to the Haryana government's dedication to promoting education and supporting its youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Haryana State Meritorious Incentive Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T16:46:40.655725",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 58,
+    "role_distribution": {
+      "ContextObjective": 27,
+      "BenefitsAssistance": 13,
+      "Eligibility": 9,
+      "ApplicationProcess": 6,
+      "TimelineFrequency": 1,
+      "AuthoritiesGovernance": 1,
+      "DefinitionsReferences": 1
+    }
+  }
+}

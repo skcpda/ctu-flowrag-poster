@@ -1,0 +1,650 @@
+{
+  "scheme_name": "Mukhyamantri Matrushakti Yojana",
+  "total_sentences": 63,
+  "ctus": [
+    {
+      "sentence": "The Mukhyamantri Matrushakti Yojana is a significant welfare scheme launched by the Government of Madhya Pradesh in India.",
+      "text": "The Mukhyamantri Matrushakti Yojana is a significant welfare scheme launched by the Government of Madhya Pradesh in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st January 2020.",
+      "text": "The scheme was officially launched on 1st January 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to improve maternal health and nutrition among pregnant women and lactating mothers in the state.",
+      "text": "It aims to improve maternal health and nutrition among pregnant women and lactating mothers in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The initiative is part of the broader efforts to reduce maternal and infant mortality rates in Madhya Pradesh.",
+      "text": "The initiative is part of the broader efforts to reduce maternal and infant mortality rates in Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The state has historically faced challenges in maternal health, with high rates of malnutrition and anemia among women.",
+      "text": "The state has historically faced challenges in maternal health, with high rates of malnutrition and anemia among women.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The objectives of the Mukhyamantri Matrushakti Yojana include providing financial assistance to pregnant women and lactating mothers.",
+      "text": "The objectives of the Mukhyamantri Matrushakti Yojana include providing financial assistance to pregnant women and lactating mothers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets women from economically weaker sections of society.",
+      "text": "The scheme specifically targets women from economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to provide a direct cash transfer of ₹6,000 to eligible beneficiaries.",
+      "text": "The government aims to provide a direct cash transfer of ₹6,000 to eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This amount is intended to support women during their pregnancy and post-delivery period.",
+      "text": "This amount is intended to support women during their pregnancy and post-delivery period.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance is disbursed in three installments.",
+      "text": "The financial assistance is disbursed in three installments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The first installment of ₹2,000 is provided during the second trimester of pregnancy.",
+      "text": "The first installment of ₹2,000 is provided during the second trimester of pregnancy.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The second installment of ₹2,000 is given after the delivery of the child.",
+      "text": "The second installment of ₹2,000 is given after the delivery of the child.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The final installment of ₹2,000 is disbursed when the child reaches six months of age.",
+      "text": "The final installment of ₹2,000 is disbursed when the child reaches six months of age.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This staggered payment structure is designed to ensure that women receive support at critical stages of motherhood.",
+      "text": "This staggered payment structure is designed to ensure that women receive support at critical stages of motherhood.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also emphasizes the importance of health check-ups and nutrition.",
+      "text": "In addition to financial assistance, the scheme also emphasizes the importance of health check-ups and nutrition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to attend regular health check-ups at designated health centers.",
+      "text": "Beneficiaries are encouraged to attend regular health check-ups at designated health centers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also promotes awareness about maternal health and nutrition through various outreach programs.",
+      "text": "The scheme also promotes awareness about maternal health and nutrition through various outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligibility criteria for the Mukhyamantri Matrushakti Yojana include specific age limits and income criteria.",
+      "text": "Eligibility criteria for the Mukhyamantri Matrushakti Yojana include specific age limits and income criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women aged 18 years and above are eligible to apply for the scheme.",
+      "text": "Women aged 18 years and above are eligible to apply for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is primarily aimed at women from families with an annual income of less than ₹2 lakh.",
+      "text": "The scheme is primarily aimed at women from families with an annual income of less than ₹2 lakh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This income limit is set to ensure that the benefits reach the most vulnerable sections of society.",
+      "text": "This income limit is set to ensure that the benefits reach the most vulnerable sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Educational qualifications are not a prerequisite for eligibility.",
+      "text": "Educational qualifications are not a prerequisite for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Mukhyamantri Matrushakti Yojana is straightforward.",
+      "text": "The application process for the Mukhyamantri Matrushakti Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested beneficiaries must visit the nearest Anganwadi center or health facility.",
+      "text": "Interested beneficiaries must visit the nearest Anganwadi center or health facility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to fill out an application form provided by the authorities.",
+      "text": "They need to fill out an application form provided by the authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include proof of identity such as an Aadhar card.",
+      "text": "Required documents include proof of identity such as an Aadhar card.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Proof of residence is also necessary to establish eligibility.",
+      "text": "Proof of residence is also necessary to establish eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, beneficiaries must provide medical records confirming their pregnancy.",
+      "text": "Additionally, beneficiaries must provide medical records confirming their pregnancy.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+      "text": "Once the application is submitted, it is verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The timeline for processing applications is generally within 30 days.",
+      "text": "The timeline for processing applications is generally within 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Disbursement of funds occurs through direct bank transfers to the beneficiaries' accounts.",
+      "text": "Disbursement of funds occurs through direct bank transfers to the beneficiaries' accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Women and Child Development of Madhya Pradesh.",
+      "text": "The scheme is implemented by the Department of Women and Child Development of Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The department is responsible for overseeing the execution of the scheme at various levels.",
+      "text": "The department is responsible for overseeing the execution of the scheme at various levels.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Local Anganwadi workers play a crucial role in identifying eligible beneficiaries.",
+      "text": "Local Anganwadi workers play a crucial role in identifying eligible beneficiaries.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They also provide necessary guidance and support throughout the application process.",
+      "text": "They also provide necessary guidance and support throughout the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Matrushakti Yojana is part of a larger initiative to improve maternal and child health in India.",
+      "text": "The Mukhyamantri Matrushakti Yojana is part of a larger initiative to improve maternal and child health in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aligns with the National Health Mission's objectives to reduce maternal mortality.",
+      "text": "The scheme aligns with the National Health Mission's objectives to reduce maternal mortality.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also complements the efforts of the Pradhan Mantri Matru Vandana Yojana at the national level.",
+      "text": "It also complements the efforts of the Pradhan Mantri Matru Vandana Yojana at the national level.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mukhyamantri Matrushakti Yojana has seen a positive response since its inception.",
+      "text": "The Mukhyamantri Matrushakti Yojana has seen a positive response since its inception.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Thousands of women have benefited from the financial assistance provided under the scheme.",
+      "text": "Thousands of women have benefited from the financial assistance provided under the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has reported an increase in the number of women seeking prenatal and postnatal care.",
+      "text": "The government has reported an increase in the number of women seeking prenatal and postnatal care.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This reflects a growing awareness of the importance of maternal health.",
+      "text": "This reflects a growing awareness of the importance of maternal health.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also contributed to improving nutritional standards among mothers.",
+      "text": "The scheme has also contributed to improving nutritional standards among mothers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular health check-ups facilitated by the scheme have led to better health outcomes.",
+      "text": "Regular health check-ups facilitated by the scheme have led to better health outcomes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is committed to expanding the reach of the Mukhyamantri Matrushakti Yojana.",
+      "text": "The government is committed to expanding the reach of the Mukhyamantri Matrushakti Yojana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Efforts are underway to enhance the infrastructure of health facilities.",
+      "text": "Efforts are underway to enhance the infrastructure of health facilities.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The aim is to ensure that all eligible women have access to the benefits of the scheme.",
+      "text": "The aim is to ensure that all eligible women have access to the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Monitoring and evaluation mechanisms have been established to assess the impact of the scheme.",
+      "text": "Monitoring and evaluation mechanisms have been established to assess the impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the implementation process.",
+      "text": "Feedback from beneficiaries is collected to improve the implementation process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Matrushakti Yojana is a vital step towards empowering women in Madhya Pradesh.",
+      "text": "The Mukhyamantri Matrushakti Yojana is a vital step towards empowering women in Madhya Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "By providing financial support and promoting health awareness, the scheme aims to create a healthier future for mothers and children.",
+      "text": "By providing financial support and promoting health awareness, the scheme aims to create a healthier future for mothers and children.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to advocate for women's health and nutrition as a priority area.",
+      "text": "The government continues to advocate for women's health and nutrition as a priority area.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Matrushakti Yojana exemplifies the commitment to social welfare in India.",
+      "text": "The Mukhyamantri Matrushakti Yojana exemplifies the commitment to social welfare in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Through this scheme, the government aims to ensure that no woman is left behind in accessing essential maternal health services.",
+      "text": "Through this scheme, the government aims to ensure that no woman is left behind in accessing essential maternal health services.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The initiative is a testament to the importance of targeted welfare schemes in addressing specific health challenges.",
+      "text": "The initiative is a testament to the importance of targeted welfare schemes in addressing specific health challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Matrushakti Yojana is a crucial part of Madhya Pradesh's strategy to enhance maternal health outcomes.",
+      "text": "The Mukhyamantri Matrushakti Yojana is a crucial part of Madhya Pradesh's strategy to enhance maternal health outcomes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to evolve further based on the changing needs of women and children in the state.",
+      "text": "The scheme is expected to evolve further based on the changing needs of women and children in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Mukhyamantri Matrushakti Yojana represents a comprehensive approach to maternal health and nutrition.",
+      "text": "Overall, the Mukhyamantri Matrushakti Yojana represents a comprehensive approach to maternal health and nutrition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It combines financial assistance with health education and support services.",
+      "text": "It combines financial assistance with health education and support services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This holistic strategy is essential for improving the well-being of mothers and their children in Madhya Pradesh.",
+      "text": "This holistic strategy is essential for improving the well-being of mothers and their children in Madhya Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme's success will depend on effective implementation and continuous monitoring.",
+      "text": "The scheme's success will depend on effective implementation and continuous monitoring.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government remains dedicated to ensuring that the benefits reach the intended beneficiaries.",
+      "text": "The government remains dedicated to ensuring that the benefits reach the intended beneficiaries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As the scheme progresses, it will play a significant role in shaping the future of maternal health in the state.",
+      "text": "As the scheme progresses, it will play a significant role in shaping the future of maternal health in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Mukhyamantri Matrushakti Yojana",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T11:50:03.634339",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 63,
+    "role_distribution": {
+      "ContextObjective": 22,
+      "BenefitsAssistance": 19,
+      "Eligibility": 9,
+      "TimelineFrequency": 4,
+      "ApplicationProcess": 5,
+      "AuthoritiesGovernance": 4
+    }
+  }
+}

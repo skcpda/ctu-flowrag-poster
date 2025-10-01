@@ -1,0 +1,600 @@
+{
+  "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+  "total_sentences": 58,
+  "ctus": [
+    {
+      "sentence": "The Fodder Minikits initiative is a significant component of the Integrated Fodder Development Scheme (IFDS) launched by the Government of India in 2016.",
+      "text": "The Fodder Minikits initiative is a significant component of the Integrated Fodder Development Scheme (IFDS) launched by the Government of India in 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the IFDS is to enhance fodder availability for livestock in order to improve the productivity of dairy and livestock farming.",
+      "text": "The primary objective of the IFDS is to enhance fodder availability for livestock in order to improve the productivity of dairy and livestock farming.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to achieve a 20% increase in fodder production over a five-year period.",
+      "text": "The scheme aims to achieve a 20% increase in fodder production over a five-year period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing quality fodder seeds through the Fodder Minikits, the government intends to support farmers in increasing their livestock productivity.",
+      "text": "By providing quality fodder seeds through the Fodder Minikits, the government intends to support farmers in increasing their livestock productivity.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits are designed to provide farmers with a variety of fodder seeds that are suitable for their local conditions.",
+      "text": "The Fodder Minikits are designed to provide farmers with a variety of fodder seeds that are suitable for their local conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Each Fodder Minikit contains seeds of various fodder crops such as sorghum, maize, and legumes.",
+      "text": "Each Fodder Minikit contains seeds of various fodder crops such as sorghum, maize, and legumes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government provides these minikits at a subsidized rate to ensure accessibility for small and marginal farmers.",
+      "text": "The government provides these minikits at a subsidized rate to ensure accessibility for small and marginal farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The subsidy provided on each Fodder Minikit can be as high as 50% of the total cost.",
+      "text": "The subsidy provided on each Fodder Minikit can be as high as 50% of the total cost.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The cost of a single Fodder Minikit is approximately INR 1,000.",
+      "text": "The cost of a single Fodder Minikit is approximately INR 1,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Thus, farmers can receive the minikit for around INR 500 after subsidy.",
+      "text": "Thus, farmers can receive the minikit for around INR 500 after subsidy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits are distributed through various implementing agencies including the Department of Animal Husbandry and Dairying.",
+      "text": "The Fodder Minikits are distributed through various implementing agencies including the Department of Animal Husbandry and Dairying.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "State governments also play a crucial role in the distribution of these minikits.",
+      "text": "State governments also play a crucial role in the distribution of these minikits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Farmers can apply for the Fodder Minikits through local agricultural offices or through designated online portals.",
+      "text": "Farmers can apply for the Fodder Minikits through local agricultural offices or through designated online portals.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process typically requires farmers to fill out a form providing their personal details and information about their farming practices.",
+      "text": "The application process typically requires farmers to fill out a form providing their personal details and information about their farming practices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers must also submit proof of land ownership or tenancy to qualify for the scheme.",
+      "text": "Farmers must also submit proof of land ownership or tenancy to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria for receiving the Fodder Minikits include being a small or marginal farmer with landholding of less than 2 hectares.",
+      "text": "The eligibility criteria for receiving the Fodder Minikits include being a small or marginal farmer with landholding of less than 2 hectares.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers must also be engaged in livestock farming to be eligible for the benefits of the scheme.",
+      "text": "Farmers must also be engaged in livestock farming to be eligible for the benefits of the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits are particularly beneficial for farmers in regions where fodder scarcity is a significant issue.",
+      "text": "The Fodder Minikits are particularly beneficial for farmers in regions where fodder scarcity is a significant issue.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The distribution of these minikits is usually conducted during the pre-monsoon season to ensure timely planting.",
+      "text": "The distribution of these minikits is usually conducted during the pre-monsoon season to ensure timely planting.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Farmers are encouraged to plant the fodder seeds as soon as they receive the minikits to maximize yield.",
+      "text": "Farmers are encouraged to plant the fodder seeds as soon as they receive the minikits to maximize yield.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to benefit over 1 million farmers across various states in India.",
+      "text": "The scheme is expected to benefit over 1 million farmers across various states in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to increase fodder production by approximately 2 million tons annually through this initiative.",
+      "text": "The government aims to increase fodder production by approximately 2 million tons annually through this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits are part of a broader strategy to improve the overall health and productivity of livestock in India.",
+      "text": "The Fodder Minikits are part of a broader strategy to improve the overall health and productivity of livestock in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Livestock contributes significantly to the agricultural economy, accounting for about 4.11% of the Gross Value Added (GVA) in agriculture.",
+      "text": "Livestock contributes significantly to the agricultural economy, accounting for about 4.11% of the Gross Value Added (GVA) in agriculture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The initiative is also aligned with the National Livestock Policy which emphasizes the need for sustainable livestock development.",
+      "text": "The initiative is also aligned with the National Livestock Policy which emphasizes the need for sustainable livestock development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits are expected to improve the nutritional quality of fodder available to livestock.",
+      "text": "The Fodder Minikits are expected to improve the nutritional quality of fodder available to livestock.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This, in turn, is anticipated to enhance milk production and overall livestock productivity.",
+      "text": "This, in turn, is anticipated to enhance milk production and overall livestock productivity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also addresses the issue of fodder shortages that often arise due to climatic variations.",
+      "text": "The scheme also addresses the issue of fodder shortages that often arise due to climatic variations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By promoting the cultivation of diverse fodder crops, the government aims to create a more resilient fodder supply chain.",
+      "text": "By promoting the cultivation of diverse fodder crops, the government aims to create a more resilient fodder supply chain.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits are distributed in a phased manner, with specific timelines set for each state.",
+      "text": "The Fodder Minikits are distributed in a phased manner, with specific timelines set for each state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Farmers are advised to check with local agricultural offices for the specific dates of distribution in their regions.",
+      "text": "Farmers are advised to check with local agricultural offices for the specific dates of distribution in their regions.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementation of the scheme is monitored by the Ministry of Agriculture and Farmers' Welfare.",
+      "text": "The implementation of the scheme is monitored by the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact of the Fodder Minikits on livestock productivity.",
+      "text": "Regular assessments are conducted to evaluate the impact of the Fodder Minikits on livestock productivity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Feedback from farmers is collected to improve the quality of seeds provided in the minikits.",
+      "text": "Feedback from farmers is collected to improve the quality of seeds provided in the minikits.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government also conducts training programs to educate farmers on best practices for fodder cultivation.",
+      "text": "The government also conducts training programs to educate farmers on best practices for fodder cultivation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These training sessions cover topics such as soil preparation, planting techniques, and pest management.",
+      "text": "These training sessions cover topics such as soil preparation, planting techniques, and pest management.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Fodder Minikits are part of a larger initiative to enhance the livelihoods of farmers in rural areas.",
+      "text": "The Fodder Minikits are part of a larger initiative to enhance the livelihoods of farmers in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government recognizes that improving fodder availability is crucial for the sustainability of livestock farming.",
+      "text": "The government recognizes that improving fodder availability is crucial for the sustainability of livestock farming.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is also expected to contribute to food security by ensuring a stable supply of milk and meat products.",
+      "text": "The scheme is also expected to contribute to food security by ensuring a stable supply of milk and meat products.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers who successfully cultivate fodder using the minikits can expect to see a significant increase in their income.",
+      "text": "Farmers who successfully cultivate fodder using the minikits can expect to see a significant increase in their income.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The additional fodder produced can be used to feed livestock or sold in local markets.",
+      "text": "The additional fodder produced can be used to feed livestock or sold in local markets.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This creates an additional revenue stream for farmers, thereby improving their economic stability.",
+      "text": "This creates an additional revenue stream for farmers, thereby improving their economic stability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Fodder Minikits initiative is a prime example of how targeted government interventions can address specific agricultural challenges.",
+      "text": "The Fodder Minikits initiative is a prime example of how targeted government interventions can address specific agricultural challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By focusing on fodder production, the government aims to create a more sustainable agricultural ecosystem.",
+      "text": "By focusing on fodder production, the government aims to create a more sustainable agricultural ecosystem.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is also expected to have positive environmental impacts by promoting the cultivation of leguminous fodder crops.",
+      "text": "The scheme is also expected to have positive environmental impacts by promoting the cultivation of leguminous fodder crops.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These crops can improve soil health and contribute to carbon sequestration.",
+      "text": "These crops can improve soil health and contribute to carbon sequestration.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Fodder Minikits initiative is a vital step towards achieving the goals of the National Dairy Plan.",
+      "text": "The Fodder Minikits initiative is a vital step towards achieving the goals of the National Dairy Plan.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The plan aims to increase milk production in India to meet the growing demand for dairy products.",
+      "text": "The plan aims to increase milk production in India to meet the growing demand for dairy products.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is committed to supporting farmers through various welfare schemes including the Fodder Minikits.",
+      "text": "The government is committed to supporting farmers through various welfare schemes including the Fodder Minikits.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This commitment is reflected in the budget allocations made for the Integrated Fodder Development Scheme.",
+      "text": "This commitment is reflected in the budget allocations made for the Integrated Fodder Development Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the fiscal year 2022-2023, the government allocated approximately INR 500 crores for the implementation of the IFDS.",
+      "text": "In the fiscal year 2022-2023, the government allocated approximately INR 500 crores for the implementation of the IFDS.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This funding is aimed at enhancing the distribution of Fodder Minikits and supporting farmers in their efforts to improve fodder production.",
+      "text": "This funding is aimed at enhancing the distribution of Fodder Minikits and supporting farmers in their efforts to improve fodder production.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Fodder Minikits initiative is expected to play a crucial role in transforming the livestock sector in India.",
+      "text": "The Fodder Minikits initiative is expected to play a crucial role in transforming the livestock sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing farmers with the necessary resources and support, the government aims to create a more prosperous agricultural landscape.",
+      "text": "By providing farmers with the necessary resources and support, the government aims to create a more prosperous agricultural landscape.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers interested in the Fodder Minikits should stay informed about the scheme through official government channels.",
+      "text": "Farmers interested in the Fodder Minikits should stay informed about the scheme through official government channels.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes checking the Ministry of Agriculture and Farmers' Welfare website for updates and announcements.",
+      "text": "This includes checking the Ministry of Agriculture and Farmers' Welfare website for updates and announcements.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Fodder Minikits initiative represents a significant investment in the future of India's agricultural sector.",
+      "text": "The Fodder Minikits initiative represents a significant investment in the future of India's agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this initiative, the government is working towards ensuring food security and improving the livelihoods of millions of farmers.",
+      "text": "Through this initiative, the government is working towards ensuring food security and improving the livelihoods of millions of farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T15:57:31.724357",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 58,
+    "role_distribution": {
+      "ContextObjective": 18,
+      "TimelineFrequency": 2,
+      "AuthoritiesGovernance": 12,
+      "BenefitsAssistance": 20,
+      "ApplicationProcess": 2,
+      "Eligibility": 4
+    }
+  }
+}

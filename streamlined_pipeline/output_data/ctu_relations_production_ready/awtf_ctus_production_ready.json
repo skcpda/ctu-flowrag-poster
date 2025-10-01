@@ -1,0 +1,2405 @@
+{
+  "scheme_name": "Award Winning Tiatr Festival",
+  "total_sentences": 73,
+  "ctus": [
+    {
+      "sentence": "The Award Winning Tiatr Festival is an initiative launched by the Government of Goa to promote the traditional art form of Tiatr.",
+      "text": "The Award Winning Tiatr Festival is an initiative launched by the Government of Goa to promote the traditional art form of Tiatr.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Tiatr is a popular form of musical theatre in Goa that has a rich history dating back to the 19th century.",
+      "text": "Tiatr is a popular form of musical theatre in Goa that has a rich history dating back to the 19th century.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival was first organized in 2015 as part of the efforts to preserve and promote Goan culture and heritage.",
+      "text": "The festival was first organized in 2015 as part of the efforts to preserve and promote Goan culture and heritage.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The objectives of the festival include fostering the growth of Tiatr as an art form.",
+      "text": "The objectives of the festival include fostering the growth of Tiatr as an art form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival aims to provide a platform for Tiatr artists to showcase their talents.",
+      "text": "The festival aims to provide a platform for Tiatr artists to showcase their talents.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It also seeks to encourage new talent in the field of Tiatr.",
+      "text": "It also seeks to encourage new talent in the field of Tiatr.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival is designed to attract audiences from various demographics, thereby increasing the popularity of Tiatr.",
+      "text": "The festival is designed to attract audiences from various demographics, thereby increasing the popularity of Tiatr.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has set measurable targets to increase the number of performances and participants each year.",
+      "text": "The government has set measurable targets to increase the number of performances and participants each year.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival has a specific goal of increasing audience attendance by 20 percent annually.",
+      "text": "The festival has a specific goal of increasing audience attendance by 20 percent annually.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "In terms of benefits, the festival provides financial assistance to participating artists and groups.",
+      "text": "In terms of benefits, the festival provides financial assistance to participating artists and groups.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each participating Tiatr group receives a grant of up to INR 50,000 for their performances.",
+      "text": "Each participating Tiatr group receives a grant of up to INR 50,000 for their performances.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival also awards cash prizes to the best performances.",
+      "text": "The festival also awards cash prizes to the best performances.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The prize money for the best Tiatr is INR 1 lakh.",
+      "text": "The prize money for the best Tiatr is INR 1 lakh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Other categories such as best actor and best actress also receive awards of INR 50,000 each.",
+      "text": "Other categories such as best actor and best actress also receive awards of INR 50,000 each.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Eligibility to participate in the festival is open to all Tiatr groups registered in Goa.",
+      "text": "Eligibility to participate in the festival is open to all Tiatr groups registered in Goa.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There are no specific age limits for participants.",
+      "text": "There are no specific age limits for participants.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "However, groups must have a minimum of five members to qualify.",
+      "text": "However, groups must have a minimum of five members to qualify.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the festival is straightforward.",
+      "text": "The application process for the festival is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested groups must submit an application form to the Department of Art and Culture, Government of Goa.",
+      "text": "Interested groups must submit an application form to the Department of Art and Culture, Government of Goa.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can be obtained from the official website of the Department of Art and Culture.",
+      "text": "The application form can be obtained from the official website of the Department of Art and Culture.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Along with the application form, groups must submit a brief description of their Tiatr.",
+      "text": "Along with the application form, groups must submit a brief description of their Tiatr.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must also provide details of their cast and crew.",
+      "text": "They must also provide details of their cast and crew.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The deadline for submitting applications is usually set for one month before the festival begins.",
+      "text": "The deadline for submitting applications is usually set for one month before the festival begins.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival typically takes place in the month of November each year.",
+      "text": "The festival typically takes place in the month of November each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The exact dates are announced by the Department of Art and Culture.",
+      "text": "The exact dates are announced by the Department of Art and Culture.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the applications are reviewed, selected groups are notified about their participation.",
+      "text": "Once the applications are reviewed, selected groups are notified about their participation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival is organized in various venues across Goa.",
+      "text": "The festival is organized in various venues across Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The main venue is often the Ravindra Bhavan in Margao.",
+      "text": "The main venue is often the Ravindra Bhavan in Margao.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival lasts for approximately ten days.",
+      "text": "The festival lasts for approximately ten days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding",
+      "role_updated": true
+    },
+    {
+      "sentence": "Performances are scheduled daily, showcasing different Tiatr groups each night.",
+      "text": "Performances are scheduled daily, showcasing different Tiatr groups each night.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival also includes workshops and seminars on Tiatr.",
+      "text": "The festival also includes workshops and seminars on Tiatr.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These workshops aim to educate new artists about the nuances of Tiatr performance.",
+      "text": "These workshops aim to educate new artists about the nuances of Tiatr performance.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the festival is the Department of Art and Culture, Government of Goa.",
+      "text": "The implementing authority for the festival is the Department of Art and Culture, Government of Goa.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The department is responsible for organizing the festival and overseeing all related activities.",
+      "text": "The department is responsible for organizing the festival and overseeing all related activities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Contact details for the Department of Art and Culture can be found on their official website.",
+      "text": "Contact details for the Department of Art and Culture can be found on their official website.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival has received positive feedback from both participants and audiences.",
+      "text": "The festival has received positive feedback from both participants and audiences.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It has contributed significantly to the revival of interest in Tiatr among younger generations.",
+      "text": "It has contributed significantly to the revival of interest in Tiatr among younger generations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Statistics show that audience attendance has increased by over 30 percent since the festival's inception.",
+      "text": "Statistics show that audience attendance has increased by over 30 percent since the festival's inception.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival has also led to the establishment of new Tiatr groups in Goa.",
+      "text": "The festival has also led to the establishment of new Tiatr groups in Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In 2022, over 25 Tiatr groups participated in the festival.",
+      "text": "In 2022, over 25 Tiatr groups participated in the festival.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival has also been instrumental in promoting local tourism.",
+      "text": "The festival has also been instrumental in promoting local tourism.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Many visitors come to Goa specifically to attend the Tiatr Festival.",
+      "text": "Many visitors come to Goa specifically to attend the Tiatr Festival.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has reported an increase in tourism revenue during the festival period.",
+      "text": "The government has reported an increase in tourism revenue during the festival period.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival also collaborates with local businesses to promote Goan culture.",
+      "text": "The festival also collaborates with local businesses to promote Goan culture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Local food stalls and handicraft exhibitions are often part of the festival.",
+      "text": "Local food stalls and handicraft exhibitions are often part of the festival.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This collaboration provides additional income for local artisans and vendors.",
+      "text": "This collaboration provides additional income for local artisans and vendors.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The festival has received several accolades for its contribution to the arts.",
+      "text": "The festival has received several accolades for its contribution to the arts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It has been recognized as a significant cultural event in Goa.",
+      "text": "It has been recognized as a significant cultural event in Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government continues to invest in the festival to ensure its sustainability.",
+      "text": "The government continues to invest in the festival to ensure its sustainability.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future plans include expanding the festival to include international Tiatr groups.",
+      "text": "Future plans include expanding the festival to include international Tiatr groups.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This expansion aims to promote cultural exchange and collaboration.",
+      "text": "This expansion aims to promote cultural exchange and collaboration.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival has become a cornerstone of Goan cultural identity.",
+      "text": "The festival has become a cornerstone of Goan cultural identity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It serves as a reminder of the rich artistic heritage of the region.",
+      "text": "It serves as a reminder of the rich artistic heritage of the region.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Award Winning Tiatr Festival is a testament to the government's commitment to preserving traditional art forms.",
+      "text": "The Award Winning Tiatr Festival is a testament to the government's commitment to preserving traditional art forms.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the importance of cultural festivals in fostering community spirit.",
+      "text": "It reflects the importance of cultural festivals in fostering community spirit.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival also plays a crucial role in educating the public about the significance of Tiatr.",
+      "text": "The festival also plays a crucial role in educating the public about the significance of Tiatr.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Through various initiatives, the festival aims to ensure that Tiatr remains relevant in contemporary society.",
+      "text": "Through various initiatives, the festival aims to ensure that Tiatr remains relevant in contemporary society.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival has also inspired many young artists to pursue careers in the performing arts.",
+      "text": "The festival has also inspired many young artists to pursue careers in the performing arts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Overall, the Award Winning Tiatr Festival has made a lasting impact on the cultural landscape of Goa.",
+      "text": "Overall, the Award Winning Tiatr Festival has made a lasting impact on the cultural landscape of Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It has successfully combined entertainment with education and cultural preservation.",
+      "text": "It has successfully combined entertainment with education and cultural preservation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival continues to evolve while staying true to its roots.",
+      "text": "The festival continues to evolve while staying true to its roots.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It remains a vital platform for showcasing the talent and creativity of Goan artists.",
+      "text": "It remains a vital platform for showcasing the talent and creativity of Goan artists.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is committed to supporting the festival for years to come.",
+      "text": "The government is committed to supporting the festival for years to come.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This commitment ensures that Tiatr will thrive and continue to entertain audiences.",
+      "text": "This commitment ensures that Tiatr will thrive and continue to entertain audiences.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival stands as a celebration of Goan culture and heritage.",
+      "text": "The festival stands as a celebration of Goan culture and heritage.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It is a vibrant showcase of the artistic spirit of the people of Goa.",
+      "text": "It is a vibrant showcase of the artistic spirit of the people of Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Award Winning Tiatr Festival is an essential event for anyone interested in the performing arts.",
+      "text": "The Award Winning Tiatr Festival is an essential event for anyone interested in the performing arts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It offers a unique glimpse into the rich traditions of Goan theatre.",
+      "text": "It offers a unique glimpse into the rich traditions of Goan theatre.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 67,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival is a source of pride for the people of Goa.",
+      "text": "The festival is a source of pride for the people of Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 68,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It embodies the resilience and creativity of the Goan community.",
+      "text": "It embodies the resilience and creativity of the Goan community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 69,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The festival is a must-visit for both locals and tourists alike.",
+      "text": "The festival is a must-visit for both locals and tourists alike.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 70,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It promises to deliver unforgettable performances and experiences.",
+      "text": "It promises to deliver unforgettable performances and experiences.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 71,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Award Winning Tiatr Festival is a shining example of cultural celebration in India.",
+      "text": "The Award Winning Tiatr Festival is a shining example of cultural celebration in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 72,
+      "scheme_name": "Award Winning Tiatr Festival",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T15:53:45.480878",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 73,
+    "role_distribution": {
+      "ContextObjective": 11,
+      "ApplicationProcess": 7,
+      "BenefitsAssistance": 37,
+      "AuthoritiesGovernance": 8,
+      "Eligibility": 6,
+      "TimelineFrequency": 3,
+      "DefinitionsReferences": 1
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "The Award Winning Tiatr Festival is an initiative launched by the Government of Goa to promote the traditional art form of Tiatr.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "Tiatr is a popular form of musical theatre in Goa that has a rich history dating back to the 19th century.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Tiatr is a popular form of musical theatre in Goa that has a rich history dating back to the 19th century.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The festival was first organized in 2015 as part of the efforts to preserve and promote Goan culture and heritage.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival was first organized in 2015 as part of the efforts to preserve and promote Goan culture and heritage.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The objectives of the festival include fostering the growth of Tiatr as an art form.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The objectives of the festival include fostering the growth of Tiatr as an art form.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "The festival aims to provide a platform for Tiatr artists to showcase their talents.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival aims to provide a platform for Tiatr artists to showcase their talents.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "It also seeks to encourage new talent in the field of Tiatr.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It also seeks to encourage new talent in the field of Tiatr.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "The festival is designed to attract audiences from various demographics, thereby increasing the popularity of Tiatr.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival is designed to attract audiences from various demographics, thereby increasing the popularity of Tiatr.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "The government has set measurable targets to increase the number of performances and participants each year.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has set measurable targets to increase the number of performances and participants each year.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The festival has a specific goal of increasing audience attendance by 20 percent annually.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has a specific goal of increasing audience attendance by 20 percent annually.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "In terms of benefits, the festival provides financial assistance to participating artists and groups.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In terms of benefits, the festival provides financial assistance to participating artists and groups.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "Each participating Tiatr group receives a grant of up to INR 50,000 for their performances.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Each participating Tiatr group receives a grant of up to INR 50,000 for their performances.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "The festival also awards cash prizes to the best performances.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival also awards cash prizes to the best performances.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The prize money for the best Tiatr is INR 1 lakh.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The prize money for the best Tiatr is INR 1 lakh.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "Other categories such as best actor and best actress also receive awards of INR 50,000 each.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Other categories such as best actor and best actress also receive awards of INR 50,000 each.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "Eligibility to participate in the festival is open to all Tiatr groups registered in Goa.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Eligibility to participate in the festival is open to all Tiatr groups registered in Goa.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "There are no specific age limits for participants.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "There are no specific age limits for participants.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "However, groups must have a minimum of five members to qualify.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "However, groups must have a minimum of five members to qualify.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "The application process for the festival is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process for the festival is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "Interested groups must submit an application form to the Department of Art and Culture, Government of Goa.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested groups must submit an application form to the Department of Art and Culture, Government of Goa.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "The application form can be obtained from the official website of the Department of Art and Culture.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application form can be obtained from the official website of the Department of Art and Culture.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "Along with the application form, groups must submit a brief description of their Tiatr.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Along with the application form, groups must submit a brief description of their Tiatr.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "They must also provide details of their cast and crew.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "They must also provide details of their cast and crew.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "The deadline for submitting applications is usually set for one month before the festival begins.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The deadline for submitting applications is usually set for one month before the festival begins.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "The festival typically takes place in the month of November each year.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival typically takes place in the month of November each year.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "The exact dates are announced by the Department of Art and Culture.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The exact dates are announced by the Department of Art and Culture.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "Once the applications are reviewed, selected groups are notified about their participation.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the applications are reviewed, selected groups are notified about their participation.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "The festival is organized in various venues across Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival is organized in various venues across Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "The main venue is often the Ravindra Bhavan in Margao.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The main venue is often the Ravindra Bhavan in Margao.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "The festival lasts for approximately ten days.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival lasts for approximately ten days.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "Performances are scheduled daily, showcasing different Tiatr groups each night.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Performances are scheduled daily, showcasing different Tiatr groups each night.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "The festival also includes workshops and seminars on Tiatr.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival also includes workshops and seminars on Tiatr.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "These workshops aim to educate new artists about the nuances of Tiatr performance.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These workshops aim to educate new artists about the nuances of Tiatr performance.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "The implementing authority for the festival is the Department of Art and Culture, Government of Goa.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the festival is the Department of Art and Culture, Government of Goa.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The department is responsible for organizing the festival and overseeing all related activities.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The department is responsible for organizing the festival and overseeing all related activities.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "Contact details for the Department of Art and Culture can be found on their official website.",
+        "role": "DefinitionsReferences",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Contact details for the Department of Art and Culture can be found on their official website.",
+        "role": "DefinitionsReferences",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The festival has received positive feedback from both participants and audiences.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has received positive feedback from both participants and audiences.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "It has contributed significantly to the revival of interest in Tiatr among younger generations.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has contributed significantly to the revival of interest in Tiatr among younger generations.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "Statistics show that audience attendance has increased by over 30 percent since the festival's inception.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Statistics show that audience attendance has increased by over 30 percent since the festival's inception.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "The festival has also led to the establishment of new Tiatr groups in Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has also led to the establishment of new Tiatr groups in Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "In 2022, over 25 Tiatr groups participated in the festival.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In 2022, over 25 Tiatr groups participated in the festival.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "The festival has also been instrumental in promoting local tourism.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has also been instrumental in promoting local tourism.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "Many visitors come to Goa specifically to attend the Tiatr Festival.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Many visitors come to Goa specifically to attend the Tiatr Festival.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "The government has reported an increase in tourism revenue during the festival period.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has reported an increase in tourism revenue during the festival period.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "The festival also collaborates with local businesses to promote Goan culture.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival also collaborates with local businesses to promote Goan culture.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "Local food stalls and handicraft exhibitions are often part of the festival.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Local food stalls and handicraft exhibitions are often part of the festival.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "This collaboration provides additional income for local artisans and vendors.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This collaboration provides additional income for local artisans and vendors.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "The festival has received several accolades for its contribution to the arts.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has received several accolades for its contribution to the arts.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "It has been recognized as a significant cultural event in Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has been recognized as a significant cultural event in Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The government continues to invest in the festival to ensure its sustainability.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government continues to invest in the festival to ensure its sustainability.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "Future plans include expanding the festival to include international Tiatr groups.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Future plans include expanding the festival to include international Tiatr groups.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "This expansion aims to promote cultural exchange and collaboration.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This expansion aims to promote cultural exchange and collaboration.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "The festival has become a cornerstone of Goan cultural identity.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has become a cornerstone of Goan cultural identity.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "It serves as a reminder of the rich artistic heritage of the region.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It serves as a reminder of the rich artistic heritage of the region.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "The Award Winning Tiatr Festival is a testament to the government's commitment to preserving traditional art forms.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Award Winning Tiatr Festival is a testament to the government's commitment to preserving traditional art forms.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "It reflects the importance of cultural festivals in fostering community spirit.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It reflects the importance of cultural festivals in fostering community spirit.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "The festival also plays a crucial role in educating the public about the significance of Tiatr.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival also plays a crucial role in educating the public about the significance of Tiatr.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "Through various initiatives, the festival aims to ensure that Tiatr remains relevant in contemporary society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Through various initiatives, the festival aims to ensure that Tiatr remains relevant in contemporary society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "The festival has also inspired many young artists to pursue careers in the performing arts.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival has also inspired many young artists to pursue careers in the performing arts.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "Overall, the Award Winning Tiatr Festival has made a lasting impact on the cultural landscape of Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Overall, the Award Winning Tiatr Festival has made a lasting impact on the cultural landscape of Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "ctu2": {
+        "sentence": "It has successfully combined entertainment with education and cultural preservation.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has successfully combined entertainment with education and cultural preservation.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "ctu2": {
+        "sentence": "The festival continues to evolve while staying true to its roots.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival continues to evolve while staying true to its roots.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "ctu2": {
+        "sentence": "It remains a vital platform for showcasing the talent and creativity of Goan artists.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It remains a vital platform for showcasing the talent and creativity of Goan artists.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "ctu2": {
+        "sentence": "The government is committed to supporting the festival for years to come.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government is committed to supporting the festival for years to come.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "ctu2": {
+        "sentence": "This commitment ensures that Tiatr will thrive and continue to entertain audiences.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This commitment ensures that Tiatr will thrive and continue to entertain audiences.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "ctu2": {
+        "sentence": "The festival stands as a celebration of Goan culture and heritage.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 64
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival stands as a celebration of Goan culture and heritage.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 64
+      },
+      "ctu2": {
+        "sentence": "It is a vibrant showcase of the artistic spirit of the people of Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 65
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It is a vibrant showcase of the artistic spirit of the people of Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 65
+      },
+      "ctu2": {
+        "sentence": "The Award Winning Tiatr Festival is an essential event for anyone interested in the performing arts.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 66
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Award Winning Tiatr Festival is an essential event for anyone interested in the performing arts.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 66
+      },
+      "ctu2": {
+        "sentence": "It offers a unique glimpse into the rich traditions of Goan theatre.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 67
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It offers a unique glimpse into the rich traditions of Goan theatre.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 67
+      },
+      "ctu2": {
+        "sentence": "The festival is a source of pride for the people of Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 68
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival is a source of pride for the people of Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 68
+      },
+      "ctu2": {
+        "sentence": "It embodies the resilience and creativity of the Goan community.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 69
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It embodies the resilience and creativity of the Goan community.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 69
+      },
+      "ctu2": {
+        "sentence": "The festival is a must-visit for both locals and tourists alike.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 70
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The festival is a must-visit for both locals and tourists alike.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 70
+      },
+      "ctu2": {
+        "sentence": "It promises to deliver unforgettable performances and experiences.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 71
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It promises to deliver unforgettable performances and experiences.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 71
+      },
+      "ctu2": {
+        "sentence": "The Award Winning Tiatr Festival is a shining example of cultural celebration in India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 72
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "However, groups must have a minimum of five members to qualify.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "The application process for the festival is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "They must also provide details of their cast and crew.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "Once the applications are reviewed, selected groups are notified about their participation.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 4,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the applications are reviewed, selected groups are notified about their participation.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "The festival is organized in various venues across Goa.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 1,
+      "edge_confidence_raw": 0.8
+    },
+    {
+      "ctu1": {
+        "sentence": "The exact dates are announced by the Department of Art and Culture.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "Once the applications are reviewed, selected groups are notified about their participation.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 1,
+      "edge_confidence_raw": 0.7
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the festival is the Department of Art and Culture, Government of Goa.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The festival has received positive feedback from both participants and audiences.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 3,
+      "edge_confidence_raw": 0.7
+    },
+    {
+      "ctu1": {
+        "sentence": "The department is responsible for organizing the festival and overseeing all related activities.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "The festival has received positive feedback from both participants and audiences.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 2,
+      "edge_confidence_raw": 0.7
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 72,
+    "actual_precedes": 72,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

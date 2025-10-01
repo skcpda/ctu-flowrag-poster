@@ -1,0 +1,620 @@
+{
+  "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+  "total_sentences": 60,
+  "ctus": [
+    {
+      "sentence": "The One Time Settlement (O.T.S.) Scheme is a welfare initiative launched by the Government of India aimed at providing relief to borrowers who are unable to repay their loans.",
+      "text": "The One Time Settlement (O.T.S.) Scheme is a welfare initiative launched by the Government of India aimed at providing relief to borrowers who are unable to repay their loans.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was officially launched on 1st April 2022.",
+      "text": "The scheme was officially launched on 1st April 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It was introduced as a response to the growing number of non-performing assets (NPAs) in the banking sector.",
+      "text": "It was introduced as a response to the growing number of non-performing assets (NPAs) in the banking sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The objective of the O.T.S. Scheme is to facilitate a one-time settlement of loans for borrowers who are facing financial difficulties.",
+      "text": "The objective of the O.T.S. Scheme is to facilitate a one-time settlement of loans for borrowers who are facing financial difficulties.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to reduce the burden of debt on individuals and small businesses.",
+      "text": "The scheme aims to reduce the burden of debt on individuals and small businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also seeks to improve the overall health of the banking sector by reducing NPAs.",
+      "text": "It also seeks to improve the overall health of the banking sector by reducing NPAs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The O.T.S. Scheme is particularly focused on small borrowers whose loans are classified as NPAs.",
+      "text": "The O.T.S. Scheme is particularly focused on small borrowers whose loans are classified as NPAs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The target beneficiaries include individuals and small businesses with outstanding loans.",
+      "text": "The target beneficiaries include individuals and small businesses with outstanding loans.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under the scheme, borrowers can settle their loans by paying a reduced amount.",
+      "text": "Under the scheme, borrowers can settle their loans by paying a reduced amount.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The reduction in the settlement amount can be as high as 50% of the outstanding loan amount.",
+      "text": "The reduction in the settlement amount can be as high as 50% of the outstanding loan amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This reduction is contingent upon the borrower's financial condition and repayment capability.",
+      "text": "This reduction is contingent upon the borrower's financial condition and repayment capability.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to encourage borrowers to clear their dues and avoid legal proceedings.",
+      "text": "The scheme is designed to encourage borrowers to clear their dues and avoid legal proceedings.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligible borrowers must have loans that are classified as NPAs by banks.",
+      "text": "Eligible borrowers must have loans that are classified as NPAs by banks.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is applicable to loans that are overdue for more than 90 days.",
+      "text": "The scheme is applicable to loans that are overdue for more than 90 days.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Borrowers must also demonstrate genuine financial distress to qualify for the scheme.",
+      "text": "Borrowers must also demonstrate genuine financial distress to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The O.T.S. Scheme is open to all sectors including agriculture, small enterprises, and personal loans.",
+      "text": "The O.T.S. Scheme is open to all sectors including agriculture, small enterprises, and personal loans.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the O.T.S. Scheme is straightforward.",
+      "text": "The application process for the O.T.S. Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Borrowers must approach their respective banks to express their interest in the scheme.",
+      "text": "Borrowers must approach their respective banks to express their interest in the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to submit a formal application along with relevant documents.",
+      "text": "They need to submit a formal application along with relevant documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents typically include identification proof, loan account details, and financial statements.",
+      "text": "Required documents typically include identification proof, loan account details, and financial statements.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Banks may also require borrowers to provide a statement of their current financial status.",
+      "text": "Banks may also require borrowers to provide a statement of their current financial status.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, the bank will review the borrower's financial situation.",
+      "text": "Once the application is submitted, the bank will review the borrower's financial situation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The bank will then assess the eligibility for the one-time settlement.",
+      "text": "The bank will then assess the eligibility for the one-time settlement.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the bank will provide a settlement offer detailing the reduced amount.",
+      "text": "If approved, the bank will provide a settlement offer detailing the reduced amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Borrowers must accept the offer within a specified period to benefit from the scheme.",
+      "text": "Borrowers must accept the offer within a specified period to benefit from the scheme.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The timeline for processing applications can vary from bank to bank.",
+      "text": "The timeline for processing applications can vary from bank to bank.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Typically, banks aim to process O.T.S. applications within 30 to 60 days.",
+      "text": "Typically, banks aim to process O.T.S. applications within 30 to 60 days.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Disbursement of the settlement amount is usually completed within 15 days of acceptance.",
+      "text": "Disbursement of the settlement amount is usually completed within 15 days of acceptance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The O.T.S. Scheme is implemented by various public sector banks across India.",
+      "text": "The O.T.S. Scheme is implemented by various public sector banks across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each bank has its own set of guidelines and procedures for the scheme.",
+      "text": "Each bank has its own set of guidelines and procedures for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Reserve Bank of India (RBI) oversees the implementation of the scheme.",
+      "text": "The Reserve Bank of India (RBI) oversees the implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The RBI provides guidelines to banks on how to handle NPAs and O.T.S. settlements.",
+      "text": "The RBI provides guidelines to banks on how to handle NPAs and O.T.S. settlements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The O.T.S. Scheme is part of a broader strategy to improve financial inclusion.",
+      "text": "The O.T.S. Scheme is part of a broader strategy to improve financial inclusion.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to provide a safety net for borrowers who are struggling to meet their loan obligations.",
+      "text": "It aims to provide a safety net for borrowers who are struggling to meet their loan obligations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also encourages responsible borrowing and lending practices.",
+      "text": "The scheme also encourages responsible borrowing and lending practices.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the scheme has seen significant participation from borrowers.",
+      "text": "As of October 2023, the scheme has seen significant participation from borrowers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Reports indicate that over 1 million borrowers have benefited from the O.T.S. Scheme.",
+      "text": "Reports indicate that over 1 million borrowers have benefited from the O.T.S. Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total amount settled under the scheme is estimated to be around ₹10,000 crores.",
+      "text": "The total amount settled under the scheme is estimated to be around ₹10,000 crores.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This figure represents a substantial reduction in the overall NPA levels in the banking sector.",
+      "text": "This figure represents a substantial reduction in the overall NPA levels in the banking sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has been particularly beneficial for small farmers and micro-enterprises.",
+      "text": "The scheme has been particularly beneficial for small farmers and micro-enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many borrowers have reported improved financial stability after settling their loans.",
+      "text": "Many borrowers have reported improved financial stability after settling their loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The O.T.S. Scheme has also been praised for its transparency and efficiency.",
+      "text": "The O.T.S. Scheme has also been praised for its transparency and efficiency.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Borrowers have access to clear guidelines and support from bank officials.",
+      "text": "Borrowers have access to clear guidelines and support from bank officials.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to continue evolving to meet the needs of borrowers.",
+      "text": "The scheme is expected to continue evolving to meet the needs of borrowers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future iterations may include more flexible repayment options and additional support services.",
+      "text": "Future iterations may include more flexible repayment options and additional support services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The O.T.S. Scheme is a critical component of the Indian government's efforts to stabilize the economy.",
+      "text": "The O.T.S. Scheme is a critical component of the Indian government's efforts to stabilize the economy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects a commitment to addressing the challenges faced by borrowers in the current economic climate.",
+      "text": "It reflects a commitment to addressing the challenges faced by borrowers in the current economic climate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is also part of a larger initiative to enhance the overall financial health of the nation.",
+      "text": "The scheme is also part of a larger initiative to enhance the overall financial health of the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By reducing NPAs, the government aims to strengthen the banking sector.",
+      "text": "By reducing NPAs, the government aims to strengthen the banking sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This, in turn, is expected to foster greater economic growth and stability.",
+      "text": "This, in turn, is expected to foster greater economic growth and stability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Overall, the One Time Settlement Scheme represents a proactive approach to debt management.",
+      "text": "Overall, the One Time Settlement Scheme represents a proactive approach to debt management.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides a lifeline for borrowers who are struggling to repay their loans.",
+      "text": "It provides a lifeline for borrowers who are struggling to repay their loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is an important tool for promoting financial resilience among individuals and businesses.",
+      "text": "The scheme is an important tool for promoting financial resilience among individuals and businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As the economic landscape continues to change, the O.T.S. Scheme will play a vital role in supporting borrowers.",
+      "text": "As the economic landscape continues to change, the O.T.S. Scheme will play a vital role in supporting borrowers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The initiative underscores the government's commitment to financial inclusion and economic recovery.",
+      "text": "The initiative underscores the government's commitment to financial inclusion and economic recovery.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the One Time Settlement Scheme is a comprehensive welfare initiative.",
+      "text": "In conclusion, the One Time Settlement Scheme is a comprehensive welfare initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It offers significant benefits to borrowers while also addressing the challenges faced by the banking sector.",
+      "text": "It offers significant benefits to borrowers while also addressing the challenges faced by the banking sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a testament to the government's efforts to create a more inclusive financial environment.",
+      "text": "The scheme is a testament to the government's efforts to create a more inclusive financial environment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this initiative, many borrowers have found relief from their financial burdens.",
+      "text": "Through this initiative, many borrowers have found relief from their financial burdens.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The O.T.S. Scheme is expected to remain a key feature of India's financial landscape for years to come.",
+      "text": "The O.T.S. Scheme is expected to remain a key feature of India's financial landscape for years to come.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T14:54:15.998915",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 60,
+    "role_distribution": {
+      "ContextObjective": 33,
+      "BenefitsAssistance": 17,
+      "Eligibility": 5,
+      "ApplicationProcess": 3,
+      "TimelineFrequency": 1,
+      "AuthoritiesGovernance": 1
+    }
+  }
+}

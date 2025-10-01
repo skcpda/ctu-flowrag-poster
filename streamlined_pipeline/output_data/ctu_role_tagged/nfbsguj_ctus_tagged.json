@@ -1,0 +1,690 @@
+{
+  "scheme_name": "National Family Benefit Scheme - Gujarat",
+  "total_sentences": 67,
+  "ctus": [
+    {
+      "sentence": "The National Family Benefit Scheme is a welfare initiative implemented by the Government of India.",
+      "text": "The National Family Benefit Scheme is a welfare initiative implemented by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It was launched in the year 2004.",
+      "text": "It was launched in the year 2004.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide financial assistance to families that have lost their primary breadwinner.",
+      "text": "The scheme aims to provide financial assistance to families that have lost their primary breadwinner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The objective of the National Family Benefit Scheme is to offer a one-time cash assistance to the bereaved family.",
+      "text": "The objective of the National Family Benefit Scheme is to offer a one-time cash assistance to the bereaved family.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This assistance is aimed at helping the family cope with the immediate financial burden following the death of the earning member.",
+      "text": "This assistance is aimed at helping the family cope with the immediate financial burden following the death of the earning member.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is particularly focused on families living below the poverty line.",
+      "text": "The scheme is particularly focused on families living below the poverty line.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is set at ₹20,000.",
+      "text": "The financial assistance provided under this scheme is set at ₹20,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This amount is intended to support the family in meeting their essential needs.",
+      "text": "This amount is intended to support the family in meeting their essential needs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance is provided in the form of a direct bank transfer to the beneficiary's bank account.",
+      "text": "The assistance is provided in the form of a direct bank transfer to the beneficiary's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme targets households where the deceased was the primary income earner.",
+      "text": "The scheme targets households where the deceased was the primary income earner.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for this scheme, the applicant must be a resident of Gujarat.",
+      "text": "To be eligible for this scheme, the applicant must be a resident of Gujarat.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The applicant must also belong to a family that is classified as below the poverty line.",
+      "text": "The applicant must also belong to a family that is classified as below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The age limit for the deceased breadwinner is between 18 to 60 years.",
+      "text": "The age limit for the deceased breadwinner is between 18 to 60 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The applicant must provide proof of the death of the earning member.",
+      "text": "The applicant must provide proof of the death of the earning member.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This proof can be in the form of a death certificate issued by the relevant authorities.",
+      "text": "This proof can be in the form of a death certificate issued by the relevant authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, the applicant must provide proof of the family's income status.",
+      "text": "Additionally, the applicant must provide proof of the family's income status.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This can be done through a Below Poverty Line certificate issued by the government.",
+      "text": "This can be done through a Below Poverty Line certificate issued by the government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the National Family Benefit Scheme involves several steps.",
+      "text": "The application process for the National Family Benefit Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, the applicant must obtain the application form.",
+      "text": "First, the applicant must obtain the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This form can be acquired from the local government office or online through the official government portal.",
+      "text": "This form can be acquired from the local government office or online through the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The completed application form must be submitted to the local authority or the designated office.",
+      "text": "The completed application form must be submitted to the local authority or the designated office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Along with the application form, the applicant must attach the required documents.",
+      "text": "Along with the application form, the applicant must attach the required documents.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These documents include the death certificate of the deceased.",
+      "text": "These documents include the death certificate of the deceased.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Below Poverty Line certificate must also be included.",
+      "text": "The Below Poverty Line certificate must also be included.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Proof of identity such as an Aadhar card or voter ID is necessary.",
+      "text": "Proof of identity such as an Aadhar card or voter ID is necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "text": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The verification process typically takes about 30 days.",
+      "text": "The verification process typically takes about 30 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If the application is approved, the financial assistance will be disbursed.",
+      "text": "If the application is approved, the financial assistance will be disbursed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement is made directly to the bank account of the beneficiary.",
+      "text": "The disbursement is made directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Social Justice and Empowerment in Gujarat.",
+      "text": "The scheme is implemented by the Department of Social Justice and Empowerment in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This department is responsible for overseeing the welfare schemes in the state.",
+      "text": "This department is responsible for overseeing the welfare schemes in the state.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for the Department of Social Justice and Empowerment can be found on the official government website.",
+      "text": "The contact details for the Department of Social Justice and Empowerment can be found on the official government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Family Benefit Scheme is part of a broader initiative to provide social security to vulnerable populations.",
+      "text": "The National Family Benefit Scheme is part of a broader initiative to provide social security to vulnerable populations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to ensure that families do not fall into deeper poverty due to the loss of an earning member.",
+      "text": "It aims to ensure that families do not fall into deeper poverty due to the loss of an earning member.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has been instrumental in providing timely financial support to many families across Gujarat.",
+      "text": "The scheme has been instrumental in providing timely financial support to many families across Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Since its inception, the scheme has seen a significant number of beneficiaries.",
+      "text": "Since its inception, the scheme has seen a significant number of beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of the latest reports, over 1.5 million families have received assistance under this scheme.",
+      "text": "As of the latest reports, over 1.5 million families have received assistance under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total amount disbursed under the scheme has exceeded ₹3,000 crores.",
+      "text": "The total amount disbursed under the scheme has exceeded ₹3,000 crores.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This reflects the government's commitment to supporting families in distress.",
+      "text": "This reflects the government's commitment to supporting families in distress.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Family Benefit Scheme is aligned with the National Policy for the Empowerment of Women.",
+      "text": "The National Family Benefit Scheme is aligned with the National Policy for the Empowerment of Women.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes the economic challenges faced by families after the loss of a breadwinner.",
+      "text": "It recognizes the economic challenges faced by families after the loss of a breadwinner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also aims to empower women by providing them with financial support.",
+      "text": "The scheme also aims to empower women by providing them with financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women often bear the brunt of financial instability in the event of a family member's death.",
+      "text": "Women often bear the brunt of financial instability in the event of a family member's death.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Thus, the scheme plays a crucial role in enhancing the economic resilience of families.",
+      "text": "Thus, the scheme plays a crucial role in enhancing the economic resilience of families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementation of the scheme is monitored regularly to ensure transparency and accountability.",
+      "text": "The implementation of the scheme is monitored regularly to ensure transparency and accountability.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account to improve the scheme.",
+      "text": "Feedback from beneficiaries is taken into account to improve the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government encourages eligible families to apply for the scheme to avail of the benefits.",
+      "text": "The government encourages eligible families to apply for the scheme to avail of the benefits.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Awareness campaigns are conducted to inform the public about the scheme.",
+      "text": "Awareness campaigns are conducted to inform the public about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These campaigns aim to reach out to families who may not be aware of the assistance available.",
+      "text": "These campaigns aim to reach out to families who may not be aware of the assistance available.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Family Benefit Scheme is one of the many initiatives by the government to provide social security.",
+      "text": "The National Family Benefit Scheme is one of the many initiatives by the government to provide social security.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to addressing the needs of the vulnerable sections of society.",
+      "text": "It reflects the government's commitment to addressing the needs of the vulnerable sections of society.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is an important step towards ensuring that families can recover from sudden financial shocks.",
+      "text": "The scheme is an important step towards ensuring that families can recover from sudden financial shocks.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the National Family Benefit Scheme in Gujarat provides essential financial support.",
+      "text": "In conclusion, the National Family Benefit Scheme in Gujarat provides essential financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is designed to assist families in overcoming the challenges posed by the loss of a primary breadwinner.",
+      "text": "It is designed to assist families in overcoming the challenges posed by the loss of a primary breadwinner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme's structured approach ensures that the assistance reaches those who need it the most.",
+      "text": "The scheme's structured approach ensures that the assistance reaches those who need it the most.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "With a clear application process and defined eligibility criteria, the scheme is accessible to many.",
+      "text": "With a clear application process and defined eligibility criteria, the scheme is accessible to many.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial aid provided can significantly alleviate the immediate financial burdens faced by families.",
+      "text": "The financial aid provided can significantly alleviate the immediate financial burdens faced by families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is a testament to the government's dedication to social welfare and poverty alleviation.",
+      "text": "This initiative is a testament to the government's dedication to social welfare and poverty alleviation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Family Benefit Scheme continues to evolve to meet the changing needs of society.",
+      "text": "The National Family Benefit Scheme continues to evolve to meet the changing needs of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It stands as a crucial lifeline for families navigating the hardships of losing an earning member.",
+      "text": "It stands as a crucial lifeline for families navigating the hardships of losing an earning member.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme not only provides financial assistance but also fosters a sense of security among families.",
+      "text": "The scheme not only provides financial assistance but also fosters a sense of security among families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By addressing the economic impact of bereavement, the scheme plays a vital role in community welfare.",
+      "text": "By addressing the economic impact of bereavement, the scheme plays a vital role in community welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Families are encouraged to utilize this scheme to ensure their financial stability during difficult times.",
+      "text": "Families are encouraged to utilize this scheme to ensure their financial stability during difficult times.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Family Benefit Scheme is a significant component of Gujarat's welfare initiatives.",
+      "text": "The National Family Benefit Scheme is a significant component of Gujarat's welfare initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It exemplifies the proactive measures taken by the government to support its citizens.",
+      "text": "It exemplifies the proactive measures taken by the government to support its citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a reflection of the government's understanding of the socio-economic challenges faced by families.",
+      "text": "The scheme is a reflection of the government's understanding of the socio-economic challenges faced by families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this initiative, the government aims to build a more resilient and empowered society.",
+      "text": "Through this initiative, the government aims to build a more resilient and empowered society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "National Family Benefit Scheme - Gujarat",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T19:49:40.516136",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 67,
+    "role_distribution": {
+      "ContextObjective": 28,
+      "TimelineFrequency": 1,
+      "BenefitsAssistance": 16,
+      "Eligibility": 7,
+      "ApplicationProcess": 9,
+      "AuthoritiesGovernance": 6
+    }
+  }
+}

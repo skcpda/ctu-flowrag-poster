@@ -1,0 +1,2086 @@
+{
+  "scheme_name": "Griha Lakshmi Scheme",
+  "total_sentences": 62,
+  "ctus": [
+    {
+      "sentence": "The Griha Lakshmi Scheme was launched by the Government of Karnataka on August 5, 2023.",
+      "text": "The Griha Lakshmi Scheme was launched by the Government of Karnataka on August 5, 2023.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to empower women by providing them with financial assistance to support their families.",
+      "text": "This scheme aims to empower women by providing them with financial assistance to support their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Griha Lakshmi Scheme is to provide a direct cash transfer to eligible women heads of households.",
+      "text": "The primary objective of the Griha Lakshmi Scheme is to provide a direct cash transfer to eligible women heads of households.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to enhance the economic status of women and promote their financial independence.",
+      "text": "The scheme aims to enhance the economic status of women and promote their financial independence.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, eligible women will receive a monthly financial assistance of ₹2,000.",
+      "text": "Under this scheme, eligible women will receive a monthly financial assistance of ₹2,000.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "This amount is intended to help women manage household expenses and improve their quality of life.",
+      "text": "This amount is intended to help women manage household expenses and improve their quality of life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme targets approximately 1.5 crore women across the state of Karnataka.",
+      "text": "The scheme targets approximately 1.5 crore women across the state of Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is part of the broader effort by the Karnataka government to uplift women and promote gender equality.",
+      "text": "This initiative is part of the broader effort by the Karnataka government to uplift women and promote gender equality.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is expected to have a significant impact on the socio-economic conditions of women in the state.",
+      "text": "The Griha Lakshmi Scheme is expected to have a significant impact on the socio-economic conditions of women in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To qualify for the Griha Lakshmi Scheme, applicants must meet specific eligibility criteria.",
+      "text": "To qualify for the Griha Lakshmi Scheme, applicants must meet specific eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary eligibility requirement is that the applicant must be a woman head of the household.",
+      "text": "The primary eligibility requirement is that the applicant must be a woman head of the household.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The age limit for applicants is set at 18 years and above.",
+      "text": "The age limit for applicants is set at 18 years and above.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, the annual income of the household should not exceed ₹2.5 lakh.",
+      "text": "Additionally, the annual income of the household should not exceed ₹2.5 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This income limit is designed to target economically weaker sections of society.",
+      "text": "This income limit is designed to target economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also be residents of Karnataka and possess valid identification documents.",
+      "text": "Applicants must also be residents of Karnataka and possess valid identification documents.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Griha Lakshmi Scheme is straightforward and user-friendly.",
+      "text": "The application process for the Griha Lakshmi Scheme is straightforward and user-friendly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested applicants can apply online through the official website of the Karnataka government.",
+      "text": "Interested applicants can apply online through the official website of the Karnataka government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires basic personal information such as name, age, and address.",
+      "text": "The application form requires basic personal information such as name, age, and address.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also provide details about their household income and family members.",
+      "text": "Applicants must also provide details about their household income and family members.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Aadhar card is a mandatory document for the application process.",
+      "text": "Aadhar card is a mandatory document for the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, applicants must submit proof of residence and income.",
+      "text": "Additionally, applicants must submit proof of residence and income.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+      "text": "Once the application is submitted, it will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The verification process is expected to take approximately 15 to 30 days.",
+      "text": "The verification process is expected to take approximately 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "After successful verification, the financial assistance will be credited directly to the applicant's bank account.",
+      "text": "After successful verification, the financial assistance will be credited directly to the applicant's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of funds will occur on a monthly basis.",
+      "text": "The disbursement of funds will occur on a monthly basis.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "The first disbursement is expected to take place in September 2023.",
+      "text": "The first disbursement is expected to take place in September 2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Subsequent payments will continue on the first week of every month.",
+      "text": "Subsequent payments will continue on the first week of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Griha Lakshmi Scheme is the Department of Women and Child Development, Government of Karnataka.",
+      "text": "The implementing authority for the Griha Lakshmi Scheme is the Department of Women and Child Development, Government of Karnataka.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This department is responsible for overseeing the implementation and monitoring of the scheme.",
+      "text": "This department is responsible for overseeing the implementation and monitoring of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any queries or assistance, applicants can contact the helpline number provided on the official website.",
+      "text": "For any queries or assistance, applicants can contact the helpline number provided on the official website.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is a significant step towards financial inclusion for women in Karnataka.",
+      "text": "The Griha Lakshmi Scheme is a significant step towards financial inclusion for women in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to reduce the economic burden on women and empower them to make financial decisions.",
+      "text": "It aims to reduce the economic burden on women and empower them to make financial decisions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is also expected to contribute to the overall economic development of the state.",
+      "text": "The scheme is also expected to contribute to the overall economic development of the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing direct cash transfers, the government aims to ensure that women have access to financial resources.",
+      "text": "By providing direct cash transfers, the government aims to ensure that women have access to financial resources.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is aligned with the national goals of women empowerment and poverty alleviation.",
+      "text": "The Griha Lakshmi Scheme is aligned with the national goals of women empowerment and poverty alleviation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of a larger framework of welfare initiatives launched by the Karnataka government.",
+      "text": "The scheme is part of a larger framework of welfare initiatives launched by the Karnataka government.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These initiatives focus on improving the living standards of marginalized communities.",
+      "text": "These initiatives focus on improving the living standards of marginalized communities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is expected to complement other welfare schemes aimed at women.",
+      "text": "The Griha Lakshmi Scheme is expected to complement other welfare schemes aimed at women.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes schemes related to health, education, and employment.",
+      "text": "This includes schemes related to health, education, and employment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹2,000 crore for the successful implementation of the Griha Lakshmi Scheme.",
+      "text": "The government has allocated a budget of ₹2,000 crore for the successful implementation of the Griha Lakshmi Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This budget is intended to cover the financial assistance for the first year of the scheme.",
+      "text": "This budget is intended to cover the financial assistance for the first year of the scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to create a positive ripple effect in the local economy.",
+      "text": "The scheme is expected to create a positive ripple effect in the local economy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As women gain financial independence, they are likely to invest in their children's education and health.",
+      "text": "As women gain financial independence, they are likely to invest in their children's education and health.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This, in turn, can lead to improved socio-economic conditions for families.",
+      "text": "This, in turn, can lead to improved socio-economic conditions for families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is also expected to enhance women's participation in the workforce.",
+      "text": "The Griha Lakshmi Scheme is also expected to enhance women's participation in the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial support, the scheme encourages women to pursue entrepreneurial ventures.",
+      "text": "By providing financial support, the scheme encourages women to pursue entrepreneurial ventures.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to monitor the impact of the scheme through regular assessments.",
+      "text": "The government aims to monitor the impact of the scheme through regular assessments.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries will be collected to improve the scheme further.",
+      "text": "Feedback from beneficiaries will be collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is a testament to the Karnataka government's commitment to women's empowerment.",
+      "text": "The Griha Lakshmi Scheme is a testament to the Karnataka government's commitment to women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects a growing recognition of the role of women in economic development.",
+      "text": "It reflects a growing recognition of the role of women in economic development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to set a precedent for similar initiatives in other states.",
+      "text": "The scheme is expected to set a precedent for similar initiatives in other states.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Griha Lakshmi Scheme represents a significant investment in the future of women in Karnataka.",
+      "text": "Overall, the Griha Lakshmi Scheme represents a significant investment in the future of women in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a more equitable society by addressing the financial challenges faced by women.",
+      "text": "It aims to create a more equitable society by addressing the financial challenges faced by women.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a proactive approach to ensure that women have the resources they need to thrive.",
+      "text": "The scheme is a proactive approach to ensure that women have the resources they need to thrive.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By focusing on direct cash transfers, the government aims to eliminate bureaucratic hurdles.",
+      "text": "By focusing on direct cash transfers, the government aims to eliminate bureaucratic hurdles.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures that financial assistance reaches the intended beneficiaries without delays.",
+      "text": "This ensures that financial assistance reaches the intended beneficiaries without delays.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is a crucial step towards achieving gender parity in economic participation.",
+      "text": "The Griha Lakshmi Scheme is a crucial step towards achieving gender parity in economic participation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It underscores the importance of empowering women as a means of fostering sustainable development.",
+      "text": "It underscores the importance of empowering women as a means of fostering sustainable development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Karnataka government is committed to ensuring the success of the Griha Lakshmi Scheme.",
+      "text": "The Karnataka government is committed to ensuring the success of the Griha Lakshmi Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through continuous monitoring and evaluation, the government aims to maximize the benefits of the scheme.",
+      "text": "Through continuous monitoring and evaluation, the government aims to maximize the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Griha Lakshmi Scheme is a landmark initiative that has the potential to transform the lives of millions of women in Karnataka.",
+      "text": "The Griha Lakshmi Scheme is a landmark initiative that has the potential to transform the lives of millions of women in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a clear indication of the government's dedication to creating a more inclusive and equitable society.",
+      "text": "It is a clear indication of the government's dedication to creating a more inclusive and equitable society.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Griha Lakshmi Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T23:17:46.838758",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 62,
+    "role_distribution": {
+      "ContextObjective": 27,
+      "BenefitsAssistance": 17,
+      "Eligibility": 7,
+      "ApplicationProcess": 6,
+      "TimelineFrequency": 1,
+      "AuthoritiesGovernance": 3,
+      "DefinitionsReferences": 1
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme was launched by the Government of Karnataka on August 5, 2023.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "This scheme aims to empower women by providing them with financial assistance to support their families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This scheme aims to empower women by providing them with financial assistance to support their families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The primary objective of the Griha Lakshmi Scheme is to provide a direct cash transfer to eligible women heads of households.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective of the Griha Lakshmi Scheme is to provide a direct cash transfer to eligible women heads of households.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The scheme aims to enhance the economic status of women and promote their financial independence.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme aims to enhance the economic status of women and promote their financial independence.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "Under this scheme, eligible women will receive a monthly financial assistance of ₹2,000.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Under this scheme, eligible women will receive a monthly financial assistance of ₹2,000.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "This amount is intended to help women manage household expenses and improve their quality of life.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This amount is intended to help women manage household expenses and improve their quality of life.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "The scheme targets approximately 1.5 crore women across the state of Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme targets approximately 1.5 crore women across the state of Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "This initiative is part of the broader effort by the Karnataka government to uplift women and promote gender equality.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This initiative is part of the broader effort by the Karnataka government to uplift women and promote gender equality.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is expected to have a significant impact on the socio-economic conditions of women in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is expected to have a significant impact on the socio-economic conditions of women in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "To qualify for the Griha Lakshmi Scheme, applicants must meet specific eligibility criteria.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "To qualify for the Griha Lakshmi Scheme, applicants must meet specific eligibility criteria.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "The primary eligibility requirement is that the applicant must be a woman head of the household.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary eligibility requirement is that the applicant must be a woman head of the household.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "The age limit for applicants is set at 18 years and above.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The age limit for applicants is set at 18 years and above.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "Additionally, the annual income of the household should not exceed ₹2.5 lakh.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Additionally, the annual income of the household should not exceed ₹2.5 lakh.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "This income limit is designed to target economically weaker sections of society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This income limit is designed to target economically weaker sections of society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "Applicants must also be residents of Karnataka and possess valid identification documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must also be residents of Karnataka and possess valid identification documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The application process for the Griha Lakshmi Scheme is straightforward and user-friendly.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process for the Griha Lakshmi Scheme is straightforward and user-friendly.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "Interested applicants can apply online through the official website of the Karnataka government.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested applicants can apply online through the official website of the Karnataka government.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "The application form requires basic personal information such as name, age, and address.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application form requires basic personal information such as name, age, and address.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "Applicants must also provide details about their household income and family members.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must also provide details about their household income and family members.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Aadhar card is a mandatory document for the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Aadhar card is a mandatory document for the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "Additionally, applicants must submit proof of residence and income.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Additionally, applicants must submit proof of residence and income.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "The verification process is expected to take approximately 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The verification process is expected to take approximately 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "After successful verification, the financial assistance will be credited directly to the applicant's bank account.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "After successful verification, the financial assistance will be credited directly to the applicant's bank account.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "The disbursement of funds will occur on a monthly basis.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The disbursement of funds will occur on a monthly basis.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The first disbursement is expected to take place in September 2023.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The first disbursement is expected to take place in September 2023.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "Subsequent payments will continue on the first week of every month.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Subsequent payments will continue on the first week of every month.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "The implementing authority for the Griha Lakshmi Scheme is the Department of Women and Child Development, Government of Karnataka.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the Griha Lakshmi Scheme is the Department of Women and Child Development, Government of Karnataka.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "This department is responsible for overseeing the implementation and monitoring of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This department is responsible for overseeing the implementation and monitoring of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "For any queries or assistance, applicants can contact the helpline number provided on the official website.",
+        "role": "DefinitionsReferences",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "For any queries or assistance, applicants can contact the helpline number provided on the official website.",
+        "role": "DefinitionsReferences",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is a significant step towards financial inclusion for women in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is a significant step towards financial inclusion for women in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "It aims to reduce the economic burden on women and empower them to make financial decisions.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aims to reduce the economic burden on women and empower them to make financial decisions.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "The scheme is also expected to contribute to the overall economic development of the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is also expected to contribute to the overall economic development of the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "By providing direct cash transfers, the government aims to ensure that women have access to financial resources.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "By providing direct cash transfers, the government aims to ensure that women have access to financial resources.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is aligned with the national goals of women empowerment and poverty alleviation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is aligned with the national goals of women empowerment and poverty alleviation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The scheme is part of a larger framework of welfare initiatives launched by the Karnataka government.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is part of a larger framework of welfare initiatives launched by the Karnataka government.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "These initiatives focus on improving the living standards of marginalized communities.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These initiatives focus on improving the living standards of marginalized communities.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is expected to complement other welfare schemes aimed at women.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is expected to complement other welfare schemes aimed at women.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "This includes schemes related to health, education, and employment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This includes schemes related to health, education, and employment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "The government has allocated a budget of ₹2,000 crore for the successful implementation of the Griha Lakshmi Scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has allocated a budget of ₹2,000 crore for the successful implementation of the Griha Lakshmi Scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "This budget is intended to cover the financial assistance for the first year of the scheme.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This budget is intended to cover the financial assistance for the first year of the scheme.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "The scheme is expected to create a positive ripple effect in the local economy.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is expected to create a positive ripple effect in the local economy.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "As women gain financial independence, they are likely to invest in their children's education and health.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "As women gain financial independence, they are likely to invest in their children's education and health.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "This, in turn, can lead to improved socio-economic conditions for families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This, in turn, can lead to improved socio-economic conditions for families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is also expected to enhance women's participation in the workforce.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is also expected to enhance women's participation in the workforce.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "By providing financial support, the scheme encourages women to pursue entrepreneurial ventures.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "By providing financial support, the scheme encourages women to pursue entrepreneurial ventures.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "The government aims to monitor the impact of the scheme through regular assessments.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government aims to monitor the impact of the scheme through regular assessments.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "Feedback from beneficiaries will be collected to improve the scheme further.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Feedback from beneficiaries will be collected to improve the scheme further.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is a testament to the Karnataka government's commitment to women's empowerment.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is a testament to the Karnataka government's commitment to women's empowerment.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "It reflects a growing recognition of the role of women in economic development.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It reflects a growing recognition of the role of women in economic development.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "The scheme is expected to set a precedent for similar initiatives in other states.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is expected to set a precedent for similar initiatives in other states.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "Overall, the Griha Lakshmi Scheme represents a significant investment in the future of women in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Overall, the Griha Lakshmi Scheme represents a significant investment in the future of women in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "It aims to create a more equitable society by addressing the financial challenges faced by women.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aims to create a more equitable society by addressing the financial challenges faced by women.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "The scheme is a proactive approach to ensure that women have the resources they need to thrive.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is a proactive approach to ensure that women have the resources they need to thrive.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "By focusing on direct cash transfers, the government aims to eliminate bureaucratic hurdles.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "By focusing on direct cash transfers, the government aims to eliminate bureaucratic hurdles.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "This ensures that financial assistance reaches the intended beneficiaries without delays.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This ensures that financial assistance reaches the intended beneficiaries without delays.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is a crucial step towards achieving gender parity in economic participation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is a crucial step towards achieving gender parity in economic participation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "It underscores the importance of empowering women as a means of fostering sustainable development.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It underscores the importance of empowering women as a means of fostering sustainable development.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "The Karnataka government is committed to ensuring the success of the Griha Lakshmi Scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Karnataka government is committed to ensuring the success of the Griha Lakshmi Scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "ctu2": {
+        "sentence": "Through continuous monitoring and evaluation, the government aims to maximize the benefits of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Through continuous monitoring and evaluation, the government aims to maximize the benefits of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "ctu2": {
+        "sentence": "The Griha Lakshmi Scheme is a landmark initiative that has the potential to transform the lives of millions of women in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Griha Lakshmi Scheme is a landmark initiative that has the potential to transform the lives of millions of women in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "ctu2": {
+        "sentence": "It is a clear indication of the government's dedication to creating a more inclusive and equitable society.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary eligibility requirement is that the applicant must be a woman head of the household.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "The application process for the Griha Lakshmi Scheme is straightforward and user-friendly.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 5,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must also be residents of Karnataka and possess valid identification documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The application process for the Griha Lakshmi Scheme is straightforward and user-friendly.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must also provide details about their household income and family members.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Aadhar card is a mandatory document for the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Additionally, applicants must submit proof of residence and income.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it will be verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "After successful verification, the financial assistance will be credited directly to the applicant's bank account.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 2,
+      "edge_confidence_raw": 0.8
+    },
+    {
+      "ctu1": {
+        "sentence": "The verification process is expected to take approximately 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "After successful verification, the financial assistance will be credited directly to the applicant's bank account.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 1,
+      "edge_confidence_raw": 0.8
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the Griha Lakshmi Scheme is the Department of Women and Child Development, Government of Karnataka.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "It aims to reduce the economic burden on women and empower them to make financial decisions.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 4,
+      "edge_confidence_raw": 0.7
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 61,
+    "actual_precedes": 61,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

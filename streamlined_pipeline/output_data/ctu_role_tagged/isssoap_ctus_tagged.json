@@ -1,0 +1,580 @@
+{
+  "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+  "total_sentences": 56,
+  "ctus": [
+    {
+      "sentence": "The Integrated Social Security Scheme: Old Age Pension is a significant initiative launched by the Government of India to provide financial assistance to senior citizens.",
+      "text": "The Integrated Social Security Scheme: Old Age Pension is a significant initiative launched by the Government of India to provide financial assistance to senior citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was officially launched in 2007 as part of the National Social Assistance Programme.",
+      "text": "This scheme was officially launched in 2007 as part of the National Social Assistance Programme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide a social safety net for elderly individuals who are living below the poverty line.",
+      "text": "The primary objective of this scheme is to provide a social safety net for elderly individuals who are living below the poverty line.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to ensure that senior citizens receive a monthly pension to support their basic needs.",
+      "text": "The scheme aims to ensure that senior citizens receive a monthly pension to support their basic needs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension amount varies from state to state.",
+      "text": "The pension amount varies from state to state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the pension amount ranges from ₹200 to ₹1,000 per month depending on the state government’s provisions.",
+      "text": "As of October 2023, the pension amount ranges from ₹200 to ₹1,000 per month depending on the state government’s provisions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme targets individuals aged 60 years and above.",
+      "text": "The scheme targets individuals aged 60 years and above.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the Old Age Pension, applicants must belong to households classified as below the poverty line.",
+      "text": "To be eligible for the Old Age Pension, applicants must belong to households classified as below the poverty line.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to benefit those who do not have any regular source of income or financial support from family members.",
+      "text": "The scheme is designed to benefit those who do not have any regular source of income or financial support from family members.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria also include that the applicant must be a resident of India.",
+      "text": "The eligibility criteria also include that the applicant must be a resident of India.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In many states, the pension is provided to individuals aged 65 and above.",
+      "text": "In many states, the pension is provided to individuals aged 65 and above.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The application process for the Old Age Pension involves several steps.",
+      "text": "The application process for the Old Age Pension involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, applicants must obtain the application form from the local government office or the designated online portal.",
+      "text": "First, applicants must obtain the application form from the local government office or the designated online portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires personal details such as name, age, address, and family income.",
+      "text": "The application form requires personal details such as name, age, address, and family income.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also provide proof of age, which can be a birth certificate or an Aadhaar card.",
+      "text": "Applicants must also provide proof of age, which can be a birth certificate or an Aadhaar card.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, proof of residence and income certificate may be required.",
+      "text": "Additionally, proof of residence and income certificate may be required.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application form is completed, it must be submitted to the local government office or the designated authority responsible for social welfare.",
+      "text": "Once the application form is completed, it must be submitted to the local government office or the designated authority responsible for social welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "After submission, the application will be verified by the concerned authorities.",
+      "text": "After submission, the application will be verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The verification process typically takes 30 to 60 days.",
+      "text": "The verification process typically takes 30 to 60 days.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once approved, the pension amount is disbursed monthly.",
+      "text": "Once approved, the pension amount is disbursed monthly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement is usually made through direct bank transfers to the beneficiaries’ bank accounts.",
+      "text": "The disbursement is usually made through direct bank transfers to the beneficiaries’ bank accounts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In some states, pensions may also be disbursed through post offices or local government offices.",
+      "text": "In some states, pensions may also be disbursed through post offices or local government offices.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The frequency of pension disbursement is monthly.",
+      "text": "The frequency of pension disbursement is monthly.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For instance, in states like Kerala, the pension is credited on the first of every month.",
+      "text": "For instance, in states like Kerala, the pension is credited on the first of every month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In contrast, states like Bihar may have different disbursement schedules.",
+      "text": "In contrast, states like Bihar may have different disbursement schedules.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authorities for the Old Age Pension scheme are primarily the Ministry of Rural Development and the Ministry of Social Justice and Empowerment.",
+      "text": "The implementing authorities for the Old Age Pension scheme are primarily the Ministry of Rural Development and the Ministry of Social Justice and Empowerment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "State governments also play a crucial role in the implementation of this scheme.",
+      "text": "State governments also play a crucial role in the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each state has its own social welfare department that oversees the distribution of pensions.",
+      "text": "Each state has its own social welfare department that oversees the distribution of pensions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For instance, in Maharashtra, the Department of Social Justice and Special Assistance is responsible for the scheme.",
+      "text": "For instance, in Maharashtra, the Department of Social Justice and Special Assistance is responsible for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In Uttar Pradesh, the Department of Social Welfare manages the Old Age Pension scheme.",
+      "text": "In Uttar Pradesh, the Department of Social Welfare manages the Old Age Pension scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has seen significant uptake since its launch.",
+      "text": "The scheme has seen significant uptake since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, over 2.5 crore beneficiaries are receiving pensions under this scheme across various states.",
+      "text": "As of 2023, over 2.5 crore beneficiaries are receiving pensions under this scheme across various states.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government allocates a substantial budget for the Old Age Pension scheme every year.",
+      "text": "The government allocates a substantial budget for the Old Age Pension scheme every year.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the budget allocation for the National Social Assistance Programme was approximately ₹9,000 crores.",
+      "text": "In the financial year 2022-2023, the budget allocation for the National Social Assistance Programme was approximately ₹9,000 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This allocation includes funds for the Old Age Pension as well as other social assistance programs.",
+      "text": "This allocation includes funds for the Old Age Pension as well as other social assistance programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing poverty among the elderly population.",
+      "text": "The scheme has been instrumental in reducing poverty among the elderly population.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "According to the Ministry of Rural Development, the pension has helped lift millions of senior citizens above the poverty line.",
+      "text": "According to the Ministry of Rural Development, the pension has helped lift millions of senior citizens above the poverty line.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Old Age Pension scheme is part of a broader framework of social security measures in India.",
+      "text": "The Old Age Pension scheme is part of a broader framework of social security measures in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Other related schemes include the Indira Gandhi National Old Age Pension Scheme and various state-specific pension schemes.",
+      "text": "Other related schemes include the Indira Gandhi National Old Age Pension Scheme and various state-specific pension schemes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continuously monitors the implementation of the Old Age Pension scheme.",
+      "text": "The government continuously monitors the implementation of the Old Age Pension scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "text": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In recent years, the government has also introduced digital initiatives to streamline the application process.",
+      "text": "In recent years, the government has also introduced digital initiatives to streamline the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Online applications can now be submitted through state-specific portals.",
+      "text": "Online applications can now be submitted through state-specific portals.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This has made the process more accessible for elderly individuals who may have difficulty traveling to government offices.",
+      "text": "This has made the process more accessible for elderly individuals who may have difficulty traveling to government offices.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of awareness and outreach programs.",
+      "text": "The scheme also emphasizes the importance of awareness and outreach programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "State governments conduct awareness campaigns to educate senior citizens about the benefits of the scheme.",
+      "text": "State governments conduct awareness campaigns to educate senior citizens about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These campaigns often include workshops and informational sessions in rural areas.",
+      "text": "These campaigns often include workshops and informational sessions in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has also partnered with non-governmental organizations to reach out to marginalized communities.",
+      "text": "The government has also partnered with non-governmental organizations to reach out to marginalized communities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Integrated Social Security Scheme: Old Age Pension represents a crucial step towards ensuring financial security for the elderly population in India.",
+      "text": "Overall, the Integrated Social Security Scheme: Old Age Pension represents a crucial step towards ensuring financial security for the elderly population in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme not only provides monetary assistance but also promotes dignity and respect for senior citizens.",
+      "text": "The scheme not only provides monetary assistance but also promotes dignity and respect for senior citizens.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As the population of elderly individuals continues to grow in India, the importance of such welfare schemes will only increase.",
+      "text": "As the population of elderly individuals continues to grow in India, the importance of such welfare schemes will only increase.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government remains committed to enhancing the benefits and reach of the Old Age Pension scheme in the coming years.",
+      "text": "The government remains committed to enhancing the benefits and reach of the Old Age Pension scheme in the coming years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future plans may include increasing the pension amount and expanding eligibility criteria.",
+      "text": "Future plans may include increasing the pension amount and expanding eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ongoing evaluation of the scheme aims to identify areas for improvement and ensure that it meets the needs of senior citizens effectively.",
+      "text": "The ongoing evaluation of the scheme aims to identify areas for improvement and ensure that it meets the needs of senior citizens effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Integrated Social Security Scheme: Old Age Pension is a vital initiative that plays a significant role in supporting the elderly population in India.",
+      "text": "In conclusion, the Integrated Social Security Scheme: Old Age Pension is a vital initiative that plays a significant role in supporting the elderly population in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides essential financial assistance to those in need and contributes to the overall well-being of senior citizens across the country.",
+      "text": "It provides essential financial assistance to those in need and contributes to the overall well-being of senior citizens across the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Integrated Social Security Scheme: Old Age Pension",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T17:21:53.819652",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 56,
+    "role_distribution": {
+      "ContextObjective": 24,
+      "BenefitsAssistance": 12,
+      "Eligibility": 5,
+      "ApplicationProcess": 8,
+      "AuthoritiesGovernance": 6,
+      "TimelineFrequency": 1
+    }
+  }
+}

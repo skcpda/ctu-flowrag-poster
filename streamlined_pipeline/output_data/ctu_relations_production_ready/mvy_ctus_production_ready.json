@@ -1,0 +1,1876 @@
+{
+  "scheme_name": "Mahtari Vandan Yojana",
+  "total_sentences": 56,
+  "ctus": [
+    {
+      "sentence": "Mahtari Vandan Yojana is a welfare scheme launched by the Government of Chhattisgarh on 1st January 2022.",
+      "text": "Mahtari Vandan Yojana is a welfare scheme launched by the Government of Chhattisgarh on 1st January 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to pregnant women and lactating mothers.",
+      "text": "This scheme aims to provide financial assistance to pregnant women and lactating mothers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Mahtari Vandan Yojana is to improve maternal and child health in the state.",
+      "text": "The primary objective of the Mahtari Vandan Yojana is to improve maternal and child health in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to reduce maternal and infant mortality rates by providing timely financial support.",
+      "text": "It seeks to reduce maternal and infant mortality rates by providing timely financial support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to promote institutional deliveries and ensure that mothers receive adequate nutrition during pregnancy and lactation.",
+      "text": "The scheme also aims to promote institutional deliveries and ensure that mothers receive adequate nutrition during pregnancy and lactation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, eligible beneficiaries receive a financial assistance of ₹5,000.",
+      "text": "Under this scheme, eligible beneficiaries receive a financial assistance of ₹5,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This amount is disbursed in two installments.",
+      "text": "This amount is disbursed in two installments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The first installment of ₹3,000 is provided during the seventh month of pregnancy.",
+      "text": "The first installment of ₹3,000 is provided during the seventh month of pregnancy.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The second installment of ₹2,000 is given after the birth of the child.",
+      "text": "The second installment of ₹2,000 is given after the birth of the child.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme targets pregnant women and lactating mothers who are residents of Chhattisgarh.",
+      "text": "The scheme targets pregnant women and lactating mothers who are residents of Chhattisgarh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for this scheme, the applicant must be at least 18 years old.",
+      "text": "To be eligible for this scheme, the applicant must be at least 18 years old.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There is no upper age limit specified for the beneficiaries.",
+      "text": "There is no upper age limit specified for the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The income criteria for eligibility require that the family income should not exceed ₹2.5 lakh per annum.",
+      "text": "The income criteria for eligibility require that the family income should not exceed ₹2.5 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is applicable to women who are pregnant for the first or second time.",
+      "text": "The scheme is applicable to women who are pregnant for the first or second time.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women who have undergone sterilization are not eligible for this scheme.",
+      "text": "Women who have undergone sterilization are not eligible for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Mahtari Vandan Yojana is straightforward.",
+      "text": "The application process for the Mahtari Vandan Yojana is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested beneficiaries must visit the nearest Anganwadi center or the office of the Chief Medical and Health Officer.",
+      "text": "Interested beneficiaries must visit the nearest Anganwadi center or the office of the Chief Medical and Health Officer.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to fill out an application form available at these centers.",
+      "text": "They need to fill out an application form available at these centers.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires personal details such as name, address, and contact information.",
+      "text": "The application form requires personal details such as name, address, and contact information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Beneficiaries must also provide details regarding their pregnancy and expected delivery date.",
+      "text": "Beneficiaries must also provide details regarding their pregnancy and expected delivery date.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Documents required for the application include a copy of the Aadhar card.",
+      "text": "Documents required for the application include a copy of the Aadhar card.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "A medical certificate confirming the pregnancy is also necessary.",
+      "text": "A medical certificate confirming the pregnancy is also necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, proof of income must be submitted to verify eligibility.",
+      "text": "Additionally, proof of income must be submitted to verify eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+      "text": "Once the application is submitted, it is verified by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "After verification, the financial assistance is disbursed directly to the bank account of the beneficiary.",
+      "text": "After verification, the financial assistance is disbursed directly to the bank account of the beneficiary.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of funds is done through the Public Financial Management System.",
+      "text": "The disbursement of funds is done through the Public Financial Management System.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures transparency and timely transfer of funds to the beneficiaries.",
+      "text": "This ensures transparency and timely transfer of funds to the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to benefit approximately 1.5 lakh women annually.",
+      "text": "The scheme is expected to benefit approximately 1.5 lakh women annually.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹150 crore for the implementation of this scheme.",
+      "text": "The government has allocated a budget of ₹150 crore for the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mahtari Vandan Yojana is part of the broader initiative to improve maternal health in India.",
+      "text": "The Mahtari Vandan Yojana is part of the broader initiative to improve maternal health in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aligns with the National Health Mission's goals of reducing maternal and infant mortality rates.",
+      "text": "It aligns with the National Health Mission's goals of reducing maternal and infant mortality rates.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of nutrition during pregnancy and lactation.",
+      "text": "The scheme also emphasizes the importance of nutrition during pregnancy and lactation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It encourages women to seek regular medical check-ups and follow a nutritious diet.",
+      "text": "It encourages women to seek regular medical check-ups and follow a nutritious diet.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementation of this scheme is overseen by the Department of Women and Child Development, Chhattisgarh.",
+      "text": "The implementation of this scheme is overseen by the Department of Women and Child Development, Chhattisgarh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This department is responsible for monitoring the progress and effectiveness of the scheme.",
+      "text": "This department is responsible for monitoring the progress and effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been well-received by the public since its launch.",
+      "text": "The scheme has been well-received by the public since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many beneficiaries have reported improved access to healthcare services.",
+      "text": "Many beneficiaries have reported improved access to healthcare services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The financial assistance has helped reduce the economic burden associated with pregnancy.",
+      "text": "The financial assistance has helped reduce the economic burden associated with pregnancy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also promotes awareness about maternal health and nutrition.",
+      "text": "The scheme also promotes awareness about maternal health and nutrition.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to attend antenatal check-ups and immunization sessions for their children.",
+      "text": "Beneficiaries are encouraged to attend antenatal check-ups and immunization sessions for their children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mahtari Vandan Yojana is a significant step towards achieving gender equity in healthcare.",
+      "text": "The Mahtari Vandan Yojana is a significant step towards achieving gender equity in healthcare.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It empowers women by providing them with financial support during a critical phase of their lives.",
+      "text": "It empowers women by providing them with financial support during a critical phase of their lives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to create a supportive environment for mothers and their children.",
+      "text": "The scheme also aims to create a supportive environment for mothers and their children.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By ensuring that women have access to necessary resources, the scheme contributes to better health outcomes.",
+      "text": "By ensuring that women have access to necessary resources, the scheme contributes to better health outcomes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government regularly reviews the progress of the Mahtari Vandan Yojana.",
+      "text": "The government regularly reviews the progress of the Mahtari Vandan Yojana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "text": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has also been integrated with other health initiatives in the state.",
+      "text": "The scheme has also been integrated with other health initiatives in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes programs focused on child health and nutrition.",
+      "text": "This includes programs focused on child health and nutrition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is committed to enhancing the quality of maternal healthcare services.",
+      "text": "The government is committed to enhancing the quality of maternal healthcare services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mahtari Vandan Yojana is a testament to this commitment.",
+      "text": "The Mahtari Vandan Yojana is a testament to this commitment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Overall, the scheme represents a holistic approach to maternal and child health in Chhattisgarh.",
+      "text": "Overall, the scheme represents a holistic approach to maternal and child health in Chhattisgarh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It addresses not only the financial needs of pregnant women but also their health and well-being.",
+      "text": "It addresses not only the financial needs of pregnant women but also their health and well-being.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The initiative is expected to have a long-term positive impact on the health of mothers and children in the state.",
+      "text": "The initiative is expected to have a long-term positive impact on the health of mothers and children in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Mahtari Vandan Yojana is a crucial welfare scheme that provides essential support to pregnant women and lactating mothers in Chhattisgarh.",
+      "text": "In conclusion, the Mahtari Vandan Yojana is a crucial welfare scheme that provides essential support to pregnant women and lactating mothers in Chhattisgarh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "With its comprehensive approach and significant financial assistance, it aims to improve maternal and child health outcomes in the region.",
+      "text": "With its comprehensive approach and significant financial assistance, it aims to improve maternal and child health outcomes in the region.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a vital part of the government's efforts to promote health equity and ensure that every mother and child receives the care they deserve.",
+      "text": "The scheme is a vital part of the government's efforts to promote health equity and ensure that every mother and child receives the care they deserve.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Mahtari Vandan Yojana",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T17:09:42.959223",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 56,
+    "role_distribution": {
+      "ContextObjective": 23,
+      "BenefitsAssistance": 18,
+      "TimelineFrequency": 2,
+      "Eligibility": 6,
+      "ApplicationProcess": 5,
+      "AuthoritiesGovernance": 2
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "Mahtari Vandan Yojana is a welfare scheme launched by the Government of Chhattisgarh on 1st January 2022.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "This scheme aims to provide financial assistance to pregnant women and lactating mothers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This scheme aims to provide financial assistance to pregnant women and lactating mothers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The primary objective of the Mahtari Vandan Yojana is to improve maternal and child health in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective of the Mahtari Vandan Yojana is to improve maternal and child health in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "It seeks to reduce maternal and infant mortality rates by providing timely financial support.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It seeks to reduce maternal and infant mortality rates by providing timely financial support.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "The scheme also aims to promote institutional deliveries and ensure that mothers receive adequate nutrition during pregnancy and lactation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also aims to promote institutional deliveries and ensure that mothers receive adequate nutrition during pregnancy and lactation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "Under this scheme, eligible beneficiaries receive a financial assistance of ₹5,000.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Under this scheme, eligible beneficiaries receive a financial assistance of ₹5,000.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "This amount is disbursed in two installments.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This amount is disbursed in two installments.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "The first installment of ₹3,000 is provided during the seventh month of pregnancy.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The first installment of ₹3,000 is provided during the seventh month of pregnancy.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The second installment of ₹2,000 is given after the birth of the child.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The second installment of ₹2,000 is given after the birth of the child.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "The scheme targets pregnant women and lactating mothers who are residents of Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme targets pregnant women and lactating mothers who are residents of Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "To be eligible for this scheme, the applicant must be at least 18 years old.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "To be eligible for this scheme, the applicant must be at least 18 years old.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "There is no upper age limit specified for the beneficiaries.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "There is no upper age limit specified for the beneficiaries.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The income criteria for eligibility require that the family income should not exceed ₹2.5 lakh per annum.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The income criteria for eligibility require that the family income should not exceed ₹2.5 lakh per annum.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "The scheme is applicable to women who are pregnant for the first or second time.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is applicable to women who are pregnant for the first or second time.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "Women who have undergone sterilization are not eligible for this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Women who have undergone sterilization are not eligible for this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The application process for the Mahtari Vandan Yojana is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process for the Mahtari Vandan Yojana is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "Interested beneficiaries must visit the nearest Anganwadi center or the office of the Chief Medical and Health Officer.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested beneficiaries must visit the nearest Anganwadi center or the office of the Chief Medical and Health Officer.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "They need to fill out an application form available at these centers.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "They need to fill out an application form available at these centers.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "The application form requires personal details such as name, address, and contact information.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application form requires personal details such as name, address, and contact information.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Beneficiaries must also provide details regarding their pregnancy and expected delivery date.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Beneficiaries must also provide details regarding their pregnancy and expected delivery date.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "Documents required for the application include a copy of the Aadhar card.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Documents required for the application include a copy of the Aadhar card.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "A medical certificate confirming the pregnancy is also necessary.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "A medical certificate confirming the pregnancy is also necessary.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "Additionally, proof of income must be submitted to verify eligibility.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Additionally, proof of income must be submitted to verify eligibility.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "After verification, the financial assistance is disbursed directly to the bank account of the beneficiary.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "After verification, the financial assistance is disbursed directly to the bank account of the beneficiary.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The disbursement of funds is done through the Public Financial Management System.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The disbursement of funds is done through the Public Financial Management System.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "This ensures transparency and timely transfer of funds to the beneficiaries.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This ensures transparency and timely transfer of funds to the beneficiaries.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "The scheme is expected to benefit approximately 1.5 lakh women annually.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is expected to benefit approximately 1.5 lakh women annually.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "The government has allocated a budget of ₹150 crore for the implementation of this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has allocated a budget of ₹150 crore for the implementation of this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "The Mahtari Vandan Yojana is part of the broader initiative to improve maternal health in India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Mahtari Vandan Yojana is part of the broader initiative to improve maternal health in India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "It aligns with the National Health Mission's goals of reducing maternal and infant mortality rates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aligns with the National Health Mission's goals of reducing maternal and infant mortality rates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "The scheme also emphasizes the importance of nutrition during pregnancy and lactation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also emphasizes the importance of nutrition during pregnancy and lactation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "It encourages women to seek regular medical check-ups and follow a nutritious diet.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It encourages women to seek regular medical check-ups and follow a nutritious diet.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The implementation of this scheme is overseen by the Department of Women and Child Development, Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementation of this scheme is overseen by the Department of Women and Child Development, Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "This department is responsible for monitoring the progress and effectiveness of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This department is responsible for monitoring the progress and effectiveness of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The scheme has been well-received by the public since its launch.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has been well-received by the public since its launch.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "Many beneficiaries have reported improved access to healthcare services.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Many beneficiaries have reported improved access to healthcare services.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "The financial assistance has helped reduce the economic burden associated with pregnancy.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The financial assistance has helped reduce the economic burden associated with pregnancy.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "The scheme also promotes awareness about maternal health and nutrition.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also promotes awareness about maternal health and nutrition.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "Beneficiaries are encouraged to attend antenatal check-ups and immunization sessions for their children.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Beneficiaries are encouraged to attend antenatal check-ups and immunization sessions for their children.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "The Mahtari Vandan Yojana is a significant step towards achieving gender equity in healthcare.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Mahtari Vandan Yojana is a significant step towards achieving gender equity in healthcare.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "It empowers women by providing them with financial support during a critical phase of their lives.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It empowers women by providing them with financial support during a critical phase of their lives.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "The scheme also aims to create a supportive environment for mothers and their children.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also aims to create a supportive environment for mothers and their children.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "By ensuring that women have access to necessary resources, the scheme contributes to better health outcomes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "By ensuring that women have access to necessary resources, the scheme contributes to better health outcomes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "The government regularly reviews the progress of the Mahtari Vandan Yojana.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government regularly reviews the progress of the Mahtari Vandan Yojana.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "The scheme has also been integrated with other health initiatives in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has also been integrated with other health initiatives in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "This includes programs focused on child health and nutrition.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This includes programs focused on child health and nutrition.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The government is committed to enhancing the quality of maternal healthcare services.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government is committed to enhancing the quality of maternal healthcare services.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "The Mahtari Vandan Yojana is a testament to this commitment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Mahtari Vandan Yojana is a testament to this commitment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "Overall, the scheme represents a holistic approach to maternal and child health in Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Overall, the scheme represents a holistic approach to maternal and child health in Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "It addresses not only the financial needs of pregnant women but also their health and well-being.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It addresses not only the financial needs of pregnant women but also their health and well-being.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "The initiative is expected to have a long-term positive impact on the health of mothers and children in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The initiative is expected to have a long-term positive impact on the health of mothers and children in the state.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "In conclusion, the Mahtari Vandan Yojana is a crucial welfare scheme that provides essential support to pregnant women and lactating mothers in Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In conclusion, the Mahtari Vandan Yojana is a crucial welfare scheme that provides essential support to pregnant women and lactating mothers in Chhattisgarh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "With its comprehensive approach and significant financial assistance, it aims to improve maternal and child health outcomes in the region.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "With its comprehensive approach and significant financial assistance, it aims to improve maternal and child health outcomes in the region.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "The scheme is a vital part of the government's efforts to promote health equity and ensure that every mother and child receives the care they deserve.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "To be eligible for this scheme, the applicant must be at least 18 years old.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "The application process for the Mahtari Vandan Yojana is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 5,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested beneficiaries must visit the nearest Anganwadi center or the office of the Chief Medical and Health Officer.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "They need to fill out an application form available at these centers.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Beneficiaries must also provide details regarding their pregnancy and expected delivery date.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "A medical certificate confirming the pregnancy is also necessary.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 2,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Documents required for the application include a copy of the Aadhar card.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "A medical certificate confirming the pregnancy is also necessary.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Additionally, proof of income must be submitted to verify eligibility.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it is verified by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "After verification, the financial assistance is disbursed directly to the bank account of the beneficiary.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 1,
+      "edge_confidence_raw": 0.8
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 55,
+    "actual_precedes": 55,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

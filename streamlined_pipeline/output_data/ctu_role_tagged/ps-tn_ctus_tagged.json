@@ -1,0 +1,650 @@
+{
+  "scheme_name": "Payroll Subsidy",
+  "total_sentences": 63,
+  "ctus": [
+    {
+      "sentence": "The Payroll Subsidy Scheme was launched by the Government of India on 1st October 2020.",
+      "text": "The Payroll Subsidy Scheme was launched by the Government of India on 1st October 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was introduced as part of the Atmanirbhar Bharat package.",
+      "text": "This scheme was introduced as part of the Atmanirbhar Bharat package.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Payroll Subsidy Scheme is to incentivize employers to retain and hire employees during economic downturns.",
+      "text": "The primary objective of the Payroll Subsidy Scheme is to incentivize employers to retain and hire employees during economic downturns.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide financial support to businesses to help them recover from the impact of the COVID-19 pandemic.",
+      "text": "The scheme aims to provide financial support to businesses to help them recover from the impact of the COVID-19 pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a target to support approximately 1.5 crore employees through this initiative.",
+      "text": "The government has set a target to support approximately 1.5 crore employees through this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is designed to cover the wages of new employees as well as those who were already on the payroll before the pandemic.",
+      "text": "The Payroll Subsidy Scheme is designed to cover the wages of new employees as well as those who were already on the payroll before the pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, the government provides a subsidy of 24 percent of the wages for new employees.",
+      "text": "Under this scheme, the government provides a subsidy of 24 percent of the wages for new employees.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This subsidy is applicable for a period of two years from the date of hiring.",
+      "text": "This subsidy is applicable for a period of two years from the date of hiring.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For existing employees, the government provides a subsidy of 12 percent of the wages for a period of six months.",
+      "text": "For existing employees, the government provides a subsidy of 12 percent of the wages for a period of six months.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The maximum wage limit for subsidy eligibility is set at ₹15,000 per month.",
+      "text": "The maximum wage limit for subsidy eligibility is set at ₹15,000 per month.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This means that the maximum subsidy amount for new employees can reach up to ₹3,600 per month.",
+      "text": "This means that the maximum subsidy amount for new employees can reach up to ₹3,600 per month.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is aimed at businesses in the manufacturing and services sectors.",
+      "text": "The scheme is aimed at businesses in the manufacturing and services sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is particularly targeted at small and medium enterprises which have been severely affected by the pandemic.",
+      "text": "It is particularly targeted at small and medium enterprises which have been severely affected by the pandemic.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "To be eligible for the subsidy, businesses must have a valid registration under the Employees' Provident Fund Organization.",
+      "text": "To be eligible for the subsidy, businesses must have a valid registration under the Employees' Provident Fund Organization.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, the business must not have laid off employees during the pandemic.",
+      "text": "Additionally, the business must not have laid off employees during the pandemic.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The subsidy is available for employees who are between the ages of 18 and 25 years.",
+      "text": "The subsidy is available for employees who are between the ages of 18 and 25 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For employees above 25 years, the scheme is applicable only if they were previously unemployed for a period of at least three months.",
+      "text": "For employees above 25 years, the scheme is applicable only if they were previously unemployed for a period of at least three months.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Payroll Subsidy Scheme involves several steps.",
+      "text": "The application process for the Payroll Subsidy Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, the employer must register on the official government portal dedicated to the scheme.",
+      "text": "First, the employer must register on the official government portal dedicated to the scheme.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The employer must provide details such as the number of employees, their wages, and the duration of employment.",
+      "text": "The employer must provide details such as the number of employees, their wages, and the duration of employment.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include the employee's Aadhar card, bank account details, and proof of employment.",
+      "text": "Required documents include the employee's Aadhar card, bank account details, and proof of employment.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the designated authorities.",
+      "text": "Once the application is submitted, it will be reviewed by the designated authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of the subsidy is made directly to the employer's bank account.",
+      "text": "The disbursement of the subsidy is made directly to the employer's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The timeline for processing applications can vary but is generally completed within 30 days.",
+      "text": "The timeline for processing applications can vary but is generally completed within 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Employers are encouraged to apply as soon as possible to ensure they receive the subsidy in a timely manner.",
+      "text": "Employers are encouraged to apply as soon as possible to ensure they receive the subsidy in a timely manner.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is implemented by the Ministry of Labour and Employment.",
+      "text": "The Payroll Subsidy Scheme is implemented by the Ministry of Labour and Employment.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Employees' Provident Fund Organization is responsible for overseeing the subsidy distribution.",
+      "text": "The Employees' Provident Fund Organization is responsible for overseeing the subsidy distribution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Employers can contact the Ministry of Labour and Employment for any queries regarding the scheme.",
+      "text": "Employers can contact the Ministry of Labour and Employment for any queries regarding the scheme.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for the Ministry can be found on their official website.",
+      "text": "The contact details for the Ministry can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various industry stakeholders.",
+      "text": "The scheme has received positive feedback from various industry stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many businesses have reported an increase in hiring due to the financial support provided by the scheme.",
+      "text": "Many businesses have reported an increase in hiring due to the financial support provided by the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of March 2023, approximately 60 lakh employees have benefited from the Payroll Subsidy Scheme.",
+      "text": "As of March 2023, approximately 60 lakh employees have benefited from the Payroll Subsidy Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This indicates a significant uptake of the scheme among employers.",
+      "text": "This indicates a significant uptake of the scheme among employers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹22,810 crore for the implementation of this scheme.",
+      "text": "The government has allocated a budget of ₹22,810 crore for the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This financial commitment underscores the government's dedication to supporting employment during challenging economic times.",
+      "text": "This financial commitment underscores the government's dedication to supporting employment during challenging economic times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is part of a broader strategy to stimulate economic growth and job creation in India.",
+      "text": "The Payroll Subsidy Scheme is part of a broader strategy to stimulate economic growth and job creation in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to contribute to the recovery of the labor market in the post-pandemic era.",
+      "text": "The scheme is expected to contribute to the recovery of the labor market in the post-pandemic era.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is continuously monitoring the impact of the scheme on employment rates.",
+      "text": "The government is continuously monitoring the impact of the scheme on employment rates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to ensure that the objectives of the scheme are being met.",
+      "text": "Regular assessments are conducted to ensure that the objectives of the scheme are being met.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is also aligned with the government's vision of promoting formal employment in the country.",
+      "text": "The scheme is also aligned with the government's vision of promoting formal employment in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial incentives, the government aims to encourage businesses to formalize their workforce.",
+      "text": "By providing financial incentives, the government aims to encourage businesses to formalize their workforce.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is a crucial tool in the government's efforts to combat unemployment.",
+      "text": "The Payroll Subsidy Scheme is a crucial tool in the government's efforts to combat unemployment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is designed to support both employers and employees during a period of economic uncertainty.",
+      "text": "It is designed to support both employers and employees during a period of economic uncertainty.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been well-received by various sectors, including manufacturing, hospitality, and retail.",
+      "text": "The scheme has been well-received by various sectors, including manufacturing, hospitality, and retail.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Employers are encouraged to take advantage of the subsidy to reduce their wage bills.",
+      "text": "Employers are encouraged to take advantage of the subsidy to reduce their wage bills.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This can help businesses to stabilize their operations and focus on growth.",
+      "text": "This can help businesses to stabilize their operations and focus on growth.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is a testament to the government's commitment to protecting jobs.",
+      "text": "The Payroll Subsidy Scheme is a testament to the government's commitment to protecting jobs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects a proactive approach to addressing the challenges posed by the COVID-19 pandemic.",
+      "text": "It reflects a proactive approach to addressing the challenges posed by the COVID-19 pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is an example of how targeted financial support can make a difference in the labor market.",
+      "text": "The scheme is an example of how targeted financial support can make a difference in the labor market.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Employers are urged to stay informed about the latest updates regarding the scheme.",
+      "text": "Employers are urged to stay informed about the latest updates regarding the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This can help them to maximize the benefits available under the Payroll Subsidy Scheme.",
+      "text": "This can help them to maximize the benefits available under the Payroll Subsidy Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to promote awareness of the scheme through various channels.",
+      "text": "The government continues to promote awareness of the scheme through various channels.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes workshops, webinars, and informational campaigns aimed at employers.",
+      "text": "This includes workshops, webinars, and informational campaigns aimed at employers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme represents a significant investment in India's workforce.",
+      "text": "The Payroll Subsidy Scheme represents a significant investment in India's workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a more resilient economy by supporting employment during critical times.",
+      "text": "It aims to create a more resilient economy by supporting employment during critical times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to evolve based on feedback from stakeholders.",
+      "text": "The scheme is expected to evolve based on feedback from stakeholders.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This will ensure that it remains relevant and effective in meeting its objectives.",
+      "text": "This will ensure that it remains relevant and effective in meeting its objectives.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is a key component of India's broader employment strategy.",
+      "text": "The Payroll Subsidy Scheme is a key component of India's broader employment strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It highlights the importance of collaboration between the government and the private sector.",
+      "text": "It highlights the importance of collaboration between the government and the private sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By working together, they can create a more robust and sustainable labor market.",
+      "text": "By working together, they can create a more robust and sustainable labor market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a vital resource for employers looking to navigate the challenges of the post-pandemic economy.",
+      "text": "The scheme is a vital resource for employers looking to navigate the challenges of the post-pandemic economy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides a pathway for businesses to recover and thrive in a competitive environment.",
+      "text": "It provides a pathway for businesses to recover and thrive in a competitive environment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Payroll Subsidy",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Payroll Subsidy Scheme is a significant step towards achieving economic stability and growth in India.",
+      "text": "The Payroll Subsidy Scheme is a significant step towards achieving economic stability and growth in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Payroll Subsidy",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T14:55:36.234309",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 63,
+    "role_distribution": {
+      "ContextObjective": 34,
+      "BenefitsAssistance": 15,
+      "Eligibility": 5,
+      "ApplicationProcess": 3,
+      "TimelineFrequency": 2,
+      "AuthoritiesGovernance": 4
+    }
+  }
+}

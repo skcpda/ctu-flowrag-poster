@@ -1,0 +1,2413 @@
+{
+  "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+  "total_sentences": 72,
+  "ctus": [
+    {
+      "sentence": "HIMAYAT is a skill development initiative launched by the Government of India under the Deen Dayal Upadhyaya-Grameen Kaushalya Yojana.",
+      "text": "HIMAYAT is a skill development initiative launched by the Government of India under the Deen Dayal Upadhyaya-Grameen Kaushalya Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was launched in 2016.",
+      "text": "The scheme was launched in 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to enhance the employability of rural youth.",
+      "text": "It aims to enhance the employability of rural youth.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The primary objective is to provide skill training to 1 million rural youth by 2022.",
+      "text": "The primary objective is to provide skill training to 1 million rural youth by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The program focuses on youth aged between 15 and 35 years.",
+      "text": "The program focuses on youth aged between 15 and 35 years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It targets those who are from Below Poverty Line families.",
+      "text": "It targets those who are from Below Poverty Line families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme aims to bridge the skill gap in rural areas.",
+      "text": "The scheme aims to bridge the skill gap in rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also seeks to promote entrepreneurship among rural youth.",
+      "text": "It also seeks to promote entrepreneurship among rural youth.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The HIMAYAT scheme is implemented by the Ministry of Rural Development.",
+      "text": "The HIMAYAT scheme is implemented by the Ministry of Rural Development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The National Rural Livelihoods Mission oversees the execution of the program.",
+      "text": "The National Rural Livelihoods Mission oversees the execution of the program.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme provides financial assistance for skill training.",
+      "text": "The scheme provides financial assistance for skill training.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It offers a training cost of up to INR 15,000 per candidate.",
+      "text": "It offers a training cost of up to INR 15,000 per candidate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The training duration ranges from 3 to 12 months.",
+      "text": "The training duration ranges from 3 to 12 months.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The training is provided through various training partners.",
+      "text": "The training is provided through various training partners.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These partners include NGOs and private sector organizations.",
+      "text": "These partners include NGOs and private sector organizations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The training is aligned with the National Skill Qualification Framework.",
+      "text": "The training is aligned with the National Skill Qualification Framework.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Participants receive a monthly stipend of INR 2,000 during the training period.",
+      "text": "Participants receive a monthly stipend of INR 2,000 during the training period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Upon successful completion of the training, candidates receive a certificate.",
+      "text": "Upon successful completion of the training, candidates receive a certificate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The certification is recognized by the Ministry of Skill Development and Entrepreneurship.",
+      "text": "The certification is recognized by the Ministry of Skill Development and Entrepreneurship.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also provides placement support to trained candidates.",
+      "text": "The scheme also provides placement support to trained candidates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The placement support includes job fairs and linkages with employers.",
+      "text": "The placement support includes job fairs and linkages with employers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme emphasizes skill development in sectors like agriculture, construction, and hospitality.",
+      "text": "The scheme emphasizes skill development in sectors like agriculture, construction, and hospitality.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also focuses on sectors like retail, healthcare, and information technology.",
+      "text": "It also focuses on sectors like retail, healthcare, and information technology.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The HIMAYAT scheme has a special focus on women and marginalized communities.",
+      "text": "The HIMAYAT scheme has a special focus on women and marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "At least 30% of the beneficiaries are expected to be women.",
+      "text": "At least 30% of the beneficiaries are expected to be women.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme encourages self-employment through entrepreneurship development programs.",
+      "text": "The scheme encourages self-employment through entrepreneurship development programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for HIMAYAT is straightforward.",
+      "text": "The application process for HIMAYAT is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Candidates must approach the nearest training center or training partner.",
+      "text": "Candidates must approach the nearest training center or training partner.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to fill out an application form provided by the training partner.",
+      "text": "They need to fill out an application form provided by the training partner.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include proof of age, income certificate, and educational qualifications.",
+      "text": "Required documents include proof of age, income certificate, and educational qualifications.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Candidates must also provide a passport-sized photograph.",
+      "text": "Candidates must also provide a passport-sized photograph.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, the training partner verifies the details.",
+      "text": "Once the application is submitted, the training partner verifies the details.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Selected candidates are then informed about the training schedule.",
+      "text": "Selected candidates are then informed about the training schedule.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The training centers are located in various rural areas across India.",
+      "text": "The training centers are located in various rural areas across India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has been implemented in multiple states including Jammu and Kashmir, Himachal Pradesh, and Uttarakhand.",
+      "text": "The scheme has been implemented in multiple states including Jammu and Kashmir, Himachal Pradesh, and Uttarakhand.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The program has seen participation from over 200,000 youth since its inception.",
+      "text": "The program has seen participation from over 200,000 youth since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, the scheme has successfully trained over 100,000 candidates.",
+      "text": "As of 2023, the scheme has successfully trained over 100,000 candidates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The placement rate for trained candidates stands at approximately 60%.",
+      "text": "The placement rate for trained candidates stands at approximately 60%.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The HIMAYAT scheme also collaborates with local industries for job placements.",
+      "text": "The HIMAYAT scheme also collaborates with local industries for job placements.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This collaboration ensures that the training provided is relevant to the local job market.",
+      "text": "This collaboration ensures that the training provided is relevant to the local job market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries.",
+      "text": "The scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many beneficiaries have reported improved job opportunities.",
+      "text": "Many beneficiaries have reported improved job opportunities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government aims to expand the program to reach more rural youth.",
+      "text": "The government aims to expand the program to reach more rural youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The HIMAYAT scheme is part of a larger effort to enhance rural livelihoods.",
+      "text": "The HIMAYAT scheme is part of a larger effort to enhance rural livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aligns with the government's vision of a skilled India.",
+      "text": "It aligns with the government's vision of a skilled India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also contributes to the overall economic development of rural areas.",
+      "text": "The scheme also contributes to the overall economic development of rural areas.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial allocation for the scheme has been increasing each year.",
+      "text": "The financial allocation for the scheme has been increasing each year.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the financial year 2021-22, the government allocated INR 500 crore for skill development initiatives.",
+      "text": "In the financial year 2021-22, the government allocated INR 500 crore for skill development initiatives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The HIMAYAT scheme plays a crucial role in this allocation.",
+      "text": "The HIMAYAT scheme plays a crucial role in this allocation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also focuses on creating awareness about skill development.",
+      "text": "The scheme also focuses on creating awareness about skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Awareness campaigns are conducted in rural areas to attract youth.",
+      "text": "Awareness campaigns are conducted in rural areas to attract youth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These campaigns highlight the importance of skill training for employment.",
+      "text": "These campaigns highlight the importance of skill training for employment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme encourages partnerships with local self-governments.",
+      "text": "The scheme encourages partnerships with local self-governments.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This collaboration helps in identifying potential candidates for training.",
+      "text": "This collaboration helps in identifying potential candidates for training.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The HIMAYAT scheme also emphasizes the importance of soft skills.",
+      "text": "The HIMAYAT scheme also emphasizes the importance of soft skills.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Soft skills training is integrated into the skill development programs.",
+      "text": "Soft skills training is integrated into the skill development programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This training includes communication skills, teamwork, and problem-solving.",
+      "text": "This training includes communication skills, teamwork, and problem-solving.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has provisions for monitoring and evaluation.",
+      "text": "The scheme has provisions for monitoring and evaluation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to measure the impact of the training.",
+      "text": "Regular assessments are conducted to measure the impact of the training.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the training programs.",
+      "text": "Feedback from beneficiaries is collected to improve the training programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The HIMAYAT scheme has been recognized for its innovative approach.",
+      "text": "The HIMAYAT scheme has been recognized for its innovative approach.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has been featured in various national and international forums.",
+      "text": "It has been featured in various national and international forums.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The success stories of beneficiaries are often shared to inspire others.",
+      "text": "The success stories of beneficiaries are often shared to inspire others.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has the potential to transform the lives of rural youth.",
+      "text": "The scheme has the potential to transform the lives of rural youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing them with the necessary skills, it empowers them to secure better livelihoods.",
+      "text": "By providing them with the necessary skills, it empowers them to secure better livelihoods.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The HIMAYAT scheme is a significant step towards achieving sustainable rural development.",
+      "text": "The HIMAYAT scheme is a significant step towards achieving sustainable rural development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It addresses the challenges of unemployment and underemployment in rural areas.",
+      "text": "It addresses the challenges of unemployment and underemployment in rural areas.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government continues to monitor the progress of the scheme closely.",
+      "text": "The government continues to monitor the progress of the scheme closely.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 67,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future expansions of the scheme are planned based on the success of current initiatives.",
+      "text": "Future expansions of the scheme are planned based on the success of current initiatives.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 68,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The HIMAYAT scheme stands as a testament to the government's commitment to rural development.",
+      "text": "The HIMAYAT scheme stands as a testament to the government's commitment to rural development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 69,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a skilled workforce that can contribute to the nation's economy.",
+      "text": "It aims to create a skilled workforce that can contribute to the nation's economy.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 70,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Through this initiative, the government envisions a prosperous and self-reliant rural India.",
+      "text": "Through this initiative, the government envisions a prosperous and self-reliant rural India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 71,
+      "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T13:07:19.158918",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 72,
+    "role_distribution": {
+      "ContextObjective": 36,
+      "BenefitsAssistance": 23,
+      "AuthoritiesGovernance": 3,
+      "TimelineFrequency": 3,
+      "Eligibility": 4,
+      "ApplicationProcess": 3
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "HIMAYAT is a skill development initiative launched by the Government of India under the Deen Dayal Upadhyaya-Grameen Kaushalya Yojana.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "The scheme was launched in 2016.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme was launched in 2016.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "It aims to enhance the employability of rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aims to enhance the employability of rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The primary objective is to provide skill training to 1 million rural youth by 2022.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective is to provide skill training to 1 million rural youth by 2022.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "The program focuses on youth aged between 15 and 35 years.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The program focuses on youth aged between 15 and 35 years.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "It targets those who are from Below Poverty Line families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It targets those who are from Below Poverty Line families.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "The scheme aims to bridge the skill gap in rural areas.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme aims to bridge the skill gap in rural areas.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "It also seeks to promote entrepreneurship among rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It also seeks to promote entrepreneurship among rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme is implemented by the Ministry of Rural Development.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme is implemented by the Ministry of Rural Development.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "The National Rural Livelihoods Mission oversees the execution of the program.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The National Rural Livelihoods Mission oversees the execution of the program.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "The scheme provides financial assistance for skill training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme provides financial assistance for skill training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "It offers a training cost of up to INR 15,000 per candidate.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It offers a training cost of up to INR 15,000 per candidate.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The training duration ranges from 3 to 12 months.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The training duration ranges from 3 to 12 months.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "The training is provided through various training partners.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The training is provided through various training partners.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "These partners include NGOs and private sector organizations.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These partners include NGOs and private sector organizations.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The training is aligned with the National Skill Qualification Framework.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The training is aligned with the National Skill Qualification Framework.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "Participants receive a monthly stipend of INR 2,000 during the training period.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Participants receive a monthly stipend of INR 2,000 during the training period.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "Upon successful completion of the training, candidates receive a certificate.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Upon successful completion of the training, candidates receive a certificate.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "The certification is recognized by the Ministry of Skill Development and Entrepreneurship.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The certification is recognized by the Ministry of Skill Development and Entrepreneurship.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "The scheme also provides placement support to trained candidates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also provides placement support to trained candidates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "The placement support includes job fairs and linkages with employers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The placement support includes job fairs and linkages with employers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "The scheme emphasizes skill development in sectors like agriculture, construction, and hospitality.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme emphasizes skill development in sectors like agriculture, construction, and hospitality.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "It also focuses on sectors like retail, healthcare, and information technology.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It also focuses on sectors like retail, healthcare, and information technology.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme has a special focus on women and marginalized communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme has a special focus on women and marginalized communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "At least 30% of the beneficiaries are expected to be women.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "At least 30% of the beneficiaries are expected to be women.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The scheme encourages self-employment through entrepreneurship development programs.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme encourages self-employment through entrepreneurship development programs.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "The application process for HIMAYAT is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process for HIMAYAT is straightforward.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "Candidates must approach the nearest training center or training partner.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Candidates must approach the nearest training center or training partner.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "They need to fill out an application form provided by the training partner.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "They need to fill out an application form provided by the training partner.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "Required documents include proof of age, income certificate, and educational qualifications.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Required documents include proof of age, income certificate, and educational qualifications.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "Candidates must also provide a passport-sized photograph.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Candidates must also provide a passport-sized photograph.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, the training partner verifies the details.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, the training partner verifies the details.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "Selected candidates are then informed about the training schedule.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Selected candidates are then informed about the training schedule.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The training centers are located in various rural areas across India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The training centers are located in various rural areas across India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "The scheme has been implemented in multiple states including Jammu and Kashmir, Himachal Pradesh, and Uttarakhand.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has been implemented in multiple states including Jammu and Kashmir, Himachal Pradesh, and Uttarakhand.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The program has seen participation from over 200,000 youth since its inception.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The program has seen participation from over 200,000 youth since its inception.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "As of 2023, the scheme has successfully trained over 100,000 candidates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "As of 2023, the scheme has successfully trained over 100,000 candidates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "The placement rate for trained candidates stands at approximately 60%.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The placement rate for trained candidates stands at approximately 60%.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme also collaborates with local industries for job placements.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme also collaborates with local industries for job placements.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "This collaboration ensures that the training provided is relevant to the local job market.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This collaboration ensures that the training provided is relevant to the local job market.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "The scheme has received positive feedback from beneficiaries.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has received positive feedback from beneficiaries.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "Many beneficiaries have reported improved job opportunities.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Many beneficiaries have reported improved job opportunities.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "The government aims to expand the program to reach more rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government aims to expand the program to reach more rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme is part of a larger effort to enhance rural livelihoods.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme is part of a larger effort to enhance rural livelihoods.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "It aligns with the government's vision of a skilled India.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aligns with the government's vision of a skilled India.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "The scheme also contributes to the overall economic development of rural areas.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also contributes to the overall economic development of rural areas.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "The financial allocation for the scheme has been increasing each year.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The financial allocation for the scheme has been increasing each year.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "In the financial year 2021-22, the government allocated INR 500 crore for skill development initiatives.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In the financial year 2021-22, the government allocated INR 500 crore for skill development initiatives.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme plays a crucial role in this allocation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme plays a crucial role in this allocation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "The scheme also focuses on creating awareness about skill development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also focuses on creating awareness about skill development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "Awareness campaigns are conducted in rural areas to attract youth.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Awareness campaigns are conducted in rural areas to attract youth.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "These campaigns highlight the importance of skill training for employment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These campaigns highlight the importance of skill training for employment.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "The scheme encourages partnerships with local self-governments.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme encourages partnerships with local self-governments.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "This collaboration helps in identifying potential candidates for training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This collaboration helps in identifying potential candidates for training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme also emphasizes the importance of soft skills.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme also emphasizes the importance of soft skills.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "Soft skills training is integrated into the skill development programs.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Soft skills training is integrated into the skill development programs.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "This training includes communication skills, teamwork, and problem-solving.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This training includes communication skills, teamwork, and problem-solving.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "The scheme has provisions for monitoring and evaluation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has provisions for monitoring and evaluation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "Regular assessments are conducted to measure the impact of the training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Regular assessments are conducted to measure the impact of the training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "ctu2": {
+        "sentence": "Feedback from beneficiaries is collected to improve the training programs.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Feedback from beneficiaries is collected to improve the training programs.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme has been recognized for its innovative approach.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme has been recognized for its innovative approach.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "ctu2": {
+        "sentence": "It has been featured in various national and international forums.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has been featured in various national and international forums.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "ctu2": {
+        "sentence": "The success stories of beneficiaries are often shared to inspire others.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The success stories of beneficiaries are often shared to inspire others.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "ctu2": {
+        "sentence": "The scheme has the potential to transform the lives of rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has the potential to transform the lives of rural youth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "ctu2": {
+        "sentence": "By providing them with the necessary skills, it empowers them to secure better livelihoods.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 64
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "By providing them with the necessary skills, it empowers them to secure better livelihoods.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 64
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme is a significant step towards achieving sustainable rural development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 65
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme is a significant step towards achieving sustainable rural development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 65
+      },
+      "ctu2": {
+        "sentence": "It addresses the challenges of unemployment and underemployment in rural areas.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 66
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It addresses the challenges of unemployment and underemployment in rural areas.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 66
+      },
+      "ctu2": {
+        "sentence": "The government continues to monitor the progress of the scheme closely.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 67
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government continues to monitor the progress of the scheme closely.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 67
+      },
+      "ctu2": {
+        "sentence": "Future expansions of the scheme are planned based on the success of current initiatives.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 68
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Future expansions of the scheme are planned based on the success of current initiatives.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 68
+      },
+      "ctu2": {
+        "sentence": "The HIMAYAT scheme stands as a testament to the government's commitment to rural development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 69
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme stands as a testament to the government's commitment to rural development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 69
+      },
+      "ctu2": {
+        "sentence": "It aims to create a skilled workforce that can contribute to the nation's economy.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 70
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aims to create a skilled workforce that can contribute to the nation's economy.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 70
+      },
+      "ctu2": {
+        "sentence": "Through this initiative, the government envisions a prosperous and self-reliant rural India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 71
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Candidates must approach the nearest training center or training partner.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "They need to fill out an application form provided by the training partner.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Required documents include proof of age, income certificate, and educational qualifications.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, the training partner verifies the details.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 2,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Candidates must also provide a passport-sized photograph.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, the training partner verifies the details.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "It offers a training cost of up to INR 15,000 per candidate.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The training is provided through various training partners.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "CAP_LIMITS",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 2,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "The placement support includes job fairs and linkages with employers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "At least 30% of the beneficiaries are expected to be women.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "CAP_LIMITS",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 4,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "At least 30% of the beneficiaries are expected to be women.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The placement support includes job fairs and linkages with employers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "CAP_LIMITS",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 4,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "The HIMAYAT scheme is implemented by the Ministry of Rural Development.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "The scheme provides financial assistance for skill training.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 2,
+      "edge_confidence_raw": 0.7
+    },
+    {
+      "ctu1": {
+        "sentence": "The certification is recognized by the Ministry of Skill Development and Entrepreneurship.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "The placement support includes job fairs and linkages with employers.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 2,
+      "edge_confidence_raw": 0.7
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 71,
+    "actual_precedes": 71,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

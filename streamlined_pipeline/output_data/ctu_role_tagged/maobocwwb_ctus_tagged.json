@@ -1,0 +1,560 @@
+{
+  "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+  "total_sentences": 54,
+  "ctus": [
+    {
+      "sentence": "The Marriage Assistance Scheme under the Odisha Building and Other Construction Workers Welfare Board (O.B.O.C.W.W.B) was launched in the year 2008.",
+      "text": "The Marriage Assistance Scheme under the Odisha Building and Other Construction Workers Welfare Board (O.B.O.C.W.W.B) was launched in the year 2008.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to the daughters of construction workers in Odisha who are getting married.",
+      "text": "This scheme aims to provide financial assistance to the daughters of construction workers in Odisha who are getting married.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the scheme is to alleviate the financial burden on families of construction workers during the marriage of their daughters.",
+      "text": "The primary objective of the scheme is to alleviate the financial burden on families of construction workers during the marriage of their daughters.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets the daughters of registered construction workers who are members of the Odisha Building and Other Construction Workers Welfare Board.",
+      "text": "The scheme specifically targets the daughters of registered construction workers who are members of the Odisha Building and Other Construction Workers Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, a financial assistance of ₹50,000 is provided for the marriage of each daughter.",
+      "text": "Under this scheme, a financial assistance of ₹50,000 is provided for the marriage of each daughter.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance is aimed at ensuring that families do not face financial hardships during the marriage ceremony.",
+      "text": "The assistance is aimed at ensuring that families do not face financial hardships during the marriage ceremony.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to promote the welfare of construction workers and their families by providing them with necessary financial support.",
+      "text": "The scheme is designed to promote the welfare of construction workers and their families by providing them with necessary financial support.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for this scheme, the applicant must be a daughter of a registered construction worker.",
+      "text": "To be eligible for this scheme, the applicant must be a daughter of a registered construction worker.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The construction worker must be registered with the Odisha Building and Other Construction Workers Welfare Board.",
+      "text": "The construction worker must be registered with the Odisha Building and Other Construction Workers Welfare Board.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The applicant must be at least 18 years of age at the time of marriage.",
+      "text": "The applicant must be at least 18 years of age at the time of marriage.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There is no upper age limit specified for the applicant.",
+      "text": "There is no upper age limit specified for the applicant.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The income of the construction worker must not exceed ₹10,000 per month to qualify for the assistance.",
+      "text": "The income of the construction worker must not exceed ₹10,000 per month to qualify for the assistance.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Marriage Assistance Scheme involves several steps.",
+      "text": "The application process for the Marriage Assistance Scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, the applicant must obtain the application form from the local office of the Odisha Building and Other Construction Workers Welfare Board.",
+      "text": "First, the applicant must obtain the application form from the local office of the Odisha Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the board.",
+      "text": "The application form can also be downloaded from the official website of the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The applicant must fill in the required details in the application form.",
+      "text": "The applicant must fill in the required details in the application form.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The following documents are required to be submitted along with the application form.",
+      "text": "The following documents are required to be submitted along with the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "A copy of the marriage invitation card must be provided.",
+      "text": "A copy of the marriage invitation card must be provided.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "A copy of the construction worker's registration certificate is required.",
+      "text": "A copy of the construction worker's registration certificate is required.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Proof of age such as a birth certificate or school leaving certificate must be submitted.",
+      "text": "Proof of age such as a birth certificate or school leaving certificate must be submitted.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "A copy of the Aadhaar card of the applicant is also necessary.",
+      "text": "A copy of the Aadhaar card of the applicant is also necessary.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the application form is completed and the documents are gathered, the applicant must submit them to the local office of the Odisha Building and Other Construction Workers Welfare Board.",
+      "text": "Once the application form is completed and the documents are gathered, the applicant must submit them to the local office of the Odisha Building and Other Construction Workers Welfare Board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application will be reviewed by the officials of the board.",
+      "text": "The application will be reviewed by the officials of the board.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If the application is found to be in order, the financial assistance will be sanctioned.",
+      "text": "If the application is found to be in order, the financial assistance will be sanctioned.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance amount will be disbursed directly to the bank account of the applicant.",
+      "text": "The assistance amount will be disbursed directly to the bank account of the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of funds typically occurs within 30 days of the application being approved.",
+      "text": "The disbursement of funds typically occurs within 30 days of the application being approved.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Odisha Building and Other Construction Workers Welfare Board.",
+      "text": "The scheme is implemented by the Odisha Building and Other Construction Workers Welfare Board.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The board operates under the Department of Labour and Employees' State Insurance, Government of Odisha.",
+      "text": "The board operates under the Department of Labour and Employees' State Insurance, Government of Odisha.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for the Odisha Building and Other Construction Workers Welfare Board can be found on their official website.",
+      "text": "The contact details for the Odisha Building and Other Construction Workers Welfare Board can be found on their official website.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The board also provides additional welfare schemes for construction workers and their families.",
+      "text": "The board also provides additional welfare schemes for construction workers and their families.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Marriage Assistance Scheme is part of a broader initiative to improve the living conditions of construction workers in Odisha.",
+      "text": "The Marriage Assistance Scheme is part of a broader initiative to improve the living conditions of construction workers in Odisha.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Since its inception, the scheme has benefited thousands of families across the state.",
+      "text": "Since its inception, the scheme has benefited thousands of families across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated significant funds for the implementation of this scheme each year.",
+      "text": "The government has allocated significant funds for the implementation of this scheme each year.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the government allocated ₹50 crores for various welfare schemes under the Odisha Building and Other Construction Workers Welfare Board.",
+      "text": "In the financial year 2022-2023, the government allocated ₹50 crores for various welfare schemes under the Odisha Building and Other Construction Workers Welfare Board.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has seen an increase in the number of beneficiaries over the years.",
+      "text": "The scheme has seen an increase in the number of beneficiaries over the years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In 2021 alone, approximately 10,000 applications were received under the Marriage Assistance Scheme.",
+      "text": "In 2021 alone, approximately 10,000 applications were received under the Marriage Assistance Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been praised for its role in empowering women by providing them with financial support during a crucial life event.",
+      "text": "The scheme has been praised for its role in empowering women by providing them with financial support during a crucial life event.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance provided under this scheme is intended to reduce the incidence of child marriage by encouraging families to invest in their daughters' futures.",
+      "text": "The assistance provided under this scheme is intended to reduce the incidence of child marriage by encouraging families to invest in their daughters' futures.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The board regularly conducts awareness programs to inform construction workers about the benefits available under this scheme.",
+      "text": "The board regularly conducts awareness programs to inform construction workers about the benefits available under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Marriage Assistance Scheme is a vital part of the government's efforts to support the construction workforce in Odisha.",
+      "text": "The Marriage Assistance Scheme is a vital part of the government's efforts to support the construction workforce in Odisha.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aligns with the government's commitment to improving gender equality and women's empowerment.",
+      "text": "The scheme aligns with the government's commitment to improving gender equality and women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance helps families to conduct marriages in a dignified manner without incurring debts.",
+      "text": "The financial assistance helps families to conduct marriages in a dignified manner without incurring debts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is also a part of the larger framework of social security measures for workers in the unorganized sector.",
+      "text": "The scheme is also a part of the larger framework of social security measures for workers in the unorganized sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Odisha Building and Other Construction Workers Welfare Board has been proactive in updating the scheme to meet the needs of the beneficiaries.",
+      "text": "The Odisha Building and Other Construction Workers Welfare Board has been proactive in updating the scheme to meet the needs of the beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The board has also introduced online application facilities to streamline the process.",
+      "text": "The board has also introduced online application facilities to streamline the process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This digital initiative aims to make the application process more accessible and efficient for beneficiaries.",
+      "text": "This digital initiative aims to make the application process more accessible and efficient for beneficiaries.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Marriage Assistance Scheme is an example of targeted welfare policies aimed at specific demographics within the workforce.",
+      "text": "The Marriage Assistance Scheme is an example of targeted welfare policies aimed at specific demographics within the workforce.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has a significant impact on the social fabric of the community by promoting responsible marriage practices.",
+      "text": "The scheme has a significant impact on the social fabric of the community by promoting responsible marriage practices.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided can also be used for other related expenses such as pre-wedding ceremonies and celebrations.",
+      "text": "The financial assistance provided can also be used for other related expenses such as pre-wedding ceremonies and celebrations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been instrumental in reducing the financial stress associated with marriages in lower-income families.",
+      "text": "The scheme has been instrumental in reducing the financial stress associated with marriages in lower-income families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Odisha government continues to monitor and evaluate the effectiveness of the Marriage Assistance Scheme.",
+      "text": "The Odisha government continues to monitor and evaluate the effectiveness of the Marriage Assistance Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme and address any challenges faced during the application process.",
+      "text": "Feedback from beneficiaries is collected to improve the scheme and address any challenges faced during the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to the welfare of construction workers and their families.",
+      "text": "The scheme is a testament to the government's commitment to the welfare of construction workers and their families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Marriage Assistance Scheme under the Odisha Building and Other Construction Workers Welfare Board is a crucial initiative aimed at supporting the daughters of construction workers during their marriages.",
+      "text": "In conclusion, the Marriage Assistance Scheme under the Odisha Building and Other Construction Workers Welfare Board is a crucial initiative aimed at supporting the daughters of construction workers during their marriages.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T22:42:59.400908",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 54,
+    "role_distribution": {
+      "ContextObjective": 23,
+      "BenefitsAssistance": 10,
+      "Eligibility": 9,
+      "ApplicationProcess": 10,
+      "AuthoritiesGovernance": 1,
+      "DefinitionsReferences": 1
+    }
+  }
+}

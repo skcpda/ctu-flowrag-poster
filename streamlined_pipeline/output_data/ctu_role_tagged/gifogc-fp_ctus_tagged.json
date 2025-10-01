@@ -1,0 +1,630 @@
+{
+  "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+  "total_sentences": 61,
+  "ctus": [
+    {
+      "sentence": "The Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning is a welfare scheme initiated by the Government of India.",
+      "text": "The Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning is a welfare scheme initiated by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was launched in 2001 under the National Population Policy.",
+      "text": "This scheme was launched in 2001 under the National Population Policy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of this scheme is to encourage families to adopt family planning practices.",
+      "text": "The primary objective of this scheme is to encourage families to adopt family planning practices.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to promote the birth of girl children and to provide financial support to families who have one or two girl children.",
+      "text": "It aims to promote the birth of girl children and to provide financial support to families who have one or two girl children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets families that have undergone sterilization as a method of family planning.",
+      "text": "The scheme specifically targets families that have undergone sterilization as a method of family planning.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The incentive is designed to alleviate the financial burden on families with girl children.",
+      "text": "The incentive is designed to alleviate the financial burden on families with girl children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to improve the status of girls in society.",
+      "text": "The scheme also aims to improve the status of girls in society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to reduce the gender imbalance in the country.",
+      "text": "It seeks to reduce the gender imbalance in the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is structured to encourage families to have fewer children.",
+      "text": "The financial assistance provided under this scheme is structured to encourage families to have fewer children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Families with one girl child are eligible for an incentive of ₹10,000.",
+      "text": "Families with one girl child are eligible for an incentive of ₹10,000.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Families with two girl children can receive an incentive of ₹20,000.",
+      "text": "Families with two girl children can receive an incentive of ₹20,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The incentive is disbursed in two installments.",
+      "text": "The incentive is disbursed in two installments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The first installment is given at the time of the girl's birth.",
+      "text": "The first installment is given at the time of the girl's birth.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The second installment is provided when the girl child reaches the age of 18 years.",
+      "text": "The second installment is provided when the girl child reaches the age of 18 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the scheme, parents must have undergone sterilization.",
+      "text": "To be eligible for the scheme, parents must have undergone sterilization.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The sterilization must be performed after the birth of their first or second girl child.",
+      "text": "The sterilization must be performed after the birth of their first or second girl child.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Parents must also be residents of the state where they are applying for the scheme.",
+      "text": "Parents must also be residents of the state where they are applying for the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is applicable to families with an annual income of less than ₹2 lakh.",
+      "text": "The scheme is applicable to families with an annual income of less than ₹2 lakh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This income limit is set to ensure that the benefits reach economically weaker sections of society.",
+      "text": "This income limit is set to ensure that the benefits reach economically weaker sections of society.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the scheme involves several steps.",
+      "text": "The application process for the scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Parents must fill out an application form available at the local health department or online.",
+      "text": "Parents must fill out an application form available at the local health department or online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must provide proof of sterilization through a certificate issued by a registered medical practitioner.",
+      "text": "They must provide proof of sterilization through a certificate issued by a registered medical practitioner.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Birth certificates of the girl children must also be submitted.",
+      "text": "Birth certificates of the girl children must also be submitted.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, parents need to provide proof of income.",
+      "text": "Additionally, parents need to provide proof of income.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This can be in the form of income certificates issued by the local revenue authority.",
+      "text": "This can be in the form of income certificates issued by the local revenue authority.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the local health department.",
+      "text": "Once the application is completed, it must be submitted to the local health department.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application will be verified by officials to ensure all criteria are met.",
+      "text": "The application will be verified by officials to ensure all criteria are met.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the first installment will be disbursed shortly after the birth of the girl child.",
+      "text": "If approved, the first installment will be disbursed shortly after the birth of the girl child.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The second installment will be released upon verification of the girl child's age at 18 years.",
+      "text": "The second installment will be released upon verification of the girl child's age at 18 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Ministry of Health and Family Welfare.",
+      "text": "The scheme is implemented by the Ministry of Health and Family Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "State governments also play a crucial role in the execution of the scheme.",
+      "text": "State governments also play a crucial role in the execution of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They are responsible for the distribution of funds and ensuring compliance with the scheme's guidelines.",
+      "text": "They are responsible for the distribution of funds and ensuring compliance with the scheme's guidelines.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been instrumental in changing societal attitudes towards girl children.",
+      "text": "The scheme has been instrumental in changing societal attitudes towards girl children.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It encourages families to view daughters as assets rather than liabilities.",
+      "text": "It encourages families to view daughters as assets rather than liabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The financial incentive acts as a motivator for families to limit their number of children.",
+      "text": "The financial incentive acts as a motivator for families to limit their number of children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Since its inception, the scheme has seen participation from numerous families across India.",
+      "text": "Since its inception, the scheme has seen participation from numerous families across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has reported a significant increase in the number of families opting for sterilization.",
+      "text": "The government has reported a significant increase in the number of families opting for sterilization.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This indicates a positive trend towards family planning and gender equality.",
+      "text": "This indicates a positive trend towards family planning and gender equality.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also contributed to a gradual decline in the sex ratio imbalance in some states.",
+      "text": "The scheme has also contributed to a gradual decline in the sex ratio imbalance in some states.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, the government continues to promote this scheme through various awareness programs.",
+      "text": "As of 2023, the government continues to promote this scheme through various awareness programs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These programs aim to educate families about the benefits of having girl children.",
+      "text": "These programs aim to educate families about the benefits of having girl children.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They also highlight the importance of family planning in improving health and economic stability.",
+      "text": "They also highlight the importance of family planning in improving health and economic stability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries.",
+      "text": "The scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many families have expressed gratitude for the financial support provided.",
+      "text": "Many families have expressed gratitude for the financial support provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This support has helped them invest in the education and health of their daughters.",
+      "text": "This support has helped them invest in the education and health of their daughters.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has allocated a budget specifically for this scheme in the annual financial plan.",
+      "text": "The government has allocated a budget specifically for this scheme in the annual financial plan.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This ensures that funds are available for timely disbursement of incentives.",
+      "text": "This ensures that funds are available for timely disbursement of incentives.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to empower women in India.",
+      "text": "The scheme is part of a broader initiative to empower women in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aligns with the Sustainable Development Goals set by the United Nations.",
+      "text": "It aligns with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme emphasizes the importance of gender equality and women's rights.",
+      "text": "The scheme emphasizes the importance of gender equality and women's rights.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a society where girls are valued equally to boys.",
+      "text": "It aims to create a society where girls are valued equally to boys.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government regularly reviews the scheme to assess its impact and effectiveness.",
+      "text": "The government regularly reviews the scheme to assess its impact and effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account for future improvements.",
+      "text": "Feedback from beneficiaries is taken into account for future improvements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has been a crucial part of India's efforts to control population growth.",
+      "text": "The scheme has been a crucial part of India's efforts to control population growth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has also played a role in improving the overall health of mothers and children.",
+      "text": "It has also played a role in improving the overall health of mothers and children.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to women's empowerment.",
+      "text": "The scheme is a testament to the government's commitment to women's empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects a shift in policy towards more inclusive and supportive measures for families.",
+      "text": "It reflects a shift in policy towards more inclusive and supportive measures for families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning is a significant welfare initiative.",
+      "text": "In conclusion, the Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning is a significant welfare initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides financial support to families while promoting gender equality and responsible family planning.",
+      "text": "It provides financial support to families while promoting gender equality and responsible family planning.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has the potential to change societal norms and improve the status of girls in India.",
+      "text": "The scheme has the potential to change societal norms and improve the status of girls in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this initiative, the government aims to create a more equitable society for future generations.",
+      "text": "Through this initiative, the government aims to create a more equitable society for future generations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T17:41:54.388015",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 61,
+    "role_distribution": {
+      "ContextObjective": 27,
+      "BenefitsAssistance": 16,
+      "Eligibility": 10,
+      "TimelineFrequency": 4,
+      "ApplicationProcess": 2,
+      "AuthoritiesGovernance": 2
+    }
+  }
+}

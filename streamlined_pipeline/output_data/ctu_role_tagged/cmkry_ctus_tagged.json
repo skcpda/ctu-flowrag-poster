@@ -1,0 +1,570 @@
+{
+  "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+  "total_sentences": 55,
+  "ctus": [
+    {
+      "sentence": "The Chief Minister's Krishi Rinn Yojana is a significant welfare scheme launched by the Government of Maharashtra on October 2, 2018.",
+      "text": "The Chief Minister's Krishi Rinn Yojana is a significant welfare scheme launched by the Government of Maharashtra on October 2, 2018.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to farmers in Maharashtra to ensure their agricultural activities are sustainable and profitable.",
+      "text": "This scheme aims to provide financial assistance to farmers in Maharashtra to ensure their agricultural activities are sustainable and profitable.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the scheme is to offer easy access to credit for farmers, enabling them to invest in agricultural inputs and technologies.",
+      "text": "The primary objective of the scheme is to offer easy access to credit for farmers, enabling them to invest in agricultural inputs and technologies.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets small and marginal farmers who often face challenges in obtaining loans from traditional banking institutions.",
+      "text": "The scheme specifically targets small and marginal farmers who often face challenges in obtaining loans from traditional banking institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, the Maharashtra government aims to provide a total of ₹50,000 crore in loans to farmers over a period of five years.",
+      "text": "Under this scheme, the Maharashtra government aims to provide a total of ₹50,000 crore in loans to farmers over a period of five years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a measurable target to cover approximately 1.5 crore farmers under this initiative.",
+      "text": "The government has set a measurable target to cover approximately 1.5 crore farmers under this initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided under the scheme is structured to offer loans at a subsidized interest rate of 0 percent for the first year.",
+      "text": "The financial assistance provided under the scheme is structured to offer loans at a subsidized interest rate of 0 percent for the first year.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "After the first year, the interest rate will be set at 4 percent for the subsequent years.",
+      "text": "After the first year, the interest rate will be set at 4 percent for the subsequent years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers can avail themselves of loans ranging from ₹1 lakh to ₹3 lakh under this scheme.",
+      "text": "Farmers can avail themselves of loans ranging from ₹1 lakh to ₹3 lakh under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loans can be utilized for various agricultural purposes such as purchasing seeds, fertilizers, and equipment.",
+      "text": "The loans can be utilized for various agricultural purposes such as purchasing seeds, fertilizers, and equipment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, the scheme encourages farmers to adopt modern agricultural practices and technologies.",
+      "text": "Additionally, the scheme encourages farmers to adopt modern agricultural practices and technologies.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the Chief Minister's Krishi Rinn Yojana, applicants must be residents of Maharashtra.",
+      "text": "To be eligible for the Chief Minister's Krishi Rinn Yojana, applicants must be residents of Maharashtra.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme primarily targets small and marginal farmers with landholdings of up to 2 hectares.",
+      "text": "The scheme primarily targets small and marginal farmers with landholdings of up to 2 hectares.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers must have a valid land ownership document to qualify for the scheme.",
+      "text": "Farmers must have a valid land ownership document to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The annual income of the farmer should not exceed ₹1.5 lakh to be eligible for the benefits of this scheme.",
+      "text": "The annual income of the farmer should not exceed ₹1.5 lakh to be eligible for the benefits of this scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Chief Minister's Krishi Rinn Yojana is straightforward and designed to be farmer-friendly.",
+      "text": "The application process for the Chief Minister's Krishi Rinn Yojana is straightforward and designed to be farmer-friendly.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers need to visit their nearest bank branch that is part of the scheme to apply for the loan.",
+      "text": "Farmers need to visit their nearest bank branch that is part of the scheme to apply for the loan.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must submit the required documents including land ownership proof, identity proof, and income certificate.",
+      "text": "They must submit the required documents including land ownership proof, identity proof, and income certificate.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can be obtained from the bank or downloaded from the official website of the Maharashtra government.",
+      "text": "The application form can be obtained from the bank or downloaded from the official website of the Maharashtra government.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, the bank will process the loan application within a stipulated time frame.",
+      "text": "Once the application is submitted, the bank will process the loan application within a stipulated time frame.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of loans under the scheme is typically completed within 15 days of application approval.",
+      "text": "The disbursement of loans under the scheme is typically completed within 15 days of application approval.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers are encouraged to apply for the loans during the Kharif season which usually starts in June and ends in October.",
+      "text": "Farmers are encouraged to apply for the loans during the Kharif season which usually starts in June and ends in October.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Rabi season follows from November to March, and farmers can also apply during this period.",
+      "text": "The Rabi season follows from November to March, and farmers can also apply during this period.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Chief Minister's Krishi Rinn Yojana is the Department of Agriculture, Maharashtra.",
+      "text": "The implementing authority for the Chief Minister's Krishi Rinn Yojana is the Department of Agriculture, Maharashtra.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers can contact the Department of Agriculture for any inquiries or assistance related to the scheme.",
+      "text": "Farmers can contact the Department of Agriculture for any inquiries or assistance related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for the Department of Agriculture are available on the official Maharashtra government website.",
+      "text": "The contact details for the Department of Agriculture are available on the official Maharashtra government website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has been well-received by the farming community in Maharashtra, with many farmers reporting improved access to credit.",
+      "text": "The scheme has been well-received by the farming community in Maharashtra, with many farmers reporting improved access to credit.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, it is estimated that over 10 lakh farmers have benefited from the scheme since its inception.",
+      "text": "As of October 2023, it is estimated that over 10 lakh farmers have benefited from the scheme since its inception.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has also introduced a digital platform to facilitate the application process for farmers.",
+      "text": "The government has also introduced a digital platform to facilitate the application process for farmers.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This digital initiative aims to reduce paperwork and streamline the loan disbursement process.",
+      "text": "This digital initiative aims to reduce paperwork and streamline the loan disbursement process.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers can track their loan status online through the official portal.",
+      "text": "Farmers can track their loan status online through the official portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has also been linked with various agricultural extension services to provide farmers with necessary guidance.",
+      "text": "The scheme has also been linked with various agricultural extension services to provide farmers with necessary guidance.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Workshops and training sessions are organized to educate farmers about the effective utilization of loans.",
+      "text": "Workshops and training sessions are organized to educate farmers about the effective utilization of loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹10,000 crore for the financial year 2023-2024 to support this scheme.",
+      "text": "The government has allocated a budget of ₹10,000 crore for the financial year 2023-2024 to support this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to the loans, the scheme also provides insurance coverage for crops under the Pradhan Mantri Fasal Bima Yojana.",
+      "text": "In addition to the loans, the scheme also provides insurance coverage for crops under the Pradhan Mantri Fasal Bima Yojana.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This insurance aims to protect farmers from losses due to natural calamities and adverse weather conditions.",
+      "text": "This insurance aims to protect farmers from losses due to natural calamities and adverse weather conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Chief Minister's Krishi Rinn Yojana is part of a broader initiative by the Maharashtra government to enhance agricultural productivity.",
+      "text": "The Chief Minister's Krishi Rinn Yojana is part of a broader initiative by the Maharashtra government to enhance agricultural productivity.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aligns with the national goal of doubling farmers' income by 2022 as set by the Government of India.",
+      "text": "The scheme aligns with the national goal of doubling farmers' income by 2022 as set by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has also partnered with various banks and financial institutions to ensure the smooth implementation of the scheme.",
+      "text": "The government has also partnered with various banks and financial institutions to ensure the smooth implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These partnerships are crucial in providing timely loans to farmers and enhancing their financial literacy.",
+      "text": "These partnerships are crucial in providing timely loans to farmers and enhancing their financial literacy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has provisions for monitoring and evaluating its impact on the agricultural sector.",
+      "text": "The scheme has provisions for monitoring and evaluating its impact on the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to measure the effectiveness of the loans in improving farmers' livelihoods.",
+      "text": "Regular assessments are conducted to measure the effectiveness of the loans in improving farmers' livelihoods.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Feedback from farmers is collected to make necessary adjustments to the scheme.",
+      "text": "Feedback from farmers is collected to make necessary adjustments to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Chief Minister's Krishi Rinn Yojana is a vital step towards empowering farmers in Maharashtra.",
+      "text": "The Chief Minister's Krishi Rinn Yojana is a vital step towards empowering farmers in Maharashtra.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It addresses the financial challenges faced by the agricultural community and promotes sustainable farming practices.",
+      "text": "It addresses the financial challenges faced by the agricultural community and promotes sustainable farming practices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to reduce the dependency of farmers on informal money lenders.",
+      "text": "The scheme also aims to reduce the dependency of farmers on informal money lenders.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing affordable credit, the government hopes to improve the overall economic condition of farmers.",
+      "text": "By providing affordable credit, the government hopes to improve the overall economic condition of farmers.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Chief Minister's Krishi Rinn Yojana is a testament to the Maharashtra government's commitment to agricultural development.",
+      "text": "The Chief Minister's Krishi Rinn Yojana is a testament to the Maharashtra government's commitment to agricultural development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects a proactive approach to addressing the issues faced by farmers in the state.",
+      "text": "It reflects a proactive approach to addressing the issues faced by farmers in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to have a long-lasting impact on the agricultural landscape of Maharashtra.",
+      "text": "The scheme is expected to have a long-lasting impact on the agricultural landscape of Maharashtra.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Chief Minister's Krishi Rinn Yojana is a comprehensive initiative designed to uplift the farming community.",
+      "text": "Overall, the Chief Minister's Krishi Rinn Yojana is a comprehensive initiative designed to uplift the farming community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides essential financial support while promoting modern agricultural practices.",
+      "text": "It provides essential financial support while promoting modern agricultural practices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a crucial part of Maharashtra's strategy to enhance food security and rural development.",
+      "text": "The scheme is a crucial part of Maharashtra's strategy to enhance food security and rural development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of this scheme to improve their agricultural productivity and income.",
+      "text": "Farmers are encouraged to take advantage of this scheme to improve their agricultural productivity and income.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Chief Minister's Krishi Rinn Yojana stands as a model for other states to emulate in supporting their agricultural sectors.",
+      "text": "The Chief Minister's Krishi Rinn Yojana stands as a model for other states to emulate in supporting their agricultural sectors.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T19:31:59.727830",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 55,
+    "role_distribution": {
+      "ContextObjective": 28,
+      "BenefitsAssistance": 11,
+      "TimelineFrequency": 1,
+      "Eligibility": 5,
+      "ApplicationProcess": 7,
+      "AuthoritiesGovernance": 3
+    }
+  }
+}

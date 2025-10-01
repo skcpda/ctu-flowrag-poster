@@ -1,0 +1,629 @@
+{
+  "scheme_name": "Mahila Kisan Yojana",
+  "total_sentences": 61,
+  "ctus": [
+    {
+      "sentence": "The Mahila Kisan Yojana is a significant initiative launched by the Government of India to empower women in the agricultural sector.",
+      "text": "The Mahila Kisan Yojana is a significant initiative launched by the Government of India to empower women in the agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was officially launched in 2016 under the Ministry of Agriculture and Farmers' Welfare.",
+      "text": "This scheme was officially launched in 2016 under the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Mahila Kisan Yojana is to enhance the participation of women in agriculture.",
+      "text": "The primary objective of the Mahila Kisan Yojana is to enhance the participation of women in agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide women farmers with access to various resources and support systems.",
+      "text": "The scheme aims to provide women farmers with access to various resources and support systems.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The initiative focuses on improving the livelihoods of women engaged in farming activities.",
+      "text": "The initiative focuses on improving the livelihoods of women engaged in farming activities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to promote sustainable agricultural practices among women farmers.",
+      "text": "It seeks to promote sustainable agricultural practices among women farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mahila Kisan Yojana is designed to address the gender disparities in the agricultural sector.",
+      "text": "The Mahila Kisan Yojana is designed to address the gender disparities in the agricultural sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Women constitute about 33 percent of the agricultural workforce in India.",
+      "text": "Women constitute about 33 percent of the agricultural workforce in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "However, they often lack access to resources such as credit, land, and technology.",
+      "text": "However, they often lack access to resources such as credit, land, and technology.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme aims to bridge these gaps by providing targeted assistance to women farmers.",
+      "text": "The scheme aims to bridge these gaps by providing targeted assistance to women farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "One of the measurable targets of the Mahila Kisan Yojana is to increase women's income from agriculture by 30 percent within five years of implementation.",
+      "text": "One of the measurable targets of the Mahila Kisan Yojana is to increase women's income from agriculture by 30 percent within five years of implementation.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to provide training to at least 1 million women farmers by 2025.",
+      "text": "The scheme also aims to provide training to at least 1 million women farmers by 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Benefits under the Mahila Kisan Yojana include financial assistance for various agricultural activities.",
+      "text": "Benefits under the Mahila Kisan Yojana include financial assistance for various agricultural activities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women farmers can receive up to INR 50,000 as a one-time grant for starting agricultural enterprises.",
+      "text": "Women farmers can receive up to INR 50,000 as a one-time grant for starting agricultural enterprises.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also provides access to low-interest loans through cooperative banks and microfinance institutions.",
+      "text": "The scheme also provides access to low-interest loans through cooperative banks and microfinance institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women farmers are encouraged to form Self-Help Groups to facilitate access to credit and resources.",
+      "text": "Women farmers are encouraged to form Self-Help Groups to facilitate access to credit and resources.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mahila Kisan Yojana also includes training programs on sustainable agricultural practices.",
+      "text": "The Mahila Kisan Yojana also includes training programs on sustainable agricultural practices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These training programs cover topics such as organic farming, pest management, and soil health.",
+      "text": "These training programs cover topics such as organic farming, pest management, and soil health.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Women farmers are also provided with information on market linkages and value addition.",
+      "text": "Women farmers are also provided with information on market linkages and value addition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Eligibility criteria for the Mahila Kisan Yojana include being a woman engaged in agricultural activities.",
+      "text": "Eligibility criteria for the Mahila Kisan Yojana include being a woman engaged in agricultural activities.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must be at least 18 years old to qualify for the scheme.",
+      "text": "Applicants must be at least 18 years old to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There is no specific upper age limit for eligibility.",
+      "text": "There is no specific upper age limit for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The income criteria for the scheme stipulate that the annual income of the applicant should not exceed INR 1 lakh.",
+      "text": "The income criteria for the scheme stipulate that the annual income of the applicant should not exceed INR 1 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To apply for the Mahila Kisan Yojana, interested women must follow a specific application process.",
+      "text": "To apply for the Mahila Kisan Yojana, interested women must follow a specific application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The first step is to visit the official website of the Ministry of Agriculture and Farmers' Welfare.",
+      "text": "The first step is to visit the official website of the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants need to download the application form available on the website.",
+      "text": "Applicants need to download the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The completed application form must be submitted to the nearest Krishi Vigyan Kendra.",
+      "text": "The completed application form must be submitted to the nearest Krishi Vigyan Kendra.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Along with the application form, applicants must provide proof of identity and address.",
+      "text": "Along with the application form, applicants must provide proof of identity and address.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Documents required include Aadhar card, bank account details, and income certificate.",
+      "text": "Documents required include Aadhar card, bank account details, and income certificate.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "text": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The timeline for application processing is typically within 30 days of submission.",
+      "text": "The timeline for application processing is typically within 30 days of submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Disbursement of funds under the Mahila Kisan Yojana is done directly to the bank accounts of the beneficiaries.",
+      "text": "Disbursement of funds under the Mahila Kisan Yojana is done directly to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme operates on a continuous basis with no specific deadlines for application submission.",
+      "text": "The scheme operates on a continuous basis with no specific deadlines for application submission.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the Mahila Kisan Yojana is the Ministry of Agriculture and Farmers' Welfare.",
+      "text": "The implementing authority for the Mahila Kisan Yojana is the Ministry of Agriculture and Farmers' Welfare.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "State governments also play a crucial role in the implementation of the scheme.",
+      "text": "State governments also play a crucial role in the implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They are responsible for conducting training programs and facilitating access to resources.",
+      "text": "They are responsible for conducting training programs and facilitating access to resources.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is monitored at both the central and state levels to ensure effective implementation.",
+      "text": "The scheme is monitored at both the central and state levels to ensure effective implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact of the scheme on women's livelihoods.",
+      "text": "Regular assessments are conducted to evaluate the impact of the scheme on women's livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, the scheme has successfully reached over 500,000 women farmers across various states.",
+      "text": "As of 2023, the scheme has successfully reached over 500,000 women farmers across various states.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The initiative has contributed to an increase in agricultural productivity among women farmers.",
+      "text": "The initiative has contributed to an increase in agricultural productivity among women farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mahila Kisan Yojana has also facilitated the formation of over 50,000 Self-Help Groups.",
+      "text": "The Mahila Kisan Yojana has also facilitated the formation of over 50,000 Self-Help Groups.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These groups have empowered women to access credit and share resources effectively.",
+      "text": "These groups have empowered women to access credit and share resources effectively.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries regarding its impact on their livelihoods.",
+      "text": "The scheme has received positive feedback from beneficiaries regarding its impact on their livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women farmers have reported an increase in their income and improved access to markets.",
+      "text": "Women farmers have reported an increase in their income and improved access to markets.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mahila Kisan Yojana is part of a broader strategy to promote gender equality in agriculture.",
+      "text": "The Mahila Kisan Yojana is part of a broader strategy to promote gender equality in agriculture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It aligns with the Sustainable Development Goals set by the United Nations.",
+      "text": "It aligns with the Sustainable Development Goals set by the United Nations.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also complements other government initiatives aimed at rural development.",
+      "text": "The scheme also complements other government initiatives aimed at rural development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These include the Pradhan Mantri Kisan Samman Nidhi and the National Rural Livelihoods Mission.",
+      "text": "These include the Pradhan Mantri Kisan Samman Nidhi and the National Rural Livelihoods Mission.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mahila Kisan Yojana is a testament to the government's commitment to empowering women in agriculture.",
+      "text": "The Mahila Kisan Yojana is a testament to the government's commitment to empowering women in agriculture.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes the crucial role that women play in food security and rural development.",
+      "text": "It recognizes the crucial role that women play in food security and rural development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to continue evolving to meet the changing needs of women farmers.",
+      "text": "The scheme is expected to continue evolving to meet the changing needs of women farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future plans include expanding the scope of training programs and increasing financial assistance.",
+      "text": "Future plans include expanding the scope of training programs and increasing financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to increase the budget allocation for the Mahila Kisan Yojana in the upcoming fiscal year.",
+      "text": "The government aims to increase the budget allocation for the Mahila Kisan Yojana in the upcoming fiscal year.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This will ensure that more women farmers can benefit from the scheme.",
+      "text": "This will ensure that more women farmers can benefit from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Mahila Kisan Yojana is a vital initiative that addresses the unique challenges faced by women in agriculture.",
+      "text": "In conclusion, the Mahila Kisan Yojana is a vital initiative that addresses the unique challenges faced by women in agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides them with the necessary support to enhance their livelihoods and contribute to the agricultural sector.",
+      "text": "It provides them with the necessary support to enhance their livelihoods and contribute to the agricultural sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a step towards achieving gender equality and empowering women in rural India.",
+      "text": "The scheme is a step towards achieving gender equality and empowering women in rural India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women farmers are encouraged to take advantage of this scheme to improve their economic status.",
+      "text": "Women farmers are encouraged to take advantage of this scheme to improve their economic status.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mahila Kisan Yojana represents a significant effort by the Indian government to uplift women in the agricultural domain.",
+      "text": "The Mahila Kisan Yojana represents a significant effort by the Indian government to uplift women in the agricultural domain.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a comprehensive program that combines financial assistance with training and support.",
+      "text": "It is a comprehensive program that combines financial assistance with training and support.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this scheme, the government aims to create a more inclusive and equitable agricultural sector.",
+      "text": "Through this scheme, the government aims to create a more inclusive and equitable agricultural sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Mahila Kisan Yojana",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T15:39:37.198192",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 61,
+    "role_distribution": {
+      "ContextObjective": 23,
+      "AuthoritiesGovernance": 6,
+      "BenefitsAssistance": 18,
+      "Eligibility": 7,
+      "ApplicationProcess": 7
+    }
+  }
+}

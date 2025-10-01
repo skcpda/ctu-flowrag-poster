@@ -1,0 +1,2083 @@
+{
+  "scheme_name": "State Food Scheme (Yellow Ration Card)",
+  "total_sentences": 64,
+  "ctus": [
+    {
+      "sentence": "The State Food Scheme, commonly referred to as the Yellow Ration Card scheme, is an essential initiative launched by the Government of India to provide food security to the economically weaker sections of society.",
+      "text": "The State Food Scheme, commonly referred to as the Yellow Ration Card scheme, is an essential initiative launched by the Government of India to provide food security to the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was first introduced in the year 2000 under the National Food Security Act.",
+      "text": "The scheme was first introduced in the year 2000 under the National Food Security Act.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Yellow Ration Card scheme is to ensure that every citizen has access to sufficient food at affordable prices.",
+      "text": "The primary objective of the Yellow Ration Card scheme is to ensure that every citizen has access to sufficient food at affordable prices.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide subsidized food grains to low-income families.",
+      "text": "The scheme aims to provide subsidized food grains to low-income families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, beneficiaries are entitled to receive food grains at highly subsidized rates.",
+      "text": "Under this scheme, beneficiaries are entitled to receive food grains at highly subsidized rates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Yellow Ration Card holders can purchase food grains such as wheat and rice at a price of ₹2 per kilogram for wheat and ₹3 per kilogram for rice.",
+      "text": "The Yellow Ration Card holders can purchase food grains such as wheat and rice at a price of ₹2 per kilogram for wheat and ₹3 per kilogram for rice.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme targets families living below the poverty line.",
+      "text": "The scheme targets families living below the poverty line.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, approximately 800 million individuals are covered under the National Food Security Act.",
+      "text": "As of 2023, approximately 800 million individuals are covered under the National Food Security Act.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Yellow Ration Card specifically caters to the needs of the poorest households.",
+      "text": "The Yellow Ration Card specifically caters to the needs of the poorest households.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Eligibility for the Yellow Ration Card includes families with an annual income below ₹1 lakh.",
+      "text": "Eligibility for the Yellow Ration Card includes families with an annual income below ₹1 lakh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to support vulnerable groups including Scheduled Castes, Scheduled Tribes, and women-headed households.",
+      "text": "The scheme is designed to support vulnerable groups including Scheduled Castes, Scheduled Tribes, and women-headed households.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To apply for a Yellow Ration Card, applicants must visit the local food supply office or the designated government website.",
+      "text": "To apply for a Yellow Ration Card, applicants must visit the local food supply office or the designated government website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process requires the submission of specific documents including proof of identity, proof of residence, and income certificate.",
+      "text": "The application process requires the submission of specific documents including proof of identity, proof of residence, and income certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must fill out the prescribed application form available at the local food supply office.",
+      "text": "Applicants must fill out the prescribed application form available at the local food supply office.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+      "text": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The verification process typically takes about 30 days.",
+      "text": "The verification process typically takes about 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+      "text": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The card is usually delivered to the applicant's registered address.",
+      "text": "The card is usually delivered to the applicant's registered address.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Yellow Ration Card is valid for a period of five years.",
+      "text": "The Yellow Ration Card is valid for a period of five years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Renewal of the card is required after the expiry period.",
+      "text": "Renewal of the card is required after the expiry period.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also includes provisions for the inclusion of new members in the family.",
+      "text": "The scheme also includes provisions for the inclusion of new members in the family.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In such cases, the family must apply for an amendment to the existing card.",
+      "text": "In such cases, the family must apply for an amendment to the existing card.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The frequency of food grain distribution under the Yellow Ration Card scheme is monthly.",
+      "text": "The frequency of food grain distribution under the Yellow Ration Card scheme is monthly.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each eligible household can receive a specific quantity of food grains each month.",
+      "text": "Each eligible household can receive a specific quantity of food grains each month.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For example, a family of five can receive up to 25 kilograms of food grains monthly.",
+      "text": "For example, a family of five can receive up to 25 kilograms of food grains monthly.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding",
+      "role_updated": true
+    },
+    {
+      "sentence": "The distribution of food grains is managed through a network of fair price shops.",
+      "text": "The distribution of food grains is managed through a network of fair price shops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These shops are spread across rural and urban areas to ensure accessibility.",
+      "text": "These shops are spread across rural and urban areas to ensure accessibility.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementing authority for the Yellow Ration Card scheme is the Department of Food and Public Distribution.",
+      "text": "The implementing authority for the Yellow Ration Card scheme is the Department of Food and Public Distribution.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each state has its own food and civil supplies department to oversee the implementation.",
+      "text": "Each state has its own food and civil supplies department to oversee the implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is funded by the central government and state governments in a cost-sharing ratio.",
+      "text": "The scheme is funded by the central government and state governments in a cost-sharing ratio.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The central government bears 75 percent of the cost while the states bear 25 percent.",
+      "text": "The central government bears 75 percent of the cost while the states bear 25 percent.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+      "text": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is part of a broader strategy to eliminate hunger and malnutrition.",
+      "text": "The Yellow Ration Card scheme is part of a broader strategy to eliminate hunger and malnutrition.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to improve nutritional standards among the poor.",
+      "text": "The scheme also aims to improve nutritional standards among the poor.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to food grains, the scheme may also provide pulses and cooking oil in some states.",
+      "text": "In addition to food grains, the scheme may also provide pulses and cooking oil in some states.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Yellow Ration Card is distinguished from other ration cards by its color and specific eligibility criteria.",
+      "text": "The Yellow Ration Card is distinguished from other ration cards by its color and specific eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The card serves as an essential document for various government schemes and services.",
+      "text": "The card serves as an essential document for various government schemes and services.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is also used to access benefits under the Pradhan Mantri Garib Kalyan Anna Yojana.",
+      "text": "It is also used to access benefits under the Pradhan Mantri Garib Kalyan Anna Yojana.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This scheme was launched in March 2020 in response to the COVID-19 pandemic.",
+      "text": "This scheme was launched in March 2020 in response to the COVID-19 pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under the Pradhan Mantri Garib Kalyan Anna Yojana, additional food grains were provided to existing ration card holders.",
+      "text": "Under the Pradhan Mantri Garib Kalyan Anna Yojana, additional food grains were provided to existing ration card holders.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Each beneficiary received an additional 5 kilograms of food grains per month free of cost.",
+      "text": "Each beneficiary received an additional 5 kilograms of food grains per month free of cost.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme has played a crucial role in alleviating food insecurity.",
+      "text": "The Yellow Ration Card scheme has played a crucial role in alleviating food insecurity.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has significantly contributed to reducing hunger levels in the country.",
+      "text": "It has significantly contributed to reducing hunger levels in the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also been instrumental in improving the overall health of low-income families.",
+      "text": "The scheme has also been instrumental in improving the overall health of low-income families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Monitoring and evaluation of the scheme are conducted regularly to ensure transparency and accountability.",
+      "text": "Monitoring and evaluation of the scheme are conducted regularly to ensure transparency and accountability.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has also introduced digital initiatives to streamline the application process.",
+      "text": "The government has also introduced digital initiatives to streamline the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Beneficiaries can check their ration card status online through the official government portal.",
+      "text": "Beneficiaries can check their ration card status online through the official government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is a vital component of India's social safety net.",
+      "text": "The Yellow Ration Card scheme is a vital component of India's social safety net.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to ensuring food security for all citizens.",
+      "text": "It reflects the government's commitment to ensuring food security for all citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also promotes the use of technology in public distribution systems.",
+      "text": "The scheme also promotes the use of technology in public distribution systems.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In recent years, the government has focused on eliminating ghost beneficiaries from the system.",
+      "text": "In recent years, the government has focused on eliminating ghost beneficiaries from the system.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This has been achieved through biometric authentication and digital verification processes.",
+      "text": "This has been achieved through biometric authentication and digital verification processes.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is an example of a targeted approach to welfare.",
+      "text": "The Yellow Ration Card scheme is an example of a targeted approach to welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It addresses the specific needs of the poorest segments of society.",
+      "text": "It addresses the specific needs of the poorest segments of society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from beneficiaries for its affordability and accessibility.",
+      "text": "The scheme has received positive feedback from beneficiaries for its affordability and accessibility.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to work towards expanding the reach of the Yellow Ration Card scheme.",
+      "text": "The government continues to work towards expanding the reach of the Yellow Ration Card scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Efforts are being made to include more families under the scheme.",
+      "text": "Efforts are being made to include more families under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Yellow Ration Card scheme is a testament to the government's efforts in combating poverty.",
+      "text": "The Yellow Ration Card scheme is a testament to the government's efforts in combating poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It plays a crucial role in ensuring that no one goes hungry in India.",
+      "text": "It plays a crucial role in ensuring that no one goes hungry in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is expected to evolve with changing socio-economic conditions.",
+      "text": "The scheme is expected to evolve with changing socio-economic conditions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to enhance the efficiency of the public distribution system.",
+      "text": "The government aims to enhance the efficiency of the public distribution system.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Yellow Ration Card scheme is a significant welfare initiative in India.",
+      "text": "Overall, the Yellow Ration Card scheme is a significant welfare initiative in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It embodies the principles of equity and social justice.",
+      "text": "It embodies the principles of equity and social justice.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has the potential to uplift millions of families from the clutches of hunger and poverty.",
+      "text": "The scheme has the potential to uplift millions of families from the clutches of hunger and poverty.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "State Food Scheme (Yellow Ration Card)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T18:15:04.000325",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 64,
+    "role_distribution": {
+      "ContextObjective": 30,
+      "BenefitsAssistance": 12,
+      "Eligibility": 5,
+      "ApplicationProcess": 9,
+      "TimelineFrequency": 2,
+      "AuthoritiesGovernance": 6
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "The State Food Scheme, commonly referred to as the Yellow Ration Card scheme, is an essential initiative launched by the Government of India to provide food security to the economically weaker sections of society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "The scheme was first introduced in the year 2000 under the National Food Security Act.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme was first introduced in the year 2000 under the National Food Security Act.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The primary objective of the Yellow Ration Card scheme is to ensure that every citizen has access to sufficient food at affordable prices.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective of the Yellow Ration Card scheme is to ensure that every citizen has access to sufficient food at affordable prices.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The scheme aims to provide subsidized food grains to low-income families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme aims to provide subsidized food grains to low-income families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "Under this scheme, beneficiaries are entitled to receive food grains at highly subsidized rates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Under this scheme, beneficiaries are entitled to receive food grains at highly subsidized rates.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card holders can purchase food grains such as wheat and rice at a price of ₹2 per kilogram for wheat and ₹3 per kilogram for rice.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card holders can purchase food grains such as wheat and rice at a price of ₹2 per kilogram for wheat and ₹3 per kilogram for rice.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "The scheme targets families living below the poverty line.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme targets families living below the poverty line.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "As of 2023, approximately 800 million individuals are covered under the National Food Security Act.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "As of 2023, approximately 800 million individuals are covered under the National Food Security Act.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card specifically caters to the needs of the poorest households.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card specifically caters to the needs of the poorest households.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "Eligibility for the Yellow Ration Card includes families with an annual income below ₹1 lakh.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Eligibility for the Yellow Ration Card includes families with an annual income below ₹1 lakh.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "The scheme is designed to support vulnerable groups including Scheduled Castes, Scheduled Tribes, and women-headed households.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is designed to support vulnerable groups including Scheduled Castes, Scheduled Tribes, and women-headed households.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "To apply for a Yellow Ration Card, applicants must visit the local food supply office or the designated government website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "To apply for a Yellow Ration Card, applicants must visit the local food supply office or the designated government website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The application process requires the submission of specific documents including proof of identity, proof of residence, and income certificate.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process requires the submission of specific documents including proof of identity, proof of residence, and income certificate.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "Applicants must fill out the prescribed application form available at the local food supply office.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must fill out the prescribed application form available at the local food supply office.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The verification process typically takes about 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The verification process typically takes about 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "The card is usually delivered to the applicant's registered address.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The card is usually delivered to the applicant's registered address.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card is valid for a period of five years.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card is valid for a period of five years.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Renewal of the card is required after the expiry period.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Renewal of the card is required after the expiry period.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "The scheme also includes provisions for the inclusion of new members in the family.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also includes provisions for the inclusion of new members in the family.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "In such cases, the family must apply for an amendment to the existing card.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In such cases, the family must apply for an amendment to the existing card.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "The frequency of food grain distribution under the Yellow Ration Card scheme is monthly.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The frequency of food grain distribution under the Yellow Ration Card scheme is monthly.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "Each eligible household can receive a specific quantity of food grains each month.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Each eligible household can receive a specific quantity of food grains each month.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "For example, a family of five can receive up to 25 kilograms of food grains monthly.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "For example, a family of five can receive up to 25 kilograms of food grains monthly.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The distribution of food grains is managed through a network of fair price shops.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The distribution of food grains is managed through a network of fair price shops.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "These shops are spread across rural and urban areas to ensure accessibility.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These shops are spread across rural and urban areas to ensure accessibility.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "The implementing authority for the Yellow Ration Card scheme is the Department of Food and Public Distribution.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the Yellow Ration Card scheme is the Department of Food and Public Distribution.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "Each state has its own food and civil supplies department to oversee the implementation.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Each state has its own food and civil supplies department to oversee the implementation.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "The scheme is funded by the central government and state governments in a cost-sharing ratio.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is funded by the central government and state governments in a cost-sharing ratio.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "The central government bears 75 percent of the cost while the states bear 25 percent.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The central government bears 75 percent of the cost while the states bear 25 percent.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card scheme is part of a broader strategy to eliminate hunger and malnutrition.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card scheme is part of a broader strategy to eliminate hunger and malnutrition.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The scheme also aims to improve nutritional standards among the poor.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also aims to improve nutritional standards among the poor.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "In addition to food grains, the scheme may also provide pulses and cooking oil in some states.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In addition to food grains, the scheme may also provide pulses and cooking oil in some states.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card is distinguished from other ration cards by its color and specific eligibility criteria.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card is distinguished from other ration cards by its color and specific eligibility criteria.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "The card serves as an essential document for various government schemes and services.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The card serves as an essential document for various government schemes and services.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "It is also used to access benefits under the Pradhan Mantri Garib Kalyan Anna Yojana.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It is also used to access benefits under the Pradhan Mantri Garib Kalyan Anna Yojana.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "This scheme was launched in March 2020 in response to the COVID-19 pandemic.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This scheme was launched in March 2020 in response to the COVID-19 pandemic.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "Under the Pradhan Mantri Garib Kalyan Anna Yojana, additional food grains were provided to existing ration card holders.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Under the Pradhan Mantri Garib Kalyan Anna Yojana, additional food grains were provided to existing ration card holders.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "Each beneficiary received an additional 5 kilograms of food grains per month free of cost.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Each beneficiary received an additional 5 kilograms of food grains per month free of cost.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card scheme has played a crucial role in alleviating food insecurity.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card scheme has played a crucial role in alleviating food insecurity.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "It has significantly contributed to reducing hunger levels in the country.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has significantly contributed to reducing hunger levels in the country.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "The scheme has also been instrumental in improving the overall health of low-income families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has also been instrumental in improving the overall health of low-income families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "Monitoring and evaluation of the scheme are conducted regularly to ensure transparency and accountability.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Monitoring and evaluation of the scheme are conducted regularly to ensure transparency and accountability.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "The government has also introduced digital initiatives to streamline the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has also introduced digital initiatives to streamline the application process.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "Beneficiaries can check their ration card status online through the official government portal.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Beneficiaries can check their ration card status online through the official government portal.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card scheme is a vital component of India's social safety net.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card scheme is a vital component of India's social safety net.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "It reflects the government's commitment to ensuring food security for all citizens.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It reflects the government's commitment to ensuring food security for all citizens.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "The scheme also promotes the use of technology in public distribution systems.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also promotes the use of technology in public distribution systems.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "In recent years, the government has focused on eliminating ghost beneficiaries from the system.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In recent years, the government has focused on eliminating ghost beneficiaries from the system.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "This has been achieved through biometric authentication and digital verification processes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This has been achieved through biometric authentication and digital verification processes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card scheme is an example of a targeted approach to welfare.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card scheme is an example of a targeted approach to welfare.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "It addresses the specific needs of the poorest segments of society.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It addresses the specific needs of the poorest segments of society.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "The scheme has received positive feedback from beneficiaries for its affordability and accessibility.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has received positive feedback from beneficiaries for its affordability and accessibility.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "The government continues to work towards expanding the reach of the Yellow Ration Card scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government continues to work towards expanding the reach of the Yellow Ration Card scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "Efforts are being made to include more families under the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Efforts are being made to include more families under the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "The Yellow Ration Card scheme is a testament to the government's efforts in combating poverty.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Yellow Ration Card scheme is a testament to the government's efforts in combating poverty.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "It plays a crucial role in ensuring that no one goes hungry in India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It plays a crucial role in ensuring that no one goes hungry in India.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "ctu2": {
+        "sentence": "The scheme is expected to evolve with changing socio-economic conditions.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is expected to evolve with changing socio-economic conditions.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "ctu2": {
+        "sentence": "The government aims to enhance the efficiency of the public distribution system.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government aims to enhance the efficiency of the public distribution system.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "ctu2": {
+        "sentence": "Overall, the Yellow Ration Card scheme is a significant welfare initiative in India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Overall, the Yellow Ration Card scheme is a significant welfare initiative in India.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "ctu2": {
+        "sentence": "It embodies the principles of equity and social justice.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It embodies the principles of equity and social justice.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "ctu2": {
+        "sentence": "The scheme has the potential to uplift millions of families from the clutches of hunger and poverty.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it undergoes verification by the concerned authorities.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 2,
+      "edge_confidence_raw": 0.8
+    },
+    {
+      "ctu1": {
+        "sentence": "The verification process typically takes about 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "Upon successful verification, the Yellow Ration Card is issued to the applicant.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 1,
+      "edge_confidence_raw": 0.8
+    },
+    {
+      "ctu1": {
+        "sentence": "The implementing authority for the Yellow Ration Card scheme is the Department of Food and Public Distribution.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 4,
+      "edge_confidence_raw": 0.7
+    },
+    {
+      "ctu1": {
+        "sentence": "Each state has its own food and civil supplies department to oversee the implementation.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "In 2023, the total allocation for food subsidies under the National Food Security Act was approximately ₹2.5 lakh crore.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 3,
+      "edge_confidence_raw": 0.7
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 63,
+    "actual_precedes": 63,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

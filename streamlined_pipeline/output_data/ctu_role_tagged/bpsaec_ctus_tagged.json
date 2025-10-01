@@ -1,0 +1,640 @@
+{
+  "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+  "total_sentences": 62,
+  "ctus": [
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching is a prestigious initiative launched by the Government of Odisha.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching is a prestigious initiative launched by the Government of Odisha.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was introduced in the year 2010.",
+      "text": "The scheme was introduced in the year 2010.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is named after Biju Patnaik, a prominent leader and former Chief Minister of Odisha.",
+      "text": "It is named after Biju Patnaik, a prominent leader and former Chief Minister of Odisha.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The primary objective of this award is to recognize and honor the contributions of coaches in the field of sports.",
+      "text": "The primary objective of this award is to recognize and honor the contributions of coaches in the field of sports.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The award aims to encourage and motivate coaches to enhance their coaching skills and contribute to the development of sports in Odisha.",
+      "text": "The award aims to encourage and motivate coaches to enhance their coaching skills and contribute to the development of sports in Odisha.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme specifically targets coaches who have demonstrated excellence in training athletes.",
+      "text": "The scheme specifically targets coaches who have demonstrated excellence in training athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to promote sports culture and improve the performance of athletes at national and international levels.",
+      "text": "It seeks to promote sports culture and improve the performance of athletes at national and international levels.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award is presented annually.",
+      "text": "The award is presented annually.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The award includes a cash prize of INR 1,00,000.",
+      "text": "The award includes a cash prize of INR 1,00,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In addition to the cash prize, the awardee receives a citation and a trophy.",
+      "text": "In addition to the cash prize, the awardee receives a citation and a trophy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award is conferred upon coaches who have made significant contributions to sports coaching in Odisha.",
+      "text": "The award is conferred upon coaches who have made significant contributions to sports coaching in Odisha.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "To be eligible for the Biju Patnaik Sports Award for Excellence in Coaching, candidates must meet specific criteria.",
+      "text": "To be eligible for the Biju Patnaik Sports Award for Excellence in Coaching, candidates must meet specific criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Coaches must have a minimum of 10 years of coaching experience.",
+      "text": "Coaches must have a minimum of 10 years of coaching experience.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They should have coached athletes who have achieved success at national or international competitions.",
+      "text": "They should have coached athletes who have achieved success at national or international competitions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award is open to coaches from all sports disciplines recognized by the Government of India.",
+      "text": "The award is open to coaches from all sports disciplines recognized by the Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Candidates must be Indian citizens and residents of Odisha.",
+      "text": "Candidates must be Indian citizens and residents of Odisha.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the award involves several steps.",
+      "text": "The application process for the award involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested candidates must submit their applications to the Department of Sports and Youth Services, Government of Odisha.",
+      "text": "Interested candidates must submit their applications to the Department of Sports and Youth Services, Government of Odisha.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can be obtained from the official website of the Department of Sports and Youth Services.",
+      "text": "The application form can be obtained from the official website of the Department of Sports and Youth Services.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants are required to provide detailed information about their coaching experience and achievements.",
+      "text": "Applicants are required to provide detailed information about their coaching experience and achievements.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must also submit supporting documents that validate their coaching credentials.",
+      "text": "They must also submit supporting documents that validate their coaching credentials.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These documents may include certificates of coaching, records of athletes coached, and details of competitions participated in.",
+      "text": "These documents may include certificates of coaching, records of athletes coached, and details of competitions participated in.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the applications are received, they are reviewed by a selection committee.",
+      "text": "Once the applications are received, they are reviewed by a selection committee.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The selection committee comprises experts in the field of sports and coaching.",
+      "text": "The selection committee comprises experts in the field of sports and coaching.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The committee evaluates the applications based on the candidates' coaching experience and the success of their athletes.",
+      "text": "The committee evaluates the applications based on the candidates' coaching experience and the success of their athletes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The final decision is made by the Department of Sports and Youth Services.",
+      "text": "The final decision is made by the Department of Sports and Youth Services.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The award ceremony is typically held on National Sports Day, which is celebrated on August 29 each year.",
+      "text": "The award ceremony is typically held on National Sports Day, which is celebrated on August 29 each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This date commemorates the birth anniversary of hockey legend Major Dhyan Chand.",
+      "text": "This date commemorates the birth anniversary of hockey legend Major Dhyan Chand.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award not only recognizes individual coaches but also promotes the importance of coaching in sports development.",
+      "text": "The award not only recognizes individual coaches but also promotes the importance of coaching in sports development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching is part of a broader initiative by the Government of Odisha to enhance sports infrastructure and promote sports talent.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching is part of a broader initiative by the Government of Odisha to enhance sports infrastructure and promote sports talent.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The state government has invested significantly in sports facilities and training programs.",
+      "text": "The state government has invested significantly in sports facilities and training programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In recent years, Odisha has hosted several national and international sporting events.",
+      "text": "In recent years, Odisha has hosted several national and international sporting events.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These events have provided a platform for athletes to showcase their talent.",
+      "text": "These events have provided a platform for athletes to showcase their talent.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has also introduced various other sports awards to encourage athletes and support sports development.",
+      "text": "The government has also introduced various other sports awards to encourage athletes and support sports development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching is one of the key awards that highlight the importance of coaching in achieving sporting excellence.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching is one of the key awards that highlight the importance of coaching in achieving sporting excellence.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award has gained recognition and respect among the coaching community in Odisha.",
+      "text": "The award has gained recognition and respect among the coaching community in Odisha.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It serves as a motivation for coaches to strive for excellence in their profession.",
+      "text": "It serves as a motivation for coaches to strive for excellence in their profession.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award also emphasizes the role of coaches in nurturing young talent and preparing them for competitive sports.",
+      "text": "The award also emphasizes the role of coaches in nurturing young talent and preparing them for competitive sports.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government of Odisha continues to promote sports as a vital component of youth development.",
+      "text": "The Government of Odisha continues to promote sports as a vital component of youth development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes that quality coaching is essential for the growth of sports in the state.",
+      "text": "It recognizes that quality coaching is essential for the growth of sports in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching aligns with the government's vision to create a robust sports ecosystem.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching aligns with the government's vision to create a robust sports ecosystem.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The award has seen numerous recipients who have made significant impacts in their respective sports.",
+      "text": "The award has seen numerous recipients who have made significant impacts in their respective sports.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Each year, the award highlights the achievements of coaches who have dedicated their lives to sports.",
+      "text": "Each year, the award highlights the achievements of coaches who have dedicated their lives to sports.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The award not only honors the individuals but also inspires future generations of coaches.",
+      "text": "The award not only honors the individuals but also inspires future generations of coaches.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It reinforces the belief that effective coaching can lead to outstanding athletic performance.",
+      "text": "It reinforces the belief that effective coaching can lead to outstanding athletic performance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award contributes to the overall sports culture in Odisha.",
+      "text": "The award contributes to the overall sports culture in Odisha.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It encourages collaboration between coaches, athletes, and sports organizations.",
+      "text": "It encourages collaboration between coaches, athletes, and sports organizations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The recognition provided by the award helps coaches gain visibility and credibility in the sports community.",
+      "text": "The recognition provided by the award helps coaches gain visibility and credibility in the sports community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching is a testament to the commitment of the Government of Odisha towards sports development.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching is a testament to the commitment of the Government of Odisha towards sports development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the state's dedication to fostering a culture of excellence in sports coaching.",
+      "text": "It reflects the state's dedication to fostering a culture of excellence in sports coaching.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award serves as a reminder of the critical role that coaches play in shaping the future of sports in India.",
+      "text": "The award serves as a reminder of the critical role that coaches play in shaping the future of sports in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government of Odisha continues to seek ways to enhance the effectiveness of this award.",
+      "text": "The Government of Odisha continues to seek ways to enhance the effectiveness of this award.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to ensure that the contributions of coaches are acknowledged and celebrated.",
+      "text": "It aims to ensure that the contributions of coaches are acknowledged and celebrated.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching is a significant step in recognizing the unsung heroes of sports.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching is a significant step in recognizing the unsung heroes of sports.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It highlights the importance of investing in coaching as a means to achieve sporting success.",
+      "text": "It highlights the importance of investing in coaching as a means to achieve sporting success.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award has become a symbol of excellence in coaching within the state.",
+      "text": "The award has become a symbol of excellence in coaching within the state.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It encourages coaches to pursue continuous improvement and professional development.",
+      "text": "It encourages coaches to pursue continuous improvement and professional development.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Biju Patnaik Sports Award for Excellence in Coaching is an essential initiative for the promotion of sports in Odisha.",
+      "text": "The Biju Patnaik Sports Award for Excellence in Coaching is an essential initiative for the promotion of sports in Odisha.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It plays a vital role in the overall development of the sports ecosystem in the state.",
+      "text": "It plays a vital role in the overall development of the sports ecosystem in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The award is a proud tradition that honors the legacy of Biju Patnaik and his contributions to sports.",
+      "text": "The award is a proud tradition that honors the legacy of Biju Patnaik and his contributions to sports.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It serves as an inspiration for current and future coaches to strive for excellence in their coaching careers.",
+      "text": "It serves as an inspiration for current and future coaches to strive for excellence in their coaching careers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government of Odisha remains committed to supporting sports and recognizing the contributions of coaches through this award.",
+      "text": "The Government of Odisha remains committed to supporting sports and recognizing the contributions of coaches through this award.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T13:08:19.463798",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 62,
+    "role_distribution": {
+      "ContextObjective": 8,
+      "BenefitsAssistance": 32,
+      "TimelineFrequency": 4,
+      "Eligibility": 5,
+      "AuthoritiesGovernance": 10,
+      "ApplicationProcess": 3
+    }
+  }
+}

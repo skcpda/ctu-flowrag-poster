@@ -1,0 +1,661 @@
+{
+  "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+  "total_sentences": 64,
+  "ctus": [
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a significant welfare scheme launched by the Government of Madhya Pradesh.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a significant welfare scheme launched by the Government of Madhya Pradesh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was inaugurated on 1st July 2021.",
+      "text": "This scheme was inaugurated on 1st July 2021.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to enhance the employability of the youth in the state.",
+      "text": "It aims to enhance the employability of the youth in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The initiative is part of the broader vision of the Madhya Pradesh government to empower young individuals through skill development.",
+      "text": "The initiative is part of the broader vision of the Madhya Pradesh government to empower young individuals through skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme focuses on providing vocational training to the youth.",
+      "text": "The scheme focuses on providing vocational training to the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It targets individuals aged between 15 to 29 years.",
+      "text": "It targets individuals aged between 15 to 29 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The primary objective of the Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is to provide skill training to one million youth in Madhya Pradesh by the year 2025.",
+      "text": "The primary objective of the Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is to provide skill training to one million youth in Madhya Pradesh by the year 2025.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to bridge the gap between education and employment.",
+      "text": "The scheme aims to bridge the gap between education and employment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to equip the youth with relevant skills that meet the demands of the job market.",
+      "text": "It seeks to equip the youth with relevant skills that meet the demands of the job market.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The training provided under this scheme covers various sectors including manufacturing, services, and agriculture.",
+      "text": "The training provided under this scheme covers various sectors including manufacturing, services, and agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated a budget of INR 100 crores for the initial phase of this scheme.",
+      "text": "The government has allocated a budget of INR 100 crores for the initial phase of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, beneficiaries will receive training in over 100 different trades.",
+      "text": "Under this scheme, beneficiaries will receive training in over 100 different trades.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The training duration varies from three months to one year depending on the trade.",
+      "text": "The training duration varies from three months to one year depending on the trade.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Participants will also receive a monthly stipend of INR 1,500 during the training period.",
+      "text": "Participants will also receive a monthly stipend of INR 1,500 during the training period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This stipend is intended to support the youth financially while they acquire new skills.",
+      "text": "This stipend is intended to support the youth financially while they acquire new skills.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also emphasizes the importance of soft skills and entrepreneurship training.",
+      "text": "The scheme also emphasizes the importance of soft skills and entrepreneurship training.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This is to ensure that the youth are not only job-ready but also capable of starting their own ventures.",
+      "text": "This is to ensure that the youth are not only job-ready but also capable of starting their own ventures.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is implemented through various training institutes across the state.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is implemented through various training institutes across the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These include government ITIs, polytechnics, and private training centers that are recognized by the government.",
+      "text": "These include government ITIs, polytechnics, and private training centers that are recognized by the government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for the scheme, applicants must be residents of Madhya Pradesh.",
+      "text": "To be eligible for the scheme, applicants must be residents of Madhya Pradesh.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must also fall within the specified age group of 15 to 29 years.",
+      "text": "They must also fall within the specified age group of 15 to 29 years.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The income criteria for eligibility stipulates that the annual family income should not exceed INR 2 lakhs.",
+      "text": "The income criteria for eligibility stipulates that the annual family income should not exceed INR 2 lakhs.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must have completed at least the 8th grade of schooling to qualify for the training programs.",
+      "text": "Applicants must have completed at least the 8th grade of schooling to qualify for the training programs.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process is straightforward and can be completed online.",
+      "text": "The application process is straightforward and can be completed online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested candidates can visit the official website of the Madhya Pradesh Skill Development Department.",
+      "text": "Interested candidates can visit the official website of the Madhya Pradesh Skill Development Department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to fill out the application form available on the portal.",
+      "text": "They need to fill out the application form available on the portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include proof of residence, income certificate, and educational qualifications.",
+      "text": "Required documents include proof of residence, income certificate, and educational qualifications.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "text": "Once the application is submitted, it will be reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Successful applicants will receive a confirmation and details regarding the training schedule.",
+      "text": "Successful applicants will receive a confirmation and details regarding the training schedule.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is designed to be inclusive and aims to empower marginalized sections of society.",
+      "text": "The scheme is designed to be inclusive and aims to empower marginalized sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Special provisions are made for women and differently-abled individuals.",
+      "text": "Special provisions are made for women and differently-abled individuals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government aims to ensure that at least 30 percent of the beneficiaries are women.",
+      "text": "The government aims to ensure that at least 30 percent of the beneficiaries are women.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is part of the larger Skill India Mission.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is part of the larger Skill India Mission.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This mission was launched by the Government of India in 2015 to promote skill development across the country.",
+      "text": "This mission was launched by the Government of India in 2015 to promote skill development across the country.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Madhya Pradesh government is committed to improving the skill set of its youth.",
+      "text": "The Madhya Pradesh government is committed to improving the skill set of its youth.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This is crucial for enhancing their employability in a competitive job market.",
+      "text": "This is crucial for enhancing their employability in a competitive job market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also includes partnerships with various industries.",
+      "text": "The scheme also includes partnerships with various industries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These partnerships are aimed at ensuring that the training provided is aligned with industry requirements.",
+      "text": "These partnerships are aimed at ensuring that the training provided is aligned with industry requirements.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government conducts regular assessments to monitor the effectiveness of the training programs.",
+      "text": "The government conducts regular assessments to monitor the effectiveness of the training programs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from participants is collected to improve the quality of training.",
+      "text": "Feedback from participants is collected to improve the quality of training.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana also emphasizes digital literacy.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana also emphasizes digital literacy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This is essential in today's technology-driven job market.",
+      "text": "This is essential in today's technology-driven job market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme encourages the use of online platforms for training and skill development.",
+      "text": "The scheme encourages the use of online platforms for training and skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set up a dedicated helpline for queries related to the scheme.",
+      "text": "The government has set up a dedicated helpline for queries related to the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The helpline number is 1800 233 3330.",
+      "text": "The helpline number is 1800 233 3330.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This is available for beneficiaries to seek assistance during the application process.",
+      "text": "This is available for beneficiaries to seek assistance during the application process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also aims to create awareness about various career opportunities available to the youth.",
+      "text": "The scheme also aims to create awareness about various career opportunities available to the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Workshops and seminars are organized to educate the youth about different vocational paths.",
+      "text": "Workshops and seminars are organized to educate the youth about different vocational paths.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is expected to significantly reduce unemployment rates in Madhya Pradesh.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is expected to significantly reduce unemployment rates in Madhya Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government aims to achieve a 10 percent reduction in youth unemployment by 2025.",
+      "text": "The government aims to achieve a 10 percent reduction in youth unemployment by 2025.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is closely monitored by the Madhya Pradesh Skill Development Department.",
+      "text": "The scheme is closely monitored by the Madhya Pradesh Skill Development Department.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular reports are generated to assess the progress of the scheme.",
+      "text": "Regular reports are generated to assess the progress of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is committed to transparency and accountability in the implementation of this scheme.",
+      "text": "The government is committed to transparency and accountability in the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a step towards building a skilled workforce in Madhya Pradesh.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a step towards building a skilled workforce in Madhya Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It reflects the government's commitment to empowering the youth through skill development.",
+      "text": "It reflects the government's commitment to empowering the youth through skill development.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme not only focuses on immediate employment but also on long-term career growth.",
+      "text": "The scheme not only focuses on immediate employment but also on long-term career growth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing relevant skills, the government aims to foster entrepreneurship among the youth.",
+      "text": "By providing relevant skills, the government aims to foster entrepreneurship among the youth.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is expected to contribute to the overall economic development of the state.",
+      "text": "This initiative is expected to contribute to the overall economic development of the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a significant move towards creating a self-reliant society.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a significant move towards creating a self-reliant society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It aligns with the national vision of making India a global hub for skilled labor.",
+      "text": "It aligns with the national vision of making India a global hub for skilled labor.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a testament to the government's efforts in promoting skill development and employment generation.",
+      "text": "The scheme is a testament to the government's efforts in promoting skill development and employment generation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a comprehensive approach to tackle the challenges of unemployment among the youth in Madhya Pradesh.",
+      "text": "It is a comprehensive approach to tackle the challenges of unemployment among the youth in Madhya Pradesh.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a crucial initiative for the future of the state's youth.",
+      "text": "The Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana is a crucial initiative for the future of the state's youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a skilled and empowered workforce ready to meet the challenges of the modern economy.",
+      "text": "It aims to create a skilled and empowered workforce ready to meet the challenges of the modern economy.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Mukhyamantri Bhavishyalakshi Kaushalya Vikas Yojana",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T14:39:22.900358",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 64,
+    "role_distribution": {
+      "ContextObjective": 29,
+      "BenefitsAssistance": 13,
+      "TimelineFrequency": 2,
+      "AuthoritiesGovernance": 8,
+      "Eligibility": 5,
+      "ApplicationProcess": 6,
+      "DefinitionsReferences": 1
+    }
+  }
+}

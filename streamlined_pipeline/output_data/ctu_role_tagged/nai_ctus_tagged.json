@@ -1,0 +1,580 @@
+{
+  "scheme_name": "National Agriculture Insurance Scheme",
+  "total_sentences": 56,
+  "ctus": [
+    {
+      "sentence": "The National Agriculture Insurance Scheme (NAIS) was launched on 13th January 2000 by the Government of India.",
+      "text": "The National Agriculture Insurance Scheme (NAIS) was launched on 13th January 2000 by the Government of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was initiated to provide insurance coverage and financial support to farmers in the event of crop failure due to natural calamities.",
+      "text": "The scheme was initiated to provide insurance coverage and financial support to farmers in the event of crop failure due to natural calamities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of NAIS is to stabilize the income of farmers and ensure that they can recover from losses incurred due to unforeseen events.",
+      "text": "The primary objective of NAIS is to stabilize the income of farmers and ensure that they can recover from losses incurred due to unforeseen events.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide insurance coverage for various crops grown in different states across India.",
+      "text": "The scheme aims to provide insurance coverage for various crops grown in different states across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The coverage includes food crops, oilseeds, and annual commercial and horticultural crops.",
+      "text": "The coverage includes food crops, oilseeds, and annual commercial and horticultural crops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The NAIS was designed to protect farmers against losses due to drought, flood, hailstorm, pest attacks, and other natural disasters.",
+      "text": "The NAIS was designed to protect farmers against losses due to drought, flood, hailstorm, pest attacks, and other natural disasters.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also aims to encourage farmers to adopt modern agricultural practices by providing them with financial security.",
+      "text": "The scheme also aims to encourage farmers to adopt modern agricultural practices by providing them with financial security.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under the NAIS, farmers are eligible for insurance coverage of up to 100% of the sum insured for notified crops.",
+      "text": "Under the NAIS, farmers are eligible for insurance coverage of up to 100% of the sum insured for notified crops.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The sum insured is determined based on the average yield of the crop in the area.",
+      "text": "The sum insured is determined based on the average yield of the crop in the area.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The premium rates under the scheme are fixed at 1.5% for food crops and oilseeds and 2% for annual commercial and horticultural crops.",
+      "text": "The premium rates under the scheme are fixed at 1.5% for food crops and oilseeds and 2% for annual commercial and horticultural crops.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government subsidizes the premium to make it affordable for farmers.",
+      "text": "The government subsidizes the premium to make it affordable for farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The NAIS covers both loanee and non-loanee farmers.",
+      "text": "The NAIS covers both loanee and non-loanee farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Loanee farmers are those who have taken loans from financial institutions, while non-loanee farmers are those who do not have any loans.",
+      "text": "Loanee farmers are those who have taken loans from financial institutions, while non-loanee farmers are those who do not have any loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria for farmers under the NAIS include being a resident of India and cultivating the notified crops.",
+      "text": "The eligibility criteria for farmers under the NAIS include being a resident of India and cultivating the notified crops.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers must also have a valid land ownership document or lease agreement to be eligible for the scheme.",
+      "text": "Farmers must also have a valid land ownership document or lease agreement to be eligible for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for NAIS involves filling out a proposal form available at local banks or insurance companies.",
+      "text": "The application process for NAIS involves filling out a proposal form available at local banks or insurance companies.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers need to submit the completed form along with the required documents, including land ownership proof and identity proof.",
+      "text": "Farmers need to submit the completed form along with the required documents, including land ownership proof and identity proof.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The last date for submitting the application is usually fixed by the respective state governments.",
+      "text": "The last date for submitting the application is usually fixed by the respective state governments.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers must ensure that they apply within the stipulated time frame to avail of the benefits.",
+      "text": "Farmers must ensure that they apply within the stipulated time frame to avail of the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The insurance coverage is provided for a period of one year, starting from the date of sowing until the harvest.",
+      "text": "The insurance coverage is provided for a period of one year, starting from the date of sowing until the harvest.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The premium amount is payable in advance before the commencement of the crop season.",
+      "text": "The premium amount is payable in advance before the commencement of the crop season.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of claims under the NAIS is done based on the assessment of crop loss by designated authorities.",
+      "text": "The disbursement of claims under the NAIS is done based on the assessment of crop loss by designated authorities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assessment is carried out through a network of agricultural officers and insurance company representatives.",
+      "text": "The assessment is carried out through a network of agricultural officers and insurance company representatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The claims are usually settled within a period of 30 days from the date of assessment.",
+      "text": "The claims are usually settled within a period of 30 days from the date of assessment.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for the NAIS is the Ministry of Agriculture and Farmers' Welfare, Government of India.",
+      "text": "The implementing authority for the NAIS is the Ministry of Agriculture and Farmers' Welfare, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is administered through various state governments and insurance companies.",
+      "text": "The scheme is administered through various state governments and insurance companies.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers can contact their local agriculture department for more information regarding the scheme.",
+      "text": "Farmers can contact their local agriculture department for more information regarding the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The NAIS has undergone several revisions since its inception to improve its effectiveness and reach.",
+      "text": "The NAIS has undergone several revisions since its inception to improve its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In 2016, the Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched, which replaced the NAIS in many states.",
+      "text": "In 2016, the Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched, which replaced the NAIS in many states.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "However, NAIS continues to operate in certain states and for specific crops.",
+      "text": "However, NAIS continues to operate in certain states and for specific crops.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The PMFBY aims to provide a more comprehensive insurance coverage compared to NAIS.",
+      "text": "The PMFBY aims to provide a more comprehensive insurance coverage compared to NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The NAIS has benefited millions of farmers across the country since its launch.",
+      "text": "The NAIS has benefited millions of farmers across the country since its launch.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "As of 2021, approximately 2.5 crore farmers have been insured under the scheme.",
+      "text": "As of 2021, approximately 2.5 crore farmers have been insured under the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total sum insured under NAIS has reached around ₹1.5 lakh crore.",
+      "text": "The total sum insured under NAIS has reached around ₹1.5 lakh crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has allocated substantial funds to support the implementation of NAIS.",
+      "text": "The government has allocated substantial funds to support the implementation of NAIS.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the 2021-2022 financial year, the government allocated ₹13,000 crore for crop insurance schemes, including NAIS.",
+      "text": "In the 2021-2022 financial year, the government allocated ₹13,000 crore for crop insurance schemes, including NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has played a crucial role in mitigating the financial risks faced by farmers due to crop failures.",
+      "text": "The scheme has played a crucial role in mitigating the financial risks faced by farmers due to crop failures.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers have reported increased confidence in agriculture due to the safety net provided by NAIS.",
+      "text": "Farmers have reported increased confidence in agriculture due to the safety net provided by NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also encouraged farmers to invest in better seeds and farming techniques.",
+      "text": "The scheme has also encouraged farmers to invest in better seeds and farming techniques.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The NAIS has been instrumental in promoting agricultural sustainability and food security in India.",
+      "text": "The NAIS has been instrumental in promoting agricultural sustainability and food security in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has faced challenges such as delays in claim settlements and inadequate awareness among farmers.",
+      "text": "The scheme has faced challenges such as delays in claim settlements and inadequate awareness among farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Efforts are being made to address these challenges through better outreach and education programs.",
+      "text": "Efforts are being made to address these challenges through better outreach and education programs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government is also working on improving the technology used for assessing crop losses.",
+      "text": "The government is also working on improving the technology used for assessing crop losses.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The NAIS is a vital component of the Indian government's strategy to support the agricultural sector.",
+      "text": "The NAIS is a vital component of the Indian government's strategy to support the agricultural sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to ensure that farmers can continue to cultivate crops without the fear of total financial ruin.",
+      "text": "It aims to ensure that farmers can continue to cultivate crops without the fear of total financial ruin.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is an essential tool for achieving the goal of doubling farmers' income by 2022.",
+      "text": "The scheme is an essential tool for achieving the goal of doubling farmers' income by 2022.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The NAIS has been a significant step towards providing social security to farmers in India.",
+      "text": "The NAIS has been a significant step towards providing social security to farmers in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme reflects the government's commitment to the welfare of the agricultural community.",
+      "text": "The scheme reflects the government's commitment to the welfare of the agricultural community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of the benefits offered by the NAIS.",
+      "text": "Farmers are encouraged to take advantage of the benefits offered by the NAIS.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme aims to create a more resilient agricultural sector in India.",
+      "text": "The scheme aims to create a more resilient agricultural sector in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the National Agriculture Insurance Scheme is a critical initiative that has far-reaching implications for the agricultural economy of India.",
+      "text": "Overall, the National Agriculture Insurance Scheme is a critical initiative that has far-reaching implications for the agricultural economy of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It serves as a safety net for farmers and plays a crucial role in ensuring food security for the nation.",
+      "text": "It serves as a safety net for farmers and plays a crucial role in ensuring food security for the nation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The continued support and improvement of the NAIS will be vital for the future of Indian agriculture.",
+      "text": "The continued support and improvement of the NAIS will be vital for the future of Indian agriculture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Farmers are urged to stay informed about the latest developments regarding the NAIS and other related schemes.",
+      "text": "Farmers are urged to stay informed about the latest developments regarding the NAIS and other related schemes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The success of the NAIS will depend on active participation from farmers and effective implementation by the government.",
+      "text": "The success of the NAIS will depend on active participation from farmers and effective implementation by the government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a testament to the importance of agriculture in India's economy and the need for robust support systems for farmers.",
+      "text": "The scheme is a testament to the importance of agriculture in India's economy and the need for robust support systems for farmers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "National Agriculture Insurance Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T20:00:01.602781",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 56,
+    "role_distribution": {
+      "ContextObjective": 18,
+      "BenefitsAssistance": 22,
+      "Eligibility": 4,
+      "AuthoritiesGovernance": 7,
+      "ApplicationProcess": 3,
+      "TimelineFrequency": 2
+    }
+  }
+}

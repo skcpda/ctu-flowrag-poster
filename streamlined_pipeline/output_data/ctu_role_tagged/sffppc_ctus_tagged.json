@@ -1,0 +1,691 @@
+{
+  "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+  "total_sentences": 67,
+  "ctus": [
+    {
+      "sentence": "The Pradhan Mantri Matsya Sampada Yojana (PMMSY) is a flagship scheme launched by the Government of India on September 10, 2020.",
+      "text": "The Pradhan Mantri Matsya Sampada Yojana (PMMSY) is a flagship scheme launched by the Government of India on September 10, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to enhance fish production and promote sustainable fisheries in the country.",
+      "text": "This scheme aims to enhance fish production and promote sustainable fisheries in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The PMMSY is particularly significant for states like Haryana, which has a growing aquaculture sector.",
+      "text": "The PMMSY is particularly significant for states like Haryana, which has a growing aquaculture sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "One of the key components of this scheme is the establishment of fish feed plants with a production capacity of at least 100 tons per day.",
+      "text": "One of the key components of this scheme is the establishment of fish feed plants with a production capacity of at least 100 tons per day.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of this initiative is to increase the availability of quality fish feed.",
+      "text": "The primary objective of this initiative is to increase the availability of quality fish feed.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This is crucial for improving fish production and ensuring the sustainability of aquaculture practices.",
+      "text": "This is crucial for improving fish production and ensuring the sustainability of aquaculture practices.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme aims to achieve an increase in fish production to 22 million metric tons by 2024-2025.",
+      "text": "The scheme aims to achieve an increase in fish production to 22 million metric tons by 2024-2025.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also seeks to create an additional 55 lakh jobs in the fisheries sector by the same year.",
+      "text": "It also seeks to create an additional 55 lakh jobs in the fisheries sector by the same year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The PMMSY is expected to contribute to the doubling of the income of fishers and fish farmers.",
+      "text": "The PMMSY is expected to contribute to the doubling of the income of fishers and fish farmers.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial outlay for the PMMSY is approximately INR 20,050 crores.",
+      "text": "The financial outlay for the PMMSY is approximately INR 20,050 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes both central and state government contributions.",
+      "text": "This includes both central and state government contributions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For the fish feed plants specifically, the government provides a subsidy of up to 40% of the project cost.",
+      "text": "For the fish feed plants specifically, the government provides a subsidy of up to 40% of the project cost.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the case of North Eastern states, this subsidy can go up to 60%.",
+      "text": "In the case of North Eastern states, this subsidy can go up to 60%.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The establishment of fish feed plants is expected to reduce the dependency on imported fish feed.",
+      "text": "The establishment of fish feed plants is expected to reduce the dependency on imported fish feed.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This will also help in stabilizing the prices of fish feed in the market.",
+      "text": "This will also help in stabilizing the prices of fish feed in the market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The eligibility criteria for setting up a fish feed plant under PMMSY include being a registered entity.",
+      "text": "The eligibility criteria for setting up a fish feed plant under PMMSY include being a registered entity.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This can be an individual entrepreneur, a cooperative society, or a company.",
+      "text": "This can be an individual entrepreneur, a cooperative society, or a company.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The applicant must have a minimum educational qualification of 10th standard.",
+      "text": "The applicant must have a minimum educational qualification of 10th standard.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, the applicant should have experience in aquaculture or related fields.",
+      "text": "Additionally, the applicant should have experience in aquaculture or related fields.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The application process involves several steps.",
+      "text": "The application process involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, the applicant must submit a detailed project report to the concerned fisheries department.",
+      "text": "First, the applicant must submit a detailed project report to the concerned fisheries department.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This report should outline the proposed plant's capacity, technology, and operational plan.",
+      "text": "This report should outline the proposed plant's capacity, technology, and operational plan.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The applicant must also provide documents such as identity proof, address proof, and educational certificates.",
+      "text": "The applicant must also provide documents such as identity proof, address proof, and educational certificates.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by the state fisheries department.",
+      "text": "Once the application is submitted, it will be reviewed by the state fisheries department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the applicant will receive a sanction letter detailing the subsidy amount.",
+      "text": "If approved, the applicant will receive a sanction letter detailing the subsidy amount.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of the subsidy is typically made in installments.",
+      "text": "The disbursement of the subsidy is typically made in installments.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The first installment is released after the project is initiated.",
+      "text": "The first installment is released after the project is initiated.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Subsequent installments are released based on the progress of the project.",
+      "text": "Subsequent installments are released based on the progress of the project.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The timeline for establishing a fish feed plant can vary.",
+      "text": "The timeline for establishing a fish feed plant can vary.",
+      "role": "TimelineFrequency",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "However, it generally takes about 6 to 12 months from the date of project approval.",
+      "text": "However, it generally takes about 6 to 12 months from the date of project approval.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementing authority for the PMMSY in Haryana is the Department of Fisheries, Haryana.",
+      "text": "The implementing authority for the PMMSY in Haryana is the Department of Fisheries, Haryana.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This department is responsible for the overall implementation of the scheme.",
+      "text": "This department is responsible for the overall implementation of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They provide technical support and guidance to applicants.",
+      "text": "They provide technical support and guidance to applicants.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The contact details for the Department of Fisheries, Haryana, can be found on their official website.",
+      "text": "The contact details for the Department of Fisheries, Haryana, can be found on their official website.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The PMMSY also emphasizes the importance of technology in fish feed production.",
+      "text": "The PMMSY also emphasizes the importance of technology in fish feed production.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It encourages the use of modern techniques to enhance feed quality and reduce costs.",
+      "text": "It encourages the use of modern techniques to enhance feed quality and reduce costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme promotes the establishment of feed plants in clusters to optimize resources.",
+      "text": "The scheme promotes the establishment of feed plants in clusters to optimize resources.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This clustering approach helps in better management and distribution of feed.",
+      "text": "This clustering approach helps in better management and distribution of feed.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The PMMSY also aims to promote research and development in fish feed formulations.",
+      "text": "The PMMSY also aims to promote research and development in fish feed formulations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This is essential for developing nutritionally balanced feeds that enhance fish growth.",
+      "text": "This is essential for developing nutritionally balanced feeds that enhance fish growth.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is aligned with the National Fisheries Policy, which aims to promote sustainable fisheries.",
+      "text": "The scheme is aligned with the National Fisheries Policy, which aims to promote sustainable fisheries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also supports the objectives of the Atmanirbhar Bharat initiative by promoting self-reliance in fish production.",
+      "text": "It also supports the objectives of the Atmanirbhar Bharat initiative by promoting self-reliance in fish production.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The PMMSY is expected to have a significant impact on rural livelihoods.",
+      "text": "The PMMSY is expected to have a significant impact on rural livelihoods.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It will provide employment opportunities for local communities engaged in aquaculture.",
+      "text": "It will provide employment opportunities for local communities engaged in aquaculture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The establishment of fish feed plants will also lead to the creation of ancillary industries.",
+      "text": "The establishment of fish feed plants will also lead to the creation of ancillary industries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These industries will provide raw materials and services to the fish farming sector.",
+      "text": "These industries will provide raw materials and services to the fish farming sector.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme encourages the participation of women and marginalized communities.",
+      "text": "The scheme encourages the participation of women and marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to empower them by providing training and financial assistance.",
+      "text": "It aims to empower them by providing training and financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The PMMSY also focuses on promoting organic aquaculture practices.",
+      "text": "The PMMSY also focuses on promoting organic aquaculture practices.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This is crucial for ensuring the sustainability of fish farming in the long term.",
+      "text": "This is crucial for ensuring the sustainability of fish farming in the long term.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme includes provisions for capacity building and skill development.",
+      "text": "The scheme includes provisions for capacity building and skill development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This will help fish farmers adopt modern practices and improve productivity.",
+      "text": "This will help fish farmers adopt modern practices and improve productivity.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The PMMSY is a comprehensive initiative that addresses various challenges in the fisheries sector.",
+      "text": "The PMMSY is a comprehensive initiative that addresses various challenges in the fisheries sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a robust ecosystem for fish production and processing.",
+      "text": "It aims to create a robust ecosystem for fish production and processing.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "By enhancing fish feed production, the scheme will contribute to food security.",
+      "text": "By enhancing fish feed production, the scheme will contribute to food security.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It will also help in meeting the growing demand for fish in the domestic market.",
+      "text": "It will also help in meeting the growing demand for fish in the domestic market.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The PMMSY is a significant step towards achieving the goal of sustainable fisheries in India.",
+      "text": "The PMMSY is a significant step towards achieving the goal of sustainable fisheries in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to improving the livelihoods of fishers and fish farmers.",
+      "text": "It reflects the government's commitment to improving the livelihoods of fishers and fish farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The establishment of fish feed plants under this scheme will play a crucial role in this endeavor.",
+      "text": "The establishment of fish feed plants under this scheme will play a crucial role in this endeavor.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the PMMSY is a transformative initiative that has the potential to revolutionize the fisheries sector in Haryana and across India.",
+      "text": "Overall, the PMMSY is a transformative initiative that has the potential to revolutionize the fisheries sector in Haryana and across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The focus on quality fish feed production is expected to lead to increased fish yields and better economic returns for fish farmers.",
+      "text": "The focus on quality fish feed production is expected to lead to increased fish yields and better economic returns for fish farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This scheme is an example of how targeted government interventions can drive growth in specific sectors.",
+      "text": "This scheme is an example of how targeted government interventions can drive growth in specific sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The PMMSY is set to create a sustainable and profitable fisheries sector in the country.",
+      "text": "The PMMSY is set to create a sustainable and profitable fisheries sector in the country.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This will ultimately benefit millions of people who depend on fishing for their livelihoods.",
+      "text": "This will ultimately benefit millions of people who depend on fishing for their livelihoods.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme's emphasis on technology and innovation will also pave the way for future advancements in aquaculture.",
+      "text": "The scheme's emphasis on technology and innovation will also pave the way for future advancements in aquaculture.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the PMMSY's focus on fish feed plants is a crucial aspect of its broader objectives.",
+      "text": "In conclusion, the PMMSY's focus on fish feed plants is a crucial aspect of its broader objectives.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It aims to enhance fish production and improve the overall health of the fisheries sector in India.",
+      "text": "It aims to enhance fish production and improve the overall health of the fisheries sector in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "PMMSY: Fish Feed Plants of Production Capacity of at least 100 Ton/Day - Haryana",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T15:07:56.347492",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 67,
+    "role_distribution": {
+      "ContextObjective": 28,
+      "BenefitsAssistance": 23,
+      "TimelineFrequency": 3,
+      "Eligibility": 6,
+      "AuthoritiesGovernance": 3,
+      "ApplicationProcess": 3,
+      "DefinitionsReferences": 1
+    }
+  }
+}

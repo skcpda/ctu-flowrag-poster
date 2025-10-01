@@ -1,0 +1,520 @@
+{
+  "scheme_name": "Retired Sportsperson Pension Scheme",
+  "total_sentences": 50,
+  "ctus": [
+    {
+      "sentence": "The Retired Sportsperson Pension Scheme was launched by the Government of India on 1st April 2019.",
+      "text": "The Retired Sportsperson Pension Scheme was launched by the Government of India on 1st April 2019.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to retired sportspersons who have represented India at various levels in sports.",
+      "text": "This scheme aims to provide financial assistance to retired sportspersons who have represented India at various levels in sports.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the scheme is to ensure that retired athletes have a sustainable source of income after their sports careers.",
+      "text": "The primary objective of the scheme is to ensure that retired athletes have a sustainable source of income after their sports careers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets retired sportspersons who have achieved significant recognition in their respective sports.",
+      "text": "The scheme specifically targets retired sportspersons who have achieved significant recognition in their respective sports.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligible sportspersons must have represented India at international competitions such as the Olympics, Commonwealth Games, and Asian Games.",
+      "text": "Eligible sportspersons must have represented India at international competitions such as the Olympics, Commonwealth Games, and Asian Games.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension amount under this scheme is structured based on the level of achievement in sports.",
+      "text": "The pension amount under this scheme is structured based on the level of achievement in sports.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For sportspersons who have represented India in the Olympics, the monthly pension amount is ₹20,000.",
+      "text": "For sportspersons who have represented India in the Olympics, the monthly pension amount is ₹20,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For those who have participated in the Commonwealth Games, the pension is set at ₹15,000 per month.",
+      "text": "For those who have participated in the Commonwealth Games, the pension is set at ₹15,000 per month.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Athletes who have represented India in the Asian Games receive a monthly pension of ₹10,000.",
+      "text": "Athletes who have represented India in the Asian Games receive a monthly pension of ₹10,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is designed to provide financial security to athletes who may face challenges in transitioning to life after sports.",
+      "text": "The scheme is designed to provide financial security to athletes who may face challenges in transitioning to life after sports.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria are clearly defined to ensure that only deserving candidates benefit from the scheme.",
+      "text": "The eligibility criteria are clearly defined to ensure that only deserving candidates benefit from the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must be Indian citizens and must have retired from active sports.",
+      "text": "Applicants must be Indian citizens and must have retired from active sports.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There is no specific age limit mentioned for eligibility under this scheme.",
+      "text": "There is no specific age limit mentioned for eligibility under this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, the applicant must have a proven track record of representing India in recognized sports events.",
+      "text": "However, the applicant must have a proven track record of representing India in recognized sports events.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process is straightforward and involves several steps.",
+      "text": "The application process is straightforward and involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested candidates must fill out the application form available on the official website of the Ministry of Youth Affairs and Sports.",
+      "text": "Interested candidates must fill out the application form available on the official website of the Ministry of Youth Affairs and Sports.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires personal details including name, address, contact information, and details of sports representation.",
+      "text": "The application form requires personal details including name, address, contact information, and details of sports representation.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also provide documentary proof of their achievements in sports.",
+      "text": "Applicants must also provide documentary proof of their achievements in sports.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This includes certificates of participation in international events and any awards received.",
+      "text": "This includes certificates of participation in international events and any awards received.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the application is completed, it must be submitted to the respective State Sports Authority.",
+      "text": "Once the application is completed, it must be submitted to the respective State Sports Authority.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The State Sports Authority will then verify the details and forward the application to the Ministry of Youth Affairs and Sports for final approval.",
+      "text": "The State Sports Authority will then verify the details and forward the application to the Ministry of Youth Affairs and Sports for final approval.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension is disbursed on a monthly basis directly into the bank accounts of the beneficiaries.",
+      "text": "The pension is disbursed on a monthly basis directly into the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also includes provisions for the disbursement of arrears in case of delays in processing applications.",
+      "text": "The scheme also includes provisions for the disbursement of arrears in case of delays in processing applications.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension amount is subject to review and can be adjusted based on government policies and budget allocations.",
+      "text": "The pension amount is subject to review and can be adjusted based on government policies and budget allocations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementation of this scheme is overseen by the Ministry of Youth Affairs and Sports.",
+      "text": "The implementation of this scheme is overseen by the Ministry of Youth Affairs and Sports.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ministry has established a dedicated team to handle inquiries and assist applicants throughout the process.",
+      "text": "The ministry has established a dedicated team to handle inquiries and assist applicants throughout the process.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Contact details for the Ministry of Youth Affairs and Sports can be found on their official website.",
+      "text": "Contact details for the Ministry of Youth Affairs and Sports can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to promote sports in India and support athletes.",
+      "text": "The scheme is part of a broader initiative to promote sports in India and support athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes the contributions of sportspersons to the nation and aims to provide them with dignity in their retirement.",
+      "text": "It recognizes the contributions of sportspersons to the nation and aims to provide them with dignity in their retirement.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The pension scheme is expected to benefit a significant number of retired athletes across various sports disciplines.",
+      "text": "The pension scheme is expected to benefit a significant number of retired athletes across various sports disciplines.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the government has allocated a budget of ₹50 crores for the implementation of this scheme.",
+      "text": "As of October 2023, the government has allocated a budget of ₹50 crores for the implementation of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This budget is expected to cover the pension payments for several thousand retired sportspersons.",
+      "text": "This budget is expected to cover the pension payments for several thousand retired sportspersons.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is also aligned with the government's vision of promoting sports and fitness among the youth.",
+      "text": "The scheme is also aligned with the government's vision of promoting sports and fitness among the youth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It encourages retired athletes to engage in coaching and mentorship roles within their communities.",
+      "text": "It encourages retired athletes to engage in coaching and mentorship roles within their communities.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial support, the scheme aims to reduce the financial burden on retired sportspersons.",
+      "text": "By providing financial support, the scheme aims to reduce the financial burden on retired sportspersons.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from various sports associations and retired athletes.",
+      "text": "The scheme has received positive feedback from various sports associations and retired athletes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many have expressed gratitude for the recognition and support provided by the government.",
+      "text": "Many have expressed gratitude for the recognition and support provided by the government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The pension scheme is seen as a step towards ensuring that athletes are not left without support after their competitive careers end.",
+      "text": "The pension scheme is seen as a step towards ensuring that athletes are not left without support after their competitive careers end.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has emphasized the importance of sports in nation-building and the role of athletes in inspiring future generations.",
+      "text": "The government has emphasized the importance of sports in nation-building and the role of athletes in inspiring future generations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is part of a larger framework of welfare schemes aimed at uplifting various sections of society.",
+      "text": "This initiative is part of a larger framework of welfare schemes aimed at uplifting various sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Retired Sportsperson Pension Scheme is a crucial component of this framework.",
+      "text": "The Retired Sportsperson Pension Scheme is a crucial component of this framework.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It highlights the government's commitment to the welfare of athletes who have brought glory to the nation.",
+      "text": "It highlights the government's commitment to the welfare of athletes who have brought glory to the nation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Retired Sportsperson Pension Scheme is a significant welfare initiative by the Indian government.",
+      "text": "In conclusion, the Retired Sportsperson Pension Scheme is a significant welfare initiative by the Indian government.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides financial assistance to retired athletes based on their achievements.",
+      "text": "It provides financial assistance to retired athletes based on their achievements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to ensure a dignified life for sportspersons after their retirement from active sports.",
+      "text": "The scheme aims to ensure a dignified life for sportspersons after their retirement from active sports.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "With a structured pension system and a clear application process, it is designed to be accessible to eligible candidates.",
+      "text": "With a structured pension system and a clear application process, it is designed to be accessible to eligible candidates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to monitor and evaluate the scheme to enhance its effectiveness and reach.",
+      "text": "The government continues to monitor and evaluate the scheme to enhance its effectiveness and reach.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative reflects the growing recognition of the importance of sports in Indian society.",
+      "text": "This initiative reflects the growing recognition of the importance of sports in Indian society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a supportive environment for athletes even after their competitive careers have ended.",
+      "text": "It aims to create a supportive environment for athletes even after their competitive careers have ended.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Overall, the Retired Sportsperson Pension Scheme is a vital step towards ensuring the welfare of India's sporting heroes.",
+      "text": "Overall, the Retired Sportsperson Pension Scheme is a vital step towards ensuring the welfare of India's sporting heroes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Retired Sportsperson Pension Scheme",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T16:41:08.048718",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 50,
+    "role_distribution": {
+      "ContextObjective": 21,
+      "BenefitsAssistance": 10,
+      "Eligibility": 6,
+      "TimelineFrequency": 2,
+      "ApplicationProcess": 4,
+      "AuthoritiesGovernance": 7
+    }
+  }
+}

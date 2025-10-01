@@ -1,0 +1,2197 @@
+{
+  "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+  "total_sentences": 65,
+  "ctus": [
+    {
+      "sentence": "The Vehicle Loan Scheme is an initiative under the Government of India aimed at providing financial assistance to eligible individuals for the purchase of vehicles.",
+      "text": "The Vehicle Loan Scheme is an initiative under the Government of India aimed at providing financial assistance to eligible individuals for the purchase of vehicles.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme is specifically designed to support the economically weaker sections of society.",
+      "text": "This scheme is specifically designed to support the economically weaker sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of Karnataka launched this scheme on 1st April 2015.",
+      "text": "The Government of Karnataka launched this scheme on 1st April 2015.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Vehicle Loan Scheme is to promote self-employment and enhance mobility among marginalized communities.",
+      "text": "The primary objective of the Vehicle Loan Scheme is to promote self-employment and enhance mobility among marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to provide loans for the purchase of two-wheelers and four-wheelers.",
+      "text": "The scheme aims to provide loans for the purchase of two-wheelers and four-wheelers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The target beneficiaries include individuals belonging to Scheduled Castes, Scheduled Tribes, and other backward classes.",
+      "text": "The target beneficiaries include individuals belonging to Scheduled Castes, Scheduled Tribes, and other backward classes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also extends its benefits to women and physically challenged individuals.",
+      "text": "The scheme also extends its benefits to women and physically challenged individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Under this scheme, the government provides a subsidy on the interest rate for the loan.",
+      "text": "Under this scheme, the government provides a subsidy on the interest rate for the loan.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The subsidy can be up to 50% of the interest rate charged by the banks.",
+      "text": "The subsidy can be up to 50% of the interest rate charged by the banks.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The maximum loan amount available under this scheme is ₹5 lakh.",
+      "text": "The maximum loan amount available under this scheme is ₹5 lakh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loan can be used for the purchase of new vehicles only.",
+      "text": "The loan can be used for the purchase of new vehicles only.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme encourages self-employment by enabling beneficiaries to operate vehicles for commercial purposes.",
+      "text": "The scheme encourages self-employment by enabling beneficiaries to operate vehicles for commercial purposes.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The interest subsidy is provided for a maximum tenure of 5 years.",
+      "text": "The interest subsidy is provided for a maximum tenure of 5 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The beneficiaries are required to repay the loan amount in equated monthly installments.",
+      "text": "The beneficiaries are required to repay the loan amount in equated monthly installments.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "The scheme has a specific eligibility criterion that applicants must meet.",
+      "text": "The scheme has a specific eligibility criterion that applicants must meet.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must be residents of Karnataka.",
+      "text": "Applicants must be residents of Karnataka.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The age limit for applicants is between 18 to 55 years.",
+      "text": "The age limit for applicants is between 18 to 55 years.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The income limit for eligibility is set at ₹1 lakh per annum for individuals from Scheduled Castes and Scheduled Tribes.",
+      "text": "The income limit for eligibility is set at ₹1 lakh per annum for individuals from Scheduled Castes and Scheduled Tribes.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For other backward classes, the income limit is ₹1.5 lakh per annum.",
+      "text": "For other backward classes, the income limit is ₹1.5 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women applicants and physically challenged individuals have no income limit for eligibility.",
+      "text": "Women applicants and physically challenged individuals have no income limit for eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must possess a valid driving license to qualify for the loan.",
+      "text": "Applicants must possess a valid driving license to qualify for the loan.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process is straightforward and involves several steps.",
+      "text": "The application process is straightforward and involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested individuals must visit the official website of the Karnataka government or the respective financial institution.",
+      "text": "Interested individuals must visit the official website of the Karnataka government or the respective financial institution.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They need to download the application form or obtain it from the nearest bank branch.",
+      "text": "They need to download the application form or obtain it from the nearest bank branch.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The completed application form must be submitted along with required documents.",
+      "text": "The completed application form must be submitted along with required documents.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include proof of identity, proof of residence, income certificate, and driving license.",
+      "text": "Required documents include proof of identity, proof of residence, income certificate, and driving license.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, the bank will evaluate the application based on eligibility criteria.",
+      "text": "Once the application is submitted, the bank will evaluate the application based on eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loan approval process typically takes 15 to 30 days.",
+      "text": "The loan approval process typically takes 15 to 30 days.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based",
+      "role_updated": true
+    },
+    {
+      "sentence": "Upon approval, the loan amount is disbursed directly to the vehicle dealer.",
+      "text": "Upon approval, the loan amount is disbursed directly to the vehicle dealer.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The beneficiary must ensure that the vehicle is registered in their name.",
+      "text": "The beneficiary must ensure that the vehicle is registered in their name.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Department of Social Welfare in Karnataka.",
+      "text": "The scheme is implemented by the Department of Social Welfare in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any queries or assistance, beneficiaries can contact the Department of Social Welfare at their official office.",
+      "text": "For any queries or assistance, beneficiaries can contact the Department of Social Welfare at their official office.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for the department are available on the Karnataka government’s official website.",
+      "text": "The contact details for the department are available on the Karnataka government’s official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has seen a positive response since its launch.",
+      "text": "The scheme has seen a positive response since its launch.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of 2023, thousands of beneficiaries have availed of the Vehicle Loan Scheme.",
+      "text": "As of 2023, thousands of beneficiaries have availed of the Vehicle Loan Scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated a budget of ₹50 crore for the scheme in the financial year 2023-2024.",
+      "text": "The government has allocated a budget of ₹50 crore for the scheme in the financial year 2023-2024.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This allocation aims to support more individuals in purchasing vehicles.",
+      "text": "This allocation aims to support more individuals in purchasing vehicles.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has played a crucial role in enhancing the livelihood opportunities for many families.",
+      "text": "The scheme has played a crucial role in enhancing the livelihood opportunities for many families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has also contributed to the overall economic development of the state.",
+      "text": "It has also contributed to the overall economic development of the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Vehicle Loan Scheme is part of a broader initiative to empower marginalized communities.",
+      "text": "The Vehicle Loan Scheme is part of a broader initiative to empower marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to reduce unemployment rates through self-employment opportunities.",
+      "text": "The government aims to reduce unemployment rates through self-employment opportunities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is regularly monitored to ensure effective implementation.",
+      "text": "The scheme is regularly monitored to ensure effective implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "text": "Feedback from beneficiaries is collected to improve the scheme further.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme promotes skill development.",
+      "text": "In addition to financial assistance, the scheme promotes skill development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Beneficiaries are encouraged to undergo training programs related to vehicle operation and maintenance.",
+      "text": "Beneficiaries are encouraged to undergo training programs related to vehicle operation and maintenance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This training enhances their employability and self-sufficiency.",
+      "text": "This training enhances their employability and self-sufficiency.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Vehicle Loan Scheme aligns with the government’s vision of inclusive growth.",
+      "text": "The Vehicle Loan Scheme aligns with the government’s vision of inclusive growth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to bridge the gap between different socio-economic groups.",
+      "text": "It aims to bridge the gap between different socio-economic groups.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is also part of the larger framework of welfare schemes in Karnataka.",
+      "text": "The scheme is also part of the larger framework of welfare schemes in Karnataka.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Other welfare schemes complement the Vehicle Loan Scheme to provide holistic support.",
+      "text": "Other welfare schemes complement the Vehicle Loan Scheme to provide holistic support.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is committed to ensuring that the benefits reach the intended beneficiaries.",
+      "text": "The government is committed to ensuring that the benefits reach the intended beneficiaries.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular awareness campaigns are conducted to inform eligible individuals about the scheme.",
+      "text": "Regular awareness campaigns are conducted to inform eligible individuals about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These campaigns aim to increase participation and utilization of the scheme.",
+      "text": "These campaigns aim to increase participation and utilization of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Vehicle Loan Scheme is an essential step towards financial inclusion.",
+      "text": "The Vehicle Loan Scheme is an essential step towards financial inclusion.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It empowers individuals to own vehicles and improve their quality of life.",
+      "text": "It empowers individuals to own vehicles and improve their quality of life.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has a significant impact on rural and semi-urban areas.",
+      "text": "The scheme has a significant impact on rural and semi-urban areas.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It facilitates better access to markets and employment opportunities.",
+      "text": "It facilitates better access to markets and employment opportunities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government continues to evaluate the scheme’s performance and make necessary adjustments.",
+      "text": "The government continues to evaluate the scheme’s performance and make necessary adjustments.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The aim is to make the scheme more accessible and beneficial for all eligible individuals.",
+      "text": "The aim is to make the scheme more accessible and beneficial for all eligible individuals.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Vehicle Loan Scheme is a vital initiative that supports economic development.",
+      "text": "Overall, the Vehicle Loan Scheme is a vital initiative that supports economic development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It fosters self-reliance among marginalized communities in Karnataka.",
+      "text": "It fosters self-reliance among marginalized communities in Karnataka.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme's success is measured by the number of beneficiaries and the impact on their livelihoods.",
+      "text": "The scheme's success is measured by the number of beneficiaries and the impact on their livelihoods.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government remains dedicated to enhancing the scheme for future beneficiaries.",
+      "text": "The government remains dedicated to enhancing the scheme for future beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this initiative, the Government of Karnataka aims to create a more equitable society.",
+      "text": "Through this initiative, the Government of Karnataka aims to create a more equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Vehicle Loan Scheme stands as a testament to the government's commitment to welfare and empowerment.",
+      "text": "The Vehicle Loan Scheme stands as a testament to the government's commitment to welfare and empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Vehicle Loan Scheme (GTKVN)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T17:01:07.532871",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 65,
+    "role_distribution": {
+      "ContextObjective": 33,
+      "BenefitsAssistance": 12,
+      "Eligibility": 13,
+      "ApplicationProcess": 3,
+      "AuthoritiesGovernance": 4
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "The Vehicle Loan Scheme is an initiative under the Government of India aimed at providing financial assistance to eligible individuals for the purchase of vehicles.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "This scheme is specifically designed to support the economically weaker sections of society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This scheme is specifically designed to support the economically weaker sections of society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The Government of Karnataka launched this scheme on 1st April 2015.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Government of Karnataka launched this scheme on 1st April 2015.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The primary objective of the Vehicle Loan Scheme is to promote self-employment and enhance mobility among marginalized communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective of the Vehicle Loan Scheme is to promote self-employment and enhance mobility among marginalized communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "The scheme aims to provide loans for the purchase of two-wheelers and four-wheelers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme aims to provide loans for the purchase of two-wheelers and four-wheelers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "The target beneficiaries include individuals belonging to Scheduled Castes, Scheduled Tribes, and other backward classes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The target beneficiaries include individuals belonging to Scheduled Castes, Scheduled Tribes, and other backward classes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "The scheme also extends its benefits to women and physically challenged individuals.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also extends its benefits to women and physically challenged individuals.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "Under this scheme, the government provides a subsidy on the interest rate for the loan.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Under this scheme, the government provides a subsidy on the interest rate for the loan.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "The subsidy can be up to 50% of the interest rate charged by the banks.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The subsidy can be up to 50% of the interest rate charged by the banks.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "The maximum loan amount available under this scheme is ₹5 lakh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The maximum loan amount available under this scheme is ₹5 lakh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "The loan can be used for the purchase of new vehicles only.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The loan can be used for the purchase of new vehicles only.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "The scheme encourages self-employment by enabling beneficiaries to operate vehicles for commercial purposes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme encourages self-employment by enabling beneficiaries to operate vehicles for commercial purposes.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "The interest subsidy is provided for a maximum tenure of 5 years.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The interest subsidy is provided for a maximum tenure of 5 years.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "The beneficiaries are required to repay the loan amount in equated monthly installments.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The beneficiaries are required to repay the loan amount in equated monthly installments.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "The scheme has a specific eligibility criterion that applicants must meet.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has a specific eligibility criterion that applicants must meet.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "Applicants must be residents of Karnataka.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must be residents of Karnataka.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "The age limit for applicants is between 18 to 55 years.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The age limit for applicants is between 18 to 55 years.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "The income limit for eligibility is set at ₹1 lakh per annum for individuals from Scheduled Castes and Scheduled Tribes.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The income limit for eligibility is set at ₹1 lakh per annum for individuals from Scheduled Castes and Scheduled Tribes.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "For other backward classes, the income limit is ₹1.5 lakh per annum.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "For other backward classes, the income limit is ₹1.5 lakh per annum.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Women applicants and physically challenged individuals have no income limit for eligibility.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Women applicants and physically challenged individuals have no income limit for eligibility.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "Applicants must possess a valid driving license to qualify for the loan.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must possess a valid driving license to qualify for the loan.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "The application process is straightforward and involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process is straightforward and involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "Interested individuals must visit the official website of the Karnataka government or the respective financial institution.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested individuals must visit the official website of the Karnataka government or the respective financial institution.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "They need to download the application form or obtain it from the nearest bank branch.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "They need to download the application form or obtain it from the nearest bank branch.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "The completed application form must be submitted along with required documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The completed application form must be submitted along with required documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "Required documents include proof of identity, proof of residence, income certificate, and driving license.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Required documents include proof of identity, proof of residence, income certificate, and driving license.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, the bank will evaluate the application based on eligibility criteria.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, the bank will evaluate the application based on eligibility criteria.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "The loan approval process typically takes 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The loan approval process typically takes 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "Upon approval, the loan amount is disbursed directly to the vehicle dealer.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Upon approval, the loan amount is disbursed directly to the vehicle dealer.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "The beneficiary must ensure that the vehicle is registered in their name.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The beneficiary must ensure that the vehicle is registered in their name.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "The scheme is implemented by the Department of Social Welfare in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is implemented by the Department of Social Welfare in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "For any queries or assistance, beneficiaries can contact the Department of Social Welfare at their official office.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "For any queries or assistance, beneficiaries can contact the Department of Social Welfare at their official office.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "The contact details for the department are available on the Karnataka government’s official website.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The contact details for the department are available on the Karnataka government’s official website.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The scheme has seen a positive response since its launch.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has seen a positive response since its launch.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "As of 2023, thousands of beneficiaries have availed of the Vehicle Loan Scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "As of 2023, thousands of beneficiaries have availed of the Vehicle Loan Scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The government has allocated a budget of ₹50 crore for the scheme in the financial year 2023-2024.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government has allocated a budget of ₹50 crore for the scheme in the financial year 2023-2024.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "This allocation aims to support more individuals in purchasing vehicles.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This allocation aims to support more individuals in purchasing vehicles.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "The scheme has played a crucial role in enhancing the livelihood opportunities for many families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has played a crucial role in enhancing the livelihood opportunities for many families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "It has also contributed to the overall economic development of the state.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has also contributed to the overall economic development of the state.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "The Vehicle Loan Scheme is part of a broader initiative to empower marginalized communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Vehicle Loan Scheme is part of a broader initiative to empower marginalized communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "The government aims to reduce unemployment rates through self-employment opportunities.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government aims to reduce unemployment rates through self-employment opportunities.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "The scheme is regularly monitored to ensure effective implementation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is regularly monitored to ensure effective implementation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Feedback from beneficiaries is collected to improve the scheme further.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "In addition to financial assistance, the scheme promotes skill development.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In addition to financial assistance, the scheme promotes skill development.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "Beneficiaries are encouraged to undergo training programs related to vehicle operation and maintenance.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Beneficiaries are encouraged to undergo training programs related to vehicle operation and maintenance.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "This training enhances their employability and self-sufficiency.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This training enhances their employability and self-sufficiency.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "The Vehicle Loan Scheme aligns with the government’s vision of inclusive growth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Vehicle Loan Scheme aligns with the government’s vision of inclusive growth.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "It aims to bridge the gap between different socio-economic groups.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It aims to bridge the gap between different socio-economic groups.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The scheme is also part of the larger framework of welfare schemes in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is also part of the larger framework of welfare schemes in Karnataka.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "Other welfare schemes complement the Vehicle Loan Scheme to provide holistic support.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Other welfare schemes complement the Vehicle Loan Scheme to provide holistic support.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "The government is committed to ensuring that the benefits reach the intended beneficiaries.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government is committed to ensuring that the benefits reach the intended beneficiaries.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "Regular awareness campaigns are conducted to inform eligible individuals about the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Regular awareness campaigns are conducted to inform eligible individuals about the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "These campaigns aim to increase participation and utilization of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These campaigns aim to increase participation and utilization of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "The Vehicle Loan Scheme is an essential step towards financial inclusion.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Vehicle Loan Scheme is an essential step towards financial inclusion.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "It empowers individuals to own vehicles and improve their quality of life.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It empowers individuals to own vehicles and improve their quality of life.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "The scheme has a significant impact on rural and semi-urban areas.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has a significant impact on rural and semi-urban areas.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "It facilitates better access to markets and employment opportunities.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It facilitates better access to markets and employment opportunities.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "The government continues to evaluate the scheme’s performance and make necessary adjustments.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government continues to evaluate the scheme’s performance and make necessary adjustments.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "The aim is to make the scheme more accessible and beneficial for all eligible individuals.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The aim is to make the scheme more accessible and beneficial for all eligible individuals.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "ctu2": {
+        "sentence": "Overall, the Vehicle Loan Scheme is a vital initiative that supports economic development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Overall, the Vehicle Loan Scheme is a vital initiative that supports economic development.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 59
+      },
+      "ctu2": {
+        "sentence": "It fosters self-reliance among marginalized communities in Karnataka.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It fosters self-reliance among marginalized communities in Karnataka.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 60
+      },
+      "ctu2": {
+        "sentence": "The scheme's success is measured by the number of beneficiaries and the impact on their livelihoods.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme's success is measured by the number of beneficiaries and the impact on their livelihoods.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 61
+      },
+      "ctu2": {
+        "sentence": "The government remains dedicated to enhancing the scheme for future beneficiaries.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government remains dedicated to enhancing the scheme for future beneficiaries.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 62
+      },
+      "ctu2": {
+        "sentence": "Through this initiative, the Government of Karnataka aims to create a more equitable society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Through this initiative, the Government of Karnataka aims to create a more equitable society.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 63
+      },
+      "ctu2": {
+        "sentence": "The Vehicle Loan Scheme stands as a testament to the government's commitment to welfare and empowerment.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 64
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must possess a valid driving license to qualify for the loan.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "The application process is straightforward and involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Interested individuals must visit the official website of the Karnataka government or the respective financial institution.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "They need to download the application form or obtain it from the nearest bank branch.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "The completed application form must be submitted along with required documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The loan approval process typically takes 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 3,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Required documents include proof of identity, proof of residence, income certificate, and driving license.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "The loan approval process typically takes 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 2,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "The loan approval process typically takes 15 to 30 days.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "Upon approval, the loan amount is disbursed directly to the vehicle dealer.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "ENABLES",
+      "method": "production_pipeline",
+      "confidence": 0.6400000000000001,
+      "edge_confidence": 0.6400000000000001,
+      "edge_logit": 0.5753641449035625,
+      "distance": 1,
+      "edge_confidence_raw": 0.8
+    },
+    {
+      "ctu1": {
+        "sentence": "The interest subsidy is provided for a maximum tenure of 5 years.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "The subsidy can be up to 50% of the interest rate charged by the banks.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "CAP_LIMITS",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 4,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "For any queries or assistance, beneficiaries can contact the Department of Social Welfare at their official office.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "This allocation aims to support more individuals in purchasing vehicles.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 5,
+      "edge_confidence_raw": 0.7
+    },
+    {
+      "ctu1": {
+        "sentence": "The contact details for the department are available on the Karnataka government’s official website.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "This allocation aims to support more individuals in purchasing vehicles.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "ADMINISTERED_BY",
+      "method": "production_pipeline",
+      "confidence": 0.5599999999999999,
+      "edge_confidence": 0.5599999999999999,
+      "edge_logit": 0.24116205681688788,
+      "distance": 4,
+      "edge_confidence_raw": 0.7
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 64,
+    "actual_precedes": 64,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

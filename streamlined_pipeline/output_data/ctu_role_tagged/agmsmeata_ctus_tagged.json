@@ -1,0 +1,619 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+  "total_sentences": 60,
+  "ctus": [
+    {
+      "sentence": "The Aatmanirbhar Gujarat Scheme for assistance to Micro Small and Medium Enterprises (MSMEs) was launched by the Government of Gujarat on May 1, 2020.",
+      "text": "The Aatmanirbhar Gujarat Scheme for assistance to Micro Small and Medium Enterprises (MSMEs) was launched by the Government of Gujarat on May 1, 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme is part of the larger Aatmanirbhar Bharat initiative announced by the Prime Minister of India in May 2020.",
+      "text": "This scheme is part of the larger Aatmanirbhar Bharat initiative announced by the Prime Minister of India in May 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of this scheme is to promote self-reliance among MSMEs in Gujarat by providing financial assistance for technology acquisition.",
+      "text": "The primary objective of this scheme is to promote self-reliance among MSMEs in Gujarat by providing financial assistance for technology acquisition.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to enhance the competitiveness of MSMEs through the adoption of modern technology.",
+      "text": "The scheme aims to enhance the competitiveness of MSMEs through the adoption of modern technology.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It seeks to improve productivity and efficiency in operations by facilitating access to advanced technology.",
+      "text": "It seeks to improve productivity and efficiency in operations by facilitating access to advanced technology.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has a target of supporting at least 1,000 MSMEs in the state within the first year of its implementation.",
+      "text": "The scheme has a target of supporting at least 1,000 MSMEs in the state within the first year of its implementation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme is up to 50 percent of the cost of technology acquisition.",
+      "text": "The financial assistance provided under this scheme is up to 50 percent of the cost of technology acquisition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The maximum assistance amount is capped at INR 1 crore per MSME.",
+      "text": "The maximum assistance amount is capped at INR 1 crore per MSME.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This financial support is intended to cover the costs associated with purchasing new machinery, equipment, or technology solutions.",
+      "text": "This financial support is intended to cover the costs associated with purchasing new machinery, equipment, or technology solutions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The assistance is available for both new and existing MSMEs looking to upgrade their technology.",
+      "text": "The assistance is available for both new and existing MSMEs looking to upgrade their technology.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligibility for the scheme is limited to MSMEs registered in Gujarat.",
+      "text": "Eligibility for the scheme is limited to MSMEs registered in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To qualify as an MSME, the enterprise must meet the criteria defined under the Micro, Small and Medium Enterprises Development Act of 2006.",
+      "text": "To qualify as an MSME, the enterprise must meet the criteria defined under the Micro, Small and Medium Enterprises Development Act of 2006.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For micro enterprises, the investment in plant and machinery should not exceed INR 1 crore.",
+      "text": "For micro enterprises, the investment in plant and machinery should not exceed INR 1 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "For small enterprises, the investment limit is set at INR 10 crore.",
+      "text": "For small enterprises, the investment limit is set at INR 10 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Medium enterprises can have an investment of up to INR 50 crore in plant and machinery.",
+      "text": "Medium enterprises can have an investment of up to INR 50 crore in plant and machinery.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, the annual turnover for micro enterprises should not exceed INR 5 crore.",
+      "text": "Additionally, the annual turnover for micro enterprises should not exceed INR 5 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "For small enterprises, the turnover limit is INR 50 crore.",
+      "text": "For small enterprises, the turnover limit is INR 50 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Medium enterprises must have a turnover of up to INR 250 crore to qualify.",
+      "text": "Medium enterprises must have a turnover of up to INR 250 crore to qualify.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Aatmanirbhar Gujarat Scheme is straightforward.",
+      "text": "The application process for the Aatmanirbhar Gujarat Scheme is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested MSMEs must submit an online application through the official Gujarat government portal.",
+      "text": "Interested MSMEs must submit an online application through the official Gujarat government portal.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires details about the enterprise, including its registration number, type of technology sought, and cost estimates.",
+      "text": "The application form requires details about the enterprise, including its registration number, type of technology sought, and cost estimates.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Documents required for the application include a copy of the MSME registration certificate, project report, and quotations from technology providers.",
+      "text": "Documents required for the application include a copy of the MSME registration certificate, project report, and quotations from technology providers.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the Gujarat government’s MSME department.",
+      "text": "Once the application is submitted, it is reviewed by the Gujarat government’s MSME department.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The review process typically takes about 30 days from the date of submission.",
+      "text": "The review process typically takes about 30 days from the date of submission.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the financial assistance is disbursed in a single installment.",
+      "text": "If approved, the financial assistance is disbursed in a single installment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement is made directly to the bank account of the MSME.",
+      "text": "The disbursement is made directly to the bank account of the MSME.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to be user-friendly and aims to minimize bureaucratic hurdles.",
+      "text": "The scheme is designed to be user-friendly and aims to minimize bureaucratic hurdles.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Department of MSME and Cooperatives, Government of Gujarat.",
+      "text": "The implementing authority for this scheme is the Department of MSME and Cooperatives, Government of Gujarat.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The department can be contacted for queries at their official helpline number 1800 233 2220.",
+      "text": "The department can be contacted for queries at their official helpline number 1800 233 2220.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, the department's official website provides comprehensive information about the scheme and its guidelines.",
+      "text": "Additionally, the department's official website provides comprehensive information about the scheme and its guidelines.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Aatmanirbhar Gujarat Scheme is part of a broader strategy to strengthen the MSME sector in the state.",
+      "text": "The Aatmanirbhar Gujarat Scheme is part of a broader strategy to strengthen the MSME sector in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The MSME sector in Gujarat contributes significantly to the state's economy, accounting for approximately 45 percent of the industrial output.",
+      "text": "The MSME sector in Gujarat contributes significantly to the state's economy, accounting for approximately 45 percent of the industrial output.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The sector also provides employment to over 1.5 million people across the state.",
+      "text": "The sector also provides employment to over 1.5 million people across the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "By facilitating technology acquisition, the government aims to enhance the overall productivity and sustainability of these enterprises.",
+      "text": "By facilitating technology acquisition, the government aims to enhance the overall productivity and sustainability of these enterprises.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to create a ripple effect, leading to increased innovation and competitiveness among MSMEs.",
+      "text": "The scheme is expected to create a ripple effect, leading to increased innovation and competitiveness among MSMEs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Furthermore, the initiative aligns with the national goal of making India a global manufacturing hub.",
+      "text": "Furthermore, the initiative aligns with the national goal of making India a global manufacturing hub.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has also been designed to support the Make in India initiative by encouraging local manufacturing.",
+      "text": "The scheme has also been designed to support the Make in India initiative by encouraging local manufacturing.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, the scheme has successfully disbursed financial assistance to over 500 MSMEs.",
+      "text": "As of October 2023, the scheme has successfully disbursed financial assistance to over 500 MSMEs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This has resulted in the acquisition of advanced technology by these enterprises, leading to improved production capabilities.",
+      "text": "This has resulted in the acquisition of advanced technology by these enterprises, leading to improved production capabilities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has reported an increase in productivity by an average of 30 percent among the beneficiaries of the scheme.",
+      "text": "The government has reported an increase in productivity by an average of 30 percent among the beneficiaries of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Moreover, the scheme has contributed to the creation of approximately 10,000 new jobs in the state.",
+      "text": "Moreover, the scheme has contributed to the creation of approximately 10,000 new jobs in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial assistance, the scheme also provides advisory services to MSMEs.",
+      "text": "In addition to financial assistance, the scheme also provides advisory services to MSMEs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These services include guidance on technology selection and implementation strategies.",
+      "text": "These services include guidance on technology selection and implementation strategies.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government collaborates with various technology providers to facilitate access to cutting-edge solutions.",
+      "text": "The government collaborates with various technology providers to facilitate access to cutting-edge solutions.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Aatmanirbhar Gujarat Scheme is a significant step towards empowering local businesses.",
+      "text": "The Aatmanirbhar Gujarat Scheme is a significant step towards empowering local businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to fostering a conducive environment for MSME growth.",
+      "text": "It reflects the government's commitment to fostering a conducive environment for MSME growth.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to evolve further based on feedback from beneficiaries and changing market dynamics.",
+      "text": "The scheme is expected to evolve further based on feedback from beneficiaries and changing market dynamics.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is continuously monitoring the impact of the scheme on the MSME sector.",
+      "text": "The government is continuously monitoring the impact of the scheme on the MSME sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future enhancements may include increasing the financial assistance cap or expanding eligibility criteria.",
+      "text": "Future enhancements may include increasing the financial assistance cap or expanding eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Aatmanirbhar Gujarat Scheme is a vital component of Gujarat's economic development strategy.",
+      "text": "The Aatmanirbhar Gujarat Scheme is a vital component of Gujarat's economic development strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It underscores the importance of technology in driving growth and sustainability in the MSME sector.",
+      "text": "It underscores the importance of technology in driving growth and sustainability in the MSME sector.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme not only addresses immediate financial needs but also promotes long-term strategic planning among enterprises.",
+      "text": "The scheme not only addresses immediate financial needs but also promotes long-term strategic planning among enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Aatmanirbhar Gujarat Scheme for assistance to MSMEs is a comprehensive initiative aimed at transforming the landscape of small and medium enterprises in the state.",
+      "text": "Overall, the Aatmanirbhar Gujarat Scheme for assistance to MSMEs is a comprehensive initiative aimed at transforming the landscape of small and medium enterprises in the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By focusing on technology acquisition, the scheme is paving the way for a more resilient and competitive MSME sector in Gujarat.",
+      "text": "By focusing on technology acquisition, the scheme is paving the way for a more resilient and competitive MSME sector in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is crucial for achieving the broader goals of economic growth and self-reliance in the region.",
+      "text": "This initiative is crucial for achieving the broader goals of economic growth and self-reliance in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme exemplifies how targeted government interventions can lead to significant improvements in the business ecosystem.",
+      "text": "The scheme exemplifies how targeted government interventions can lead to significant improvements in the business ecosystem.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a model that other states may consider emulating to support their MSME sectors.",
+      "text": "It is a model that other states may consider emulating to support their MSME sectors.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The success of this scheme will be pivotal in determining the future direction of MSME policies in Gujarat and beyond.",
+      "text": "The success of this scheme will be pivotal in determining the future direction of MSME policies in Gujarat and beyond.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Aatmanirbhar Gujarat Scheme for assistance to MSMEs represents a proactive approach to fostering innovation and growth in the small business sector.",
+      "text": "In conclusion, the Aatmanirbhar Gujarat Scheme for assistance to MSMEs represents a proactive approach to fostering innovation and growth in the small business sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a testament to the government's commitment to empowering local entrepreneurs and enhancing their capabilities.",
+      "text": "It is a testament to the government's commitment to empowering local entrepreneurs and enhancing their capabilities.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T18:20:19.733400",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 60,
+    "role_distribution": {
+      "ContextObjective": 28,
+      "BenefitsAssistance": 17,
+      "Eligibility": 4,
+      "ApplicationProcess": 4,
+      "AuthoritiesGovernance": 7
+    }
+  }
+}

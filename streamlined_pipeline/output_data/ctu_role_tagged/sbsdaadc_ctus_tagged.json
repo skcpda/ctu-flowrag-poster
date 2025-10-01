@@ -1,0 +1,600 @@
+{
+  "scheme_name": "Loan for Small Businesses (DAADC)",
+  "total_sentences": 58,
+  "ctus": [
+    {
+      "sentence": "The Loan for Small Businesses scheme is a significant initiative launched by the Government of India to support small and medium enterprises.",
+      "text": "The Loan for Small Businesses scheme is a significant initiative launched by the Government of India to support small and medium enterprises.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme is also known as the Direct Access to Affordable Credit (DAADC) scheme.",
+      "text": "This scheme is also known as the Direct Access to Affordable Credit (DAADC) scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It was launched in the year 2020 as part of the Atmanirbhar Bharat Abhiyan.",
+      "text": "It was launched in the year 2020 as part of the Atmanirbhar Bharat Abhiyan.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the DAADC scheme is to provide financial assistance to small businesses that are struggling to access credit from traditional banking channels.",
+      "text": "The primary objective of the DAADC scheme is to provide financial assistance to small businesses that are struggling to access credit from traditional banking channels.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to promote entrepreneurship and boost the economy by empowering small business owners.",
+      "text": "The scheme aims to promote entrepreneurship and boost the economy by empowering small business owners.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a target to disburse loans amounting to ₹3 lakh crore under this scheme over a period of five years.",
+      "text": "The government has set a target to disburse loans amounting to ₹3 lakh crore under this scheme over a period of five years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loans are intended to help small businesses meet their operational costs, purchase equipment, and expand their operations.",
+      "text": "The loans are intended to help small businesses meet their operational costs, purchase equipment, and expand their operations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The DAADC scheme is designed to provide loans at a lower interest rate compared to conventional lending.",
+      "text": "The DAADC scheme is designed to provide loans at a lower interest rate compared to conventional lending.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The interest rate for loans under this scheme is capped at 7 percent per annum.",
+      "text": "The interest rate for loans under this scheme is capped at 7 percent per annum.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This is significantly lower than the average interest rates charged by banks, which can range from 10 to 15 percent.",
+      "text": "This is significantly lower than the average interest rates charged by banks, which can range from 10 to 15 percent.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Eligible businesses can avail of loans ranging from ₹10 lakh to ₹1 crore.",
+      "text": "Eligible businesses can avail of loans ranging from ₹10 lakh to ₹1 crore.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The loans can be used for various purposes including working capital, purchasing machinery, and other business-related expenses.",
+      "text": "The loans can be used for various purposes including working capital, purchasing machinery, and other business-related expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The repayment period for these loans is typically set at 5 years.",
+      "text": "The repayment period for these loans is typically set at 5 years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, businesses may also be eligible for a moratorium period of up to 6 months before they start repaying the loan.",
+      "text": "However, businesses may also be eligible for a moratorium period of up to 6 months before they start repaying the loan.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To qualify for the DAADC scheme, businesses must meet certain eligibility criteria.",
+      "text": "To qualify for the DAADC scheme, businesses must meet certain eligibility criteria.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The applicant must be a registered small or medium enterprise as defined by the Ministry of Micro, Small and Medium Enterprises.",
+      "text": "The applicant must be a registered small or medium enterprise as defined by the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The business must have been operational for at least one year prior to applying for the loan.",
+      "text": "The business must have been operational for at least one year prior to applying for the loan.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The annual turnover of the business should not exceed ₹5 crore.",
+      "text": "The annual turnover of the business should not exceed ₹5 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, the applicant must not have any outstanding loans with a default status.",
+      "text": "Additionally, the applicant must not have any outstanding loans with a default status.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the DAADC scheme is straightforward and can be completed online.",
+      "text": "The application process for the DAADC scheme is straightforward and can be completed online.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must visit the official website of the Ministry of Micro, Small and Medium Enterprises.",
+      "text": "Applicants must visit the official website of the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They will need to fill out an online application form providing details about their business and financial requirements.",
+      "text": "They will need to fill out an online application form providing details about their business and financial requirements.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Required documents include proof of business registration, income tax returns for the last two financial years, and a detailed project report outlining the purpose of the loan.",
+      "text": "Required documents include proof of business registration, income tax returns for the last two financial years, and a detailed project report outlining the purpose of the loan.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it will be reviewed by a designated bank or financial institution.",
+      "text": "Once the application is submitted, it will be reviewed by a designated bank or financial institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The bank will assess the creditworthiness of the applicant based on their financial history and business viability.",
+      "text": "The bank will assess the creditworthiness of the applicant based on their financial history and business viability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the loan amount will be disbursed directly to the applicant's bank account.",
+      "text": "If approved, the loan amount will be disbursed directly to the applicant's bank account.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The DAADC scheme is implemented by the Ministry of Micro, Small and Medium Enterprises.",
+      "text": "The DAADC scheme is implemented by the Ministry of Micro, Small and Medium Enterprises.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ministry collaborates with various public sector banks and financial institutions to facilitate the disbursement of loans.",
+      "text": "The ministry collaborates with various public sector banks and financial institutions to facilitate the disbursement of loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Contact details for the Ministry of Micro, Small and Medium Enterprises can be found on their official website.",
+      "text": "Contact details for the Ministry of Micro, Small and Medium Enterprises can be found on their official website.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative to enhance the ease of doing business in India.",
+      "text": "The scheme is part of a broader initiative to enhance the ease of doing business in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to create a conducive environment for small businesses to thrive.",
+      "text": "The government aims to create a conducive environment for small businesses to thrive.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As of October 2023, over 1 lakh small businesses have benefited from the DAADC scheme.",
+      "text": "As of October 2023, over 1 lakh small businesses have benefited from the DAADC scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total amount disbursed under the scheme has exceeded ₹50,000 crore.",
+      "text": "The total amount disbursed under the scheme has exceeded ₹50,000 crore.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This has significantly contributed to job creation and economic growth in the country.",
+      "text": "This has significantly contributed to job creation and economic growth in the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The DAADC scheme is particularly beneficial for women entrepreneurs.",
+      "text": "The DAADC scheme is particularly beneficial for women entrepreneurs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a target to ensure that at least 30 percent of the loans are disbursed to women-led businesses.",
+      "text": "The government has set a target to ensure that at least 30 percent of the loans are disbursed to women-led businesses.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative is part of the government's commitment to promoting gender equality in entrepreneurship.",
+      "text": "This initiative is part of the government's commitment to promoting gender equality in entrepreneurship.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also includes provisions for skill development and training for small business owners.",
+      "text": "The scheme also includes provisions for skill development and training for small business owners.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Workshops and seminars are organized to educate entrepreneurs about financial management and business operations.",
+      "text": "Workshops and seminars are organized to educate entrepreneurs about financial management and business operations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These initiatives are aimed at enhancing the overall capacity of small businesses to manage their finances effectively.",
+      "text": "These initiatives are aimed at enhancing the overall capacity of small businesses to manage their finances effectively.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The DAADC scheme has received positive feedback from beneficiaries.",
+      "text": "The DAADC scheme has received positive feedback from beneficiaries.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many small business owners have reported improved cash flow and increased sales after availing of the loan.",
+      "text": "Many small business owners have reported improved cash flow and increased sales after availing of the loan.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government continues to monitor the progress of the scheme to ensure its effectiveness.",
+      "text": "The government continues to monitor the progress of the scheme to ensure its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the impact of the loans on business growth and sustainability.",
+      "text": "Regular assessments are conducted to evaluate the impact of the loans on business growth and sustainability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The DAADC scheme is a crucial part of the Indian government's strategy to boost the MSME sector.",
+      "text": "The DAADC scheme is a crucial part of the Indian government's strategy to boost the MSME sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The MSME sector contributes approximately 30 percent to India's GDP.",
+      "text": "The MSME sector contributes approximately 30 percent to India's GDP.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It also accounts for around 45 percent of total manufacturing output.",
+      "text": "It also accounts for around 45 percent of total manufacturing output.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government recognizes the importance of supporting this sector to achieve sustainable economic growth.",
+      "text": "The government recognizes the importance of supporting this sector to achieve sustainable economic growth.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Loan for Small Businesses (DAADC) scheme is a vital initiative aimed at empowering small and medium enterprises in India.",
+      "text": "In conclusion, the Loan for Small Businesses (DAADC) scheme is a vital initiative aimed at empowering small and medium enterprises in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "With its focus on affordable credit and support for entrepreneurship, the scheme is expected to play a significant role in the country's economic recovery and growth.",
+      "text": "With its focus on affordable credit and support for entrepreneurship, the scheme is expected to play a significant role in the country's economic recovery and growth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The DAADC scheme not only provides financial assistance but also fosters an ecosystem conducive to business development.",
+      "text": "The DAADC scheme not only provides financial assistance but also fosters an ecosystem conducive to business development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By addressing the credit gap faced by small businesses, the government is paving the way for a more robust and resilient economy.",
+      "text": "By addressing the credit gap faced by small businesses, the government is paving the way for a more robust and resilient economy.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This initiative reflects the government's commitment to promoting entrepreneurship and creating job opportunities across the country.",
+      "text": "This initiative reflects the government's commitment to promoting entrepreneurship and creating job opportunities across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As the scheme continues to evolve, it is expected to adapt to the changing needs of small businesses in India.",
+      "text": "As the scheme continues to evolve, it is expected to adapt to the changing needs of small businesses in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The DAADC scheme is a testament to the government's proactive approach in supporting the MSME sector.",
+      "text": "The DAADC scheme is a testament to the government's proactive approach in supporting the MSME sector.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is an essential tool for fostering innovation and competitiveness among small businesses in India.",
+      "text": "It is an essential tool for fostering innovation and competitiveness among small businesses in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The success of this scheme will ultimately depend on the active participation of small business owners and their willingness to leverage the opportunities provided.",
+      "text": "The success of this scheme will ultimately depend on the active participation of small business owners and their willingness to leverage the opportunities provided.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government encourages all eligible entrepreneurs to take advantage of this scheme and contribute to the nation's economic growth.",
+      "text": "The government encourages all eligible entrepreneurs to take advantage of this scheme and contribute to the nation's economic growth.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Loan for Small Businesses (DAADC)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T18:55:25.492695",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 58,
+    "role_distribution": {
+      "ContextObjective": 24,
+      "TimelineFrequency": 2,
+      "BenefitsAssistance": 16,
+      "Eligibility": 6,
+      "AuthoritiesGovernance": 8,
+      "ApplicationProcess": 2
+    }
+  }
+}

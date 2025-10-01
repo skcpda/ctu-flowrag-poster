@@ -1,0 +1,750 @@
+{
+  "scheme_name": "Advocate Grant",
+  "total_sentences": 73,
+  "ctus": [
+    {
+      "sentence": "The Advocate Grant scheme was launched by the Government of India in 2020.",
+      "text": "The Advocate Grant scheme was launched by the Government of India in 2020.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It was initiated to provide financial assistance to advocates who are facing economic hardships.",
+      "text": "It was initiated to provide financial assistance to advocates who are facing economic hardships.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to support advocates during the COVID-19 pandemic.",
+      "text": "The scheme aims to support advocates during the COVID-19 pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the Advocate Grant scheme is to offer a one-time financial assistance of ₹5,000.",
+      "text": "The primary objective of the Advocate Grant scheme is to offer a one-time financial assistance of ₹5,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This assistance is intended to help advocates who have lost their livelihood due to the pandemic.",
+      "text": "This assistance is intended to help advocates who have lost their livelihood due to the pandemic.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets advocates who are registered with the Bar Council of India.",
+      "text": "The scheme specifically targets advocates who are registered with the Bar Council of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "To be eligible for this grant, advocates must have a valid registration with their respective State Bar Councils.",
+      "text": "To be eligible for this grant, advocates must have a valid registration with their respective State Bar Councils.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The eligibility criteria also include an income limit.",
+      "text": "The eligibility criteria also include an income limit.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Advocates with an annual income of less than ₹3 lakh are eligible to apply for the grant.",
+      "text": "Advocates with an annual income of less than ₹3 lakh are eligible to apply for the grant.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Advocate Grant is straightforward.",
+      "text": "The application process for the Advocate Grant is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested advocates must fill out an online application form available on the official Bar Council website.",
+      "text": "Interested advocates must fill out an online application form available on the official Bar Council website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form requires basic personal details such as name, address, and contact information.",
+      "text": "The application form requires basic personal details such as name, address, and contact information.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must also provide their Bar Council registration number.",
+      "text": "Applicants must also provide their Bar Council registration number.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to the application form, certain documents are required.",
+      "text": "In addition to the application form, certain documents are required.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These documents include a copy of the Bar Council registration certificate.",
+      "text": "These documents include a copy of the Bar Council registration certificate.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Applicants must also submit proof of income to demonstrate eligibility.",
+      "text": "Applicants must also submit proof of income to demonstrate eligibility.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This can include income tax returns or salary slips if applicable.",
+      "text": "This can include income tax returns or salary slips if applicable.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the respective State Bar Council.",
+      "text": "Once the application is submitted, it is reviewed by the respective State Bar Council.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The State Bar Council verifies the details provided in the application.",
+      "text": "The State Bar Council verifies the details provided in the application.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the financial assistance is disbursed directly to the bank account of the advocate.",
+      "text": "If approved, the financial assistance is disbursed directly to the bank account of the advocate.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement is typically completed within 30 days of approval.",
+      "text": "The disbursement is typically completed within 30 days of approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is implemented by the Ministry of Law and Justice.",
+      "text": "The Advocate Grant scheme is implemented by the Ministry of Law and Justice.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Ministry collaborates with State Bar Councils for effective implementation.",
+      "text": "The Ministry collaborates with State Bar Councils for effective implementation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was launched in response to the economic challenges faced by advocates during the pandemic.",
+      "text": "The scheme was launched in response to the economic challenges faced by advocates during the pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes the essential role of advocates in the justice delivery system.",
+      "text": "It recognizes the essential role of advocates in the justice delivery system.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also aims to alleviate the financial burden on advocates who have been unable to practice due to lockdowns.",
+      "text": "The scheme also aims to alleviate the financial burden on advocates who have been unable to practice due to lockdowns.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Since its launch, the Advocate Grant scheme has benefited thousands of advocates across India.",
+      "text": "Since its launch, the Advocate Grant scheme has benefited thousands of advocates across India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has allocated a substantial budget for this scheme.",
+      "text": "The government has allocated a substantial budget for this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the financial year 2020-2021, ₹50 crore was earmarked for the Advocate Grant scheme.",
+      "text": "In the financial year 2020-2021, ₹50 crore was earmarked for the Advocate Grant scheme.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This funding is intended to ensure that financial assistance reaches those in need.",
+      "text": "This funding is intended to ensure that financial assistance reaches those in need.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of a broader initiative by the government to support various sectors affected by the pandemic.",
+      "text": "The scheme is part of a broader initiative by the government to support various sectors affected by the pandemic.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to the Advocate Grant, other welfare schemes have been launched for different professions.",
+      "text": "In addition to the Advocate Grant, other welfare schemes have been launched for different professions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has emphasized the importance of supporting legal professionals during this crisis.",
+      "text": "The government has emphasized the importance of supporting legal professionals during this crisis.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is a testament to this commitment.",
+      "text": "The Advocate Grant scheme is a testament to this commitment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application portal for the scheme is user-friendly and accessible.",
+      "text": "The application portal for the scheme is user-friendly and accessible.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Advocates can apply from the comfort of their homes.",
+      "text": "Advocates can apply from the comfort of their homes.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from the legal community.",
+      "text": "The scheme has received positive feedback from the legal community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many advocates have expressed gratitude for the timely assistance provided.",
+      "text": "Many advocates have expressed gratitude for the timely assistance provided.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial support has allowed many to sustain their practice during difficult times.",
+      "text": "The financial support has allowed many to sustain their practice during difficult times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to continue as long as the economic challenges persist.",
+      "text": "The scheme is expected to continue as long as the economic challenges persist.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government is monitoring the situation closely to assess the need for further assistance.",
+      "text": "The government is monitoring the situation closely to assess the need for further assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial support, the scheme also aims to raise awareness about the challenges faced by advocates.",
+      "text": "In addition to financial support, the scheme also aims to raise awareness about the challenges faced by advocates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It highlights the importance of legal representation in society.",
+      "text": "It highlights the importance of legal representation in society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is an essential step towards ensuring the welfare of advocates.",
+      "text": "The Advocate Grant scheme is an essential step towards ensuring the welfare of advocates.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It acknowledges the contributions of advocates to the legal system.",
+      "text": "It acknowledges the contributions of advocates to the legal system.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government encourages all eligible advocates to take advantage of this scheme.",
+      "text": "The government encourages all eligible advocates to take advantage of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular updates about the scheme are provided on the official Bar Council websites.",
+      "text": "Regular updates about the scheme are provided on the official Bar Council websites.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Advocates are advised to stay informed about any changes in eligibility criteria or application procedures.",
+      "text": "Advocates are advised to stay informed about any changes in eligibility criteria or application procedures.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a part of the government's ongoing efforts to strengthen the legal profession in India.",
+      "text": "The scheme is a part of the government's ongoing efforts to strengthen the legal profession in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to create a more resilient legal community capable of serving the public effectively.",
+      "text": "It aims to create a more resilient legal community capable of serving the public effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is a significant initiative that reflects the government's commitment to social welfare.",
+      "text": "The Advocate Grant scheme is a significant initiative that reflects the government's commitment to social welfare.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It serves as a model for how targeted financial assistance can support professionals in times of crisis.",
+      "text": "It serves as a model for how targeted financial assistance can support professionals in times of crisis.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is expected to evolve based on the changing needs of the legal community.",
+      "text": "The scheme is expected to evolve based on the changing needs of the legal community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Future enhancements may include increased financial assistance or additional support services.",
+      "text": "Future enhancements may include increased financial assistance or additional support services.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is a crucial lifeline for many advocates during challenging times.",
+      "text": "The Advocate Grant scheme is a crucial lifeline for many advocates during challenging times.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It underscores the importance of solidarity and support within the legal profession.",
+      "text": "It underscores the importance of solidarity and support within the legal profession.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government remains dedicated to ensuring that advocates are not left behind during economic downturns.",
+      "text": "The government remains dedicated to ensuring that advocates are not left behind during economic downturns.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is a vital component of this commitment.",
+      "text": "The Advocate Grant scheme is a vital component of this commitment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Advocates are encouraged to apply promptly to ensure they receive the necessary support.",
+      "text": "Advocates are encouraged to apply promptly to ensure they receive the necessary support.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme represents a proactive approach to addressing the needs of legal professionals.",
+      "text": "The scheme represents a proactive approach to addressing the needs of legal professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is an important step towards safeguarding the livelihoods of advocates across India.",
+      "text": "It is an important step towards safeguarding the livelihoods of advocates across India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is a clear indication of the government's recognition of the legal profession's challenges.",
+      "text": "The Advocate Grant scheme is a clear indication of the government's recognition of the legal profession's challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to empower advocates to continue their essential work in society.",
+      "text": "It aims to empower advocates to continue their essential work in society.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a beacon of hope for many who are struggling to make ends meet.",
+      "text": "The scheme is a beacon of hope for many who are struggling to make ends meet.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reinforces the idea that the legal profession is valued and supported by the government.",
+      "text": "It reinforces the idea that the legal profession is valued and supported by the government.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is a significant achievement in the realm of welfare initiatives for professionals.",
+      "text": "The Advocate Grant scheme is a significant achievement in the realm of welfare initiatives for professionals.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a testament to the government's responsiveness to the needs of its citizens.",
+      "text": "It is a testament to the government's responsiveness to the needs of its citizens.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a vital resource for advocates navigating the complexities of the current economic landscape.",
+      "text": "The scheme is a vital resource for advocates navigating the complexities of the current economic landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 67,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is essential for advocates to remain informed about the scheme and participate actively.",
+      "text": "It is essential for advocates to remain informed about the scheme and participate actively.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 68,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Advocate Grant scheme is an opportunity for advocates to receive much-needed financial assistance.",
+      "text": "The Advocate Grant scheme is an opportunity for advocates to receive much-needed financial assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 69,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It is a crucial support mechanism during unprecedented times.",
+      "text": "It is a crucial support mechanism during unprecedented times.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 70,
+      "scheme_name": "Advocate Grant",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme reflects a broader commitment to social justice and support for the legal community.",
+      "text": "The scheme reflects a broader commitment to social justice and support for the legal community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 71,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Advocates are encouraged to utilize this scheme to ensure their continued practice and service to society.",
+      "text": "Advocates are encouraged to utilize this scheme to ensure their continued practice and service to society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 72,
+      "scheme_name": "Advocate Grant",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T12:50:23.184653",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 73,
+    "role_distribution": {
+      "ContextObjective": 29,
+      "BenefitsAssistance": 20,
+      "Eligibility": 7,
+      "ApplicationProcess": 10,
+      "AuthoritiesGovernance": 6,
+      "TimelineFrequency": 1
+    }
+  }
+}

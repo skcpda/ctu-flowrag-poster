@@ -1,0 +1,731 @@
+{
+  "scheme_name": "Tiatr Script Writing Competition",
+  "total_sentences": 71,
+  "ctus": [
+    {
+      "sentence": "The Tiatr Script Writing Competition is an initiative launched by the Government of Goa.",
+      "text": "The Tiatr Script Writing Competition is an initiative launched by the Government of Goa.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This competition aims to promote the art of Tiatr, a traditional form of musical theatre in Goa.",
+      "text": "This competition aims to promote the art of Tiatr, a traditional form of musical theatre in Goa.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The competition was officially launched on March 1, 2023.",
+      "text": "The competition was officially launched on March 1, 2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It is organized by the Goa Directorate of Art and Culture.",
+      "text": "It is organized by the Goa Directorate of Art and Culture.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The primary objective of the Tiatr Script Writing Competition is to encourage local talent in scriptwriting.",
+      "text": "The primary objective of the Tiatr Script Writing Competition is to encourage local talent in scriptwriting.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The competition seeks to foster creativity and innovation in the Tiatr genre.",
+      "text": "The competition seeks to foster creativity and innovation in the Tiatr genre.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It aims to preserve and promote the cultural heritage of Goa through Tiatr.",
+      "text": "It aims to preserve and promote the cultural heritage of Goa through Tiatr.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition also aims to provide a platform for aspiring scriptwriters.",
+      "text": "The competition also aims to provide a platform for aspiring scriptwriters.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Participants are encouraged to submit original scripts that reflect contemporary issues.",
+      "text": "Participants are encouraged to submit original scripts that reflect contemporary issues.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The competition has specific measurable targets.",
+      "text": "The competition has specific measurable targets.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "One of the goals is to receive at least 100 script submissions annually.",
+      "text": "One of the goals is to receive at least 100 script submissions annually.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The competition also aims to select at least 10 winning scripts each year.",
+      "text": "The competition also aims to select at least 10 winning scripts each year.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Winners of the competition will receive monetary awards.",
+      "text": "Winners of the competition will receive monetary awards.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The first prize is set at INR 50,000.",
+      "text": "The first prize is set at INR 50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The second prize is INR 30,000.",
+      "text": "The second prize is INR 30,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The third prize is INR 20,000.",
+      "text": "The third prize is INR 20,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In addition to cash prizes, winners will receive certificates of recognition.",
+      "text": "In addition to cash prizes, winners will receive certificates of recognition.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is open to all residents of Goa.",
+      "text": "The competition is open to all residents of Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Participants must be at least 18 years old to enter.",
+      "text": "Participants must be at least 18 years old to enter.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There are no upper age limits for participants.",
+      "text": "There are no upper age limits for participants.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is open to individuals from all educational backgrounds.",
+      "text": "The competition is open to individuals from all educational backgrounds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "There are no specific educational qualifications required to participate.",
+      "text": "There are no specific educational qualifications required to participate.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Tiatr Script Writing Competition is straightforward.",
+      "text": "The application process for the Tiatr Script Writing Competition is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested participants must fill out an application form.",
+      "text": "Interested participants must fill out an application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can be obtained from the official website of the Directorate of Art and Culture.",
+      "text": "The application form can be obtained from the official website of the Directorate of Art and Culture.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Participants must submit their original scripts along with the application form.",
+      "text": "Participants must submit their original scripts along with the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Scripts must be written in the Konkani language.",
+      "text": "Scripts must be written in the Konkani language.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Each script must not exceed 60 pages in length.",
+      "text": "Each script must not exceed 60 pages in length.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Participants must ensure that their scripts are original and unpublished.",
+      "text": "Participants must ensure that their scripts are original and unpublished.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The deadline for submission of scripts is April 30, 2023.",
+      "text": "The deadline for submission of scripts is April 30, 2023.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Late submissions will not be accepted under any circumstances.",
+      "text": "Late submissions will not be accepted under any circumstances.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The evaluation of the scripts will be conducted by a panel of judges.",
+      "text": "The evaluation of the scripts will be conducted by a panel of judges.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The judging panel will consist of experienced playwrights and theatre experts.",
+      "text": "The judging panel will consist of experienced playwrights and theatre experts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The winners will be announced on May 15, 2023.",
+      "text": "The winners will be announced on May 15, 2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The awards ceremony will take place on June 1, 2023.",
+      "text": "The awards ceremony will take place on June 1, 2023.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is part of a broader initiative to promote cultural activities in Goa.",
+      "text": "The competition is part of a broader initiative to promote cultural activities in Goa.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Government of Goa has allocated a budget of INR 5 lakh for this competition.",
+      "text": "The Government of Goa has allocated a budget of INR 5 lakh for this competition.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This budget will cover the cash prizes and administrative costs.",
+      "text": "This budget will cover the cash prizes and administrative costs.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is expected to enhance the visibility of Tiatr in the cultural landscape.",
+      "text": "The competition is expected to enhance the visibility of Tiatr in the cultural landscape.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It will also encourage more people to engage with this traditional art form.",
+      "text": "It will also encourage more people to engage with this traditional art form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Directorate of Art and Culture will oversee the entire process.",
+      "text": "The Directorate of Art and Culture will oversee the entire process.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any inquiries regarding the competition, participants can contact the Directorate.",
+      "text": "For any inquiries regarding the competition, participants can contact the Directorate.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact number for the Directorate is +91 832 241 9444.",
+      "text": "The contact number for the Directorate is +91 832 241 9444.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The email address for queries is director@goa.gov.in.",
+      "text": "The email address for queries is director@goa.gov.in.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is expected to have a positive impact on the local theatre community.",
+      "text": "The competition is expected to have a positive impact on the local theatre community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It aims to inspire new generations of scriptwriters.",
+      "text": "It aims to inspire new generations of scriptwriters.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The initiative aligns with the Government of Goa's vision to promote local culture.",
+      "text": "The initiative aligns with the Government of Goa's vision to promote local culture.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It also supports the preservation of the Konkani language.",
+      "text": "It also supports the preservation of the Konkani language.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Tiatr Script Writing Competition is an important step towards cultural revitalization.",
+      "text": "The Tiatr Script Writing Competition is an important step towards cultural revitalization.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It encourages storytelling that resonates with contemporary audiences.",
+      "text": "It encourages storytelling that resonates with contemporary audiences.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition will also help in identifying and nurturing new talent.",
+      "text": "The competition will also help in identifying and nurturing new talent.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The winners will have the opportunity to have their scripts staged.",
+      "text": "The winners will have the opportunity to have their scripts staged.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This will provide them with practical experience in theatre production.",
+      "text": "This will provide them with practical experience in theatre production.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is part of a series of cultural initiatives by the Government of Goa.",
+      "text": "The competition is part of a series of cultural initiatives by the Government of Goa.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These initiatives aim to enhance the state's cultural identity.",
+      "text": "These initiatives aim to enhance the state's cultural identity.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Tiatr Script Writing Competition is expected to become an annual event.",
+      "text": "The Tiatr Script Writing Competition is expected to become an annual event.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It will serve as a platform for showcasing the richness of Goan culture.",
+      "text": "It will serve as a platform for showcasing the richness of Goan culture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is open to both seasoned writers and newcomers.",
+      "text": "The competition is open to both seasoned writers and newcomers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This inclusivity is designed to foster a diverse range of voices in Tiatr.",
+      "text": "This inclusivity is designed to foster a diverse range of voices in Tiatr.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The initiative is a testament to the Government's commitment to the arts.",
+      "text": "The initiative is a testament to the Government's commitment to the arts.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the importance of cultural heritage in the state's development.",
+      "text": "It reflects the importance of cultural heritage in the state's development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Tiatr Script Writing Competition is a unique opportunity for aspiring writers.",
+      "text": "The Tiatr Script Writing Competition is a unique opportunity for aspiring writers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 61,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It encourages them to contribute to the vibrant tradition of Tiatr.",
+      "text": "It encourages them to contribute to the vibrant tradition of Tiatr.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 62,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is expected to draw significant interest from the community.",
+      "text": "The competition is expected to draw significant interest from the community.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 63,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It aims to create a sense of pride in Goan culture and traditions.",
+      "text": "It aims to create a sense of pride in Goan culture and traditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 64,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Overall, the Tiatr Script Writing Competition is a significant cultural initiative.",
+      "text": "Overall, the Tiatr Script Writing Competition is a significant cultural initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 65,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It combines creativity with community engagement.",
+      "text": "It combines creativity with community engagement.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 66,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The competition is a step towards ensuring the longevity of Tiatr in Goa.",
+      "text": "The competition is a step towards ensuring the longevity of Tiatr in Goa.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 67,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It seeks to inspire a new generation of storytellers.",
+      "text": "It seeks to inspire a new generation of storytellers.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 68,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Government of Goa is committed to supporting the arts through such initiatives.",
+      "text": "The Government of Goa is committed to supporting the arts through such initiatives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 69,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Tiatr Script Writing Competition is an excellent example of this commitment.",
+      "text": "The Tiatr Script Writing Competition is an excellent example of this commitment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 70,
+      "scheme_name": "Tiatr Script Writing Competition",
+      "method": "embedding"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T17:16:43.366349",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 71,
+    "role_distribution": {
+      "ContextObjective": 17,
+      "ApplicationProcess": 9,
+      "BenefitsAssistance": 29,
+      "AuthoritiesGovernance": 4,
+      "TimelineFrequency": 3,
+      "Eligibility": 6,
+      "DefinitionsReferences": 3
+    }
+  }
+}

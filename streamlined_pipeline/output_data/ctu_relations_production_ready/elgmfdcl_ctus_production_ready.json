@@ -1,0 +1,1948 @@
+{
+  "scheme_name": "Educational Loan Scheme (GMFDC)",
+  "total_sentences": 59,
+  "ctus": [
+    {
+      "sentence": "The Educational Loan Scheme by the Gujarat Minorities Finance and Development Corporation (GMFDC) was launched in the year 2009.",
+      "text": "The Educational Loan Scheme by the Gujarat Minorities Finance and Development Corporation (GMFDC) was launched in the year 2009.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme aims to provide financial assistance to students from minority communities in Gujarat.",
+      "text": "This scheme aims to provide financial assistance to students from minority communities in Gujarat.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the scheme is to facilitate access to higher education for students who may face financial constraints.",
+      "text": "The primary objective of the scheme is to facilitate access to higher education for students who may face financial constraints.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The GMFDC aims to empower students by enabling them to pursue professional and technical courses.",
+      "text": "The GMFDC aims to empower students by enabling them to pursue professional and technical courses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme specifically targets students belonging to Muslim, Sikh, Christian, Buddhist, Jain, and Parsi communities.",
+      "text": "The scheme specifically targets students belonging to Muslim, Sikh, Christian, Buddhist, Jain, and Parsi communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme can cover tuition fees, examination fees, and other related educational expenses.",
+      "text": "The financial assistance provided under this scheme can cover tuition fees, examination fees, and other related educational expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The maximum loan amount available under the scheme is ₹10 lakh.",
+      "text": "The maximum loan amount available under the scheme is ₹10 lakh.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The interest rate for the loan is set at a subsidized rate of 4% per annum.",
+      "text": "The interest rate for the loan is set at a subsidized rate of 4% per annum.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Students can avail of the loan for a maximum tenure of 10 years.",
+      "text": "Students can avail of the loan for a maximum tenure of 10 years.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has a provision for a moratorium period of one year after the completion of the course.",
+      "text": "The scheme has a provision for a moratorium period of one year after the completion of the course.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This moratorium allows students to find employment before they start repaying the loan.",
+      "text": "This moratorium allows students to find employment before they start repaying the loan.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The eligibility criteria for the Educational Loan Scheme include a minimum age of 18 years.",
+      "text": "The eligibility criteria for the Educational Loan Scheme include a minimum age of 18 years.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants must have secured admission to a recognized institution for a professional or technical course.",
+      "text": "Applicants must have secured admission to a recognized institution for a professional or technical course.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The family income limit for eligibility is set at ₹6 lakh per annum.",
+      "text": "The family income limit for eligibility is set at ₹6 lakh per annum.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students must provide proof of their minority community status through relevant certificates.",
+      "text": "Students must provide proof of their minority community status through relevant certificates.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process involves several steps.",
+      "text": "The application process involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, applicants must obtain the application form from the GMFDC office or download it from the official website.",
+      "text": "First, applicants must obtain the application form from the GMFDC office or download it from the official website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The completed application form must be submitted along with required documents.",
+      "text": "The completed application form must be submitted along with required documents.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Documents required include proof of admission, income certificate, and community certificate.",
+      "text": "Documents required include proof of admission, income certificate, and community certificate.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the GMFDC officials.",
+      "text": "Once the application is submitted, it is reviewed by the GMFDC officials.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the loan amount is disbursed directly to the educational institution.",
+      "text": "If approved, the loan amount is disbursed directly to the educational institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is implemented by the Gujarat Minorities Finance and Development Corporation.",
+      "text": "The scheme is implemented by the Gujarat Minorities Finance and Development Corporation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The contact details for GMFDC are available on their official website.",
+      "text": "The contact details for GMFDC are available on their official website.",
+      "role": "DefinitionsReferences",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to support students pursuing courses in engineering, medicine, management, and other professional fields.",
+      "text": "The scheme is designed to support students pursuing courses in engineering, medicine, management, and other professional fields.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Disbursement of the loan amount is typically done in installments based on the fee structure of the institution.",
+      "text": "Disbursement of the loan amount is typically done in installments based on the fee structure of the institution.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has seen a significant uptake since its launch, with thousands of students benefiting each year.",
+      "text": "The scheme has seen a significant uptake since its launch, with thousands of students benefiting each year.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the financial year 2021-2022, GMFDC reported disbursing loans to over 2,500 students.",
+      "text": "In the financial year 2021-2022, GMFDC reported disbursing loans to over 2,500 students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total amount disbursed in that year was approximately ₹25 crore.",
+      "text": "The total amount disbursed in that year was approximately ₹25 crore.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme has contributed to increasing the enrollment of minority students in higher education institutions.",
+      "text": "The scheme has contributed to increasing the enrollment of minority students in higher education institutions.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "GMFDC also conducts awareness programs to inform students about the scheme.",
+      "text": "GMFDC also conducts awareness programs to inform students about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These programs are held in various districts across Gujarat.",
+      "text": "These programs are held in various districts across Gujarat.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Educational Loan Scheme is part of a broader initiative by the government to promote education among minority communities.",
+      "text": "The Educational Loan Scheme is part of a broader initiative by the government to promote education among minority communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aligns with the National Policy on Education, which emphasizes equitable access to education.",
+      "text": "The scheme aligns with the National Policy on Education, which emphasizes equitable access to education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government aims to increase the Gross Enrollment Ratio (GER) in higher education for minority students.",
+      "text": "The government aims to increase the Gross Enrollment Ratio (GER) in higher education for minority students.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The GER for minority students in Gujarat has improved since the introduction of this scheme.",
+      "text": "The GER for minority students in Gujarat has improved since the introduction of this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also encourages students to pursue higher education in emerging fields.",
+      "text": "The scheme also encourages students to pursue higher education in emerging fields.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Students are encouraged to take up courses in technology and innovation.",
+      "text": "Students are encouraged to take up courses in technology and innovation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The GMFDC has partnered with various educational institutions to facilitate this scheme.",
+      "text": "The GMFDC has partnered with various educational institutions to facilitate this scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These partnerships help streamline the loan disbursement process.",
+      "text": "These partnerships help streamline the loan disbursement process.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme also includes provisions for loan repayment assistance for students facing financial difficulties.",
+      "text": "The scheme also includes provisions for loan repayment assistance for students facing financial difficulties.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This assistance is aimed at ensuring that students do not default on their loans.",
+      "text": "This assistance is aimed at ensuring that students do not default on their loans.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The GMFDC regularly reviews the scheme to enhance its effectiveness.",
+      "text": "The GMFDC regularly reviews the scheme to enhance its effectiveness.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from beneficiaries is taken into account for improvements.",
+      "text": "Feedback from beneficiaries is taken into account for improvements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Educational Loan Scheme has been instrumental in reducing the financial burden on families.",
+      "text": "The Educational Loan Scheme has been instrumental in reducing the financial burden on families.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It has also played a crucial role in promoting social equity in education.",
+      "text": "It has also played a crucial role in promoting social equity in education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is a testament to the government's commitment to uplift minority communities through education.",
+      "text": "The scheme is a testament to the government's commitment to uplift minority communities through education.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The success stories of beneficiaries highlight the positive impact of the scheme.",
+      "text": "The success stories of beneficiaries highlight the positive impact of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Many students have gone on to secure employment in reputed organizations after completing their education.",
+      "text": "Many students have gone on to secure employment in reputed organizations after completing their education.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The GMFDC continues to monitor the progress of students who have availed of the loan.",
+      "text": "The GMFDC continues to monitor the progress of students who have availed of the loan.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This monitoring helps in assessing the long-term impact of the scheme on students' careers.",
+      "text": "This monitoring helps in assessing the long-term impact of the scheme on students' careers.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Educational Loan Scheme is an essential tool for fostering educational empowerment.",
+      "text": "The Educational Loan Scheme is an essential tool for fostering educational empowerment.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides a pathway for students to achieve their academic and professional aspirations.",
+      "text": "It provides a pathway for students to achieve their academic and professional aspirations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also contributed to the overall development of minority communities in Gujarat.",
+      "text": "The scheme has also contributed to the overall development of minority communities in Gujarat.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In conclusion, the Educational Loan Scheme by GMFDC is a vital initiative.",
+      "text": "In conclusion, the Educational Loan Scheme by GMFDC is a vital initiative.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides necessary financial support to deserving students.",
+      "text": "It provides necessary financial support to deserving students.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is a significant step towards ensuring that education is accessible to all.",
+      "text": "The scheme is a significant step towards ensuring that education is accessible to all.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The impact of this scheme is evident in the growing number of educated individuals from minority backgrounds.",
+      "text": "The impact of this scheme is evident in the growing number of educated individuals from minority backgrounds.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The GMFDC remains committed to further enhancing this scheme for future generations.",
+      "text": "The GMFDC remains committed to further enhancing this scheme for future generations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, the Educational Loan Scheme is a crucial component of Gujarat's educational landscape.",
+      "text": "Overall, the Educational Loan Scheme is a crucial component of Gujarat's educational landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Educational Loan Scheme (GMFDC)",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T10:55:47.382740",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 59,
+    "role_distribution": {
+      "ContextObjective": 26,
+      "BenefitsAssistance": 21,
+      "TimelineFrequency": 1,
+      "Eligibility": 6,
+      "ApplicationProcess": 3,
+      "DefinitionsReferences": 1,
+      "AuthoritiesGovernance": 1
+    }
+  },
+  "relations": [
+    {
+      "ctu1": {
+        "sentence": "The Educational Loan Scheme by the Gujarat Minorities Finance and Development Corporation (GMFDC) was launched in the year 2009.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 0
+      },
+      "ctu2": {
+        "sentence": "This scheme aims to provide financial assistance to students from minority communities in Gujarat.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This scheme aims to provide financial assistance to students from minority communities in Gujarat.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 1
+      },
+      "ctu2": {
+        "sentence": "The primary objective of the scheme is to facilitate access to higher education for students who may face financial constraints.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The primary objective of the scheme is to facilitate access to higher education for students who may face financial constraints.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 2
+      },
+      "ctu2": {
+        "sentence": "The GMFDC aims to empower students by enabling them to pursue professional and technical courses.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The GMFDC aims to empower students by enabling them to pursue professional and technical courses.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 3
+      },
+      "ctu2": {
+        "sentence": "The scheme specifically targets students belonging to Muslim, Sikh, Christian, Buddhist, Jain, and Parsi communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme specifically targets students belonging to Muslim, Sikh, Christian, Buddhist, Jain, and Parsi communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 4
+      },
+      "ctu2": {
+        "sentence": "The financial assistance provided under this scheme can cover tuition fees, examination fees, and other related educational expenses.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The financial assistance provided under this scheme can cover tuition fees, examination fees, and other related educational expenses.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 5
+      },
+      "ctu2": {
+        "sentence": "The maximum loan amount available under the scheme is ₹10 lakh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The maximum loan amount available under the scheme is ₹10 lakh.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 6
+      },
+      "ctu2": {
+        "sentence": "The interest rate for the loan is set at a subsidized rate of 4% per annum.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The interest rate for the loan is set at a subsidized rate of 4% per annum.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "Students can avail of the loan for a maximum tenure of 10 years.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Students can avail of the loan for a maximum tenure of 10 years.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "ctu2": {
+        "sentence": "The scheme has a provision for a moratorium period of one year after the completion of the course.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has a provision for a moratorium period of one year after the completion of the course.",
+        "role": "TimelineFrequency",
+        "sid": 1,
+        "line_idx": 9
+      },
+      "ctu2": {
+        "sentence": "This moratorium allows students to find employment before they start repaying the loan.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This moratorium allows students to find employment before they start repaying the loan.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 10
+      },
+      "ctu2": {
+        "sentence": "The eligibility criteria for the Educational Loan Scheme include a minimum age of 18 years.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The eligibility criteria for the Educational Loan Scheme include a minimum age of 18 years.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 11
+      },
+      "ctu2": {
+        "sentence": "Applicants must have secured admission to a recognized institution for a professional or technical course.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must have secured admission to a recognized institution for a professional or technical course.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "The family income limit for eligibility is set at ₹6 lakh per annum.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The family income limit for eligibility is set at ₹6 lakh per annum.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 13
+      },
+      "ctu2": {
+        "sentence": "Students must provide proof of their minority community status through relevant certificates.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Students must provide proof of their minority community status through relevant certificates.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The application process involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The application process involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "ctu2": {
+        "sentence": "First, applicants must obtain the application form from the GMFDC office or download it from the official website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "First, applicants must obtain the application form from the GMFDC office or download it from the official website.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 16
+      },
+      "ctu2": {
+        "sentence": "The completed application form must be submitted along with required documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The completed application form must be submitted along with required documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "Documents required include proof of admission, income certificate, and community certificate.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Documents required include proof of admission, income certificate, and community certificate.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is reviewed by the GMFDC officials.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Once the application is submitted, it is reviewed by the GMFDC officials.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "ctu2": {
+        "sentence": "If approved, the loan amount is disbursed directly to the educational institution.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "If approved, the loan amount is disbursed directly to the educational institution.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 20
+      },
+      "ctu2": {
+        "sentence": "The scheme is implemented by the Gujarat Minorities Finance and Development Corporation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is implemented by the Gujarat Minorities Finance and Development Corporation.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 21
+      },
+      "ctu2": {
+        "sentence": "The contact details for GMFDC are available on their official website.",
+        "role": "DefinitionsReferences",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The contact details for GMFDC are available on their official website.",
+        "role": "DefinitionsReferences",
+        "sid": 1,
+        "line_idx": 22
+      },
+      "ctu2": {
+        "sentence": "The scheme is designed to support students pursuing courses in engineering, medicine, management, and other professional fields.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is designed to support students pursuing courses in engineering, medicine, management, and other professional fields.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 23
+      },
+      "ctu2": {
+        "sentence": "Disbursement of the loan amount is typically done in installments based on the fee structure of the institution.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Disbursement of the loan amount is typically done in installments based on the fee structure of the institution.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 24
+      },
+      "ctu2": {
+        "sentence": "The scheme has seen a significant uptake since its launch, with thousands of students benefiting each year.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has seen a significant uptake since its launch, with thousands of students benefiting each year.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 25
+      },
+      "ctu2": {
+        "sentence": "In the financial year 2021-2022, GMFDC reported disbursing loans to over 2,500 students.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In the financial year 2021-2022, GMFDC reported disbursing loans to over 2,500 students.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 26
+      },
+      "ctu2": {
+        "sentence": "The total amount disbursed in that year was approximately ₹25 crore.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The total amount disbursed in that year was approximately ₹25 crore.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 27
+      },
+      "ctu2": {
+        "sentence": "The scheme has contributed to increasing the enrollment of minority students in higher education institutions.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has contributed to increasing the enrollment of minority students in higher education institutions.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 28
+      },
+      "ctu2": {
+        "sentence": "GMFDC also conducts awareness programs to inform students about the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "GMFDC also conducts awareness programs to inform students about the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 29
+      },
+      "ctu2": {
+        "sentence": "These programs are held in various districts across Gujarat.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These programs are held in various districts across Gujarat.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 30
+      },
+      "ctu2": {
+        "sentence": "The Educational Loan Scheme is part of a broader initiative by the government to promote education among minority communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Educational Loan Scheme is part of a broader initiative by the government to promote education among minority communities.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 31
+      },
+      "ctu2": {
+        "sentence": "The scheme aligns with the National Policy on Education, which emphasizes equitable access to education.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme aligns with the National Policy on Education, which emphasizes equitable access to education.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 32
+      },
+      "ctu2": {
+        "sentence": "The government aims to increase the Gross Enrollment Ratio (GER) in higher education for minority students.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The government aims to increase the Gross Enrollment Ratio (GER) in higher education for minority students.",
+        "role": "AuthoritiesGovernance",
+        "sid": 1,
+        "line_idx": 33
+      },
+      "ctu2": {
+        "sentence": "The GER for minority students in Gujarat has improved since the introduction of this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The GER for minority students in Gujarat has improved since the introduction of this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 34
+      },
+      "ctu2": {
+        "sentence": "The scheme also encourages students to pursue higher education in emerging fields.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also encourages students to pursue higher education in emerging fields.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 35
+      },
+      "ctu2": {
+        "sentence": "Students are encouraged to take up courses in technology and innovation.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Students are encouraged to take up courses in technology and innovation.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 36
+      },
+      "ctu2": {
+        "sentence": "The GMFDC has partnered with various educational institutions to facilitate this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The GMFDC has partnered with various educational institutions to facilitate this scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 37
+      },
+      "ctu2": {
+        "sentence": "These partnerships help streamline the loan disbursement process.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "These partnerships help streamline the loan disbursement process.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 38
+      },
+      "ctu2": {
+        "sentence": "The scheme also includes provisions for loan repayment assistance for students facing financial difficulties.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme also includes provisions for loan repayment assistance for students facing financial difficulties.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 39
+      },
+      "ctu2": {
+        "sentence": "This assistance is aimed at ensuring that students do not default on their loans.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This assistance is aimed at ensuring that students do not default on their loans.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 40
+      },
+      "ctu2": {
+        "sentence": "The GMFDC regularly reviews the scheme to enhance its effectiveness.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The GMFDC regularly reviews the scheme to enhance its effectiveness.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 41
+      },
+      "ctu2": {
+        "sentence": "Feedback from beneficiaries is taken into account for improvements.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Feedback from beneficiaries is taken into account for improvements.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 42
+      },
+      "ctu2": {
+        "sentence": "The Educational Loan Scheme has been instrumental in reducing the financial burden on families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Educational Loan Scheme has been instrumental in reducing the financial burden on families.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 43
+      },
+      "ctu2": {
+        "sentence": "It has also played a crucial role in promoting social equity in education.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It has also played a crucial role in promoting social equity in education.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 44
+      },
+      "ctu2": {
+        "sentence": "The scheme is a testament to the government's commitment to uplift minority communities through education.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is a testament to the government's commitment to uplift minority communities through education.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 45
+      },
+      "ctu2": {
+        "sentence": "The success stories of beneficiaries highlight the positive impact of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The success stories of beneficiaries highlight the positive impact of the scheme.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 46
+      },
+      "ctu2": {
+        "sentence": "Many students have gone on to secure employment in reputed organizations after completing their education.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Many students have gone on to secure employment in reputed organizations after completing their education.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 47
+      },
+      "ctu2": {
+        "sentence": "The GMFDC continues to monitor the progress of students who have availed of the loan.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The GMFDC continues to monitor the progress of students who have availed of the loan.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 48
+      },
+      "ctu2": {
+        "sentence": "This monitoring helps in assessing the long-term impact of the scheme on students' careers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "This monitoring helps in assessing the long-term impact of the scheme on students' careers.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 49
+      },
+      "ctu2": {
+        "sentence": "The Educational Loan Scheme is an essential tool for fostering educational empowerment.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The Educational Loan Scheme is an essential tool for fostering educational empowerment.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 50
+      },
+      "ctu2": {
+        "sentence": "It provides a pathway for students to achieve their academic and professional aspirations.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It provides a pathway for students to achieve their academic and professional aspirations.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 51
+      },
+      "ctu2": {
+        "sentence": "The scheme has also contributed to the overall development of minority communities in Gujarat.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme has also contributed to the overall development of minority communities in Gujarat.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 52
+      },
+      "ctu2": {
+        "sentence": "In conclusion, the Educational Loan Scheme by GMFDC is a vital initiative.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "In conclusion, the Educational Loan Scheme by GMFDC is a vital initiative.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 53
+      },
+      "ctu2": {
+        "sentence": "It provides necessary financial support to deserving students.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "It provides necessary financial support to deserving students.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 54
+      },
+      "ctu2": {
+        "sentence": "The scheme is a significant step towards ensuring that education is accessible to all.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The scheme is a significant step towards ensuring that education is accessible to all.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 55
+      },
+      "ctu2": {
+        "sentence": "The impact of this scheme is evident in the growing number of educated individuals from minority backgrounds.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The impact of this scheme is evident in the growing number of educated individuals from minority backgrounds.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 56
+      },
+      "ctu2": {
+        "sentence": "The GMFDC remains committed to further enhancing this scheme for future generations.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "The GMFDC remains committed to further enhancing this scheme for future generations.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 57
+      },
+      "ctu2": {
+        "sentence": "Overall, the Educational Loan Scheme is a crucial component of Gujarat's educational landscape.",
+        "role": "ContextObjective",
+        "sid": 1,
+        "line_idx": 58
+      },
+      "relation": "PRECEDES",
+      "method": "production_pipeline",
+      "confidence": 0.76,
+      "edge_confidence": 0.76,
+      "edge_logit": 1.1526795099383855,
+      "distance": 1,
+      "edge_confidence_raw": 0.95
+    },
+    {
+      "ctu1": {
+        "sentence": "Applicants must have secured admission to a recognized institution for a professional or technical course.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 12
+      },
+      "ctu2": {
+        "sentence": "The application process involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 3,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Students must provide proof of their minority community status through relevant certificates.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 14
+      },
+      "ctu2": {
+        "sentence": "The application process involves several steps.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 15
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "The completed application form must be submitted along with required documents.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 17
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is reviewed by the GMFDC officials.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 2,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "Documents required include proof of admission, income certificate, and community certificate.",
+        "role": "Eligibility",
+        "sid": 1,
+        "line_idx": 18
+      },
+      "ctu2": {
+        "sentence": "Once the application is submitted, it is reviewed by the GMFDC officials.",
+        "role": "ApplicationProcess",
+        "sid": 1,
+        "line_idx": 19
+      },
+      "relation": "PREREQUISITE_OF",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    },
+    {
+      "ctu1": {
+        "sentence": "The interest rate for the loan is set at a subsidized rate of 4% per annum.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 7
+      },
+      "ctu2": {
+        "sentence": "Students can avail of the loan for a maximum tenure of 10 years.",
+        "role": "BenefitsAssistance",
+        "sid": 1,
+        "line_idx": 8
+      },
+      "relation": "CAP_LIMITS",
+      "method": "production_pipeline",
+      "confidence": 0.68,
+      "edge_confidence": 0.68,
+      "edge_logit": 0.7537718023763803,
+      "distance": 1,
+      "edge_confidence_raw": 0.85
+    }
+  ],
+  "adjacency_completeness": {
+    "expected_precedes": 58,
+    "actual_precedes": 58,
+    "complete": true
+  },
+  "production_pipeline": {
+    "essential_semantic_edges_added": true,
+    "confidence_calibration_applied": true,
+    "timeline_roles_smoothed": true,
+    "edge_validation_applied": true,
+    "ready_for_rcr_gat_csra": true
+  }
+}

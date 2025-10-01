@@ -1,0 +1,630 @@
+{
+  "scheme_name": "KSCSTE Research Fellowship",
+  "total_sentences": 61,
+  "ctus": [
+    {
+      "sentence": "The KSCSTE Research Fellowship is a significant initiative launched by the Kerala State Council for Science, Technology and Environment (KSCSTE) in 2010.",
+      "text": "The KSCSTE Research Fellowship is a significant initiative launched by the Kerala State Council for Science, Technology and Environment (KSCSTE) in 2010.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This fellowship aims to promote research and innovation in various scientific fields within the state of Kerala.",
+      "text": "This fellowship aims to promote research and innovation in various scientific fields within the state of Kerala.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of the KSCSTE Research Fellowship is to encourage young researchers to engage in high-quality research activities.",
+      "text": "The primary objective of the KSCSTE Research Fellowship is to encourage young researchers to engage in high-quality research activities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The fellowship seeks to support research that can contribute to the socio-economic development of Kerala.",
+      "text": "The fellowship seeks to support research that can contribute to the socio-economic development of Kerala.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It is designed to foster a culture of research and development among students and early-career researchers.",
+      "text": "It is designed to foster a culture of research and development among students and early-career researchers.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE Research Fellowship provides financial assistance to eligible candidates to conduct research in various scientific disciplines.",
+      "text": "The KSCSTE Research Fellowship provides financial assistance to eligible candidates to conduct research in various scientific disciplines.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The fellowship amount is set at INR 25,000 per month for a duration of two years.",
+      "text": "The fellowship amount is set at INR 25,000 per month for a duration of two years.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to the monthly stipend, the fellowship also provides a research grant of INR 50,000.",
+      "text": "In addition to the monthly stipend, the fellowship also provides a research grant of INR 50,000.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This grant can be utilized for purchasing research materials and equipment necessary for the research project.",
+      "text": "This grant can be utilized for purchasing research materials and equipment necessary for the research project.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The total financial support available under the KSCSTE Research Fellowship amounts to INR 6,00,000 over the two-year period.",
+      "text": "The total financial support available under the KSCSTE Research Fellowship amounts to INR 6,00,000 over the two-year period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligible candidates must hold a Master's degree in Science or a related field from a recognized institution.",
+      "text": "Eligible candidates must hold a Master's degree in Science or a related field from a recognized institution.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Candidates pursuing a Ph.D. or those who have recently completed their Ph.D. are also eligible to apply.",
+      "text": "Candidates pursuing a Ph.D. or those who have recently completed their Ph.D. are also eligible to apply.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "There is no upper age limit specified for applicants.",
+      "text": "There is no upper age limit specified for applicants.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "However, candidates must be residents of Kerala or have a strong connection to the state.",
+      "text": "However, candidates must be residents of Kerala or have a strong connection to the state.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the KSCSTE Research Fellowship is conducted online through the official KSCSTE website.",
+      "text": "The application process for the KSCSTE Research Fellowship is conducted online through the official KSCSTE website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Interested candidates must fill out the application form available on the website.",
+      "text": "Interested candidates must fill out the application form available on the website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They are required to submit a detailed research proposal outlining their research objectives, methodology, and expected outcomes.",
+      "text": "They are required to submit a detailed research proposal outlining their research objectives, methodology, and expected outcomes.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The proposal should not exceed 5 pages in length.",
+      "text": "The proposal should not exceed 5 pages in length.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Candidates must also provide their curriculum vitae along with the application.",
+      "text": "Candidates must also provide their curriculum vitae along with the application.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, applicants need to submit copies of their academic certificates and any relevant publications.",
+      "text": "Additionally, applicants need to submit copies of their academic certificates and any relevant publications.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The deadline for submitting applications is typically announced on the KSCSTE website.",
+      "text": "The deadline for submitting applications is typically announced on the KSCSTE website.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applications are usually accepted once a year, with the announcement of the fellowship cycle made in the month of April.",
+      "text": "Applications are usually accepted once a year, with the announcement of the fellowship cycle made in the month of April.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The selection process involves a rigorous evaluation of the research proposals by a committee of experts.",
+      "text": "The selection process involves a rigorous evaluation of the research proposals by a committee of experts.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Shortlisted candidates may be called for an interview to discuss their research proposals in detail.",
+      "text": "Shortlisted candidates may be called for an interview to discuss their research proposals in detail.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The final selection is based on the quality of the research proposal and the candidate's academic background.",
+      "text": "The final selection is based on the quality of the research proposal and the candidate's academic background.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Successful candidates are notified via email and are required to accept the fellowship terms within a specified period.",
+      "text": "Successful candidates are notified via email and are required to accept the fellowship terms within a specified period.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The fellowship funds are disbursed in quarterly installments.",
+      "text": "The fellowship funds are disbursed in quarterly installments.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The first installment is released upon the acceptance of the fellowship.",
+      "text": "The first installment is released upon the acceptance of the fellowship.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Subsequent installments are contingent upon the submission of progress reports detailing the research activities.",
+      "text": "Subsequent installments are contingent upon the submission of progress reports detailing the research activities.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE monitors the progress of the research projects through regular reports.",
+      "text": "The KSCSTE monitors the progress of the research projects through regular reports.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Fellows are expected to present their research findings at conferences and seminars.",
+      "text": "Fellows are expected to present their research findings at conferences and seminars.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "They are also encouraged to publish their research in reputed journals.",
+      "text": "They are also encouraged to publish their research in reputed journals.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE Research Fellowship aims to enhance the research capabilities of young scientists in Kerala.",
+      "text": "The KSCSTE Research Fellowship aims to enhance the research capabilities of young scientists in Kerala.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It plays a crucial role in building a robust research ecosystem in the state.",
+      "text": "It plays a crucial role in building a robust research ecosystem in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The fellowship has been instrumental in fostering collaborations between academia and industry.",
+      "text": "The fellowship has been instrumental in fostering collaborations between academia and industry.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It encourages interdisciplinary research that addresses local and global challenges.",
+      "text": "It encourages interdisciplinary research that addresses local and global challenges.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE also organizes workshops and training programs for fellows to enhance their research skills.",
+      "text": "The KSCSTE also organizes workshops and training programs for fellows to enhance their research skills.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These programs cover various aspects of research methodology, data analysis, and scientific writing.",
+      "text": "These programs cover various aspects of research methodology, data analysis, and scientific writing.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE Research Fellowship has seen a significant increase in applications since its inception.",
+      "text": "The KSCSTE Research Fellowship has seen a significant increase in applications since its inception.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In 2022, over 500 applications were received for the fellowship.",
+      "text": "In 2022, over 500 applications were received for the fellowship.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This reflects the growing interest in research careers among young scientists in Kerala.",
+      "text": "This reflects the growing interest in research careers among young scientists in Kerala.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The fellowship has supported numerous research projects that have led to innovations in various fields.",
+      "text": "The fellowship has supported numerous research projects that have led to innovations in various fields.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These include agriculture, health sciences, environmental studies, and information technology.",
+      "text": "These include agriculture, health sciences, environmental studies, and information technology.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE actively promotes the outcomes of the research funded through the fellowship.",
+      "text": "The KSCSTE actively promotes the outcomes of the research funded through the fellowship.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It publishes annual reports highlighting the achievements of the fellows.",
+      "text": "It publishes annual reports highlighting the achievements of the fellows.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE Research Fellowship aligns with the broader goals of the Indian government to promote research and innovation.",
+      "text": "The KSCSTE Research Fellowship aligns with the broader goals of the Indian government to promote research and innovation.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It contributes to the national agenda of enhancing the quality of research in India.",
+      "text": "It contributes to the national agenda of enhancing the quality of research in India.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The fellowship is part of a larger framework of initiatives aimed at supporting scientific research in the country.",
+      "text": "The fellowship is part of a larger framework of initiatives aimed at supporting scientific research in the country.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE continues to explore new avenues for funding and support for research activities.",
+      "text": "The KSCSTE continues to explore new avenues for funding and support for research activities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It collaborates with various national and international organizations to enhance research opportunities.",
+      "text": "It collaborates with various national and international organizations to enhance research opportunities.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE Research Fellowship is a vital component of Kerala's strategy to become a knowledge-driven economy.",
+      "text": "The KSCSTE Research Fellowship is a vital component of Kerala's strategy to become a knowledge-driven economy.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It empowers young researchers to contribute to the state's development through innovative solutions.",
+      "text": "It empowers young researchers to contribute to the state's development through innovative solutions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The fellowship not only provides financial support but also fosters a community of researchers.",
+      "text": "The fellowship not only provides financial support but also fosters a community of researchers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This community plays a crucial role in knowledge exchange and collaborative research efforts.",
+      "text": "This community plays a crucial role in knowledge exchange and collaborative research efforts.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The KSCSTE is committed to ensuring that the fellowship remains relevant and impactful.",
+      "text": "The KSCSTE is committed to ensuring that the fellowship remains relevant and impactful.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It regularly reviews the fellowship guidelines to adapt to the changing research landscape.",
+      "text": "It regularly reviews the fellowship guidelines to adapt to the changing research landscape.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In conclusion, the KSCSTE Research Fellowship is a comprehensive program that supports young researchers in Kerala.",
+      "text": "In conclusion, the KSCSTE Research Fellowship is a comprehensive program that supports young researchers in Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides substantial financial assistance and fosters a culture of research and innovation.",
+      "text": "It provides substantial financial assistance and fosters a culture of research and innovation.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The fellowship has a significant impact on the research ecosystem in the state.",
+      "text": "The fellowship has a significant impact on the research ecosystem in the state.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "It encourages young scientists to pursue their research ambitions and contribute to societal development.",
+      "text": "It encourages young scientists to pursue their research ambitions and contribute to societal development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 59,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Through this initiative, KSCSTE aims to build a sustainable and vibrant research community in Kerala.",
+      "text": "Through this initiative, KSCSTE aims to build a sustainable and vibrant research community in Kerala.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 60,
+      "scheme_name": "KSCSTE Research Fellowship",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-25T19:15:27.920220",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 61,
+    "role_distribution": {
+      "ContextObjective": 10,
+      "TimelineFrequency": 7,
+      "BenefitsAssistance": 30,
+      "Eligibility": 6,
+      "ApplicationProcess": 7,
+      "AuthoritiesGovernance": 1
+    }
+  }
+}

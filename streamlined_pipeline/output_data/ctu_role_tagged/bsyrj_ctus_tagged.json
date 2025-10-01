@@ -1,0 +1,609 @@
+{
+  "scheme_name": "Beej Swalamban Yojna",
+  "total_sentences": 59,
+  "ctus": [
+    {
+      "sentence": "Beej Swalamban Yojna is a government welfare scheme initiated by the Government of Rajasthan in 2016.",
+      "text": "Beej Swalamban Yojna is a government welfare scheme initiated by the Government of Rajasthan in 2016.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme was launched on 1st April 2016 under the Rajasthan Agriculture Department.",
+      "text": "The scheme was launched on 1st April 2016 under the Rajasthan Agriculture Department.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It aims to provide financial assistance to farmers for the purchase of quality seeds.",
+      "text": "It aims to provide financial assistance to farmers for the purchase of quality seeds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of Beej Swalamban Yojna is to enhance agricultural productivity by ensuring that farmers have access to high-quality seeds.",
+      "text": "The primary objective of Beej Swalamban Yojna is to enhance agricultural productivity by ensuring that farmers have access to high-quality seeds.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme specifically targets small and marginal farmers who often struggle to afford quality seeds.",
+      "text": "The scheme specifically targets small and marginal farmers who often struggle to afford quality seeds.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government has set a measurable target of increasing the agricultural yield by at least 20 percent over the next five years.",
+      "text": "The government has set a measurable target of increasing the agricultural yield by at least 20 percent over the next five years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is designed to cover various crops including cereals, pulses, oilseeds, and horticultural crops.",
+      "text": "The scheme is designed to cover various crops including cereals, pulses, oilseeds, and horticultural crops.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers can receive financial assistance of up to INR 1,500 per hectare for the purchase of seeds.",
+      "text": "Farmers can receive financial assistance of up to INR 1,500 per hectare for the purchase of seeds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The maximum limit for assistance under this scheme is capped at INR 3,000 per farmer per year.",
+      "text": "The maximum limit for assistance under this scheme is capped at INR 3,000 per farmer per year.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This financial support is intended to alleviate the burden of seed costs and encourage farmers to invest in better quality seeds.",
+      "text": "This financial support is intended to alleviate the burden of seed costs and encourage farmers to invest in better quality seeds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Eligibility for the Beej Swalamban Yojna is primarily focused on small and marginal farmers.",
+      "text": "Eligibility for the Beej Swalamban Yojna is primarily focused on small and marginal farmers.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "A small farmer is defined as one who cultivates land up to 1 hectare.",
+      "text": "A small farmer is defined as one who cultivates land up to 1 hectare.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "A marginal farmer is defined as one who cultivates land between 1 to 2 hectares.",
+      "text": "A marginal farmer is defined as one who cultivates land between 1 to 2 hectares.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Farmers must also possess a valid land ownership document to qualify for the scheme.",
+      "text": "Farmers must also possess a valid land ownership document to qualify for the scheme.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Additionally, applicants must be residents of Rajasthan to be eligible for the benefits.",
+      "text": "Additionally, applicants must be residents of Rajasthan to be eligible for the benefits.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for Beej Swalamban Yojna is straightforward.",
+      "text": "The application process for Beej Swalamban Yojna is straightforward.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers need to visit the nearest Agriculture Department office to obtain the application form.",
+      "text": "Farmers need to visit the nearest Agriculture Department office to obtain the application form.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application form can also be downloaded from the official website of the Rajasthan Agriculture Department.",
+      "text": "The application form can also be downloaded from the official website of the Rajasthan Agriculture Department.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Applicants are required to submit the completed form along with necessary documents.",
+      "text": "Applicants are required to submit the completed form along with necessary documents.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Necessary documents include a copy of the land ownership certificate and an Aadhar card for identity verification.",
+      "text": "Necessary documents include a copy of the land ownership certificate and an Aadhar card for identity verification.",
+      "role": "ApplicationProcess",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "text": "Once the application is submitted, it is reviewed by the concerned authorities.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers may also be required to provide details of the seeds they intend to purchase.",
+      "text": "Farmers may also be required to provide details of the seeds they intend to purchase.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of funds is typically processed within 30 days of application approval.",
+      "text": "The disbursement of funds is typically processed within 30 days of application approval.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The funds are directly transferred to the bank accounts of the beneficiaries.",
+      "text": "The funds are directly transferred to the bank accounts of the beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme operates on an annual basis with applications accepted throughout the year.",
+      "text": "The scheme operates on an annual basis with applications accepted throughout the year.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, farmers are encouraged to apply early in the planting season to ensure timely assistance.",
+      "text": "However, farmers are encouraged to apply early in the planting season to ensure timely assistance.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The implementing authority for Beej Swalamban Yojna is the Rajasthan Agriculture Department.",
+      "text": "The implementing authority for Beej Swalamban Yojna is the Rajasthan Agriculture Department.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers can contact the department through their official helpline number at 1800 180 6127.",
+      "text": "Farmers can contact the department through their official helpline number at 1800 180 6127.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The department also has a dedicated website where farmers can find additional information and updates about the scheme.",
+      "text": "The department also has a dedicated website where farmers can find additional information and updates about the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Beej Swalamban Yojna has seen significant uptake since its launch.",
+      "text": "The Beej Swalamban Yojna has seen significant uptake since its launch.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "In the first year alone, over 50,000 farmers benefited from the scheme.",
+      "text": "In the first year alone, over 50,000 farmers benefited from the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government allocated a budget of INR 100 crore for the initial rollout of the scheme.",
+      "text": "The government allocated a budget of INR 100 crore for the initial rollout of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By 2021, the number of beneficiaries had increased to over 150,000 farmers.",
+      "text": "By 2021, the number of beneficiaries had increased to over 150,000 farmers.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has contributed to a noticeable increase in crop yields across the state.",
+      "text": "The scheme has contributed to a noticeable increase in crop yields across the state.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers reported an average increase of 15 to 20 quintals per hectare in productivity.",
+      "text": "Farmers reported an average increase of 15 to 20 quintals per hectare in productivity.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has also encouraged the use of hybrid and high-yielding varieties of seeds.",
+      "text": "The scheme has also encouraged the use of hybrid and high-yielding varieties of seeds.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This has led to improved income levels for participating farmers.",
+      "text": "This has led to improved income levels for participating farmers.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Beej Swalamban Yojna is part of a broader initiative by the Rajasthan government to promote sustainable agriculture.",
+      "text": "The Beej Swalamban Yojna is part of a broader initiative by the Rajasthan government to promote sustainable agriculture.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The state has also launched various other schemes to support farmers in different aspects of agriculture.",
+      "text": "The state has also launched various other schemes to support farmers in different aspects of agriculture.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These include financial assistance for irrigation, fertilizers, and agricultural equipment.",
+      "text": "These include financial assistance for irrigation, fertilizers, and agricultural equipment.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government regularly conducts awareness programs to educate farmers about the benefits of the scheme.",
+      "text": "The government regularly conducts awareness programs to educate farmers about the benefits of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Workshops and training sessions are organized to inform farmers about best practices in seed selection and usage.",
+      "text": "Workshops and training sessions are organized to inform farmers about best practices in seed selection and usage.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme has received positive feedback from the farming community.",
+      "text": "The scheme has received positive feedback from the farming community.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers have expressed gratitude for the timely financial assistance that has allowed them to invest in better seeds.",
+      "text": "Farmers have expressed gratitude for the timely financial assistance that has allowed them to invest in better seeds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government continues to monitor the impact of the Beej Swalamban Yojna on agricultural productivity.",
+      "text": "The government continues to monitor the impact of the Beej Swalamban Yojna on agricultural productivity.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+      "text": "Regular assessments are conducted to evaluate the effectiveness of the scheme.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The findings are used to make necessary adjustments and improvements to the program.",
+      "text": "The findings are used to make necessary adjustments and improvements to the program.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Beej Swalamban Yojna represents a significant step towards empowering farmers in Rajasthan.",
+      "text": "The Beej Swalamban Yojna represents a significant step towards empowering farmers in Rajasthan.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "By providing financial support for quality seeds, the scheme aims to enhance food security in the region.",
+      "text": "By providing financial support for quality seeds, the scheme aims to enhance food security in the region.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The initiative aligns with the national goal of achieving self-sufficiency in food production.",
+      "text": "The initiative aligns with the national goal of achieving self-sufficiency in food production.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Overall, Beej Swalamban Yojna is a vital scheme that addresses the challenges faced by small and marginal farmers in Rajasthan.",
+      "text": "Overall, Beej Swalamban Yojna is a vital scheme that addresses the challenges faced by small and marginal farmers in Rajasthan.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It provides them with the necessary resources to improve their agricultural practices and livelihoods.",
+      "text": "It provides them with the necessary resources to improve their agricultural practices and livelihoods.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme's focus on quality seeds is crucial for sustainable agricultural development.",
+      "text": "The scheme's focus on quality seeds is crucial for sustainable agricultural development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "As the program continues to evolve, it is expected to play a key role in transforming the agricultural landscape of Rajasthan.",
+      "text": "As the program continues to evolve, it is expected to play a key role in transforming the agricultural landscape of Rajasthan.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Farmers are encouraged to take advantage of this scheme to maximize their agricultural potential.",
+      "text": "Farmers are encouraged to take advantage of this scheme to maximize their agricultural potential.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Beej Swalamban Yojna is a testament to the government's commitment to supporting the agricultural sector.",
+      "text": "The Beej Swalamban Yojna is a testament to the government's commitment to supporting the agricultural sector.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects a proactive approach to addressing the needs of farmers and promoting agricultural resilience.",
+      "text": "It reflects a proactive approach to addressing the needs of farmers and promoting agricultural resilience.",
+      "role": "ContextObjective",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme is an important component of the overall welfare initiatives aimed at uplifting the rural economy.",
+      "text": "The scheme is an important component of the overall welfare initiatives aimed at uplifting the rural economy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 57,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through Beej Swalamban Yojna, the Rajasthan government is paving the way for a more prosperous future for its farmers.",
+      "text": "Through Beej Swalamban Yojna, the Rajasthan government is paving the way for a more prosperous future for its farmers.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 58,
+      "scheme_name": "Beej Swalamban Yojna",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T15:26:46.300403",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 59,
+    "role_distribution": {
+      "ContextObjective": 28,
+      "BenefitsAssistance": 15,
+      "Eligibility": 5,
+      "ApplicationProcess": 6,
+      "AuthoritiesGovernance": 5
+    }
+  }
+}

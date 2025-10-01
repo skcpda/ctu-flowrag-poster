@@ -1,0 +1,590 @@
+{
+  "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+  "total_sentences": 57,
+  "ctus": [
+    {
+      "sentence": "The Grant-in-aid to Non-Governmental Organisations scheme is a significant initiative by the Government of India aimed at supporting the efforts of NGOs in various sectors.",
+      "text": "The Grant-in-aid to Non-Governmental Organisations scheme is a significant initiative by the Government of India aimed at supporting the efforts of NGOs in various sectors.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 0,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This scheme was officially launched in 2003 under the Ministry of Home Affairs.",
+      "text": "This scheme was officially launched in 2003 under the Ministry of Home Affairs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 1,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The primary objective of this scheme is to provide financial assistance to NGOs that are engaged in the welfare of marginalized and disadvantaged sections of society.",
+      "text": "The primary objective of this scheme is to provide financial assistance to NGOs that are engaged in the welfare of marginalized and disadvantaged sections of society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 2,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme aims to empower these organizations to carry out their activities effectively and efficiently.",
+      "text": "The scheme aims to empower these organizations to carry out their activities effectively and efficiently.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 3,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government seeks to enhance the capacity of NGOs to implement projects that align with national priorities and social development goals.",
+      "text": "The government seeks to enhance the capacity of NGOs to implement projects that align with national priorities and social development goals.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 4,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The specific goals include improving the quality of life for underprivileged communities and promoting sustainable development.",
+      "text": "The specific goals include improving the quality of life for underprivileged communities and promoting sustainable development.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 5,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The scheme also aims to foster collaboration between the government and NGOs to address social issues more effectively.",
+      "text": "The scheme also aims to foster collaboration between the government and NGOs to address social issues more effectively.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 6,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The financial assistance provided under this scheme varies based on the project and its requirements.",
+      "text": "The financial assistance provided under this scheme varies based on the project and its requirements.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 7,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Typically, the grant amount can range from INR 1 lakh to INR 10 lakhs per project.",
+      "text": "Typically, the grant amount can range from INR 1 lakh to INR 10 lakhs per project.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 8,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, in exceptional cases, the amount can exceed INR 10 lakhs depending on the scope and impact of the project proposed by the NGO.",
+      "text": "However, in exceptional cases, the amount can exceed INR 10 lakhs depending on the scope and impact of the project proposed by the NGO.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 9,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The grants are intended to cover various project costs including personnel, materials, and operational expenses.",
+      "text": "The grants are intended to cover various project costs including personnel, materials, and operational expenses.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 10,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Eligible NGOs must be registered under the Societies Registration Act of 1860 or the Indian Trusts Act of 1882.",
+      "text": "Eligible NGOs must be registered under the Societies Registration Act of 1860 or the Indian Trusts Act of 1882.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 11,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "They must also be registered under the Foreign Contribution Regulation Act (FCRA) if they intend to receive foreign funding.",
+      "text": "They must also be registered under the Foreign Contribution Regulation Act (FCRA) if they intend to receive foreign funding.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 12,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The NGOs should have a minimum of three years of experience in the relevant field of work.",
+      "text": "The NGOs should have a minimum of three years of experience in the relevant field of work.",
+      "role": "Eligibility",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 13,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Additionally, they must demonstrate a track record of successful project implementation.",
+      "text": "Additionally, they must demonstrate a track record of successful project implementation.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 14,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The application process for the Grant-in-aid scheme involves several steps.",
+      "text": "The application process for the Grant-in-aid scheme involves several steps.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 15,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "First, NGOs must submit a detailed project proposal outlining the objectives, activities, and expected outcomes.",
+      "text": "First, NGOs must submit a detailed project proposal outlining the objectives, activities, and expected outcomes.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 16,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The proposal should also include a budget breakdown detailing how the funds will be utilized.",
+      "text": "The proposal should also include a budget breakdown detailing how the funds will be utilized.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 17,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "NGOs are required to provide supporting documents such as registration certificates, annual reports, and financial statements.",
+      "text": "NGOs are required to provide supporting documents such as registration certificates, annual reports, and financial statements.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 18,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Once the proposal is submitted, it is reviewed by a committee within the Ministry of Home Affairs.",
+      "text": "Once the proposal is submitted, it is reviewed by a committee within the Ministry of Home Affairs.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 19,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The review process typically takes about 2 to 3 months.",
+      "text": "The review process typically takes about 2 to 3 months.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 20,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "If approved, the NGO receives a formal sanction letter detailing the grant amount and conditions for utilization.",
+      "text": "If approved, the NGO receives a formal sanction letter detailing the grant amount and conditions for utilization.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 21,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The disbursement of funds is made in installments based on the progress of the project.",
+      "text": "The disbursement of funds is made in installments based on the progress of the project.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 22,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The first installment is usually released upon approval, while subsequent installments are contingent on the submission of progress reports.",
+      "text": "The first installment is usually released upon approval, while subsequent installments are contingent on the submission of progress reports.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 23,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "These reports must detail the utilization of funds and the achievements of the project objectives.",
+      "text": "These reports must detail the utilization of funds and the achievements of the project objectives.",
+      "role": "Eligibility",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 24,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The timeline for project implementation is generally set at one year from the date of approval.",
+      "text": "The timeline for project implementation is generally set at one year from the date of approval.",
+      "role": "TimelineFrequency",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 25,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "However, extensions may be granted based on the project's requirements and progress.",
+      "text": "However, extensions may be granted based on the project's requirements and progress.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 26,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The implementing authority for this scheme is the Ministry of Home Affairs, Government of India.",
+      "text": "The implementing authority for this scheme is the Ministry of Home Affairs, Government of India.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 27,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Ministry has a dedicated team that oversees the application process and project monitoring.",
+      "text": "The Ministry has a dedicated team that oversees the application process and project monitoring.",
+      "role": "ApplicationProcess",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 28,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For any queries or assistance, NGOs can contact the Ministry directly through their official website or helpline.",
+      "text": "For any queries or assistance, NGOs can contact the Ministry directly through their official website or helpline.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 29,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The scheme is part of a broader effort by the Indian government to enhance civil society's role in development.",
+      "text": "The scheme is part of a broader effort by the Indian government to enhance civil society's role in development.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 30,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It recognizes the critical role that NGOs play in addressing social issues and providing services to underserved populations.",
+      "text": "It recognizes the critical role that NGOs play in addressing social issues and providing services to underserved populations.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 31,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government has allocated significant funds for this scheme in recent years.",
+      "text": "The government has allocated significant funds for this scheme in recent years.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 32,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In the financial year 2022-2023, the allocation for grants to NGOs was approximately INR 500 crores.",
+      "text": "In the financial year 2022-2023, the allocation for grants to NGOs was approximately INR 500 crores.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 33,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This funding is aimed at supporting a wide range of activities including education, health, women's empowerment, and environmental sustainability.",
+      "text": "This funding is aimed at supporting a wide range of activities including education, health, women's empowerment, and environmental sustainability.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 34,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The government also emphasizes transparency and accountability in the utilization of funds.",
+      "text": "The government also emphasizes transparency and accountability in the utilization of funds.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 35,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "NGOs are required to maintain proper financial records and submit regular audits to ensure compliance with the grant conditions.",
+      "text": "NGOs are required to maintain proper financial records and submit regular audits to ensure compliance with the grant conditions.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 36,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "In addition to financial support, the scheme encourages capacity building for NGOs.",
+      "text": "In addition to financial support, the scheme encourages capacity building for NGOs.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 37,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Workshops and training sessions are organized to enhance the skills and knowledge of NGO personnel.",
+      "text": "Workshops and training sessions are organized to enhance the skills and knowledge of NGO personnel.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 38,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "These initiatives aim to improve project management and implementation capabilities.",
+      "text": "These initiatives aim to improve project management and implementation capabilities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 39,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The impact of the Grant-in-aid scheme can be seen in various successful projects across the country.",
+      "text": "The impact of the Grant-in-aid scheme can be seen in various successful projects across the country.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 40,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "For instance, numerous NGOs have implemented health awareness programs that have reached thousands of beneficiaries.",
+      "text": "For instance, numerous NGOs have implemented health awareness programs that have reached thousands of beneficiaries.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 41,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Educational initiatives funded through this scheme have improved literacy rates in marginalized communities.",
+      "text": "Educational initiatives funded through this scheme have improved literacy rates in marginalized communities.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 42,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Women’s empowerment projects have provided vocational training to women, enabling them to achieve financial independence.",
+      "text": "Women’s empowerment projects have provided vocational training to women, enabling them to achieve financial independence.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 43,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The government also monitors the outcomes of funded projects to assess their effectiveness and impact.",
+      "text": "The government also monitors the outcomes of funded projects to assess their effectiveness and impact.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 44,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "This monitoring is essential for ensuring that the funds are utilized for the intended purposes.",
+      "text": "This monitoring is essential for ensuring that the funds are utilized for the intended purposes.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 45,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "The Grant-in-aid to Non-Governmental Organisations scheme is a vital component of India's social welfare strategy.",
+      "text": "The Grant-in-aid to Non-Governmental Organisations scheme is a vital component of India's social welfare strategy.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 46,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It reflects the government's commitment to fostering partnerships with civil society organizations.",
+      "text": "It reflects the government's commitment to fostering partnerships with civil society organizations.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 47,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "By providing financial support and capacity building, the scheme aims to create a more inclusive and equitable society.",
+      "text": "By providing financial support and capacity building, the scheme aims to create a more inclusive and equitable society.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 48,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The ongoing evaluation of the scheme has led to improvements in its implementation and outreach.",
+      "text": "The ongoing evaluation of the scheme has led to improvements in its implementation and outreach.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 49,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Feedback from NGOs is actively sought to refine the processes and enhance the effectiveness of the grants.",
+      "text": "Feedback from NGOs is actively sought to refine the processes and enhance the effectiveness of the grants.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 50,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "Overall, the Grant-in-aid scheme represents a collaborative approach to social development in India.",
+      "text": "Overall, the Grant-in-aid scheme represents a collaborative approach to social development in India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 51,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "It empowers NGOs to contribute significantly to the welfare of society while ensuring accountability and transparency in the use of public funds.",
+      "text": "It empowers NGOs to contribute significantly to the welfare of society while ensuring accountability and transparency in the use of public funds.",
+      "role": "BenefitsAssistance",
+      "confidence": 0.7,
+      "sid": 1,
+      "line_idx": 52,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "embedding"
+    },
+    {
+      "sentence": "This initiative is crucial for addressing the diverse needs of the population and promoting sustainable development across the nation.",
+      "text": "This initiative is crucial for addressing the diverse needs of the population and promoting sustainable development across the nation.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 53,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The success of the scheme is indicative of the potential that lies in partnerships between the government and non-governmental organizations.",
+      "text": "The success of the scheme is indicative of the potential that lies in partnerships between the government and non-governmental organizations.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 54,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "Through this collaboration, the government aims to leverage the strengths of NGOs to achieve broader social objectives.",
+      "text": "Through this collaboration, the government aims to leverage the strengths of NGOs to achieve broader social objectives.",
+      "role": "AuthoritiesGovernance",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 55,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    },
+    {
+      "sentence": "The Grant-in-aid to Non-Governmental Organisations scheme is a testament to the importance of civil society in the development landscape of India.",
+      "text": "The Grant-in-aid to Non-Governmental Organisations scheme is a testament to the importance of civil society in the development landscape of India.",
+      "role": "ContextObjective",
+      "confidence": 0.8,
+      "sid": 1,
+      "line_idx": 56,
+      "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+      "method": "rule_based"
+    }
+  ],
+  "processing_timestamp": "2025-09-24T15:00:15.618543",
+  "model_used": "gpt-4o-mini",
+  "role_tagging": {
+    "applied": true,
+    "total_ctus": 57,
+    "role_distribution": {
+      "ContextObjective": 17,
+      "AuthoritiesGovernance": 9,
+      "BenefitsAssistance": 19,
+      "Eligibility": 7,
+      "ApplicationProcess": 3,
+      "TimelineFrequency": 2
+    }
+  }
+}
