@@ -184,13 +184,25 @@ def add_essential_semantic_edges(rels: List[Dict], ctus: List[Dict]) -> List[Dic
     return rels + new_edges
 
 def add_structural_edges(rels: List[Dict], ctus: List[Dict]) -> List[Dict]:
-    """Add structural PRECEDES edges"""
+    """Add structural PRECEDES edges within sections only"""
     new_edges = []
     n = len(ctus)
     
-    # Add PRECEDES edges for consecutive CTUs
-    for i in range(n - 1):
-        new_edges.append(create_semantic_edge(ctus, i, i + 1, 'PRECEDES', 0.95))
+    # Group CTUs by section
+    sections = {}
+    for i, ctu in enumerate(ctus):
+        section_id = ctu.get('sid', 1)
+        if section_id not in sections:
+            sections[section_id] = []
+        sections[section_id].append(i)
+    
+    # Add PRECEDES edges only within each section
+    for section_id, ctu_indices in sections.items():
+        sorted_indices = sorted(ctu_indices)
+        for i in range(len(sorted_indices) - 1):
+            curr_idx = sorted_indices[i]
+            next_idx = sorted_indices[i + 1]
+            new_edges.append(create_semantic_edge(ctus, curr_idx, next_idx, 'PRECEDES', 0.95))
     
     return rels + new_edges
 

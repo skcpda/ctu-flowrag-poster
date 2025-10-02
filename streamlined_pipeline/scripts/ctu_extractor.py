@@ -1,18 +1,123 @@
 #!/usr/bin/env python3
 """
 CTU Extractor - Extract Content Thematic Units from GPT-4o mini descriptions
+with intelligent section detection
 """
 
 import os
 import json
 import re
-from typing import List, Dict
+from typing import List, Dict, Tuple
 from pathlib import Path
 
+def detect_sections(sentences: List[str]) -> List[Tuple[int, str, str]]:
+    """
+    Detect section boundaries based on content patterns.
+    Returns list of (start_idx, section_name, section_type)
+    """
+    sections = []
+    current_section = "Introduction"
+    current_start = 0
+    
+    # Section detection patterns - more specific and less aggressive
+    section_patterns = {
+        'Introduction': [
+            r'\b(overview|introduction|background|about|scheme|program|initiative)\b',
+            r'\b(launched|started|initiated|established)\b',
+            r'\b(government|ministry|department)\b'
+        ],
+        'Objectives': [
+            r'\b(primary objective|main objective|goal|aim|purpose|target|mission)\b',
+            r'\b(enhance|improve|provide|develop|create)\b.*\b(skill|training|education|development)\b'
+        ],
+        'Benefits': [
+            r'\b(benefit|advantage|support|assistance|help)\b',
+            r'\b(financial|monetary|stipend|allowance|grant)\b',
+            r'\b(certificate|recognition|credential)\b',
+            r'\b(job|employment|career|opportunity)\b'
+        ],
+        'Eligibility': [
+            r'\b(eligible|eligibility|criteria|requirement|condition)\b',
+            r'\b(age|aged|years old|minimum|maximum)\b',
+            r'\b(education|qualification|degree|grade)\b',
+            r'\b(income|salary|earning|financial)\b'
+        ],
+        'Application': [
+            r'\b(application process|application|apply|registration|enroll|register)\b',
+            r'\b(process|procedure|step|method)\b',
+            r'\b(form|document|paperwork|submission)\b',
+            r'\b(center|institution|organization)\b'
+        ],
+        'Implementation': [
+            r'\b(implementation|conduct|training|session)\b',
+            r'\b(ministry|authority|department|organization)\b',
+            r'\b(guideline|instruction|procedure|protocol)\b',
+            r'\b(contact|inquiry|support|help)\b'
+        ],
+        'Results': [
+            r'\b(result|outcome|achievement|success)\b',
+            r'\b(participant|beneficiary|individual)\b',
+            r'\b(statistic|number|count|total)\b',
+            r'\b(feedback|response|evaluation)\b'
+        ]
+    }
+    
+    # Minimum section size to avoid too many small sections
+    min_section_size = max(3, len(sentences) // 8)  # At most 8 sections
+    
+    for i, sentence in enumerate(sentences):
+        sentence_lower = sentence.lower()
+        
+        # Only consider section transitions if we have enough content in current section
+        if i - current_start < min_section_size:
+            continue
+        
+        # Check for section transitions
+        for section_name, patterns in section_patterns.items():
+            if section_name == current_section:
+                continue
+                
+            # Check if this sentence strongly indicates a new section
+            pattern_matches = sum(1 for pattern in patterns if re.search(pattern, sentence_lower))
+            if pattern_matches >= 2:  # At least 2 pattern matches
+                # End current section and start new one
+                if i > current_start:  # Only create section if there are sentences
+                    sections.append((current_start, current_section, 'content'))
+                current_section = section_name
+                current_start = i
+                break
+    
+    # Add the final section
+    if current_start < len(sentences):
+        sections.append((current_start, current_section, 'content'))
+    
+    # If no sections detected, create a single "Introduction" section
+    if not sections:
+        sections.append((0, "Introduction", 'content'))
+    
+    # Merge very small sections with previous section
+    merged_sections = []
+    for i, (start_idx, section_name, section_type) in enumerate(sections):
+        if i == 0:
+            merged_sections.append((start_idx, section_name, section_type))
+        else:
+            prev_start = merged_sections[-1][0]
+            current_size = start_idx - prev_start
+            if current_size < min_section_size and len(merged_sections) > 1:
+                # Merge with previous section
+                merged_sections[-1] = (merged_sections[-1][0], merged_sections[-1][1], merged_sections[-1][2])
+            else:
+                merged_sections.append((start_idx, section_name, section_type))
+    
+    return merged_sections
+
 def extract_ctus_from_scheme(scheme_data: Dict) -> List[Dict]:
-    """Extract CTUs from a scheme description"""
+    """Extract CTUs from a scheme description with section detection"""
     sentences = scheme_data.get('sentences', [])
     scheme_name = scheme_data.get('scheme_name', 'Unknown Scheme')
+    
+    # Detect sections
+    sections = detect_sections(sentences)
     
     ctus = []
     for i, sentence in enumerate(sentences):
@@ -20,14 +125,23 @@ def extract_ctus_from_scheme(scheme_data: Dict) -> List[Dict]:
         sentence = sentence.strip()
         if not sentence:
             continue
-            
+        
+        # Find which section this sentence belongs to
+        section_id = 1
+        section_name = "Introduction"
+        for start_idx, sec_name, sec_type in sections:
+            if i >= start_idx:
+                section_id = sections.index((start_idx, sec_name, sec_type)) + 1
+                section_name = sec_name
+        
         # Create CTU
         ctu = {
             'sentence': sentence,
             'text': sentence,  # Alias for compatibility
             'role': 'Unknown',  # Will be labeled by role tagger
             'confidence': 1.0,
-            'sid': 1,  # Single section for now
+            'sid': section_id,  # Section ID based on detection
+            'section_name': section_name,  # Human-readable section name
             'line_idx': i,
             'scheme_name': scheme_name
         }
