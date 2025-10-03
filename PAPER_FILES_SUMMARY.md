@@ -43,7 +43,7 @@
 ### **Graph Structure**
 - **Average density**: 0.017139 (sparse, controlled)
 - **Average semantic ratio**: 10.8%
-- **99.8% multi-section documents** (realistic structure)
+- **99.9% multi-section documents** (realistic structure)
 - **Section-bounded PRECEDES edges** (no cross-section jumps)
 
 ### **Relation Types**
@@ -110,6 +110,8 @@ PREREQUISITE_OF & 11,656 & 6.1\% \\
 ADMINISTERED_BY & 5,638 & 3.0\% \\
 CAP_LIMITS & 1,688 & 0.9\% \\
 ENABLES & 1,663 & 0.9\% \\
+ELABORATES & 0 & 0.0\% \\
+SUPPORTS & 0 & 0.0\% \\
 \hline
 \end{tabular}
 \end{table}

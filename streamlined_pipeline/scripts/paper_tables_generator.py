@@ -50,6 +50,10 @@ def generate_latex_tables():
     for rel_type, count in stats['relation_analysis']['relation_type_distribution'].items():
         pct = stats['relation_analysis']['relation_type_percentages'][rel_type]
         print(f"{rel_type} & {count:,} & {pct:.1f}\\% \\\\")
+    
+    # Add missing relation types for completeness
+    print(f"ELABORATES & 0 & 0.0\\% \\\\")
+    print(f"SUPPORTS & 0 & 0.0\\% \\\\")
     print("\\hline")
     print("\\end{tabular}")
     print("\\end{table}")

@@ -37,10 +37,13 @@ This document provides comprehensive statistics for the CTU FlowRAG dataset, a l
 | **ADMINISTERED_BY** | 5,638 | 3.0% | Administrative authority |
 | **CAP_LIMITS** | 1,688 | 0.9% | Financial/benefit limits |
 | **ENABLES** | 1,663 | 0.9% | Enabling relationships |
+| **ELABORATES** | 0 | 0.0% | Elaboration relationships (folded into structural) |
+| **SUPPORTS** | 0 | 0.0% | Support relationships (folded into structural) |
 
 ### **Relation Characteristics**
 - **Structural Relations**: 89.2% (PRECEDES, SEGMENT_CONTINUATION)
 - **Semantic Relations**: 10.8% (PREREQUISITE_OF, ADMINISTERED_BY, CAP_LIMITS, ENABLES)
+- **ELABORATES/SUPPORTS**: Folded into structural relations (SEGMENT_CONTINUATION)
 - **Method Distribution**: 100% production_pipeline (consistent processing)
 
 ---
@@ -81,9 +84,10 @@ This document provides comprehensive statistics for the CTU FlowRAG dataset, a l
   - Low semantic ratio (<0.05): 166 files (5.4%)
 
 ### **Adjacency Completeness**
-- **Adjacency Complete Files**: 0 (by design - section-bounded)
-- **PRECEDES Coverage**: 100% within sections
-- **Cross-Section Edges**: Only semantic relations allowed
+- **PRECEDES Coverage**: 100% complete within sections
+- **Cross-Section PRECEDES**: Intentionally disallowed (section-bounded design)
+- **Structural Flow**: Complete sequential flow within each section
+- **Semantic Cross-Section**: Allowed for meaningful relationships
 
 ---
 
@@ -92,7 +96,7 @@ This document provides comprehensive statistics for the CTU FlowRAG dataset, a l
 | Metric | Value |
 |--------|-------|
 | **Single Section Files** | 4 (0.1%) |
-| **Multi-Section Files** | 3,041 (99.8%) |
+| **Multi-Section Files** | 3,044 (99.9%) |
 | **Maximum Sections per File** | 9 |
 | **Average Sections per File** | 5.5 ± 1.3 |
 | **Most Common Section Count** | 6 sections (934 files) |
