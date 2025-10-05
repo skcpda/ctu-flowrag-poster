@@ -320,11 +320,27 @@ def main():
     parser = argparse.ArgumentParser(description='Train RCR-GAT model')
     parser.add_argument('--config', type=str, required=True, help='Path to config file')
     parser.add_argument('--doc_index', type=str, required=True, help='Path to document index file')
+    parser.add_argument('--val_index', type=str, help='Path to validation document index file')
     parser.add_argument('--tensor_dir', type=str, required=True, help='Path to tensor directory')
-    parser.add_argument('--output_dir', type=str, default='logs', help='Output directory')
+    parser.add_argument('--save_dir', type=str, default='ckpts', help='Checkpoint save directory')
     parser.add_argument('--device', type=str, default='auto', help='Device to use')
+    parser.add_argument('--epochs', type=int, default=30, help='Number of training epochs')
+    parser.add_argument('--amp', action='store_true', help='Use automatic mixed precision')
+    parser.add_argument('--grad_accum', type=int, default=1, help='Gradient accumulation steps')
+    parser.add_argument('--ddp', action='store_true', help='Use distributed data parallel')
+    parser.add_argument('--save_minutes', type=int, default=15, help='Save checkpoint every N minutes')
+    parser.add_argument('--early_stop', type=int, default=5, help='Early stopping patience')
+    parser.add_argument('--resume', type=str, help='Resume from checkpoint')
+    parser.add_argument('--seed', type=int, default=17, help='Random seed')
     
     args = parser.parse_args()
+    
+    # Set random seed
+    torch.manual_seed(args.seed)
+    np.random.seed(args.seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed(args.seed)
+        torch.cuda.manual_seed_all(args.seed)
     
     # Setup logging
     logging.basicConfig(level=logging.INFO)
@@ -364,10 +380,19 @@ def main():
     dataloader = create_dataloader(tensor_pack, all_path_pairs, device=device)
     
     # Train
-    history = trainer.train(dataloader, save_dir=args.output_dir)
+    history = trainer.train(
+        dataloader, 
+        save_dir=args.save_dir,
+        epochs=args.epochs,
+        use_amp=args.amp,
+        grad_accum_steps=args.grad_accum,
+        save_minutes=args.save_minutes,
+        early_stop_patience=args.early_stop,
+        resume_path=args.resume
+    )
     
     # Save training history
-    with open(Path(args.output_dir) / "training_history.json", 'w') as f:
+    with open(Path(args.save_dir) / "training_history.json", 'w') as f:
         json.dump(history, f, indent=2)
     
     logger.info("Training completed!")
