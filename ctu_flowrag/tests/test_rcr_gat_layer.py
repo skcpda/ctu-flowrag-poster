@@ -216,9 +216,16 @@ class TestRCRGATLayer(unittest.TestCase):
         )
         
         # Attention weights should be different due to type biases
+        # PREREQUISITE_OF has higher prior (1.25) than PRECEDES (1.0)
         self.assertNotEqual(
             attention_weights1["PRECEDES"][0].item(),
             attention_weights2["PREREQUISITE_OF"][0].item()
+        )
+        
+        # PREREQUISITE_OF should have higher attention due to higher prior
+        self.assertGreater(
+            attention_weights2["PREREQUISITE_OF"][0].item(),
+            attention_weights1["PRECEDES"][0].item()
         )
 
 class TestRCRGAT(unittest.TestCase):

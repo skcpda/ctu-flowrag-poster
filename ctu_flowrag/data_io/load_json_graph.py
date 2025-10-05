@@ -107,23 +107,55 @@ def load_json_graph(json_path: str) -> Dict[str, Any]:
             edges_by_type[edge_type] = []
         edges_by_type[edge_type].append(edge)
     
-    # Validate out-degree constraints
+    # Enforce out-degree constraints (keep highest confidence edges)
     out_degree = {}
-    for edge_type, edges in edges_by_type.items():
-        for edge in edges:
-            src = edge['src']
-            out_degree[src] = out_degree.get(src, 0) + 1
-            if out_degree[src] > 2:
-                logger.warning(f"Node {src} has out-degree {out_degree[src]} > 2")
+    edges_to_remove = []
     
-    # Validate edge deduplication
-    edge_set = set()
+    for edge_type, edges in edges_by_type.items():
+        # Group edges by source
+        src_edges = {}
+        for i, edge in enumerate(edges):
+            src = edge['src']
+            if src not in src_edges:
+                src_edges[src] = []
+            src_edges[src].append((i, edge))
+        
+        # For each source with >2 edges, keep only top 2 by confidence
+        for src, edge_list in src_edges.items():
+            if len(edge_list) > 2:
+                # Sort by confidence (descending) and keep top 2
+                edge_list.sort(key=lambda x: x[1]['conf_cal'], reverse=True)
+                for i, (edge_idx, edge) in enumerate(edge_list[2:], start=2):
+                    edges_to_remove.append((edge_type, edge_idx))
+                    logger.warning(f"Removing edge {src}->{edge['dst']} (out-degree > 2, conf: {edge['conf_cal']:.3f})")
+    
+    # Remove excess edges
+    for edge_type, edge_idx in sorted(edges_to_remove, key=lambda x: x[1], reverse=True):
+        edges_by_type[edge_type].pop(edge_idx)
+    
+    # Handle edge deduplication (keep highest confidence)
+    edge_groups = {}
     for edge_type, edges in edges_by_type.items():
         for edge in edges:
             edge_key = (edge['src'], edge['dst'], edge_type)
-            if edge_key in edge_set:
-                logger.warning(f"Duplicate edge: {edge_key}")
-            edge_set.add(edge_key)
+            if edge_key not in edge_groups:
+                edge_groups[edge_key] = []
+            edge_groups[edge_key].append(edge)
+    
+    # Rebuild edges_by_type with deduplicated edges
+    edges_by_type = {}
+    for edge_key, edge_list in edge_groups.items():
+        if len(edge_list) > 1:
+            # Keep highest confidence edge
+            best_edge = max(edge_list, key=lambda x: x['conf_cal'])
+            logger.warning(f"Duplicate edge {edge_key}, keeping highest confidence: {best_edge['conf_cal']:.3f}")
+        else:
+            best_edge = edge_list[0]
+        
+        edge_type = edge_key[2]
+        if edge_type not in edges_by_type:
+            edges_by_type[edge_type] = []
+        edges_by_type[edge_type].append(best_edge)
     
     result = {
         'metadata': {

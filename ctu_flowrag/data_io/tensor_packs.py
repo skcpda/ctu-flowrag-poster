@@ -170,8 +170,8 @@ def build_tensor_pack(graph_data: Dict[str, Any],
             compat = 1.0 if is_compatible(src_role, edge_type, dst_role) else 0.0
             compatibilities.append(compat)
             
-            # Compute distance penalty
-            distance = distance_lambda * edge['delta_sent']
+            # Store raw distance (lambda will be applied in model)
+            distance = edge['delta_sent']
             distances.append(distance)
         
         # Create edge index tensor

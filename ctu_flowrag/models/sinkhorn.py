@@ -134,7 +134,7 @@ class UnbalancedSinkhorn(nn.Module):
             log_v_new = self.beta * (torch.log(rho + self.eps) - log_KTu)
             
             # Update
-            log_u = log_v_new
+            log_u = log_u_new
             log_v = log_v_new
             
             # Check convergence

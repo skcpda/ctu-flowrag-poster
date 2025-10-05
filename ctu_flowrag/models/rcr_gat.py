@@ -68,10 +68,11 @@ class RCRGATLayer(nn.Module):
                 'W_v': nn.Linear(input_dim, hidden_dim, bias=False)
             })
         
-        # Learnable type biases
+        # Learnable type biases (initialized with priors)
         self.type_biases = nn.ParameterDict()
         for edge_type in edge_types:
-            self.type_biases[edge_type] = nn.Parameter(torch.zeros(1))
+            prior = edge_weight_priors.get(edge_type, 1.0)
+            self.type_biases[edge_type] = nn.Parameter(torch.tensor([math.log(prior)]))
         
         # Residual connection
         self.W0 = nn.Linear(input_dim, hidden_dim)
@@ -189,7 +190,7 @@ class RCRGATLayer(nn.Module):
                         src_indices: torch.Tensor, 
                         num_nodes: int) -> torch.Tensor:
         """
-        Compute per-source softmax (segment softmax).
+        Compute per-source softmax (segment softmax) using scatter operations.
         
         Args:
             scores: Attention scores [E]
@@ -199,16 +200,16 @@ class RCRGATLayer(nn.Module):
         Returns:
             Softmax weights [E]
         """
-        # Create a mask for each source node
-        src_mask = torch.zeros(num_nodes, scores.size(0), device=scores.device)
-        src_mask[src_indices, torch.arange(scores.size(0), device=scores.device)] = 1
+        # Find max score per source using scatter_max
+        max_scores = torch.zeros(num_nodes, device=scores.device)
+        max_scores.scatter_reduce_(0, src_indices, scores, reduce='max', include_self=False)
         
-        # Compute softmax for each source
-        max_scores = torch.max(scores.unsqueeze(0) * src_mask, dim=1)[0]  # [N]
+        # Compute exp scores (stable)
         exp_scores = torch.exp(scores - max_scores[src_indices])  # [E]
         
-        # Sum exp scores for each source
-        sum_exp = torch.sum(exp_scores.unsqueeze(0) * src_mask, dim=1)  # [N]
+        # Sum exp scores per source using scatter_add
+        sum_exp = torch.zeros(num_nodes, device=scores.device)
+        sum_exp.scatter_add_(0, src_indices, exp_scores)
         
         # Normalize
         softmax_weights = exp_scores / (sum_exp[src_indices] + 1e-8)  # [E]
