@@ -1,125 +1,99 @@
-# CTU FlowRAG - Git Ignore File
-
-# ===========================================
-# LARGE DATA DIRECTORIES (Exclude from Git)
-# ===========================================
-
-# Legacy organized output directories
-organized_output/outputs/ctu_embedding_labeled/
-organized_output/outputs/ctu_relations_filtered/
-organized_output/outputs/gpt_descriptions_fixed/
-organized_output/outputs/ctu_relations_v3_fixed_all/
-organized_output/outputs/ctu_relations_quality_fixed_v2/
-organized_output/outputs/ctu_relations_quality_fixed_v3_focused/
-organized_output/outputs/ctu_relations_quality_fixed_v4/
-organized_output/outputs/ctu_relations_quality_fixed_v5/
-organized_output/outputs/ctu_relations_quality_fixed_v5_aggressive/
-organized_output/outputs/ctu_relations_quality_fixed_v5_deterministic/
-organized_output/outputs/ctu_relations_quality_fixed_v5_final/
-organized_output/outputs/ctu_relations_quality_fixed_v5_final_semantic/
-organized_output/outputs/ctu_relations_quality_fixed_v5_final_semantic_refined/
-organized_output/outputs/ctu_relations_quality_fixed_v5_final_semantic_upgraded/
-organized_output/outputs/ctu_relations_quality_fixed_v5_from_v4/
-organized_output/outputs/ctu_relations_quality_fixed_v5_reinflated/
-organized_output/outputs/ctu_relations_quality_fixed_v5_semantic/
-
-# Streamlined pipeline output data
-streamlined_pipeline/output_data/
-streamlined_pipeline/input_data/scheme_descriptions/
-
-# ===========================================
-# MODEL FILES (Too Large for Git)
-# ===========================================
-fine_tuned_bge_ctu_relations/
-streamlined_pipeline/config/fine_tuned_bge_ctu_relations/
-*.safetensors
-*.bin
-*.pt
-*.pth
-*.model
-*.ckpt
-
-# ===========================================
-# LARGE JSON FILES (Relations Data)
-# ===========================================
-*_relations.json
-*_relations_filtered.json
-*_relations_v3_fixed.json
-*_ctus_production_ready.json
-*_ctus_tagged.json
-*_ctus.json
-detailed_graph_analysis.json
-final_pipeline_report.json
-
-# ===========================================
-# LOGS AND TEMPORARY FILES
-# ===========================================
-logs/
-*.log
-*.tmp
-*.temp
-progress.json
-final_summary.json
-filtered_summary.json
-v3_fixed_summary.json
-minimal_semantic_enhancement_summary.json
-
-# ===========================================
-# PYTHON ENVIRONMENT
-# ===========================================
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
+*.py[cod]
+*$py.class
 *.so
-venv/
-env/
-ENV/
-.venv/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
-# ===========================================
-# IDE AND EDITOR FILES
-# ===========================================
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+
+# OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# ===========================================
-# BACKUP AND TEMPORARY FILES
-# ===========================================
-*.bak
-*.backup
-*.orig
-.ipynb_checkpoints/
+# Project specific
+logs/
+data/
+tensor_packs/
+visualizations/
+demo_results/
+eval_results/
+attention_results/
+*.pt
+*.pth
+*.json
+*.csv
+*.png
+*.html
 
-# ===========================================
-# EMBEDDING AND NUMPY FILES
-# ===========================================
-*.emb
-*.npy
-*.npz
-*.pkl
-*.pickle
-
-# ===========================================
-# CONFIGURATION FILES WITH SENSITIVE DATA
-# ===========================================
-config.json
-secrets.json
-.env
-.env.local
-
-# ===========================================
-# KEEP IN GIT (Essential Files Only)
-# ===========================================
-# ✅ Scripts and code
-# ✅ Configuration files (without sensitive data)
-# ✅ Documentation (README.md, etc.)
-# ✅ Small sample data files for testing
-# ✅ Requirements.txt
-# ✅ Pipeline structure and organization
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/

@@ -1,0 +1,20 @@
+seed: 17
+tau: 0.5              # temperature
+alpha: 0.5            # row relaxation
+beta: 0.5             # col relaxation
+iters: 30
+capacities: 
+  ContextObjective: 2
+  BenefitsAssistance: 3
+  Eligibility: 2
+  ApplicationProcess: 3
+  TimelineFrequency: 1
+  AuthoritiesGovernance: 1
+  DefinitionsReferences: 1
+col_cap: 1.0
+score_weights: 
+  w_query: 1.0
+  w_role: 0.6
+  w_sal: 0.2
+  w_coh: 0.2
+

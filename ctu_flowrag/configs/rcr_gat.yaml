@@ -1,0 +1,34 @@
+seed: 17
+device: auto
+model:
+  text_dim: 384         # change to 768/1024 if needed
+  hidden_dim: 384
+  num_layers: 2
+  dropout: 0.15
+  role_compat_gamma: 0.5
+  distance_penalty_lambda: 0.12
+  use_calibrated_conf: true
+  beta_conf: 1.0
+  edge_types: ["PRECEDES","SEGMENT_CONTINUATION","PREREQUISITE_OF","ENABLES","CAP_LIMITS","RATE_SPEC","ADMINISTERED_BY","TIMELINE_FOR"]
+  edge_weights: 
+    PRECEDES: 1.0
+    SEGMENT_CONTINUATION: 1.05
+    PREREQUISITE_OF: 1.25
+    ENABLES: 1.25
+    CAP_LIMITS: 1.2
+    RATE_SPEC: 1.2
+    ADMINISTERED_BY: 1.2
+    TIMELINE_FOR: 1.2
+roles: ["ContextObjective","BenefitsAssistance","Eligibility","ApplicationProcess","TimelineFrequency","AuthoritiesGovernance","DefinitionsReferences"]
+train:
+  lr: 2.0e-4
+  weight_decay: 1.0e-5
+  batch_docs: 1        # per step (graph-per-doc)
+  epochs: 30
+  grad_clip: 1.0
+  early_stop_patience: 5
+  loss: path_pair_margin
+paths:
+  data_dir: path/to/production_json  # folder with JSONs
+  tensor_dir: path/to/tensor_packs
+
