@@ -92,6 +92,13 @@ attention_results/
 *.png
 *.html
 
+# Large model files
+*.safetensors
+*.bin
+*.h5
+*.pkl
+*.pickle
+
 # Temporary files
 *.tmp
 *.temp
