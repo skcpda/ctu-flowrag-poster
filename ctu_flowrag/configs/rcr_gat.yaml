@@ -5,10 +5,11 @@ model:
   hidden_dim: 384
   num_layers: 2
   dropout: 0.15
-  role_compat_gamma: 0.5
-  distance_penalty_lambda: 0.12
-  use_calibrated_conf: true
-  beta_conf: 1.0
+        role_compat_gamma: 0.5
+        distance_penalty_lambda: 0.12
+        use_calibrated_conf: true
+        beta_conf: 1.0
+        alpha_scale: 1.5
   edge_types: ["PRECEDES","SEGMENT_CONTINUATION","PREREQUISITE_OF","ENABLES","CAP_LIMITS","RATE_SPEC","ADMINISTERED_BY","TIMELINE_FOR"]
   edge_weights: 
     PRECEDES: 1.0

@@ -34,6 +34,7 @@ class RCRGATLayer(nn.Module):
                  beta_conf: float = 1.0,
                  gamma_compat: float = 0.5,
                  distance_lambda: float = 0.12,
+                 alpha_scale: float = 1.0,
                  dropout: float = 0.15):
         """
         Initialize RCR-GAT layer.
@@ -46,6 +47,7 @@ class RCRGATLayer(nn.Module):
             beta_conf: Confidence weight
             gamma_compat: Compatibility weight
             distance_lambda: Distance penalty weight
+            alpha_scale: Global scaling factor for type biases
             dropout: Dropout rate
         """
         super().__init__()
@@ -150,8 +152,8 @@ class RCRGATLayer(nn.Module):
             # Dot product attention
             dot_scores = torch.sum(q_src * k_dst, dim=1) / math.sqrt(self.hidden_dim)  # [E]
             
-            # Add type bias
-            alpha_t = self.type_biases[edge_type]
+            # Add type bias with scaling
+            alpha_t = self.type_biases[edge_type] * self.alpha_scale
             type_scores = dot_scores + alpha_t
             
             # Add confidence and compatibility priors
@@ -200,12 +202,15 @@ class RCRGATLayer(nn.Module):
         Returns:
             Softmax weights [E]
         """
-        # Find max score per source using scatter_max
-        max_scores = torch.zeros(num_nodes, device=scores.device)
-        max_scores.scatter_reduce_(0, src_indices, scores, reduce='max', include_self=False)
+        # Find max score per source using scatter_reduce for stability
+        max_per_src = torch.full((num_nodes,), -1e30, device=scores.device)
+        max_per_src.scatter_reduce_(0, src_indices, scores, reduce='amax', include_self=True)
         
-        # Compute exp scores (stable)
-        exp_scores = torch.exp(scores - max_scores[src_indices])  # [E]
+        # Stabilize by subtracting per-source max
+        stabilized = scores - max_per_src[src_indices]
+        
+        # Compute exp scores with clamping to prevent overflow
+        exp_scores = torch.exp(stabilized.clamp(min=-60, max=60))  # [E]
         
         # Sum exp scores per source using scatter_add
         sum_exp = torch.zeros(num_nodes, device=scores.device)
@@ -233,6 +238,7 @@ class RCRGAT(nn.Module):
                  beta_conf: float = 1.0,
                  gamma_compat: float = 0.5,
                  distance_lambda: float = 0.12,
+                 alpha_scale: float = 1.0,
                  dropout: float = 0.15):
         """
         Initialize RCR-GAT model.
@@ -246,6 +252,7 @@ class RCRGAT(nn.Module):
             beta_conf: Confidence weight
             gamma_compat: Compatibility weight
             distance_lambda: Distance penalty weight
+            alpha_scale: Global scaling factor for type biases
             dropout: Dropout rate
         """
         super().__init__()
@@ -258,6 +265,7 @@ class RCRGAT(nn.Module):
         self.beta_conf = beta_conf
         self.gamma_compat = gamma_compat
         self.distance_lambda = distance_lambda
+        self.alpha_scale = alpha_scale
         self.dropout = dropout
         
         # Input projection
@@ -274,6 +282,7 @@ class RCRGAT(nn.Module):
                 beta_conf=beta_conf,
                 gamma_compat=gamma_compat,
                 distance_lambda=distance_lambda,
+                alpha_scale=alpha_scale,
                 dropout=dropout
             ))
         

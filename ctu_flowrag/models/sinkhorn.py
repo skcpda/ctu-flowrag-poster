@@ -118,8 +118,8 @@ class UnbalancedSinkhorn(nn.Module):
         device = S.device
         R, N = S.size()
         
-        # Initialize in log-space
-        log_K = S / self.tau
+        # Initialize in log-space with clamping
+        log_K = (S / self.tau).clamp(min=-60, max=60)
         log_u = torch.zeros(R, device=device)
         log_v = torch.zeros(N, device=device)
         
@@ -133,14 +133,25 @@ class UnbalancedSinkhorn(nn.Module):
             log_KTu = torch.logsumexp(log_K.t() + log_u.unsqueeze(0), dim=1)
             log_v_new = self.beta * (torch.log(rho + self.eps) - log_KTu)
             
+            # Check convergence
+            if i > 0:
+                delta_u = (log_u_new - log_u).abs().mean()
+                delta_v = (log_v_new - log_v).abs().mean()
+                delta = delta_u + delta_v
+                
+                if torch.isnan(delta):
+                    raise RuntimeError("Sinkhorn diverged (NaN deltas)")
+                
+                if delta < self.eps:
+                    logger.debug(f"Sinkhorn converged after {i+1} iterations")
+                    break
+                    
+                if i % 5 == 0:
+                    logger.debug(f"Sinkhorn iteration {i+1}: delta={delta:.6f}")
+            
             # Update
             log_u = log_u_new
             log_v = log_v_new
-            
-            # Check convergence
-            if i > 0 and torch.max(torch.abs(log_u - log_u_prev)) < self.eps:
-                logger.debug(f"Sinkhorn converged after {i+1} iterations")
-                break
             
             log_u_prev = log_u.clone()
         

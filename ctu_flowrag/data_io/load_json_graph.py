@@ -95,7 +95,7 @@ def load_json_graph(json_path: str) -> Dict[str, Any]:
         edge = {
             'src': src_id,
             'dst': dst_id,
-            'conf_cal': relation.get('confidence_cal', relation.get('confidence', 0.0)),
+            'conf_cal': float(max(0.0, min(1.0, relation.get('confidence_cal', relation.get('confidence', 0.0))))),
             'conf_raw': relation.get('confidence', 0.0),
             'delta_sent': delta_sent,
             'same_section': src_node['section_id'] == dst_node['section_id'],

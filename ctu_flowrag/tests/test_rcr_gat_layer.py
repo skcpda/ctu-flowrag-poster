@@ -227,6 +227,55 @@ class TestRCRGATLayer(unittest.TestCase):
             attention_weights2["PREREQUISITE_OF"][0].item(),
             attention_weights1["PRECEDES"][0].item()
         )
+    
+    def test_confidence_only_attention(self):
+        """Test that higher confidence edges get higher attention."""
+        # Create two edges with same features except confidence
+        edge_pack = {
+            "edge_index": torch.tensor([[0, 0], [1, 2]], dtype=torch.long),
+            "conf": torch.tensor([0.3, 0.8], dtype=torch.float),  # Different confidences
+            "compat": torch.tensor([1.0, 1.0], dtype=torch.float),
+            "dist": torch.tensor([0.1, 0.1], dtype=torch.float)
+        }
+        
+        attention_weights = self.layer.get_attention_weights(
+            self.node_feats, 
+            {"PRECEDES": edge_pack}
+        )
+        
+        weights = attention_weights["PRECEDES"]
+        
+        # Higher confidence edge should have higher attention
+        self.assertGreater(weights[1].item(), weights[0].item())
+    
+    def test_exploding_scores_stability(self):
+        """Test softmax stability with extreme scores."""
+        # Create edges with very large positive and negative scores
+        edge_pack = {
+            "edge_index": torch.tensor([[0, 0, 0], [1, 2, 3]], dtype=torch.long),
+            "conf": torch.tensor([0.5, 0.5, 0.5], dtype=torch.float),
+            "compat": torch.tensor([1.0, 1.0, 1.0], dtype=torch.float),
+            "dist": torch.tensor([0.1, 0.1, 0.1], dtype=torch.float)
+        }
+        
+        # Manually set extreme attention scores
+        with torch.no_grad():
+            # Set very large scores to test stability
+            self.layer.type_biases["PRECEDES"].data.fill_(100.0)  # Very large bias
+        
+        attention_weights = self.layer.get_attention_weights(
+            self.node_feats, 
+            {"PRECEDES": edge_pack}
+        )
+        
+        weights = attention_weights["PRECEDES"]
+        
+        # Should not have NaN or inf values
+        self.assertFalse(torch.isnan(weights).any())
+        self.assertFalse(torch.isinf(weights).any())
+        
+        # Should sum to approximately 1 (per-source softmax)
+        self.assertAlmostEqual(weights.sum().item(), 1.0, places=5)
 
 class TestRCRGAT(unittest.TestCase):
     """Test complete RCR-GAT model."""
