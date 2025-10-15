@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=eval_paths
-#SBATCH --partition=short
+#SBATCH --partition=cpu-short
 #SBATCH --time=02:00:00
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8

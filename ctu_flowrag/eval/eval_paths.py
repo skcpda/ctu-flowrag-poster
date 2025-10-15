@@ -1,3 +1,4 @@
+from ..data_io.tensor_packs import TensorPack
 """
 Evaluation script for path ranking and retrieval.
 

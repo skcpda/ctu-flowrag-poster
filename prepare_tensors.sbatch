@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=tensors
-#SBATCH --partition=short
+#SBATCH --partition=cpu-short
 #SBATCH --time=04:00:00
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
@@ -22,6 +22,6 @@ python -m ctu_flowrag.scripts.prepare_tensors \
   --tensor_dir ./tensors_dev \
   --embed_model e5-small \
   --text_dim 384 \
-  --enforce_policies
+  
 
 echo "Tensor preparation completed at $(date)"

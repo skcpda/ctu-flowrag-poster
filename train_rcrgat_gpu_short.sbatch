@@ -15,6 +15,9 @@ conda activate ctu_flowrag
 export TORCH_ENABLE_CUDA_KERNEL_LAUNCH_BLOCKING=0
 export CUBLAS_WORKSPACE_CONFIG=:4096:8     # determinism
 export PYTHONUNBUFFERED=1
+export OPENBLAS_NUM_THREADS=1
+export MKL_NUM_THREADS=1
+export OMP_NUM_THREADS=1
 
 mkdir -p logs ckpts
 
