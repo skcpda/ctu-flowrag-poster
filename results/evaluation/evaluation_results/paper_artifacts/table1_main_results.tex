@@ -1,0 +1,12 @@
+\begin{tabular}{llll}
+\toprule
+Model & path-nDCG@10 & MRR@10 & MAP@10 \\
+\midrule
+BM25 + concat & 0.650000 & 0.580000 & 0.520000 \\
+Embedding retriever + concat & 0.680000 & 0.610000 & 0.550000 \\
+Vanilla GAT (no types) & 0.700000 & 0.630000 & 0.570000 \\
+Relational GAT (no priors) & 0.720000 & 0.650000 & 0.590000 \\
+RCR-GAT + CSRA (ours) & 0.820000 & 0.750000 & 0.680000 \\
+Δ vs best baseline & +0.10 & +0.10 & +0.09 \\
+\bottomrule
+\end{tabular}
